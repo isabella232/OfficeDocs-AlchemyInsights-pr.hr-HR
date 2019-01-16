@@ -1,0 +1,2 @@
+## <a name="microsoft-open-source-code-of-conduct"></a>Otvorite Microsoft izvorna ponašanja
+Ovaj projekt ima prihvatile [Microsoft Otvori izvor ponašanja](https://opensource.microsoft.com/codeofconduct/). Za dodatne informacije pogledajte [Šifru od provedbe najčešća pitanja vezana uz](https://opensource.microsoft.com/codeofconduct/faq/) ili kontaktirajte [opencode@microsoft.com](mailto:opencode@microsoft.com) s dodatnih pitanja ili komentare.
