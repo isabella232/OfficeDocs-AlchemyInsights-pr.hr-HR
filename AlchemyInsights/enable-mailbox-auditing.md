@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
 ms.openlocfilehash: bd94ec10f9df2e72ec6e3d8552d2eb80212a9d78
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279566"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500274"
 ---
 # <a name="enable-mailbox-auditing"></a>Omogući nadzor poštanskog sandučića
 
@@ -26,10 +26,10 @@ Da biste omogućili nadzor poštanskog sandučića za jednog korisnika ili cijel
   
 Skup-poštanski sandučić - identitet "Dow Ane" - AuditEnabled $true
   
- **Organization**
+ Organization
   
 Dohvati poštanski sandučić - ResultSize neograničen - filtriranje {RecipientTypeDetails - eq "UserMailbox"} | Skup poštanski sandučić - AuditEnabled $true
   
-[Dodatne informacije](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
+Dodatne informacije
   
 

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
 ms.openlocfilehash: 0a5fb7f1d3ee77051d81468369ddc58f4ae31db7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279842"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499914"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Provjerite postavke za poštanski sandučić za prosljeđivanje e-pošte
 
