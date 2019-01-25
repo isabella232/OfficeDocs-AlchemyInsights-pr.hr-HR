@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.openlocfilehash: 79106ca5562fa2d204da9dc7b470f07758f8da82
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28280356"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29462201"
 ---
-# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a><span data-ttu-id="458c1-102">Kako kupiti licence za pretplatu poslovne Office 365</span><span class="sxs-lookup"><span data-stu-id="458c1-102">How to buy licenses for your Office 365 business subscription</span></span>
+# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a><span data-ttu-id="f4e5f-102">Kako kupiti licence za pretplatu poslovne Office 365</span><span class="sxs-lookup"><span data-stu-id="f4e5f-102">How to buy licenses for your Office 365 business subscription</span></span>
 
-<span data-ttu-id="458c1-p101">Kada dodjeljujete Office 365 licence korisnicima, možda pronaći imati potrebu da kupite dodatne licence. Da biste to učinili:</span><span class="sxs-lookup"><span data-stu-id="458c1-p101">When assigning Office 365 licenses to your users, you may find you have the need to buy additional licenses. To do this:</span></span>
+<span data-ttu-id="f4e5f-p101">Kada dodjeljujete Office 365 licence korisnicima, možda pronaći imati potrebu da kupite dodatne licence. Da biste to učinili:</span><span class="sxs-lookup"><span data-stu-id="f4e5f-p101">When assigning Office 365 licenses to your users, you may find you have the need to buy additional licenses. To do this:</span></span>
   
-- <span data-ttu-id="458c1-105">U centru za administraciju sistema Office 365 idite na stranicu [pretplate]( https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.</span><span class="sxs-lookup"><span data-stu-id="458c1-105">In the Office 365 admin center, go to the [Subscriptions]( https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+- <span data-ttu-id="f4e5f-105">U centru za administraciju sistema Office 365 idite na stranicu [pretplate]( https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.</span><span class="sxs-lookup"><span data-stu-id="f4e5f-105">In the Office 365 admin center, go to the [Subscriptions]( https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-- <span data-ttu-id="458c1-106">Na stranici **pretplate** odaberite pretplate koje želite dodavati licence za i odaberite **Dodaj Ukloni licence**.</span><span class="sxs-lookup"><span data-stu-id="458c1-106">On the **Subscriptions** page, choose the subscription that you want to add licenses to and then choose **Add/Remove licenses**.</span></span>
+- <span data-ttu-id="f4e5f-106">Na stranici **pretplate** odaberite pretplate koje želite dodavati licence za i odaberite **Dodaj Ukloni licence**.</span><span class="sxs-lookup"><span data-stu-id="f4e5f-106">On the **Subscriptions** page, choose the subscription that you want to add licenses to and then choose **Add/Remove licenses**.</span></span>
     
-- <span data-ttu-id="458c1-p102">U okviru **Ukupni licence** unesite ukupan broj licence potrebne za ovu pretplatu i zatim odaberite **Pošalji** \> **Zatvori**. Na primjer, ako imate 100 licence i trebate dodati više 5, unesite 105.</span><span class="sxs-lookup"><span data-stu-id="458c1-p102">In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then choose **Submit** \> **Close**. For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
+- <span data-ttu-id="f4e5f-p102">U okviru **Ukupni licence** unesite ukupan broj licence potrebne za ovu pretplatu i zatim odaberite **Pošalji** \> **Zatvori**. Na primjer, ako imate 100 licence i trebate dodati više 5, unesite 105.</span><span class="sxs-lookup"><span data-stu-id="f4e5f-p102">In the **Total licenses** box, enter the total number of licenses that you need for this subscription and then choose **Submit** \> **Close**. For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
     
-<span data-ttu-id="458c1-109">Dodatne informacije: [Kupite licence za Office 365 za poslovne pretplatu](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)</span><span class="sxs-lookup"><span data-stu-id="458c1-109">For more information: [Buy licenses for your Office 365 for business subscription](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)</span></span>
+<span data-ttu-id="f4e5f-109">Dodatne informacije: [Kupite licence za Office 365 za poslovne pretplatu](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)</span><span class="sxs-lookup"><span data-stu-id="f4e5f-109">For more information: [Buy licenses for your Office 365 for business subscription](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)</span></span>
   
 

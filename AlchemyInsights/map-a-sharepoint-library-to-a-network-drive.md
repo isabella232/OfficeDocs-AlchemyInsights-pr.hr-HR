@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
 ms.openlocfilehash: 77bfb5b4e2fc323c56c9d759b7b97eac7b2670eb
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279721"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29462287"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="c2b13-102">Karta SharePoint biblioteku s mrežnim pogonom</span><span class="sxs-lookup"><span data-stu-id="c2b13-102">Map a SharePoint library to a network drive</span></span>
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="84edf-102">Karta SharePoint biblioteku s mrežnim pogonom</span><span class="sxs-lookup"><span data-stu-id="84edf-102">Map a SharePoint library to a network drive</span></span>
 
-<span data-ttu-id="c2b13-p101">Mapiranje biblioteku kao mrežni pogon je privremena i podržani samo putem preglednika Internet Explorer. Umjesto toga, [sinkronizirati datoteke SharePoint s novom klijentu sinkronizaciju OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) koji pruža [Datoteke na zahtjev](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Sve datoteke u OneDrive pristupiti bez korištenja lokalnog prostora.</span><span class="sxs-lookup"><span data-stu-id="c2b13-p101">Mapping a library as a network drive is temporary and supported only through Internet Explorer. Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Access all your files in OneDrive without using local storage space.</span></span>
+<span data-ttu-id="84edf-p101">Mapiranje biblioteku kao mrežni pogon je privremena i podržani samo putem preglednika Internet Explorer. Umjesto toga, [sinkronizirati datoteke SharePoint s novom klijentu sinkronizaciju OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) koji pruža [Datoteke na zahtjev](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Sve datoteke u OneDrive pristupiti bez korištenja lokalnog prostora.</span><span class="sxs-lookup"><span data-stu-id="84edf-p101">Mapping a library as a network drive is temporary and supported only through Internet Explorer. Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which provides [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Access all your files in OneDrive without using local storage space.</span></span>
   
-[<span data-ttu-id="c2b13-106">Dobivanje pomoći za konfiguriranje i otklanjanje poteškoća mapirani mrežni pogoni</span><span class="sxs-lookup"><span data-stu-id="c2b13-106">Get help configuring and troubleshooting mapped network drives</span></span>](https://go.microsoft.com/fwlink/?linkid=872946)
+[<span data-ttu-id="84edf-106">Dobivanje pomoći za konfiguriranje i otklanjanje poteškoća mapirani mrežni pogoni</span><span class="sxs-lookup"><span data-stu-id="84edf-106">Get help configuring and troubleshooting mapped network drives</span></span>](https://go.microsoft.com/fwlink/?linkid=872946)
   
 
