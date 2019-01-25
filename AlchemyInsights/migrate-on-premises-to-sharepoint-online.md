@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7ae8ff6d-db1b-403b-9707-6fe6da75be92
 ms.openlocfilehash: a92ea56d96db98c2ec508709afdfe2eda965d84a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28280750"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461885"
 ---
-# <a name="migrate-on-premises-to-sharepoint-online"></a><span data-ttu-id="13dd4-102">Online migrirati lokalno SharePoint</span><span class="sxs-lookup"><span data-stu-id="13dd4-102">Migrate On-premises to SharePoint Online</span></span>
+# <a name="migrate-on-premises-to-sharepoint-online"></a><span data-ttu-id="faf6c-102">Online migrirati lokalno SharePoint</span><span class="sxs-lookup"><span data-stu-id="faf6c-102">Migrate On-premises to SharePoint Online</span></span>
 
-<span data-ttu-id="13dd4-p101">Za migraciju iz SharePoint farme lokalno SharePoint Online možete koristiti alat za migraciju sustava SharePoint. Dodatne informacije o alatu potražite [Premjesti u SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2019574)</span><span class="sxs-lookup"><span data-stu-id="13dd4-p101">To migrate from an on-premises SharePoint Farm to SharePoint Online, you can use the SharePoint Migration Tool. For additional information about the tool, see [Migrate to SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2019574)</span></span>
+<span data-ttu-id="faf6c-p101">Za migraciju iz SharePoint farme lokalno SharePoint Online možete koristiti alat za migraciju sustava SharePoint. Dodatne informacije o alatu potražite [Premjesti u SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2019574)</span><span class="sxs-lookup"><span data-stu-id="faf6c-p101">To migrate from an on-premises SharePoint Farm to SharePoint Online, you can use the SharePoint Migration Tool. For additional information about the tool, see [Migrate to SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2019574)</span></span>
   
 
