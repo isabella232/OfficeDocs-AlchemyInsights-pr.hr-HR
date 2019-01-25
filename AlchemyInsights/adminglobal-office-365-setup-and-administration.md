@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.assetid: a4a66aa8-b9c5-488b-9da1-8290e700fcc5
 description: Počnite svoj članak s vrlo kratki uvod (1 rečenice). Sami staviti u čitač mjestu - Zašto oni su ovdje? Što treba im?
 ms.openlocfilehash: 07b0d97e3181e758677007380c4d4d6006e4f995
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279920"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461682"
 ---
 Počnite svoj članak s vrlo kratki uvod (1 rečenice). Sami staviti u čitač mjestu - Zašto oni su ovdje? Što treba im? 
   
