@@ -1,5 +1,5 @@
 ---
-title: Omogući arhiviranje poštanskog sandučića
+title: +Omogućavanje Arhivskog poštanskog sandučića
 ms.author: markjjo
 author: markjjo
 ms.date: 8/2/2018
@@ -9,13 +9,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
 ms.openlocfilehash: 1e883894d97e6aff5de740d91a80aba25846953a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28280068"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29461537"
 ---
-# <a name="enable-an-archive-mailbox"></a>Omogući arhiviranje poštanskog sandučića
+# <a name="enable-an-archive-mailbox"></a>+Omogućavanje Arhivskog poštanskog sandučića
 
 Arhiva poštanskim sandučićima u sustavu Office 365 (naziva se i *Online arhive* ) pružaju korisnicima s pohranu dodatnih e-pošte. Korisnicima možete premještati ili kopirati stavke sandučić arhiva i administratori možete stvoriti pravila arhiviranja koje automatski premješta stavke za arhiviranje poštanskim sandučićima. 
   
