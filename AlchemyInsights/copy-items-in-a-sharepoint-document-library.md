@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28280678"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29462305"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Kopiranje stavki u biblioteci dokumenata sustava SharePoint
 
@@ -35,6 +35,6 @@ ms.locfileid: "28280678"
 3. Kliknite **Kopiraj ovdje**.
     
 > [!NOTE]
->  Istovremeno možete kopirati do 500 MB datoteka i mapa. > Kada koristite **kopirati** s dokumente koji imaju povijest verzija, kopira se samo najnoviju verziju. 
+>  Istovremeno možete kopirati do 500 MB datoteka i mapa. kopira se > kada koristite **kopiju** s dokumente koji imaju povijest verzija, samo najnoviju verziju. 
   
 

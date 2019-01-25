@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 361f5405-ac43-46f6-b1b9-5d91f61617ec
 ms.openlocfilehash: d7832903ee1aae07871efc4f55eb1d8b58c0d780
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28279643"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29462229"
 ---
 # <a name="different-types-of-shared-calendars-and-how-to-set-them-up"></a>Različite vrste zajedničkih kalendara i kako ih postaviti
 
-- [Stvorite zajednički poštanski sandučić](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)
+- Stvaranje zajedničkog poštanskog sandučića
     
 - [Poštanski sandučići prostora i opreme](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b)
     
