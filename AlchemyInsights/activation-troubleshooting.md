@@ -2,44 +2,28 @@
 title: Otklanjanje poteškoća s aktivacijom
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Počnite svoj članak s vrlo kratki uvod (1 rečenice). Sami staviti u čitač mjestu - Zašto oni su ovdje? Što treba im?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498258"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646951"
 ---
-<span data-ttu-id="aafaf-p102">Počnite svoj članak s vrlo kratki uvod (1 rečenice). Sami staviti u čitač mjestu - Zašto oni su ovdje? Što treba im?</span><span class="sxs-lookup"><span data-stu-id="aafaf-p102">Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do?</span></span> 
-  
-1. <span data-ttu-id="aafaf-108">Dohvati ravne brzi popis koraka za obavljanje zadatka.</span><span class="sxs-lookup"><span data-stu-id="aafaf-108">Get straight to a quick list of steps to accomplish the task.</span></span>
-    
-    <span data-ttu-id="aafaf-109">Ako trebate objašnjavaju neki koncept ili imaju učinite unaprijed potreban korake, dodati brzi sažetak ispod korak gdje im trebaju, a [veza](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) koncept ili koraka.</span><span class="sxs-lookup"><span data-stu-id="aafaf-109">If you need to explain a concept, or they have to do pre-requisite steps, add a quick summary below the step where they need it, and [link](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) to the concept or steps.</span></span> 
-    
-2. <span data-ttu-id="aafaf-110">Zadrži procedure kratki - Četverostruko veći 5 ili manje korake, više od 8.</span><span class="sxs-lookup"><span data-stu-id="aafaf-110">Keep procedures short - preferably 5 or fewer steps, no more than 8.</span></span>
-    
-3. <span data-ttu-id="aafaf-111">Korištenje **stila korisničkog sučelja** za elemente korisničkog sučelja ili za tekst korisnici trebaju unijeti.</span><span class="sxs-lookup"><span data-stu-id="aafaf-111">Use **Ui style** for user interface elements or for text people need to enter.</span></span> 
-    
-4. <span data-ttu-id="aafaf-112">Korištenje glagole odaberite, odaberite, ili kao akcije unijeti i oblikovati izbornika kao **izbornik** \> **naredba**.</span><span class="sxs-lookup"><span data-stu-id="aafaf-112">Use the verbs choose, select, or enter as actions, and format menus as **Menu** \> **Command**.</span></span>
-    
-5. <span data-ttu-id="aafaf-113">Po želji dodajte Slika zaslona za kontekst (Ako korisničkog Sučelja je teško pronaći ili ga je potrebno dovršiti zadatak).</span><span class="sxs-lookup"><span data-stu-id="aafaf-113">Optionally, add a screenshot for context (if UI is hard to locate, or it's needed to complete the task).</span></span>
-    
-    <span data-ttu-id="aafaf-p103">Maksimalna širina: 520 piksela. Koristite standardne teme, ne Prikaži osobne informacije i obrezivanje Pokaži samo što je odgovarajući.</span><span class="sxs-lookup"><span data-stu-id="aafaf-p103">Maximum width: 520 pixels. Use a standard theme, do not show any personal information, and crop to show only what's relevant.</span></span> 
-    
-    ![Rezervirano mjesto - Maksimalna širina crteža PnP članak je 520 piksela](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-<span data-ttu-id="aafaf-117">Ako želite dodati video ili slika zaslona, koristite dva stupca rešetke i imati korake u lijevo i videozapisa ili slika u desno - pogledajte [korake i primjer video rešetke](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span><span class="sxs-lookup"><span data-stu-id="aafaf-117">If you want to add a video or screenshot, use a two-column grid and have the steps in the left and the video or screenshot in the right - see [Steps and video grid example](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span></span> 
-  
-<span data-ttu-id="aafaf-118">Ciljne više od 500 riječi za članak.</span><span class="sxs-lookup"><span data-stu-id="aafaf-118">Target no more than 500 words for an article.</span></span>
-  
-# <a name="example-article"></a><span data-ttu-id="aafaf-119">Primjer članka</span><span class="sxs-lookup"><span data-stu-id="aafaf-119">Example article</span></span>
+# <a name="activation-troubleshooting"></a><span data-ttu-id="f473e-102">Otklanjanje poteškoća s aktivacijom</span><span class="sxs-lookup"><span data-stu-id="f473e-102">Activation troubleshooting</span></span>
 
-[<span data-ttu-id="aafaf-120">Promijeni moje fotografija</span><span class="sxs-lookup"><span data-stu-id="aafaf-120">Change my photo</span></span>](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+<span data-ttu-id="f473e-p101">Na **Upravljačkoj ploči** \> **Programi i značajke**, pretraživanje za Office. Trebali biste vidjeti sustav Microsoft Office 365 ProPlus ili poslovne Microsoft Office 365. Ako vidite više verzija paketa Office navedene, deinstalirajte verziju ne koristite.</span><span class="sxs-lookup"><span data-stu-id="f473e-p101">In **Control Panel** \> **Programs and Features**, search for Office. You should see Microsoft Office 365 ProPlus or Microsoft Office 365 Business. If you see more than one version of Office listed, uninstall the version you aren't using.</span></span> 
   
-
+<span data-ttu-id="f473e-106">Ako ne možete deinstalirati uspješno pomoću upravljačke ploče, koristite [podršku i oporavak pomoćnika](https://aka.ms/SARA-OfficeUninstall-Alchemy) za deinstalaciju verzija ne koristite.</span><span class="sxs-lookup"><span data-stu-id="f473e-106">If you can't uninstall successfully using the Control Panel, use the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) to uninstall the version you aren't using.</span></span> 
+  
+<span data-ttu-id="f473e-p102">Ako je Office još uvijek nelicenciran Idi natrag na **Upravljačkoj ploči** \> **Programi i značajke**. Desnom tipkom miša kliknite preostale instaliraj Office, odaberite **Izmijeni** (ili promjena), a zatim odaberite **Online popravka**. Online popravak možda potrajati neko vrijeme. Zatim pokrenite Office i prijavite se koristeći svoj rad ili školu račun, ako upit.</span><span class="sxs-lookup"><span data-stu-id="f473e-p102">If Office is still unlicensed, go back to the **Control Panel** \> **Programs and Features**. Right-click the remaining Office install, select **Modify** (or Change), and then select **Online Repair**. The online repair might take awhile. Then, restart Office and sign in using your work or school account, if prompted.</span></span>
+  
+<span data-ttu-id="f473e-111">Ako je Office još uvijek nelicenciran preuzeti i pokrenuti [za otklanjanje poteškoća s aktivacijom](https://aka.ms/SARA-OfficeActivation-Alchemy) na utječe stroja Ispravite probleme aktivacije.</span><span class="sxs-lookup"><span data-stu-id="f473e-111">If Office is still unlicensed, download and then run the [Activation troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) on the affected machine to fix the activation issues.</span></span> 
+  
+<span data-ttu-id="f473e-112">Za dodatne informacije pogledajte: [nelicenciran proizvoda i aktivacija pogreške u Officeu](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span><span class="sxs-lookup"><span data-stu-id="f473e-112">For more information, see: [Unlicensed Product and activation errors in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span></span>
