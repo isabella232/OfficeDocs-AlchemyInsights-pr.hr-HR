@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
-ms.openlocfilehash: 6f52183b7f0096b52a9967743551613c1b4e29d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f9e2e4a6cd1ed23ff6a4471dd51f1f3705e86aea
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461755"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661059"
 ---
 # <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Rješavanje problema s DEP uvrštenje u Microsoft Intune
 
@@ -22,10 +22,10 @@ Pregledajte resurse dolje navedene da riješite problem.
   
 1. Ako DEP uređaj nije uspio uvrstili i MFA (višestruku provjeru autentičnosti) omogućena, onemogućite MFA. Trenutno MFA nije podržana za uvrštenje DEP
     
-2. Koristite [Intune Portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili uobičajene neuspjeha uvrštenje. Pregledajte [ovaj dokument](https://docs.microsoft.com/en-us/intune/help-desk-operators) za više detalja. 
+2. Koristite [Intune Portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili uobičajene neuspjeha uvrštenje. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune/help-desk-operators) za više detalja. 
     
-3. Pregledajte te dokumente za popis uobičajene pogreške koje sprječavaju uvrštenje i rješenja za svaki: [Vodič za otklanjanje poteškoća](https://support.microsoft.com/en-us/help/4039809/troubleshooting-ios-device-enrollment-in-intune) i [Otklanjanje poteškoća doc](https://docs.microsoft.com/en-us/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+3. Pregledajte te dokumente za popis uobičajene pogreške koje sprječavaju uvrštenje i rješenja za svaki: [Vodič za otklanjanje poteškoća](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) i [Otklanjanje poteškoća doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
     
-4. [Saznajte više o uređaju uvrštenje program](https://docs.microsoft.com/en-us/intune/device-enrollment-program-enroll-ios).
+4. [Saznajte više o uređaju uvrštenje program](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).
     
 

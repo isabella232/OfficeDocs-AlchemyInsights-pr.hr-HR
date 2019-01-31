@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 14c7b17a710137e156d6f8ac31d67701c9a86ac2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c7f0b2c14c32ceb24b64bdb06bef4d48cc2ad39c
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29462290"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661203"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kako se promijeniti iz kreditne kartice uplata za fakturu?
 
@@ -28,12 +28,9 @@ ms.locfileid: "29462290"
 2. Odaberite pretplate koje želite promijeniti. U odjeljku **način plaćanja** odaberite **Promijeni plaćanja pojedinosti**.
     
 3. U oknu **detalja promjena plaćanja** odaberite **Promijeni način plaćanja**.
-    
-    > [!TIP]
-    > Ako vezu **Promijeni način plaćanja** nije prikazan, to znači da prebacivanja iz kreditnih kartica ili bankovnih računa za fakturiranje nije dostupna za pretplatu jer pretplata ne zadovoljava minimalne trošak iznos za naplatu po fakturi. Iznos troška minimalne potrebne naplatiti fakture razlikuje zemljopisno mjesto. 
+<br>*Napomena: Ako vezu **Promijeni način plaćanja** nije prikazan, to znači da prebacivanja iz kreditnih kartica ili bankovnih računa za fakturiranje nije dostupna za pretplatu jer pretplata ne zadovoljava minimalne trošak iznos za naplatu po fakturi. Iznos troška minimalne potrebne naplatiti fakture razlikuje zemljopisno mjesto.*
   
 4. U u ** promijeniti način plaćanja ** dijaloški okvir, odaberite **Nastavi**.
     
 5. Odaberite **u redu** da biste se vratili centar za administraciju. 
-    
-
+   

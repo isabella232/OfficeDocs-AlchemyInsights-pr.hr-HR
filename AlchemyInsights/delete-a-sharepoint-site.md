@@ -2,51 +2,30 @@
 title: Brisanje mjesta sustava SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29462197"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660008"
 ---
 # <a name="delete-a-sharepoint-site"></a>Brisanje mjesta sustava SharePoint
-
- **Brisanje web-mjesta koji pripadaju grupi Office 365:**
+ **Brisanje web-mjesta centra za novi SharePoint admin**
   
-Kada korisnici stvorite novo web-mjesto tima od kuće SharePoint (ili stvorite novo web-mjesto tima iz nove pretpregled centar admin SharePoint), automatski se stvara odgovarajuće grupe za Office 365. Office 365 grupe povezani timska web-mjesta se stvaraju i kada kreirate grupu Office 365 ili timu u Microsoft Teams. Za brisanje SharePoint web-mjesto koje pripada grupi Office 365, morate izbrisati grupu Office 365 samu sebe. 
+Da biste izbrisali aktivno web-mjesto, idite na trenutni centar admin SharePoint, kliknite "Pokušajte ga sada" u gornjem desnom. Odaberite **aktivna web-mjesta**, odaberite web-mjesto i odaberite **Izbriši**. Za [Prikaz i vraćanja izbrisati web-mjesta u novi centar admin SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)odaberite **izbrisati web-mjesta**. Za dodatne informacije pogledajte [Upravljanje web-mjestima u novi centar za administraciju sustava SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. Idite na [stranicu grupe centra za administraciju sistema Office 365](https://portal.office.com/adminportal/home#/groups).
+**Važno:** Ako web-mjesto je dio pravila zadržavanja, možda nećete moći izbrisati dok web-mjesto uklonjeno iz u [Sigurnost &amp; centar Admin usklađenosti](https://protection.office.com/?rfr=AdminCenter#/homepage). Dodatne informacije potražite u odjeljku [Pregled pravila zadržavanja](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
   
-2. Odaberite potvrdni okvir pokraj grupe.
-  
-3. Odaberite **Izbriši**. 
-  
-Napomena: Kada Brisanje grupe može postojati Odgoda prije web-mjesto uklonjeno iz sustava SharePoint.
-  
- **Brisanje mjesta komunikacije ili Klasična web-mjesta:**
-  
-1. Idite na web-mjestu.
-  
-2. Kliknite na ** postavke ** (zupčanika kotačić ikona) u gornji desni kut. 
-  
-3. Kliknite **Postavke web-mjesta**. Pod **Informacije web-mjesta** ili **Akcije web-mjesta**, kliknite **Izbriši ovo web-mjesto**i kliknite **Izbriši**. 
-  
- **Brisanje zbirke web-mjesta SharePoint:**
-  
-Brisanje zbirke web-mjesta klasični:
-  
-1. Klasični center admin SharePoint, na stranici zbirke web-mjesta odaberite **potvrdni okvir** uz zbirke web-mjesta. 
-  
-2. Na karticu zbirki web-mjesta odaberite **izbrisati.**
-  
- **Nehotično izbrisati web-mjesto?**
-  
-Pogledajte [Vraćanje izbrisanih zbirke](https://go.microsoft.com/fwlink/?linkid=867660).
+Savjete:
+- Globalni administratori i administratori SharePoint sada možete izbrisati web-mjesta koja pripadaju **Grupi Office 365**. Ovo će izbrisati grupu i sve njegove resurse, uključujući poštanski sandučić programa Outlook i kalendar i bilo kojem timovi kanale. Za dodatne informacije pogledajte [Brisanje mjesta sustava SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Oporavi izbrisane mjesta 93 dana. Imajte na umu izbrisane grupe mora se povratiti unutar 30 dana. Za dodatne informacije pogledajte [Prikaz i vraćanja izbrisati web-mjesta](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Da biste potpuno uklonili web-mjesto Powershell pogledajte primjer cmdlet [Ukloni SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) . 
   
 
