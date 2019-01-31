@@ -2,51 +2,30 @@
 title: Brisanje mjesta sustava SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29462197"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660008"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="c10c4-102">Brisanje mjesta sustava SharePoint</span><span class="sxs-lookup"><span data-stu-id="c10c4-102">Delete a SharePoint site</span></span>
-
- <span data-ttu-id="c10c4-103">**Brisanje web-mjesta koji pripadaju grupi Office 365:**</span><span class="sxs-lookup"><span data-stu-id="c10c4-103">**Delete sites that belong to an Office 365 group:**</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="051b5-102">Brisanje mjesta sustava SharePoint</span><span class="sxs-lookup"><span data-stu-id="051b5-102">Delete a SharePoint site</span></span>
+ <span data-ttu-id="051b5-103">**Brisanje web-mjesta centra za novi SharePoint admin**</span><span class="sxs-lookup"><span data-stu-id="051b5-103">**Delete sites from the new SharePoint admin center**</span></span>
   
-<span data-ttu-id="c10c4-p101">Kada korisnici stvorite novo web-mjesto tima od kuće SharePoint (ili stvorite novo web-mjesto tima iz nove pretpregled centar admin SharePoint), automatski se stvara odgovarajuće grupe za Office 365. Office 365 grupe povezani timska web-mjesta se stvaraju i kada kreirate grupu Office 365 ili timu u Microsoft Teams. Za brisanje SharePoint web-mjesto koje pripada grupi Office 365, morate izbrisati grupu Office 365 samu sebe.</span><span class="sxs-lookup"><span data-stu-id="c10c4-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="051b5-p101">Da biste izbrisali aktivno web-mjesto, idite na trenutni centar admin SharePoint, kliknite "Pokušajte ga sada" u gornjem desnom. Odaberite **aktivna web-mjesta**, odaberite web-mjesto i odaberite **Izbriši**. Za [Prikaz i vraćanja izbrisati web-mjesta u novi centar admin SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)odaberite **izbrisati web-mjesta**. Za dodatne informacije pogledajte [Upravljanje web-mjestima u novi centar za administraciju sustava SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="051b5-p101">To delete an active site, go to the current SharePoint admin center, click "Try it now" in the upper right. Select **Active sites**, select the site, and then select **Delete**. To [view and restore deleted sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), select **Deleted sites**. For more info, see [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span></span>
   
-1. <span data-ttu-id="c10c4-107">Idite na [stranicu grupe centra za administraciju sistema Office 365](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="c10c4-107">Go to the [Groups page of the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+<span data-ttu-id="051b5-p102">**Važno:** Ako web-mjesto je dio pravila zadržavanja, možda nećete moći izbrisati dok web-mjesto uklonjeno iz u [Sigurnost &amp; centar Admin usklađenosti](https://protection.office.com/?rfr=AdminCenter#/homepage). Dodatne informacije potražite u odjeljku [Pregled pravila zadržavanja](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .</span><span class="sxs-lookup"><span data-stu-id="051b5-p102">**Important:** If the site is part of a retention policy, you may not be able to delete it until the site is removed from the [Security &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). See [Overview of Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) for more info.</span></span> 
   
-2. <span data-ttu-id="c10c4-108">Odaberite potvrdni okvir pokraj grupe.</span><span class="sxs-lookup"><span data-stu-id="c10c4-108">Select the check box next to the group.</span></span>
-  
-3. <span data-ttu-id="c10c4-109">Odaberite **Izbriši**.</span><span class="sxs-lookup"><span data-stu-id="c10c4-109">Select **Delete**.</span></span> 
-  
-<span data-ttu-id="c10c4-110">Napomena: Kada Brisanje grupe može postojati Odgoda prije web-mjesto uklonjeno iz sustava SharePoint.</span><span class="sxs-lookup"><span data-stu-id="c10c4-110">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
-  
- <span data-ttu-id="c10c4-111">**Brisanje mjesta komunikacije ili Klasična web-mjesta:**</span><span class="sxs-lookup"><span data-stu-id="c10c4-111">**Delete communication sites or classic sites:**</span></span>
-  
-1. <span data-ttu-id="c10c4-112">Idite na web-mjestu.</span><span class="sxs-lookup"><span data-stu-id="c10c4-112">Go to the site.</span></span>
-  
-2. <span data-ttu-id="c10c4-113">Kliknite na \*\* postavke \*\* (zupčanika kotačić ikona) u gornji desni kut.</span><span class="sxs-lookup"><span data-stu-id="c10c4-113">Click the \*\* Settings \*\* (gear wheel icon) in the upper right.</span></span> 
-  
-3. <span data-ttu-id="c10c4-p102">Kliknite **Postavke web-mjesta**. Pod **Informacije web-mjesta** ili **Akcije web-mjesta**, kliknite **Izbriši ovo web-mjesto**i kliknite **Izbriši**.</span><span class="sxs-lookup"><span data-stu-id="c10c4-p102">Click **Site settings**. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span> 
-  
- <span data-ttu-id="c10c4-116">**Brisanje zbirke web-mjesta SharePoint:**</span><span class="sxs-lookup"><span data-stu-id="c10c4-116">**Delete a SharePoint site collection:**</span></span>
-  
-<span data-ttu-id="c10c4-117">Brisanje zbirke web-mjesta klasični:</span><span class="sxs-lookup"><span data-stu-id="c10c4-117">To delete a classic site collection:</span></span>
-  
-1. <span data-ttu-id="c10c4-118">Klasični center admin SharePoint, na stranici zbirke web-mjesta odaberite **potvrdni okvir** uz zbirke web-mjesta.</span><span class="sxs-lookup"><span data-stu-id="c10c4-118">In the classic SharePoint admin center, on the site collections page, select the **check box** next to the site collection.</span></span> 
-  
-2. <span data-ttu-id="c10c4-119">Na karticu zbirki web-mjesta odaberite **izbrisati.**</span><span class="sxs-lookup"><span data-stu-id="c10c4-119">On the Site Collections tab, select **Delete.**</span></span>
-  
- <span data-ttu-id="c10c4-120">**Nehotično izbrisati web-mjesto?**</span><span class="sxs-lookup"><span data-stu-id="c10c4-120">**Deleted a site by accident?**</span></span>
-  
-<span data-ttu-id="c10c4-121">Pogledajte [Vraćanje izbrisanih zbirke](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="c10c4-121">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="051b5-110">Savjete:</span><span class="sxs-lookup"><span data-stu-id="051b5-110">Tips:</span></span>
+- <span data-ttu-id="051b5-p103">Globalni administratori i administratori SharePoint sada možete izbrisati web-mjesta koja pripadaju **Grupi Office 365**. Ovo će izbrisati grupu i sve njegove resurse, uključujući poštanski sandučić programa Outlook i kalendar i bilo kojem timovi kanale. Za dodatne informacije pogledajte [Brisanje mjesta sustava SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span><span class="sxs-lookup"><span data-stu-id="051b5-p103">Global admins and SharePoint admins can now delete sites that belong to an **Office 365 Group**. This will delete the group and all its resources, including the Outlook mailbox and calendar, and any Teams channels. For more info, see [Delete a SharePoint site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span></span>
+- <span data-ttu-id="051b5-p104">Oporavi izbrisane mjesta 93 dana. Imajte na umu izbrisane grupe mora se povratiti unutar 30 dana. Za dodatne informacije pogledajte [Prikaz i vraćanja izbrisati web-mjesta](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="051b5-p104">You can recover deleted sites for 93 days. Note that deleted groups must be restored within 30 days. For more info, see [View and restore deleted sites](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span></span>
+- <span data-ttu-id="051b5-117">Da biste potpuno uklonili web-mjesto Powershell pogledajte primjer cmdlet [Ukloni SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) .</span><span class="sxs-lookup"><span data-stu-id="051b5-117">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet example.</span></span> 
   
 
