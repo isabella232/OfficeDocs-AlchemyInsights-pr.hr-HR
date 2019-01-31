@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: b603f5347313b914d2b2a79ce585ca535d164e8d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e1b3df0aef535bb79531c12d80032ed85f084fb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461288"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657388"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Rješavanje problema s mogućnostima uvrštenje Microsoft Intune
 
 Pregledajte resurse dolje navedene da riješite problem. Ako pomoć ne tih resursa, obratite se podršci tako da kliknete [ovdje](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) i odabira "Stvaranje zahtjeva za podrškom." 
   
-- [Pregled Intune TechNet da biste pronašli odgovore i rješenja za uobičajene probleme](https://social.technet.microsoft.com/Forums/en-US/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Pregled Intune TechNet da biste pronašli odgovore i rješenja za uobičajene probleme](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- Koristite [Intune Portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili uobičajene neuspjeha uvrštenje. Pregledajte [ovaj dokument](https://docs.microsoft.com/en-us/intune/help-desk-operators) za više detalja. 
+- Koristite [Intune Portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili uobičajene neuspjeha uvrštenje. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune/help-desk-operators) za više detalja. 
     
-- Pregledajte [ovaj dokument](https://docs.microsoft.com/en-us/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) za popis uobičajene pogreške koje sprječavaju uvrštenje i rješenja za svaki. 
+- Pregledajte [ovaj dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) za popis uobičajene pogreške koje sprječavaju uvrštenje i rješenja za svaki. 
     
-- [Saznajte više o uvrštenje mogućnosti u Microsoft Intune](https://docs.microsoft.com/en-us/intune/enrollment-options).
+- [Saznajte više o uvrštenje mogućnosti u Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).
     
 

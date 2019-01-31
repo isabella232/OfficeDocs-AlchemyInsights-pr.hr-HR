@@ -3,24 +3,25 @@ title: Prijedlozi za rješavanje pogrešaka 'Nelicenciran proizvoda'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/4/2019
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: ab4b71da7d36496987ebea21c596b418dd81c3a5
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0d8a5a8fc32f794be3cebea33f5ced352d62b40
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461817"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29645439"
 ---
-"pogreške
-
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Prijedlozi za rješavanje ' nelicenciran proizvoda "pogreške
 
-Provjerite je li imati pretplatu koji omogućuje klijentskih licenci poslovne Office 365 ili poslovne Premium i [osigurali korisnik ima licenca dodeljena](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC). [Deaktiviraj instalaciju](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1) da biste provjerili ako Premašili ste broj instalira podržava pretplatu. 
+
+
+Provjerite je li imati pretplatu koji omogućuje klijentskih licenci poslovne Office 365 ili poslovne Premium i [osigurali korisnik ima licenca dodeljena](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Deaktiviraj instalaciju](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) da biste provjerili ako Premašili ste broj instalira podržava pretplatu. 
   
 Provjerite je li korisnik potpisivanja pomoću istog računa koji ima licenca dodeljena.
   
@@ -28,10 +29,10 @@ Pokrenite [aktivaciju za otklanjanje poteškoća](https://aka.ms/SARA-OfficeActi
   
 Provjera statusa pretplate istekao
   
-Provjerite [stranicu Office 365 servis stanja sustava](https://support.office.com/article/932AD3AD-533C-418A-B938-6E44E8BC33B0) da biste vidjeli ima li poznatih problema s uslugom. 
+Provjerite [stranicu Office 365 servis stanja sustava](https://docs.microsoft.com/office365/enterprise/view-service-health) da biste vidjeli ima li poznatih problema s uslugom. 
   
-[Izvođenje Online popravak Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+[Izvođenje Online popravak Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Za dodatna rješenja otklanjanja poteškoća, pogledajte: [nelicenciran proizvoda i aktivacija pogreške u Officeu](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Za dodatna rješenja otklanjanja poteškoća, pogledajte: [nelicenciran proizvoda i aktivacija pogreške u Officeu](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   
 

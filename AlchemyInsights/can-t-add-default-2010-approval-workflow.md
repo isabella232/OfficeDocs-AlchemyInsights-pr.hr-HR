@@ -2,43 +2,21 @@
 title: Nije moguće dodati zadani tijek rada za odobrenje 2010
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/28/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 758b0339b842478f9609eb716b5b4ddab6579c80
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b57f44c85fcd5d1d227b64baa99a9790c2112c51
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461343"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646127"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>Nije moguće dodati zadani tijek rada za odobrenje 2010
 
-U zbirke web-mjesta Microsoft SharePoint globalno ponovno iskoristiv tijek rada (na primjer "odobrenje - SharePoint 2010") ne može dodati na popis ili biblioteku.
+U zbirke web-mjesta Microsoft SharePoint globalno ponovno iskoristiv tijek rada (na primjer "odobrenje - SharePoint 2010") ne može dodati na popis ili biblioteku. Tijek rada za odobrenje možda nedostaju. Da biste riješili taj problem odnose se [ne može dodati globalno ponovno iskoristiv tijeka rada na SharePoint popis ili biblioteku](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library). 
   
-Da biste riješili taj problem, slijedite ove korake: 
-  
-1. Otvorite web-mjesto korijena zbirke web-mjesta SharePoint Designer 2013.
-  
-2. Pod **Objekti web-mjesta**odaberite **tijekova rada**. 
-  
-3. U sekciji **Novo** vrpce **tijekove rada** , odaberite **Tijek rada za ponovno iskoristiv**. 
-  
-4. **Stvaranje tijeka rada ponovno iskoristiv** obrascu unesite naziv * **Repair2010***. Za **Vrstu Platform**odaberite **Tijeka rada sustava SharePoint 2010**, a zatim odaberite **u redu**. 
-  
-5. U odjeljak **spremiti** vrpce **tijeka rada** odaberite **Objavi**. 
-  
-6. U odjeljku **Upravljanje** vrpce **tijeka rada** , odaberite **Objaviti globalno**. U dijaloškom okviru potvrda koja se pojavljuje odaberite **u redu**. 
-  
-7. U web-pregledniku, pronađite na web-mjestu korijena zbirke web-mjesta i pristup **Postavkama web-mjesta** \> **Značajke zbirke web-mjesta**. Zatim, Preklopi značajka **tijekova rada** : 
-  
-· Značajka je *aktivirano* , kliknite **Deaktiviraj,** a zatim kliknite **Aktiviraj**. 
-  
-· Značajka je *Deactivated* , kliknite **Aktiviraj**. 
-  
-Za dodatne informacije pogledajte sljedeći [članak](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
-  
-

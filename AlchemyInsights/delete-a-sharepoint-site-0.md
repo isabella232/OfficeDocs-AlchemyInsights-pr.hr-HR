@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29462042"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646375"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje web-mjesta koji pripadaju grupi Office 365:
 
@@ -30,7 +30,7 @@ Kada korisnici stvorite novo web-mjesto tima od kuće SharePoint (ili stvorite n
     
 Napomena: Kada Brisanje grupe može postojati Odgoda prije web-mjesto uklonjeno iz sustava SharePoint.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>Brisanje mjesta komunikacije ili Klasična web-mjesta:
+**Brisanje mjesta komunikacije ili Klasična web-mjesta:**
 
 1. Idite na web-mjestu.
   
@@ -38,7 +38,7 @@ Napomena: Kada Brisanje grupe može postojati Odgoda prije web-mjesto uklonjeno 
   
 3. Kliknite **Postavke web-mjesta**. Pod **Informacije web-mjesta** ili **Akcije web-mjesta**, kliknite **Izbriši ovo web-mjesto**i kliknite **Izbriši**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>Brisanje zbirke web-mjesta SharePoint:
+**Brisanje zbirke web-mjesta SharePoint:**
 
 Brisanje zbirke web-mjesta klasični:
   
@@ -46,7 +46,7 @@ Brisanje zbirke web-mjesta klasični:
     
 2. Na karticu zbirki web-mjesta odaberite **izbrisati.**
     
-## <a name="deleted-a-site-by-accident"></a>Nehotično izbrisati web-mjesto?
+**Nehotično izbrisati web-mjesto?**
 
 Pogledajte [Vraćanje izbrisanih zbirke](https://go.microsoft.com/fwlink/?linkid=867660).
   

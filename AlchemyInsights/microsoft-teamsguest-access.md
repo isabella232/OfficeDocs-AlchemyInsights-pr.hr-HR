@@ -2,23 +2,25 @@
 title: Timovi Microsoft - pristup gosta
 ms.author: heidip
 author: microsoftheidi
-ms.date: 8/7/2018
+ms.date: 1/18/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: edab4e7005a6ff9a208c48083aca5a9fa6fff619
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b045d5a94ed6f3b94527703a89673f41a8647005
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29461785"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655983"
 ---
 # <a name="microsoft-teams---guest-access"></a>Timovi Microsoft - pristup gosta
 
-Ako morate omogućiti ili konfigurirati uloga pristupa gosta u Microsoft Teams, imamo detaljno uputa za vas: [Kontrolni popis za pristup gosta](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist)
+
+Ako morate omogućiti ili konfigurirati uloga pristupa gosta u Microsoft Teams, imamo detaljno uputa za vas: [Kontrolni popis za pristup gosta](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
   
-Možda ćete morati pričekati do 24 sata za timove primijeniti promjene konfiguracije poduzeti.
+Možda ćete morati pričekati do 24 sata za timove konfiguracijske promjene stupile na snagu.
   
 
