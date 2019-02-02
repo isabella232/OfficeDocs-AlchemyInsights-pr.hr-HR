@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662922"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697122"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Potreban klijent nasuprotne H1, H2 ne radi
-Primjer teksta Blokiraj - slijedite ove upute:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Potrebna alkemiji zaglavlje H1, H2's ne rade.
+Najbolje prakse i smjernice za autorizaciju alkemiji:
 
+1. **Ugnijezditi alkemiji uvida u mapama**- će ovo prelomiti strukturu url. Možemo traženu u popravljanju to.
 1. Datoteke u mapi **AlchemyInsights** treba imati pravilo ID i naziv pravila s [portala alkemiji partnera](https://alchemyportal.azurewebsites.net) u naziv datoteke.
     1. Ex. ***976-How-to-enable-litigation-hold***
 1. Koristite metapodatke na vrhu ovu datoteku kao predložak. Ništa drugo nije potrebna.
@@ -35,7 +36,6 @@ Primjer teksta Blokiraj - slijedite ove upute:
 
 I to je zaista već je malo predugačak. Najbolje je o 400 znakova---
 
-Kada vaš sadržaj bude spremna, istaknuti ga uživo granu. Zatim idite na [portal alkemiji partnera](https://alchemyportal.azurewebsites.net) i unesite naziv datoteke u polje url. Provjerite uvid pregledavaju i objavljuju kaže "da", a zatim kliknite pravilo ažuriranja. (To će izgledati prettier u novu verziju portala - otpustite uskoro.)
-
-![URL polje](media/for-content-team.PNG)
+Kada vaš sadržaj bude spremna, istaknuti ga uživo granu. Zatim idite na [portal alkemiji partnera](https://alchemyportal.azurewebsites.net) i unesite naziv datoteke u polje url. Provjerite uvid pregledavaju i objavljuju kaže "da", a zatim kliknite pravilo ažuriranja. **(To će izgledati prettier u novu verziju portala - otpustite uskoro.)** 
+ ![url polje](media/for-content-team.PNG)
 
