@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ed51d0e206469fce2a14c914c5cb1eff2052317b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5911d57786dfc512eade1c74831d4260e85b8a1c
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29462183"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758084"
 ---
 # <a name="adding-external-users-to-a-distribution-group"></a>Dodavanje vanjskog korisnika na grupu raspodjele?
 
@@ -21,7 +21,7 @@ Dodavanje vanjskog kontakta za na raspodjele grupe (DG) je postupak korak 2:
   
 1. Stvaranje pošte kontaktu za vanjske korisnika:
     
-1. Kliknite [ovdje](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Contact) da biste otišli do stranice Uređivanje kontakta na administratorskom portalu. 
+1. Kliknite [ovdje](https://admin.microsoft.com/adminportal/home#/Contact) da biste otišli do stranice Uređivanje kontakta na administratorskom portalu. 
     
 2. Kliknite na **Dodaj kontakt**.
     
@@ -29,7 +29,7 @@ Dodavanje vanjskog kontakta za na raspodjele grupe (DG) je postupak korak 2:
     
 2. Dodavanje kontakta pošte vaše DG:
     
-1. Kliknite [ovdje](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/groups) da biste otišli do stranice grupe. 
+1. Kliknite [ovdje](https://admin.microsoft.com/adminportal/home#/groups) da biste otišli do stranice grupe. 
     
 2. Pronaći DG želite dodati vanjskog korisnika i kliknite da biste otvorili dijaloški okvir Uređivanje.
     
@@ -39,8 +39,8 @@ Dodavanje vanjskog kontakta za na raspodjele grupe (DG) je postupak korak 2:
     
 5. Odaberite kontakt pošte stvorena na prethodni korak i kliknite **Spremi**.
     
-Ako vanjski korisnici čak i nakon ovih koraka pošta nije moguće poslati na DG ili ne primate pošta iz nje, ona biti u DG označen samo iz internim korisnicima dopustiti pošta. Provjerite konfiguraciju i popravite slijedeći upute [ovdje](https://support.office.com/article/https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
+Ako vanjski korisnici čak i nakon ovih koraka pošta nije moguće poslati na DG ili ne primate pošta iz nje, ona biti u DG označen samo iz internim korisnicima dopustiti pošta. Provjerite konfiguraciju i popravite slijedeći upute [ovdje](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
   
- **Napomena:** Te se upute ne primijenite ako je vaša grupa Vrsta "Office 365 grupa" umjesto "Grupu raspodjele." Ako je to slučaj, možete dodati vanjskog korisnika izravno na grupe iz programa Outlook ili Outlook na webu. Detaljnije objašnjenje na O365 grupe Gosti i upute za dodavanje vanjskog Gosti mogu pronaći u [ovom članku](https://support.office.com/article/https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+ **Napomena:** Te se upute ne primijenite ako je vaša grupa Vrsta "Office 365 grupa" umjesto "Grupu raspodjele." Ako je to slučaj, možete dodati vanjskog korisnika izravno na grupe iz programa Outlook ili Outlook na webu. Detaljnije objašnjenje na O365 grupe Gosti i upute za dodavanje vanjskog Gosti mogu pronaći u [ovom članku](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   
 
