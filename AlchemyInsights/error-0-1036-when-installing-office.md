@@ -7,32 +7,32 @@ ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 723d3b86dc6ce74ed6134437ee51c5811dae4606
-ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
+ms.openlocfilehash: 6fe26f87c6108d25a28a5c55b31710d332b1ac79
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29646231"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29900496"
 ---
-# <a name="error-0-1036-when-installing-office"></a><span data-ttu-id="2a3dd-102">Pogreška 0-1036 pri instalaciji Officea</span><span class="sxs-lookup"><span data-stu-id="2a3dd-102">Error 0-1036 when installing office</span></span>
+# <a name="error-0-1036-when-installing-office"></a><span data-ttu-id="12a8d-102">Pogreška 0-1036 pri instalaciji Officea</span><span class="sxs-lookup"><span data-stu-id="12a8d-102">Error 0-1036 when installing office</span></span>
 
 
-<span data-ttu-id="2a3dd-103">Isprobajte navedena rješenja za popravak Office pogreška 0 1036:</span><span class="sxs-lookup"><span data-stu-id="2a3dd-103">Try these solutions to fix your Office error 0-1036:</span></span>
+<span data-ttu-id="12a8d-103">Isprobajte navedena rješenja za popravak Office pogreška 0 1036:</span><span class="sxs-lookup"><span data-stu-id="12a8d-103">Try these solutions to fix your Office error 0-1036:</span></span>
   
-- <span data-ttu-id="2a3dd-104">Ponovo pokrenite računalo i ponovno pokušajte [instalirati Office](https://portal.office.com/OLS/MySoftware.aspx) .</span><span class="sxs-lookup"><span data-stu-id="2a3dd-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx) again.</span></span> 
+- <span data-ttu-id="12a8d-104">Ponovo pokrenite računalo i ponovno pokušajte [instalirati Office](https://portal.office.com/OLS/MySoftware.aspx) .</span><span class="sxs-lookup"><span data-stu-id="12a8d-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx) again.</span></span> 
     
-- <span data-ttu-id="2a3dd-105">Preuzmite i instalirajte [podršku i oporavak pomoćnika](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2a3dd-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="12a8d-105">Preuzmite i instalirajte [podršku i oporavak pomoćnika](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="12a8d-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
     
-1. <span data-ttu-id="2a3dd-106">Kada se otvori, **deinstalirajte Office proizvoda** odaberite verziju želite deinstalirati i odaberite **Dalje**.</span><span class="sxs-lookup"><span data-stu-id="2a3dd-106">When it opens, from **Uninstall Office products** select the version you want to uninstall, and select **Next**.</span></span>
+1. <span data-ttu-id="12a8d-106">Kada se otvori, **deinstalirajte Office proizvoda** odaberite verziju želite deinstalirati i odaberite **Dalje**.</span><span class="sxs-lookup"><span data-stu-id="12a8d-106">When it opens, from **Uninstall Office products** select the version you want to uninstall, and select **Next**.</span></span>
     
-2. <span data-ttu-id="2a3dd-107">Nastavite prolaska kroz zaslone i ponovo pokrenite računalo kada se to od vas zatraži.</span><span class="sxs-lookup"><span data-stu-id="2a3dd-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="12a8d-107">Nastavite prolaska kroz zaslone i ponovo pokrenite računalo kada se to od vas zatraži.</span><span class="sxs-lookup"><span data-stu-id="12a8d-107">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="2a3dd-108">Nakon ponovnog pokretanja, podrške i oporavak pomoćnika automatski ponovno otvara da biste dovršili proces deinstalacije.</span><span class="sxs-lookup"><span data-stu-id="2a3dd-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="12a8d-108">Nakon ponovnog pokretanja, podrške i oporavak pomoćnika automatski ponovno otvara da biste dovršili proces deinstalacije.</span><span class="sxs-lookup"><span data-stu-id="12a8d-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="2a3dd-109">Slijedite preostale upute i [ponovo instalirajte Office](https://portal.office.com/OLS/MySoftware.aspx) ili zatvorite pomoćnika.</span><span class="sxs-lookup"><span data-stu-id="2a3dd-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
+3. <span data-ttu-id="12a8d-109">Slijedite preostale upute i [ponovo instalirajte Office](https://portal.office.com/OLS/MySoftware.aspx) ili zatvorite pomoćnika.</span><span class="sxs-lookup"><span data-stu-id="12a8d-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
     
-- <span data-ttu-id="2a3dd-110">[Koristite izvanmrežne instalacijski program sustava Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) da biste instalirali Office</span><span class="sxs-lookup"><span data-stu-id="2a3dd-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span> 
+- <span data-ttu-id="12a8d-110">[Koristite izvanmrežne instalacijski program sustava Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) da biste instalirali Office</span><span class="sxs-lookup"><span data-stu-id="12a8d-110">[Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) to install Office</span></span> 
     
 
