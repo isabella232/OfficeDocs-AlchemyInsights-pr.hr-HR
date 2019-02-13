@@ -7,21 +7,21 @@ ms.date: 3/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 5943ac36-e093-4813-95c9-f9d9b35f2b32
-ms.openlocfilehash: 8f10ab9dcb8ae637a94d264a13dbed78cdf85a1c
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 52e23cc5b5b58d4e0d6007ceff5d00df3a5e8895
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29655371"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29901792"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a><span data-ttu-id="c1ea8-102">Pristup javnoj mapi iz mobilnih uređaja</span><span class="sxs-lookup"><span data-stu-id="c1ea8-102">Public folder access from mobile devices</span></span>
+# <a name="public-folder-access-from-mobile-devices"></a><span data-ttu-id="f8a7b-102">Pristup javnoj mapi iz mobilnih uređaja</span><span class="sxs-lookup"><span data-stu-id="f8a7b-102">Public folder access from mobile devices</span></span>
 
-<span data-ttu-id="c1ea8-103">Javne mape su dostupne iz mobilnih uređaja.</span><span class="sxs-lookup"><span data-stu-id="c1ea8-103">Public folders are not accessible from mobile devices.</span></span>
+<span data-ttu-id="f8a7b-103">Javne mape su dostupne iz mobilnih uređaja.</span><span class="sxs-lookup"><span data-stu-id="f8a7b-103">Public folders are not accessible from mobile devices.</span></span>
   
-<span data-ttu-id="c1ea8-104">Ako želite imati funkcionalnost sličnu javne mape i pristupiti iz mobilnih uređaja potražite u članku [o Office 365 grupama](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) za bolji.</span><span class="sxs-lookup"><span data-stu-id="c1ea8-104">If you want to have functionality similar to public folders and access it from mobile devices, see [Learn about Office 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) for a better alternative.</span></span> 
+<span data-ttu-id="f8a7b-104">Ako želite imati funkcionalnost sličnu javne mape i pristupiti iz mobilnih uređaja potražite u članku [o Office 365 grupama](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) za bolji.</span><span class="sxs-lookup"><span data-stu-id="f8a7b-104">If you want to have functionality similar to public folders and access it from mobile devices, see [Learn about Office 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) for a better alternative.</span></span> 
   
 
