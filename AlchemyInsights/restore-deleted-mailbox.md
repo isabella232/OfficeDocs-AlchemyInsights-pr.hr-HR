@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: f9529dc92637e6b6174ff3cb8d1587ab2dffd0e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: da3d35e5f86f2b76fe6bd25829458b1b2d1a1e9a
+ms.sourcegitcommit: c3ed7525f24f80cc6372aa3f496463500bb0c3ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927496"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "30088105"
 ---
-# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="72cd4-102">Vraćanje izbrisane poštanskog sandučića</span><span class="sxs-lookup"><span data-stu-id="72cd4-102">Restore a deleted mailbox</span></span>
+# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="f4d59-102">Vraćanje izbrisane poštanskog sandučića</span><span class="sxs-lookup"><span data-stu-id="f4d59-102">Restore a deleted mailbox</span></span>
 
-<span data-ttu-id="72cd4-103">Kada korisnik prekine njegov Exchange Online licence, sandučić zadržavaju 30 dana i možete oporaviti tako jednostavno ponovno dodeljivanje licence korisniku.</span><span class="sxs-lookup"><span data-stu-id="72cd4-103">When the user loses its Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
+<span data-ttu-id="f4d59-103">Kada korisnik prekine njegov Exchange Online licence, sandučić zadržavaju 30 dana i možete oporaviti tako jednostavno ponovno dodeljivanje licence korisniku.</span><span class="sxs-lookup"><span data-stu-id="f4d59-103">When the user loses its Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
   
- <span data-ttu-id="72cd4-p101">*To će raditi samo unutar 30 dana.*  Na administratorskom portalu idite na:</span><span class="sxs-lookup"><span data-stu-id="72cd4-p101">*This will work only within 30 days.*  In the Admin Portal, go to:</span></span> 
+ <span data-ttu-id="f4d59-p101">*To će raditi samo unutar 30 dana.*  Na administratorskom portalu idite na:</span><span class="sxs-lookup"><span data-stu-id="f4d59-p101">*This will work only within 30 days.*  In the Admin Portal, go to:</span></span> 
   
-1. <span data-ttu-id="72cd4-p102">**Korisnici** \> **Aktivnih** korisnika. Odaberite korisnika u pitanju.</span><span class="sxs-lookup"><span data-stu-id="72cd4-p102">**Users** \> **Active** users. Select the user in question.</span></span> 
+1. <span data-ttu-id="f4d59-p102">**Korisnici** \> **Aktivnih** korisnika. Odaberite korisnika u pitanju.</span><span class="sxs-lookup"><span data-stu-id="f4d59-p102">**Users** \> **Active** users. Select the user in question.</span></span> 
     
-2. <span data-ttu-id="72cd4-108">Pritisnite **Uredi** za izmjenu licence proizvoda</span><span class="sxs-lookup"><span data-stu-id="72cd4-108">Press **Edit** to modify Product licenses</span></span> 
+2. <span data-ttu-id="f4d59-108">Pritisnite **Uredi** za izmjenu licence proizvoda</span><span class="sxs-lookup"><span data-stu-id="f4d59-108">Press **Edit** to modify Product licenses</span></span> 
     
-3. <span data-ttu-id="72cd4-109">Dodijelite licencu za Exchange Online i pritisnite **Spremi**</span><span class="sxs-lookup"><span data-stu-id="72cd4-109">Assign the Exchange Online license and press **Save**</span></span>
+3. <span data-ttu-id="f4d59-109">Dodijelite licencu za Exchange Online i pritisnite **Spremi**</span><span class="sxs-lookup"><span data-stu-id="f4d59-109">Assign the Exchange Online license and press **Save**</span></span>
     
-<span data-ttu-id="72cd4-p103">Ako pokušavate oporaviti zajedničko poštanskog sandučića, također je oporaviti 30 dana. Možete ih pronaći pod **korisnici** \> korisnicima **Izbrisano** . Zajednički poštanski sandučići potrebna licenca.</span><span class="sxs-lookup"><span data-stu-id="72cd4-p103">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days. You can find them under **Users** \> **Deleted** users. Shared mailboxes do not require a license.</span></span> 
+<span data-ttu-id="f4d59-p103">Ako pokušavate oporaviti zajedničko poštanskog sandučića, također je oporaviti 30 dana. Možete ih pronaći pod **korisnici** \> **Izbrisane** korisnici; Zajednički poštanski sandučići potrebna licenca. Ako znate da ćete morati vratiti izbrisane korisnika, pogledajte [Vraćanje korisnika u Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="f4d59-p103">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days. You can find them under **Users** \> **Deleted** users; shared mailboxes do not require a license. If you realize that you need to restore a deleted user, please see [Restore a user in Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).</span></span>
   
 
