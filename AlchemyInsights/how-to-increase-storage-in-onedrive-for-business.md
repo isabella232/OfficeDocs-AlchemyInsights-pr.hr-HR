@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906400"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207749"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Kako povećati pohranu OneDrive Business
 
@@ -27,7 +27,7 @@ Ovu postavku prostora za pohranu primjenjuje se na sve korisnike kojima niste po
   
 Da biste povećali pohranu u OneDrive za poslovne, odaberite Office 365 plan koji uključuje **OneDrive 2 poslovni Plan** ili **Office 365 Enterprise E3**. 
   
-Za promjenu planovi u centru za administraciju sistema Office 365 idite **naplate** \> **pretplate**i zatim odaberite **Prebacivanje planovi.**
+Za promjenu planovi u centru za administraciju Microsoft 365 idite **naplate** \> **pretplate**i zatim odaberite **Prebacivanje planovi.**
   
 Dodatne informacije o prebacivanju planovima i OneDrive za pohranu poslovne potražite [prijeđite na drugu Office 365 poslovni plan](https://go.microsoft.com/fwlink/?LinkId=2031117) i [OneDrive poslovnih opis servisa](https://go.microsoft.com/fwlink/?LinkId-2031122).
   

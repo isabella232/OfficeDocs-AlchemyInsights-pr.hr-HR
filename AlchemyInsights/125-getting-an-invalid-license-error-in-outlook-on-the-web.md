@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: c341ac08f261d926a2ab229e6a56f69c6ce14181
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1b0969720aeb10eb50eeb221ae7e467052650e15
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29909316"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209028"
 ---
 # <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Dohvaćanje pogreške nije valjana licenca u programu Outlook na webu?
 
 Ako koristite Outlook na webu i dobit ćete **nešto pošlo po zlu** pogreška koja sadrži **X OWA pogreška: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, licence za Exchange Online nije ispravno dodijeljeni ili je nedavno istekla. Vaš administrator možete dodijeliti licencu koju slijedeći ove korake:
   
-1. Otvorili [Centar za administraciju sistema Office 365](https://portal.office.com/adminportal/home#/homepage) i pod **aktivnih korisnika**odaberite **Uređivanje korisnika**.
+1. Otvorite [Microsoft 365 admin centar](https://portal.office.com/adminportal/home#/homepage) i pod **aktivnih korisnika**odaberite **Uređivanje korisnika**.
     
 2. **Uređivanje korisnika** stranice koja otvara, odaberite korisnika. U svojstva stranice korisnika koji otvara kliknite **Uređivanje** za **licence proizvoda**.
     
