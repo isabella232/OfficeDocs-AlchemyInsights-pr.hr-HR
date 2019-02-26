@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
-ms.openlocfilehash: 059944c6d5b95314a6eba48800458c926225d4ef
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 05dee3deb71542cd2bbc7f3fe7be574a85c522d1
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29910180"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243997"
 ---
 # <a name="change-font-or-font-size-in-outlookcom"></a>Promjena fonta ili veličine fonta u Outlook.com
 
@@ -24,11 +24,11 @@ Kada čitate e-pošte, možete koristiti vaš preglednik zumiranja funkcija kako
   
 Za promjenu fonta ili veličine fonta dok sastavljate poruku:
   
-1. Na dnu okna sastavljanje odaberite **Font**![Font](media/6d9372e0-cde5-49fc-a457-aafb62255163.png) ili **veličinu fonta**![ikona veličine fonta u](media/9334f617-9593-4bd0-afb1-c53308ad7591.png).
+1. Na dnu okna sastavljanje odaberite **fonta** ili **veličine fonta**.
     
 2. Odaberite font ili veličinu fonta koju želite koristiti.
     
-Ako ne vidite izbornik mogućnosti oblikovanja na dnu okna sastavljanje, odaberite **Mogućnosti oblikovanja**![ikona mogućnosti oblikovanja na](media/13103798-e3ea-4069-a7a0-63f8903c8c3a.png).
+Ako ne vidite izbornik mogućnosti oblikovanja na dnu okna sastavljanje, odaberite **Mogućnosti oblikovanja**.
   
 Za dodatne informacije pogledajte [Promijeni veličinu fonta i izgled e-pošte u Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873130).
   
