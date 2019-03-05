@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: 800fde849db0f1d3673a7144bc83b83e0ee7ace8
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 27f7c36576c7be4fab824df1a22bf0bde7047341
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347399"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376064"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Spremanje poruke u Outlook.com
 
@@ -29,4 +29,4 @@ Uslužni program Microsoft ispisa za PDF uključeni u Windows 10 omogućuje ispi
 4. Odaberite **Ispis**.
 5. Unesite naziv datoteke, a zatim odaberite **Spremi**.
 
-Napomena: To ne preporučuje na javno ili računalima kao drugim korisnicima može imati pristup svaki PDF spremite na računalo i izbrisati.
+**Napomena:** To se ne preporučuje na javno ili računalima kao drugim korisnicima može imati pristup svaki PDF spremite na računalo i izbrisati.
