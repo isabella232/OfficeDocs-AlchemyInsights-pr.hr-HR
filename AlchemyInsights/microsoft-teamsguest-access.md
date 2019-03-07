@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941572"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468475"
 ---
-# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="763ca-102">Timovi Microsoft - pristup gosta</span><span class="sxs-lookup"><span data-stu-id="763ca-102">Microsoft Teams - Guest Access</span></span>
+# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="62400-102">Timovi Microsoft - pristup gosta</span><span class="sxs-lookup"><span data-stu-id="62400-102">Microsoft Teams - Guest Access</span></span>
 
+<span data-ttu-id="62400-103">Trebate pomoć pri uključivanju i postavljanju značajka pristupa gosta u Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="62400-103">Do you need help turning on and setting up the Guest Access feature in Microsoft Teams?</span></span>
 
-<span data-ttu-id="763ca-103">Ako morate omogućiti ili konfigurirati uloga pristupa gosta u Microsoft Teams, imamo detaljno uputa za vas: [Kontrolni popis za pristup gosta](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span><span class="sxs-lookup"><span data-stu-id="763ca-103">If you need to enable or configure the Guest Access Role in Microsoft Teams, we have a step-by-step instruction guide for you: [Guest Access Checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist)</span></span>
-  
-<span data-ttu-id="763ca-104">Možda ćete morati pričekati do 24 sata za timove konfiguracijske promjene stupile na snagu.</span><span class="sxs-lookup"><span data-stu-id="763ca-104">You may need to wait up to 24 hours for Teams configuration changes to take effect.</span></span>
-  
+<span data-ttu-id="62400-104">Ovdje je potrebno učiniti:</span><span class="sxs-lookup"><span data-stu-id="62400-104">Here's what you need to do:</span></span>
+
+1. <span data-ttu-id="62400-105">Autorizirajte gostov pristup.</span><span class="sxs-lookup"><span data-stu-id="62400-105">Authorize guest access.</span></span>
+1. <span data-ttu-id="62400-106">Dodajte korisnike gosta vaš tim.</span><span class="sxs-lookup"><span data-stu-id="62400-106">Add guest users to your team.</span></span>
+1. <span data-ttu-id="62400-107">Postaviti gosta korisničke dozvole.</span><span class="sxs-lookup"><span data-stu-id="62400-107">Set up guest user permissions.</span></span>
+
+<span data-ttu-id="62400-108">Za više informacija, uključujući videozapise s uputama pogledajte [gostov pristup Microsoft timovima](https://docs.microsoft.com/en-us/microsoftteams/guest-access).</span><span class="sxs-lookup"><span data-stu-id="62400-108">For more information, including how-to videos, see [Guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/guest-access).</span></span>
 
