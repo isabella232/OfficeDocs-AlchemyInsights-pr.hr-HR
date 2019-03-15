@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939272"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634496"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Potrebna alkemiji zaglavlje H1, H2's ne rade.
 Najbolje prakse i smjernice za autorizaciju alkemiji:
 
 1. **Ugnijezditi alkemiji uvida u mapama**- će ovo prelomiti strukturu url. Možemo traženu u popravljanju to.
 1. Datoteke u mapi **AlchemyInsights** treba imati pravilo ID i naziv pravila s [portala alkemiji partnera](https://alchemyportal.azurewebsites.net) u naziv datoteke.
-    1. Ex. ***976-How-to-enable-litigation-hold***
+    1. Franko. ***976-How-to-enable-litigation-Hold***
 1. Koristite metapodatke na vrhu ovu datoteku kao predložak. Ništa drugo nije potrebna.
 1. U [alkemiji partnera portal](https://alchemyportal.azurewebsites.net)pronađite odjeljak **Naslov uvid kupca:** i korištenje koji kao početni pokažite za H1 naslov na uvid. 
     > [!NOTE]
