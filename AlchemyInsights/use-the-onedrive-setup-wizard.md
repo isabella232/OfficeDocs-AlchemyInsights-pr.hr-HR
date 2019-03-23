@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
-ms.openlocfilehash: 5222ce6c8d8708059cb9ecfd3685f6a7f88f7e53
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cdf966f1eedf5240c6fa46b71e95a0554b76951f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939772"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756406"
 ---
-# <a name="set-up-onedrive"></a><span data-ttu-id="90704-102">Postavljanje OneDrive</span><span class="sxs-lookup"><span data-stu-id="90704-102">Set up OneDrive</span></span>
+# <a name="set-up-onedrive"></a><span data-ttu-id="1ef8a-102">Postavljanje OneDrive</span><span class="sxs-lookup"><span data-stu-id="1ef8a-102">Set up OneDrive</span></span>
 
-<span data-ttu-id="90704-103">Da biste postavili OneDrive brzo za vašu organizaciju, [koristite čarobnjaka za postavljanje OneDrive](https://portal.office.com/onboarding/odfbquickstartguide).</span><span class="sxs-lookup"><span data-stu-id="90704-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
+<span data-ttu-id="1ef8a-103">Da biste postavili OneDrive brzo za vašu organizaciju, [koristite čarobnjaka za postavljanje OneDrive](https://portal.office.com/onboarding/odfbquickstartguide).</span><span class="sxs-lookup"><span data-stu-id="1ef8a-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
   
 
