@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941752"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747842"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Zajedničko korištenje datoteka ili mapa u SharePoint ili OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941752"
   - **Određenim osobama** omogućuje pristup samo za osobe koje odredite, iako druge osobe možda već imaju pristup. Ako ljudi proslijediti poziv za zajedničko korištenje, samo osobama koje već imaju pristup na stavku moći će koristiti vezu. 
     
     > [!NOTE]
-    > Ako jednu od ovih mogućnosti nije dostupna ili ako želite različite vezu vrsta pojavi po zadanom, nivou organizacije postavke možete promijeniti tako da odete klasični centar SharePoint administraciju i kliknete **zajedničko korištenje** u lijevom oknu. [Saznajte više](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Ako jednu od ovih mogućnosti nije dostupna ili ako želite različite vezu vrsta pojavi po zadanom, nivou organizacije postavke možete promijeniti tako da odete novi centar SharePoint administraciju i kliknete **zajedničko korištenje** u lijevom oknu. [uči više](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. Po zadanom, **Dopusti uređivanje** je uključeno. Ako želite da ljudi samo prikaz datoteka, poništite potvrdni okvir. 
     

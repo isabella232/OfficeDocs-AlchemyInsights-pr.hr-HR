@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754642"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747986"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje web-mjesta koji pripadaju grupi Office 365:
 
-Kada korisnici stvorite novo web-mjesto tima od kuće SharePoint (ili stvorite novo web-mjesto tima iz nove pretpregled centar admin SharePoint), automatski se stvara odgovarajuće grupe za Office 365. Office 365 grupe povezani timska web-mjesta se stvaraju i kada kreirate grupu Office 365 ili timu u Microsoft Teams. Za brisanje SharePoint web-mjesto koje pripada grupi Office 365, morate izbrisati grupu Office 365 samu sebe. 
+Kada korisnici stvorite novo web-mjesto tima od kuće SharePoint ili stvorite novo web-mjesto tima centra za novi SharePoint administraciju, automatski se stvara odgovarajuće grupe za Office 365. Office 365 grupe povezani timska web-mjesta se stvaraju i kada kreirate grupu Office 365 ili timu u Microsoft Teams. Za brisanje SharePoint web-mjesto koje pripada grupi Office 365, morate izbrisati grupu Office 365 samu sebe. 
   
 1. Idi na [stranici grupe Microsoft 365 centra za administraciju](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Napomena: Kada Brisanje grupe može postojati Odgoda prije web-mjesto uklonjeno 
   
 **Brisanje zbirke web-mjesta SharePoint:**
 
-Brisanje zbirke web-mjesta klasični:
+Da biste izbrisali web-mjesto:
   
-1. Klasični center admin SharePoint, na stranici zbirke web-mjesta odaberite **potvrdni okvir** uz zbirke web-mjesta. 
+1. Novi centar admin SharePoint, na stranici web-mjesta pritisnite **potvrdni okvir** uz web-mjesto koje želite izbrisati. 
     
-2. Na karticu zbirki web-mjesta odaberite **izbrisati.**
+2. Na alatnoj traci kliknite **izbrisati.**
     
 **Nehotično izbrisati web-mjesto?**
 

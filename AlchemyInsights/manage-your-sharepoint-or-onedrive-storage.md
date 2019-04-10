@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761193"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747302"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>Upravljanje SharePoint ili OneDrive spremišta
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761193"
   
 Za većinu organizacija spremišta sustava SharePoint se upravlja automatski tako da ne morate postaviti ograničenja po zbirke web-mjesta. Da biste provjerili koliko imate spremišta sustava SharePoint:
   
-- U klasični center admin SharePoint, u gornjoj desnoj strani stranice zbirke web-mjesta potražite dostupne i ukupni spremišta.
+- U novi centar admin SharePoint, u gornjem desnom dijelu stranice web-mjestima potražite dostupne i ukupni spremišta.
     
 Info o način izračuna svoje ograničenje, potražite [SharePoint Online ograničenja](https://go.microsoft.com/fwlink/p/?LinkID=856113). Kupite dodatni prostor za pohranu, potražite [Promjena prostor za pohranu za svoju pretplatu](https://go.microsoft.com/fwlink/?linkid=866428).
   
