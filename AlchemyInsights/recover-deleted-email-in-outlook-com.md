@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000011
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 28266eff5fc77c855370f7fc75a7b7332d1e72e2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7f18d2a5196234e450f7e639b6d63d1ddfcf411a
+ms.sourcegitcommit: 32ee065560611cd527754f482b9ad244878975a0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773729"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31980622"
 ---
 # <a name="recover-deleted-email"></a>Oporavi izbrisane e-pošte
 
 1. U lijevom oknu odaberite **Izbrisane stavke**. 
     
-2. Odaberite stavku koju želite oporaviti i odaberite **oporaviti**. 
+2. Odaberite stavku koju želite oporaviti i odaberite **Vraćanje**. 
   
  **Napomena**: možete odabrati samo sve ako su vidljive sve poruke. Ovo je sprečavanje slučajnog akcije na ne možete vidjeti poruke. **CTRL + KLIK** odabire pojedinačne poruke, **SHIFT + KLIKNITE** odabire sve između dva klika. 
     
-3. Ako poruka nije izbrisane stavke, odaberite **Oporavi izbrisane stavke** na vrhu prozora. 
+3. Ako poruka nije izbrisane stavke, odaberite **oporaviti stavke izbrisane iz ove mape** na vrhu prozora. 
     
  **Važne informacije o izbrisane stavke:**
   
