@@ -1,5 +1,5 @@
 ---
-title: Promjena NameServers
+title: Promjena poslužitelja naziva
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405315"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754678"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a><span data-ttu-id="53eaf-102">Ažuriranje nameservers domenu Office 365</span><span class="sxs-lookup"><span data-stu-id="53eaf-102">Update your domain nameservers to Office 365</span></span>
+# <a name="update-your-domain-nameservers-to-office-365"></a><span data-ttu-id="6b861-102">Ažuriranje poslužitelja naziva u vašoj domeni na Office 365</span><span class="sxs-lookup"><span data-stu-id="6b861-102">Update your domain nameservers to Office 365</span></span>
 
-<span data-ttu-id="53eaf-103">Napomena: Promjene Nameserver može ponekad potrajati do 48 sati proširiti.</span><span class="sxs-lookup"><span data-stu-id="53eaf-103">Note: Nameserver changes can sometimes take up to 48 hours to propagate.</span></span>
+<span data-ttu-id="6b861-103">Napomena: propagiranje promjena poslužitelja naziva ponekad može potrajati do 48 sati.</span><span class="sxs-lookup"><span data-stu-id="6b861-103">Note: Nameserver changes can sometimes take up to 48 hours to propagate.</span></span>
   
-<span data-ttu-id="53eaf-p101">Da biste postavili vašu domenu Office 365, nameservers na vaše Registrator treba ažurirati. Kreiranje ili uređivanje zapisa nameserver na Registrator domene.</span><span class="sxs-lookup"><span data-stu-id="53eaf-p101">To set up your domain in Office 365, the nameservers at your registrar need to be updated. Create or edit your nameserver records at your domain registrar.</span></span>
+<span data-ttu-id="6b861-104">Da biste postavili domenu u sustavu Office 365, moraju se ažurirati poslužitelji naziva pri registraru.</span><span class="sxs-lookup"><span data-stu-id="6b861-104">To set up your domain in Office 365, the nameservers at your registrar need to be updated.</span></span> <span data-ttu-id="6b861-105">Stvorite ili uredite zapise poslužitelja naziva pri registraru domene.</span><span class="sxs-lookup"><span data-stu-id="6b861-105">Create or edit your nameserver records at your domain registrar.</span></span>
   
-1. <span data-ttu-id="53eaf-106">Posjetite web-mjesto Registrator domene i pronaći područje gdje možete urediti u nameservers.</span><span class="sxs-lookup"><span data-stu-id="53eaf-106">Go to your domain registrar's website and find the area where you can edit the nameservers.</span></span>
+1. <span data-ttu-id="6b861-106">Idite na web-mjesto registrara domene i potražite područje u kojemu možete urediti poslužitelje naziva.</span><span class="sxs-lookup"><span data-stu-id="6b861-106">Go to your domain registrar's website and find the area where you can edit the nameservers.</span></span>
     
-2. <span data-ttu-id="53eaf-107">Kreiranje ili uređivanje dva zapisa nameserver tako da odgovara ove vrijednosti:</span><span class="sxs-lookup"><span data-stu-id="53eaf-107">Create or edit two nameserver records to match these values:</span></span>
+2. <span data-ttu-id="6b861-107">Stvorite ili uredite dva zapisa poslužitelja naziva tako da odgovaraju ovim vrijednostima:</span><span class="sxs-lookup"><span data-stu-id="6b861-107">Create or edit two nameserver records to match these values:</span></span>
     
-  - <span data-ttu-id="53eaf-108">ns1.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="53eaf-108">ns1.bdm.microsoftonline.com</span></span>
+  - <span data-ttu-id="6b861-108">ns1.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="6b861-108">ns1.bdm.microsoftonline.com</span></span>
     
-  - <span data-ttu-id="53eaf-109">ns2.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="53eaf-109">ns2.bdm.microsoftonline.com</span></span>
+  - <span data-ttu-id="6b861-109">ns2.bdm.microsoftonline.com</span><span class="sxs-lookup"><span data-stu-id="6b861-109">ns2.bdm.microsoftonline.com</span></span>
     
-3. <span data-ttu-id="53eaf-110">Spremite promjene.</span><span class="sxs-lookup"><span data-stu-id="53eaf-110">Save changes.</span></span>
+3. <span data-ttu-id="6b861-110">Spremite promjene.</span><span class="sxs-lookup"><span data-stu-id="6b861-110">Save changes.</span></span>
     
-<span data-ttu-id="53eaf-111">U ovom članku možete naći detaljne upute: [Promjena nameservers da biste postavili Office 365 s bilo koje domene Registrator](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)</span><span class="sxs-lookup"><span data-stu-id="53eaf-111">You can also find detailed instructions in this article: [Change nameservers to set up Office 365 with any domain registrar](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)</span></span>
+<span data-ttu-id="6b861-111">Detaljne upute možete pronaći i u ovom članku: [Promjena poslužitelja naziva radi postavljanja sustava Office 365 pri registraru domene](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)</span><span class="sxs-lookup"><span data-stu-id="6b861-111">You can also find detailed instructions in this article: [Change nameservers to set up Office 365 with any domain registrar](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)</span></span>
   
 
