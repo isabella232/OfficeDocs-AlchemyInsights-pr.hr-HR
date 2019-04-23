@@ -1,5 +1,5 @@
 ---
-title: Ažuriranje zapisa DNS
+title: Ažuriranje DNS zapisa
 ms.author: pebaum
 author: pebaum
 ms.date: 1/18/2019
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: 0e9b08f456483e7177190b1dc32454611bc0daf0
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: d2e3285d81aa1a630d668fea11382abd0d42265c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405351"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762308"
 ---
-# <a name="update-dns-records"></a>Ažuriranje zapisa DNS
-Postavljanje DNS zapisa je važno dobivanja pretplate Office 365 rad s naziv prilagođene domene. Za dodavanje ili ažuriranje zapisa DNS koristite dolje navedene veze.
+# <a name="update-dns-records"></a>Ažuriranje DNS zapisa
+Postavljanje DNS zapisa važno je za omogućivanje funkcioniranja pretplate na Office 365 uz prilagođeni naziv domene. Upute za dodavanje ili ažuriranje DNS zapisa potražite putem veza u nastavku.
   
-- [Stvaranje DNS zapisa na bilo kojem DNS pružatelju usluge za Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
-- [Dodavanje ili uređivanje prilagođene DNS zapisa](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- [Stvaranje DNS zapisa pri bilo kojem davatelju usluge hostiranja DNS-a za Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
+- [Dodavanje i uređivanje prilagođenih DNS zapisa](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)

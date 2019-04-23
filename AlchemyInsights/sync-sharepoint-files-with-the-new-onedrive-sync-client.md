@@ -1,5 +1,5 @@
 ---
-title: Sinkroniziranje datoteka SharePoint s novom klijentu sinkronizaciju OneDrive
+title: Sinkronizacija datoteka sustava SharePoint s novim klijentom za sinkronizaciju servisa OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469015"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747338"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Sinkroniziranje datoteka SharePoint s novom klijentu sinkronizaciju OneDrive
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Sinkronizacija datoteka sustava SharePoint s novim klijentom za sinkronizaciju servisa OneDrive
 
-1. Klasični SharePoint administraciju center odaberite **Postavke**.
+1. U novom centru za administratore sustava SharePoint odaberite **postavke**.
     
-2. Provjerite je li "OneDrive sinkronizacija gumb" postavite na "Pokaži gumb sinkronizaciju".
+2. Postavka „Gumb za sinkronizaciju servisa OneDrive” mora biti postavljena na „Prikaži gumb za sinkronizaciju”.
     
-3. Za "Sinkronizaciju klijent za SharePoint," odaberite **Započni novi klijent**.
+3. Za postavku "Klijent za sinkronizaciju za SharePoint" odaberite **Pokreni novi klijent**.
     
     > [!NOTE]
-    > Ako tu mogućnost ne pojavi, organizaciji je već postavili koristiti novi OneDrive klijent za sinkronizaciju za sinkronizaciju datoteka SharePoint. 
+    > Ako ta mogućnost nije prikazana, vaša tvrtka ili ustanova već je postavljena za korištenje novog klijenta za sinkronizaciju servisa OneDrive koji se koristi za sinkronizaciju datoteka sustava SharePoint. 
   
-4. Kliknite **OK** (U redu).
+4. Kliknite **U redu**.
     
-Za više informacija pogledajte [omogućiti korisnicima sinkronizirati datoteke SharePoint s novom klijentu sinkronizaciju OneDrive](https://go.microsoft.com/fwlink/?linkid=866433). Upute koje ćete dati korisnicima, potražite [datoteke SharePoint sinkronizaciju s novom klijentu sinkronizaciju OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).
+Dodatne informacije potražite u članku [Omogućivanje sinkronizacije datoteka sustava SharePoint pomoću novog klijenta za sinkronizaciju servisa OneDrive](https://go.microsoft.com/fwlink/?linkid=866433). Upute koje možete dati korisnicima potražite u članku [Omogućivanje sinkronizacije datoteka sustava SharePoint korisnicima pomoću novog klijenta za sinkronizaciju servisa OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).
   
 
