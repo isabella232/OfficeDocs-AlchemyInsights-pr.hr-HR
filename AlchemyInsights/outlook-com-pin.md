@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000233
-ms.openlocfilehash: 0daf711f22f325ce02dceb167f48713943f08521
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: af81ead91c865d2b36ea20476b91c51e36452690
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30784194"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903584"
 ---
 # <a name="change-your-pin"></a>Promijenili PIN
 
-Outlook.com koristiti PIN, ali može prijaviti PC s PIN ili Windows Hello. Da biste promijenili PIN u Windows 10:
+Outlook.com ne koriste PIN, ali možda prijaviti PC s PIN ili Windows Hello. Da biste promijenili PIN u Windows 10:
 
 1. Idi na početak, a zatim odaberite **Postavke** > **račune** > **Mogućnosti za prijavu**.
 2. Odaberite gumb **Promijeni** pod **PIN**.
-3. Unesite trenutni PIN; zatim unesite i potvrdite novi PIN ispod.
+3. Unesite trenutni PIN, a zatim unesite i potvrdite novi PIN ispod.
 
 [Pročitajte više o Windows Hello.](https://support.microsoft.com/help/17215/)
