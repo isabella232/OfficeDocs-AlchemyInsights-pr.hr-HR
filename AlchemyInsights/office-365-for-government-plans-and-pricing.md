@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
 ms.openlocfilehash: c7fffc223bbb89d5ab4d6a1e290b9b6f7df3bd91
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764828"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388685"
 ---
 Office 365 vlada SAD-a planovi osmišljeni su za jedinstvene potrebe organizacijama vlada SAD. Oni pružaju značajke i mogućnosti usluge Office 365 u zajednici oblak segmentirani državna koji omogućuje organizacijama da zadovoljavaju sad usklađenosti i sigurnost standarda.
   
