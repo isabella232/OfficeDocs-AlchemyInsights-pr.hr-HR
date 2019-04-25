@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
 ms.openlocfilehash: f35f40a8e9016f4975e93b0e3f0bb8c465db9386
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756694"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394342"
 ---
 # <a name="change-payment-method"></a>Promijenite način plaćanja
 
 Provjerite način plaćanja koji je konfiguriran tako da odlaska **naplate** \> **pretplate**. Odaberite pretplate koje želite provjeriti. Način plaćanja koji je konfiguriran za pretplatu se pojavljuje pod **način plaćanja**. Da biste ažurirali pojedinosti postojeće način plaćanja, odaberite **Ažuriranje pojedinosti plaćanja**.
   
-1. U centru za administraciju idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.
+1. U centru za administratore otvorite stranicu [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **Naplata** \> **Pretplate**.
     
 2. Odaberite pretplate koje želite promijeniti način plaćanja za odaberite, zatim **Promijeniti način plaćanja**...
     

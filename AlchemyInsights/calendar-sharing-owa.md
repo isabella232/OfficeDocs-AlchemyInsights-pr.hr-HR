@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: 616
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
 ms.openlocfilehash: 57fd34d76ec2955e7a79fe4e1cedd9935f99cbff
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772224"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396282"
 ---
 # <a name="calendar-sharing"></a>Zajedničko korištenje kalendara
 
-- Ako ne vidite informacije slobodno/zauzeto kalendara u druge kalendare ili drugi ne mogu vidjeti informacije o zauzetosti u kalendaru, koristite [Microsoft podršku i oporavak pomoćnika za Office 365](https://diagnostics.office.com/).
+- Ako vam se kalendarski podaci o dostupnosti/zauzetosti ne prikazuju u drugim kalendarima ili se drugim osobama ne prikazuju podaci o dostupnosti/zauzetosti iz vašeg kalendara, upotrijebite [Microsoftov pomoćnik za podršku i oporavak sustava Office 365](https://diagnostics.office.com/).
     
 - [Zajedničko korištenje kalendara programa Outlook s drugim osobama](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
     
