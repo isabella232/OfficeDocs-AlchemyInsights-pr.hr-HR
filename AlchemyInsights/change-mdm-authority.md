@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: c869609fa4527f46121eda563e0735378bcb0d3d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913456"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394588"
 ---
-# <a name="change-intune-mdm-authority"></a><span data-ttu-id="c2066-102">Promjena izdavanje Intune MDM</span><span class="sxs-lookup"><span data-stu-id="c2066-102">Change Intune MDM authority</span></span>
+# <a name="change-intune-mdm-authority"></a><span data-ttu-id="3f02b-102">Promjena izdavanje Intune MDM</span><span class="sxs-lookup"><span data-stu-id="3f02b-102">Change Intune MDM authority</span></span>
 
-<span data-ttu-id="c2066-p101">MDM za izdavanje potvrda možete promijeniti bez otvaranja podršku slučaj. Pogledajte sljedeće dokumente za upute:</span><span class="sxs-lookup"><span data-stu-id="c2066-p101">You can change your MDM authority without opening a support case. See the following documents for instructions:</span></span>
+<span data-ttu-id="3f02b-103">MDM za izdavanje potvrda možete promijeniti bez otvaranja podršku slučaj.</span><span class="sxs-lookup"><span data-stu-id="3f02b-103">You can change your MDM authority without opening a support case.</span></span> <span data-ttu-id="3f02b-104">Pogledajte sljedeće dokumente za upute:</span><span class="sxs-lookup"><span data-stu-id="3f02b-104">See the following documents for instructions:</span></span>
   
-- [<span data-ttu-id="c2066-105">MDM za izdavanje promijeniti iz Upravitelj konfiguracije samostalnog Intune</span><span class="sxs-lookup"><span data-stu-id="c2066-105">Change MDM authority from the Configuration Manager to Intune standalone</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [<span data-ttu-id="3f02b-105">MDM za izdavanje promijeniti iz Upravitelj konfiguracije samostalnog Intune</span><span class="sxs-lookup"><span data-stu-id="3f02b-105">Change MDM authority from the Configuration Manager to Intune standalone</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [<span data-ttu-id="c2066-106">Promijenite izdavanje MDM iz Intune samostalni da Upravitelj konfiguracije</span><span class="sxs-lookup"><span data-stu-id="c2066-106">Change MDM authority from Intune standalone to Configuration Manager</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [<span data-ttu-id="3f02b-106">Promijenite izdavanje MDM iz Intune samostalni da Upravitelj konfiguracije</span><span class="sxs-lookup"><span data-stu-id="3f02b-106">Change MDM authority from Intune standalone to Configuration Manager</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- <span data-ttu-id="c2066-107">**MDM za izdavanje suradnika postojanje**</span><span class="sxs-lookup"><span data-stu-id="c2066-107">**MDM Authority Co-Existence**</span></span>
+ <span data-ttu-id="3f02b-107">**MDM za izdavanje suradnika postojanje**</span><span class="sxs-lookup"><span data-stu-id="3f02b-107">**MDM Authority Co-Existence**</span></span>
   
-- <span data-ttu-id="c2066-108">Oba aktivni MDM izvora možete istovremeno imati ako već imate MDM Office 365 omogućeno, ali želite pokušajte Intune MDM.</span><span class="sxs-lookup"><span data-stu-id="c2066-108">You can have both MDM authorities active concurrently if you already have Office 365 MDM enabled but you want to try Intune MDM.</span></span>
+- <span data-ttu-id="3f02b-108">Oba aktivni MDM izvora možete istovremeno imati ako već imate MDM Office 365 omogućeno, ali želite pokušajte Intune MDM.</span><span class="sxs-lookup"><span data-stu-id="3f02b-108">You can have both MDM authorities active concurrently if you already have Office 365 MDM enabled but you want to try Intune MDM.</span></span>
     
-- <span data-ttu-id="c2066-109">Administratori koji već imaju aktivne MDM O365 možete jednostavno označiti Intune MDM kao aktivnu s Azure portala.</span><span class="sxs-lookup"><span data-stu-id="c2066-109">Admins who already have O365 MDM active can simply mark Intune MDM as active from the Azure portal.</span></span>
+- <span data-ttu-id="3f02b-109">Administratori koji već imaju aktivne MDM O365 možete jednostavno označiti Intune MDM kao aktivnu s Azure portala.</span><span class="sxs-lookup"><span data-stu-id="3f02b-109">Admins who already have O365 MDM active can simply mark Intune MDM as active from the Azure portal.</span></span>
     
-- <span data-ttu-id="c2066-110">Ako ste Intune MDM, ali želite koristiti Office 365 MDM: Molimo otvorite ulaznica ispod i podršku agent pomoći će vam to omogućiti.</span><span class="sxs-lookup"><span data-stu-id="c2066-110">If you have Intune MDM but want to make use of Office 365 MDM: please open a ticket below and a support agent will help enable this for you.</span></span>
+- <span data-ttu-id="3f02b-110">Ako ste Intune MDM, ali želite koristiti Office 365 MDM: Molimo otvorite ulaznica ispod i podršku agent pomoći će vam to omogućiti.</span><span class="sxs-lookup"><span data-stu-id="3f02b-110">If you have Intune MDM but want to make use of Office 365 MDM: please open a ticket below and a support agent will help enable this for you.</span></span>
     
 

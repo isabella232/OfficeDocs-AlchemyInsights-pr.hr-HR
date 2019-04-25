@@ -10,30 +10,30 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba48253-6088-4c95-94d8-815753c46c4c
 ms.openlocfilehash: 8c7b56515d6eb96447b4bf4521d34f0ede5e6b95
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906328"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390027"
 ---
-# <a name="frequent-excel-crashes"></a><span data-ttu-id="60bd5-102">Čestih Excel prekida?</span><span class="sxs-lookup"><span data-stu-id="60bd5-102">Frequent Excel Crashes?</span></span>
+# <a name="frequent-excel-crashes"></a><span data-ttu-id="da632-102">Čestih Excel prekida?</span><span class="sxs-lookup"><span data-stu-id="da632-102">Frequent Excel Crashes?</span></span>
 
-<span data-ttu-id="60bd5-p101">Česta prekida u Excelu možete je uzrok neispravan dodatak. Dodatak programa Excel možete onemogućiti slijedeći ove upute:</span><span class="sxs-lookup"><span data-stu-id="60bd5-p101">Frequent crashes in Excel can be caused by a faulty add-in. You can disable an Excel add-in by following these instructions:</span></span>
+<span data-ttu-id="da632-103">Česta prekida u Excelu možete je uzrok neispravan dodatak.</span><span class="sxs-lookup"><span data-stu-id="da632-103">Frequent crashes in Excel can be caused by a faulty add-in.</span></span> <span data-ttu-id="da632-104">Dodatak programa Excel možete onemogućiti slijedeći ove upute:</span><span class="sxs-lookup"><span data-stu-id="da632-104">You can disable an Excel add-in by following these instructions:</span></span>
   
-1. <span data-ttu-id="60bd5-105">Odaberite **datoteku** \> **Mogućnosti** \> **Dodataka**.</span><span class="sxs-lookup"><span data-stu-id="60bd5-105">Choose **File** \> **Options**, \> **Add-Ins**.</span></span>
+1. <span data-ttu-id="da632-105">Odaberite **datoteku** \> **Mogućnosti** \> **Dodataka**.</span><span class="sxs-lookup"><span data-stu-id="da632-105">Choose **File** \> **Options**, \> **Add-Ins**.</span></span>
     
-2. <span data-ttu-id="60bd5-106">U okviru **Upravljanje** odaberite **COM dodaci**i kliknite **Idi**.</span><span class="sxs-lookup"><span data-stu-id="60bd5-106">In the **Manage** box, choose **COM Add-ins**, and then click **Go**.</span></span>
+2. <span data-ttu-id="da632-106">U okviru **Upravljanje** odaberite **COM dodaci**i kliknite **Idi**.</span><span class="sxs-lookup"><span data-stu-id="da632-106">In the **Manage** box, choose **COM Add-ins**, and then click **Go**.</span></span>
     
-3. <span data-ttu-id="60bd5-107">U okviru Dostupni dodaci očistite okvir uz dodatak koji želite onemogućiti, a zatim kliknite **u redu**.</span><span class="sxs-lookup"><span data-stu-id="60bd5-107">In the Add-Ins available box, clear the check box next to the add-in that you want to disable, and then click **OK**.</span></span>
+3. <span data-ttu-id="da632-107">U okviru Dostupni dodaci očistite okvir uz dodatak koji želite onemogućiti, a zatim kliknite **u redu**.</span><span class="sxs-lookup"><span data-stu-id="da632-107">In the Add-Ins available box, clear the check box next to the add-in that you want to disable, and then click **OK**.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="60bd5-108">Ako se Excel sruši tijekom pokretanja, pokrenite ga u sigurnom načinu rada tako da pritisnete i držite tipku Ctrl dok pokrenuti program.</span><span class="sxs-lookup"><span data-stu-id="60bd5-108">If Excel crashes during launch, please launch it in Safe mode by pressing and holding Ctrl while you start the program.</span></span> 
+> <span data-ttu-id="da632-108">Ako se Excel sruši tijekom pokretanja, pokrenite ga u sigurnom načinu rada tako da pritisnete i držite tipku Ctrl dok pokrenuti program.</span><span class="sxs-lookup"><span data-stu-id="da632-108">If Excel crashes during launch, please launch it in Safe mode by pressing and holding Ctrl while you start the program.</span></span> 
   
-<span data-ttu-id="60bd5-109">Ako još uvijek imate poteškoća, proučite sljedeće članke:</span><span class="sxs-lookup"><span data-stu-id="60bd5-109">If you're still having problems, refer to the following articles:</span></span>
+<span data-ttu-id="da632-109">Ako još uvijek imate poteškoća, proučite sljedeće članke:</span><span class="sxs-lookup"><span data-stu-id="da632-109">If you're still having problems, refer to the following articles:</span></span>
   
-- [<span data-ttu-id="60bd5-110">"Zaustavljena rad" Pogreška dobiti pokretanje Office 2016 ili 2013 aplikacije na Moje računalo</span><span class="sxs-lookup"><span data-stu-id="60bd5-110">I get a "stopped working" error when I start Office 2016 or 2013 applications on my PC</span></span>](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [<span data-ttu-id="da632-110">"Zaustavljena rad" Pogreška dobiti pokretanje Office 2016 ili 2013 aplikacije na Moje računalo</span><span class="sxs-lookup"><span data-stu-id="da632-110">I get a "stopped working" error when I start Office 2016 or 2013 applications on my PC</span></span>](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
     
-- [<span data-ttu-id="60bd5-111">Kako otkloniti poteškoće ruši i ne odgovara s programom Excel</span><span class="sxs-lookup"><span data-stu-id="60bd5-111">How to troubleshoot crashing and not responding issues with Excel</span></span>](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [<span data-ttu-id="da632-111">Kako otkloniti poteškoće ruši i ne odgovara s programom Excel</span><span class="sxs-lookup"><span data-stu-id="da632-111">How to troubleshoot crashing and not responding issues with Excel</span></span>](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
     
-- [<span data-ttu-id="60bd5-112">Excel ne reagira smrzne, prestaje reagirati ili prestane raditi</span><span class="sxs-lookup"><span data-stu-id="60bd5-112">Excel not responding, hangs, freezes or stops working</span></span>](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [<span data-ttu-id="da632-112">Excel ne reagira smrzne, prestaje reagirati ili prestane raditi</span><span class="sxs-lookup"><span data-stu-id="da632-112">Excel not responding, hangs, freezes or stops working</span></span>](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
     
