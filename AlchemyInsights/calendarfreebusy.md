@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
 ms.openlocfilehash: 284f069416ee9fecbd623beb4f4174212179099c
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859240"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396210"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="8f4c5-102">Problemi vide informacije slobodno/zauzeto kalendara</span><span class="sxs-lookup"><span data-stu-id="8f4c5-102">Issues seeing calendar free/busy information</span></span>
+# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="1280f-102">Problemi vide informacije slobodno/zauzeto kalendara</span><span class="sxs-lookup"><span data-stu-id="1280f-102">Issues seeing calendar free/busy information</span></span>
 
-<span data-ttu-id="8f4c5-103">Ako ne vidite informacije slobodno/zauzeto kalendara u druge kalendare ili drugi ne mogu vidjeti informacije o zauzetosti u kalendaru, koristite [Microsoft podršku i oporavak pomoćnika za Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="8f4c5-103">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="1280f-103">Ako vam se kalendarski podaci o dostupnosti/zauzetosti ne prikazuju u drugim kalendarima ili se drugim osobama ne prikazuju podaci o dostupnosti/zauzetosti iz vašeg kalendara, upotrijebite [Microsoftov pomoćnik za podršku i oporavak sustava Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="1280f-103">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
