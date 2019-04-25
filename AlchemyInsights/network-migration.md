@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904672"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417672"
 ---
 # <a name="network-migration"></a>Migracija mreže
 
@@ -31,6 +31,6 @@ Napomena:
   
 - **Migracije mrežom premješta samo aktivna i Neriješen korisnicima.** Uz aktivne korisnike korisnika informacije kao što su naziv i profila slika također migrirati. Bilo koji sadržaj mreže, uključujući grupe, nisu preneseni. 
     
-- **Ne može poništiti migraciju mreže.** Nećete moći pristupiti podružnice mreže i njezin sadržaj nakon migracije. Stoga prije razmotrite migracije želite planirati pažljivo. 
+- **Nije moguće poništiti migraciju mreže.** Nećete moći pristupiti podružnice mreže i njezin sadržaj nakon migracije. Stoga prije razmotrite migracije želite planirati pažljivo. 
     
 
