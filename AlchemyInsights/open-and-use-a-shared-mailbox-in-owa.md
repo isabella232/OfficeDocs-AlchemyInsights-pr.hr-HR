@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 1581
 ms.assetid: ''
 ms.openlocfilehash: 8ff96d1a7beee24c682d300c97fd34f699c8c226
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858628"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419544"
 ---
 # <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Otvaranje i korištenje zajedničkog poštanskog sandučića u programu Outlook na webu
 

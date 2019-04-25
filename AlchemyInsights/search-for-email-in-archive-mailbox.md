@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
 ms.openlocfilehash: 5ea256a03def0cf07503efc77885dc3ff7a67b66
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915414"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422028"
 ---
 Kada je omogućen arhiva poštanskog sandučića, **predočavanja elektroničkih dokumenata pretraživanja i izvoz** možete koristiti da biste otkrili sadržaja u poštanski sandučić primarne i arhiva. Za informacije o korištenju **pretraživanja izvoz predočavanja elektroničkih dokumenata** za pronalaženje sadržaja slijedite u korake strukturiranih [ovdje](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   
