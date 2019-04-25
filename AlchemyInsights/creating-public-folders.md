@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2f8699c8-1eb6-4f5e-8c06-08e960092b1a
 ms.openlocfilehash: 12f1e81eaafc2650482803796fc20fd7f8b3bd55
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756226"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406708"
 ---
-# <a name="creating-public-folders"></a><span data-ttu-id="d76c6-102">Stvaranje javne mape</span><span class="sxs-lookup"><span data-stu-id="d76c6-102">Creating public folders</span></span>
+# <a name="creating-public-folders"></a><span data-ttu-id="2118b-102">Stvaranje javne mape</span><span class="sxs-lookup"><span data-stu-id="2118b-102">Creating public folders</span></span>
 
-<span data-ttu-id="d76c6-103">Prije nego što korisnici možete koristiti javne mape u sustavu Office 365, morate stvoriti barem jedan poštanski sandučić javne mape.</span><span class="sxs-lookup"><span data-stu-id="d76c6-103">Before your users can use public folders in Office 365, you will need to create at least one public folder mailbox.</span></span> <span data-ttu-id="d76c6-104">Stvaranje:</span><span class="sxs-lookup"><span data-stu-id="d76c6-104">To create:</span></span>
+<span data-ttu-id="2118b-103">Prije nego što korisnici možete koristiti javne mape u sustavu Office 365, morate stvoriti barem jedan poštanski sandučić javne mape.</span><span class="sxs-lookup"><span data-stu-id="2118b-103">Before your users can use public folders in Office 365, you will need to create at least one public folder mailbox.</span></span> <span data-ttu-id="2118b-104">Stvaranje:</span><span class="sxs-lookup"><span data-stu-id="2118b-104">To create:</span></span>
   
-1. <span data-ttu-id="d76c6-105">U centru za administraciju Microsoft 365 idite na **administraciju centrira** \> **sustava Exchange**.</span><span class="sxs-lookup"><span data-stu-id="d76c6-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="2118b-105">U centru za administraciju Microsoft 365 idite na **administraciju centrira** \> **sustava Exchange**.</span><span class="sxs-lookup"><span data-stu-id="2118b-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
     
-2. <span data-ttu-id="d76c6-106">Idi na **javne mape** \> **poštanski sandučići javnu mapu**i zatim kliknite **Dodaj**.</span><span class="sxs-lookup"><span data-stu-id="d76c6-106">Go to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
+2. <span data-ttu-id="2118b-106">Idi na **javne mape** \> **poštanski sandučići javnu mapu**i zatim kliknite **Dodaj**.</span><span class="sxs-lookup"><span data-stu-id="2118b-106">Go to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
     
-3. <span data-ttu-id="d76c6-107">U **Javnu mapu poštanskog sandučića**, navedite naziv za javnu mapu poštanskog sandučića.</span><span class="sxs-lookup"><span data-stu-id="d76c6-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
+3. <span data-ttu-id="2118b-107">U **Javnu mapu poštanskog sandučića**, navedite naziv za javnu mapu poštanskog sandučića.</span><span class="sxs-lookup"><span data-stu-id="2118b-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
     
-4. <span data-ttu-id="d76c6-108">Kliknite **Spremi**.</span><span class="sxs-lookup"><span data-stu-id="d76c6-108">Click **Save**.</span></span>
+4. <span data-ttu-id="2118b-108">Kliknite **Spremi**.</span><span class="sxs-lookup"><span data-stu-id="2118b-108">Click **Save**.</span></span>
     
-<span data-ttu-id="d76c6-109">Nakon kreiranja poštanski sandučić možete pokrenuti stvaranje pojedinačne mape ili recite korisnicima da biste [započeli stvaranje i korištenje javne mape u programu Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="d76c6-109">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span></span> <span data-ttu-id="d76c6-110">Kao administrator, možete [stvoriti javne mape za vašu organizaciju](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="d76c6-110">As an administrator, you can also [create public folders for your organization](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="2118b-109">Nakon kreiranja poštanski sandučić možete pokrenuti stvaranje pojedinačne mape ili recite korisnicima da biste [započeli stvaranje i korištenje javne mape u programu Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="2118b-109">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span></span> <span data-ttu-id="2118b-110">Kao administrator, možete [stvoriti javne mape za vašu organizaciju](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="2118b-110">As an administrator, you can also [create public folders for your organization](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx).</span></span>
   
-<span data-ttu-id="d76c6-111">Javne mape nisu dostupne na mobilnim uređajima.</span><span class="sxs-lookup"><span data-stu-id="d76c6-111">Public folders are not accessible on mobile devices.</span></span>
+<span data-ttu-id="2118b-111">Javne mape nisu dostupne na mobilnim uređajima.</span><span class="sxs-lookup"><span data-stu-id="2118b-111">Public folders are not accessible on mobile devices.</span></span>
   
 
