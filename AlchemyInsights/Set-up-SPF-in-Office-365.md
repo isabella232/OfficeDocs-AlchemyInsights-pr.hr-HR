@@ -10,15 +10,15 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
 ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920152"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389584"
 ---
-<span data-ttu-id="899c3-p101">Da biste postavili sve lozinke nikad ne ističe, idite na [Sigurnost &amp; privatnosti](https://portal.office.com/adminportal/home#/settings/security). Kliknite **Uredi** pokraj **Pravila lozinke**i uključivanje klizač da biste **na**.</span><span class="sxs-lookup"><span data-stu-id="899c3-p101">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="1f28e-102">Da biste postavili sve lozinke nikad ne ističe, idite na [Sigurnost &amp; privatnosti](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="1f28e-102">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="1f28e-103">Kliknite **Uredi** pokraj **Pravila lozinke**i uključivanje klizač da biste **na**.</span><span class="sxs-lookup"><span data-stu-id="1f28e-103">Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="899c3-104">Za detaljnije informacije pogledajte: [postavite pravila isteka lozinke za svoju organizaciju.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="899c3-104">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="1f28e-104">Za detaljnije informacije pogledajte: [postavite pravila isteka lozinke za svoju organizaciju.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="1f28e-104">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
   
-[<span data-ttu-id="899c3-105">Postavljanje lozinke za određene korisnike nikad ne ističe</span><span class="sxs-lookup"><span data-stu-id="899c3-105">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="1f28e-105">Postavljanje lozinke za određene korisnike nikad ne ističe</span><span class="sxs-lookup"><span data-stu-id="1f28e-105">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
   

@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: 8000001
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
 ms.openlocfilehash: b508cc597219789965f7ece26e55b0c1149a02dc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773379"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389647"
 ---
-# <a name="turn-off-focused-inbox"></a><span data-ttu-id="d8b32-102">Isključivanje fokusirana Primljeno</span><span class="sxs-lookup"><span data-stu-id="d8b32-102">Turn off Focused Inbox</span></span>
+# <a name="turn-off-focused-inbox"></a><span data-ttu-id="38e6a-102">Isključivanje fokusirana Primljeno</span><span class="sxs-lookup"><span data-stu-id="38e6a-102">Turn off Focused Inbox</span></span>
 
-1. <span data-ttu-id="d8b32-103">Odaberite **Postavke** \> **Fokusirana Primljeno**.  </span><span class="sxs-lookup"><span data-stu-id="d8b32-103">Select **Settings**  \> **Focused Inbox**.</span></span>
+1. <span data-ttu-id="38e6a-103">Odaberite **Postavke** \> **Fokusirana Primljeno**.  </span><span class="sxs-lookup"><span data-stu-id="38e6a-103">Select **Settings**  \> **Focused Inbox**.</span></span>
     
-2. <span data-ttu-id="d8b32-104">Pod **primljena e-pošta**, odaberite **ne sortirati poruke**.</span><span class="sxs-lookup"><span data-stu-id="d8b32-104">Under **When email is received**, select **Don't sort messages**.</span></span>
+2. <span data-ttu-id="38e6a-104">Pod **primljena e-pošta**, odaberite **ne sortirati poruke**.</span><span class="sxs-lookup"><span data-stu-id="38e6a-104">Under **When email is received**, select **Don't sort messages**.</span></span>
     
-3. <span data-ttu-id="d8b32-105">Odaberite **u redu**.</span><span class="sxs-lookup"><span data-stu-id="d8b32-105">Select **OK**.</span></span>
+3. <span data-ttu-id="38e6a-105">Odaberite **u redu**.</span><span class="sxs-lookup"><span data-stu-id="38e6a-105">Select **OK**.</span></span>
     
-<span data-ttu-id="d8b32-106">Da biste saznali više, pogledajte [Fokusirana Primljeno za Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span><span class="sxs-lookup"><span data-stu-id="d8b32-106">To learn more, see [Focused Inbox for Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span></span>
+<span data-ttu-id="38e6a-106">Da biste saznali više, pogledajte [Fokusirana Primljeno za Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span><span class="sxs-lookup"><span data-stu-id="38e6a-106">To learn more, see [Focused Inbox for Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span></span>
   
 

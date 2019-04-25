@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.openlocfilehash: 93dc59ce44dab51281f0480fe0f401ca22e1f519
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754886"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371074"
 ---
-# <a name="restore-a-deleted-file-or-folder"></a><span data-ttu-id="7c986-102">Vraćanje izbrisane datoteke ili mape</span><span class="sxs-lookup"><span data-stu-id="7c986-102">Restore a deleted file or folder</span></span>
+# <a name="restore-a-deleted-file-or-folder"></a><span data-ttu-id="a11dc-102">Vraćanje izbrisane datoteke ili mape</span><span class="sxs-lookup"><span data-stu-id="a11dc-102">Restore a deleted file or folder</span></span>
 
-1. <span data-ttu-id="7c986-103">Idite na SharePoint web-mjesta ili OneDrive.</span><span class="sxs-lookup"><span data-stu-id="7c986-103">Go to the SharePoint site or OneDrive.</span></span>
+1. <span data-ttu-id="a11dc-103">Idite na SharePoint web-mjesta ili OneDrive.</span><span class="sxs-lookup"><span data-stu-id="a11dc-103">Go to the SharePoint site or OneDrive.</span></span>
     
-2. <span data-ttu-id="7c986-104">U lijevom oknu kliknite **Koš za smeće** .</span><span class="sxs-lookup"><span data-stu-id="7c986-104">Click **Recycle bin** in the left pane.</span></span> <span data-ttu-id="7c986-105">Ako ne vidite koš za smeće, kliknite ikonu postavke, a zatim **sadržaj web-mjesta**.</span><span class="sxs-lookup"><span data-stu-id="7c986-105">If you don't see Recycle bin, click the Settings icon, and then click **Site contents**.</span></span> <span data-ttu-id="7c986-106">Koš za smeće je na krajnjoj desnoj strani naredbenu traku na vrhu.</span><span class="sxs-lookup"><span data-stu-id="7c986-106">The Recycle Bin is on the far right of the command bar at the top.</span></span>
+2. <span data-ttu-id="a11dc-104">U lijevom oknu kliknite **Koš za smeće** .</span><span class="sxs-lookup"><span data-stu-id="a11dc-104">Click **Recycle bin** in the left pane.</span></span> <span data-ttu-id="a11dc-105">Ako ne vidite koš za smeće, kliknite ikonu postavke, a zatim **sadržaj web-mjesta**.</span><span class="sxs-lookup"><span data-stu-id="a11dc-105">If you don't see Recycle bin, click the Settings icon, and then click **Site contents**.</span></span> <span data-ttu-id="a11dc-106">Koš za smeće je na krajnjoj desnoj strani naredbenu traku na vrhu.</span><span class="sxs-lookup"><span data-stu-id="a11dc-106">The Recycle Bin is on the far right of the command bar at the top.</span></span>
     
-3. <span data-ttu-id="7c986-107">Pritisnite lijevo od stavke koje želite vratiti.</span><span class="sxs-lookup"><span data-stu-id="7c986-107">Click to the left of the items you want to restore.</span></span>
+3. <span data-ttu-id="a11dc-107">Pritisnite lijevo od stavke koje želite vratiti.</span><span class="sxs-lookup"><span data-stu-id="a11dc-107">Click to the left of the items you want to restore.</span></span>
     
-4. <span data-ttu-id="7c986-108">Kliknite **Vrati**.</span><span class="sxs-lookup"><span data-stu-id="7c986-108">Click **Restore**.</span></span>
+4. <span data-ttu-id="a11dc-108">Kliknite **Vrati**.</span><span class="sxs-lookup"><span data-stu-id="a11dc-108">Click **Restore**.</span></span>
     
-<span data-ttu-id="7c986-109">Izbrisane stavke se zadržavaju 93 dana.</span><span class="sxs-lookup"><span data-stu-id="7c986-109">Deleted items are retained for 93 days.</span></span> <span data-ttu-id="7c986-110">Ako ne vidite stavku koju tražite, on možda su izbrisane iz koša za smeće i premjestiti u koš za smeće zbirke web-mjesta.</span><span class="sxs-lookup"><span data-stu-id="7c986-110">If you don't see the item you're looking for, it might have been deleted from this recycle bin and moved to the site collection recycle bin.</span></span> <span data-ttu-id="7c986-111">Da biste provjerili, kliknite vezu u dnu koš za smeće **drugog stupnja koš za smeće** .</span><span class="sxs-lookup"><span data-stu-id="7c986-111">To check, click the **Second-stage recycle bin** link at the bottom of the recycle bin.</span></span> 
+<span data-ttu-id="a11dc-109">Izbrisane stavke se zadržavaju 93 dana.</span><span class="sxs-lookup"><span data-stu-id="a11dc-109">Deleted items are retained for 93 days.</span></span> <span data-ttu-id="a11dc-110">Ako ne vidite stavku koju tražite, on možda su izbrisane iz koša za smeće i premjestiti u koš za smeće zbirke web-mjesta.</span><span class="sxs-lookup"><span data-stu-id="a11dc-110">If you don't see the item you're looking for, it might have been deleted from this recycle bin and moved to the site collection recycle bin.</span></span> <span data-ttu-id="a11dc-111">Da biste provjerili, kliknite vezu u dnu koš za smeće **drugog stupnja koš za smeće** .</span><span class="sxs-lookup"><span data-stu-id="a11dc-111">To check, click the **Second-stage recycle bin** link at the bottom of the recycle bin.</span></span> 
   
-<span data-ttu-id="7c986-112">Ako i dalje ne možete pronaći stavku možete pretražiti zapisnik nadzora ako je zapisivanje.</span><span class="sxs-lookup"><span data-stu-id="7c986-112">If you are still unable to find the item you can search the audit log if logging is enabled.</span></span> [<span data-ttu-id="7c986-113">Pretraživanje zapisnika nadzora u Office 365 sigurnosti &amp; usklađenosti centar</span><span class="sxs-lookup"><span data-stu-id="7c986-113">Search the audit log in the Office 365 Security &amp; Compliance Center</span></span>](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c.aspx)
+<span data-ttu-id="a11dc-112">Ako i dalje ne možete pronaći stavku možete pretražiti zapisnik nadzora ako je zapisivanje.</span><span class="sxs-lookup"><span data-stu-id="a11dc-112">If you are still unable to find the item you can search the audit log if logging is enabled.</span></span> [<span data-ttu-id="a11dc-113">Pretraživanje zapisnika nadzora u Office 365 sigurnosti &amp; usklađenosti centar</span><span class="sxs-lookup"><span data-stu-id="a11dc-113">Search the audit log in the Office 365 Security &amp; Compliance Center</span></span>](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c.aspx)
   
 
