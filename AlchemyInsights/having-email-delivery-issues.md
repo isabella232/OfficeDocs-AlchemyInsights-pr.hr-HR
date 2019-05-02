@@ -1,5 +1,5 @@
 ---
-title: Imate li problema isporuke e-pošte?
+title: Imate li problema s isporukom e-pošte?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
 ms.openlocfilehash: c7c90d9eb4e9ae40a7ea558528d42e91e666bb8b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405423"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400493"
 ---
-# <a name="having-email-delivery-issues"></a>Imate li problema isporuke e-pošte?
+# <a name="having-email-delivery-issues"></a>Imate li problema s isporukom e-pošte?
 
-Možemo ste otkrio korisnici ne mogu primati e-pošta poslana sljedeći domain(s):
+Uočili smo da vaši korisnici ne mogu primati poruke e-pošte poslane sa sljedećih domena:
   
 {HealthCheckString}
   
-Zapise NS ili MX domena (DNS) postavke nisu ispravno konfiguriran za isporuku e-pošte usluge Office 365. Za detaljne upute možete upućivati [ažuriranju DNS zapisa u sustavu Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) . 
+Postavke NS ili MX zapisa domene (DNS) nisu pravilno konfigurirane za isporuku e-pošte na vaš servis sustava Office 365. Detaljnije upute možete potražiti u članku [Ažuriranje DNS zapisa u sustavu Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx). 
   
-Da biste popravili, idite na stranicu [domena](https://admin.microsoft.com/adminportal/home#/Domains) u centru za administraciju Microsoft 365 i pomoći ćemo vam da s njim. 
+Da biste otklonili tu poteškoću, idite na stranicu [Domene](https://admin.microsoft.com/adminportal/home#/Domains) u centru za administratore okruženja Microsoft 365 i mi ćemo vam pomoći. 
   
-[Provjerite najčešća pitanja vezana uz domena](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) za druge uobičajene rješenja. 
+Ostala uobičajena rješenja potražite u članku [Najčešća pitanja o domenama](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx). 
   
 

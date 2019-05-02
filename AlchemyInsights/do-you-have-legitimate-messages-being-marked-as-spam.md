@@ -1,5 +1,5 @@
 ---
-title: Imate legitimnih poruka u tijeku obilježena kao neželjena pošta?
+title: Imate li valjane poruke koje su označene kao neželjena e-pošta?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
 ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469051"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399124"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Imate legitimnih poruka u tijeku obilježena kao neželjena pošta?
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Imate li valjane poruke koje su označene kao neželjena e-pošta?
 
 
-Pokušajte iznad Dijagnostika ili [korak po korak vodič za otklanjanje poteškoća dobar poruke označene kao kao neželjena pošta](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
+Isprobajte dijagnostiku u prethodnom odjeljku ili pak ovaj [detaljni vodič za otklanjanje problema koji uzrokuje označavanje dobrih poruka kao neželjene e-pošte](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
-Je najbolji način izvješća te vrste problema:
+Najbolji je način za prijavu tih problema sljedeći:
   
-1. [Omogući izvješćivanja dodatak](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) za korisnika. 
+1. [Omogućite dodatak za izvješćivanje](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) za korisnika. 
     
-2. Imati korisnika [izvješće poruku kao nije bezvrijedna pošta](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
+2. Neka korisnik [prijavi poruku kao Nije bezvrijedna e-pošta](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
     
-Želite li otvoriti ulaznica podršku, molimo priložiti zaglavlja puni e-pošte iz najmanje **jedan cijeli izvornu poruku** ispod. 
+Ako želite otvoriti potvrdu o prijavi problema službi za podršku, priložite potpuna zaglavlja e-pošte iz barem **jedne cijele izvorne poruke** u nastavku. 
   
 
