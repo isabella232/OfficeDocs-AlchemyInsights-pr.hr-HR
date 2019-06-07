@@ -1,20 +1,20 @@
 ---
 title: Označavanje čuvanja smjestiti na poštanski sandučići
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: chrisda
+author: chrisda
+manager: dansimp
 ms.date: 11/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: b993f28d9321805003f04a7eb168f81a7acd3030
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 247fbdd6cfa468d416fa7659311c5d53d049f38b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32413823"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34754958"
 ---
 Imate li sadržaj koji se **zadržavaju** po na **čekanju** koji se ne može prepoznati? Da biste **saznali** gdje se nalazi Čekanje na **poštanski sandučić** je potrebno? Čekanja ( *značajki zadržavanja* ) možete primijeniti jedan od sljedećih načina Office 365: 
   
