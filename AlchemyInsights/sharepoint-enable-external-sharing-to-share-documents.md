@@ -8,18 +8,41 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 14b005e353b162b7c49c350ec434798009269219
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34716849"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760725"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Omogućite zajedničko korištenje vanjskih u SharePoint Online
 
-Ako vaša organizacija izvodi posao koji uključuje zajedničko korištenje dokumenata ili surađuju izravno s dobavljačima, klijenata ili kupaca, a zatim možete koristiti na <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview"><span style="color: blue;">vanjski zajedničko korištenje značajki SharePoint Online</span></a> zajedničko korištenje sadržaja s osobama izvan svoje organizacija.
+Ako vaša organizacija izvodi posao koji uključuje zajedničko korištenje dokumenata ili surađuju izravno s dobavljačima, klijenata ili kupaca, a zatim možete koristiti na [vanjski zajedničko korištenje značajki SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) zajedničko korištenje sadržaja s osobama izvan svoje organizacija.
 
-Dodatne informacije o zajedničkom korištenju vanjski posjetite veze ispod.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user"><span style="color: blue;">Što je vanjskog korisnika?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document"><span style="color: blue;">Što se događa prilikom zajedničkog korištenja web-mjesta ili dokument?</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off"><span style="color: blue;">Uključivanje vanjski zajedničko korištenje ili isključiti za SharePoint Online</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site"><span style="color: blue;">Uključivanje vanjski zajedničko korištenje ili isključiti za web-mjesto</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet"><span style="color: blue;">Koristite Sharepoint Online kao rješenje ekstranet business-to-business (B2B)</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c"><span style="color: blue;">Zajedničko korištenje SharePoint datoteke ili mape</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">Zaustavi dijeljenje OneDrive ili SharePoint datoteke ili mape ili promijenite dozvole</span></a></span></li> <li><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center">Izbrisati vanjski korisnika</a></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong style="mso-bidi-font-weight: normal;"><u><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;">
+Dodatne informacije o zajedničkom korištenju vanjski posjetite veze ispod.
 
-Primanje pogreške s vanjskog korisnika? &nbsp;Provjerite dolje navedene veze. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0"><span style="color: blue;">Poruka o pogrešci kada vanjski korisnik prihvati pozivnicu SharePoint Online pomoću drugog računa</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f"><span style="color: blue;">Pristup zajedničkoj mapi je odbijen</span></a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message"><span style="color: blue;">OSE zajedničko korištenje pogrešaka u Sharepoint i OneDrive</span></a></span></li> </ul>
+[Što je vanjskog korisnika?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+
+[Što se događa prilikom zajedničkog korištenja web-mjesta ili dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+
+[Uključivanje vanjski zajedničko korištenje ili isključiti za SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+
+[Uključivanje vanjski zajedničko korištenje ili isključiti za web-mjesto](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[Koristite Sharepoint Online kao rješenje ekstranet business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[Zajedničko korištenje SharePoint datoteke ili mape](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Zaustavi dijeljenje OneDrive ili SharePoint datoteke ili mape ili promijenite dozvole](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[Izbrisati vanjski korisnika](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+Primanje pogreške s vanjskog korisnika? &nbsp;Provjerite dolje navedene veze.
+
+- [Poruka o pogrešci kada vanjski korisnik prihvati pozivnicu SharePoint Online pomoću drugog računa](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+
+- [Pristup zajedničkoj mapi je odbijen](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+
+- [OSE zajedničko korištenje pogrešaka u Sharepoint i OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

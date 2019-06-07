@@ -12,24 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 76aba7b2c065e78364ba48eabdae1436e2e6e9cc
-ms.sourcegitcommit: f2b5fdfde0b407828b06fa5c91403c960a30294f
+ms.openlocfilehash: ff9fa79aa4124c7af0521e07a5f1ce243f9e7f47
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34738048"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757319"
 ---
 # <a name="upgrade-to-visio-2019"></a>Nadogradnja na Visio 2019
 
-Ako Visio radne površine app instaliran kao dio Visio Online pretplate, već imate najnoviju verziju. Usporediti Visio planovima i -pretplatom mogućnosti, pogledajte mogućnosti usporediti Visio.
+Korisnici koji su instalirali app radne površine Visio kao dio Visio Online pretplata već imaju najnoviju verziju. 
 
-Ako imate ne-pretplatničke verzije programa Visio kao što je Visio 2016 i želite nadograditi Visio 2019 morate kupiti Visio 2019 ili kupiti pretplatu Visio Online. Ako već imate Visio 2019 i spremni ste ga instalirali, pogledajte [Instalirati Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798). 
+Nadogradnja ne-pretplatničke verzije kao što je Visio 2016, morate kupiti pretplatu Visio Online ili jednokratni nabave Visio Standard ili Professional 2019 vida. Pogledajte [Mogućnosti usporediti Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
 
-Ako instalirate Visio--usporedno s Office na istom računalu, pogledajte [podržane scenariji za instaliranje različite verzije sustava Office, projekt, i Visio na istom računalu](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
+Ako već kupili noviju verziju i spremni ste ga instalirali, pogledajte [Instalirati Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) i slijedite korake za svoju verziju. 
 
-**Napomena**: glavna verzija programa Visio 2019 ostaje na 16.0.
+Da biste instalirali Visio--usporedno s Office, pogledajte [podržane scenariji za instaliranje različite verzije sustava Office, projekt, i Visio na istom računalu](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
-Za dodatne informacije pogledajte: [Vodič za uvođenje namijenjen Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)
-[broj glavne verzije Visio 2019 ostaje na 16.0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)
-[godina oznaka u Office 2016 i Office 365 apps klijenta uklonit će se iz stavke izbornika Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) 
- [Office 2019 komercijalna for Windows i Mac najčešća pitanja](https://support.microsoft.com/help/4133312) 
+Dodatne informacije potražite u sljedećem članku:<br>
+[Vodič za implementaciju za Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Broj glavnih verzija Visio 2019 ostaje na 16.0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[Oznaka godine u Office 2016 i Office 365 apps klijenta uklonit će se iz stavke izbornika Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Office 2019 komercijalna for Windows i Mac najčešća pitanja](https://support.microsoft.com/help/4133312) 
