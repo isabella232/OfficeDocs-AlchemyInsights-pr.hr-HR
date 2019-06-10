@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 8c6dabcc63ff45be8811fe109517be3098b3ecee
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c8fc4811deb7169c6521fb75d459099161a26bc
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32395908"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769357"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>Nije moguće dodati zadani tijek rada za odobrenje 2010
 
 U zbirke web-mjesta Microsoft SharePoint globalno ponovno iskoristiv tijek rada (na primjer "odobrenje - SharePoint 2010") ne može dodati na popis ili biblioteku. Tijek rada za odobrenje možda nedostaju. Da biste riješili taj problem odnose se [ne može dodati globalno ponovno iskoristiv tijeka rada na SharePoint popis ili biblioteku](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library). 
 
-Dodatne informacije o tijek rada odobravanja u odjeljku [sve o procesima odobrenja] (https://support.office.com/en-us/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
+Dodatne informacije o tijek rada odobravanja u odjeljku [sve o procesima odobrenja] (https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
  
-Saznajte više o [Moderna odobravanja u protoku] (https://flow.microsoft.com/en-us/blog/introducing-modern-approvals). 
+Saznajte više o [Moderna odobravanja u protoku] (https://flow.microsoft.com/blog/introducing-modern-approvals). 
   

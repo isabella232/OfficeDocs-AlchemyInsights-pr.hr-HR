@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096446"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770801"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Opozvati ili zamijeniti poruku e-pošte
 
@@ -36,7 +36,7 @@ Za više informacija, uključujući kako provjeriti opoziv, pogledajte [Opoziv i
 
 ***Traženje i brisanje poruka e-pošte u vašoj organizaciji*** Za traženje i brisanje poruka e-pošte u vašoj organizaciji, najlakše ga je ako ste globalne administratora. Ako niste globalni administrator, vaš račun mora dodati grupe uloga Upravitelj predočavanja elektroničkih dokumenata ili uloge Upravljanje usklađenosti pretraživanja. Za brisanje poruka, trebat ćete pridružiti grupe uloga upravljanja organizacije ili upravljanje uloga pretraživanja i Pročisti. U [centru za sigurnost & usklađenosti](https://protection.office.com/)dodjeljuju se dozvole te uloge.
 
-1. [Stvaranje sadržaja pretraživanja](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) da biste pronašli poruku za brisanje.
-2. [Povezivanje s PowerShell usklađenosti centar sigurnosti &](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Stvaranje sadržaja pretraživanja](https://docs.microsoft.com/office365/securitycompliance/content-search) da biste pronašli poruku za brisanje.
+2. [Povezivanje s PowerShell usklađenosti centar sigurnosti &](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Ako koristite MFA, pogledajte [Povezivanje Office 365 sigurnosne & PowerShell centar usklađenosti korištenjem višestruku provjeru autentičnosti](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Ako koristite MFA, pogledajte [Povezivanje Office 365 sigurnosne & PowerShell centar usklađenosti korištenjem višestruku provjeru autentičnosti](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

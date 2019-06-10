@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412466"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769887"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Skretnica namjerava povećati veličinu poštanskog sandučića
 
@@ -34,4 +34,4 @@ Ako je veličina poštanskog sandučića 50 GB, možete ga povećati 100 GB preb
     
 Za više pojedinosti pogledajte [prijeđite na drugi plan za Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-Ako imate [O365 plan koji podržava u mjesto arhiva](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), omogućavanjem arhiva poštanskog sandučića možete dobiti i pohranu dodatnih e-pošte.  Arhiva poštanski sandučić daje dodatni prostor za pohranu i dopušta vam da premjestite, kopirati i pretraživanja za poruke u oba primarni i poštanskog sandučića u arhivu. Korake na omogućavanje arhiva poštanski sandučić potražite [omogućiti arhiva poštanskog sandučića](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+Ako imate [O365 plan koji podržava u mjesto arhiva](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), omogućavanjem arhiva poštanskog sandučića možete dobiti i pohranu dodatnih e-pošte.  Arhiva poštanski sandučić daje dodatni prostor za pohranu i dopušta vam da premjestite, kopirati i pretraživanja za poruke u oba primarni i poštanskog sandučića u arhivu. Korake na omogućavanje arhiva poštanski sandučić potražite [omogućiti arhiva poštanskog sandučića](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

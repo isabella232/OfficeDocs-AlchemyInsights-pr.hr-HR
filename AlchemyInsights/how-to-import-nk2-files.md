@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630008"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770239"
 ---
 # <a name="how-to-import-nk2-files"></a>Kako uvesti datoteke .nk2 
 
@@ -37,4 +37,4 @@ Nakon što uvezete .nk2 datoteku, sadržaj datoteke su spojene u postojeće pred
 
 **Napomena**: .nk2 datoteku je preimenovana s datotečnim nastavkom .old kada sljedeći put pokrenete Outlook 2013, Outlook 2016, Outlook 2019 ili Outlook za Office 365. Ako želite ponovo uvesti .nk2 datoteku, najprije uklonite .old datotečni nastavak.
 
-Za dodatne informacije pogledajte [Uvoz ili kopiranje popisa samodovršetka na drugo računalo](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%).
+Za dodatne informacije pogledajte [Uvoz ili kopiranje popisa samodovršetka na drugo računalo](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

@@ -9,12 +9,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e49caf53cfbd96704d048a899e123301525a8e6a
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418704"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769851"
 ---
 # <a name="microsoft-teams---guest-access"></a>Timovi Microsoft - pristup gosta
 
@@ -26,5 +26,5 @@ Ovdje je potrebno učiniti:
 1. Dodajte korisnike gosta vaš tim.
 1. Postaviti gosta korisničke dozvole.
 
-Za više informacija, uključujući videozapise s uputama pogledajte [gostov pristup Microsoft timovima](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
+Za više informacija, uključujući videozapise s uputama pogledajte [gostov pristup Microsoft timovima](https://docs.microsoft.com/microsoftteams/guest-access).
 
