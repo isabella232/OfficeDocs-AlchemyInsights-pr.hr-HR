@@ -14,11 +14,11 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: 38903d02b1231240d26da96f25e96d73ffa4548b
-ms.sourcegitcommit: fd08cc6c8723fff65cad612ef9092bfae89f5354
+ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34859208"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35062089"
 ---
 # <a name="change-your-profile-name-in-outlookcom"></a>Promijenite naziv profila u Outlook.com
 
