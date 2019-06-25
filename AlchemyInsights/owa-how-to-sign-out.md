@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643302"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273586"
 ---
 # <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kako se odjaviti iz programa Outlook na webu
 
-1. Odaberite naziv ili slika u gornjem desnom kutu.
-    
-    Ako ne vidite sliku na vrhu zaslona, provjerite ako ad blokiranje je uključen. Ponekad to sprječava sliku s prikazom.
-    
-2. Odaberite **odjaviti**. 
-    
-    Da biste prestali automatski za vaš rad ili školu računa, poništite potvrdni okvir za **zadržati me prijavljeni** na stranici gdje unesite lozinku. 
-    
+Za potpisivanje iz Outlooka na web, odaberite naziv ili slika u gornjem desnom kutu i **Odjava**.
+
+Da biste prestali automatski na poslu ili u školi račun:
+
+1. Odaberite naziv ili slika i **Odjava**.
+1. Idi na [Outlook.office.com](https://outlook.office.com/) i odaberite **neki drugi račun**.
+1. Prijavite se pomoću adrese e-pošte koju želite koristiti.
+
 Da biste saznali više, pogledajte [kako prijaviti za ili iz Outlooka na web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).

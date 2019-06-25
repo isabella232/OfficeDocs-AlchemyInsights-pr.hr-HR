@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: ''
-ms.openlocfilehash: 4298bb2ac29affef0c879f567ea62d0a149c2139
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.custom:
+- "9000641"
+- "2478"
+ms.openlocfilehash: 88d6cae01da1142f0d087592920f8cc2b5b33bf2
+ms.sourcegitcommit: ed30ec6cae5e52b54aa1ac7248a847579ad16062
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34933936"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35079270"
 ---
 # <a name="fix-outlook-on-the-web-sync-issues"></a>Popravak programa Outlook na webu Sinkronizacijski problemi
 
@@ -28,4 +30,4 @@ Outlook na webu prikazuje mobilne uređaje koristiti za povezivanje s poštanski
 
 Da biste saznali više, pogledajte [e-pošte popravak sinkronizirati problemi ili uklonite uređaj iz programa Outlook na web poštanskog sandučića](https://support.office.com/article/775ed31c-05bd-4ee4-b1b3-33fad7b5b992)
 
-*Napomena:* Povezani računi više nisu podržane u programu Outlook na webu. Da biste saznali više, pogledajte [povezani računi više nije podržan u programu Outlook na webu](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)
+*Napomena:* Povezani računi više nisu podržane u programu Outlook na webu. Da biste saznali više, pogledajte [povezani računi više nisu podržane u programu Outlook na webu](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)
