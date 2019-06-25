@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643302"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273586"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="58533-102">Kako se odjaviti iz programa Outlook na webu</span><span class="sxs-lookup"><span data-stu-id="58533-102">How to sign out of Outlook on the web</span></span>
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="247b6-102">Kako se odjaviti iz programa Outlook na webu</span><span class="sxs-lookup"><span data-stu-id="247b6-102">How to sign out of Outlook on the web</span></span>
 
-1. <span data-ttu-id="58533-103">Odaberite naziv ili slika u gornjem desnom kutu.</span><span class="sxs-lookup"><span data-stu-id="58533-103">Select your name or picture at the top right corner.</span></span>
-    
-    <span data-ttu-id="58533-104">Ako ne vidite sliku na vrhu zaslona, provjerite ako ad blokiranje je uključen.</span><span class="sxs-lookup"><span data-stu-id="58533-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="58533-105">Ponekad to sprječava sliku s prikazom.</span><span class="sxs-lookup"><span data-stu-id="58533-105">Sometimes this prevents the picture from showing.</span></span>
-    
-2. <span data-ttu-id="58533-106">Odaberite **odjaviti**.</span><span class="sxs-lookup"><span data-stu-id="58533-106">Select **Sign out**.</span></span> 
-    
-    <span data-ttu-id="58533-107">Da biste prestali automatski za vaš rad ili školu računa, poništite potvrdni okvir za **zadržati me prijavljeni** na stranici gdje unesite lozinku.</span><span class="sxs-lookup"><span data-stu-id="58533-107">To stop automatically signing in to your work or school account, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span> 
-    
-<span data-ttu-id="58533-108">Da biste saznali više, pogledajte [kako prijaviti za ili iz Outlooka na web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="58533-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
+<span data-ttu-id="247b6-103">Za potpisivanje iz Outlooka na web, odaberite naziv ili slika u gornjem desnom kutu i **Odjava**.</span><span class="sxs-lookup"><span data-stu-id="247b6-103">To sign out of Outlook on the web, select your name or picture at the top right corner and select **Sign out**.</span></span>
+
+<span data-ttu-id="247b6-104">Da biste prestali automatski na poslu ili u školi račun:</span><span class="sxs-lookup"><span data-stu-id="247b6-104">To stop automatically signing in to your work or school account:</span></span>
+
+1. <span data-ttu-id="247b6-105">Odaberite naziv ili slika i **Odjava**.</span><span class="sxs-lookup"><span data-stu-id="247b6-105">Select your name or picture and select **Sign out**.</span></span>
+1. <span data-ttu-id="247b6-106">Idi na [Outlook.office.com](https://outlook.office.com/) i odaberite **neki drugi račun**.</span><span class="sxs-lookup"><span data-stu-id="247b6-106">Go to [Outlook.office.com](https://outlook.office.com/) and select **Use another account**.</span></span>
+1. <span data-ttu-id="247b6-107">Prijavite se pomoću adrese e-pošte koju želite koristiti.</span><span class="sxs-lookup"><span data-stu-id="247b6-107">Sign in with the email address you want to use.</span></span>
+
+<span data-ttu-id="247b6-108">Da biste saznali više, pogledajte [kako prijaviti za ili iz Outlooka na web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="247b6-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>

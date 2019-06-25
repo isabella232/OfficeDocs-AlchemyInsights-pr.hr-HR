@@ -14,23 +14,23 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: db963210d99ad41fe69eeae11baac9590f429448
-ms.sourcegitcommit: 03af2db31b45958e5f541d7740078cf65e0589ce
+ms.openlocfilehash: 81da5338117b49a21c95de2beae8319c55c83c4a
+ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34709009"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34957373"
 ---
-# <a name="print-email-and-calendars"></a><span data-ttu-id="8880e-102">Ispis e-pošte i kalendara</span><span class="sxs-lookup"><span data-stu-id="8880e-102">Print email and calendars</span></span>
+# <a name="print-email-and-calendars"></a><span data-ttu-id="6dafa-102">Ispis e-pošte i kalendara</span><span class="sxs-lookup"><span data-stu-id="6dafa-102">Print email and calendars</span></span>
 
-<span data-ttu-id="8880e-103">Da biste ispisali poruku e-pošte:</span><span class="sxs-lookup"><span data-stu-id="8880e-103">To print an email message:</span></span>
+<span data-ttu-id="6dafa-103">Da biste ispisali poruku e-pošte:</span><span class="sxs-lookup"><span data-stu-id="6dafa-103">To print an email message:</span></span>
   
-1. <span data-ttu-id="8880e-104">Odaberite poruku koju želite ispisati.</span><span class="sxs-lookup"><span data-stu-id="8880e-104">Select the message you want to print.</span></span>
-1. <span data-ttu-id="8880e-105">Iznad okno za čitanje odaberite tri točkice i odaberite **Ispis**.</span><span class="sxs-lookup"><span data-stu-id="8880e-105">Above the reading pane, select the three dots and then select **Print**.</span></span>
+1. <span data-ttu-id="6dafa-104">Odaberite poruku koju želite ispisati.</span><span class="sxs-lookup"><span data-stu-id="6dafa-104">Select the message you want to print.</span></span>
+1. <span data-ttu-id="6dafa-105">U gornjem desnom kutu poruke odaberite tri točkice i odaberite **Ispis**.</span><span class="sxs-lookup"><span data-stu-id="6dafa-105">At the top right corner of the message, select the three dots and then select **Print**.</span></span>
 
-<span data-ttu-id="8880e-106">Ispis kalendara:</span><span class="sxs-lookup"><span data-stu-id="8880e-106">To print your calendar:</span></span>
+<span data-ttu-id="6dafa-106">Ispis kalendara:</span><span class="sxs-lookup"><span data-stu-id="6dafa-106">To print your calendar:</span></span>
 
-1. <span data-ttu-id="8880e-107">U gornjem desnom kutu stranice odaberite **Ispis**.</span><span class="sxs-lookup"><span data-stu-id="8880e-107">At the top right corner of the page, select **Print**.</span></span>
-1. <span data-ttu-id="8880e-108">Odaberite raspon prikaz i vrijeme i odaberite **Ispis**.</span><span class="sxs-lookup"><span data-stu-id="8880e-108">Choose the view and time range, and select **Print**.</span></span>
+1. <span data-ttu-id="6dafa-107">U gornjem desnom kutu stranice odaberite **Ispis**.</span><span class="sxs-lookup"><span data-stu-id="6dafa-107">At the top right corner of the page, select **Print**.</span></span>
+1. <span data-ttu-id="6dafa-108">Odaberite raspon prikaz i vrijeme i odaberite **Ispis**.</span><span class="sxs-lookup"><span data-stu-id="6dafa-108">Choose the view and time range, and select **Print**.</span></span>
 
-<span data-ttu-id="8880e-109">Saznajte više o tome kako [Ispis e-pošte i kalendara u Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="8880e-109">Learn more about how to [print email and calendars in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span></span>
+<span data-ttu-id="6dafa-109">Saznajte više o tome kako [Ispis e-pošte i kalendara u Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="6dafa-109">Learn more about how to [print email and calendars in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409).</span></span>
