@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d9adb02292132e60af206e2fd7fe3204ff03471f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760508"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223596"
 ---
 # <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>Omogućavanje određivanja verzija za SharePoint popis ili biblioteku
 
@@ -21,18 +21,18 @@ Kada je omogućeno određivanje verzije u SharePoint popis ili biblioteku, može
 
 Dodatne informacije na određivanje verzije, posjetite na ispod članaka.
 
-[Kako određivanje verzije funkcionira u SharePoint popisu ili biblioteci](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
+- [Kako određivanje verzije funkcionira u SharePoint popisu ili biblioteci](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
-[Omogućavanje i konfiguriranje određivanja verzije za popis ili biblioteku](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f&amp;ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Omogućavanje i konfiguriranje određivanja verzije za popis ili biblioteku](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f&amp;ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[Kako pregledati povijest verzija](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
+- [Kako pregledati povijest verzija](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
 
-[Vraćanje prethodne verzije datoteka u OneDrive](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Vraćanje prethodne verzije datoteka u OneDrive](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[Pregled starijih verzija datoteka sustava Office](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+- [Pregled starijih verzija datoteka sustava Office](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
-[Određivanje verzije ograničenja](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+- [Određivanje verzije ograničenja](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-Napomena: Ako ste Office 365 kupca, određivanje verzije sada uključena po zadanom kada kreirate novi OneDrive za poslovne biblioteke i automatski spremiti posljednje 500 verzije dokumenta. To će vam pomoći spriječili gubitak važnih dokumenata ili podatke. Ako imate postojeće biblioteke na OneDrive za poslovne web-mjesta ili na web-mjestu tima koji imaju određivanje verzije omogućeno određivanje verzije možete uključiti na za njih u bilo kojem trenutku.
+**Napomena:** Ako ste Office 365 kupca, određivanje verzije sada uključena po zadanom kada kreirate novi OneDrive za poslovne biblioteke i automatski spremiti posljednje 500 verzije dokumenta. To će vam pomoći spriječili gubitak važnih dokumenata ili podatke. Ako imate postojeće biblioteke na OneDrive za poslovne web-mjesta ili na web-mjestu tima koji imaju određivanje verzije omogućeno određivanje verzije možete uključiti na za njih u bilo kojem trenutku.
 
 
