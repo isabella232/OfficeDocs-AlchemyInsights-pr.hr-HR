@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "540"
+- "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 584024a2acc3594722f80cb14e499a48d502d087
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e84f1102a5862bf76bbb24a99fa13835dedd6a79
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391430"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367389"
 ---
 # <a name="too-many-licenses"></a>Previše licence?
 
@@ -25,13 +27,11 @@ Ako mislite da si se naplatiti za previše licence, to jest obično potrebe kupi
  **Smanjite broj kupljenih licenci**
   
 1. U centru za administratore otvorite stranicu [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **Naplata** \> **Pretplate**.
-    
-2. Na lijevoj strani, odaberite pretplate iz kojeg želite ukloniti licence.
-    
-3. Odaberite **Dodaj Ukloni licence**.
-    
-4. Unesite ukupni broj korisnika potrebna. Ako, na primjer, ako trenutno imate 25 licence i želite ukloniti 5, u ovo polje unesite 20.
-    
-5. Odaberite **Pošalji**.
-    
 
+2. Na lijevoj strani, odaberite pretplate iz kojeg želite ukloniti licence.
+
+3. Odaberite **Dodaj Ukloni licence**.
+
+4. Unesite ukupni broj korisnika potrebna. Ako, na primjer, ako trenutno imate 25 licence i želite ukloniti 5, u ovo polje unesite 20.
+
+5. Odaberite **Pošalji**.
