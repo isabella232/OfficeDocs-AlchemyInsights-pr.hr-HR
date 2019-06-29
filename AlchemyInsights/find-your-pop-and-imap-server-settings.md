@@ -7,20 +7,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1800018
+ms.custom:
+- "934"
+- "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 1c9fa4155bd0927b0328cc0023c91862b76d50fe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bab36de056fadc7faeadbd2283b7b74528d0efb1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401470"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387891"
 ---
 # <a name="find-your-pop-or-imap-server-settings"></a>Pronalaženje POP, IMAP ili postavke poslužitelja
 
 Ako ne znate koje postavke morate dodati POP, IMAP ili račun programa Outlook, možete ih potražiti u našem [POP i IMAP postavki za Outlook e-pošte](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
   
 > [!NOTE]
-> Jeste li znali možete [omogućiti i konfigurirati POP3 na poslužitelju Exchange 2016](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)? 
+> Jeste li znali možete [omogućiti i konfigurirati POP3 na poslužitelju Exchange 2016](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?
   
-
