@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769429"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359331"
 ---
 # <a name="access-services-retirement"></a>Access services umirovljenje
 
@@ -24,7 +27,7 @@ Početni lipanj 2019 ćemo će zaustaviti stvaranje nove baze podataka programa 
 
 **Što je potrebno učiniti da biste pripremili za ovu promjenu?**
 
-Pozivamo vas da stvorite plan tranzicije za vaša organizacija pristup web-baze podataka. Administratori možete koristiti [pristup SharePoint app skener](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) da biste nabavili zaliha apps pristup koji koriste web-mjesta. 
+Pozivamo vas da stvorite plan tranzicije za vaša organizacija pristup web-baze podataka. Administratori možete koristiti [pristup SharePoint app skener](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) da biste nabavili zaliha apps pristup koji koriste web-mjesta.
 
 Postoji nekoliko načina za migraciju podataka Access web baze podataka:
 

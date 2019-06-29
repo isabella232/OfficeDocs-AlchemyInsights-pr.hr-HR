@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1951
+ms.custom:
+- "1951"
+- "9000241"
 ms.assetid: ''
-ms.openlocfilehash: 18a2bbba398ed5e693df080254ec7a0c1b24f941
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 5b256edb711d194584871c8072af9a266479e1bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096447"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390037"
 ---
 # <a name="outlook-not-synching-folders"></a>Outlook nije sinkroniziranje mapa
 
@@ -25,5 +27,5 @@ Ako Outlook nije sinkroniziranje mape prema očekivanjima, postoje neke stvari k
 1. Smanjite broj mapa u poštanskom sandučiću primarno ili zajednički. [Pogledajte Outlook kada postoji previše stavki ili mape u .ost načinu Cached ili mapu .pst datoteke problemi s performansama](https://support.microsoft.com/help/2768656).
 2. Onemogućiti predmemoriranje sve zajedničke mape.
 3. Promijenite konfiguraciju sekundarni poštanski sandučić sustava Exchange drugi račun sustava Exchange u profilu.
- 
+
 Za dodatne informacije pogledajte [performanse i sinkronizacije probleme kada rad s mapama u sekundarni poštanski sandučić u programu Outlook](https://support.microsoft.com/help/3115602).

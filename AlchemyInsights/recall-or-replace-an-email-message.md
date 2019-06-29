@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770801"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356589"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Opozvati ili zamijeniti poruku e-pošte
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770801"
 - Ako ste na administraciju, možete **opoziv poruke u ime korisnika pomoću PowerShell**. Nije moguće opozvati poruke iz centra za administraciju. Pomaknite se do "Traženje i brisanje poruka e-pošte u vašoj organizaciji" Dodatne informacije.
 
 ***Opozvati ili zamijeniti poruku e-pošte koje ste poslali***
+
 1. U oknu mape na lijevoj strani prozora programa Outlook, odaberite mapu poslane stavke.
 2. Otvorite poruku koju želite opozvati. Dvokliknite morate otvoriti poruku. Ako odaberete poruku tako da se pojavljuje u oknu za čitanje neće dopustiti opozvati poruku.
 3. Na kartici poruka, odaberite **Akcije** > **Opoziv ove poruke**.
 4. Odaberite **izbrisati nepročitane kopije ove poruke** ili **izbrisati nepročitane kopije i zamijeniti novu poruku**, a zatim **u redu**.
 5. Ako šaljete poruku zamjenski sastavite poruku, a zatim odaberite **Pošalji**.
-6. Uspjeh ili Neuspjeh opoziva poruke ovisi o postavkama primatelja u programu Outlook. 
+6. Uspjeh ili Neuspjeh opoziva poruke ovisi o postavkama primatelja u programu Outlook.
 
 Za više informacija, uključujući kako provjeriti opoziv, pogledajte [Opoziv ili zamjena poruke e-pošte koju ste poslali](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
