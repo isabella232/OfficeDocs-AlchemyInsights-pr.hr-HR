@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392354"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372541"
 ---
 # <a name="replying-in-outlookcom"></a>Odgovaranje u Outlook.com
 
 Da biste odgovorili na jednu poruku odjednom:
 
-1. Na popisu poruka odaberite poruku koju želite proslijediti.
+1. U popisu poruka, odaberite poruku na koju želite odgovoriti.
 2. Na vrhu desno od okno poruka odaberite **Odgovori** strelica ili strelice **Odgovori svima** .
 3. Upišite svoju poruku, a zatim odaberite **Pošalji**.
 
 Za automatsko odgovaranje na sve poruke:
 
-1. Otvorite [Postavke automatskih odgovora](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Idite na **Postavke** > **Prikaz sve Outlookove postavke** > **poštu** > **Automatske odgovore** otvorite [Postavke automatskih odgovora](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. Odaberite Preklopi **Uključivanje automatske odgovore** .
 3. Uključivanjem potvrdnog okvira **slanje odgovora samo tijekom vremenskog razdoblja** omogućuje:
     - Slanje odgovora samo kada odaberete. Ako ne postavite vremensko razdoblje, automatski odgovor ostaje na dok ga isključiti.
