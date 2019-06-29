@@ -10,17 +10,19 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "168"
+- "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 134361cc92b86ab13a5cd3443b6fabe2df3b83bb
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 20e3110c61599ebd8548f0aedc53c644132c7766
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408136"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364005"
 ---
-# <a name="control-creation-of-o365-groups"></a><span data-ttu-id="e788f-102">Stvaranje kontrole O365 grupa</span><span class="sxs-lookup"><span data-stu-id="e788f-102">Control creation of O365 groups</span></span>
+# <a name="control-creation-of-o365-groups"></a><span data-ttu-id="a2633-102">Stvaranje kontrole O365 grupa</span><span class="sxs-lookup"><span data-stu-id="a2633-102">Control creation of O365 groups</span></span>
 
-<span data-ttu-id="e788f-103">Po zadanom, moći stvoriti grupe O365 su svim korisnicima unutar tvrtke.</span><span class="sxs-lookup"><span data-stu-id="e788f-103">By default, all users within the company are able to create O365 groups.</span></span> <span data-ttu-id="e788f-104">Ako je potrebno, koje su moći promijeniti i dodijeliti desno za stvaranje grupe O365 skup osobe unutar tvrtke.</span><span class="sxs-lookup"><span data-stu-id="e788f-104">If needed, you are able to change this, and assign the right to create O365 groups to a set of people within your company.</span></span> <span data-ttu-id="e788f-105">Imajte na umu da ovo će imati utjecaj na stvaranje grupa iz bilo koje O365 usluge (kao što su Outlook, timove, Planer i tako dalje).</span><span class="sxs-lookup"><span data-stu-id="e788f-105">Note that this will have impact on creation of groups from any O365 service (such as Outlook, Teams, Planner and so on).</span></span>
+<span data-ttu-id="a2633-103">Po zadanom, moći stvoriti grupe O365 su svim korisnicima unutar tvrtke.</span><span class="sxs-lookup"><span data-stu-id="a2633-103">By default, all users within the company are able to create O365 groups.</span></span> <span data-ttu-id="a2633-104">Ako je potrebno, koje su moći promijeniti i dodijeliti desno za stvaranje grupe O365 skup osobe unutar tvrtke.</span><span class="sxs-lookup"><span data-stu-id="a2633-104">If needed, you are able to change this, and assign the right to create O365 groups to a set of people within your company.</span></span> <span data-ttu-id="a2633-105">Imajte na umu da ovo će imati utjecaj na stvaranje grupa iz bilo koje O365 usluge (kao što su Outlook, timove, Planer i tako dalje).</span><span class="sxs-lookup"><span data-stu-id="a2633-105">Note that this will have impact on creation of groups from any O365 service (such as Outlook, Teams, Planner and so on).</span></span>
   
-<span data-ttu-id="e788f-106">Upute: [Upravljanje koji možete stvoriti grupe Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="e788f-106">Instructions: [Manage who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span></span>
+<span data-ttu-id="a2633-106">Upute: [Upravljanje koji možete stvoriti grupe Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span><span class="sxs-lookup"><span data-stu-id="a2633-106">Instructions: [Manage who can create Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)</span></span>

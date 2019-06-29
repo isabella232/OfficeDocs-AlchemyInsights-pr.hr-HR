@@ -8,19 +8,22 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1403"
+- "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 7c8fc4811deb7169c6521fb75d459099161a26bc
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 8ff512b1c5571c783ef56fff986533f3a4b4db68
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769357"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361341"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="b2797-102">Nije moguće dodati zadani tijek rada za odobrenje 2010</span><span class="sxs-lookup"><span data-stu-id="b2797-102">Can't add default 2010 Approval Workflow</span></span>
+# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="5771e-102">Nije moguće dodati zadani tijek rada za odobrenje 2010</span><span class="sxs-lookup"><span data-stu-id="5771e-102">Can't add default 2010 Approval Workflow</span></span>
 
-<span data-ttu-id="b2797-103">U zbirke web-mjesta Microsoft SharePoint globalno ponovno iskoristiv tijek rada (na primjer "odobrenje - SharePoint 2010") ne može dodati na popis ili biblioteku.</span><span class="sxs-lookup"><span data-stu-id="b2797-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span> <span data-ttu-id="b2797-104">Tijek rada za odobrenje možda nedostaju.</span><span class="sxs-lookup"><span data-stu-id="b2797-104">The approval workflow may be missing.</span></span> <span data-ttu-id="b2797-105">Da biste riješili taj problem odnose se [ne može dodati globalno ponovno iskoristiv tijeka rada na SharePoint popis ili biblioteku](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span><span class="sxs-lookup"><span data-stu-id="b2797-105">To resolve this issue refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span> 
+<span data-ttu-id="5771e-103">U zbirke web-mjesta Microsoft SharePoint globalno ponovno iskoristiv tijek rada (na primjer "odobrenje - SharePoint 2010") ne može dodati na popis ili biblioteku.</span><span class="sxs-lookup"><span data-stu-id="5771e-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span> <span data-ttu-id="5771e-104">Tijek rada za odobrenje možda nedostaju.</span><span class="sxs-lookup"><span data-stu-id="5771e-104">The approval workflow may be missing.</span></span> <span data-ttu-id="5771e-105">Da biste riješili taj problem odnose se [ne može dodati globalno ponovno iskoristiv tijeka rada na SharePoint popis ili biblioteku](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span><span class="sxs-lookup"><span data-stu-id="5771e-105">To resolve this issue refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span>
 
-<span data-ttu-id="b2797-106">Dodatne informacije o tijek rada odobravanja u odjeljku [sve o procesima odobrenja] (https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span><span class="sxs-lookup"><span data-stu-id="b2797-106">For more info about Workflow Approvals, see [All about Approval workflows] (https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span></span> 
+<span data-ttu-id="5771e-106">Dodatne informacije o tijek rada odobravanja u odjeljku [sve o procesima odobrenja] (https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span><span class="sxs-lookup"><span data-stu-id="5771e-106">For more info about Workflow Approvals, see [All about Approval workflows] (https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span></span> 
  
-<span data-ttu-id="b2797-107">Saznajte više o [Moderna odobravanja u protoku] (https://flow.microsoft.com/blog/introducing-modern-approvals).</span><span class="sxs-lookup"><span data-stu-id="b2797-107">Learn more about [Modern Approvals in Flow] (https://flow.microsoft.com/blog/introducing-modern-approvals).</span></span> 
+<span data-ttu-id="5771e-107">Saznajte više o [Moderna odobravanja u protoku] (https://flow.microsoft.com/blog/introducing-modern-approvals).</span><span class="sxs-lookup"><span data-stu-id="5771e-107">Learn more about [Modern Approvals in Flow] (https://flow.microsoft.com/blog/introducing-modern-approvals).</span></span> 
   
