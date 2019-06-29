@@ -8,21 +8,22 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "914"
+- "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 7dcb04d0e1613ed75e664345ecc35cae86dadc1f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6408a266ca34b237f020aeb0c1b83a3d10d39a5f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373740"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35367965"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a><span data-ttu-id="13247-102">Koraci za rješavanje pogreška pri aktivaciji office 0x80070005</span><span class="sxs-lookup"><span data-stu-id="13247-102">Steps to resolve office activation error 0x80070005</span></span>
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a><span data-ttu-id="8125e-102">Koraci za rješavanje pogreška pri aktivaciji office 0x80070005</span><span class="sxs-lookup"><span data-stu-id="8125e-102">Steps to resolve office activation error 0x80070005</span></span>
 
-
-<span data-ttu-id="13247-103">Ako nakon ažuriranja Windows pokrene 0x80070005 pogreške, ispravite problem tako ažuriranje registra.</span><span class="sxs-lookup"><span data-stu-id="13247-103">If the 0x80070005 error started after updating Windows, you can fix the issue by updating the registry.</span></span> 
+<span data-ttu-id="8125e-103">Ako nakon ažuriranja Windows pokrene 0x80070005 pogreške, ispravite problem tako ažuriranje registra.</span><span class="sxs-lookup"><span data-stu-id="8125e-103">If the 0x80070005 error started after updating Windows, you can fix the issue by updating the registry.</span></span>
   
-<span data-ttu-id="13247-104">Preuzmite i instalirajte [podršku i oporavak pomoćnika](https://aka.ms/SARA-OfficeActivation-Alchemy) i pokrenite **Aktivaciju za otklanjanje poteškoća**.</span><span class="sxs-lookup"><span data-stu-id="13247-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
+<span data-ttu-id="8125e-104">Preuzmite i instalirajte [podršku i oporavak pomoćnika](https://aka.ms/SARA-OfficeActivation-Alchemy) i pokrenite **Aktivaciju za otklanjanje poteškoća**.</span><span class="sxs-lookup"><span data-stu-id="8125e-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
   
-<span data-ttu-id="13247-105">Dodatnu pomoć potražite: [Office šifru pogreške 0x80070005 kada aktivirate Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span><span class="sxs-lookup"><span data-stu-id="13247-105">For additional help, see: [Office error code 0x80070005 when activating Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span></span>
+<span data-ttu-id="8125e-105">Dodatnu pomoć potražite: [Office šifru pogreške 0x80070005 kada aktivirate Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span><span class="sxs-lookup"><span data-stu-id="8125e-105">For additional help, see: [Office error code 0x80070005 when activating Office](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)</span></span>
   
-
