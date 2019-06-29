@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1336
+ms.custom:
+- "1336"
+- "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: cfcc69c1b3a59c73037d9a493af4ece86b7b7208
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 05e7b47a2200c3b0500e7d786166966ea301179a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762072"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370379"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Mapu oporaviti stavke je pun
 
@@ -31,7 +33,7 @@ Kada mapu oporaviti stavke dosegne ograničenje prostora za pohranu, funkcionaln
 
 - Za poštanske sandučiće koji imaju poštanski sandučić nadzora omogućeno zapisivanje, stavke evidencije nadzora nema poštanski sandučić možete spremiti u revizije podmapu u mapi oporaviti stavke.
 
-Za poštanske sandučiće koji nisu na čekanju, možete koristiti administratori na `Search-Mailbox -SearchDumpsterOnly -DeleteContent` naredbu u Exchange Online PowerShell izbrisati stavke u mapi oporaviti stavke. Dodatne informacije potražite u sljedećim temama: 
+Za poštanske sandučiće koji nisu na čekanju, možete koristiti administratori na `Search-Mailbox -SearchDumpsterOnly -DeleteContent` naredbu u Exchange Online PowerShell izbrisati stavke u mapi oporaviti stavke. Dodatne informacije potražite u sljedećim temama:
 
 - [Traženje i brisanje poruka](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
 

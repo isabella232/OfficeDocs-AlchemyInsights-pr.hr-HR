@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1488
+ms.custom:
+- "1488"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373308"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371425"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kako izvesti pretraživanja sadržaja i pretraživanja predočavanja elektroničkih dokumenata
 
@@ -26,8 +28,8 @@ ms.locfileid: "32373308"
 2. Kliknite **pretraživanje sadržaja & istrage > pretraživanja**.
 3. Kliknite **novo pretraživanje** da biste stvorili novo pretraživanje.
 4. Unesite potrebne pretraživanja uvjetima uključujući ključne riječi i mjesta sadržaja.  
-5. Kliknite **Spremi & Pokreni** za naziv pretraživanja, pokrenite ga i pretpregled rezultata. 
- 
+5. Kliknite **Spremi & Pokreni** za naziv pretraživanja, pokrenite ga i pretpregled rezultata.
+
 Za detaljne upute o stvaranju pretraživanja i izvozom rezultata, pogledajte [Ovaj članak](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 **obveza predočavanja elektroničkih dokumenata pretraživanja**
