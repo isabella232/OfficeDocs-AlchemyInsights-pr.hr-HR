@@ -8,17 +8,21 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1386"
+- "2303"
+- "5200004"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: a4c6029c632178136396a91ba9754752dc8f7180
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cc0218dd34844cc1fdeb55a6f84975311826c372
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407606"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364545"
 ---
 # <a name="create-a-sharepoint-site"></a>Stvaranje SharePoint web-mjesta
 
-[Upravljanje web-mjestima u novi centar admin SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation ) potražite mogućnosti stvaranja web-mjesta. Odaberite da biste stvorili [web-mjesto tima](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (koji će stvoriti grupu Office 365) ili [komunikacije web-mjesta](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Za stvaranje [Klasična web-mjesta](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)ili mjesta novog tima koji ne uključuje Office 365 grupe, pritisnite **druge mogućnosti**. 
+[Upravljanje web-mjestima u novi centar admin SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation ) potražite mogućnosti stvaranja web-mjesta. Odaberite da biste stvorili [web-mjesto tima](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (koji će stvoriti grupu Office 365) ili [komunikacije web-mjesta](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Za stvaranje [Klasična web-mjesta](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)ili mjesta novog tima koji ne uključuje Office 365 grupe, pritisnite **druge mogućnosti**.
   
 Savjete:
 - *Nije moguće stvoriti web-mjesto s istim URL postojećeg web-mjesta. Ako brišu web-mjesta i želimo da ponovno koristite URL, moguće je izbrisano web-mjesto još uvijek postoji pod **Izbrisano web-mjesta**. Upravljanje izbrisati web-mjesta pogledajte [Brisanje web-mjesta](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Da biste potpuno uklonili web-mjesto Powershell pogledajte primjer cmdlet [Ukloni SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .*
