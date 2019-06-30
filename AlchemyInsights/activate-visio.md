@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883153"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358893"
 ---
 # <a name="activate-visio"></a>Aktiviranje programa Visio
 
@@ -27,8 +27,8 @@ Prije korisnika možete instalirati i aktivirati na radnoj površini Visio radne
 
 Da biste aktivirali Visio:
 
-1. [Visio instalirati](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) ako već nije instaliran.
-2. Nakon dovršetka instalacije otvorite Visio. U mnogim slučajevima u app automatski aktivira i možete početi odmah koristiti Visio. Ako se od vas zatraži prijava, svakako prijavite isti posao ili školi računa koja je dodijeljena licenca Visio. 
+1. Instalirajte Visio iz [Moje portal računa](https://portal.office.com/account#installs) ako već nije instaliran. Za pomoć pogledajte [Instalirati Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Nakon dovršetka instalacije otvorite Visio app. Visio će vjerojatno automatski aktivirati i možete početi odmah koristiti. Ako ne, možda ćete biti upitani za prijavu u. Svakako prijavite isti posao ili školi računa koja je dodijeljena licenca Visio. Slijedite upute da biste nastavili s aktivacijom. 
 
 Za aktivaciju problemi na zahvaćeni računalu pokrenuti [za otklanjanje poteškoća s aktivacijom](https://aka.ms/SARA-OfficeActivation-Alchemy) .
 

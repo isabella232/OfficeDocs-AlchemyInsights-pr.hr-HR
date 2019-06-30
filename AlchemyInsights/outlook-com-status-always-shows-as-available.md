@@ -1,26 +1,26 @@
 ---
-title: 8000049 Outlook.com stanje se uvijek prikazuje kao dostupno
+title: Outlook.com stanje se uvijek prikazuje kao dostupno
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000049
+ms.custom:
+- "817"
+- "1767"
+- "1768"
+- "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 4f19d74c0181e987691c7da0b3408f0511e3c164
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5ade09e56eeb283d61bcb7b4b49fa65103b5e26e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373611"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371857"
 ---
-# <a name="my-outlookcom-status-always-shows-as-available"></a>Moje stanje Outlook.com uvijek prikazuje kao dostupno
+# <a name="my-status-always-shows-as-available"></a>Moje stanje se uvijek prikazuje kao dostupno
 
-Stanje računa pojavljuje se pokraj slike računa i omogućuje vašem Outlook.com i kontaktima servisa Skype znati ako ste dostupni razgovor ili ste poziv servisa Skype. status račun u Outlook.com ili servisa Skype možete promijeniti, ali svaki put kada se prijavite na Outlook.com, račun status će vratiti na dostupno.
-  
-Vaš status možete spriječiti promjena pomoću Outlook.com beta ili nije odjavom Outlook.com. Primijetite da zatvaranja preglednika nije isti kao potpisivanja i nema utjecaja na vaše stanje. Da biste ostali prijavljeni prilikom zatvaranja preglednika, odaberite okvir **Zadrži me prijavljeni** na predznak u upit. 
-  
-
+Svaki put kada se prijavite na Outlook.com, račun status će vratiti dostupno. Vaš status možete spriječiti promjena nije prijavom iz Outlook.com. Da biste ostali prijavljeni prilikom zatvaranja preglednika, odaberite okvir **Zadrži me prijavljeni** na stranicu za prijavu u Outlook.com.
