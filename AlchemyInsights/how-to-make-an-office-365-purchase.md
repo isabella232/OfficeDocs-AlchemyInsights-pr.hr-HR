@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "531"
+- "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 3242e2db85d20364b1678a1ec9c1ed9a93156bd5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ffffbe80c67e223aa7084dd93944c63a055c069e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417526"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384313"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="11a93-102">Kako napraviti nabave Office 365</span><span class="sxs-lookup"><span data-stu-id="11a93-102">How to make an Office 365 purchase</span></span>
+# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="cef89-102">Kako napraviti nabave Office 365</span><span class="sxs-lookup"><span data-stu-id="cef89-102">How to make an Office 365 purchase</span></span>
 
-<span data-ttu-id="11a93-103">Nabava Office 365 mogu se napraviti u centru za administraciju.</span><span class="sxs-lookup"><span data-stu-id="11a93-103">Purchases in Office 365 can be made In the Admin center.</span></span> <span data-ttu-id="11a93-104">Idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.</span><span class="sxs-lookup"><span data-stu-id="11a93-104">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+<span data-ttu-id="cef89-103">Nabava Office 365 mogu se napraviti u centru za administraciju.</span><span class="sxs-lookup"><span data-stu-id="cef89-103">Purchases in Office 365 can be made In the Admin center.</span></span> <span data-ttu-id="cef89-104">Idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.</span><span class="sxs-lookup"><span data-stu-id="cef89-104">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
   
-- <span data-ttu-id="11a93-105">Kupite Office 365 pretplate idite na stranicu [Nabave Services](https://go.microsoft.com/fwlink/p/?linkid=868433) ili odaberite **naplate** \> **Services nabave**.</span><span class="sxs-lookup"><span data-stu-id="11a93-105">To purchase an Office 365 subscription go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
-    
-- <span data-ttu-id="11a93-106">Da biste kupili dodatne licence idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.</span><span class="sxs-lookup"><span data-stu-id="11a93-106">To purchase additional licenses go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span> <span data-ttu-id="11a93-107">Na stranici **pretplate** odaberite pretplate koje želite da dodate licence za i odaberite **Dodaj Ukloni licence**.</span><span class="sxs-lookup"><span data-stu-id="11a93-107">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
-    
-- <span data-ttu-id="11a93-108">Za prijelaz na drugi plan:</span><span class="sxs-lookup"><span data-stu-id="11a93-108">To switch to a different plan:</span></span>
-    
-  - <span data-ttu-id="11a93-109">Odaberite \*\* prebacivanje planovi \*\* za prikaz popisa novih planovi koje su dostupne.</span><span class="sxs-lookup"><span data-stu-id="11a93-109">Choose \*\* Switch plans \*\* to view the list of new plans that are available.</span></span> 
-    
-  - <span data-ttu-id="11a93-110">Odaberite plan da biste vidjeli nove ukupni trošak po mjesecu.</span><span class="sxs-lookup"><span data-stu-id="11a93-110">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="11a93-111">Svakako ključne informacije za čitanje, a zatim odaberite **Dalje** odjaviti.</span><span class="sxs-lookup"><span data-stu-id="11a93-111">Be sure to read the key information, then choose **Next** to check out.</span></span> 
-    
- <span data-ttu-id="11a93-112">**Dodatni resursi**</span><span class="sxs-lookup"><span data-stu-id="11a93-112">**Additional Resources**</span></span>
-  
-- [<span data-ttu-id="11a93-113">Korisnicima u sustavu Office 365 za poslovne dodijeliti licence</span><span class="sxs-lookup"><span data-stu-id="11a93-113">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
-    
-- [<span data-ttu-id="11a93-114">Za poslovne Odustani Office 365</span><span class="sxs-lookup"><span data-stu-id="11a93-114">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-    
+- <span data-ttu-id="cef89-105">Kupite Office 365 pretplate idite na stranicu [Nabave Services](https://go.microsoft.com/fwlink/p/?linkid=868433) ili odaberite **naplate** \> **Services nabave**.</span><span class="sxs-lookup"><span data-stu-id="cef89-105">To purchase an Office 365 subscription go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
 
+- <span data-ttu-id="cef89-106">Da biste kupili dodatne licence idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.</span><span class="sxs-lookup"><span data-stu-id="cef89-106">To purchase additional licenses go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span> <span data-ttu-id="cef89-107">Na stranici **pretplate** odaberite pretplate koje želite da dodate licence za i odaberite **Dodaj Ukloni licence**.</span><span class="sxs-lookup"><span data-stu-id="cef89-107">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
+
+- <span data-ttu-id="cef89-108">Za prijelaz na drugi plan:</span><span class="sxs-lookup"><span data-stu-id="cef89-108">To switch to a different plan:</span></span>
+
+  - <span data-ttu-id="cef89-109">Odaberite **parametar planove** za prikaz popisa novih planovi koje su dostupne.</span><span class="sxs-lookup"><span data-stu-id="cef89-109">Choose **Switch plans** to view the list of new plans that are available.</span></span>
+
+  - <span data-ttu-id="cef89-110">Odaberite plan da biste vidjeli nove ukupni trošak po mjesecu.</span><span class="sxs-lookup"><span data-stu-id="cef89-110">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="cef89-111">Svakako ključne informacije za čitanje, a zatim odaberite **Dalje** odjaviti.</span><span class="sxs-lookup"><span data-stu-id="cef89-111">Be sure to read the key information, then choose **Next** to check out.</span></span>
+  
+ <span data-ttu-id="cef89-112">**Dodatni resursi**</span><span class="sxs-lookup"><span data-stu-id="cef89-112">**Additional Resources**</span></span>
+  
+- [<span data-ttu-id="cef89-113">Korisnicima u sustavu Office 365 za poslovne dodijeliti licence</span><span class="sxs-lookup"><span data-stu-id="cef89-113">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+
+- [<span data-ttu-id="cef89-114">Za poslovne Odustani Office 365</span><span class="sxs-lookup"><span data-stu-id="cef89-114">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)

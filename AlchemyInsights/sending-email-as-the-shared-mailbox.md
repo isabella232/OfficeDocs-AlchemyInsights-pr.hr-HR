@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "622"
+- "3500003"
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: b8c6a5ba5ab28912ef09a4b17468a917534a54f0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a4108d4befc1df70596149a1aedcbc781d33c641
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421916"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369369"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="7e1b7-102">Slanje e-pošte kao zajednički poštanski sandučić</span><span class="sxs-lookup"><span data-stu-id="7e1b7-102">Sending email as the shared mailbox</span></span>
+# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="e5718-102">Slanje e-pošte kao zajednički poštanski sandučić</span><span class="sxs-lookup"><span data-stu-id="e5718-102">Sending email as the shared mailbox</span></span>
 
-<span data-ttu-id="7e1b7-103">Nakon kreiranja zajednički poštanski sandučić korisnike koji su članovi poštanskog sandučića su moći poslati e-poštu kao identitet zajednički poštanski sandučić (na primjer, *info@contoso.com* ).</span><span class="sxs-lookup"><span data-stu-id="7e1b7-103">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ).</span></span> <span data-ttu-id="7e1b7-104">Za upute pogledajte:</span><span class="sxs-lookup"><span data-stu-id="7e1b7-104">For instructions, see:</span></span> 
+<span data-ttu-id="e5718-103">Nakon kreiranja zajednički poštanski sandučić korisnike koji su članovi poštanskog sandučića su moći poslati e-poštu kao identitet zajednički poštanski sandučić (na primjer, *info@contoso.com* ).</span><span class="sxs-lookup"><span data-stu-id="e5718-103">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ).</span></span> <span data-ttu-id="e5718-104">Za upute pogledajte:</span><span class="sxs-lookup"><span data-stu-id="e5718-104">For instructions, see:</span></span>
   
-[<span data-ttu-id="7e1b7-105">Otvaranje i korištenje zajednički poštanski sandučić u 2016 programa Outlook i Outlook 2013</span><span class="sxs-lookup"><span data-stu-id="7e1b7-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+[<span data-ttu-id="e5718-105">Otvaranje i korištenje zajednički poštanski sandučić u 2016 programa Outlook i Outlook 2013</span><span class="sxs-lookup"><span data-stu-id="e5718-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[<span data-ttu-id="7e1b7-106">Dodavanje zajednički poštanski sandučić programa Outlook na webu</span><span class="sxs-lookup"><span data-stu-id="7e1b7-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[<span data-ttu-id="e5718-106">Dodavanje zajednički poštanski sandučić programa Outlook na webu</span><span class="sxs-lookup"><span data-stu-id="e5718-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   
-
