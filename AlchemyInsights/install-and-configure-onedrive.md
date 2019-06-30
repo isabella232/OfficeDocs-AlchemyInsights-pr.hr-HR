@@ -7,22 +7,23 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "845"
+- "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: 9ddafba4e83133127574e38542b6380b6002ac41
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a337b6db5b25a5b3af03ff62fef1b88f33562489
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32410366"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382153"
 ---
-# <a name="install-and-configure-onedrive"></a><span data-ttu-id="aee6b-102">Instalirajte i konfigurirajte OneDrive</span><span class="sxs-lookup"><span data-stu-id="aee6b-102">Install and configure OneDrive</span></span>
+# <a name="install-and-configure-onedrive"></a><span data-ttu-id="a9a7f-102">Instalirajte i konfigurirajte OneDrive</span><span class="sxs-lookup"><span data-stu-id="a9a7f-102">Install and configure OneDrive</span></span>
 
-<span data-ttu-id="aee6b-103">Klijent za sinkronizaciju OneDrive predinstalirana Windows 10.</span><span class="sxs-lookup"><span data-stu-id="aee6b-103">The OneDrive sync client is preinstalled with Windows 10.</span></span> <span data-ttu-id="aee6b-104">Da biste instalirali OneDrive za Windows 7 ili Mac ili da biste dobili app mobilni telefon ili tablet Idi na [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="aee6b-104">To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
+<span data-ttu-id="a9a7f-103">Klijent za sinkronizaciju OneDrive je unaprijed instaliranim programom Windows 10.</span><span class="sxs-lookup"><span data-stu-id="a9a7f-103">The OneDrive sync client is pre-installed with Windows 10.</span></span> <span data-ttu-id="a9a7f-104">Da biste instalirali OneDrive za Windows 7 ili Mac ili da biste dobili app mobilni telefon ili tablet Idi na [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="a9a7f-104">To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
   
-<span data-ttu-id="aee6b-105">Da biste postavili klijent za sinkronizaciju OneDrive u sustavu Windows, pogledajte:</span><span class="sxs-lookup"><span data-stu-id="aee6b-105">To set up the OneDrive sync client in Windows, see:</span></span>
+<span data-ttu-id="a9a7f-105">Da biste postavili klijent za sinkronizaciju OneDrive u sustavu Windows, pogledajte:</span><span class="sxs-lookup"><span data-stu-id="a9a7f-105">To set up the OneDrive sync client in Windows, see:</span></span>
   
-- [<span data-ttu-id="aee6b-106">Postavljanje računala za sinkronizaciju OneDrive za poslovne datoteke u sustavu Office 365</span><span class="sxs-lookup"><span data-stu-id="aee6b-106">Set up your computer to sync your OneDrive for Business files in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=533375)
-    
-- [<span data-ttu-id="aee6b-107">Sinkronizacija datoteka sustava SharePoint s novim klijentom za sinkronizaciju servisa OneDrive</span><span class="sxs-lookup"><span data-stu-id="aee6b-107">Sync SharePoint files with the new OneDrive sync client</span></span>](https://go.microsoft.com/fwlink/?linkid=871666)
-    
+- [<span data-ttu-id="a9a7f-106">Postavljanje računala za sinkronizaciju OneDrive za poslovne datoteke u sustavu Office 365</span><span class="sxs-lookup"><span data-stu-id="a9a7f-106">Set up your computer to sync your OneDrive for Business files in Office 365</span></span>](https://go.microsoft.com/fwlink/?linkid=533375)
 
+- [<span data-ttu-id="a9a7f-107">Sinkronizacija datoteka sustava SharePoint s novim klijentom za sinkronizaciju servisa OneDrive</span><span class="sxs-lookup"><span data-stu-id="a9a7f-107">Sync SharePoint files with the new OneDrive sync client</span></span>](https://go.microsoft.com/fwlink/?linkid=871666)
