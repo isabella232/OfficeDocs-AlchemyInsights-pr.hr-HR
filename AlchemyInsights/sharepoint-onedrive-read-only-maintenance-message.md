@@ -1,7 +1,7 @@
 ---
-title: 127 dobivanja TenantAccessBlockedException pogreška pri pristupu e-pošte?
-ms.author: kirks
-author: Techwriter40
+title: Za održavanje poruku kada pokušavate koristiti SharePoint ili OneDrive samo za čitanje
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,27 +12,27 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5613138e7613deb264a7ab2c966f8b9c4a24763d
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
+ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736395"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35840507"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Za održavanje poruku kada pokušavate koristiti SharePoint ili OneDrive samo za čitanje
 
-Korisnici mogu primati na samo za čitanje za održavanje poruku kada pokušavate koristiti SharePoint ili OneDrive.
+Korisnici mogu primati poruke **Samo za čitanje za održavanje** kada pokušavate koristiti SharePoint ili OneDrive.  Ako je tako, provjerite postoji aktivni održavanja pojavljivanja na vašem klijentske odlaskom na [poruku centar](https://portal.office.com/adminportal/home#/MessageCenter). Također, provjerite je li provjera [Stanja servisa](https://portal.office.com/adminportal/home#/servicehealth) nadzorne ploče da biste provjerili sve advisories/incidenata koji možda pojavljivanja.
 
-Provjerite ako postoji aktivni održavanja pojavljivanja na vašem klijentske odlaskom na [poruku centar](https://portal.office.com/adminportal/home#/MessageCenter). Konačno, provjerite posjetite stranicu[Servisa stanja sustava](https://portal.office.com/adminportal/home#/servicehealth) da biste provjerili sve advisories/incidenata koji možda pojavljivanja.
-
-Ako ni centar poruka ili servis stanja nadzorne ploče ste zabilježili ništa o trenutnom održavanja za vaše klijentske, možda preglednika predmemoriranje problem.
+Ako ni poruka centra ili servisa stanja nadzorne ploče ste zabilježili ništa o trenutnom održavanja za vaše klijentske, možda preglednika predmemoriranje problem.
 
 Molimo pokušaj čišćenje predmemorije preglednika prije navigacija web-mjesta.
 
-- U pregledniku Microsoft Edge Idi na više postavki
+1. U pregledniku Microsoft Edge, odaberite **Postavke**, a zatim odaberite **privatnosti i sigurnosti**.
+2. Pod **Očisti pregledavanje**, odaberite **što poništite odabir**.
+3. Odaberite **kolačiće i podataka spremljenih web-mjesto**i odaberite **Očisti**.
 
-- Pod Očisti pregledavanja, odaberite odaberite što poništite.
-- Odaberite kolačiće i spremljena web-mjesto podataka potvrdni okvir i odaberite Očisti.
+>[!Note] 
+> Ove korake može razlikovati pri korištenju drugim preglednicima što Mozilla Firefox ili Google vizualnog.
 
-**Napomena**: ove korake može razlikovati pri korištenju drugim preglednicima što Firefox ili vizualnog okvira.
-
+>[!Note] 
+> Druga mogućnost bila bi otvorite SharePoint web-mjesta ili OneDrive u novom prozoru InPrivate.
