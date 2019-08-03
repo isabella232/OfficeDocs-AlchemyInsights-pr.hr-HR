@@ -1,25 +1,24 @@
 ---
-title: Nove natpise zadržavanja automatski stvara
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Dodatne informacije o pravilima zadržavanja
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222984"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448827"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nove natpise zadržavanja automatski stvara
+# <a name="more-info-about-retention-policies"></a>Dodatne informacije o pravilima zadržavanja
 
 Za većinu organizacija, volumen i složenosti njihovih podataka povećava dnevno - e-pošta, dokumenti, izravnih poruka i više.
-
-Učinkovito upravljanje ili serijskog ove informacije važne, pravila zadržavanja mogu vam pomoći u postizanju ovih ciljeva. Dodatne informacije o pravilima zadržavanja posjetite veze ispod.
+Učinkovito upravljanje ili serijskog ove informacije je važna i pravila zadržavanja mogu vam pomoći u postizanju ovih ciljeva. Dodatne informacije o pravilima zadržavanja posjetite ove veze:
 
 - [Pregled pravila zadržavanja](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
