@@ -1,27 +1,37 @@
 ---
 title: Informacije o zadržavanja i brisanja OneDrive
-ms.author: kirks
-author: Techwriter40
-ms.date: 6/20/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: a98e7740fb6c921252da6f36bc9e20d7a2be0099
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.custom:
+- "2440"
+- "9000596"
+ms.openlocfilehash: 5e67d280b26512613dbe9ecc0cf8f18134f92686
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119681"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232589"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive zadržavanja i brisanja
 
-[Ovaj članak](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) opisuje što se događa s OneDrive korisnika kada izbrišete račun Office 365 za vašu organizaciju.
+- Možete [vratiti izbrisane korisnici OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) sami. Oni su u koš za smeće 93 dana. 
 
-Dodatne informacije o OneDrive zadržavanja i brisanja potražite:
+- Potražite [u ovom članku](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) da biste saznali:
+    - Kako dati drugi korisnički pristup izbrisana korisnička OneDrive.
+    - Što se događa s OneDrive korisnika kada izbrišete račun Office 365 za vašu organizaciju.
+    - Kako konfigurirati automatsko access delegiranja.
+    - Kako radi OneDrive postupak brisanja.
 
-- [Dajte drugi korisnički pristup izbrisana korisnička OneDrive](https://docs.microsoft.com/onedrive/retention-and-deletion#give-another-user-access-to-a-deleted-users-onedrive)
-- [Konfiguriranje automatskog access delegiranje](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
-- [Opis brisanja procesa OneDrive](https://docs.microsoft.com/onedrive/retention-and-deletion#the-onedrive-deletion-process)
-- [Vraćanje izbrisane OneDrive](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
+- Zainteresirani usklađenosti centar sigurnosti i zadržavanja i držite?:
+    - [Pravila zadržavanja za OneDrive i SharePoint web-mjesta](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [Čekanje predočavanja elektroničkih dokumenata za OneDrive i SharePoint web-mjesta](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+
+
+
