@@ -13,18 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 5365cef480f22523e8410acf24f4845026f52a02
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 84538224f9f00f5807489449f3d5e75b99656313
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359757"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386936"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Otkazivanje pretplate Office 365?
 
 Žao nam da biste vidjeli Idi!
   
-Na temelju podataka organizacije Vjerujemo sve trenutne pretplate imaju manje od 25 mesta. Da biste otkazali pretplatu na Internetu, idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili idite na **naplatu** \> **pretplate**, odaberite **Dodatne akcije** \> **otkazati pretplatu**.
+Na temelju podataka organizacije Vjerujemo sve trenutne pretplate imaju manje od 25 mesta. Da biste otkazali pretplatu online idite na **naplatu** \> [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice, a zatim odaberite **Dodatne akcije** \> **otkazati pretplatu**.
   
-Da biste saznali više o otkazivanju pretplate ili za detaljne upute pogledajte ovaj članak: [Odustani Office 365 za business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-  
+Da biste saznali više o otkazivanju pretplate ili za detaljne upute pogledajte ovaj članak: [otkazali pretplatu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

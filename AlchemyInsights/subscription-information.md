@@ -13,16 +13,16 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: cac2ecccd3026671ef557f0d91264929abf441cc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c455489f1daadee74eca909e1a974887227039f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354141"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388304"
 ---
 # <a name="subscription-information"></a>Informacije o pretplati
 
-Informacije o pretplate ste vlasnik, idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.
+Informacije o pretplatama posedujete idite na **naplatu** \> [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
   
 Ključne informacije o svaku pretplatu:
   

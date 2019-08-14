@@ -13,12 +13,12 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2bc74bf0d2bbb12a0973abf045020ce9b39014cf
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362205"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386612"
 ---
 # <a name="compare-office-365-plans"></a>Usporedba planove za Office 365
 
@@ -28,7 +28,6 @@ Planovi Office 365 dostupne su za [poslovne](https://products.office.com/compare
   
 Ako vaša organizacija je zainteresiran Usporedba sve planove i cijene, pregledajte [Usporedi sve planove za Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Ako vaša organizacija već kupili Office 365 plan i zainteresiran za prebacivanje na drugi plan možete tako da iz centra za administraciju Microsoft 365 idite na [pretplatama](https://go.microsoft.com/fwlink/p/?linkid=842054), ili odabrati **naplate** \> **pretplate**. Odaberite **parametar planove** za prikaz popisa novih planovi koje su dostupne.
+Ako vaša organizacija već kupili Office 365 plan i zainteresiran za prebacivanje na drugi plan to možete učiniti iz centra za administraciju Microsoft 365. Idi na **naplatu** \> [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice, a zatim odaberite **parametar planove** za prikaz popisa novih planovi koje su dostupne.
   
-Vaša organizacija možete miješati i odgovaraju Office 365 planove za udovoljava potrebama i značajka zahtjevima korisnika. Iz administraciju Office 365, idite na stranicu [Nabave Services](https://go.microsoft.com/fwlink/p/?linkid=868433) ili odaberite **naplate** \> **Services nabave**.
-  
+Vaša organizacija možete miješati i odgovaraju Office 365 planove za udovoljava potrebama i značajka zahtjevima korisnika. Iz centra za administraciju idite na **naplatu** \> stranici [Servisi nabave](https://go.microsoft.com/fwlink/p/?linkid=868433) .

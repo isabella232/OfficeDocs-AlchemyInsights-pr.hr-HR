@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 8dfeeded3106f707a57a2d0bcfb84c5e7a3416ec
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354069"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388164"
 ---
 # <a name="subscription-recurring-billing"></a>Ponavljajući naplate za pretplatu
 
 Ako želite znati kada mjesecima ili godinama pretplata će se naplatiti (Ako je uključeno **Ponavljanje naplate** ) ili isteći (Ako je isključena **Ponavljanje naplate** ):
   
-1. U centru za administratore otvorite stranicu [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **Naplata** \> **Pretplate**.
+1. U centru za administraciju idite na **naplatu** \> [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
 
 2. Odaberite pretplate koje želite znati više o.
 
@@ -33,3 +33,5 @@ Ako želite znati kada mjesecima ili godinama pretplata će se naplatiti (Ako je
 4. Za nastavak korištenja servisa prošle tog datuma, prijeđite Preklopi **Ponavljanje naplate postavke** **na**. Status će prikazati sljedeći datum naplate za pretplatu.
 
 5. Zaustavljanje servisa na taj datum prijeđite Preklopi **Ponavljanje naplate** **Isključeno**. Status će prikazati datum isteka pretplate.
+
+Koristite novi centar admin? Novi korake potražite [Uključivanje ponavljanja naplate ili isključivanje](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).

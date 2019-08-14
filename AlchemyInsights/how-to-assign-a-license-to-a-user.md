@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385681"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386288"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Dodeljivanje licence korisniku
 
 Korisnik mora imati licencu imati pristup uslugama. Ovdje su koraci za dodavanje, promjena ili uklanjanje licence korisnika.
   
-1. U centru za administraciju idite na stranicu [Aktivne korisnike](https://go.microsoft.com/fwlink/p/?linkid=834822) ili odaberite **korisnike** \> **aktivnih korisnika**.
+1. U centru za administraciju Idi **korisnici** \> stranici [Aktivnog korisnika](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
 2. Odaberite okvir pokraj naziva korisnika kojemu želite dodijeliti, promjena ili uklanjanje licence.
 
@@ -38,5 +38,4 @@ Korisnik mora imati licencu imati pristup uslugama. Ovdje su koraci za dodavanje
 
 5. Na dnu okna **licence proizvoda** odaberite **Spremi** \> **Zatvori** \> **Zatvori**.
 
-Za dodatne informacije pogledajte [dodijeliti licence korisnicima u Office 365 business](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)i [Uklanjanje licence korisnika Office 365 poslovne](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).
-  
+Za dodatne informacije pogledajte [dodijeliti licence korisnicima u Office 365 business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)i [Uklanjanje licence korisnika Office 365 poslovne](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
