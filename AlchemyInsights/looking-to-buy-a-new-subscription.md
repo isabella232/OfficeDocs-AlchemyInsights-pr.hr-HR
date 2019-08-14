@@ -11,33 +11,31 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 68912255fb1c76e417c59bf131dae08d8551fd3c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ee7612cef4ad67c2620a2b1c6851b8d092eb1c36
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409466"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390756"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Traženje kupiti novu pretplatu?
 
-Ako već imate Office 365 za poslovne pretplatu i želite da biste kupili drugu pretplatu za vašu organizaciju, idite na stranicu [Nabave Services](https://go.microsoft.com/fwlink/p/?linkid=868433) ili odaberite **naplate** \> **Services nabave** da biste vidjeli popis pretplata dostupno za vašu organizaciju. 
-  
+Ako već imate Office 365 za poslovne pretplatu i želite da biste kupili drugu pretplatu za vašu organizaciju, idite na **naplatu** \> [Services nabave](https://go.microsoft.com/fwlink/p/?linkid=868433) stranice da biste vidjeli popis pretplata dostupna organizaciji.
+ 
 1. Mišem pločica pretplate i kliknite **Kupite sada**.
-    
+
 2. Odaberite kako biste željeli platiti i broj korisničkih licenci potrebne.
-    
+
 3. Odaberite **odjaviti**. Na sljedećoj stranici možete pregledati redoslijed i dovršiti nabave.
-    
+
 4. Ako niste učinili kupovinu, odaberite **Dodaj u košaricu** \> **Nastavak kupovinu** ići kataloga i kupili drugu pretplatu. 
-    
+
 5. Po dovršetku vaše nabave možda morati ponovno dodijeliti licence ili otkazivanje pretplate. Pomoć s ovom potražite sekciji dodatni resursi.
-    
+
  **Dodatni resursi:**
   
-- [Korisnicima u sustavu Office 365 za poslovne dodijeliti licence](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [Korisnicima u sustavu Office 365 za poslovne dodijeliti licence](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
     
-- [Za poslovne Odustani Office 365](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Otkazivanje pretplate](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
     
-- Ako vas zanima prebacivanja pretplatama, pogledajte [Prijelaz na drugu Office 365 poslovni plan.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)
-    
-
+- Ako vas zanima prebacivanja pretplatama, pogledajte [Prijelaz na drugu Office 365 poslovni plan.](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)

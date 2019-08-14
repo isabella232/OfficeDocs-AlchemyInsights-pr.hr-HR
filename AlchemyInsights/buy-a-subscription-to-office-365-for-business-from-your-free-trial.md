@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359329"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386828"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Kupite pretplatu na Office 365 iz besplatnu probnu verziju
 
@@ -26,18 +26,16 @@ Pokušali ste Office 365 i sada ste spremni za kupnju. Imate dvije mogućnosti p
   
  **Možete kupiti isti plan kao probnu verziju**
   
-1. U centru za administratore otvorite stranicu [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **Naplata** \> **Pretplate**.
+1. U centru za administraciju idite na **naplatu** \> [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
 
 2. Odaberite **kupite sada** za probnu pretplatu koju želite i slijedite korake za odjavu.
 
 ili **možete kupiti drugu pretplatu**
   
-1. Prijavite se u Office 365 s računom poslu ili u školi kao globalne administratora. [Saznajte kako prijaviti](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
+1. U centru za administraciju idite na **naplatu** \> [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
 
-2. Na stranici početak odabrati **Office 365** .
+2. Na stranici **pretplatu** , odaberite **Dodaj pretplate**.
 
-3. U gornjem desnom kutu stranice pod navigacijskoj traci odaberite **nabave**.
+3. Pronaći pretplate koje želite kupiti, **Kupite sada**odabrati i slijedite korake za odjavu.
 
-4. Na stranici **nabave pretplate** plan nastojite ima **Probnu verziju u** transparentu.
-
-5. Odaberite **kupite sada** za probnu pretplatu koju želite i slijedite korake za odjavu.
+Koristite novi centar admin? Novi korake potražite [kupiti pretplatu na Office 365 poslovne iz besplatnu probnu verziju](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
