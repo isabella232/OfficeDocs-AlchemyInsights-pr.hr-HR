@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 0ce4879857f45378bdb95ccfac17d1ef96e30873
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 568fa4662c7d312583348981f80319aaefcf7290
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752824"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506831"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a><span data-ttu-id="27fee-102">Scenariji osvježavanja - otklanjanje pogrešaka pločica</span><span class="sxs-lookup"><span data-stu-id="27fee-102">Troubleshooting refresh scenarios - Tile Errors</span></span>
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a><span data-ttu-id="ab71d-102">Scenariji osvježavanja - otklanjanje pogrešaka pločica</span><span class="sxs-lookup"><span data-stu-id="ab71d-102">Troubleshooting refresh scenarios - Tile Errors</span></span>
 
-<span data-ttu-id="27fee-103">Pričekajte oko 10-15 minuta za osvježavanje odraziti u pločice nadzorne ploče.</span><span class="sxs-lookup"><span data-stu-id="27fee-103">Please wait about 10-15 minutes for refresh to be reflected in the dashboard tiles.</span></span> <span data-ttu-id="27fee-104">Ako ga i dalje ne pokazuje se, ponovno prikvačiti vizualizaciju nadzorne ploče.</span><span class="sxs-lookup"><span data-stu-id="27fee-104">If it is still not showing up, re-pin the visualization to the dashboard.</span></span>
+<span data-ttu-id="ab71d-103">Ako pojave pločica osvježavanja pogreške unutar usluge Dvosmjerno napajanja, pričekajte oko 10-15 minuta za osvježavanje odraziti u pločice nadzorne ploče.</span><span class="sxs-lookup"><span data-stu-id="ab71d-103">If you experience tile refresh errors  within the Power BI service, please wait about 10-15 minutes for refresh to be reflected in the dashboard tiles.</span></span> <span data-ttu-id="ab71d-104">Ako ga i dalje ne pokazuje se, ponovno prikvačiti vizualizaciju nadzorne ploče.</span><span class="sxs-lookup"><span data-stu-id="ab71d-104">If it is still not showing up, re-pin the visualization to the dashboard.</span></span>
 
-<span data-ttu-id="27fee-105">Dodatne informacije:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="27fee-105">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>
+<span data-ttu-id="ab71d-105">Dodatne informacije:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="ab71d-105">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>
