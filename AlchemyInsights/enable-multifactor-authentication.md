@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403667"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527463"
 ---
-# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="be635-102">Omogući višestruku provjeru autentičnosti</span><span class="sxs-lookup"><span data-stu-id="be635-102">Enable multi-factor authentication</span></span>
+# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="e40ca-102">Omogući višestruku provjeru autentičnosti</span><span class="sxs-lookup"><span data-stu-id="e40ca-102">Enable multi-factor authentication</span></span>
 
-1. <span data-ttu-id="be635-103">Idite do **korisnici** \> **aktivne korisnike**</span><span class="sxs-lookup"><span data-stu-id="be635-103">Navigate to **Users** \> **Active users**</span></span>
+<span data-ttu-id="e40ca-103">Da biste omogućili višestruku provjeru autentičnosti u centru za administraciju Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="e40ca-103">To enable multi-factor authentication in the Microsoft 365 admin center:</span></span>
+
+1. <span data-ttu-id="e40ca-104">Idi na **korisnike** \> stranici **aktivnog korisnika** .</span><span class="sxs-lookup"><span data-stu-id="e40ca-104">Go to the **Users** \> **Active users** page.</span></span>
     
-2. <span data-ttu-id="be635-104">Pritisnite **više** \> **Postava Azure više faktora upravu**.</span><span class="sxs-lookup"><span data-stu-id="be635-104">Click **More** \> **Setup Azure multi-factor auth**.</span></span> 
+2. <span data-ttu-id="e40ca-105">Na vrhu stranice, odaberite **višestruku provjeru autentičnosti**.</span><span class="sxs-lookup"><span data-stu-id="e40ca-105">At the top of the page, select **Multi-factor authentication**.</span></span> 
     
-3. <span data-ttu-id="be635-105">Pronaći korisnika ili korisnike koji želite omogućiti za MFA.</span><span class="sxs-lookup"><span data-stu-id="be635-105">Find the user or users who you want to enable for MFA.</span></span> <span data-ttu-id="be635-106">Da biste vidjeli sve korisnike, možda ćete morati promijeniti prikaz više faktora autorizacija stanja na vrhu.</span><span class="sxs-lookup"><span data-stu-id="be635-106">In order to see all the users, you might need to change the Multi-Factor Auth status view at the top.</span></span>
+3. <span data-ttu-id="e40ca-106">Traženje korisnika ili korisnike koji želite omogućiti višestruku provjeru autentičnosti.</span><span class="sxs-lookup"><span data-stu-id="e40ca-106">Find the user or users who you want to enable for multi-factor authentication.</span></span> <span data-ttu-id="e40ca-107">Da biste vidjeli sve korisnike, možda ćete morati promijeniti filtar **statusa više faktora autorizacija** na vrhu.</span><span class="sxs-lookup"><span data-stu-id="e40ca-107">To see all the users, you might need to change the **Multi-Factor Auth status** filter at the top.</span></span>
     
-4. <span data-ttu-id="be635-107">Potvrdite okvir uz korisnike koje želite da omogućite.</span><span class="sxs-lookup"><span data-stu-id="be635-107">Check the check box next to the users you want to enable.</span></span>
+4. <span data-ttu-id="e40ca-108">Odaberite potvrdni okvir uz korisnike koje želite da omogućite.</span><span class="sxs-lookup"><span data-stu-id="e40ca-108">Select the check box next to the users you want to enable.</span></span>
     
-5.  <span data-ttu-id="be635-108">U informacijskom oknu desnom korisnika pod **Brzi koraci** ćete odjeljcima Omogućivanje i upravljanje postavkama korisnika.</span><span class="sxs-lookup"><span data-stu-id="be635-108">On the right user info pane, under **quick steps** you'll see Enable and Manage user settings.</span></span> <span data-ttu-id="be635-109">Odaberite **Omogući**.</span><span class="sxs-lookup"><span data-stu-id="be635-109">Choose **Enable**.</span></span> 
+5.  <span data-ttu-id="e40ca-109">U informacijskom oknu desnom korisnika pod **Brzi koraci**odaberite **Omogući**.</span><span class="sxs-lookup"><span data-stu-id="e40ca-109">In the right user info pane, under **quick steps**, select **Enable**.</span></span> 
     
-6. <span data-ttu-id="be635-110">U dijaloškom okviru koji otvara, **kliknite Omogući višestruku provjeru autentičnosti**.</span><span class="sxs-lookup"><span data-stu-id="be635-110">In the dialog box that opens, **click enable multi-factor auth**.</span></span> 
+6. <span data-ttu-id="e40ca-110">U dijaloškom okviru odaberite **Omogući višestruku provjeru autentičnosti**.</span><span class="sxs-lookup"><span data-stu-id="e40ca-110">In the dialog box that opens, select **enable multi-factor auth**.</span></span> 
     
 
