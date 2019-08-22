@@ -13,17 +13,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: caeab31fa69c743b4f3d2df3d1e265957b518ce8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c3d553d5ba7693a1bc2e8b74b5ba850b05167c53
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386792"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517743"
 ---
 # <a name="billing-cycle-credit-card"></a>Kreditne kartice ciklus naplate
 
 Kada kupujete Office 365 za pretplatu poslovne izravno iz Microsoft možete platiti potražne ili dugovne karticom. U nekim zemljama ili regijama može platiti s bankovnim računom.
   
-Ako odaberete korištenje kreditne kartice kao način plaćanja, Saznajte kako za upravljanje i rješavanje problema s [Dodavanje, ažuriranje, ili uklanjanje kreditnih kartica ili bankovnih računa u Office 365 poslovne](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Ako odaberete korištenje kreditne kartice kao način plaćanja, Saznajte kako za upravljanje i rješavanje problema s [Dodavanje, ažuriranje, ili uklanjanje kreditnih kartica ili bankovnih računa u Office 365 poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
   
 To obuhvaća rješavanje problema kada odbio kreditne kartice i promjeni kreditne kartice informacije kako bi prihvatio kartice.
