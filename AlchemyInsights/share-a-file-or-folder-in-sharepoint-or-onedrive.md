@@ -8,32 +8,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f70501f889ea38770fe4393ab219dcb33a27d86b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370390"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508739"
 ---
-# <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a><span data-ttu-id="805ae-102">Zajedničko korištenje datoteka ili mapa u SharePoint ili OneDrive</span><span class="sxs-lookup"><span data-stu-id="805ae-102">Share a file or folder in SharePoint or OneDrive</span></span>
+# <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a><span data-ttu-id="df509-102">Zajedničko korištenje datoteka ili mapa u SharePoint ili OneDrive</span><span class="sxs-lookup"><span data-stu-id="df509-102">Share a file or folder in SharePoint or OneDrive</span></span>
 
-1. <span data-ttu-id="805ae-103">Otvorite preglednik i idite na datoteku ili mapu koju želite zajednički koristiti, odaberite ga i zatim odaberite **zajedničko korištenje**.</span><span class="sxs-lookup"><span data-stu-id="805ae-103">Open a browser and go to the file or folder you want to share, select it, and then select **Share**.</span></span> 
+1. <span data-ttu-id="df509-103">Otvorite preglednik i idite na datoteku ili mapu koju želite zajednički koristiti, odaberite ga i zatim odaberite **zajedničko korištenje**.</span><span class="sxs-lookup"><span data-stu-id="df509-103">Open a browser and go to the file or folder you want to share, select it, and then select **Share**.</span></span> 
     
-2. <span data-ttu-id="805ae-104">(Neobavezno) Ako vrsta veze nije onaj koji želite, pritisnite strelicu dolje za odabir druge vrste:</span><span class="sxs-lookup"><span data-stu-id="805ae-104">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
+2. <span data-ttu-id="df509-104">(Neobavezno) Ako vrsta veze nije onaj koji želite, pritisnite strelicu dolje za odabir druge vrste:</span><span class="sxs-lookup"><span data-stu-id="df509-104">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
     
-  - <span data-ttu-id="805ae-105">**Svatko** daje pristup svatko tko primi ovu vezu li primati izravno iz ili proslijeđene iz netko drugi.</span><span class="sxs-lookup"><span data-stu-id="805ae-105">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else.</span></span> <span data-ttu-id="805ae-106">To može obuhvaćati osobama izvan vaše organizacije.</span><span class="sxs-lookup"><span data-stu-id="805ae-106">This may include people outside of your organization.</span></span> 
+  - <span data-ttu-id="df509-105">**Svatko** daje pristup svatko tko primi ovu vezu li primati izravno iz ili proslijeđene iz netko drugi.</span><span class="sxs-lookup"><span data-stu-id="df509-105">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else.</span></span> <span data-ttu-id="df509-106">To može obuhvaćati osobama izvan vaše organizacije.</span><span class="sxs-lookup"><span data-stu-id="df509-106">This may include people outside of your organization.</span></span> 
     
-  - <span data-ttu-id="805ae-107">\*\*Osobe u \<vaša organizacija\> \*\* daje svima u organizaciji pristup na vezu li oni primanje izravno iz ili proslijeđene iz netko drugi.</span><span class="sxs-lookup"><span data-stu-id="805ae-107">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
+  - <span data-ttu-id="df509-107">\*\*Osobe u \<vaša organizacija\> \*\* daje svima u organizaciji pristup na vezu li oni primanje izravno iz ili proslijeđene iz netko drugi.</span><span class="sxs-lookup"><span data-stu-id="df509-107">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
     
-  - <span data-ttu-id="805ae-108">**Određenim osobama** omogućuje pristup samo za osobe koje odredite, iako druge osobe možda već imaju pristup.</span><span class="sxs-lookup"><span data-stu-id="805ae-108">**Specific people** gives access only to the people you specify, although other people may already have access.</span></span> <span data-ttu-id="805ae-109">Ako ljudi proslijediti poziv za zajedničko korištenje, samo osobama koje već imaju pristup na stavku moći će koristiti vezu.</span><span class="sxs-lookup"><span data-stu-id="805ae-109">If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
+  - <span data-ttu-id="df509-108">**Određenim osobama** omogućuje pristup samo za osobe koje odredite, iako druge osobe možda već imaju pristup.</span><span class="sxs-lookup"><span data-stu-id="df509-108">**Specific people** gives access only to the people you specify, although other people may already have access.</span></span> <span data-ttu-id="df509-109">Ako ljudi proslijediti poziv za zajedničko korištenje, samo osobama koje već imaju pristup na stavku moći će koristiti vezu.</span><span class="sxs-lookup"><span data-stu-id="df509-109">If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="805ae-110">Ako jednu od ovih mogućnosti nije dostupna ili ako želite različite vezu vrsta pojavi po zadanom, nivou organizacije postavke možete promijeniti tako da odete novi centar SharePoint administraciju i kliknete **zajedničko korištenje** u lijevom oknu.</span><span class="sxs-lookup"><span data-stu-id="805ae-110">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the new SharePoint admin center and clicking **sharing** in the left pane.</span></span> [<span data-ttu-id="805ae-111">uči više</span><span class="sxs-lookup"><span data-stu-id="805ae-111">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=866426)
+    > <span data-ttu-id="df509-110">Ako jednu od ovih mogućnosti nije dostupna ili ako želite različite vezu vrsta pojavi po zadanom, nivou organizacije postavke možete promijeniti tako da odete novi centar SharePoint administraciju i kliknete **zajedničko korištenje** u lijevom oknu.</span><span class="sxs-lookup"><span data-stu-id="df509-110">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the new SharePoint admin center and clicking **sharing** in the left pane.</span></span> [<span data-ttu-id="df509-111">uči više</span><span class="sxs-lookup"><span data-stu-id="df509-111">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=866426)
   
-3. <span data-ttu-id="805ae-112">Po zadanom, **Dopusti uređivanje** je uključeno.</span><span class="sxs-lookup"><span data-stu-id="805ae-112">By default, **Allow editing** is turned on.</span></span> <span data-ttu-id="805ae-113">Ako želite da ljudi samo prikaz datoteka, poništite potvrdni okvir.</span><span class="sxs-lookup"><span data-stu-id="805ae-113">If you want people to only view your files, clear the check box.</span></span> 
+3. <span data-ttu-id="df509-112">Po zadanom, **Dopusti uređivanje** je uključeno.</span><span class="sxs-lookup"><span data-stu-id="df509-112">By default, **Allow editing** is turned on.</span></span> <span data-ttu-id="df509-113">Ako želite da ljudi samo prikaz datoteka, poništite potvrdni okvir.</span><span class="sxs-lookup"><span data-stu-id="df509-113">If you want people to only view your files, clear the check box.</span></span> 
     
-4. <span data-ttu-id="805ae-114">Unesite imena osoba za koje želite zajednički koristiti s i poruku, ako želite.</span><span class="sxs-lookup"><span data-stu-id="805ae-114">Enter the names of the people you want to share with and a message, if you want.</span></span>
+4. <span data-ttu-id="df509-114">Unesite imena osoba za koje želite zajednički koristiti s i poruku, ako želite.</span><span class="sxs-lookup"><span data-stu-id="df509-114">Enter the names of the people you want to share with and a message, if you want.</span></span>
     
-5. <span data-ttu-id="805ae-115">Kliknite **Pošalji**.</span><span class="sxs-lookup"><span data-stu-id="805ae-115">Click **Send**.</span></span> 
+5. <span data-ttu-id="df509-115">Kliknite **Pošalji**.</span><span class="sxs-lookup"><span data-stu-id="df509-115">Click **Send**.</span></span> 
     
 

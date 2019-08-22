@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: e05b799ae88b0e431397c5f17fd0eddbe39f9c95
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388057"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527211"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="15302-102">550 5.7.705 pristup odbijen, klijentske premašila je prag</span><span class="sxs-lookup"><span data-stu-id="15302-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="331ce-102">550 5.7.705 pristup odbijen, klijentske premašila je prag</span><span class="sxs-lookup"><span data-stu-id="331ce-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="15302-103">Ova poruka pojavljuje kada vaša organizacija poslana je previše neželjenu ili masovne pošte i možemo smjestiti blok izlazne pošte.</span><span class="sxs-lookup"><span data-stu-id="15302-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="15302-104">Najčešća uzroka su poslužitelji ugrožena lokalno ili ugrožena administratorske račune koji su korišteni za stvaranje poveznike.</span><span class="sxs-lookup"><span data-stu-id="15302-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="15302-105">Oba uvjeta možete dopustiti neželjena pošta da prođe kroz vaše organizacije.</span><span class="sxs-lookup"><span data-stu-id="15302-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="331ce-103">Ova poruka pojavljuje kada vaša organizacija poslana je previše neželjenu ili masovne pošte i možemo smjestiti blok izlazne pošte.</span><span class="sxs-lookup"><span data-stu-id="331ce-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="331ce-104">Najčešća uzroka su poslužitelji ugrožena lokalno ili ugrožena administratorske račune koji su korišteni za stvaranje poveznike.</span><span class="sxs-lookup"><span data-stu-id="331ce-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="331ce-105">Oba uvjeta možete dopustiti neželjena pošta da prođe kroz vaše organizacije.</span><span class="sxs-lookup"><span data-stu-id="331ce-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="15302-106">Da biste uklonili ovaj blok, potrebno je razumjeti i objašnjavaju uzrok agent za podršku, kao i ispravili problem podlozi.</span><span class="sxs-lookup"><span data-stu-id="15302-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="15302-107">Kada ste spremni, kliknite **Kontaktirajte nas** ispod.</span><span class="sxs-lookup"><span data-stu-id="15302-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="331ce-106">Da biste uklonili ovaj blok, potrebno je razumjeti i objašnjavaju uzrok agent za podršku, kao i ispravili problem podlozi.</span><span class="sxs-lookup"><span data-stu-id="331ce-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="331ce-107">Kada ste spremni, kliknite **Kontaktirajte nas** ispod.</span><span class="sxs-lookup"><span data-stu-id="331ce-107">Click **Contact us** below once you're ready.</span></span>

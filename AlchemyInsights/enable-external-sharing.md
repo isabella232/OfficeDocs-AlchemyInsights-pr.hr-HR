@@ -8,35 +8,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e7b1b58f0b5bf73d50721cf2715b366280867431
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404041"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527643"
 ---
-# <a name="enable-external-sharing"></a><span data-ttu-id="90cb2-102">Omogući vanjski zajedničko korištenje</span><span class="sxs-lookup"><span data-stu-id="90cb2-102">Enable external sharing</span></span>
+# <a name="enable-external-sharing"></a><span data-ttu-id="d93a7-102">Omogući vanjski zajedničko korištenje</span><span class="sxs-lookup"><span data-stu-id="d93a7-102">Enable external sharing</span></span>
 
- <span data-ttu-id="90cb2-103">**Kako osigurati zajedničko korištenje omogućen:**</span><span class="sxs-lookup"><span data-stu-id="90cb2-103">**How to ensure sharing is enabled:**</span></span>
+ <span data-ttu-id="d93a7-103">Da biste bili sigurni da je omogućeno zajedničko korištenje za SharePoint Online:</span><span class="sxs-lookup"><span data-stu-id="d93a7-103">To ensure that sharing is enabled for SharePoint Online:</span></span>
   
-- <span data-ttu-id="90cb2-104">**Globalni zajedničko korištenje**</span><span class="sxs-lookup"><span data-stu-id="90cb2-104">**Global Sharing**</span></span>
+- <span data-ttu-id="d93a7-104">**Globalni zajedničko korištenje**</span><span class="sxs-lookup"><span data-stu-id="d93a7-104">**Global Sharing**</span></span>
     
-  - <span data-ttu-id="90cb2-105">Portala -\> vanjski zajedničko korištenje -\> omogućuju zajedničko korištenje pregled - web-mjesta, vanjski korisnici pristup web-mjestima: Dalje</span><span class="sxs-lookup"><span data-stu-id="90cb2-105">Portal -\> External Sharing -\> Sharing Overview - Sites, Let external people access your sites: ON</span></span>
+  - <span data-ttu-id="d93a7-105">Portala -\> vanjski zajedničko korištenje -\> omogućuju zajedničko korištenje pregled - web-mjesta, vanjski korisnici pristup web-mjestima: Dalje</span><span class="sxs-lookup"><span data-stu-id="d93a7-105">Portal -\> External Sharing -\> Sharing Overview - Sites, Let external people access your sites: ON</span></span>
     
-  - <span data-ttu-id="90cb2-106">Portala -\> vanjski zajedničko korištenje -\> web-mjesta - potvrdni okvir "Korisnicima dali vanjski pristup web-mjestima"</span><span class="sxs-lookup"><span data-stu-id="90cb2-106">Portal -\> External Sharing -\> Sites - "Let external people access your sites" check box</span></span>
+  - <span data-ttu-id="d93a7-106">Portala -\> vanjski zajedničko korištenje -\> web-mjesta - potvrdni okvir "Korisnicima dali vanjski pristup web-mjestima"</span><span class="sxs-lookup"><span data-stu-id="d93a7-106">Portal -\> External Sharing -\> Sites - "Let external people access your sites" check box</span></span>
     
-- <span data-ttu-id="90cb2-107">**Zajedničko korištenje Administrativni - SharePoint administraciju centar**</span><span class="sxs-lookup"><span data-stu-id="90cb2-107">**Administrative Sharing - SharePoint Admin Center**</span></span>
+- <span data-ttu-id="d93a7-107">**Zajedničko korištenje Administrativni - SharePoint administraciju centar**</span><span class="sxs-lookup"><span data-stu-id="d93a7-107">**Administrative Sharing - SharePoint Admin Center**</span></span>
     
-- <span data-ttu-id="90cb2-108">Vanjski zajedničko korištenje - osigurali ili dvije mogućnosti odabrali:</span><span class="sxs-lookup"><span data-stu-id="90cb2-108">External Sharing - ensure either of the two options are selected:</span></span>
+    <span data-ttu-id="d93a7-108">Vanjski zajedničko korištenje - osigurali ili dvije mogućnosti odabrali:</span><span class="sxs-lookup"><span data-stu-id="d93a7-108">External Sharing - ensure either of the two options are selected:</span></span>
     
-  - <span data-ttu-id="90cb2-109">"Dopusti vanjske korisnike prihvatite zajedničko korištenje pozivnice i prijavite kao ovlaštenim korisnicima"</span><span class="sxs-lookup"><span data-stu-id="90cb2-109">"Allow external users who accept sharing invitations and sign in as authenticated users"</span></span>
+  - <span data-ttu-id="d93a7-109">"Dopusti vanjske korisnike prihvatite zajedničko korištenje pozivnice i prijavite kao ovlaštenim korisnicima"</span><span class="sxs-lookup"><span data-stu-id="d93a7-109">"Allow external users who accept sharing invitations and sign in as authenticated users"</span></span>
     
-  - <span data-ttu-id="90cb2-110">"Dopusti oba vanjske korisnike prihvatite zajedničko korištenje pozivnice i anonimni gosta veze"</span><span class="sxs-lookup"><span data-stu-id="90cb2-110">"Allow both external users who accept sharing invitations and anonymous guest links"</span></span>
+  - <span data-ttu-id="d93a7-110">"Dopusti oba vanjske korisnike prihvatite zajedničko korištenje pozivnice i anonimni gosta veze"</span><span class="sxs-lookup"><span data-stu-id="d93a7-110">"Allow both external users who accept sharing invitations and anonymous guest links"</span></span>
     
-- <span data-ttu-id="90cb2-111">**Pojedinačne zbirke**</span><span class="sxs-lookup"><span data-stu-id="90cb2-111">**Individual Site Collections**</span></span>
+- <span data-ttu-id="d93a7-111">**Pojedinačne zbirke**</span><span class="sxs-lookup"><span data-stu-id="d93a7-111">**Individual Site Collections**</span></span>
     
-  - <span data-ttu-id="90cb2-112">Web-mjesta zbirke - odaberite zbirku u pitanju i zatim zajedničko korištenje - vrpce -\> osigurali su odabrane mogućnosti ili zajedničko korištenje.</span><span class="sxs-lookup"><span data-stu-id="90cb2-112">Site Collections - Select site collection in question, and then click Sharing - from the ribbon -\> ensure either sharing options are selected.</span></span>
+  - <span data-ttu-id="d93a7-112">Web-mjesta zbirke - odaberite zbirku u pitanju i zatim zajedničko korištenje - vrpce -\> osigurali su odabrane mogućnosti ili zajedničko korištenje.</span><span class="sxs-lookup"><span data-stu-id="d93a7-112">Site Collections - Select site collection in question, and then click Sharing - from the ribbon -\> ensure either sharing options are selected.</span></span>
     
-<span data-ttu-id="90cb2-113">Dodatne informacije o tome kako uključiti zajedničko korištenje vanjskog pogledajte [Uključivanje vanjski zajedničko korištenje ili isključiti za SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="90cb2-113">For additional information on how to turn on external sharing, see [Turn external sharing on or off for SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)</span></span>
+<span data-ttu-id="d93a7-113">Dodatne informacije o tome kako uključiti zajedničko korištenje vanjskog pogledajte [Uključivanje vanjski zajedničko korištenje ili isključiti za SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="d93a7-113">For additional information on how to turn on external sharing, see [Turn external sharing on or off for SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)</span></span>
   
 
