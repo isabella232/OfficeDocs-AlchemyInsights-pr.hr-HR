@@ -12,13 +12,13 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 6728f195b83ec7c2cc8583cb003d5978e29ee06f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 48bdc17e8f16d719445492f395c44e10bf6cbaea
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381289"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497795"
 ---
 # <a name="learn-about-external-calendar-sharing-options"></a>Saznajte više o vanjskim mogućnosti za dijeljenje kalendara
 
-Pogledajte [zajedničko korištenje kalendara s vanjskim korisnicima](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Ako morate zakazati sastanke s osobama izvan vaše organizacije, Office 365 omogućuje vam da učinite dostupnim kalendarima "vanjski korisnici," onima koji trebate vidjeti slobodno/zauzeto vrijeme, ali nemaju korisnički računi za okruženje za Office 365. Za dodatne informacije pogledajte [zajedničko korištenje kalendara s vanjskim korisnicima](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).

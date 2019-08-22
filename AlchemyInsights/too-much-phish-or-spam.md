@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 94c3bbb343bd98241ae71d29d3c240ee1ff11d51
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ba020a25c1220a8a018709995e59709850911f75
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391159"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500495"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Su primanje previše phish ili neželjenu e-poštu u poštanskom sandučiću?
 
-Kao administraciju, najbolji način da biste utvrdili zašto je krađa identiteta ili neželjena poruka isporučena je slanje uzorak Microsoft [Explorer podneske](https://protection.office.com/reportsubmission). Primit ćete odmah povratne informacije vezane uz filtriranje poruka i zašto postoje problemi.
+Kao administraciju Microsoft 365, najbolji način da biste utvrdili zašto je krađa identiteta ili neželjena poruka isporučena je slanje uzorak Microsoft [Explorer podneske](https://protection.office.com/reportsubmission). Primit ćete odmah povratne informacije vezane uz filtriranje poruka i zašto postoje problemi.
 
 Da bi se easer, možete dopustiti korisnicima da izvještaj izravno tvrtki Microsoft putem u [poruku izvješće dodatak](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
