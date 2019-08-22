@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403667"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527463"
 ---
 # <a name="enable-multi-factor-authentication"></a>Omogući višestruku provjeru autentičnosti
 
-1. Idite do **korisnici** \> **aktivne korisnike**
+Da biste omogućili višestruku provjeru autentičnosti u centru za administraciju Microsoft 365:
+
+1. Idi na **korisnike** \> stranici **aktivnog korisnika** .
     
-2. Pritisnite **više** \> **Postava Azure više faktora upravu**. 
+2. Na vrhu stranice, odaberite **višestruku provjeru autentičnosti**. 
     
-3. Pronaći korisnika ili korisnike koji želite omogućiti za MFA. Da biste vidjeli sve korisnike, možda ćete morati promijeniti prikaz više faktora autorizacija stanja na vrhu.
+3. Traženje korisnika ili korisnike koji želite omogućiti višestruku provjeru autentičnosti. Da biste vidjeli sve korisnike, možda ćete morati promijeniti filtar **statusa više faktora autorizacija** na vrhu.
     
-4. Potvrdite okvir uz korisnike koje želite da omogućite.
+4. Odaberite potvrdni okvir uz korisnike koje želite da omogućite.
     
-5.  U informacijskom oknu desnom korisnika pod **Brzi koraci** ćete odjeljcima Omogućivanje i upravljanje postavkama korisnika. Odaberite **Omogući**. 
+5.  U informacijskom oknu desnom korisnika pod **Brzi koraci**odaberite **Omogući**. 
     
-6. U dijaloškom okviru koji otvara, **kliknite Omogući višestruku provjeru autentičnosti**. 
+6. U dijaloškom okviru odaberite **Omogući višestruku provjeru autentičnosti**. 
     
 

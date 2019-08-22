@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 418aea3140a787b4eead14dbc7d127a70564098a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423095"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506161"
 ---
 # <a name="trying-to-verify-your-domain"></a>Pokušavate li potvrditi svoju domenu?
 
-Da biste potvrdili vlasništvo nad domenom, morate dodati TXT zapis u registrar domena. Slijedite čarobnjak za dodavanje domene tako da kliknete **Postavke** \> **Domena**, a zatim **Dodaj domenu**. 
+Da biste potvrdili vlasništvo nad domenom, morate dodati TXT zapis u registrar domena. Slijedite upute čarobnjaka za nove domene u centru za administratore sustava Microsoft 365 tako što ćete otići na **Postavke** \> **Domene**, a zatim na **Dodavanje domene**. 
   
 Slijedite upute u članku u nastavku da biste dodali TXT zapis radi potvrđivanja domene. Odaberite svoj registrar domene da biste vidjeli posebne upute za svoju domenu.
   

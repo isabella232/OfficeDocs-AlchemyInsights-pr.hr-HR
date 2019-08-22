@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: c65d8606b749c76c90271c1d81d78d1c843618a3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99e8ff13470058dfeeb27b682a0f214c940ca8bd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390432"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523035"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Dodavanje kreditne kartice
 
-1. U centru za administratore odaberite **Naplata** \> [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. U centru za administratore sustava Microsoft 365 idite na stranicu **Naplata** \> [Načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Odaberite pretplatu koju želite platiti novom kreditnom karticom ili putem novog bankovnog računa, a zatim odaberite **Ažuriranje podataka o plaćanju**.
+2. Odaberite **Dodavanje načina plaćanja**.
 
-3. Odaberite strelicu padajućeg popisa u odjeljku **Dodavanje ili odabir načina plaćanja**, a zatim **Nova kreditna kartica** ili **Novi bankovni račun**.
+3. Na stranici **Načini plaćanja** na padajućem izborniku odaberite način plaćanja.
 
-4. Unesite podatke za novu kreditnu karticu ili bankovni račun, a zatim odaberite Pošalji.
+4. Unesite podatke za novu kreditnu karticu ili bankovni račun, a zatim odaberite **Spremi**.
 
-Koristite li novi centar za administratore? Daljnje korake potražite u članku [Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili bankovnog računa u sustavu Office 365 za tvrtke](https://docs.microsoft.com/hr-HR/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Daljnje korake potražite u članku [Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili bankovnog računa u sustavu Office 365 za tvrtke](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
