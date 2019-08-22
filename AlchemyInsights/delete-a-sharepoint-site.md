@@ -9,15 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 17554fdefd4ac8a9248e3e375301edf25edebf05
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35115587"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513675"
 ---
-# <a name="delete-a-sharepoint-site"></a>Brisanje mjesta sustava SharePoint
-**Brisanje web-mjesta centra za novi SharePoint admin** Pomoću centra za administraciju novi SharePoint možete izbrisati classic i suvremen web-mjesta. Odaberite **aktivna web-mjesta**, odaberite web-mjesto i odaberite **Izbriši**. Za [Prikaz i vraćanja izbrisati web-mjesta u novi centar admin SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)odaberite **izbrisati web-mjesta**. Za više informacija pogledajte [Brisanje web-mjesta u novi centar za administraciju sustava SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Brisanje web-mjesta centra za novi SharePoint admin
+
+Pomoću centra za administraciju novi SharePoint možete izbrisati classic i suvremen web-mjesta. Odaberite **aktivna web-mjesta**, odaberite web-mjesto i odaberite **Izbriši**. Za [Prikaz i vraćanja izbrisati web-mjesta u novi centar admin SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)odaberite **izbrisati web-mjesta**. Za više informacija pogledajte [Brisanje web-mjesta u novi centar za administraciju sustava SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
 **Važno:** Ako web-mjesto je dio pravila zadržavanja, možda nećete moći izbrisati dok web-mjesto uklonjeno iz u [Sigurnost &amp; pravila usklađenosti Admin centar](https://protection.office.com/?rfr=AdminCenter#/homepage). Dodatne informacije potražite u odjeljku [Pregled pravila zadržavanja](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
 
