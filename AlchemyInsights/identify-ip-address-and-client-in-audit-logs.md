@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382945"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539021"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificiranje IP adresu i klijent zapisnika nadzora
 
-IP adresa koja odgovara aktivnost korisnik ili administrator je prikazan u zapisnike nadzora. Klijent informacije također prijavljeni. Ovdje su koraci za označavanje takve informacije
+IP adresa koja odgovara aktivnost korisnika Office 365 ili administrator je prikazan u zapisnike nadzora. Klijent informacije također prijavljeni. Ovdje su koraci za označavanje takve informacije
 
-1. Prijavite se u sustav [Office 365 sigurnosne & usklađenosti centar](https://protection.office.com/)
+1. Prijavite se u sustav [Office 365 sigurnosne & usklađenosti centar](https://protection.office.com/).
 
-2. Kliknite **za pretraživanje i istraživanja** i odaberite **Pretraživanje zapisnika nadzora**.
+2. Idi na **pretraživanje** > stranicu za**pretraživanje zapisnika nadzora** .
 
    Ako vas zanima određenih aktivnosti, odaberite ga s popisa **aktivnosti** . Ako nije, sve aktivnosti će biti vraćene za odabranog korisnika (Zadana postavka).
 

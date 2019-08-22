@@ -13,13 +13,13 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: ff684984060e71cdcabe600d3a083db5816d432a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 080605b91f6efd2caf510f0086519bf6c78e3969
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380281"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544891"
 ---
 # <a name="microsoft-bookings-app"></a>Microsoft rezervacija app
 
-Potražite [članke rezervacija](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092)otklanjanju poteškoća u novi app rezervacija.
+Microsoft Bookings je obvezu zakazivanja app vam pomaže pratiti vaše rezervacija, osoblje i klijentima. Informacije ili otklanjanje poteškoća u app rezervacija potražite [članke rezervacija](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).
