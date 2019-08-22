@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 96b2438d01163398438e5124a24228630756b7bc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353889"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500396"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="02572-102">Pogreška pri Office 365 probne korisnik šalje e-pošte: klijent domaćin blokirane pomoću Spamhaus</span><span class="sxs-lookup"><span data-stu-id="02572-102">Error when an Office 365 trial user sends email: Client host blocked using Spamhaus</span></span>
+# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="8e17d-102">Pogreška pri Office 365 probne korisnik šalje e-pošte: klijent domaćin blokirane pomoću Spamhaus</span><span class="sxs-lookup"><span data-stu-id="8e17d-102">Error when an Office 365 trial user sends email: Client host blocked using Spamhaus</span></span>
 
-<span data-ttu-id="02572-103">Pojavljuje se šaljete e-poštu iz Nova organizacija probne Office 365.</span><span class="sxs-lookup"><span data-stu-id="02572-103">It appears that you are sending email from a new Office 365 trial organization.</span></span> <span data-ttu-id="02572-104">Za sprečavanje zloupotrebe smo blokirati IP adrese zna da ste prethodno ugrožena.</span><span class="sxs-lookup"><span data-stu-id="02572-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="02572-105">Određene provjere više ne nameće nakon početka korištenja platiti licence.</span><span class="sxs-lookup"><span data-stu-id="02572-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="02572-106">Možda ćete moći dobiti privremene obliku reljefa zatražiti za novu IP adresu od vašeg davatelja internetskih usluga (ISP) ili uklanjanjem bloka s [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) web-mjesta.</span><span class="sxs-lookup"><span data-stu-id="02572-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
+<span data-ttu-id="8e17d-103">Pojavljuje se šaljete e-poštu iz Nova organizacija probne Office 365.</span><span class="sxs-lookup"><span data-stu-id="8e17d-103">It appears that you are sending email from a new Office 365 trial organization.</span></span> <span data-ttu-id="8e17d-104">Za sprečavanje zloupotrebe smo blokirati IP adrese zna da ste prethodno ugrožena.</span><span class="sxs-lookup"><span data-stu-id="8e17d-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="8e17d-105">Određene provjere više ne nameće nakon početka korištenja platiti licence.</span><span class="sxs-lookup"><span data-stu-id="8e17d-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="8e17d-106">Možda ćete moći dobiti privremene obliku reljefa zatražiti za novu IP adresu od vašeg davatelja internetskih usluga (ISP) ili uklanjanjem bloka s [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) web-mjesta.</span><span class="sxs-lookup"><span data-stu-id="8e17d-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>

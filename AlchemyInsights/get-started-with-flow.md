@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
-ms.openlocfilehash: d02aa48f510183875718183138f65db17570c07c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 008f17cd8e266497ad339e79c2095e06d7184d67
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400925"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524187"
 ---
-# <a name="get-started-with-microsoft-flow"></a><span data-ttu-id="41941-102">Upoznavanje s programom Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="41941-102">Get started with Microsoft Flow</span></span>
+# <a name="get-started-with-microsoft-flow"></a><span data-ttu-id="21c20-102">Upoznavanje s programom Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="21c20-102">Get started with Microsoft Flow</span></span>
 
-<span data-ttu-id="41941-103">S Microsoft Flow, možete:</span><span class="sxs-lookup"><span data-stu-id="41941-103">With Microsoft Flow, you can:</span></span>
+<span data-ttu-id="21c20-103">S Microsoft Flow, možete:</span><span class="sxs-lookup"><span data-stu-id="21c20-103">With Microsoft Flow, you can:</span></span>
   
-- <span data-ttu-id="41941-104">Jednostavno pretraživanje za predloške i usluge.</span><span class="sxs-lookup"><span data-stu-id="41941-104">Easily search for templates and services.</span></span>
+- <span data-ttu-id="21c20-104">Jednostavno pretraživanje za predloške i usluge.</span><span class="sxs-lookup"><span data-stu-id="21c20-104">Easily search for templates and services.</span></span>
     
-- <span data-ttu-id="41941-105">Odaberite najpopularnije usluge.</span><span class="sxs-lookup"><span data-stu-id="41941-105">Choose from the most popular services.</span></span>
+- <span data-ttu-id="21c20-105">Odaberite najpopularnije usluge.</span><span class="sxs-lookup"><span data-stu-id="21c20-105">Choose from the most popular services.</span></span>
     
-- <span data-ttu-id="41941-106">Pogledajte pregled svakog toka.</span><span class="sxs-lookup"><span data-stu-id="41941-106">See an overview of each flow.</span></span>
+- <span data-ttu-id="21c20-106">Pogledajte pregled svakog toka.</span><span class="sxs-lookup"><span data-stu-id="21c20-106">See an overview of each flow.</span></span>
     
-[<span data-ttu-id="41941-107">Saznajte više o Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="41941-107">Learn more about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=874446)
+[<span data-ttu-id="21c20-107">Saznajte više o Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="21c20-107">Learn more about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=874446)
   
 

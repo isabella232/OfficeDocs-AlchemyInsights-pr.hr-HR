@@ -12,19 +12,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 37f8e4198337cf6a88e8fbfa7070a7ce9e665057
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a37114097dbe7e3a3c8c13e9ddc53dc5c6b24a78
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388957"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529408"
 ---
-# <a name="duplicate-object-synchronization-errors"></a><span data-ttu-id="0346a-102">Pogreške u sinkronizaciji duplikata objekt</span><span class="sxs-lookup"><span data-stu-id="0346a-102">Duplicate object synchronization errors</span></span>
+# <a name="duplicate-object-synchronization-errors"></a><span data-ttu-id="7df8e-102">Pogreške u sinkronizaciji duplikata objekt</span><span class="sxs-lookup"><span data-stu-id="7df8e-102">Duplicate object synchronization errors</span></span>
 
-<span data-ttu-id="0346a-103">Ako primite jednu od sljedećih pogrešaka tijekom sinkronizacije:</span><span class="sxs-lookup"><span data-stu-id="0346a-103">If you receive one of the following errors during a synchronization:</span></span>
+<span data-ttu-id="7df8e-103">Ako primite jednu od sljedećih pogrešaka tijekom sinkronizacije:</span><span class="sxs-lookup"><span data-stu-id="7df8e-103">If you receive one of the following errors during a synchronization:</span></span>
 
-- <span data-ttu-id="0346a-104">Sinkronizirane objekt s iste adrese proxy već postoji u direktoriju Microsoft Online Services.</span><span class="sxs-lookup"><span data-stu-id="0346a-104">A synchronized object with the same proxy address already exists in your Microsoft Online Services directory.</span></span>
+- <span data-ttu-id="7df8e-104">Sinkronizirane objekt s iste adrese proxy već postoji u direktoriju Microsoft Online Services.</span><span class="sxs-lookup"><span data-stu-id="7df8e-104">A synchronized object with the same proxy address already exists in your Microsoft Online Services directory.</span></span>
 
-- <span data-ttu-id="0346a-105">Slična poruka UserPrincipalName.</span><span class="sxs-lookup"><span data-stu-id="0346a-105">A similar message for UserPrincipalName.</span></span>
+- <span data-ttu-id="7df8e-105">Slična poruka UserPrincipalName.</span><span class="sxs-lookup"><span data-stu-id="7df8e-105">A similar message for UserPrincipalName.</span></span>
 
-<span data-ttu-id="0346a-106">Koristite novi dijagnostički stanja AADConnect za rješavanje duplikata objekt pogrešaka.</span><span class="sxs-lookup"><span data-stu-id="0346a-106">Use the new AADConnect Health diagnostic to resolve duplicate object errors.</span></span> <span data-ttu-id="0346a-107">Za dodatne informacije pogledajte [Dijagnosticiranje i remediate pogreške pri sinkronizaciji dupliciranu atribut](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span><span class="sxs-lookup"><span data-stu-id="0346a-107">For more information, see [Diagnose and remediate duplicated attribute sync errors](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span></span>
+<span data-ttu-id="7df8e-106">Koristite novi dijagnostički stanja AADConnect za rješavanje duplikata objekt pogrešaka.</span><span class="sxs-lookup"><span data-stu-id="7df8e-106">Use the new AADConnect Health diagnostic to resolve duplicate object errors.</span></span> <span data-ttu-id="7df8e-107">Za dodatne informacije pogledajte [Dijagnosticiranje i remediate pogreške pri sinkronizaciji dupliciranu atribut](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span><span class="sxs-lookup"><span data-stu-id="7df8e-107">For more information, see [Diagnose and remediate duplicated attribute sync errors](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).</span></span>
