@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381721"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498407"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instaliranje sustava Office na terminalski poslužitelj
 
@@ -26,7 +26,7 @@ Za uvođenje Office 365 ProPlus na poslužitelju Windows pomoću udaljene radne 
 
 - Morate omogućiti [zajedničko računalo aktivacije](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Ako želite instalirati Office 365 ProPlus na ZAPISI s portala Office 365 ** *koji koristi zadane postavke instalacije* **, slijedite ove korake:
+Ako želite instalirati Office 365 ProPlus na ZAPISI s portala Office 365 ***koji koristi zadane postavke instalacije***, slijedite ove korake:
   
 1. Provjerite što Office 365 plan imate. [Saznajte kako](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Ako želite instalirati Office 365 ProPlus na ZAPISI s portala Office 365 ** *ko
 
 4. Na poslužitelju ZAPISI prijaviti u portala za Office 365 s administratorskog računa i [instalirajte Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Nakon instalacije sustava Office ** *ne otvorite ili prijaviti* ** za sve Officeove aplikacije.
+5. Nakon instalacije Officea ***ne otvorite ili prijaviti*** za sve Officeove aplikacije.
 
 6. Na poslužitelju ZAPISI omogućili aktivaciju dijeljenom računalu uređivanjem registra slijedeći ove korake:
 
@@ -46,7 +46,7 @@ Ako želite instalirati Office 365 ProPlus na ZAPISI s portala Office 365 ** *ko
 
 3. U uređivač registra, dodajte vrijednost niza **SharedComputerLicensing** s postavkom 1 pod HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Na poslužitelju ZAPISI ** *prijaviti kao krajnji korisnik* ** i [Provjerite je li aktivacija dijeljenom računalu omogućen za Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Na poslužitelju ZAPISI, ***prijavite se kao krajnji korisnik*** i [Provjerite je li aktivacija dijeljenom računalu omogućen za Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Za dodatne pojedinosti o preduvjeti, upute za postavljanje i prilagođene instalacije pomoću alata za uvođenje Office upute pogledajte [Uvođenje Office 365 ProPlus pomoću udaljene radne površine](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
