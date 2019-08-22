@@ -13,14 +13,14 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 8536c4e3cd9bfaa80477397f77e160053e0a364e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367677"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501035"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Prijedlozi za rješavanje ' nelicenciran proizvoda "pogreške
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Prijedlozi za rješavanje pogrešaka "Nelicenciran proizvod"
 
 Provjerite je li imati pretplatu koji omogućuje klijentskih licenci poslovne Office 365 ili poslovne Premium i [osigurali korisnik ima licenca dodeljena](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Deaktiviraj instalaciju](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) da biste provjerili ako Premašili ste broj instalira podržava pretplatu.
   

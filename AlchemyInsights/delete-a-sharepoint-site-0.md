@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406304"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514007"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje web-mjesta koji pripadaju grupi Office 365:
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje web-mjesta koji pripadaju grupi Office 365
 
 Kada korisnici stvorite novo web-mjesto tima od kuće SharePoint ili stvorite novo web-mjesto tima centra za novi SharePoint administraciju, automatski se stvara odgovarajuće grupe za Office 365. Office 365 grupe povezani timska web-mjesta se stvaraju i kada kreirate grupu Office 365 ili timu u Microsoft Teams. Za brisanje SharePoint web-mjesto koje pripada grupi Office 365, morate izbrisati grupu Office 365 samu sebe. 
   
@@ -34,7 +34,7 @@ Napomena: Kada Brisanje grupe može postojati Odgoda prije web-mjesto uklonjeno 
 
 1. Idite na web-mjestu.
   
-2. Kliknite na ** postavke ** ikonu u gornji desni kut. 
+2. Kliknite ikonu **Postavke** u gornji desni kut. 
   
 3. Kliknite **Postavke web-mjesta**. Pod **Informacije web-mjesta** ili **Akcije web-mjesta**, kliknite **Izbriši ovo web-mjesto**i kliknite **Izbriši**.
   

@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385604"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495023"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Dodavanje mesta avansni pretplate
 
-1. U centru za administraciju idite na **naplatu** \> [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
+Avansni Office 365 licence izdaju vam kao alfanumerički kod 25 znakova. Nakon što ste kupili licence potrebne, možete ih dodati u pretplatu. 
 
-2. Odaberite avansni pretplate biste željeli dodati korisnike.
+1. U centru za administraciju idite na **naplatu** > stranicu[Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-3. U izborniku **Dodatne akcije** odaberite **Obnovi ili dodavanje licence s tokenom**.
+2. Pronaći pretplatu na koji želite da dodate licence. Odaberite **Dodatne akcije** padajućeg popisa, a zatim odaberite **Obnovi ili dodavanje licence s tokenom**.
 
-4. Odaberite mogućnost **ključ proizvoda nove i nekorištene** . (Ako je ova pretplata stvorena s ključem proizvoda kupili lokaciji Maloprodaja, možda imate mogućnost dodati korisnike s druge načine plaćanja.)
+3. Na u **Obnovi ili dodavanje korisničkih licenci** stranica, odaberite **koristi ključ proizvoda nove i nekorištene**, a zatim odaberite **Dalje**.
 
-5. Odaberite **Dalje**.
+4. Unesite ključ proizvoda, a zatim odaberite **Dalje**.
 
-6. Unesite ključ proizvoda, a zatim odaberite **Dalje**.
+    > [!NOTE]
+    > Ako imate više od jednog ključ proizvoda, možete odabrati unesite ih **dodati drugi ključ proizvoda** .
 
-7. Odaberite mogućnost da dodate više korisnika, odabir **sljedeće**, zatim odaberite **Redeem**.
+5. Odaberite za dodavanje korisnika u pretplatu, a zatim odaberite **Dalje**.
 
-Koristite novi centar admin? Novi korake potražite [Dodavanje licenci za ili proširivanje pretplate plaćenu za korištenje ključa proizvoda](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Pregledajte Detalji narudžbe, a zatim **Redeem**.
+
+Dodatne informacije pogledajte [Dodavanje licenci za ili proširivanje pretplate plaćenu za korištenje ključa proizvoda](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

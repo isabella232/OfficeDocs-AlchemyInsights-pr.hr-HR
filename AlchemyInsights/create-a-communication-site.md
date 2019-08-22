@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: b526a87740c44d2b247c202a92d9c35f85383500
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407570"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516268"
 ---
 # <a name="create-a-communication-site"></a>Stvaranje web-mjesta komunikacije
 
-Za stvaranje web-mjesta komunikacije, dovršite sledeće korake: 
+Za stvaranje web-mjesta komunikacije u SharePoint Online, dovršite sledeće korake: 
   
 1. U gornjem lijevom kutu stranice pritisnite pokretač app i odaberite Poploči SharePoint. Ako ne vidite SharePoint pločica, kliknite **web-mjesta** ili **sve apps** ako SharePoint nije vidljiv. 
     

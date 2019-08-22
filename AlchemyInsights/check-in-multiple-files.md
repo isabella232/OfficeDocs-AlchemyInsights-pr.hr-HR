@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7bba3d7fc4e432c7c266ce8aa87322fc784a8ac0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754268"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520515"
 ---
 # <a name="check-in-several-files-at-once"></a>Provjerite u nekoliko datoteka odjednom
 
-Provjera i odjavljivanje datoteka je odličan način za praćenje i kontrolirati kako se sadržaj ažurirati. Ako želite izvršiti promjene u datoteku na web-mjestu i želite da biste bili sigurni da nitko drugi možete uređivati odjaviti datoteku. Kada je datoteka odjavljena, možete urediti ga mrežno ili izvanmrežno, a ga spremiti više puta, ako je potrebno.
+Provjera datoteka mu SharePoint biblioteka je odličan način za praćenje i kontrolu kako se sadržaj ažurirati. Ako želite izvršiti promjene u datoteku na web-mjestu i želite da biste bili sigurni da nitko drugi možete uređivati odjaviti datoteku. Kada je datoteka odjavljena, možete urediti ga mrežno ili izvanmrežno, a ga spremiti više puta, ako je potrebno.
 
 Ispod su neke korisne veze vezano uz ovu značajku.
 
-- [Kako Provjera Odjava, prijaviti ili odbaciti promjene datoteke](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Kako odjaviti, prijaviti ili odbaciti promjene datoteke](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
 - [Gornji pitanja o odjavu, potvrdite u i verzije](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 
