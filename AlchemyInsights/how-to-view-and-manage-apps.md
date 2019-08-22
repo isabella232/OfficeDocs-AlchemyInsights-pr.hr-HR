@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: f3b429dc9d5007c139ff292fae6649696fc42b81
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389856"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539489"
 ---
-# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="58eef-102">Kako pregledavati i upravljati apps</span><span class="sxs-lookup"><span data-stu-id="58eef-102">How to view and manage apps</span></span>
+# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="a54b3-102">Kako pregledavati i upravljati apps</span><span class="sxs-lookup"><span data-stu-id="a54b3-102">How to view and manage apps</span></span>
 
-<span data-ttu-id="58eef-103">Da biste pregledali svoje apps, mora biti u novi centar za administraciju.</span><span class="sxs-lookup"><span data-stu-id="58eef-103">To view your apps, you must be in the new admin center.</span></span>  <span data-ttu-id="58eef-104">Preklopi to na početnoj stranici centra za administraciju.</span><span class="sxs-lookup"><span data-stu-id="58eef-104">You can toggle this on the admin center Home page.</span></span>  
+<span data-ttu-id="a54b3-103">Prikaz vaše apps u centru za administraciju Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="a54b3-103">You can view your apps in the Microsoft 365 admin center.</span></span> 
 
-1. <span data-ttu-id="58eef-105">Novi centar za administraciju uključena, idite na **naplatu** > stranicu[Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="58eef-105">With new admin center turned on, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="a54b3-104">U centru za administraciju idite na **naplatu** > stranicu[Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="a54b3-104">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="58eef-106">Na stranici **usluge & proizvoda** odaberite karticu **Apps** .</span><span class="sxs-lookup"><span data-stu-id="58eef-106">On the **Products & Services** page, select the **Apps** tab.</span></span>
+2. <span data-ttu-id="a54b3-105">Na stranici **usluge & proizvoda** odaberite karticu **Apps** .</span><span class="sxs-lookup"><span data-stu-id="a54b3-105">On the **Products & Services** page, select the **Apps** tab.</span></span>
