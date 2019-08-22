@@ -13,13 +13,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 20452966befec11d0084d235fa87985597d5ac63
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1972f12cdf2b6ce5ae4e4bdd458a220e2cfc1a18
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386725"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523935"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a><span data-ttu-id="50c2d-102">Dohvat računa onemogućena pogreška u programu Outlook na webu?</span><span class="sxs-lookup"><span data-stu-id="50c2d-102">Getting an account disabled error in Outlook on the web?</span></span>
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a><span data-ttu-id="b5dfb-102">Dohvat računa onemogućena pogreška u programu Outlook na webu?</span><span class="sxs-lookup"><span data-stu-id="b5dfb-102">Getting an account disabled error in Outlook on the web?</span></span>
 
-<span data-ttu-id="50c2d-103">Ako se pogreška **onemogućio vaš račun** dobiti s `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` kada pokušate otvoriti Outlook na webu (nekadašnjeg naziva Outlook Web App) admin organizacija možda je onemogućio pristup Outlook na webu.</span><span class="sxs-lookup"><span data-stu-id="50c2d-103">If you get the error **Your account has been disabled** with  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` when you try to open Outlook on the web (formerly known as Outlook Web App), your organization admin might have disabled your access to Outlook on the web.</span></span> <span data-ttu-id="50c2d-104">Vaš administrator može popraviti tu pogrešku slijedeći korake u temi [omogućiti ili onemogućiti Outlook Web App za poštanski sandučić](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="50c2d-104">Your admin can fix this error by following the steps in the topic [Enable or disable Outlook Web App for a mailbox](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="b5dfb-103">Ako se pogreška **onemogućio vaš račun** dobiti s `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` kada pokušate otvoriti Outlook na webu (nekadašnjeg naziva Outlook Web App) admin organizacija možda je onemogućio pristup Outlook na webu.</span><span class="sxs-lookup"><span data-stu-id="b5dfb-103">If you get the error **Your account has been disabled** with  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` when you try to open Outlook on the web (formerly known as Outlook Web App), your organization admin might have disabled your access to Outlook on the web.</span></span> <span data-ttu-id="b5dfb-104">Vaš administrator može popraviti tu pogrešku slijedeći korake u temi [omogućiti ili onemogućiti Outlook Web App za poštanski sandučić](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="b5dfb-104">Your admin can fix this error by following the steps in the topic [Enable or disable Outlook Web App for a mailbox](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).</span></span>
