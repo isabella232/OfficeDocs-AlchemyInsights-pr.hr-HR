@@ -12,16 +12,16 @@ ms.custom:
 - "1332"
 - "3700002"
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 218a05a8d321b76dd07345ea48d6b3e158cc120e
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 901237d4dc7b99695097142c61a4bfef7c09750d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204052"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555765"
 ---
 # <a name="an-inbox-rule-doesnt-work-as-expected"></a>Pravilo ulazne pošte ne funkcionira prema očekivanjima
 
-Provjerite sljedeće postavke:
+Provjerite sljedeće postavke u programu Outlook na webu:
 
 - Poruku možete biti preusmjereni proslijeđene ili odgovorene automatski na temelju pravila ulazne pošte samo jednom. Preusmjeravanje pravilo (pravilo ulazne pošte ili pošte protok pravilo, poznat i kao pravilo prijevoza) možete dodati najviše deset prosljeđivanje primatelji poruke. Za dodatne informacije pogledajte [temeljnice, prijevoza, i Primljeno pravilo ograničenja](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
 
