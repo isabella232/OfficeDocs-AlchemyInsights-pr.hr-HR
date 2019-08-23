@@ -17,19 +17,19 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: 17516d9e40c39d7825d5dddcd8500a34900987d6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4c139d72ca6370af1b28bfa9883669a7a1d4da88
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355689"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551011"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="32ca2-102">Incident servis u tijeku</span><span class="sxs-lookup"><span data-stu-id="32ca2-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="9ee95-102">Incident servis u tijeku</span><span class="sxs-lookup"><span data-stu-id="9ee95-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="32ca2-103">Možda utjecala po incident servisa ili advisory koja je trenutno u tijeku istražio.</span><span class="sxs-lookup"><span data-stu-id="32ca2-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="32ca2-104">Provjerite najnovije stanje odlaskom na stranicu [Servisa stanja](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="32ca2-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="9ee95-103">Možda utjecala po incident servisa ili advisory koja je trenutno u tijeku istražio.</span><span class="sxs-lookup"><span data-stu-id="9ee95-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="9ee95-104">Provjerite najnovije stanje odlaskom na stranicu [Servisa stanja](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="9ee95-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="32ca2-105">Zbog praktičnosti, možete pronaći sažetak ovaj incident ispod:</span><span class="sxs-lookup"><span data-stu-id="32ca2-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="9ee95-105">Zbog praktičnosti, možete pronaći sažetak ovaj incident ispod:</span><span class="sxs-lookup"><span data-stu-id="9ee95-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="32ca2-106">**Broj incident:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="32ca2-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="9ee95-106">**Broj incident:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="9ee95-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
  
-> <span data-ttu-id="32ca2-107">Opis utjecati: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="32ca2-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="9ee95-107">Opis utjecati: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="9ee95-107">Impact description: {ImpactDescription}</span></span>
