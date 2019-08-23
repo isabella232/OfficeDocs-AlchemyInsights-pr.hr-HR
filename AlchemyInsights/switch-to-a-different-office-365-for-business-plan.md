@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388166"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534159"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Prijeđite na drugu Office 365 za poslovni Plan
 
-Kada poslovne promjene ili trebate više značajki Office 365, možete se prebaciti planova.
+Kada poslovne promjene ili trebate više značajki Office 365, možete nadograditi na novi plan.
   
-1. U centru za administraciju idite na **naplatu** \> [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
+1. U centru za administraciju idite na **naplatu** \> stranicu [Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Odaberite **parametar planove** za prikaz popisa novih planovi koje su dostupne.
+2. Odaberite pretplate koje želite nadograditi.
 
-3. Odaberite plan da biste vidjeli nove ukupni trošak po mjesecu. Svakako ključne informacije za čitanje, a zatim odaberite **Dalje** odjaviti.
+3. Na stranici pojedinosti pretplatu, odaberite **nadogradnju**.
 
-Gumb za prebacivanje planovi nije podržan u svim situacijama. U nekim slučajevima možda ćete moći ručno prebaciti planova.
-  
-Ako nije dostupan gumb **Prebacivanje planove** , možete pokušati [ručno prebaciti planove](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) ili koristite mogućnost "nam povratni poziv," razgovarati inženjeru za podršku.
-  
-Koristite novi centar admin? Novi korake u odjeljku [nadogradnju na drugi plan](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+4. Pronalaženje plan koji želite nadograditi, a zatim odaberite gumb **nadogradnju** .
+
+5. Unesite broj licenci koji je potrebno, odabrati hoćete li plaćate svaki mjesec ili za cijelu godinu, a zatim odaberite **odjavu**.
+   
+Za dodatne informacije pogledajte [nadogradnju na drugi plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

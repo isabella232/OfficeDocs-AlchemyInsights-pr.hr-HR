@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383089"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539093"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Prepoznati prilikom prosljeđivanja e-pošte vanjskog konfiguriran na poštanski sandučići
 
-Kada korisnik konfigurira prosljeđivanje vanjski e-pošte u poštanski sandučić, aktivnost se nadzirati kao dio cmdlet **Set poštanskog sandučića** . Možete vidjeti aktivnosti pomoću pretraživanje zapisnika nadzora u & usklađenosti centar sigurnosti.
+Kada korisnik Office 365 konfigurira prosljeđivanje vanjski e-pošte na poštanski sandučić, aktivnost se nadzirati kao dio cmdlet **Set poštanskog sandučića** . Možete vidjeti aktivnosti pomoću pretraživanje zapisnika nadzora u & usklađenosti centar sigurnosti.
 
-1. Prijavite se u sustav [Office 365 sigurnosne & usklađenosti centar](https://protection.office.com/)
+1. Prijavite se u sustav [Office 365 sigurnosne & usklađenosti centar](https://protection.office.com/).
 
-2. Kliknite **za pretraživanje i istraživanja** i odaberite **Pretraživanje zapisnika nadzora**.
+2. Idi na **pretraživanje** > stranicu za**pretraživanje zapisnika nadzora** .
 
 3. Odaberite raspon datum u polja **Datum početka** i **Datum završetka** . Ne morate navesti korisničko ime. Provjerite je li polje **aktivnosti** postavljeno na **Pokaži rezultate za sve aktivnosti**.
 

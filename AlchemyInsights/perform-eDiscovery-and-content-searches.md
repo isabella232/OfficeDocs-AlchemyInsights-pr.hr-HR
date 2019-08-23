@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444764"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555225"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kako izvesti pretraživanja sadržaja i pretraživanja predočavanja elektroničkih dokumenata
 
@@ -32,6 +32,6 @@ Alat za pretraživanje sadržaja u & sigurnost usklađenosti centar za brzo tra�
 4. Unesite potrebne pretraživanja uvjetima uključujući ključne riječi i mjesta sadržaja.  
 5. Kliknite **Spremi & Pokreni** za naziv pretraživanja, pokrenite ga i pretpregled rezultata.
 
-Detaljne upute o sadržaja pretraživanja izvoz rezultata i stvaranje obveza predočavanja elektroničkih dokumenata slučajeva držite podataka, pogledajte [Sadržaja pretraživanja](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) i [slučajevima predočavanja elektroničkih dokumenata](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+Detaljne upute o sadržaja pretraživanja izvoz rezultata i stvaranje obveza predočavanja elektroničkih dokumenata slučajeva držite podataka, pogledajte [Sadržaja pretraživanja](https://docs.microsoft.com/office365/securitycompliance/content-search) i [slučajevima predočavanja elektroničkih dokumenata](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Razumijevanje više o sadržaja pretraživanja pregledom [u zahtjevi i ograničenja](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) i [istražuje djelomično indeksirane stavke](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) i drugih rezultata biti svjesni.
+Razumijevanje više o sadržaja pretraživanja pregledom [u zahtjevi i ograničenja](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) i [istražuje djelomično indeksirane stavke](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) i drugih rezultata biti svjesni.

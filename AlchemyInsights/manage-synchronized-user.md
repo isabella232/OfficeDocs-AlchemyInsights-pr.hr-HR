@@ -11,16 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 5a383bdd17c5fa055c35a923ca36e0e0f6d429e4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380497"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541975"
 ---
 # <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>Nije moguće postaviti adresu e-pošte primarnog ili promijeniti korisničke atribute
 
-Ako sinkronizacija imenik omogućen za vaše okruženje neki atributi korisnik ili objekt nije moguće promijeniti pomoću centra za administraciju.
+Ako sinkroniziranje direktorija je omogućen za vaše okruženje, neki atributi korisnik ili objekt nije moguće promijeniti pomoću centra za administraciju Microsoft 365.
+
 Da biste upravljali potpuno sinkronizirane korisnika i njihove atribute, koristiti vaš aktivni imenik lokalne korisnike i grupe konzole za upravljanje (adsiedit.msc).  
 
 Umjesto toga, možete promijeniti pojedinačni korisnici ili atribute za sinkronizirane korisnici pomoću powershell kao što je prikazano u ove uobičajeni primjeri: 
