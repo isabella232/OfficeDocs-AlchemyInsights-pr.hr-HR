@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270664"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530857"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>Tijek rada e-pošta se šalje
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Tijek rada e-pošta se šalje za SharePoint popis ili biblioteku
 
 1. E-pošta s tijekovima rada se šalju sve korisnike ili samo određenim korisnicima ili vidjeti pogreške **poruku e-pošte nije moguće poslati. Provjerite je li e-pošta ima valjan primatelj**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270664"
     - Ako korisnik ne postoji u grupi dozvole, provjerite je li adresa e-pošte točna.
     - Ako adresa e-pošte korisnicima ne Ovdje postavite, stvoriti primjerak upozorenja za tog korisnika koje navodi sinkronizaciju taj korisnički račun iz korisnički profili SharePoint zbirke web-mjesta.
  
-2. E-pošta iz tijekova rada se šalju administratori zbirke web-mjesta, ali ne i drugim korisnicima i vidjeti pogrešku **HTTP zabranjeno za <spam> <spam> ** <spam> <spam>.
+2. E-pošta iz tijekova rada se šalju administratori zbirke web-mjesta, ali ne i drugim korisnicima i vidjeti pogrešku **HTTP zabranjeno za <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Pogledajte [Pristup odbijen kada grupira poslane e-pošte](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups).
+    Pogledajte [Pristup odbijen kada pošaljete poruku e-pošte SharePoint grupi](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
     Također, provjerite je li značajka zbirke web-mjesta **način rada lockdown dozvole Ograničeni pristup korisnika** nije aktivan.
 
