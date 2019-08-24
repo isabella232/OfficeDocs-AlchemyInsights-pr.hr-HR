@@ -13,23 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1adf0879ad7e4a0152315d4c7ce290b386de13da
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542430"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576012"
 ---
 # <a name="manage-recurring-billing"></a>Upravljanje ponavljajući naplate
 
 Uključivanje ponavljanja naplate ili isključiti u centru za administraciju Microsoft 365.
   
-1. Idi na **naplatu** > stranicu[Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. U centru za administraciju idite na **naplatu** \> stranicu [Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Pod **naplate**, uz **Renews na** ili **Expiring na**odaberite **Uređivanje**.
 
-3. U oknu **Ponavljanje naplate postavke** odaberite **Ponavljanje naplate OFF** da biste ga isključili. **Ponavljanje naplate** već je isključeno, odaberite **mjesečni** ili **jednom** da biste ga uključiti.
+3. U oknu **Ponavljanje naplate postavke** odaberite **ISKLJUČI** da biste ga isključili. Ponavljajući naplate već je isključeno, odaberite **mjesečni** ili **jednom** da biste ga uključiti.
 
 4. Odaberite **slanja promjena**.
 
-Za dodatne informacije pogledajte [Uključivanje ponavljanja naplate ili isključivanje](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+Koristite li stare admin centar? Za korake stare ili kako biste saznali više, pogledajte [Uključivanje ponavljanja naplate ili isključivanje](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

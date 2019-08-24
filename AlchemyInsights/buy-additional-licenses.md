@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518031"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575940"
 ---
 # <a name="buy-additional-office-365-licenses"></a>Kupite dodatne licence za Office 365
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518031"
 
     > [!NOTE]
     > Ako platite pretplatu kreditnih kartica ili bankovnih računa, sve nove licence kupite dostupnih odmah nakon što primite potvrdu naloga. Ako platiti fakturu možda za čekanje odobrenja potvrdni prije nove licence su dostupni za korištenje.
-  
+
+Koristite li stare admin centar? Za stare korake ili da biste saznali više, pogledajte [Kupite licence za Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+
 **Dodatni resursi**
 
 - [Korisnicima u Office 365 poslovne dodijeliti licence](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-Dodatne informacije potražite u [Kupite licence za Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
