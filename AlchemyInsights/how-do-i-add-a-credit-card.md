@@ -13,12 +13,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 99e8ff13470058dfeeb27b682a0f214c940ca8bd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3135c72aefac97eb58cfa8e2deffebe318c20753
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523035"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575633"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Dodavanje kreditne kartice
 
@@ -30,4 +30,4 @@ ms.locfileid: "36523035"
 
 4. Unesite podatke za novu kreditnu karticu ili bankovni račun, a zatim odaberite **Spremi**.
 
-Daljnje korake potražite u članku [Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili bankovnog računa u sustavu Office 365 za tvrtke](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Još uvijek koristite stari centar za administratore? Stare korake i dodatne informacije potražite u članku [Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili bankovnog računa u sustavu Office 365 za tvrtke](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
