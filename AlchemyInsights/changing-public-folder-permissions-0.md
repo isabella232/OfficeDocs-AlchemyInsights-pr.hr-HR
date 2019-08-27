@@ -12,19 +12,19 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: cda46c32fcdb4e4dfbe3ab8323c2de9ab1420f32
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 488567efb7e96b6eef52e87fc96670ab3ea91c20
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520731"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631695"
 ---
 # <a name="changing-public-folder-permissions"></a>Promjena dozvola za javne mape
 
 Dozvole za mapu javne može promijeniti korisnici i administratori u programu Outlook. Administratori mogu kontrolirati dozvole iz na Exchange Admin Center (EAC), sljedećim postupkom:
   
-1. U O365 portal koristeći lijevi navigacijski izbornik prijeđite **Admin centre** \> **sustava Exchange**.
+1. Brojeve Microsoft 365 admin center, idite na **administraciju centre** \> **sustava Exchange**.
 
-2. Idite do **javne mape**.
+2. Odaberite **javne mape**.
 
 3. Od tamo možete promijeniti dozvole za individualne javne mape dodjeljivanjem sigurnosne grupe dozvole. Za krajnjeg korisnika za promjenu dozvola za javnu mapu, korisnik mora imati vlasnika prava na mapu.
