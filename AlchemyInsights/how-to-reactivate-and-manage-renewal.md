@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574534"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663952"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kako ponovno aktivirati i upravljanje ponavljajući naplate
 
@@ -32,7 +32,7 @@ Izgleda kao da ste pretplate koji je istekao. Želite li ga ponovno aktivirati, 
 
 3. Potvrdite detalje plaćanja. Možete ažurirati vaše postojeće podatke o plaćanju ovdje. Kada završite s unosom način plaćanja, odaberite **ponovo aktivirati**.
 
-Koristite li stare admin centar? Za korake stare ili da biste saznali više, pogledajte [ponovno aktivirati pretplatu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Da biste saznali više, pogledajte [ponovno aktivirati pretplatu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Upravljanje mjesečno ili godišnje naplate koju možete Preklopi **Ponavljanje naplate** ili isključiti.
   
@@ -46,4 +46,4 @@ Upravljanje mjesečno ili godišnje naplate koju možete Preklopi **Ponavljanje 
 
 5. Odaberite **slanja promjena**.
 
-Koristite li stare admin centar? Za korake stare ili kako biste saznali više, pogledajte [Uključivanje ponavljanja naplate ili isključivanje](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Da biste saznali više, pogledajte [Uključivanje ponavljanja naplate ili isključivanje](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

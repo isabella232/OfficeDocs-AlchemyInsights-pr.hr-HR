@@ -3,7 +3,6 @@ title: Proširivanje probnu verziju za Office 365 za Business
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,14 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575616"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664996"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Proširivanje probnu verziju za Office 365 za Business
+# <a name="extend-your-trial-for-office-365-for-business"></a>Proširivanje probnu verziju za Office 365 za business
 
 Ako je probna pretplata unutar 15 dana istječu i probne verzije prioritetna prošireno prije, možete proširiti probnu verziju za drugom razdoblju od 30 dana. To možete učiniti samo.
   
@@ -32,4 +31,4 @@ Ako je probna pretplata unutar 15 dana istječu i probne verzije prioritetna pro
 
 4. Morate pružiti informacije kreditne kartice za proširivanje probnu verziju. Možemo će trošak kreditne kartice za probnu proširenje.
 
-Koristite li stare admin centar? Za stare korake ili da biste saznali više, pogledajte [Proširi probnu verziju za Office 365 poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Da biste saznali više, pogledajte [Proširi probnu verziju za Office 365 poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
