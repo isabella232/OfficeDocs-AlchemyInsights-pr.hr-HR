@@ -13,12 +13,12 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: dbcaf1a838bd29105e5a4643735d82b8a63f35d1
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575370"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664420"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Kako ukloniti Moje informacije kreditne kartice?
 
@@ -33,4 +33,4 @@ ms.locfileid: "36575370"
 
 4. U oknu **izbrisati način plaćanja** , odaberite **Izbriši**.
 
-Koristite li stare admin centar? Za stare korake ili da biste saznali više, pogledajte [Dodavanje, ažuriranje, ili uklanjanje kreditne kartice ili bankovni račun u Office 365 poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Da biste saznali više, pogledajte [Dodavanje, ažuriranje, ili uklanjanje kreditnih kartica ili bankovnih računa u Office 365 poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

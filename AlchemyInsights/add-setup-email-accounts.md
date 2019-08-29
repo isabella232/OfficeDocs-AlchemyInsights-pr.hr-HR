@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 39c9466f41002a1471a9fb81c93900f75260678d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494807"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660892"
 ---
 # <a name="setup-email-accounts"></a>Postavljanje računa e-pošte
 
-1. U programu Outlook, odaberite **datoteku** \> **Dodaj račun**.
+1. U programu Outlook, odaberite **datoteku** > **Info** > **Dodaj račun**.
 
-2. Unesite adresu e-pošte, a zatim kliknite **Poveži**.
+2. Unesite adresu e-pošte, a zatim odaberite **Poveži**.
 
-3. Unesite lozinku i kliknite **u redu**.
+3. Unesite lozinku, a zatim odaberite **u redu**.
 
 4. Ponovite te korake za dodavanje višestrukih računa.
 
     > [!NOTE]
-    > Neke račune e-pošte, kao što su Gmail, Yahoo i iCloud, zahtijevaju postavili provjeru autentičnosti dva faktora da biste mogli koristiti Outlook za slanje i primanje e-pošte. Dodatne informacije potražite u članku [Dodavanje računa e-pošte za Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx).
+    > Neke račune e-pošte, kao što su Gmail, Yahoo i iCloud, zahtijevaju postavili provjeru autentičnosti dva faktora da biste mogli koristiti Outlook za slanje i primanje e-pošte. Dodatne informacije potražite u članku [Dodavanje računa e-pošte za Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
   

@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575580"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665032"
 ---
 # <a name="expired-subscription"></a>Istekli pretplate
 
@@ -34,7 +34,7 @@ Ako ne vidite **ponovno aktivirati** kao dostupnih akcija, nazovite podršku da 
 
 3. Potvrdite detalje plaćanja. Možete ažurirati vaše postojeće podatke o plaćanju ovdje. Kada završite s unosom način plaćanja, odaberite **ponovo aktivirati**.
 
-Koristite li stare admin centar? Za korake stare ili da biste saznali više, pogledajte [ponovno aktivirati pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Da biste saznali više, pogledajte [ponovno aktivirati pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Provjerite novu kupnju**
   
@@ -46,4 +46,4 @@ Koristite li stare admin centar? Za korake stare ili da biste saznali više, pog
 
 4. Slijedite preostale korake da biste dovršili odjavu.
 
-Koristite li stare admin centar? Za korake stare ili da biste saznali više, pogledajte [kupili drugu pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Da biste saznali više, pogledajte [kupili drugu pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

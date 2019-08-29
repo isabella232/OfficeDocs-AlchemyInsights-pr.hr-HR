@@ -13,16 +13,18 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 61a43938d5ae647aa08d388f466e9a97a6126d3a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514006"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665163"
 ---
 # <a name="declined-credit-card"></a>Odbijeno kreditne kartice
 
-Ako platiti kreditnom karticom, a odbio kreditne kartice, primit ćete poruku e-pošte vas obavijestiti o tome Nismo uspjeli obraditi uplata. Provjerite da [kreditnoj kartici](https://go.microsoft.com/fwlink/p/?linkid=842054) - broj kartice, datum isteka, naziv na kreditne kartice i adresu, uključujući Grad, stanje i poštanski broj - pojavljuju točno se kao na kreditne kartice i izjava kreditne kartice. Možete ažurirati podatke kreditne kartice i odmah poslati uplata korištenjem gumba **platiti sada** na stranici [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) . Za dodatne informacije pogledajte "što ako moje Kreditna je kartica istekla, i Moje plaćanja je prekoračen rok?" u [platiti za Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Ako platiti kreditnom karticom, a odbio kreditne kartice, primit ćete poruku e-pošte vas obavijestiti o tome Nismo uspjeli obraditi uplata. Provjerite da [kreditnoj kartici](https://go.microsoft.com/fwlink/p/?linkid=842054) - broj kartice, datum isteka, naziv na kreditne kartice i adresu, uključujući Grad, stanje i poštanski broj - pojavljuju točno se kao na kreditne kartice i izjava kreditne kartice. Možete ažurirati podatke kreditne kartice i neposredno slanje uplata koristeći mogućnost **podmiriti saldo** na stranici [Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+
+Da biste saznali više, pogledajte "što ako moje Kreditna je kartica istekla, i Moje plaćanja je prekoračen rok?" u [platiti za Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 Ako nastavite vidjeti poruku "odbijen", obratite se vaša banka. Moguće kreditne kartice nije aktivan je — na primjer, ako nedavno primljene kreditne kartice u poštu s datumom isteka ažurirani, možda još uvijek trebate ga aktivirati. Vaša banka vam može reći i ako kreditne kartice nisu odobrene za online, Međunarodni ili ponavljajuće transakcije.
   

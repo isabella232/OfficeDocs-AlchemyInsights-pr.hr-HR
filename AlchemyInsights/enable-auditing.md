@@ -3,7 +3,6 @@ title: Omogući i pretraživanje zapisnika nadzora
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527715"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665068"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Omogući i pretraživanje zapisnika nadzora
+
+**Office 365**
 
 Za pretraživanje zapisnika nadzora Office 365, slijedite [ove korake](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ Za pretraživanje zapisnika nadzora Office 365, slijedite [ove korake](https://d
 
 - Po zadanom se nadziru Exchange admin aktivnosti.
 
-- Smo upravo omogućiti nadzor poštanskog sandučića po zadanom u Office 365. Dok zatim, da biste omogućili nadzor za jedan poštanski sandučić ili za sve poštanske sandučiće u organizaciji, pogledajte [Ovaj članak](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Nadzor poštanskog sandučića po zadanom je omogućena u sustavu Office 365. Dodatne informacije potražite [u ovom članku](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Poštanski sandučići grupe Office 365 i poštanske sandučiće javne mape u Exchange Online ne podržavaju zapisnika nadzora.
 

@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574462"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661180"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktivacija licence pretplate glasnoće za Microsoft Office 365
 
@@ -30,6 +30,6 @@ ms.locfileid: "36574462"
 
 4. Aktivacija e-pošte će vam pružiti dvije mogućnosti: **prijavite**ili **prijaviti**. Ako ste prethodno stvorili probnu verziju, odaberite **prijavu**. Ako još nemate klijentske Office 365, odaberite **prijavite**.
 
-5. Prijavite se u Office 365 ([https://portal.office.com](https://portal.office.com)) pomoću postojeće vjerodajnice administratora sistema Office 365. Nakon što se uspješno prijavite, primit ćete poruku koja potvrđuje vaš nabave drugi e-pošte.
+5. Prijavite se u Microsoft 365 admin centar ([https://admin.microsoft.com](https://admin.microsoft.com)) pomoću postojeće vjerodajnice administratora sistema Office 365. Nakon što se uspješno prijavite, primit ćete poruku koja potvrđuje vaš nabave drugi e-pošte.
 
 6. Nakon što ste prijavljeni, možete otići **naplate** \> [proizvode & services](https://go.microsoft.com/fwlink/p/?linkid=842054) stranicu da biste provjerili nabavljenih pretplate Office 365 aktiviraju unutar vaše klijentske. (Možete i karticu **pretplate** u VLSC da biste prikazali detalje Ovjera da su sprema pretplatu.)
