@@ -3,21 +3,28 @@ title: S/MIME u programu Outlook na webu
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
-ms.date: 5/1/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 582c4dc361c0a665377bfc06d13691d222a934ac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2c047ca31c586c0aa36701e6e7ca9976cfd1734
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511563"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666832"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Šifriranje poruke e-pošte u programu Outlook
 
-<p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Šifriranje poruke Office 365 izgrađen na Microsoft Azure upravljanje pravima (Azure RMS) koji je dio Azure informacije zaštitu. Ako vaša pretplata uključuje Azure pravima ili zaštita Azure informacije <strong style="mso-bidi-font-weight: normal;">ne trebate poduzeti akcije ručno omogućiti ili aktivirati</strong> uslugu upravljanja pravima.</span></p> <p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Na temelju povratnih smo će više neće biti omogućavanje pravila toka pošte Exchange automatski šifrirati izlaznog e-pošta koja sadrži određene vrste osjetljive informacije u vašem klijentske po zadanom. &nbsp; Ćemo se umjesto toga pruža detaljne upute na kako to možete učiniti yourselves. &nbsp;Dodatne pojedinosti o kako stvoriti pravilo prijevoza za šifriranje osjetljivih informacija potražite <a href="https://aka.ms/OmeEtr">članak</a>.</span><u></u><span style="text-decoration: line-through;"></span></p> <ul> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&nbsp;&nbsp; &nbsp; &nbsp; </span> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Ako pomoću programa Outlook na webu (prije <strong style="mso-bidi-font-weight: normal;">OWA</strong>): kada sastavljate poruku e-pošte, jednostavno kliknite <strong>zaštiti</strong> u programu OWA. To će se primijeniti po zadanom &lsquo;ne prosljeđuj&rsquo; dozvolu. Kliknite <strong>Promijeni dozvole</strong> i odaberite <strong>Šifriraj</strong> samo šifrirati poruke.</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; &nbsp; Ako koristite <strong style="mso-bidi-font-weight: normal;">Outlook klijent</strong>: poslati šifriranu poruku iz Outlook 2013 ili 2016 ili Outlook 2016 za Mac odaberite mogućnosti &agrave; dozvole, zatim odaberite Zaštita mogućnost trebate.</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; Da biste <strong style="mso-bidi-font-weight: normal;">automatski šifriranje sve e-pošte</strong> šalju određene primatelje ili vanjski partner organizacijama, trebate stvoriti poštansko pravilo toka prijevoza u centru za administraciju sustava Exchange. Pruža detaljne upute u ovom <span style="color: black;"><a href="https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities">članku podržava</a></span></span></li> </ul>
+Šifriranje poruke Office 365 izgrađen na Microsoft Azure upravljanje pravima (Azure RMS), koji je dio Azure informacije zaštitu. Ako vaša pretplata uključuje Azure pravima ili zaštita Azure informacije **ne trebate poduzeti akcije ručno omogućiti ili aktivirati** uslugu upravljanja pravima.
+
+Na temelju povratnih smo će više neće biti omogućavanje pravila toka pošte Exchange automatski šifrirati izlaznog e-pošta koja sadrži određene vrste osjetljive informacije u vašem klijentske po zadanom. Smo se umjesto toga pruža detaljne upute na kako to možete učiniti yourselves. Za dodatne pojedinosti o tome kako stvoriti pravilo prijevoza za šifriranje osjetljivih informacija, pogledajte [Ovaj članak](https://aka.ms/OmeEtr).
+
+- Ako pomoću programa Outlook na webu (prije **OWA**): kada sastavljate poruku e-pošte, jednostavno kliknite **zaštiti** u programu OWA. To će se primijeniti dozvole "Ne prosljeđuj". Kliknite **Promijeni dozvole** i odaberite **Šifriraj** samo šifrirati poruke.
+
+- Ako koristite **Outlook klijent**: poslati šifriranu poruku iz Outlook 2013 ili 2016 ili Outlook 2016 za Mac odaberite **Mogućnosti** > **dozvole**, a zatim odaberite mogućnost zaštite trebate.
+
+- Da biste **automatski šifriranje sve e-pošte** šalju određene primatelje ili vanjski partner organizacijama, morate stvoriti pravilo toka prijevoza pošte u centru za administraciju sustava Exchange. U [ovom članku za podršku](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities)se daju detaljne upute.
 
