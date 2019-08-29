@@ -3,7 +3,6 @@ title: Zajedničko korištenje kalendara za 611
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +12,17 @@ ms.custom:
 - "611"
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: 460e5b10f600dba22d82026c873651d09e188546
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1739621bedc408cfd13da7b194964f8441d6b245
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518391"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665572"
 ---
-# <a name="calendar-sharing"></a><span data-ttu-id="265db-102">Zajedničko korištenje kalendara</span><span class="sxs-lookup"><span data-stu-id="265db-102">Calendar sharing</span></span>
+# <a name="calendar-sharing-in-outlook"></a><span data-ttu-id="eb98c-102">U programu Outlook za dijeljenje kalendara</span><span class="sxs-lookup"><span data-stu-id="eb98c-102">Calendar sharing in Outlook</span></span>
 
-<span data-ttu-id="265db-103">Za dodatne informacije pogledajte ove teme:</span><span class="sxs-lookup"><span data-stu-id="265db-103">For more information, see these topics:</span></span>
+<span data-ttu-id="eb98c-103">Informacije o zajedničkom korištenju kalendara programa Outlook potražite u člancima:</span><span class="sxs-lookup"><span data-stu-id="eb98c-103">For information about sharing an Outlook calendar, see these articles:</span></span>
   
-- [<span data-ttu-id="265db-104">Zajedničko korištenje kalendara programa Outlook s drugim osobama</span><span class="sxs-lookup"><span data-stu-id="265db-104">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="eb98c-104">Zajedničko korištenje kalendara programa Outlook s drugim osobama</span><span class="sxs-lookup"><span data-stu-id="eb98c-104">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-- [<span data-ttu-id="265db-105">Zajedničko korištenje kalendara u programu Outlook na webu za business</span><span class="sxs-lookup"><span data-stu-id="265db-105">Share your calendar in Outlook on the web for business</span></span>](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [<span data-ttu-id="eb98c-105">Zajedničko korištenje kalendara u programu Outlook na webu za business</span><span class="sxs-lookup"><span data-stu-id="eb98c-105">Share your calendar in Outlook on the web for business</span></span>](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
