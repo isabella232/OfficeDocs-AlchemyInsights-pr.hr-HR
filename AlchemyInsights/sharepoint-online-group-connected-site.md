@@ -1,6 +1,6 @@
 ---
 title: Dodavanje grupe web-mjesta sustava SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 6aea12d44a44a3e11eaf3fb1bd47ff3e9dbfd9e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 423db4e5bbb85e75aee3548d5b6b46a64ebc6fa0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507839"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750512"
 ---
 # <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Problemi kada stvaranja ili grupe povezani web-mjesta u SharePoint Online
 

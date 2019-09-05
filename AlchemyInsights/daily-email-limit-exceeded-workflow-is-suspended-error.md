@@ -1,6 +1,6 @@
 ---
 title: Dnevni e-pošta Premašeno ograničenje. Tijek rada je Suspended pogreška
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3bed6ed-48c1-47af-9e6f-29f716aa8d6b
-ms.openlocfilehash: 3a96a8a58672c6fb3f9d34c525a3734a48daf8de
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6cce569133d97e9fefea3834a63be1f1b756b417
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514437"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755336"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>Dnevni e-pošta Premašeno ograničenje. Tijek rada je Suspended pogreška
 

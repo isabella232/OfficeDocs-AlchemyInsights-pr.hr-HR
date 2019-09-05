@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: a3cf44d52a3948634fc0eed64c852ff17515fd9b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620751"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753896"
 ---
 # <a name="modern-site-as-root-site"></a>Moderna web-mjesta kao korijensko web-mjesto
 
-Ćemo imati počelo pripremati rollout nove značajke koje će vam omogućuju da zamijeni vaš klasični mjesta korijensko web-mjesto s Moderna web-mjesta. Koristite [Pozovite SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) Zamijeni mjesto web-mjesta s drugog web-mjesta vrijeme arhiviranja izvornog web-mjesta. Dostupno za timskog web-mjesta (nije povezano s grupom) i komunikacije web-mjesta. 
+Ćemo imati započela za rollout novu značajku koja će vam omogućiti da [Zamijeni vaš klasični mjesta korijensko web-mjesto s Moderna web-mjesta](https://docs.microsoft.com/sharepoint/modern-root-site). Koristite [Pozovite SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) Zamijeni mjesto web-mjesta s drugog web-mjesta vrijeme arhiviranja izvornog web-mjesta. Dostupno za timskog web-mjesta (nije povezano s grupom) i komunikacije web-mjesta.
 
 >[!Important]
 > Brisanje klasični korijensko web-mjesto za stvaranje Moderna komunikacije web-mjesta. Ovo je Microsoft ne podržava. Brisanje korijenskog web-mjesta će napraviti sve SharePoint web-mjestima u vašoj organizaciji nedostupni na sve korisnike dok ne obnovite web-mjesto ili stvorite novo web-mjesto na URL-u istoj. Ćete smo komunikaciji značajka putem centra za poruku. Značajka biti uključen u vaše klijentske uskoro očekivati.

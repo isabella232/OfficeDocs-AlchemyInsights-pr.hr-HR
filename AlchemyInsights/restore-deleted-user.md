@@ -13,12 +13,12 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551803"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745065"
 ---
 # <a name="restore-a-user-in-office-365"></a>Vraćanje korisniku u Office 365
 
@@ -32,4 +32,4 @@ Vraćanje korisniku u Office 365 slijedeći ove korake:
 
 4. **Slanje e-pošte i Zatvori**, i gotovi!
 
-Nije bio to jednostavno? Za više pojedinosti i korake s snimki zaslona odjaviti ovaj članak: [Vraćanje korisnika u Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). Ako ste shvatili umjesto toga trebate vraćanja korisnički poštanski sandučić, pogledajte: [Brisanje ili vraćanje korisnik poštanskim sandučićima u sustavu Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Nije bio to jednostavno? Za više pojedinosti i korake s snimki zaslona odjaviti ovaj članak: [Vraćanje korisnika u Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Ako ste shvatili umjesto toga trebate vraćanja korisnički poštanski sandučić, pogledajte: [Brisanje ili vraćanje korisnik poštanskim sandučićima u sustavu Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

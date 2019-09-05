@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557961"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738081"
 ---
 # <a name="workflow-is-not-starting"></a>Tijek rada se pokreće
 
@@ -33,7 +33,7 @@ ms.locfileid: "36557961"
 
     - Tijekovi rada su dizajnirani za pokretanje u stvarnom vremenu, pa je kašnjenje ponašanje po dizajna.
 
-   -  Ako je tijek rada složene Extensible objekt Markup Language (XMOL), kompiliranja može biti sporo. Provjerite [u ovom](https://support.microsoft.com/en-us/kb/3043697) članku.
+   -  Ako je tijek rada složene Extensible objekt Markup Language (XMOL), kompiliranja može biti sporo. Provjerite [u ovom](https://support.microsoft.com//kb/3043697) članku.
 
     - Trebali biste pojednostavili tijek rada ili redizajnirati ga pomoću vrsta platforme Microsoft SharePoint 2013 tijeka rada.
 

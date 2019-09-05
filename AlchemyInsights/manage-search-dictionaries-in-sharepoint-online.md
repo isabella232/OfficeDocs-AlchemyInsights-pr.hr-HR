@@ -1,6 +1,6 @@
 ---
 title: Upravljanje pretraživanja rječnika u SharePoint Online
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -11,12 +11,12 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 78aaf013c3fa8f5ed4c91b1c651ba2328ed73402
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542083"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754400"
 ---
 # <a name="manage-search-dictionaries"></a>Upravljanje pretraživanja rječnici
 

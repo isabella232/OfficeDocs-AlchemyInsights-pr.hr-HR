@@ -1,6 +1,6 @@
 ---
 title: Web-mjesta SharePoint Online javne su se više ne postoje
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 1/2/2019
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 079a63defe8b5e21d84f042ef32231a2e34d1c2c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a499e71407df388ef30b0bdd4d2c46184f13d0e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534591"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750296"
 ---
 # <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Online obustavljen javne web-mjesta
 
