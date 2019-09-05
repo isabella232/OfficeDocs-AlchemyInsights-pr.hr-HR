@@ -11,20 +11,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: e3b1c8d7bfab350f2ee4bede0515c90be8c1fad3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 657e2f11a18d22e63765f3781c92aa4be42af40c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496967"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735021"
 ---
 # <a name="manage-groups-in-yammer"></a>Upravljanje grupama u servisu Yammer
 
-- **Dozvole za stvaranje grupe.** Yammer kontrolirati tko možete stvoriti grupu. Međutim, moguće je upravljanje Stvaranje grupe za grupe povezani Office 365. Dodatne informacije potražite [Upravljanje koji možete stvoriti grupe Office 365](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618).
+- **Dozvole za stvaranje grupe.** Yammer kontrolirati tko možete stvoriti grupu. Međutim, moguće je upravljanje Stvaranje grupe za grupe povezani Office 365. Dodatne informacije potražite [Upravljanje koji možete stvoriti grupe Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups) .
 
-- **Dinamički grupno članstvo.** Pogledajte [Stvaranje dinamičnu grupirati u servisu Yammer](https://support.office.com/article/create-a-dynamic-group-in-yammer-6d2a6ec7-1d65-46bb-b253-1bf441ec80a5)za informacije o stvaranju dinamičke članstva za Yammer povezani grupe za Office 365.
+- **Dinamički grupno članstvo.** Pogledajte [Stvaranje dinamičnu grupirati u servisu Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) za informacije o stvaranju dinamičke članstva za Yammer povezani grupe za Office 365.
 
-- **Vraćanje izbrisane grupe.** Vraćanje Office 365 grupe povezani Yammer je moguće putem [vratiti izbrisane grupe Office 365](https://support.office.com/article/Restore-a-deleted-Office-365-Group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54) koji nisu povezani grupe nije moguće vratiti nakon brisanja.
+- **Vraćanje izbrisane grupe.** Vraćanje Office 365 grupe povezani Yammer je moguće putem [vratiti izbrisane grupe Office 365](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group) koji nisu povezani grupe nije moguće vratiti nakon brisanja.
 
-Dodatne informacije o upravljanju grupu u odjeljku [Upravljanje grupe u servisu Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Informacije o povezanim grupama Office 365 potražite [Yammer i grupe za Office 365](https://support.office.com/article/Yammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869)
+Dodatne informacije o upravljanju grupu u odjeljku [Upravljanje grupe u servisu Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Informacija o grupama povezanih Office 365, pogledajte [Yammer i grupe za Office 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
   

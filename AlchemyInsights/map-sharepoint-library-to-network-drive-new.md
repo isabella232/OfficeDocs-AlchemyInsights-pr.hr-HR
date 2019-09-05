@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 8226b88c0f472d0e35ff462dc5a5259487a8ef06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7b16cb448684d3f68be84fda4d9de201b953ffb
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497003"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734877"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>Karta SharePoint biblioteku s mrežnim pogonom
 
@@ -28,6 +28,6 @@ Ako odaberete preslikati pogon umjesto u [novom klijentu OneDrive sinkronizaciju
 **Kako konfigurirati i rješavanje problema mapirani mrežni pogoni**
 
 
-Vidi [Konfiguriranje i otklanjanje preslikane mrežne pogone](https://support.office.com/article/troubleshoot-mapped-network-drives-that-connect-to-sharepoint-online-ef399c67-4578-4c3a-adbe-0b489084eabe?ui=en-US&amp;rs=en-US&amp;ad=US).
+Pogledajte [Otklanjanje mapirani mrežni pogoni povezati SharePoint Onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
 
 Napomena: Ako koristite Internet Explorer 10 s Windows 8 ili Windows 7 i dobiti **pristup odbijen** ili **put se ne može pristupiti** prilikom mapiranja pogona, instalirajte [hitni popravak](https://support.microsoft.com/help/2846960) da biste riješili taj problem. 

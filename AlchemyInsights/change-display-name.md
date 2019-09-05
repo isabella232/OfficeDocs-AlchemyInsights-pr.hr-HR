@@ -11,12 +11,12 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519795"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736713"
 ---
 # <a name="change-your-display-name"></a>Promijenite naziv prikaza
   
@@ -27,7 +27,7 @@ Da biste promijenili naziv prikaza u programu Outlook, koristite sljedeće korak
 2. Odaberite račun e-pošte i zatim odaberite **promjenu**.
 
     > [!NOTE]
-    > Ako ne vidite mogućnost da biste promijenili naziv prikaza, vjerojatno koristite Microsoft Exchangeov račun e-pošte. U tom slučaju morate obratite se administratoru da biste promijenili naziv prikaza. Pogledajte [promijeniti korisničko ime i adresa u sustavu Office 365 e-pošte](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Ako ne vidite mogućnost da biste promijenili naziv prikaza, vjerojatno koristite Microsoft Exchangeov račun e-pošte. U tom slučaju morate obratite se administratoru da biste promijenili naziv prikaza. Pogledajte [promijeniti korisničko ime i adresa u sustavu Office 365 e-pošte](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
 3. Nakon što ste promijenili naziv prikaza, kliknite **u redu** da biste spremili promjene. Može potrajati nekoliko sati za promjene tako da odražavaju cijeloj organizaciji.
 

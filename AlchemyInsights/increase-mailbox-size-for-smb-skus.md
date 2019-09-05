@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499271"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739233"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Skretnica namjerava povećati veličinu poštanskog sandučića
 
@@ -30,6 +30,6 @@ Ako je veličina poštanskog sandučića 50 GB, možete povećati veličinu poš
     
 4. Kada završite odjavu, Office 365 traje nekoliko minuta za dovršenje skretnice. Možete početi koristiti odmah novu pretplatu.
     
-Za više pojedinosti pogledajte [prijeđite na drugi plan za Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
+Za više pojedinosti pogledajte [prijeđite na drugi plan za Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
   
 

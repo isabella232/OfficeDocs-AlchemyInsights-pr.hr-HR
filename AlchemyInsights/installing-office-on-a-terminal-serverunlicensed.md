@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498407"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735381"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instaliranje sustava Office na terminalski poslužitelj
 
@@ -26,7 +26,7 @@ Za uvođenje Office 365 ProPlus na poslužitelju Windows pomoću udaljene radne 
 
 - Morate omogućiti [zajedničko računalo aktivacije](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Ako želite instalirati Office 365 ProPlus na ZAPISI s portala Office 365 ***koji koristi zadane postavke instalacije***, slijedite ove korake:
+Ako želite instalirati Office 365 ProPlus ZAPISI iz centra admin Microsoft 365 ***koji koristi zadane postavke instalacije***, slijedite ove korake:
   
 1. Provjerite što Office 365 plan imate. [Saznajte kako](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -34,7 +34,7 @@ Ako želite instalirati Office 365 ProPlus na ZAPISI s portala Office 365 ***koj
 
 3. Office već instaliran na poslužitelju ZAPISI pomoću Office 365 planove, deinstalirajte ga. Na primjer, odlaskom na upravljačkoj ploči \> deinstalirati program. Deinstaliraj pomoću [Microsoft podršku i oporavak pomoćnika](https://aka.ms/SARA-OfficeUninstall-Alchemy) ako se izvodi u problemi.
 
-4. Na poslužitelju ZAPISI prijaviti u portala za Office 365 s administratorskog računa i [instalirajte Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Na poslužitelju ZAPISI prijaviti u Centar za administraciju Microsoft 365 s administratorskog računa i [instalirajte Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
 5. Nakon instalacije Officea ***ne otvorite ili prijaviti*** za sve Officeove aplikacije.
 

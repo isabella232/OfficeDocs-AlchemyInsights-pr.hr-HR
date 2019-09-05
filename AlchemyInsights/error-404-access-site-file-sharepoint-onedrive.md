@@ -7,12 +7,12 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527391"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740205"
 ---
 # <a name="error-404-file-not-found"></a>Pogreška 404: Datoteka nije pronađena
 
@@ -22,4 +22,4 @@ Korisnici uočiti pogrešku pri pokušaju pristupiti zbirci web-mjesta korijena 
 Sljedeće mogu pomoći pri rješavanju tog problema:
 - [Prikaz i vraćanja izbrisati web-mjesta u novi centar admin SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): za Moderna web-mjesta (komunikacije grupe povezani, ili drugih web-mjesta) koje postoje u novi pretpregled admin centar.
 - [Vraćanje stavki u koš za smeće SharePoint web-mjesta](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): da biste riješili datoteku (ili druge stavke) koji preimenovana, premještena ili izbrisana Idi na SharePoint ili OneDrive web-mjesta i prikaz u koš za smeće regalnog skladišta iz sadržaja web-mjesta.
-- [Pretraživanje zapisnika nadzora u Office 365 sigurnosti &amp; centar usklađenosti](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): pretraživanje zapisnika nadzora (Ako je zapisivanje) ako i dalje ne možete pronaći stavku.
+- [Pretraživanje zapisnika nadzora sigurnost &amp; centar usklađenosti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): pretraživanje zapisnika nadzora (Ako je zapisivanje) ako i dalje ne možete pronaći stavku.
