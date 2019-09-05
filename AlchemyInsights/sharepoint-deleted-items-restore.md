@@ -12,18 +12,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 544e65430cce72329933933927883521b2d79e7c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d68581fed677d2578e92b667e1fd29ee27c53336
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666112"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744561"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Vrati izbrisane stavke iz sustava SharePoint
 
-Kada izbrišete stavku ili web-mjesta iz sustava Sharepoint, nije odmah uklonjena. Izbrisane stavke idu u koš za smeće za vremensko razdoblje. Tijekom vremena, možete izbrisati stavke možete vratiti na njihovo izvorno mjesto. Za dodatne informacije posjetite veze ispod.
+Kada izbrišete stavku ili web-mjesta iz sustava SharePoint, nije odmah uklonjena. Izbrisane stavke idu u koš za smeće za vremensko razdoblje. Tijekom vremena, možete izbrisati stavke možete vratiti na njihovo izvorno mjesto. Za dodatne informacije posjetite veze ispod.
 
-- [Vraćanje stavki u koš za smeće SharePoint web-mjesta](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Vraćanje stavki u koš za smeće SharePoint web-mjesta](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
 - [Vraćanje izbrisane datoteke ili mape u OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
@@ -37,8 +37,8 @@ Kada izbrišete stavku ili web-mjesta iz sustava Sharepoint, nije odmah uklonjen
 
 **Značajka vraćanja datoteka**
 
-Ako mnogo datoteka OneDrive ili Sharepoint Dohvati izbrisane, prebrisati, oštećen ili zaražene zlonamjernog softvera, cijeli OneDrive ili Sharepoint biblioteke možete vratiti prethodnu vrijeme pomoću značajke vraćanja datoteka.
+Ako mnogo datoteka OneDrive ili SharePoint Dohvati izbrisane, prebrisati, oštećen ili zaražene zlonamjernog softvera, cijeli OneDrive ili SharePoint biblioteke možete vratiti prethodnu vrijeme pomoću značajke vraćanja datoteka.
 
 - [Vraćanje OneDrive biblioteka](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
-- [Vraćanje biblioteku dokumenata](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Vraćanje biblioteku dokumenata](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

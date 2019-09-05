@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: c6c98b6fcfef6ca6f84810eb92ec0d1b90ff3379
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508883"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744705"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Postavljanje pretplata Essentials poslovne O365
 
@@ -23,11 +23,11 @@ Stvaranje Office 365 račune i dodavanje vaše domene
     
 - Idite na [Microsoft 365 admin centar](https://login.partner.microsoftonline.cn/).
     
-- Da biste pokrenuli čarobnjak, odaberite **Idi na instalaciju**. Da biste saznali više, pogledajte [Dodavanje korisnika i domenu Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Da biste pokrenuli čarobnjak, odaberite **Idi na instalaciju**. Da biste saznali više, pogledajte [Dodaj domenu Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
 Uvoz e-pošte
   
-- Premještanje postojeće e-pošte i kontakte s drugim sustavima e-pošte Office 365 poštanskog sandučića tako da možete vidjeti sve na jednom mjestu. Za migraciju mogućnosti [Premjesti e-pošte i kontakte za Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Premještanje postojeće e-pošte i kontakte s drugim sustavima e-pošte Office 365 poštanskog sandučića tako da možete vidjeti sve na jednom mjestu. Za migraciju mogućnosti [Premjesti e-pošte i kontakte za Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
 - Povezivanje računa e-pošte
     
@@ -41,6 +41,6 @@ Spremanje datoteke na mreži
   
 - Da biste saznali koja mjesta za pohranu najbolje su za vaše poslovanje, pogledajte [gdje možete spremati datoteke u Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Svatko dobiva **OneDrive** mjesto za pohranu oblaka automatski kada kreirate Office 365 račune za njih. S OneDrive, datotekama možete pristupiti i preko računala, telefoni i tableta. 
     
-Detaljne korake za postavljanje možete pronaći u [ovom članku](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
+Detaljne korake za postavljanje možete pronaći u [ovom članku](https://docs.microsoft.com/office365/admin/setup/setup).
   
 

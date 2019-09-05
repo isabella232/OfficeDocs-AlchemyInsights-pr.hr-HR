@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 08a59e9ebcae5ab0daff6089b54a73339fea6fc9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661540"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739053"
 ---
 # <a name="issue-with-skype-for-business"></a>Imate li problem povezan sa Skypeom za tvrtke?
 
@@ -23,11 +23,10 @@ Uočili smo da sljedeće domene imaju problema koji bi mogli spriječiti ispravn
   
 {HealthCheckString}
   
-Postavke NS, CNAME ili SRV zapisa domene (DNS) nisu pravilno konfigurirane za Skype za tvrtke. Detaljnije upute možete potražiti u članku [Ažuriranje DNS zapisa u sustavu Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx).
+Postavke NS, CNAME ili SRV zapisa domene (DNS) nisu pravilno konfigurirane za Skype za tvrtke. Detaljnije upute možete potražiti u članku[Stvaranje DNS zapisa pri bilo kojem davatelju usluge hostiranja DNS-a za Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Da biste otklonili tu poteškoću, idite na stranicu [Domene](https://admin.microsoft.com/adminportal/home#/Domains) u centru za administratore okruženja Microsoft 365 i mi ćemo vam pomoći.
   
 Ako imate problema prilikom komunikacije s korisnicima koji se nalaze izvan vaše tvrtke ili ustanove, detaljnije upute možete potražiti u članku [Postavljanje Skypea za tvrtke online za vanjsku komunikaciju](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx).
-  
-Ostala uobičajena rješenja potražite u članku [Najčešća pitanja o domenama](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).
+
   
