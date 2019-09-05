@@ -8,12 +8,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: b5e546329fa05620b927db4742c3023f45289efc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503879"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744417"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Omogućite zajedničko korištenje vanjskih u SharePoint Online
 
@@ -35,7 +35,7 @@ Za dodatne informacije o vanjskim zajedničko korištenje (Gosti), posjetite vez
 
 - [Zajedničko korištenje SharePoint datoteke ili mape](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Zaustavi dijeljenje OneDrive ili SharePoint datoteke ili mape ili promijenite dozvole](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Zaustavi dijeljenje OneDrive ili SharePoint datoteke ili mape ili promijenite dozvole](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [Izbrisati vanjski korisnika](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
@@ -45,6 +45,6 @@ Provjerite dolje navedene veze.
 
 - [Zajedničko korištenje OSE pogreške u Sharepoint ili OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [Poruka o pogrešci kada vanjski korisnik prihvati pozivnicu SharePoint Online pomoću drugog računa](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [Poruka o pogrešci kada vanjski korisnik prihvati pozivnicu SharePoint Online pomoću drugog računa](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Pristup zajedničkoj mapi je odbijen](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [Pristup zajedničkoj mapi je odbijen](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500207"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742725"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Riješite probleme s Otvori pomoću programa Explorer
 
@@ -31,6 +31,6 @@ Riješite uobičajene probleme s otvaranjem biblioteku dokumenata u SharePoint i
 > [!NOTE]
 > Otvaranje biblioteke Explorer datoteka je praktičan ako trebate kopirati ili premjestiti više datoteka i mapa jednom, ali ako želite redovito raditi u biblioteci, preporučujemo da ga sinkroniziranje. Za rješavanje problema s otvaranjem datoteka Explorer vidjeti [otvorene u programu Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Info o postavljanju sinkronizacije potražite [SharePoint sinkronizaciju datoteke s novom klijentu sinkronizaciju OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Pogledajte članak [kako koristiti naredbu "Otvori s Explorer" otklanjanje poteškoća u SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) dodatne informacije. 
+Pogledajte članak [kako koristiti naredbu "Otvori s Explorer" otklanjanje poteškoća u SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) dodatne informacije. 
   
 

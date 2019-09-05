@@ -13,16 +13,16 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501035"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743265"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Prijedlozi za rješavanje pogrešaka "Nelicenciran proizvod"
 
-Provjerite je li imati pretplatu koji omogućuje klijentskih licenci poslovne Office 365 ili poslovne Premium i [osigurali korisnik ima licenca dodeljena](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Deaktiviraj instalaciju](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) da biste provjerili ako Premašili ste broj instalira podržava pretplatu.
+Provjerite je li imati pretplatu koji omogućuje klijentskih licenci poslovne Office 365 ili poslovne Premium i [osigurali korisnik ima licenca dodeljena](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Deaktiviraj instalaciju](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) da biste provjerili ako Premašili ste broj instalira podržava pretplatu.
   
 Provjerite je li korisnik potpisivanja pomoću istog računa koji ima licenca dodeljena.
   
