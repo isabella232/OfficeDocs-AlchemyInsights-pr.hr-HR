@@ -1,6 +1,6 @@
 ---
 title: Problemi performanse-SharePoint ili OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -12,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 706d4b830710b2ecaa5877777003852d3d4bc95c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666724"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752708"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a><span data-ttu-id="4eb4a-102">SharePoint ili OneDrive spora, nedostupni ili nedostupna za više korisnika</span><span class="sxs-lookup"><span data-stu-id="4eb4a-102">SharePoint or OneDrive slow, inaccessible, or unavailable for multiple users</span></span>
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a><span data-ttu-id="a19ea-102">SharePoint ili OneDrive spora, nedostupni ili nedostupna za više korisnika</span><span class="sxs-lookup"><span data-stu-id="a19ea-102">SharePoint or OneDrive slow, inaccessible, or unavailable for multiple users</span></span>
 
-<span data-ttu-id="4eb4a-103">SharePoint ili OneDrive možda sporo, nedostupni ili nedostupna nekoliko razloga:</span><span class="sxs-lookup"><span data-stu-id="4eb4a-103">SharePoint or OneDrive may be slow, inaccessible, or unavailable for several reasons:</span></span>
+<span data-ttu-id="a19ea-103">SharePoint ili OneDrive možda sporo, nedostupni ili nedostupna nekoliko razloga:</span><span class="sxs-lookup"><span data-stu-id="a19ea-103">SharePoint or OneDrive may be slow, inaccessible, or unavailable for several reasons:</span></span>
   
-- <span data-ttu-id="4eb4a-104">Ako je vaše web-mjesto SharePoint ili OneDrive spore ili zakašnjele za više korisnika, možda postoji problem privremeni servis gdje korisnici iskustvo povremena kašnjenja ili navigacijske pogreške pri pristupanju SharePoint web-mjesta ili OneDrive sadržaj.</span><span class="sxs-lookup"><span data-stu-id="4eb4a-104">If your SharePoint or OneDrive site is slow or delayed for multiple users, there may be a temporary service issue where users experience intermittent delays or navigation errors when accessing SharePoint sites or OneDrive content.</span></span> <span data-ttu-id="4eb4a-105">Provjerite [nadzorne ploče servis stanja sustava](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste vidjeli ako vaša organizacija utjecati.</span><span class="sxs-lookup"><span data-stu-id="4eb4a-105">Check the [Service health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+- <span data-ttu-id="a19ea-104">Ako je vaše web-mjesto SharePoint ili OneDrive spore ili zakašnjele za više korisnika, možda postoji problem privremeni servis gdje korisnici iskustvo povremena kašnjenja ili navigacijske pogreške pri pristupanju SharePoint web-mjesta ili OneDrive sadržaj.</span><span class="sxs-lookup"><span data-stu-id="a19ea-104">If your SharePoint or OneDrive site is slow or delayed for multiple users, there may be a temporary service issue where users experience intermittent delays or navigation errors when accessing SharePoint sites or OneDrive content.</span></span> <span data-ttu-id="a19ea-105">Provjerite [nadzorne ploče servis stanja sustava](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste vidjeli ako vaša organizacija utjecati.</span><span class="sxs-lookup"><span data-stu-id="a19ea-105">Check the [Service health dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
   
-- <span data-ttu-id="4eb4a-106">Doživljaj spore performanse s **Klasični** SharePoint web-mjesta ili stranice koristiti [stranice dijagnostički alat](https://aka.ms/perftool) za analizu stranice.</span><span class="sxs-lookup"><span data-stu-id="4eb4a-106">If you experience slow performance with a **classic** SharePoint site or page, utilize the [Page Diagnostic tool](https://aka.ms/perftool) to analyze the pages.</span></span>
+- <span data-ttu-id="a19ea-106">Doživljaj spore performanse s **Klasični** SharePoint web-mjesta ili stranice koristiti [stranice dijagnostički alat](https://aka.ms/perftool) za analizu stranice.</span><span class="sxs-lookup"><span data-stu-id="a19ea-106">If you experience slow performance with a **classic** SharePoint site or page, utilize the [Page Diagnostic tool](https://aka.ms/perftool) to analyze the pages.</span></span>
   
-- <span data-ttu-id="4eb4a-107">Ako i dalje nailazite Općenito spore performanse, pregledajte resurse na dnu ovog članka: [Uvod za SharePoint Online ugađanju performansi](https://go.microsoft.com/fwlink/?linkid=2024334)</span><span class="sxs-lookup"><span data-stu-id="4eb4a-107">If you still experience general slow performance, please review the resources at the bottom of this article: [Introduction to performance tuning for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)</span></span>
+- <span data-ttu-id="a19ea-107">Ako i dalje nailazite Općenito spore performanse, pregledajte resurse na dnu ovog članka: [Uvod za SharePoint Online ugađanju performansi](https://go.microsoft.com/fwlink/?linkid=2024334)</span><span class="sxs-lookup"><span data-stu-id="a19ea-107">If you still experience general slow performance, please review the resources at the bottom of this article: [Introduction to performance tuning for SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)</span></span>
   
