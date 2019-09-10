@@ -1,5 +1,5 @@
 ---
-title: Šifre Outlook.com Facebook
+title: Outlook.com Facebook kodovi
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546763"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822298"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Ne primate šifre Facebook pomoću Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Ne prima Facebook kodove pomoću Outlook.com
 
-Ako zatražili novu lozinku iz Facebook, ali nije primio za poništavanje lozinke e-pošte:
+Ako ste zatražili novu lozinku s Facebooka, ali niste primili lozinku za resetiranje lozinke:
 
-- Provjerite [neželjenu ili mapu Bezvrijedna pošta](https://outlook.live.com/mail/junkemail).
-- Pokušajte [vraćanje izvorne lozinke Facebook](https://www.facebook.com/help/213395615347144?helpref=faq_content).
+- Provjerite [mapu spam ili junk mail](https://outlook.live.com/mail/junkemail).
+- Pokušajte [ponovno postaviti lozinku za Facebook](https://aka.ms/facebook-password-reset).
 
-Lozinku nije moguće vratiti jer ne može pristupiti e-pošte ili broj mobilnog telefona na vaš račun, pokušajte [Facebook's savjete vrati lozinku](https://www.facebook.com/help/218815984812734).
+Ako ne možete resetirati lozinku jer ne možete pristupiti broju e-pošte ili mobilnog telefona na vašem računu, pokušajte na [Facebooku ponovno postaviti savjete za izvornu lozinku](https://aka.ms/facebook-password-help).

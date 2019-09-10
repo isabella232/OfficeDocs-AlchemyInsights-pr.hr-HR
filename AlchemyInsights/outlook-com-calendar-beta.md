@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com kalendar Beta
+title: 9000198 Outlook.com kalendar beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548131"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821974"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Novi kalendar iskustvo pristižu Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Novi kalendar iskustva dolaze na Outlook.com
 
-Novi izgled donosi najbolje dizajne i learnings iz poštu iskustvo kalendara.
+Novi izgled donosi najbolje dizajne i nauce iz mail iskustvo u kalendar.
 
-Ćete uživati Moderna dizajn koji smanjuje vizualna prenatrpanost i daje vam brže načine za navigaciju kalendar. Također je lakše pronaći zanimljive kalendari za omiljene aktivnosti — iz TV prikazuje Sportovi timovima i događaje.
+Uživat ćete u modernom dizajnu koji smanjuje vizualni nered i daje vam brži način navigacije kalendara. Također je lakše pronaći zanimljive kalendare za vaše omiljene aktivnosti – od TV emisija do sportskih timova i događanja.
 
-Možemo proširena naše zbirke ikone događaja i ažurirati izgled i dojam postojeće — i ćemo sada automatski dodati odgovarajući ikone događaja, tako da možete lako vidjeti što je odlaska na pogledom.
+Proširili smo našu zbirku ikona događaja i ažurirali izgled i osjećaj postojećih – i sada automatski dodavamo relevantne ikone vašim događajima, tako da jednostavno možete vidjeti što se događa na jedan pogled.
 
-Možete dati povratne informacije na nove značajke kroz [kanal UserVoice Outlook.com kalendar](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).
+Možete dati povratne informacije o novim značajkama putem [kanala Outlook.com Calendar UserVoice](https://go.microsoft.com/fwlink/?linkid=2103075).
