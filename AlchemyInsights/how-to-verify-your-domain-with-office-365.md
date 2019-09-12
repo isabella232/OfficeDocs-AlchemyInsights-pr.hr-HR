@@ -1,5 +1,5 @@
 ---
-title: Kako provjeriti domenu s Office 365
+title: Kako provjeriti domenu sa Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
+ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664060"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36851712"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="591c4-102">Kako provjeriti domenu s Office 365</span><span class="sxs-lookup"><span data-stu-id="591c4-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="4afbc-102">Kako provjeriti domenu sa Office 365</span><span class="sxs-lookup"><span data-stu-id="4afbc-102">How to verify your domain with Office 365</span></span>
 
-<span data-ttu-id="591c4-103">Da biste provjerili vaše domene, morate dodati TXT zapisu Registrator domene da biste provjerili posjedujete vaše domene.</span><span class="sxs-lookup"><span data-stu-id="591c4-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="591c4-104">Prvo, slijedite [čarobnjaka za dodavanje domene](https://portal.office.com/adminportal/home#/Domains) odabirom **Postavke** \> **Domaisn**, a zatim **Dodaj domenu**.</span><span class="sxs-lookup"><span data-stu-id="591c4-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domaisn**, and then **Add domain**.</span></span>
+<span data-ttu-id="4afbc-103">Da biste potvrdili domenu, morat ćete dodati TXT zapis domenskom registru kako biste potvrdili da posjedujete domenu.</span><span class="sxs-lookup"><span data-stu-id="4afbc-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="4afbc-104">Najprije slijedite čarobnjak za [Dodavanje domene](https://portal.office.com/adminportal/home#/Domains) odabirom **domena** **postavki** \> , a zatim **dodajte domenu**.</span><span class="sxs-lookup"><span data-stu-id="4afbc-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="591c4-105">Slijedite upute u [Stvaranje DNS zapisa na bilo kojem DNS pružatelju usluge za Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) da biste dodali zapis TXT provjeriti vaše domene.</span><span class="sxs-lookup"><span data-stu-id="591c4-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="4afbc-105">Slijedite upute u [izradi DNS zapisa na bilo kojem DAVATELJU DNS hosting za Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) za dodavanje txt zapisa za provjeru svoje domene.</span><span class="sxs-lookup"><span data-stu-id="4afbc-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
   
