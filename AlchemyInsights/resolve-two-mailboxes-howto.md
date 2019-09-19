@@ -1,5 +1,5 @@
 ---
-title: 1374 riješiti dva Nemoderirana poštanski sandučići
+title: 1374 riješiti dva poštanskog sandučića kako
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1374"
+- "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15723e0b9b98dbee5c8ad4d0417f86a03fa08c7e
+ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369837"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37026586"
 ---
-# <a name="a-user-has-two-mailboxes"></a>Korisnik ima dva poštanski sandučići
+# <a name="a-user-has-two-mailboxes"></a>Korisnik ima dva poštanskog sandučića
 
-Hibridno okruženjima koja koriste Azure Active Directory povezivanje (AAD povezivanje) ili DirSync slučajno uzrokovati korisnik ima dva poštanske sandučiće: jedan u organizaciji lokalno i jedan u oblaka.
+Hibridno okruženje koje koristi Azure Active Directory Connect (AAD Connect) ili DirSync može nehotice uzrokovati da korisnik ima dva poštanskog sandučića: jedan lokalno i jedan u oblaku. Duplikat poštanskog sandučića može se kreirati na bilo kojem mjestu.
 
-Da biste riješili taj problem, pogledajte [Trajno ukloni prethodne poštanski sandučić Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).
+Da biste riješili taj problem, pogledajte [kako oporaviti kada poštanski sandučić postoji u Exchange Online i lokalno](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Ako želite saznati više o tome kako izbjeći da se to dogodi u budućnosti, pogledajte [moj korisnik ima poštanski sandučić i lokalno i na Exchange Online. Pomozi mi!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809)
