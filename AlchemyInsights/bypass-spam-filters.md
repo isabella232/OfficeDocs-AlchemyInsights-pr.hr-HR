@@ -1,5 +1,5 @@
 ---
-title: 2637 Zaobiđi neželjene pošte filtriranje dopustiti određene poruke?
+title: 2637 premostiti spam filtriranje kako bi se omogućilo određene poruke?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,15 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 2637
+ms.custom:
+- "2637"
+- "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 6a6a119f6ba32df474d44421f0571e882d1fe6ee
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: 8d8c9b56c61c17be1001bf9723bc4b5ecbfba031
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36406520"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122148"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Zaobiđi filtriranje dopustiti određene poruke neželjene?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Premostiti spam filtriranje kako bi se omogućilo određene poruke?
 
-Preporučujemo [Oprez](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) kada kreirate Dopusti popis. Ako, na primjer, ako dopustite vlastite domene zlonamjernih pošiljatelja će moći lažiraju i pošaljite kao vaše domene.  Umjesto toga, preporučujemo ovaj [Vodič za otklanjanje poteškoća false positives](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), koji će vam pomoći da utvrditi Zašto legitimnih poruka je obilježena kao neželjena pošta i što možete učiniti da biste sigurno dopustiti isporuke poruke.
+Preporučujemo [oprez](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) kada stvorite popis dopušteno. Na primjer, ako dopuštate vlastitoj domeni, zlonamjerni pošiljatelji moći će se Zavarit i slati kao vaša domena.  Umjesto toga, preporučujemo ovaj [lažni pozitivi vodič za otklanjanje poteškoća](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), koji će vam pomoći da utvrdite zašto je legitimna poruka označena kao spam i što možete učiniti kako biste sigurno dopustili isporuku poruke.
