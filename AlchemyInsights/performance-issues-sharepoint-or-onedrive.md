@@ -1,5 +1,5 @@
 ---
-title: Problemi performanse-SharePoint ili OneDrive
+title: Problemi s performansama – SharePoint ili OneDrive
 ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
@@ -12,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 706d4b830710b2ecaa5877777003852d3d4bc95c
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: d745b514594d3dcaae94b8ea2c2402b76553f432
+ms.sourcegitcommit: 488ba34cccad1ead27318df01732e06cdac2ba93
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752708"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "37414039"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint ili OneDrive spora, nedostupni ili nedostupna za više korisnika
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint ili OneDrive sporo, nedostupno ili nije dostupno za više korisnika
 
-SharePoint ili OneDrive možda sporo, nedostupni ili nedostupna nekoliko razloga:
+SharePoint ili OneDrive može biti spor, nedostupan ili nedostupan iz nekoliko razloga:
   
-- Ako je vaše web-mjesto SharePoint ili OneDrive spore ili zakašnjele za više korisnika, možda postoji problem privremeni servis gdje korisnici iskustvo povremena kašnjenja ili navigacijske pogreške pri pristupanju SharePoint web-mjesta ili OneDrive sadržaj. Provjerite [nadzorne ploče servis stanja sustava](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste vidjeli ako vaša organizacija utjecati.
+- Ako je web-mjesto sustava SharePoint ili OneDrive sporo ili odgođeno za više korisnika, možda postoji problem s privremenim servisom u kojem korisnici doživljavaju povremene odgode ili pogreške u navigaciji pri pristupu SharePoint web-lokacijama ili sadržaju servisa OneDrive. Provjerite je li vaša tvrtka ili ustanova utjecala na [nadzornu ploču za zdravlje servisa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) .
   
-- Doživljaj spore performanse s **Klasični** SharePoint web-mjesta ili stranice koristiti [stranice dijagnostički alat](https://aka.ms/perftool) za analizu stranice.
+- Ako osjetite spore performanse s **klasičnim** ili **modernim** SharePoint web-mjestom ili stranicom, upotrijebite [dijagnostički alat stranice](https://aka.ms/perftool) za analizu stranica.
   
-- Ako i dalje nailazite Općenito spore performanse, pregledajte resurse na dnu ovog članka: [Uvod za SharePoint Online ugađanju performansi](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Ako i dalje doživite opću sporu izvedbu, pregledajte resurse na dnu ovog članka: [Uvod u podešavanje performansi za SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   
