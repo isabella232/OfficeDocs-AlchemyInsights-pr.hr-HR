@@ -1,5 +1,5 @@
 ---
-title: Stvaranje web-mjesta Moderna tima
+title: Stvaranje moderne timskog web-mjesta
 ms.author: clake
 author: spowriter
 ms.date: 11/9/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516309"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>Stvaranje programa Office 365 grupe povezani timskog web-mjesta
+# <a name="create-an-office-365-group-connected-team-site"></a>Stvaranje web-mjesta tima povezanog s grupom sustava Office 365
 
-1. Pritisnite pokretač app u gornjem lijevom kutu i odaberite **SharePoint**. Ako ne vidite SharePoint pločica, kliknite **sve apps**.
+1. Kliknite pokretač aplikacije u gornjem lijevom kutu i odaberite **SharePoint**. Ako ne vidite pločicu sustava SharePoint, kliknite **sve aplikacije**.
     
-2. Na vrhu početne stranice SharePoint, kliknite **Stvori web-mjesto** i odaberite mogućnost **timskog web-mjesta** . 
+2. Na vrhu početne stranice sustava SharePoint kliknite **Stvori web-mjesto** i odaberite mogućnost **timskog web-mjesta** . 
     
     > [!NOTE]
-    > Ako ne vidite naredbu Stvori web-mjesto stvaranja web-mjesta možda nije omogućeno u vašoj organizaciji. Da biste omogućili, pogledajte [Upravljanje stvaranja web-mjesta](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Ako ne vidite naredbu Stvori web-mjesto, stvaranje web-mjesta možda neće biti omogućeno u vašoj organizaciji. Da biste ga omogućili, pogledajte [Upravljanje stvaranjem web-mjesta](https://go.microsoft.com/fwlink/?linkid=2009644). 
   
-3. Slijedite korake na zaslonu naziv web-mjesta i stvoriti adresu e-pošte za Office 365 grupu i zatim pritisnite **Dalje**. Možete dodati i druge grupe Vlasnici i članove. Kliknite **Završi**.
+3. Slijedite korake na zaslonu da biste imenali web-mjesto i kreirali adresu e-pošte za Office 365 grupu, a zatim kliknite **dalje**. Također možete dodati druge vlasnike grupa i članove. Kliknite **završi**.
   
- **Napomena:** Da biste stvorili web-mjesto tima bez grupe povezani, slijedite korake iznad, ali ne odaberete web-mjesto tima u koraku 2. Odaberite druge mogućnosti. To će vas voditi kroz stvaranje web-mjesta tima bez grupu. 
+ **Napomena:** Da biste stvorili timsko web-mjesto bez povezane grupe, slijedite gore navedene korake, ali umjesto da odaberete timsko web-mjesto u koraku 2. Odaberite druge opcije. To će vas voditi kroz stvaranje timskog web-mjesta bez grupe. 
     
 

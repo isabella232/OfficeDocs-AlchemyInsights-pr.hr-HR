@@ -1,5 +1,5 @@
 ---
-title: Brisanje mjesta sustava SharePoint
+title: Brisanje SharePoint web-mjesta
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514007"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje web-mjesta koji pripadaju grupi Office 365
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje web-mjesta koja pripadaju grupi sustava Office 365
 
-Kada korisnici stvorite novo web-mjesto tima od kuće SharePoint ili stvorite novo web-mjesto tima centra za novi SharePoint administraciju, automatski se stvara odgovarajuće grupe za Office 365. Office 365 grupe povezani timska web-mjesta se stvaraju i kada kreirate grupu Office 365 ili timu u Microsoft Teams. Za brisanje SharePoint web-mjesto koje pripada grupi Office 365, morate izbrisati grupu Office 365 samu sebe. 
+Kada korisnici stvaraju novo web-mjesto tima iz sustava SharePoint Home ili stvorite novo web-mjesto tima iz novog centra za administraciju sustava SharePoint, automatski se kreira odgovarajuća grupa sustava Office 365. Tim web-mjestima povezana s grupom Office 365 također se stvaraju kada kreirate grupu sustava Office 365 ili tim u Microsoftovim timovima. Da biste izbrisali SharePoint web-mjesto koje pripada grupi sustava Office 365, morate izbrisati samu grupu sustava Office 365. 
   
-1. Idi na [stranici grupe Microsoft 365 centra za administraciju](https://portal.office.com/adminportal/home#/groups).
+1. Idite na [stranicu grupe Microsoft 365 Admin Center](https://portal.office.com/adminportal/home#/groups).
     
-2. Odaberite potvrdni okvir pokraj grupe.
+2. Potvrdite okvir pored grupe.
     
 3. Odaberite **Izbriši**.
     
-Napomena: Kada Brisanje grupe može postojati Odgoda prije web-mjesto uklonjeno iz sustava SharePoint.
+Napomena: Kada izbrišete grupu, može doći do odgode prije uklanjanja web-mjesta iz sustava SharePoint.
   
-**Brisanje mjesta komunikacije ili Klasična web-mjesta:**
+**Brisanje komunikacijskih web-mjesta ili klasičnih web-mjesta:**
 
-1. Idite na web-mjestu.
+1. Idi na mjesto.
   
-2. Kliknite ikonu **Postavke** u gornji desni kut. 
+2. Kliknite ikonu **postavki** u gornjem desnom dijelu. 
   
-3. Kliknite **Postavke web-mjesta**. Pod **Informacije web-mjesta** ili **Akcije web-mjesta**, kliknite **Izbriši ovo web-mjesto**i kliknite **Izbriši**.
+3. Kliknite **Postavke web-mjesta**. U odjeljku **informacije o web** -mjestu ili **Akcije web-mjesta**kliknite **Izbriši ovo web-mjesto**, a zatim kliknite **Izbriši**.
   
-**Brisanje zbirke web-mjesta SharePoint:**
+**Brisanje zbirke web-mjesta sustava SharePoint:**
 
 Da biste izbrisali web-mjesto:
   
-1. Novi centar admin SharePoint, na stranici web-mjesta pritisnite **potvrdni okvir** uz web-mjesto koje želite izbrisati. 
+1. U novom centru za administraciju sustava SharePoint na stranici web-mjesta kliknite **potvrdni okvir** pokraj web-mjesta koje želite izbrisati. 
     
-2. Na alatnoj traci kliknite **izbrisati.**
+2. Na alatnoj traci vrpce kliknite **Izbriši.**
     
-**Nehotično izbrisati web-mjesto?**
+**Slučajno izbrisao web-mjesto?**
 
-Pogledajte [Vraćanje izbrisanih zbirke](https://go.microsoft.com/fwlink/?linkid=867660).
+Pogledajte [Vraćanje izbrisane zbirke web-mjesta](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

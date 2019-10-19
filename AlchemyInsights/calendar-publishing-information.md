@@ -1,5 +1,5 @@
 ---
-title: 613 kalendar informacije objavljivanju
+title: 613 informacije o objavljivanju kalendara
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,14 +14,14 @@ ms.custom:
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
 ms.openlocfilehash: c82eaa3717942ff223bb262f8fe7bdbe56cbb17a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737685"
 ---
-# <a name="calendar-publishing-information"></a>Objavljivanje informacija o kalendaru
+# <a name="calendar-publishing-information"></a>Informacije o izdavaštvu kalendara
 
-- Administratori Microsoft 365 možete omogućiti ili onemogućiti objavljivanje kalendara i za organizaciju za dijeljenje kalendara. Za dodatne informacije pogledajte [Uključivanje objavljivanja kalendara tako da osobe mogu zajednički koristiti informacije](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) i [dijeljenje kalendara s vanjskim korisnicima](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).
+- Microsoft 365 administratori mogu omogućiti ili onemogućiti objavljivanje kalendara i dijeljenje kalendara za organizaciju. Za više informacija pogledajte [Uključivanje objavljivanja kalendara tako da korisnici mogu razmjenjivati informacije](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) i [dijeliti kalendare s vanjskim korisnicima](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).
 
-- Korisnici programa Outlook mogu zajednički koristiti vlastite kalendare. Za dodatne informacije pogledajte [zajedničko korištenje kalendara programa Outlook s drugim osobama](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).
+- Korisnici programa Outlook mogu dijeliti vlastite kalendare. Dodatne informacije potražite u [programu dijeljenje kalendara programa Outlook s drugim osobama](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).

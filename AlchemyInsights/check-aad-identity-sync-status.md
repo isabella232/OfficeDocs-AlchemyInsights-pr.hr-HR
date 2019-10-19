@@ -1,5 +1,5 @@
 ---
-title: Provjera statusa sinkronizacije AAD identiteta
+title: Provjera statusa sinkronizacije identiteta AAD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,21 +14,21 @@ ms.custom:
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
 ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738513"
 ---
-# <a name="check-aad-identity-sync-status"></a>Provjera statusa sinkronizacije AAD identiteta
+# <a name="check-aad-identity-sync-status"></a>Provjera statusa sinkronizacije identiteta AAD
 
-Lako je provjere stanja sinkronizacije:
+Provjera statusa sinkronizacije je jednostavna:
   
-- Prijavite se u Microsoft 365 centar za administraciju i odaberite **DirSync Status** na početnoj stranici.
+- Prijavite se u centar za administraciju tvrtke Microsoft 365 i odaberite **Dirsync status** na početnoj stranici.
 
-- Također, idite na korisnike \> aktivne korisnike i na stranici aktivnog korisnika odaberite više \> sinkronizacije imenika.
+- Naizmjenično, možete ići korisnicima \> aktivnih korisnika, a na stranici aktivnih korisnika odaberite više \> sinkronizacije direktorija.
 
-- Na oknu sinkronizacije imenika odaberite Idi na upravljanje DirSync.
+- U oknu sinkronizacije direktorija odaberite Idi na DirSync upravljanje.
 
-Ako postoji problem s sinkronizacije imenika, pogreške su navedene na ovoj stranici. Dodatne informacije o različitim pogreške možda naići, pogledajte [Prikaz pogrešaka sinkronizacije imenika u Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
+Ako postoji problem s sinkronizacijom direktorija, pogreške su navedene na ovoj stranici. Dodatne informacije o različitim pogreškama koje se mogu susresti potražite [u prikazu pogrešaka sinkronizacije direktorija u sustavu Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

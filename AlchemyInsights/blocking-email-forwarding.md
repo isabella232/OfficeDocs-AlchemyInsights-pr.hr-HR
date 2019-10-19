@@ -1,5 +1,5 @@
 ---
-title: 726 Blokiranje e-pošte za prosljeđivanje
+title: 726 blokiranje prosljeđivanja e-pošte
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,14 +14,14 @@ ms.custom:
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
 ms.openlocfilehash: 70cc2529361766c92e9167162b13e06796a9c4b0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737721"
 ---
 # <a name="block-email-forwarding"></a>Blokiranje prosljeđivanja e-pošte
 
-Da biste onemogućili prosljeđivanja za određene poštanski sandučić e-pošte, pogledajte [prosljeđivanja e-pošte Konfiguriraj](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
+Da biste onemogućili prosljeđivanje e-pošte za određeni poštanski sandučić, pogledajte [Konfiguriranje prosljeđivanja e-pošte](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
 
-Da biste blokirali prosljeđivanja e-pošte za celu organizaciju [mnogo načina blokiranja automatsko prosljeđivanje u sustavu Exchange Online e-pošte](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+Da biste blokirali prosljeđivanje e-pošte za cijelu organizaciju, [mnogi načini za blokiranje automatskog prosljeđivanja e-pošte u sustavu Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).

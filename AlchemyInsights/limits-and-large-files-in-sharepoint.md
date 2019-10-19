@@ -1,5 +1,5 @@
 ---
-title: Ograničenja i velike datoteke u SharePoint
+title: Ograničenja i velike datoteke u sustavu SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497579"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Datoteka ne može se prenijeti SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Datoteke koje nije moguće učitati u SharePoint Online
 
-Ako SharePoint Online neće prenijeti datoteku, provjerite je li:
+Ako se datoteka ne prenosi na SharePoint Online, provjerite:
   
-- Je manje od 15 GB veličine.
+- Veličine je manje od 15 GB.
     
-- Cijeli put, uključujući naziv datoteke je manje od 400 znakova.
+- Cijeli put, uključujući naziv datoteke, manje je od 400 znakova.
     
-- Naziv datoteke ne sadrži znakove " \* : \< \> ? / \ | te nije na popisu naziva [nije valjana](https://go.microsoft.com/fwlink/?linkid=866430).
+- Naziv datoteke ne sadrži znakove " \* :? \< \> / \ | i nije na popisu [Nevaljana imena](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Ako pokušavate prenijeti datoteku korištenjem OneDrive radne površine app pogledajte [ograničenja i ograničenja kada sinkronizirati datoteke i mape](http://go.microsoft.com/fwlink/p/?LinkID=717734) ili [popravak OneDrive sinkronizaciju problema](https://go.microsoft.com/fwlink/?linkid=866431).
+Ako pokušavate prenijeti datoteku pomoću aplikacije na radnoj površini servisa OneDrive, pogledajte [ograničenja i ograničenja kada sinkronizirate datoteke i mape](http://go.microsoft.com/fwlink/p/?LinkID=717734) ili [riješite probleme s sinkronizacijom na servisu OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

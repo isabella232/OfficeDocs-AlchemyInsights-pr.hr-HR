@@ -1,5 +1,5 @@
 ---
-title: 8000037 nije primanja e-pošte u Outlook.com
+title: 8000037 ne prima e-poštu u Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
 ms.openlocfilehash: f4a005bc2a0938d1d0a79f904164716e8a36fcf1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538553"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Ne primate poštu u Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>Ne primanje pošte u Outlook.com
 
-Ako ne koristite primanja e-pošte određenog pošiljatelja, kao što su bankovne izvatke ili lozinka Vrati poruke, morat ćete obratite se pošiljatelju i obavijestite ih nisu primanja e-pošte na Outlook.com računa. Pogledajte pošiljatelja na [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), gdje možete pronaći informacije o najbolja iskustva, preporučeno za otklanjanje poteškoća i vezu do obratite našem timu podrške pošiljatelja.
+Ako ne primate e-poštu od određenog pošiljatelja, kao što su vaše bankovne izvještaje ili poruke za resetiranje lozinke, morat ćete se obratiti pošiljatelju i dati im do znanja da ne primate e-poštu na svoj Outlook.com račun. Obratite se pošiljatelju [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), gdje mogu pronaći informacije o najboljim praksama, preporučiti otklanjanje poteškoća i vezu za kontakt s timom za podršku pošiljatelju.
   
-Ako Outlook.com račun nije uopće primanja e-pošte, pogledajte [popravak Outlook.com e-pošte Sinkronizacijski problemi](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Ako vaš Outlook.com račun ne prima e-poštu na sve, pogledajte [Rješavanje problema s sinkronizacijom Outlook.com e-poštom](https://go.microsoft.com/fwlink/p/?linkid=874363).
   
 

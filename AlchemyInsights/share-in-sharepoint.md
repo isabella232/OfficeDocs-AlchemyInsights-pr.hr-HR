@@ -1,5 +1,5 @@
 ---
-title: Zajednički koristiti u programu SharePoint
+title: Podijeli u sustavu SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
 ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549463"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>Kako zajednički koristiti u mreži SharePoint
+# <a name="how-to-share-in-sharepoint-online"></a>Kako zajednički koristiti SharePoint Online
 
-Zajedničko korištenje web-mjesta:
+Da biste podijelili web-mjesto:
   
 1. Otvorite web-mjesto u web-pregledniku.
     
-2. Ako web-mjesto pripada grupi Office 365, kliknite ikonu postavke u gornjem desnom a zatim **dozvole web-mjesta**. Kliknite **pozivanje osoba**i odabrati dodajte članove u grupu za Office 365 ili zajednički koristiti samo s web-mjesta. 
+2. Ako web-mjesto pripada grupi sustava Office 365, kliknite ikonu Postavke u gornjem desnom dijelu, a zatim kliknite **dozvole web-mjesta**. Kliknite **Pozovi osobe**, a zatim odaberite Dodavanje članova u grupu sustava Office 365 ili podijelite samo web-mjesto. 
     
-    Komunikacije web-mjesta, kliknite **zajedničko korištenje web-mjesta** u gornjem desnom, unesite ime osobe i zatim odaberite razinu dozvole (čitanje, uređivanje ili puna kontrola). 
+    Za web-mjesto za komunikaciju kliknite **zajedničko korištenje web-mjesta** u gornjem desnom dijelu, unesite ime osobe, a zatim odaberite razinu dozvole (čitanje, uređivanje ili potpuna kontrola). 
     
-    Za web-mjesto tima classic u gornjem desnom kliknite **zajedničko korištenje** . Unesite ime osobe koju želite pozvati ili upišite svima dijelite sa svima u vašoj organizaciji. Kliknite **zajedničko korištenje**.
+    Za klasično timsko web-mjesto kliknite **Podijeli** u gornjem desnom dijelu. Unesite ime osobe koju želite pozvati ili upišite svatko za dijeljenje s svima u vašoj organizaciji. Kliknite **Podijeli**.
     
-[Saznajte kako zajednički koristiti datoteke ili mape](https://go.microsoft.com/fwlink/?linkid=511430)
+[Saznajte kako zajednički koristiti datoteku ili mapu](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

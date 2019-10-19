@@ -1,5 +1,5 @@
 ---
-title: Vraćanje prethodnih verzija datoteka
+title: Vraćanje prethodne verzije datoteke
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
 ms.openlocfilehash: 3d612b3e729b471cafd8304d8afe0f569f257e49
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552343"
 ---
-# <a name="restore-a-previous-file-version"></a>Vraćanje prethodnih verzija datoteka
+# <a name="restore-a-previous-file-version"></a>Vraćanje prethodne verzije datoteke
 
-Mrežnu verziju povijesti možete vidjeti i vratiti starije verzije datoteka u OneDrive ili SharePoint. Povijest verzija radi s sve vrste datoteka, uključujući PDF-ova, CAD datoteke, fotografije i videozapise. Da biste vratili prethodnu verziju datoteke:
+S povijesti online verzije možete vidjeti i vratiti starije verzije datoteka na servisu OneDrive ili SharePoint. Povijest verzija radi sa svim vrstama datoteka, uključujući PDF-ove, CAD datoteke, fotografije i videozapise. Da biste vratili prethodnu verziju datoteke:
   
-1. Otvorite SharePoint biblioteku dokumenata ili OneDrive mjesto.
+1. Otvorite biblioteku dokumenata sustava SharePoint ili lokaciju servisa OneDrive.
     
-2. Pritisnite lijevo datoteku da biste ga odabrali, a zatim **Povijest verzija**. Ako ne vidite povijest verzija na traci naredbi kliknite više ( **...** ). 
+2. Kliknite lijevo od datoteke da biste je odabrali, a zatim kliknite **Povijest verzija**. Ako na naredbenoj traci ne vidite povijest verzija, kliknite više ( **...** ). 
     
-3. Kliknite verziju koju želite pregledati, ili pritisnite više ( **...** ) desno od verzije i kliknite **Vrati**.
+3. Kliknite verziju koju želite prikazati ili kliknite više ( **...** ) desno od verzije, a zatim kliknite **Vrati**.
     
 

@@ -1,5 +1,5 @@
 ---
-title: Omogući Microsoft zaduženja
+title: Omogući Microsoftov zahtjev
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527535"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Kako omogućiti Microsoft To-Do
+# <a name="how-to-enable-microsoft-to-do"></a>Omogućivanje Microsofta da omogući
 
-Da biste koristili Microsoft To-Do je admin morate omogućiti app na svakom korisničkom računu. Idite na [Services &amp; stranicu dodaci](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) Office 365 administratorske postavke stranice za omogućavanje zaduženje za svakog korisnika. 
+Da biste koristili Microsoft to-do, administrator mora omogućiti aplikaciju na računu svakog korisnika. Idite na [stranicu dodataka &amp; za servise](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) na stranici postavki administratora sustava Office 365 da biste omogućili dužnost za svakog korisnika. 
   
-Microsoft To-Do koristi značajke u sustavu Exchange Online za sinkronizaciju i pohranu stavki poslova korisnika. Želite koristiti Microsoft To-Do, korisnik mora valjani poštanski sandučić Exchange Online.
+Microsoft to-do koristi značajke u sustavu Exchange Online kako bi sinkronizirali i pohranili stavke korisnika. Da bi se koristio Microsoftov nalog, korisniku je potreban valjani poštanski sandučić sustava Exchange Online.
   
-Za dodatne informacije pogledajte [administracije Microsoft zaduženje pretpregled](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+Dodatne informacije potražite [u administraciji Microsoft to-do Preview](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **Napomena**: Ako primite 501 pogreška prilikom pokušaja prijave u [http://todo.microsoft.com](http://todo.microsoft.com), pokušajte [https://to-do.microsoft.com](https://to-do.microsoft.com).
+ **Napomena**: ako dobijete pogrešku 501 prilikom pokušaja prijave [http://todo.microsoft.com](http://todo.microsoft.com), pokušajte. [https://to-do.microsoft.com](https://to-do.microsoft.com)
   
 

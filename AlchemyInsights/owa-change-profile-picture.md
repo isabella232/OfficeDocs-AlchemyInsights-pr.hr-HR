@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557205"
 ---
 # <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Promjena slike profila u programu Outlook na webu
 
-1. Na vrhu stranice, odaberite naziv ili profil sliku.
-1. U oknu **moj račun** odaberite sliku profila.
-1. U dijaloškom okviru **Promjena fotografije** , odaberite **Prenesi novi fotografija**.
+1. Pri vrhu stranice odaberite svoje ime ili sliku profila.
+1. U oknu **mog računa** odaberite sliku profila.
+1. U dijaloškom okviru **Promjena fotografije** odaberite **Prenesi novu fotografiju**.
 1. Odaberite fotografiju za prijenos i odaberite **Primijeni**.
 
-*Napomena:* Novi fotografija pojavit će se sljedeći put prijavite Office 365.
+*Napomena:* Nova fotografija pojavit će se sljedeći put kada se prijavite u Office 365.
 
-Za dodatne informacije pogledajte [promijenite informacije o fotografija i račun u programu Outlook na webu](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Dodatne informacije potražite [u okviru promjene vaših podataka o fotografiji i računu u programu Outlook na webu](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

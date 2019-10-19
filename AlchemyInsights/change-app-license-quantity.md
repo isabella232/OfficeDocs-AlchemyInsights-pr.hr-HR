@@ -1,5 +1,5 @@
 ---
-title: Promijenite količinu app licence
+title: Promjena količine licence za aplikaciju
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,30 +13,30 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519759"
 ---
-# <a name="change-app-license-quantity"></a>Promijenite količinu app licence
+# <a name="change-app-license-quantity"></a>Promjena količine licence za aplikaciju
 
-Možete prikazati ili promijeniti broj licenci imaju i dodijeliti korisnicima u centru za administraciju Microsoft 365. 
+Možete pregledavati ili promijeniti broj licenci koje imate i dodijeliti ih korisnicima u centru za administraciju sustava Microsoft 365. 
 
 ## <a name="to-change-license-quantity"></a>Da biste promijenili količinu licence
 
-1. Idi na **naplatu** > [proizvode & services](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice, a zatim odaberite karticu **Apps** .
+1. Idite na stranicu proizvodi za **naplatu** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) , a zatim odaberite karticu **aplikacije** .
 
-2. Pronađite i odaberite app želite upravljati.  
+2. Pronađite i odaberite aplikaciju kojoj želite upravljati.  
 
-3. Odaberite **Dodaj Ukloni licence**.
+3. Odaberite **Dodaj/Ukloni licence**.
 
-4. Unesite novi broj potrebne licence. Ako, na primjer, ako trenutno imate 5 licenci i samo potrebno 4, unesite 4 u okvir **Ukupni licence** . Ako trenutno imate 5 licenci i potrebno 10 ukupni licence, unesite 10 u okviru **Ukupni licence** .
+4. Unesite novi broj potrebnih licenci. Na primjer, ako trenutno imate 5 licenci i samo trebate 4, unesite 4 u okvir **ukupne licence** . Ako trenutno imate 5 licenci i trebate 10 ukupnih licenci, unesite 10 u okvir **ukupne licence** .
 
-## <a name="to-assign-app-licenses"></a>Da biste dodijelili app licence
+## <a name="to-assign-app-licenses"></a>Da biste dodijelili licence aplikacije
 
-1. Idi na **naplatu** > [proizvode & services](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice, a zatim odaberite karticu **Apps** .
+1. Idite na stranicu proizvodi za **naplatu** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) , a zatim odaberite karticu **aplikacije** .
 
-2. Pronađite i odaberite app želite upravljati.  
+2. Pronađite i odaberite aplikaciju kojoj želite upravljati.  
 
-3. Pod **Postavke & akcije**odaberite vezu na **Upravljanje portal izdavača**.
+3. U odjeljku **postavke & akcije**odaberite vezu za **Upravljanje na portalu izdavača**.

@@ -1,5 +1,5 @@
 ---
-title: Onemogućavanje preuzimanja iz SharePoint ili OneDrive datoteke
+title: Sprječavanje preuzimanja datoteka s sustava SharePoint ili servisa OneDrive
 ms.author: efrene
 author: efrene
 manager: matteva
@@ -12,18 +12,18 @@ ms.custom:
 - "2523"
 - "9000213"
 ms.openlocfilehash: 85db8d7525effc0ea84179b575d9f7aa56bb0e54
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554679"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Onemogućavanje preuzimanja iz SharePoint ili OneDrive datoteke
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Sprječavanje preuzimanja datoteka s sustava SharePoint ili servisa OneDrive
 
-Postoje različite metode koje se mogu koristiti za sprječavanje ili blokira preuzimanja iz pojavljivanja. Posjetite veze ispod odgovaraće metoda:
+Postoje različite metode koje se mogu koristiti za sprječavanje ili blokiranje preuzimanja. Molimo posjetite poveznice u nastavku za odgovarajuće metode:
 
-- [Preuzimanje bloka datoteke s pristupom uvjetno Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Blokiraj preuzimanje datoteka s Azure AD uvjetnim pristupom](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
-- [Kontrolu pristupa iz neupravljanog uređaja](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Upravljanje pristupom s neupravljanih uređaja](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [Konfigurirati IRM politiku na SharePoint biblioteke dokumenata za ograničavanje preuzimanje sadržaja](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
+- [Konfigurirajte IRM pravila u bibliotekama dokumenata sustava SharePoint da biste ograničili preuzimanje sadržaja](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)

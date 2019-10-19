@@ -1,5 +1,5 @@
 ---
-title: Pronađi izgubljene ili nedostaje datoteka u OneDrive ili SharePoint
+title: Pronalaženje izgubljenih ili nestalih datoteka na servisu OneDrive ili SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
 ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525411"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Pronađi izgubljene ili nedostaje datoteka u OneDrive ili SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Pronalaženje izgubljenih ili nestalih datoteka na servisu OneDrive ili SharePoint
 
-- Pregledavanje vašeg OneDrive ili SharePoint web-mjesta na webu i klikom koš za smeće u lijevom oknu provjerite koš za smeće. (Ako ne vidite koš za smeće regalnog skladišta u lijevom oknu kliknite ikonu postavke i odaberite **sadržaj web-mjesta**. **Smeće** se nalazi na krajnjoj desnoj strani naredbenu traku na vrhu.) 
+- Provjerite koš za smeće pretraživanjem na OneDrive ili SharePoint web-mjestu na webu i klikom na koš za smeće u lijevom oknu. (Ako ne vidite koš za smeće u lijevom oknu, kliknite ikonu Postavke, a zatim odaberite **sadržaj web-mjesta**. **Koš za smeće** se nalazi na krajnjem desnom mjestu naredbenog trake na vrhu.) 
     
-- Ako si sinkroniziranje datoteka na računalu, provjerite koš za smeće na vaše računalo. 
+- Ako sinkronizirate datoteke na računalu, provjerite koš za smeće na računalu. 
     
-- Ako ne vidite stavku koju tražite i je nedavno izbrisan, administrator zbirke web-mjesta možda moći vratiti iz koša za smeće zbirke web-mjesta. Ako ste administrator zbirke web-mjesta, pogledajte [Obnavljanje izbrisanih stavki iz koša za smeće zbirke web-mjesta](https://go.microsoft.com/fwlink/?linkid=866439).
+- Ako ne vidite stavku koju tražite, a nedavno je izbrisana, administrator zbirke web-mjesta možda će ga moći vratiti iz koša za smeće zbirke web-mjesta. Ako ste administrator zbirke web-mjesta, pogledajte [Vraćanje izbrisanih stavki iz koša za smeće zbirke web-mjesta](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Više pomoći vraćanje izbrisane datoteke i mape u OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[Više pomoći u vraćanju izbrisanih datoteka i mapa na servisu OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

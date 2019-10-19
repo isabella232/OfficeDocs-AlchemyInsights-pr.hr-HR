@@ -1,5 +1,5 @@
 ---
-title: Alat za izvoz predočavanja elektroničkih dokumenata
+title: alat za izvoz dokumenata
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -16,35 +16,35 @@ ms.custom:
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
 ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736317"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nije moguće instalirati ili pokrenuti alat za izvoz predočavanja elektroničkih dokumenata?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Ne možete instalirati ili pokrenuti alat za izvoz alata eDiscovery?
 
-Ako ne možete instalirati ili pokrenuti Office 365 predočavanja elektroničkih dokumenata alat za izvoz preuzeti rezultate pretraživanja, provjerite sljedeće:
+Ako ne možete instalirati ili pokrenuti Office 365 eDiscovery Export Tool za preuzimanje rezultata pretraživanja, provjerite sljedeće:
   
-- Koristite računalo zadovoljava ove prije requisites:
+- Računalo koje koristite ispunjava ove preduvjete:
 
-  - 32 - ili 64-bitne verzije sustava Windows 7 i novijim verzijama
+  - 32-ili 64-bitne verzije sustava Windows 7 i novije verzije
 
   - Microsoft .NET Framework 4,7
 
-  - Podržanog preglednika:
+  - Podržani preglednik:
 
-  - Microsoft rub
+  - Microsoft Edge
 
     Ili
 
-  - Internet Explorer 10 i novijim verzijama
+  - Internet Explorer 10 i novije verzije
 
-    Drugi preglednici, na primjer Google vizualnog i Mozilla Firefox nisu podržane.
+    Drugi preglednici, kao što su Google Chrome i Mozilla Firefox nisu podržani.
 
-- Vaša organizacija možete povezati s krajnje točke u Azure koji je ** \*. blob.core.windows.net** (zamjenski znak predstavlja jedinstveni identifikator za izvoz posla).
+- Vaša organizacija može se povezati s krajnje točke u servisu Azure, što je ** \*. blob.Core.Windows.net** (zamjenski znak predstavlja jedinstveni identifikator za vaš posao izvoza).
 
-- Si dodijelili izvoz ulogu u sigurnost Office 365 &amp; centar usklađenosti. Prema zadanim postavkama, ova uloga je samo dodijeljen grupe uloga Upravitelj predočavanja elektroničkih dokumenata. Pogledajte [dodijeliti dozvole predočavanja elektroničkih dokumenata](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Dodijeljena vam je uloga izvoza u centru za sigurnosnu &amp; usklađenost sustava Office 365. Prema zadanim postavkama, ova je uloga dodijeljena samo grupi uloga eDiscovery Manager. Pogledajte [dodjeljivanje dozvola za otkrivanje podataka](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-Za dodatne informacije pogledajte [rezultate izvoz sadržaja pretraživanja](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Dodatne informacije potražite u programu [Izvoz rezultata pretraživanja sadržaja](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

@@ -1,5 +1,5 @@
 ---
-title: Uvjetno Access s Intune
+title: Uvjetni pristup s Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504986"
 ---
-# <a name="conditional-access-with-intune"></a>Uvjetno Access s Intune
+# <a name="conditional-access-with-intune"></a>Uvjetni pristup s Intune
 
-Pomoću **Uvjetnog Access** s Intune zahtijeva korake 3: 
+Korištenje **uvjetnog pristupa** s Intune zahtijeva 3 koraka: 
   
-- Stvaranje **Pravila uvjetnog pristup** koji definira zaštićeni su resursima i što uvjete treba zadovoljiti pristup tih resursa. Ako, na primjer, uređaj mora biti usklađen prije pristupanja tvrtke e-pošte. 
+- Izradite **pravilnik o uvjetnom pristupu** koji definira koji se resursi štite i koje uvjete treba zadovoljiti da biste pristupili tim resursima. Na primjer, uređaj mora biti usklađen prije pristupanja korporacijskoj e-pošti. 
     
-- Stvaranje **Pravila usklađenosti** definirati postavke koje treba zadovoljiti prije smatra se uređaj sa standardom. Ako, na primjer, uređaj mora imati pin barem 6 znamenke prije smatra se sa standardom. 
+- Stvorite **pravila usklađenosti** da biste definirali postavke koje moraju biti ispunjene prije nego što se uređaj smatra sukladnim. Na primjer, uređaj mora imati PIN od najmanje 6 znamenki prije nego što se smatra sukladnim. 
     
-- Osiguravanje **Pravila usklađenosti** i **Pravilima uvjetnog Access** ciljan za željeni grupe korisnika. To može zahtijevati stvaranje određene grupe korisnika Azure Active Directory. 
+- Osiguravanje **pravila usklađenosti** i pravila **uvjetnog pristupa** usmjerene su na željene grupe korisnika. To može zahtijevati stvaranje određenih grupa korisnika u servisu Azure Active Directory. 
     
-Pročitajte više:
+Pročitaj više:
   
-- [Uvjetno Access Najbolji postupci](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Najbolje prakse uvjetnog pristupa](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Uvod uvjetno Access](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Početak početka s uvjetnim pristupom](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

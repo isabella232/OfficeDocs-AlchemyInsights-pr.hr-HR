@@ -1,5 +1,5 @@
 ---
-title: Stvorite mapu u programu Outlook na webu
+title: Stvaranje mape u programu Outlook na webu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557241"
 ---
 # <a name="create-a-folder"></a>Stvaranje mape
 
-1. Na dnu okna mapu u programu Outlook na webu, odaberite **novu mapu**. Možda ćete morati klizati prema dolje u oknu mape da biste vidjeli gumb **novu mapu** .
-1. U tekstni okvir unesite naziv mape i pritisnite Enter.
+1. Na dnu okna mape u programu Outlook na webu odaberite **Nova mapa**. Možda ćete se morati pomaknuti prema dolje u oknu mape da biste vidjeli gumb **Nova mapa** .
+1. U tekstni okvir unesite naziv mape, a zatim pritisnite tipku ENTER.
 
-Da biste saznali više, pogledajte [Rad s mapama poruku u programu Outlook na webu](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Da biste saznali više, pogledajte [rad s mapama poruka u programu Outlook na webu](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).

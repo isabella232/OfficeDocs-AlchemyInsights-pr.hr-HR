@@ -1,5 +1,5 @@
 ---
-title: Zajedničko korištenje s vanjskim korisnicima ne radi
+title: Dijeljenje s vanjskim korisnicima ne radi
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
 ms.openlocfilehash: d4c8fc75ff8db2319b88a20bea9b3ee661f2e36e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36502223"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Riješite probleme s vanjskim korisnicima dijeljenje SharePoint sadržaja
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Rješavanje problema s dijeljenjem SharePointovog sadržaja s vanjskim korisnicima
 
-Provjerite je li vanjski je uključeno zajedničko korištenje vaše organizacije:
+Provjerite je li vanjsko zajedničko korištenje uključeno za vašu organizaciju:
   
-1. Idite na [Services &amp; stranici dodaci u centru za administraciju Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), i kliknite **mjesta**.
+1. Idite na [stranicu dodataka &amp; za usluge u centru za administraciju Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)i kliknite **web-mjesta**.
     
-2. Provjerite je li postavka uključena za "Na." Ako odabrano je "Samo postojeće vanjski korisnici", provjerite vanjskog korisnika navedene u centru za administraciju Microsoft 365.
+2. Provjerite je li postavka uključena u "uključeno". Ako je odabran "samo postojeći vanjski korisnici", provjerite je li vanjski korisnik naveden u centru za administraciju Microsoft 365.
     
-Provjerite vanjske dijeljenja uključen za web-mjesto. Klasični zbirke stranica:
+Provjerite je li vanjsko dijeljenje uključeno za web-mjesto. Za klasičnu zbirku web-mjesta:
   
-1. Novi centar admin SharePoint, u lijevom oknu kliknite **mjesta**.
+1. U novom centru za administraciju sustava SharePoint u lijevom oknu kliknite **web-mjesta**.
     
-2. Odaberite web-mjesta ili web-mjesta i na vrpci kliknite **zajedničko korištenje**.
+2. Odaberite web-mjesto ili web-mjesta, a zatim na vrpci kliknite **dijeljenje**.
     
-Za web-mjesto tima koji pripada grupi Office 365 ili komunikacije web-mjesta:
+Za timsko web-mjesto koje pripada grupi sustava Office 365 ili web-mjestu za komunikaciju:
   
-- Ove nove vrste web-mjesta imaju na isti zajedničko korištenje postavljanje kao postavku nivou organizacije, osim ako postavka nivou organizacije omogućuje zajedničko korištenje datoteka pomoću veze koje ne zahtijevaju prijavu. U tom slučaju web-mjesta Dopusti zajedničko korištenje nove i postojeće vanjski korisnici koji se prijaviti. Da biste promijenili postavke za određena web-mjesta, koristite novi SharePoint administraciju centar ili PowerShell. [Saznajte više](https://go.microsoft.com/fwlink/?linkid=871863).
+- Te nove vrste web-mjesta imaju jednaku postavku dijeljenja kao i postavku za vašu organizaciju, osim ako postavka na razini organizacije omogućuje dijeljenje datoteka pomoću veza koje ne zahtijevaju prijavu. U tom slučaju web-mjesta dopuštaju dijeljenje s novim i postojećim vanjskim korisnicima koji se prijave. Da biste promijenili postavku za određena web-mjesta, upotrijebite novi centar za administraciju sustava SharePoint ili PowerShell. [Saznajte više](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> Vanjski zajedničko korištenje postavka za bilo koje web-mjesto može biti šira od postavku nivou organizacije, ali ne više čemu od postavke nivou organizacije. 
+> Postavka vanjskog dijeljenja za bilo koje web-mjesto može biti restriktivnija od postavke u cijeloj organizaciji, ali ne više popustljiva od postavke u cijeloj organizaciji. 
   
 

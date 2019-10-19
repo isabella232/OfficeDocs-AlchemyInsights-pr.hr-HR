@@ -1,5 +1,5 @@
 ---
-title: Promijeni info račun u programu Outlook na webu
+title: Promjena podataka o računu u programu Outlook na webu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510579"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a>Promijenite informacije o računu u programu Outlook na webu
+# <a name="change-account-information-in-outlook-on-the-web"></a>Promjena podataka o računu u programu Outlook na webu
 
-1. Na vrhu stranice, odaberite naziv ili profil sliku.
+1. Pri vrhu stranice odaberite svoje ime ili sliku profila.
 1. Odaberite **moj račun**.
-1. Odaberite **osobne info**.
+1. Odaberite **osobne podatke**.
 1. Promijenite ili dodajte informacije o sebi.
 
-*Napomena:* Neke pojedinosti, poput imena i poslovne titule, možda pružio vaš IT ili odjelu ljudskih resursa. Ako želite ažurirati te pojedinosti kontaktirajte ih ili vašeg administratora.
+*Napomena:* Neke pojedinosti, kao što su vaše ime i naslov posla, možda će vam osigurati odjel za IT ili ljudski resursi. Ako želite ažurirati te podatke, obratite se njima ili administratoru.
 
-Za dodatne informacije pogledajte [promijenite informacije o fotografija i račun u programu Outlook na webu](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Dodatne informacije potražite [u okviru promjene vaših podataka o fotografiji i računu u programu Outlook na webu](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

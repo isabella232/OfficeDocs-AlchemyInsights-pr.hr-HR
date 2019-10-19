@@ -1,5 +1,5 @@
 ---
-title: Upravljanje korisničkim profilima u Delve
+title: Upravljanje korisničkim profilima u delve
 ms.author: ponincev
 author: pebaum
 ms.date: 9/12/2018
@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497183"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Upravljanje korisničkim profilima u Delve
+# <a name="manage-user-profiles-in-delve"></a>Upravljanje korisničkim profilima u delve
 
-Office Delve omogućuje korisnicima upravljanje njihove Office 365 korisničkog profila. Korisnici mogu:
+Office delve omogućuje korisnicima upravljanje svojim Office 365 korisnički profil. Korisnici mogu:
   
-- Prikaz i ažurirati svoje informacije
+- Prikaz i ažuriranje njihovih podataka
     
-- Privatnima neke informacije
+- Držite neke informacije privatnim
     
-- Promijenite svoje slike profila ili naslovnice
+- Promjena profila ili slike na naslovnici
     
-- Promijeniti oblikovanje jezika i vrijeme za Delve
+- Promjena formata jezika i vremena za delve
     
 > [!NOTE]
-> Ako korisnik ažurira svoje slike profila i promjena se ne pojavljuju u SharePoint ili OneDrive, zatražite administratora da otvorite web-preglednik, [prijeći na Office.com](https://www.office.com)prijaviti putem njihov rad ili školu račun, a zatim OneDrive ili SharePoint pločica. To će vas slike profila za sinkronizaciju. Korisnik možda morati pokušajte dovršetak ove korake privatne verzijom svoj preglednik. 
+> Ako je korisnik ažurirao svoju sliku profila, a promjena se ne pojavljuje u sustavu SharePoint ili na servisu OneDrive, zatražite ih da otvore web-preglednik, [Idite na Office.com](https://www.office.com), prijavite se pomoću poslovnog ili školskog računa, a zatim kliknite pločicu servisa OneDrive ili SharePoint. To će zatražiti sinkronizaciju slike profila. Korisnik će možda morati pokušati dovršiti ove korake s privatnom verzijom svog preglednika. 
   
-[Naučite više o ažuriranju profili u Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[Saznajte više o ažuriranju profila u delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

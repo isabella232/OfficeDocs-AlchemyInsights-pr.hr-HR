@@ -9,33 +9,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36531927"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Korisničke dozvole u SharePoint i OneDrive
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Korisničke dozvole u sustavu SharePoint i servisu OneDrive
 
-Ako korisnik u organizaciji nije moći pristupiti SharePoint ili OneDrive, provjerite imaju licencu koja uključuje SharePoint i OneDrive. 
+Ako korisnik u vašoj organizaciji ne može pristupiti sustavu SharePoint ili servisu OneDrive, provjerite imaju li licencu koja uključuje SharePoint i OneDrive. 
   
-1. Idite na [stranici aktivne korisnike u centru za administraciju Microsoft 365](https://portal.office.com/adminportal/home#/users) i odaberite korisnika. 
+1. Idite na [stranicu aktivnih korisnika u centru za administraciju tvrtke Microsoft 365](https://portal.office.com/adminportal/home#/users) i odaberite korisnika. 
     
-2. Provjerite je li pod **licence proizvoda**dodijelili licencu i **SharePoint Online** je odabrana. 
+2. Provjerite je li u odjeljku **licence za proizvode**dodijeljena licenca, a odabrana je **SharePoint Online** . 
     
- Za dodjeljivanje dozvole korisnika za pristup SharePoint web-mjestu: 
+ Da biste korisniku dali dopuštenje za pristup SharePoint web-mjestu: 
   
 1. Otvorite web-mjesto u web-pregledniku.
     
-2. Ako web-mjesto pripada grupi Office 365, kliknite ikonu postavke u gornjem desnom a zatim **dozvole web-mjesta**. Kliknite **pozivanje osoba**i odabrati dodajte članove u grupu za Office 365 ili zajednički koristiti samo s web-mjesta. 
+2. Ako web-mjesto pripada grupi sustava Office 365, kliknite ikonu Postavke u gornjem desnom dijelu, a zatim kliknite **dozvole web-mjesta**. Kliknite **Pozovi osobe**, a zatim odaberite Dodavanje članova u grupu sustava Office 365 ili podijelite samo web-mjesto. 
     
-    Komunikacije web-mjesta, kliknite **zajedničko korištenje web-mjesta** u gornjem desnom, unesite ime osobe i zatim odaberite razinu dozvole (čitanje, uređivanje ili puna kontrola). 
+    Za web-mjesto za komunikaciju kliknite **zajedničko korištenje web-mjesta** u gornjem desnom dijelu, unesite ime osobe, a zatim odaberite razinu dozvole (čitanje, uređivanje ili potpuna kontrola). 
     
-    Za web-mjesto tima classic u gornjem desnom kliknite **zajedničko korištenje** . Unesite ime osobe koju želite pozvati ili upišite svima dijelite sa svima u vašoj organizaciji. Kliknite **zajedničko korištenje**.
+    Za klasično timsko web-mjesto kliknite **Podijeli** u gornjem desnom dijelu. Unesite ime osobe koju želite pozvati ili upišite svatko za dijeljenje s svima u vašoj organizaciji. Kliknite **Podijeli**.
     
 > [!NOTE]
-> Ako ste član web-mjesta, ali nije vlasnik, možete pozvati osobe na web-mjesto, ali vaš poziv će generirati zahtjev za pristup koji možete biti odobrena ili odbijena vlasnik web-mjesta. 
+> Ako ste član web-mjesta, ali ne i vlasnik, možete pozvati ljude na web-mjesto, ali vaš poziv će generirati zahtjev za pristup koji može biti odobren ili odbijen od strane vlasnika web-mjesta. 
   
-[Saznajte kako zajednički koristiti datoteke ili mape s korisnikom](https://go.microsoft.com/fwlink/?linkid=533408)
+[Saznajte kako zajednički koristiti datoteku ili mapu s korisnikom](https://go.microsoft.com/fwlink/?linkid=533408)
   
 

@@ -14,14 +14,14 @@ ms.custom:
 - "1771"
 - "9000199"
 ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535599"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>PST datoteke podataka u Outlook.com
+# <a name="pst-data-files-in-outlookcom"></a>PST podatkovne datoteke u Outlook.com
 
-Nije moguće uvesti programa Outlook. PST datoteke podataka za vaš račun Outlook.com pomoću preglednika.
+Nije moguće uvesti Outlook. PST podatkovnu datoteku na svoj Outlook.com račun pomoću preglednika.
 
-Uvoz u. PST datoteke podataka, morate koristiti Outlook radne površine app. Da biste saznali više, pročitajte [Uvoz e-poštu, kontakte i kalendar iz Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+Za uvoz. PST podatkovnu datoteku, morate koristiti Outlook Desktop App. Da biste saznali više, pročitajte [Uvoz e-pošte, kontakata i kalendara iz Outlooka. pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)

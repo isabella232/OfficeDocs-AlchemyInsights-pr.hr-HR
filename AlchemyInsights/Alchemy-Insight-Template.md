@@ -1,5 +1,5 @@
 ---
-title: isti kao naziv datoteke je najbolje
+title: isto kao i naziv datoteke je najbolje
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/19/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "35800037"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Potrebna alkemiji zaglavlje H1, H2's ne rade.
-Najbolje prakse i smjernice za autorizaciju alkemiji:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Potrebna Alkemija zaglavlje H1, H2's ne radi.
+Najbolje prakse i smjernice za alhemiju autoriranje:
 
-1. **Ugnijezditi alkemiji uvida u mapama**- će ovo prelomiti strukturu url. Možemo traženu u popravljanju to.
-1. Datoteke u mapi **AlchemyInsights** treba imati malo nazivi datoteka s spojnice razmake prije. ***how-to-Omogući-sudskih procesa-drži***.
-    1. ID pravila ili bucket ID iz [alkemiji partnera portala](https://alchemyportal.azurewebsites.net) uključiti u polje ms.custom. Franko. ***MS.Custom: 100021***
-1. Koristite ostatak metapodatke na vrhu ovu datoteku kao predložak.
-1. U [alkemiji partnera portal](https://alchemyportal.azurewebsites.net)pronađite odjeljak **Naslov uvid kupca:** i korištenje koji kao početni pokažite za H1 naslov na uvid. 
+1. **Ne gnijezdi alhemije uvide u mapama**-to će razbiti strukturu URL-a. Mi smo u potrazi za popravak ovo.
+1. Datoteke u mapi **Alchemyin,** trebali bi imati mala imena s crtama za razmake. ***kako-omogućiti-suđenje-čekanje***.
+    1. Uključi ID pravila ili ID polja s [portala alhemije partnera](https://alchemyportal.azurewebsites.net) u polje MS. Prilagođeno. Ex. ***MS. običaj: 100021***
+1. Koristite ostatak metapodataka na vrhu ove datoteke kao predložak.
+1. Na [portalu alhemski partner](https://alchemyportal.azurewebsites.net)pomaknite se do sekcije **Kupac uvida u naslov:** i koristite to kao početnu točku za vaš u 
     > [!NOTE]
-    > Alkemiji uvide mora imati samo jednu H1 na vrhu ili će prekinuti u proizvodnji. H2s ne renderirati tako koristi **Podebljano** ili druge konvencije za naznaku zasebnim sekcijama.
-1. Dalje, ispunite tijelo teksta pomoću materijala skice u sekciji kupca uvide pravilo alkemiji stranice
-    1. Popisi s grafičkim oznakama su precizno
-    1. Previše numeriranih popisa
-    1. **Podebljano** i *kurziv* su a-ok
-    1. Veze uvijek mora biti ili **"veze web" / vanjski** ili **dublje veze elemenata korisničkog Sučelja**, ne i interne veze.
-    1. Slike su službeno nije podržana u ovom trenutku, ali ga je u roadmap.
+    > Alhemija uvidi mora imati samo jedan H1 na vrhu ili će razbiti u proizvodnji. H2s Nemojte tako koristiti **podebljane** ili druge konvencije da biste označili odvojene sekcije.
+1. Zatim ispunite tijelo tekst pomoću skice materijala u odjeljku klijent uvidi na stranici alhemija pravila
+    1. Popisi s grafičkim oznakama su u redu
+    1. Numerirani popisi previše
+    1. **Bold** i *kurziv* su u redu
+    1. Linkovi uvijek moraju biti **"veze na web"/vanjski** ili **Deep-linkovi na elemente korisničkog sučelja**, a ne interne veze.
+    1. Slike nisu službeno podržane u ovom trenutku, ali je na planu.
 
-I to je zaista već je malo predugačak. Najbolje je o 400 znakova---
+A ovo je stvarno već malo predugo. Najbolja praksa je oko 400 znakova---------------------------------
 
-Kada vaš sadržaj bude spremna, istaknuti ga uživo granu. Zatim idite na [portal alkemiji partnera](https://alchemyportal.azurewebsites.net) i unesite naziv datoteke u polje url. 
+Kada vaš sadržaj bude spreman, povucite ga u živu granu. Zatim idite na [portal alhemije partner](https://alchemyportal.azurewebsites.net) i unesite naziv datoteke u polje URL. 

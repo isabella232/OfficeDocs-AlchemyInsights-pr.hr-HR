@@ -1,5 +1,5 @@
 ---
-title: Upravljanje licencama app
+title: Upravljanje dozvolama za aplikacije
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,28 +13,28 @@ ms.custom:
 - "1500008"
 - "2443"
 ms.openlocfilehash: 0282917f473dbe0718953c8668c4730d8f3448fd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497363"
 ---
-# <a name="manage-office-365-app-licenses"></a>Upravljanje licencama app Office 365
+# <a name="manage-office-365-app-licenses"></a>Upravljanje licencama za Office 365 aplikacije
 
 ## <a name="to-change-license-quantity"></a>Da biste promijenili količinu licence
 
-1. Idi na **naplatu** > [proizvode & services](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice, a zatim odaberite karticu **Apps** .
+1. Idite na stranicu proizvodi za **naplatu** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) , a zatim odaberite karticu **aplikacije** .
 
-2. Pronađite i odaberite app želite upravljati.  
+2. Pronađite i odaberite aplikaciju kojoj želite upravljati.  
 
-3. Odaberite **Dodaj Ukloni licence**.
+3. Odaberite **Dodaj/Ukloni licence**.
 
-4. Unesite novi broj potrebne licence. Ako, na primjer, ako trenutno imate 5 licenci i samo potrebno 4, unesite 4 u okvir **Ukupni licence** . Ako trenutno imate 5 licenci i potrebno 10 ukupni licence, unesite 10 u okviru **Ukupni licence** .
+4. Unesite novi broj potrebnih licenci. Na primjer, ako trenutno imate 5 licenci i samo trebate 4, unesite 4 u okvir **ukupne licence** . Ako trenutno imate 5 licenci i trebate 10 ukupnih licenci, unesite 10 u okvir **ukupne licence** .
 
-## <a name="to-assign-app-licenses"></a>Da biste dodijelili app licence
+## <a name="to-assign-app-licenses"></a>Da biste dodijelili licence aplikacije
 
-1. Idi na **naplatu** > [proizvode & services](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice, a zatim odaberite karticu **Apps** .
+1. Idite na stranicu proizvodi za **naplatu** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) , a zatim odaberite karticu **aplikacije** .
 
-2. Pronađite i odaberite app želite upravljati.  
+2. Pronađite i odaberite aplikaciju kojoj želite upravljati.  
 
-3. Pod **Postavke & akcije**odaberite vezu na **Upravljanje portal izdavača**.
+3. U odjeljku **postavke & akcije**odaberite vezu za **Upravljanje na portalu izdavača**.

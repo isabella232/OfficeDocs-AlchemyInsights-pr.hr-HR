@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com Upoznajte pop gore
+title: Outlook.com reagira na skočni prozor 8000091
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1413"
 - "8000091"
 ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545467"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com je spremno za vrijeme nulti
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com je spreman za prvi put
 
-Nas na umu da neki kupci možda vidjeti skočni prozor "Outlook.com je spreman za vrijeme nulti" svaki put oni prijavu, i možemo radite na popravak.
+Svjesni smo da neki kupci mogu vidjeti "Outlook.com je spreman za prvi put" skočni prozor svaki put kada se prijave, a mi radimo na Fix.
 
-Žao mi je o koji.
+Žao mi je zbog toga.
 
 [Saznajte više o novom Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

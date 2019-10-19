@@ -1,5 +1,5 @@
 ---
-title: Dodavanje grupe web-mjesta sustava SharePoint
+title: Dodavanje grupe na SharePoint web-mjesto
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495203"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Dodavanje grupe web-mjesta sustava SharePoint
+# <a name="add-a-group-to-a-sharepoint-site"></a>Dodavanje grupe na SharePoint web-mjesto
 
-Neke SharePoint web-mjesta tima (uključujući one stvorene u Microsoft Teams) upravlja Office 365 vlasnicima grupa. SharePoint web-mjesta i sadržaja možete također se zajednički koristiti s grupama Office 365 i sa SharePoint grupe. SharePoint grupa je skup korisnika koji svi imaju isti skup dozvole web-mjesta i sadržaja. Za klasičnu mjesta, preporučujemo koristiti grupe radi lakšeg dodijeliti istu razinu dozvole mnogo ljudi odjednom umjesto dodjelom dozvola jedna osoba istovremeno.
+Nekim web-lokacijama sustava SharePoint (uključujući one stvorene u Microsoftovim timovima) upravljaju vlasnici sustava Office 365. SharePoint web-mjesta i sadržaj mogu se dijeliti i s Officeovim 365 grupama i sa SharePoint grupama. SharePoint grupa je zbirka korisnika koji imaju isti skup dozvola za web-mjesta i sadržaj. Za klasična web-mjesta preporučujemo da koristite grupe da biste jednostavno dodijelili istu razinu dozvole mnogim ljudima odjednom, a ne dodjeljujete dozvole jednoj osobi odjednom.
   
-Upravljanje članovima grupe Office 365:
+Upravljajte članovima Office 365 grupa:
   
 1. Idite na [stranicu grupe u centru za administraciju Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Odaberite grupu da biste vidjeli njegove vlasnicima i članove. Za dodavanje ili uklanjanje osoba, kliknite vezu **Uredi** u retku **vlasnicima** ili **članova** . 
+2. Odaberite grupu da biste vidjeli svoje vlasnike i članove. Da biste dodali ili uklonili osobe, kliknite vezu za **Uređivanje** u retku **vlasnici** ili **Članovi** . 
     
-Zajedničko korištenje web-mjesta komunikacije s Office 365 grupe:
+Podijelite web-mjesto za komunikaciju sa uredom 365 grupe:
   
-1. Idite na web-mjestu u pregledniku i kliknite **zajedničko korištenje web-mjesta** u gornjem desnom. 
+1. Idite na web-mjesto u pregledniku i kliknite **zajedničko korištenje web-mjesta** u gornjem desnom dijelu. 
     
-2. Unesite naziv grupe i zatim odaberite razinu dozvole (čitanje, uređivanje ili puna kontrola).
+2. Unesite naziv grupe, a zatim odaberite razinu dozvole (čitanje, uređivanje ili potpuna kontrola).
     
-Stvaranje grupe sustava SharePoint želite koristiti Klasična web-mjesta:
+Stvorite SharePoint grupu za korištenje s klasičnim web-mjestom:
   
-1. Idite na web-mjesta u pregledniku i kliknite ikonu postavke u gornji desni kut.
+1. Idite na web-mjesto u pregledniku i kliknite ikonu Postavke u gornjem desnom dijelu.
     
-2. Kliknite **Postavke web-mjesta**, a zatim pod **korisnici i dozvole**, pritisnite **dozvole web-mjesta**.
+2. Kliknite **Postavke web-mjesta**, a zatim u odjeljku **Korisnici i dozvole**kliknite **dozvole web-mjesta**.
     
-3. Na kartici dozvole, kliknite **Kreiraj grupu**.
+3. Na kartici dozvole kliknite **Stvori grupu**.
     
-[Web-mjesto tima klasični povezati nove grupe za Office 365](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Povezivanje klasičnog timskog web-mjesta s novom Office 365 grupom](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Saznajte više o radu s SharePoint grupe](https://go.microsoft.com/fwlink/?linkid=874658)
+[Saznajte više o radu s grupama sustava SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

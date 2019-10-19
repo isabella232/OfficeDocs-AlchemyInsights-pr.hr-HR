@@ -1,5 +1,5 @@
 ---
-title: GatewayNotReachable prilikom postavljanja vjerodajnica
+title: Gatewaynotreu prilikom postavljanja vjerodajnica
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1321"
 - "2500002"
 ms.openlocfilehash: 599fb10eb557217c2de52bbab72784cd10bbe95c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507119"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable prilikom postavljanja vjerodajnica
+# <a name="gatewaynotreachable-when-setting-credentials"></a>Gatewaynotreu prilikom postavljanja vjerodajnica
 
-GatewayNotReachable možete naići prilikom pokušaja postavljanja vjerodajnica za izvor podataka unutar usluge Dvosmjerno napajanja. To može biti rezultat zastarjele pristupnika. Instalirajte najnovije pristupnik i pokušajte ponovo.
+Prilikom pokušaja postavljanja vjerodajnica za izvor podataka unutar servisa Power BI možete naići na Gatewaynotreu. Ovo bi mogao biti rezultat zastarjelog pristupnika. Instalirajte najnoviji Gateway i pokušajte ponovno.
 
-Dodatne informacije:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Za više informacija:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

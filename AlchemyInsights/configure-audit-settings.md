@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
 ms.openlocfilehash: d5d1da516104d7c062038551142cdd9ccaad4407
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504959"
 ---
 # <a name="configure-sharepoint-audit-settings"></a>Konfiguriranje postavki nadzora sustava SharePoint
 
-Administratori zbirke web-mjesta SharePoint možete pratiti akcije korisnika na sadržaj tako da konfigurirate postavke nadzora.
+Administratori zbirke web-mjesta sustava SharePoint mogu pratiti korisničke radnje na sadržaju konfiguriranjem nadzornih postavki.
   
-1. Otvorite SharePoint web-mjesta.
+1. Otvorite SharePoint web-mjesto.
     
-2. Kliknite ikonu postavke, a zatim kliknite **Postavke web-mjesta**. Ako ne vidite "Postavke web-mjesta", kliknite **informacije web-mjesta**, a zatim **Prikaz svih postavki web-mjesta**.
+2. Kliknite ikonu Postavke, a zatim kliknite **Postavke web-mjesta**. Ako ne vidite "Postavke web-mjesta", kliknite **informacije o web-mjestu**, a zatim kliknite **Prikaz svih postavki web-mjesta**.
     
-3. U sekciji **Administracija zbirke web-mjesta**odaberite **Postavke nadzora zbirke**. (Ako ga ne vidite, kliknite **Idi na postavke web-mjesta najviše razine** prvo.) 
+3. U odjeljku **Administracija zbirke web-** mjesta odaberite **Postavke revizije zbirke web-mjesta**. (Ako ga ne vidite, prvo kliknite **Idi na postavke web-mjesta najviše razine** .) 
     
-Za informacije o tome što je obuhvaćen izvještaji zapisnika nadzora SharePoint i kako ih pogledati potražite u odjeljku [Konfiguriraj postavke za zbirku web-mjesta nadzora](https://go.microsoft.com/fwlink/?linkid=404050).
+Informacije o tome što je uključeno u izvješća zapisnika nadzora sustava SharePoint i kako ih pregledavati potražite u odjeljku [Konfiguriranje postavki nadzora za zbirku web-mjesta](https://go.microsoft.com/fwlink/?linkid=404050).
   
 

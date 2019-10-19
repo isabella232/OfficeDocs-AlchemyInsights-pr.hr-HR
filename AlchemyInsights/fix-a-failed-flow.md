@@ -1,5 +1,5 @@
 ---
-title: Popravak nije uspjelo toka
+title: Ispravljanje neuspjelog protoka
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
 ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525201"
 ---
-# <a name="fix-a-flow-that-failed"></a>Popravi toka koja nije uspjelo
+# <a name="fix-a-flow-that-failed"></a>Ispravljanje toka koji nije uspio
 
-1. Idite na [Microsoft toka](https://flow.microsoft.com/)i kliknite ikonu obavijesti u gornji desni kut. (Ili u mobilnom app odaberite karticu aktivnosti.) Odaberite protoka pogledati detalje nije uspjelo.
+1. Idite na [Microsoft Flow](https://flow.microsoft.com/)i kliknite ikonu obavijesti u gornjem desnom dijelu. (Ili u mobilnoj aplikaciji odaberite karticu aktivnost.) Odaberite tok koji nije uspio pogledati detalje.
     
-2. Pronaći korak s crvenim uskličnikom ikonu da biste vidjeli poruku o pogrešci za protok.
+2. Pronađite korak s crvenom ikonom uskličnika da biste vidjeli poruku o pogrešci za protok.
     
-3. Ovisno o poruci o pogrešci treba biti uređivanje tijek i popravite. 
+3. Ovisno o poruci o pogrešci, trebali biste moći urediti protok i popraviti ga. 
     
-[Uobičajeni protok neuspjeha](https://go.microsoft.com/fwlink/?linkid=872110)
+[Uobičajeni nedostaci protoka](https://go.microsoft.com/fwlink/?linkid=872110)
   
 
