@@ -1,5 +1,5 @@
 ---
-title: Instalirajte Project Professional
+title: Instaliranje projekta Professional
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -13,19 +13,19 @@ ms.custom:
 - "9000695"
 - "2607"
 ms.openlocfilehash: 9aa41ee8302413fb5c24eca3e7caaf1336fb65ad
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36739125"
 ---
-# <a name="install-project-professional"></a><span data-ttu-id="a3ebf-102">Instalirajte Project Professional</span><span class="sxs-lookup"><span data-stu-id="a3ebf-102">Install Project Professional</span></span>
+# <a name="install-project-professional"></a><span data-ttu-id="e69c8-102">Instaliranje projekta Professional</span><span class="sxs-lookup"><span data-stu-id="e69c8-102">Install Project Professional</span></span>
 
-<span data-ttu-id="a3ebf-103">Pogledajte [Instalirati projekta](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) da biste saznali kako instalirati pretplatničke verzije Project Online i ne-pretplatničke verzije projekta 2019 2016 ili 2013.</span><span class="sxs-lookup"><span data-stu-id="a3ebf-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
+<span data-ttu-id="e69c8-103">Pogledajte [Instaliranje projekta](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) kako biste saznali kako instalirati pretplatničku verziju projekta online i Nepretplatničku verziju projekta 2019, 2016 ili 2013.</span><span class="sxs-lookup"><span data-stu-id="e69c8-103">See [Install Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) to learn how to install the subscription version of Project Online, and the non-subscription version of Project 2019, 2016, or 2013.</span></span> 
 
-<span data-ttu-id="a3ebf-104">Za Project 2010 ili 2007, slijedite korake u [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) ili [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span><span class="sxs-lookup"><span data-stu-id="a3ebf-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
+<span data-ttu-id="e69c8-104">Za projekt 2010 ili 2007, slijedite korake u sustavu [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) ili [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span><span class="sxs-lookup"><span data-stu-id="e69c8-104">For Project 2010 or 2007, follow the steps in [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) or [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657).</span></span> 
 
-<span data-ttu-id="a3ebf-105">Projekt se prodaje kao Samostalna aplikacija pa ako nemate ga još, [kupiti ili pokušajte projekta](https://products.office.com/project).</span><span class="sxs-lookup"><span data-stu-id="a3ebf-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://products.office.com/project).</span></span> 
+<span data-ttu-id="e69c8-105">Projekt se prodaje kao samostalna aplikacija, pa ako ga još nemate, [kupite ili pokušajte Project](https://products.office.com/project).</span><span class="sxs-lookup"><span data-stu-id="e69c8-105">Project is sold as a stand-alone application, so if you don't have it yet, [Buy or try Project](https://products.office.com/project).</span></span> 
 
 
 

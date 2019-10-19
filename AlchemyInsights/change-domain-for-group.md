@@ -1,5 +1,5 @@
 ---
-title: Promjena domenu Office 365 grupe
+title: Promjena domene za Office 365 Group
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
 ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736821"
 ---
-# <a name="change-the-domain-for-office-365-group"></a><span data-ttu-id="b84b5-102">Promjena domenu Office 365 grupe</span><span class="sxs-lookup"><span data-stu-id="b84b5-102">Change the domain for Office 365 Group</span></span>
+# <a name="change-the-domain-for-office-365-group"></a><span data-ttu-id="45c45-102">Promjena domene za Office 365 Group</span><span class="sxs-lookup"><span data-stu-id="45c45-102">Change the domain for Office 365 Group</span></span>
 
-<span data-ttu-id="b84b5-103">Ako želite promijeniti domene za Office 365 grupno tijekom stvaranja, slijedite korake u [Odaberite domena koristiti prilikom stvaranja grupe za Office 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).</span><span class="sxs-lookup"><span data-stu-id="b84b5-103">If you want to change the domain for an Office 365 Group during creation, follow the steps in [Choose the domain to use when creating Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).</span></span>
+<span data-ttu-id="45c45-103">Ako želite promijeniti domenu za Office 365 Group tijekom stvaranja, slijedite korake u [Odaberite domenu koja će se koristiti prilikom kreiranja Office 365 grupa](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).</span><span class="sxs-lookup"><span data-stu-id="45c45-103">If you want to change the domain for an Office 365 Group during creation, follow the steps in [Choose the domain to use when creating Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).</span></span>
   
-<span data-ttu-id="b84b5-104">Nakon Office 365 grupe već stvorili, trenutno ne postoji način za promjenu domene.</span><span class="sxs-lookup"><span data-stu-id="b84b5-104">After the Office 365 Group is already created, there is currently no way to change the domain.</span></span> <span data-ttu-id="b84b5-105">Jedini način je stvaranje nove grupe Office 365 i ako je potrebno izbrisati staru (kroz [Centar za administraciju sustava Exchange](https://outlook.office365.com/ecp.aspx)mogu se dodati adrese e-pošte dodatne).</span><span class="sxs-lookup"><span data-stu-id="b84b5-105">The only way is to create a new Office 365 Group and delete the old one if necessary (additional email addresses can be added through the [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)).</span></span>
+<span data-ttu-id="45c45-104">Nakon što je Office 365 Group već stvorena, trenutno ne postoji način za promjenu domene.</span><span class="sxs-lookup"><span data-stu-id="45c45-104">After the Office 365 Group is already created, there is currently no way to change the domain.</span></span> <span data-ttu-id="45c45-105">Jedini način je da stvorite novu grupu sustava Office 365 i izbrišete staru ako je potrebno (Dodatne adrese e-pošte mogu se dodati putem [centra za administraciju sustava Exchange](https://outlook.office365.com/ecp.aspx)).</span><span class="sxs-lookup"><span data-stu-id="45c45-105">The only way is to create a new Office 365 Group and delete the old one if necessary (additional email addresses can be added through the [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)).</span></span>

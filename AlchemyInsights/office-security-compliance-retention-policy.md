@@ -14,42 +14,42 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753752"
 ---
-# <a name="more-info-about-retention-policies"></a><span data-ttu-id="8ca9e-102">Dodatne informacije o pravilima zadržavanja</span><span class="sxs-lookup"><span data-stu-id="8ca9e-102">More info about retention policies</span></span>
+# <a name="more-info-about-retention-policies"></a><span data-ttu-id="4ac04-102">Dodatne informacije o pravilima zadržavanja</span><span class="sxs-lookup"><span data-stu-id="4ac04-102">More info about retention policies</span></span>
 
-<span data-ttu-id="8ca9e-103">Za većinu organizacija, volumen i složenosti njihovih podataka povećava dnevno - e-pošta, dokumenti, izravnih poruka i više.</span><span class="sxs-lookup"><span data-stu-id="8ca9e-103">For most organizations, the volume and complexity of their data is increasing daily - email, documents, instant messages, and more.</span></span> <span data-ttu-id="8ca9e-104">Učinkovito upravljanje ili serijskog ove informacije je važna i pravila zadržavanja mogu vam pomoći u postizanju ovih ciljeva.</span><span class="sxs-lookup"><span data-stu-id="8ca9e-104">Effectively managing or governing this information is important, and a retention policy can help you achieve these goals.</span></span> <span data-ttu-id="8ca9e-105">Dodatne informacije o pravilima zadržavanja posjetite ove veze:</span><span class="sxs-lookup"><span data-stu-id="8ca9e-105">For more information on retention policies, please visit these links:</span></span>
+<span data-ttu-id="4ac04-103">Za većinu organizacija, volumen i složenost njihovih podataka povećava svakodnevno-e-poštu, dokumente, izravne poruke i još mnogo toga.</span><span class="sxs-lookup"><span data-stu-id="4ac04-103">For most organizations, the volume and complexity of their data is increasing daily - email, documents, instant messages, and more.</span></span> <span data-ttu-id="4ac04-104">Važno je učinkovito upravljati ili reguliraju te informacije, a pravila zadržavanja mogu vam pomoći u postizanju tih ciljeva.</span><span class="sxs-lookup"><span data-stu-id="4ac04-104">Effectively managing or governing this information is important, and a retention policy can help you achieve these goals.</span></span> <span data-ttu-id="4ac04-105">Za više informacija o pravilima zadržavanja, molimo posjetite ove veze:</span><span class="sxs-lookup"><span data-stu-id="4ac04-105">For more information on retention policies, please visit these links:</span></span>
 
-## <a name="a-from-security-and-compliance-center"></a><span data-ttu-id="8ca9e-106">A) iz sigurnost i usklađenosti centar</span><span class="sxs-lookup"><span data-stu-id="8ca9e-106">A) From Security and Compliance Center</span></span>
+## <a name="a-from-security-and-compliance-center"></a><span data-ttu-id="4ac04-106">A) iz centra za sigurnost i usklađenost</span><span class="sxs-lookup"><span data-stu-id="4ac04-106">A) From Security and Compliance Center</span></span>
 
-- <span data-ttu-id="8ca9e-107">Idi na sigurnost i usklađenosti > podataka governance > zadržavanja</span><span class="sxs-lookup"><span data-stu-id="8ca9e-107">Go to Security and Compliance > Data governance > Retention</span></span>
-  - <span data-ttu-id="8ca9e-108">Pogledajte članak [THIS](https://docs.microsoft.com/office365/securitycompliance/retention-policies)</span><span class="sxs-lookup"><span data-stu-id="8ca9e-108">See [THIS](https://docs.microsoft.com/office365/securitycompliance/retention-policies) article</span></span>
+- <span data-ttu-id="4ac04-107">Idite na sigurnost i usklađenost > upravljanje podacima > zadržavanje</span><span class="sxs-lookup"><span data-stu-id="4ac04-107">Go to Security and Compliance > Data governance > Retention</span></span>
+  - <span data-ttu-id="4ac04-108">Pogledajte [ovaj](https://docs.microsoft.com/office365/securitycompliance/retention-policies) članak</span><span class="sxs-lookup"><span data-stu-id="4ac04-108">See [THIS](https://docs.microsoft.com/office365/securitycompliance/retention-policies) article</span></span>
 
-- <span data-ttu-id="8ca9e-109">Idi na sigurnost i usklađenosti > eDiscovery> napredne predočavanja elektroničkih dokumenata</span><span class="sxs-lookup"><span data-stu-id="8ca9e-109">Go to Security and Compliance > eDiscovery> Advanced eDiscovery</span></span> 
-  - <span data-ttu-id="8ca9e-110">Pogledajte članak [THIS](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)</span><span class="sxs-lookup"><span data-stu-id="8ca9e-110">See [THIS](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) article</span></span>
+- <span data-ttu-id="4ac04-109">Idi na sigurnost i usklađenost > eDiscovery> Advanced eDiscovery</span><span class="sxs-lookup"><span data-stu-id="4ac04-109">Go to Security and Compliance > eDiscovery> Advanced eDiscovery</span></span> 
+  - <span data-ttu-id="4ac04-110">Pogledajte [ovaj](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) članak</span><span class="sxs-lookup"><span data-stu-id="4ac04-110">See [THIS](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) article</span></span>
 
-- <span data-ttu-id="8ca9e-111">Idi na sigurnost i usklađenosti > klasifikacije > zadržavanja</span><span class="sxs-lookup"><span data-stu-id="8ca9e-111">Go to Security and Compliance > Classifications > Retention</span></span>
-  - <span data-ttu-id="8ca9e-112">Potražite u člancima</span><span class="sxs-lookup"><span data-stu-id="8ca9e-112">See these articles</span></span>
-    - [<span data-ttu-id="8ca9e-113">Osjetljivost natpise</span><span class="sxs-lookup"><span data-stu-id="8ca9e-113">Sensitivity Labels</span></span>](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [<span data-ttu-id="8ca9e-114">Pregled naljepnica</span><span class="sxs-lookup"><span data-stu-id="8ca9e-114">Labels Overview</span></span>](https://docs.microsoft.com/office365/securitycompliance/labels)
+- <span data-ttu-id="4ac04-111">Idite na sigurnost i usklađenost > klasifikacije > zadržavanja</span><span class="sxs-lookup"><span data-stu-id="4ac04-111">Go to Security and Compliance > Classifications > Retention</span></span>
+  - <span data-ttu-id="4ac04-112">Pogledajte ove članke</span><span class="sxs-lookup"><span data-stu-id="4ac04-112">See these articles</span></span>
+    - [<span data-ttu-id="4ac04-113">Oznake osjetljivosti</span><span class="sxs-lookup"><span data-stu-id="4ac04-113">Sensitivity Labels</span></span>](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+    - [<span data-ttu-id="4ac04-114">Pregled naljepnica</span><span class="sxs-lookup"><span data-stu-id="4ac04-114">Labels Overview</span></span>](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a><span data-ttu-id="8ca9e-115">B) police naslijeđeno predočavanja elektroničkih dokumenata</span><span class="sxs-lookup"><span data-stu-id="8ca9e-115">B) Legacy eDiscovery policies</span></span>
+## <a name="b-legacy-ediscovery-policies"></a><span data-ttu-id="4ac04-115">B) naslijeđene pravila za otkrivanje podataka</span><span class="sxs-lookup"><span data-stu-id="4ac04-115">B) Legacy eDiscovery policies</span></span>
 
-- <span data-ttu-id="8ca9e-116">Pogledajte članak [THIS](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)</span><span class="sxs-lookup"><span data-stu-id="8ca9e-116">See [THIS](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) article</span></span>
+- <span data-ttu-id="4ac04-116">Pogledajte [ovaj](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) članak</span><span class="sxs-lookup"><span data-stu-id="4ac04-116">See [THIS](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) article</span></span>
 
-## <a name="c-site-closure-and-deletion-policies"></a><span data-ttu-id="8ca9e-117">C) neradnog vremena i brisanje pravila web-mjesta</span><span class="sxs-lookup"><span data-stu-id="8ca9e-117">C) Site closure and deletion policies</span></span>
+## <a name="c-site-closure-and-deletion-policies"></a><span data-ttu-id="4ac04-117">C) pravila zatvaranja i brisanja web-mjesta</span><span class="sxs-lookup"><span data-stu-id="4ac04-117">C) Site closure and deletion policies</span></span>
 
-- <span data-ttu-id="8ca9e-118">Pogledajte članak [THIS](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)</span><span class="sxs-lookup"><span data-stu-id="8ca9e-118">See [THIS](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) article</span></span>  
+- <span data-ttu-id="4ac04-118">Pogledajte [ovaj](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) članak</span><span class="sxs-lookup"><span data-stu-id="4ac04-118">See [THIS](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) article</span></span>  
 
-## <a name="d-information-rights-management-irm"></a><span data-ttu-id="8ca9e-119">D) informacije Rights Management (IRM)</span><span class="sxs-lookup"><span data-stu-id="8ca9e-119">D) Information Rights Management (IRM)</span></span>
+## <a name="d-information-rights-management-irm"></a><span data-ttu-id="4ac04-119">D) upravljanje pravima na informacije (IRM)</span><span class="sxs-lookup"><span data-stu-id="4ac04-119">D) Information Rights Management (IRM)</span></span>
 
-- <span data-ttu-id="8ca9e-120">Potražite u člancima</span><span class="sxs-lookup"><span data-stu-id="8ca9e-120">See these articles</span></span>
-  - [<span data-ttu-id="8ca9e-121">IRM na popisu/biblioteke</span><span class="sxs-lookup"><span data-stu-id="8ca9e-121">IRM on a list/Library</span></span>](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [<span data-ttu-id="8ca9e-122">Pregled IRM</span><span class="sxs-lookup"><span data-stu-id="8ca9e-122">IRM Overview</span></span>](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+- <span data-ttu-id="4ac04-120">Pogledajte ove članke</span><span class="sxs-lookup"><span data-stu-id="4ac04-120">See these articles</span></span>
+  - [<span data-ttu-id="4ac04-121">IRM na popisu/biblioteci</span><span class="sxs-lookup"><span data-stu-id="4ac04-121">IRM on a list/Library</span></span>](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [<span data-ttu-id="4ac04-122">Pregled IRM-om</span><span class="sxs-lookup"><span data-stu-id="4ac04-122">IRM Overview</span></span>](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> <span data-ttu-id="8ca9e-123">Ne preporučujemo premještanje sigurnost i pravila usklađenosti Ako još uvijek koriste naslijeđeno predočavanja elektroničkih dokumenata ili IRM ili neradnog vremena web-mjesta i brisanje pravila.</span><span class="sxs-lookup"><span data-stu-id="8ca9e-123">We strongly recommend moving to Security and Compliance polices if you are still using Legacy eDiscovery or IRM or Site Closure and deletion policies.</span></span>
+> <span data-ttu-id="4ac04-123">Preporučujemo da se preselite u police za sigurnost i usklađenost ako još uvijek koristite Legacy Edisc, ili IRM ili zaštita web-mjesta i pravila brisanja.</span><span class="sxs-lookup"><span data-stu-id="4ac04-123">We strongly recommend moving to Security and Compliance polices if you are still using Legacy eDiscovery or IRM or Site Closure and deletion policies.</span></span>
