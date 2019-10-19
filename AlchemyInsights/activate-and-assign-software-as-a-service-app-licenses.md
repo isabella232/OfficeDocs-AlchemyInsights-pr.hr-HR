@@ -1,5 +1,5 @@
 ---
-title: Aktiviranje i dodijeliti app kao-a-servis softvera licence
+title: Aktiviranje i dodjeljivanje licenci za aplikacije za softver kao uslugu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "9000563"
 - "2422"
 ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36385712"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a><span data-ttu-id="be7e4-102">Aktiviranje i dodijeliti app kao-a-servis softvera licence</span><span class="sxs-lookup"><span data-stu-id="be7e4-102">Activate and assign software-as-a-service app licenses</span></span> 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a><span data-ttu-id="ebac9-102">Aktiviranje i dodjeljivanje licenci za aplikacije za softver kao uslugu</span><span class="sxs-lookup"><span data-stu-id="ebac9-102">Activate and assign software-as-a-service app licenses</span></span> 
 
-## <a name="to-activate-apps"></a><span data-ttu-id="be7e4-103">Da biste aktivirali apps</span><span class="sxs-lookup"><span data-stu-id="be7e4-103">To activate apps</span></span>
+## <a name="to-activate-apps"></a><span data-ttu-id="ebac9-103">Aktiviranje aplikacija</span><span class="sxs-lookup"><span data-stu-id="ebac9-103">To activate apps</span></span>
 
-1. <span data-ttu-id="be7e4-104">U centru za administraciju idite na **naplatu** > [proizvode & services](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice, a zatim odaberite karticu **Apps** .</span><span class="sxs-lookup"><span data-stu-id="be7e4-104">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="ebac9-104">U centru za administraciju idite na stranicu proizvodi za **naplatu** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) , a zatim odaberite karticu **aplikacije** .</span><span class="sxs-lookup"><span data-stu-id="ebac9-104">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="be7e4-105">Pronađite i odaberite app želite upravljati.</span><span class="sxs-lookup"><span data-stu-id="be7e4-105">Find and select the app you want to manage.</span></span>
+2. <span data-ttu-id="ebac9-105">Pronađite i odaberite aplikaciju kojoj želite upravljati.</span><span class="sxs-lookup"><span data-stu-id="ebac9-105">Find and select the app you want to manage.</span></span>
 
-3. <span data-ttu-id="be7e4-106">Pod **licence**, odaberite **postaviti račun u poruci o pogrešci**.</span><span class="sxs-lookup"><span data-stu-id="be7e4-106">Under **Licenses**, select **Set up account in the error message**.</span></span>  
+3. <span data-ttu-id="ebac9-106">U odjeljku **licence**odaberite **Postavi račun u poruci o pogrešci**.</span><span class="sxs-lookup"><span data-stu-id="ebac9-106">Under **Licenses**, select **Set up account in the error message**.</span></span>  
 
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="be7e4-107">Da biste dodijelili app licence</span><span class="sxs-lookup"><span data-stu-id="be7e4-107">To assign app licenses</span></span>
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="ebac9-107">Da biste dodijelili licence aplikacije</span><span class="sxs-lookup"><span data-stu-id="ebac9-107">To assign app licenses</span></span>
 
-1. <span data-ttu-id="be7e4-108">U centru za administraciju idite na **naplatu** > [proizvode & services](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice, a zatim odaberite karticu **Apps** .</span><span class="sxs-lookup"><span data-stu-id="be7e4-108">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="ebac9-108">U centru za administraciju idite na stranicu proizvodi za **naplatu** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) , a zatim odaberite karticu **aplikacije** .</span><span class="sxs-lookup"><span data-stu-id="ebac9-108">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="be7e4-109">Pronađite i odaberite app želite upravljati.</span><span class="sxs-lookup"><span data-stu-id="be7e4-109">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="ebac9-109">Pronađite i odaberite aplikaciju kojoj želite upravljati.</span><span class="sxs-lookup"><span data-stu-id="ebac9-109">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="be7e4-110">Pod **Postavke & akcije**odaberite vezu na **Upravljanje portal izdavača**.</span><span class="sxs-lookup"><span data-stu-id="be7e4-110">Under **Settings & actions**, select the link to **Manage in publisher’s portal**.</span></span>
+3. <span data-ttu-id="ebac9-110">U odjeljku **postavke & akcije**odaberite vezu za **Upravljanje na portalu izdavača**.</span><span class="sxs-lookup"><span data-stu-id="ebac9-110">Under **Settings & actions**, select the link to **Manage in publisher’s portal**.</span></span>

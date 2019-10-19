@@ -1,5 +1,5 @@
 ---
-title: Excel automatski filtar problem
+title: Problem automatskog filtriranja programa Excel
 ms.author: chrsm
 author: chrsm
 manager: jecon
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
 ms.openlocfilehash: 31a4294f7035f2ff69bb30b65261f5210fc1a3d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527028"
 ---
-# <a name="excel-autofilter-issue"></a><span data-ttu-id="f81b0-102">Excel automatski filtar problem</span><span class="sxs-lookup"><span data-stu-id="f81b0-102">Excel AutoFilter issue</span></span>
+# <a name="excel-autofilter-issue"></a><span data-ttu-id="74185-102">Problem automatskog filtriranja programa Excel</span><span class="sxs-lookup"><span data-stu-id="74185-102">Excel AutoFilter issue</span></span>
 
-<span data-ttu-id="f81b0-103">Kada koristite Excel 2016 Ako vaše GotovFiltar padajući ne prikazuje sve dostupne potvrdnih okvira ili potvrdni okviri nisu moguće kliknuti, on možda Poznati problem u ranijim izgradi Excel.</span><span class="sxs-lookup"><span data-stu-id="f81b0-103">When using Excel 2016, if your AutoFilter drop-down doesn't show all the available check boxes, or the check boxes are not clickable, it may be due to a known issue in earlier builds of Excel.</span></span> 
+<span data-ttu-id="74185-103">Kada koristite Excel 2016, ako padajući popis automatskog filtra ne pokazuje sve dostupne potvrdne okvire ili se potvrdni okviri ne mogu kliknuti, možda je zbog poznatog problema u ranijim izgradnjom programa Excel.</span><span class="sxs-lookup"><span data-stu-id="74185-103">When using Excel 2016, if your AutoFilter drop-down doesn't show all the available check boxes, or the check boxes are not clickable, it may be due to a known issue in earlier builds of Excel.</span></span> 
   
-<span data-ttu-id="f81b0-104">Problem je riješen sada **verzija 1707 (8326.2073)** ili noviji.</span><span class="sxs-lookup"><span data-stu-id="f81b0-104">This issue is now fixed in **Version 1707 (8326.2073)** or later.</span></span> <span data-ttu-id="f81b0-105">Da biste dobili ažuriranja odmah otvorite Excel i odaberite **datoteku** \> **račun** \> **Ažuriranje mogućnosti** \> **Ažuriraj sada**.</span><span class="sxs-lookup"><span data-stu-id="f81b0-105">To get the update immediately, open Excel and choose **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="74185-104">Taj je problem sada riješen u **verziji 1707 (8326,2073)** ili kasnije.</span><span class="sxs-lookup"><span data-stu-id="74185-104">This issue is now fixed in **Version 1707 (8326.2073)** or later.</span></span> <span data-ttu-id="74185-105">Da biste odmah dobili ažuriranje, otvorite Excel **i odaberite** \> ažuriranje **mogućnosti** \> ažuriranja **računa** \> **sada**.</span><span class="sxs-lookup"><span data-stu-id="74185-105">To get the update immediately, open Excel and choose **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 

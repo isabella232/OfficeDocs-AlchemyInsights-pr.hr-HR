@@ -1,5 +1,5 @@
 ---
-title: GatewayNotReachable prilikom postavljanja vjerodajnica
+title: Gatewaynotreu prilikom postavljanja vjerodajnica
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1321"
 - "2500002"
 ms.openlocfilehash: 599fb10eb557217c2de52bbab72784cd10bbe95c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507119"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a><span data-ttu-id="fb744-102">GatewayNotReachable prilikom postavljanja vjerodajnica</span><span class="sxs-lookup"><span data-stu-id="fb744-102">GatewayNotReachable when setting credentials</span></span>
+# <a name="gatewaynotreachable-when-setting-credentials"></a><span data-ttu-id="0081b-102">Gatewaynotreu prilikom postavljanja vjerodajnica</span><span class="sxs-lookup"><span data-stu-id="0081b-102">GatewayNotReachable when setting credentials</span></span>
 
-<span data-ttu-id="fb744-103">GatewayNotReachable možete naići prilikom pokušaja postavljanja vjerodajnica za izvor podataka unutar usluge Dvosmjerno napajanja.</span><span class="sxs-lookup"><span data-stu-id="fb744-103">You may encounter GatewayNotReachable when trying to set credentials for a data source within the Power BI service.</span></span> <span data-ttu-id="fb744-104">To može biti rezultat zastarjele pristupnika.</span><span class="sxs-lookup"><span data-stu-id="fb744-104">This could be the result of an outdated gateway.</span></span> <span data-ttu-id="fb744-105">Instalirajte najnovije pristupnik i pokušajte ponovo.</span><span class="sxs-lookup"><span data-stu-id="fb744-105">Install the latest gateway and try again.</span></span>
+<span data-ttu-id="0081b-103">Prilikom pokušaja postavljanja vjerodajnica za izvor podataka unutar servisa Power BI možete naići na Gatewaynotreu.</span><span class="sxs-lookup"><span data-stu-id="0081b-103">You may encounter GatewayNotReachable when trying to set credentials for a data source within the Power BI service.</span></span> <span data-ttu-id="0081b-104">Ovo bi mogao biti rezultat zastarjelog pristupnika.</span><span class="sxs-lookup"><span data-stu-id="0081b-104">This could be the result of an outdated gateway.</span></span> <span data-ttu-id="0081b-105">Instalirajte najnoviji Gateway i pokušajte ponovno.</span><span class="sxs-lookup"><span data-stu-id="0081b-105">Install the latest gateway and try again.</span></span>
 
-<span data-ttu-id="fb744-106">Dodatne informacije:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="fb744-106">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>
+<span data-ttu-id="0081b-106">Za više informacija:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span><span class="sxs-lookup"><span data-stu-id="0081b-106">For more information: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)</span></span>

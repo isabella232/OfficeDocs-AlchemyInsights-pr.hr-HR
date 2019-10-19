@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
 ms.openlocfilehash: bc91c02f4f7b09f8ec6c3288319afa6c6c3bc400
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36512811"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="51194-102">Brisanje mjesta sustava SharePoint</span><span class="sxs-lookup"><span data-stu-id="51194-102">Delete a SharePoint site</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="e9803-102">Brisanje SharePoint web-mjesta</span><span class="sxs-lookup"><span data-stu-id="e9803-102">Delete a SharePoint site</span></span>
 
-1. <span data-ttu-id="51194-103">Novi centar admin SharePoint, na stranici web-mjesta pritisnite potvrdni okvir pokraj web-mjesta koju želite izbrisati.</span><span class="sxs-lookup"><span data-stu-id="51194-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
+1. <span data-ttu-id="e9803-103">U novom centru za administraciju sustava SharePoint na stranici web-mjesta kliknite potvrdni okvir pokraj web-mjesta koje želite izbrisati.</span><span class="sxs-lookup"><span data-stu-id="e9803-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
     
-2. <span data-ttu-id="51194-104">Na alatnoj traci kliknite **Izbriši**.</span><span class="sxs-lookup"><span data-stu-id="51194-104">On the ribbon toolbar, click **Delete**.</span></span>
+2. <span data-ttu-id="e9803-104">Na alatnoj traci vrpce kliknite **Izbriši**.</span><span class="sxs-lookup"><span data-stu-id="e9803-104">On the ribbon toolbar, click **Delete**.</span></span>
     
 

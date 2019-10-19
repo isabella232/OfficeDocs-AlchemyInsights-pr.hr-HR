@@ -1,5 +1,5 @@
 ---
-title: Upravljanje korisničkim profilima u Delve
+title: Upravljanje korisničkim profilima u delve
 ms.author: ponincev
 author: pebaum
 ms.date: 9/12/2018
@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497183"
 ---
-# <a name="manage-user-profiles-in-delve"></a><span data-ttu-id="85ca1-102">Upravljanje korisničkim profilima u Delve</span><span class="sxs-lookup"><span data-stu-id="85ca1-102">Manage user profiles in Delve</span></span>
+# <a name="manage-user-profiles-in-delve"></a><span data-ttu-id="7e354-102">Upravljanje korisničkim profilima u delve</span><span class="sxs-lookup"><span data-stu-id="7e354-102">Manage user profiles in Delve</span></span>
 
-<span data-ttu-id="85ca1-103">Office Delve omogućuje korisnicima upravljanje njihove Office 365 korisničkog profila.</span><span class="sxs-lookup"><span data-stu-id="85ca1-103">Office Delve lets users manage their Office 365 user profile.</span></span> <span data-ttu-id="85ca1-104">Korisnici mogu:</span><span class="sxs-lookup"><span data-stu-id="85ca1-104">Users can:</span></span>
+<span data-ttu-id="7e354-103">Office delve omogućuje korisnicima upravljanje svojim Office 365 korisnički profil.</span><span class="sxs-lookup"><span data-stu-id="7e354-103">Office Delve lets users manage their Office 365 user profile.</span></span> <span data-ttu-id="7e354-104">Korisnici mogu:</span><span class="sxs-lookup"><span data-stu-id="7e354-104">Users can:</span></span>
   
-- <span data-ttu-id="85ca1-105">Prikaz i ažurirati svoje informacije</span><span class="sxs-lookup"><span data-stu-id="85ca1-105">View and update their information</span></span>
+- <span data-ttu-id="7e354-105">Prikaz i ažuriranje njihovih podataka</span><span class="sxs-lookup"><span data-stu-id="7e354-105">View and update their information</span></span>
     
-- <span data-ttu-id="85ca1-106">Privatnima neke informacije</span><span class="sxs-lookup"><span data-stu-id="85ca1-106">Keep some information private</span></span>
+- <span data-ttu-id="7e354-106">Držite neke informacije privatnim</span><span class="sxs-lookup"><span data-stu-id="7e354-106">Keep some information private</span></span>
     
-- <span data-ttu-id="85ca1-107">Promijenite svoje slike profila ili naslovnice</span><span class="sxs-lookup"><span data-stu-id="85ca1-107">Change their profile or cover picture</span></span>
+- <span data-ttu-id="7e354-107">Promjena profila ili slike na naslovnici</span><span class="sxs-lookup"><span data-stu-id="7e354-107">Change their profile or cover picture</span></span>
     
-- <span data-ttu-id="85ca1-108">Promijeniti oblikovanje jezika i vrijeme za Delve</span><span class="sxs-lookup"><span data-stu-id="85ca1-108">Change the language and time format for Delve</span></span>
+- <span data-ttu-id="7e354-108">Promjena formata jezika i vremena za delve</span><span class="sxs-lookup"><span data-stu-id="7e354-108">Change the language and time format for Delve</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="85ca1-109">Ako korisnik ažurira svoje slike profila i promjena se ne pojavljuju u SharePoint ili OneDrive, zatražite administratora da otvorite web-preglednik, [prijeći na Office.com](https://www.office.com)prijaviti putem njihov rad ili školu račun, a zatim OneDrive ili SharePoint pločica.</span><span class="sxs-lookup"><span data-stu-id="85ca1-109">If a user updated their profile picture and the change isn't appearing in SharePoint or OneDrive, ask them to open a web browser, [go to Office.com](https://www.office.com), sign in with their work or school account, and then click the OneDrive or SharePoint tile.</span></span> <span data-ttu-id="85ca1-110">To će vas slike profila za sinkronizaciju. Korisnik možda morati pokušajte dovršetak ove korake privatne verzijom svoj preglednik.</span><span class="sxs-lookup"><span data-stu-id="85ca1-110">This will prompt the profile picture to sync. The user may need to try completing these steps with the Private version of their browser.</span></span> 
+> <span data-ttu-id="7e354-109">Ako je korisnik ažurirao svoju sliku profila, a promjena se ne pojavljuje u sustavu SharePoint ili na servisu OneDrive, zatražite ih da otvore web-preglednik, [Idite na Office.com](https://www.office.com), prijavite se pomoću poslovnog ili školskog računa, a zatim kliknite pločicu servisa OneDrive ili SharePoint.</span><span class="sxs-lookup"><span data-stu-id="7e354-109">If a user updated their profile picture and the change isn't appearing in SharePoint or OneDrive, ask them to open a web browser, [go to Office.com](https://www.office.com), sign in with their work or school account, and then click the OneDrive or SharePoint tile.</span></span> <span data-ttu-id="7e354-110">To će zatražiti sinkronizaciju slike profila. Korisnik će možda morati pokušati dovršiti ove korake s privatnom verzijom svog preglednika.</span><span class="sxs-lookup"><span data-stu-id="7e354-110">This will prompt the profile picture to sync. The user may need to try completing these steps with the Private version of their browser.</span></span> 
   
-[<span data-ttu-id="85ca1-111">Naučite više o ažuriranju profili u Delve</span><span class="sxs-lookup"><span data-stu-id="85ca1-111">Learn more about updating profiles in Delve</span></span>](https://go.microsoft.com/fwlink/?linkid=735070)
+[<span data-ttu-id="7e354-111">Saznajte više o ažuriranju profila u delve</span><span class="sxs-lookup"><span data-stu-id="7e354-111">Learn more about updating profiles in Delve</span></span>](https://go.microsoft.com/fwlink/?linkid=735070)
   
 
