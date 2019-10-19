@@ -1,5 +1,5 @@
 ---
-title: Poslovna pravila - poslovna pravila koja se ne odnosi na obrazac za obrasce Dynamics 365
+title: Dynamics 365 Forms poslovna pravila-poslovno pravilo ne ispaljivanje za obrazac
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "1926"
 - "6200018"
 ms.openlocfilehash: cbdedd2c5fcf5517243e60e36d86479d6c3f7814
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529011"
 ---
-# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>Događaj OnChange pojaviti ako programski promijeniti polje
+# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>Događaj OnChange ne pojavljuje se ako se polje programski promijeni
 
-Događaj *OnChange* pojaviti ako polje promijenjeno programski pomoću u *atribut.* Metoda [setValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) . Ako želite rukovatelja događajima za događaj *OnChange* za pokretanje nakon što postavite vrijednost mora koristiti u *atribut formContext.data.entity.* Metoda [fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) u kodu.
+Događaj *onChange* ne pojavljuje se ako se polje programski mijenja pomoću *atributa.* [SetValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) metodu. Ako želite da se Rukovatelji događajima za događaj *onChange* pokrenuti nakon što postavite vrijednost, morate koristiti *atribut formcontext. podatkovni. entiteti.* [Fireonchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) metodu u vašem kodu.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)

@@ -12,28 +12,28 @@ ms.custom:
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
 ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36734913"
 ---
 # <a name="managing-yammer-users"></a>Upravljanje korisnicima servisa Yammer
 
-1. Informacije o upravljanju korisnicima servisa Yammer iz Office 365, pogledajte [Upravljanje servisa Yammer korisnicima preko životnog iz Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). To obuhvaća detalje na:
+1. Informacije o upravljanju korisnicima servisa Yammer iz sustava Office 365 potražite u programu [Upravljanje korisnicima servisa Yammer tijekom njihovog životnog ciklusa iz sustava office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). To uključuje pojedinosti o:
 
   - Stvaranje korisnika
 
   - Brisanje korisnika
 
-  - Upravljanje korisnicima servisa Yammer iz Office 365
+  - Upravljanje korisnicima servisa Yammer iz sustava Office 365
 
-2. Pogledajte [Dodavanje blokirati, ili ukloniti korisnike Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) informacije o upravljanju korisnicima iz konzole za administraciju servisa Yammer. To uključuje:
+2. Dodatne informacije o upravljanju korisnicima s Administratorske konzole Yammer potražite u nastavku [dodavanja, blokiranja ili uklanjanja korisnika servisa Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) . To uključuje:
 
-  - Poziva ili uklanjanje korisnika
+  - Pozivanje ili uklanjanje korisnika
 
-  - Pozivajući korisnici gosta
+  - Pozivanje gostiju korisnika
 
   - Izvoz popisa korisnika
 
-3. Informacije o dodavanju, uklanjanje i upravljanje vanjskim korisnicima pogledajte [Dodavanje vanjskog razmjenu sudionici za mrežu servisa Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).
+3. Informacije o dodavanju, uklanjanju i upravljanju vanjskim korisnicima potražite [u stranici Dodavanje sudionika vanjskog slanja poruka na mrežu Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

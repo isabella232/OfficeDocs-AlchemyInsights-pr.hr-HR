@@ -1,5 +1,5 @@
 ---
-title: Niste otvorite datoteku programa Word na dvoklik
+title: Word datoteka nije otvorila na dvostrukim klikom
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "850"
 - "2100002"
 ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558177"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Dokument programa Word otvoren u pogrešnom app ili niste otvorili
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word dokument otvoren u pogrešnoj aplikaciji ili nije otvorio
 
-Pokušajte ove prijedloge:
+Isprobajte jedan od ovih prijedloga:
 
 **Odaberite Word kao zadani**
 
-- Desnom tipkom miša kliknite dokument, odaberite **Otvori s**, a zatim odaberite **riječ**
+- Desnom tipkom miša kliknite dokument, odaberite **Otvori s**, a zatim odaberite **Word**
 
-**Pokreni brzi popravak**
+**Pokreni Brzi popravak**
 
-1. Idite na **upravljačkoj ploči > programi > programi i značajke**.
+1. Idite na **Upravljačka ploča > programi > programi i značajke**.
 
-2. Odaberite proizvod iz sustava Office koju želite popraviti, a zatim odaberite **promjenu**.
+2. Odaberite proizvod sustava Office koji želite popraviti, a zatim odaberite **Promijeni**.
 
-3. Odaberite mogućnost **Brzog popravka** i zatim odaberite **popravka**.
+3. Odaberite mogućnost **brzog popravka** , a zatim odaberite **popravak**.
 
-**Deinstalirajte verzije Officea ne koristite**
+**Deinstaliraj verzije sustava Office koje ne koristite**
 
-1. Idi na **upravljačkoj ploči > deinstaliranje programa**, a zatim odaberite verziju Officea koju želite ukloniti.
+1. Idite na **Upravljačka ploča > deinstalirajte program**, a zatim odaberite verziju sustava Office koju želite ukloniti.
 
 2. Kliknite **Deinstaliraj**.
 
-3. Ponovo pokrenite računalo.
+3. Ponovno pokrenite računalo.
 
-**Pokrenite troubleshooter postavljanje proširenja Office datoteku otvorite na Office**
+**Pokrenite ovaj alat za otklanjanje poteškoća da biste postavili ekstenzije Officeovih datoteka za otvaranje u Office**
 
-1. Pokrenite taj alat za otklanjanje poteškoća: https://aka.ms/diag_officefile.
+1. Pokrenite ovaj alat za https://aka.ms/diag_officefileotklanjanje poteškoća:.
 
-2. Ovisno o pregledniku **Otvori** ili **Spremi** za otklanjanje poteškoća na radnu površinu, a zatim **pokrenuti** ga.
+2. Ovisno o pregledniku **otvorite** ili **Spremite** alat za otklanjanje poteškoća na radnu površinu, a zatim ga **Pokrenite** .

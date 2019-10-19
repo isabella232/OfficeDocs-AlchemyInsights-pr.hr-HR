@@ -1,5 +1,5 @@
 ---
-title: Grupe za raspodjelu '{AimKIObject}' ne prikazuje na popisu grupe nakon {AimKITimeElapsed} minuta
+title: Grupa raspodjele ' {AimKIObject} ' ne prikazuje se na popisu grupe nakon {AimKITimeElapsed} minuta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
 ms.openlocfilehash: af6f3e2040ebf2966f7bf7c4ffe796fa31106ecf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530487"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Grupu raspodjele "{AimKIObject}" ne prikazuje na popisu grupe nakon {AimKITimeElapsed} minuta
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Grupa raspodjele "{AimKIObject}" ne prikazuje se na popisu grupe nakon {AimKITimeElapsed} minuta
 
-Grupe "{AimKIObject}" je stvorena {AimKITimeElapsed} prije minuta. Obično ne trajati dulje od 60 minuta za nove grupe raspodjele pojavi u centru za administraciju.
+Vaša grupa "{AimKIObject}" stvorena je prije nekoliko minuta. Obično ne treba više od 60 minuta da bi se vaša nova grupa raspodjele pojavila u centru za administraciju.
   
-Možda moći koristiti značajku primatelji > grupe u [Exchange Admin centar](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) za upravljanje vašoj grupi sada ili koristite mogućnost "nam povratni poziv," razgovarati inženjeru za podršku. 
+Možda ćete moći koristiti značajku primatelji > grupe u [centru za administraciju sustava Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) da biste upravljali grupom sada ili koristite opciju "Nazovimo vas" mogućnošću razgovora s inženjerom podrške. 
   
 

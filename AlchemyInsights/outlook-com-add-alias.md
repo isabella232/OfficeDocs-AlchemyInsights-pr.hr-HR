@@ -1,5 +1,5 @@
 ---
-title: Pseudonim dodati 9000238 Outlook.com
+title: 9000238 Outlook.com dodavanje pseudonima
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542693"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Dodavanje alias e-pošte u Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>Dodavanje pseudonima e-pošte u Outlook.com
 
-Pseudonim je adresu e-pošte dodatne koji koristi istu mapu Primljeno, popis kontakata i postavke računa kao primarnu adresu. Možete odabrati koje adresu e-pošte za slanje pošte i možete se prijaviti u račun Outlook.com s bilo kojom vaš pseudonime — svi oni koristiti istu lozinku.
+Alias je dodatna adresa e-pošte koja koristi istu ulaznu poštu, popis kontakata i postavke računa kao primarnu adresu e-pošte. Možete odabrati adresu e-pošte za slanje pošte i možete se prijaviti na svoj Outlook.com račun s bilo kojim od vaših pseudonima – oni svi koriste istu lozinku.
 
 Da biste dodali adresu e-pošte:
 
-1. Idite na [Dodaj pseudonim](https://go.microsoft.com/fwlink/p/?linkid=864833). Prijavite se na Microsoftov račun, ako upit.
-2. Pod **Dodaj alias**ili:
-    1. Stvori novu adresu e-pošte Outlook.com i dodajte ga kao pseudonim.
+1. Idite na [Dodavanje pseudonima](https://go.microsoft.com/fwlink/p/?linkid=864833). Prijavite se na Microsoftov račun ako se to od vas zatraži.
+2. U odjeljku **Dodavanje pseudonima**:
+    1. Stvorite novu Outlook.com adresu e-pošte i dodajte je kao alias.
     2. Dodajte postojeću adresu e-pošte kao pseudonim.
-3. Odaberite **Dodaj pseudonim**.
+3. Odaberite **Dodaj Alias**.
 
-Više o tome kako [dodati ili ukloniti alias e-pošte u Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)čitanje.  
+Pročitajte više o tome kako [dodati ili ukloniti pseudonim e-pošte u Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Čitanje [kako povezati drugi račun e-pošte](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) Outlook.com računa.
+Pročitajte [kako povezati drugi račun e-pošte](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) sa svojim Outlook.com računom.

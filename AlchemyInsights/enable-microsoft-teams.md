@@ -1,5 +1,5 @@
 ---
-title: Omogući Microsoft timove
+title: Omogući Microsoftove timove
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
 ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736101"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>Omogućite i koristite Microsoft timove
+# <a name="enable-and-use-microsoft-teams"></a>Omogući i koristi Microsoftove timove
 
-Ako uopće nemaju pristup Microsoft Teams, odjaviti [kako dobiti pristup Microsoft timovima](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
+Ako uopće nemate pristup Microsoftovim timovima, provjerite [Kako mogu dobiti pristup Microsoftovim timovima](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
 
-Ako već imate Microsoft Teams i trebate znati kako konfigurirati i upravljati, pogledajte [Upravljanje timovima Microsoft postavke za vašu organizaciju](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).
+Ako već imate Microsoftove timove i morate znati kako konfigurirati i upravljati njime, pogledajte [Upravljanje postavkama Microsoft Teams za vašu organizaciju](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).

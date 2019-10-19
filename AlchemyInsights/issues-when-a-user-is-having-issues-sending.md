@@ -1,5 +1,5 @@
 ---
-title: Kada korisnik potrebe problemi slanja 322 problemi
+title: 322 problemi kada korisnik ima problema s slanjem
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
@@ -12,12 +12,12 @@ ms.custom:
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
 ms.openlocfilehash: 5d3c3d749c298682e1a6798b0f05ccb4bb657015
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661504"
 ---
-# <a name="a-user-is-having-issues-sending-email-messages"></a>Korisnik potrebe problemi slanja poruka e-pošte
+# <a name="a-user-is-having-issues-sending-email-messages"></a>Korisnik ima problema s slanjem poruka e-pošte
 
-Čini se da ste problem protok pošte. Imamo dijagnostike koji će pomoći prepoznati mnoge uobičajene probleme pošte toka. Kliknite **pokrenite dijagnostiku** ispod.
+Čini se da imaš problem s protokom pošte. Imamo dijagnostiku koja će vam pomoći identificirati mnoge uobičajene probleme protoka pošte. Kliknite **Pokreni dijagnostiku** u nastavku.

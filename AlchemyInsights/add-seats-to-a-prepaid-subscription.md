@@ -1,5 +1,5 @@
 ---
-title: Dodavanje mesta avansni pretplate
+title: Dodavanje mjesta za prepaid pretplatu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,27 +14,27 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660964"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Dodavanje mesta avansni pretplate
+# <a name="add-seats-to-a-prepaid-subscription"></a>Dodavanje mjesta za prepaid pretplatu
 
-Avansni Office 365 licence izdaju vam kao alfanumerički kod 25 znakova. Nakon što ste kupili licence potrebne, možete ih dodati u pretplatu. 
+Prepaid Office 365 licence izdane su kao alfanumerički kôd od 25 znakova. Nakon što ste kupili potrebne licence, možete ih dodati u pretplatu. 
 
-1. U centru za administraciju idite na **naplatu** > stranicu[Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. U centru za administraciju idite na stranicu **naplate** > [proizvoda & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Pronaći želite dodati licence za pretplatu. U sekciji **licence** , odaberite **Dodaj više licenci**.
+2. Pronađite pretplatu kojoj želite dodati licence. U sekciji **licence** odaberite **Dodaj više licenci**.
 
-3. U oknu za **Dodavanje više licenci** odaberite **koristi ključ proizvoda nove i nekorištene**, a zatim odaberite **Dalje**.
+3. U oknu **Dodavanje više licenci** odaberite **koristi novi i Nekorišteni ključ proizvoda**, a zatim odaberite **dalje**.
 
-4. Unesite ključ proizvoda, a zatim odaberite **Dalje**.
+4. Unesite ključ proizvoda, a zatim odaberite **dalje**.
 
     > [!NOTE]
-    > Ako imate više od jednog ključ proizvoda, možete odabrati unesite ih **dodati drugi ključ proizvoda** .
+    > Ako imate više od jednog ključa proizvoda, možete odabrati **Dodavanje drugog ključa proizvoda** da biste ih unijeli.
 
-5. Pregledajte Detalji narudžbe, a zatim **Redeem**.
+5. Pregledajte detalje narudžbe, a zatim odaberite **Iskoristi**.
 
-Da biste saznali više, pogledajte [Dodavanje licenci za ili proširivanje pretplate plaćenu za korištenje ključa proizvoda](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Da biste saznali više, pogledajte [Dodavanje licenci ili produljenje pretplate plaćene pomoću ključa proizvoda](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

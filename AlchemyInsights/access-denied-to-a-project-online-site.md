@@ -1,5 +1,5 @@
 ---
-title: Pristup je odbijen projekta Web App web-mjesta
+title: Zabranjen je pristup web-mjestu projekta web app
 ms.author: efrene
 author: efrene
 manager: pamg
@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661216"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Korisnicima dali dozvole u Project Online
+# <a name="give-users-permissions-in-project-online"></a>Dati korisnicima dozvole u Project online
 
-Daj korisnicima pristup na projekt Web App web-mjesto pomoću SharePoint dozvolu načinu:
+Korisnicima daju pristup web-mjestu Project Internet app pomoću sustava SharePointova dopuštenja:
 
-1. Prijavite se u sustav Project Online kao u administratora.
-2. Na početnoj stranici Web App projekta odaberite **zajedničko korištenje** u gornji desni kut.
-3. U dijaloškom okviru **Dijeljenje projekta Web App** upišite korisničko ime osobe kojoj želite dati pristup u okviru **Pozivanje osoba** .
-4. Odaberite **Pokaži mogućnosti**i u izborniku **Odaberite razinu dozvole** odaberite **Upravitelji projekta za Project Web App**.
-5. Odaberite **zajedničko korištenje**.
+1. Prijavite se na Project online kao admin.
+2. Na početnoj stranici projekta web app odaberite **Podijeli** u gornjem desnom kutu.
+3. U dijaloškom okviru **zajedničko korištenje Project web-aplikacija** upišite korisničko ime osobe kojoj želite dati pristup u okviru **Pozovi osobe** .
+4. Odaberite **Prikaži mogućnosti**, a zatim na izborniku **Odaberite razinu dozvole** odaberite **upravitelji projekata za Project Web App**.
+5. Odaberite **Podijeli**.
 
-Ako koristite način projekta dozvole ili dodatne informacije, pogledajte [Dodavanje osobe Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Ako koristite način rada za dozvole projekta ili za više informacija, pogledajte [Dodavanje osoba na Project online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

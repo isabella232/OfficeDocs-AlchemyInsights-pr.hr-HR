@@ -1,5 +1,5 @@
 ---
-title: Kako otkazati programa app
+title: Kako otkazati aplikaciju
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542089"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Kako otkazati apps – kao-a-servis softvera 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Kako otkazati softver-kao-usluge aplikacije 
 
-1. U admin center Microsoft 365 za **naplatu** > [proizvode & services](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice, a zatim odaberite karticu **Apps** .
+1. U centru Microsoft 365 admin, na stranicu za **naplatu** > [proizvoda & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) , a zatim odaberite karticu **aplikacije** .
 
-2. Pronađite i odaberite app želite upravljati.
+2. Pronađite i odaberite aplikaciju kojoj želite upravljati.
 
-3. U odjeljku **Postavke & akcije**odaberite **otkazati pretplatu**.
+3. U odjeljku **postavke & akcije**odaberite **Odustani od pretplate**.

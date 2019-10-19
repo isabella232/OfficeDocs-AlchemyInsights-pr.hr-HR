@@ -1,5 +1,5 @@
 ---
-title: Pomoću polja ime i prezime nije za ovu Dynamics 365 obrasce poslovna pravila
+title: Dynamics 365 Forms poslovno pravilo koristeći Punime polje ne ispaljivanje
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "1928"
 - "6200018"
 ms.openlocfilehash: 91e091502f2b431c380663f3b938580b6cc963c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528929"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Puni naziv polja za sjedinjeno upravljanje porukama inteface apps nije podržan
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Polje punog imena nije podržano s jedinstvenim inteface aplikacijama
 
-Akcije ili uvjeti koji koristite polje **Punog imena** (PunoIme) nisu podržane u apps na temelju Objedinjena sučelja. Umjesto toga možete upotrijebiti akcije ili uvjeti **ime** (ime) i polja **Prezime** (lastname).
+Akcije ili uvjeti koji koriste polje **puno ime** (fullname) nisu podržani u aplikacijama na temelju objedinjenog sučelja. Alternativno, možete koristiti akcije ili uvjete s poljem **ime (prvorođeno** ime) **i prezime (prezime)** .
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

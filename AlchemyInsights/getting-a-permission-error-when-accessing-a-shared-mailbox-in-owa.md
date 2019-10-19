@@ -1,5 +1,5 @@
 ---
-title: Dobivanje dozvole pogreška prilikom pristupa zajednički poštanski sandučić u programu OWA 124?
+title: 124 dobivanje pogreške dopuštenja prilikom pristupanja zajednički poštanski sandučić u OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
 ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36735751"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Dobivanje dozvole pogreška prilikom otvaranja zajednički poštanski sandučić u programu Outlook na webu?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Dobivanje pogreške dopuštenja prilikom otvaranja zajedničkog poštanskog sandučića u programu Outlook na webu?
 
-Ako dobijete pogrešku **nešto pošlo po zlu. Nemate dozvolu za otvaranje poštanskog sandučića.** Kada pokušate otvoriti zajednički poštanski sandučić u programu Outlook na webu, vaš račun možda nemate dozvolu za pristup zajednički poštanski sandučić. Administrator vaše organizacije možete dodijeliti dozvole račun zajednički poštanski sandučić slijedeći upute u temi [Kreiranje zajednički poštanski sandučić](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
+Ako dobijete pogrešku **nešto je pošlo po zlu. Nemate dozvolu za otvaranje poštanskog sandučića.** Kada pokušate otvoriti zajednički poštanski sandučić u programu Outlook na webu, vaš račun možda nema dozvolu za pristup zajedničkom poštanskom sandučiću. Administrator tvrtke ili ustanove može dodijeliti dozvole vašeg računa zajedničkom poštanskom sandučiću slijedeći upute u temi [stvaranje zajedničkog poštanskog sandučića](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
   
