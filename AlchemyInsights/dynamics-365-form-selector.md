@@ -1,5 +1,5 @@
 ---
-title: Odabir obrasca Dynamics 365
+title: Alat za odabir obrasca sustava Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.custom:
 - "1469"
 - "6200014"
 ms.openlocfilehash: f74eb8d366b86878620ae6f038a09feb0128c32e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528925"
 ---
-# <a name="dynamics-365-form-selector"></a><span data-ttu-id="b629a-102">Odabir obrasca Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="b629a-102">Dynamics 365 form selector</span></span>
+# <a name="dynamics-365-form-selector"></a><span data-ttu-id="2dea9-102">Alat za odabir obrasca sustava Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="2dea9-102">Dynamics 365 form selector</span></span>
 
-* [<span data-ttu-id="b629a-103">Kontrola obrasca pristup objašnjena</span><span class="sxs-lookup"><span data-stu-id="b629a-103">Form Access Control Explained</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [<span data-ttu-id="2dea9-103">Objašnjena je kontrola pristupa obrascu</span><span class="sxs-lookup"><span data-stu-id="2dea9-103">Form Access Control Explained</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)

@@ -1,5 +1,5 @@
 ---
-title: Poslovna pravila - poslovna pravila koja se ne odnosi na obrazac za obrasce Dynamics 365
+title: Dynamics 365 Forms poslovna pravila-poslovno pravilo ne ispaljivanje za obrazac
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "1926"
 - "6200018"
 ms.openlocfilehash: cbdedd2c5fcf5517243e60e36d86479d6c3f7814
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529011"
 ---
-# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a><span data-ttu-id="1c6ca-102">Događaj OnChange pojaviti ako programski promijeniti polje</span><span class="sxs-lookup"><span data-stu-id="1c6ca-102">OnChange event does not occur if the field is changed programmatically</span></span>
+# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a><span data-ttu-id="be1b3-102">Događaj OnChange ne pojavljuje se ako se polje programski promijeni</span><span class="sxs-lookup"><span data-stu-id="be1b3-102">OnChange event does not occur if the field is changed programmatically</span></span>
 
-<span data-ttu-id="1c6ca-103">Događaj *OnChange* pojaviti ako polje promijenjeno programski pomoću u *atribut.* Metoda [setValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) .</span><span class="sxs-lookup"><span data-stu-id="1c6ca-103">The *OnChange* event does not occur if the field is changed programmatically using the *attribute.*[setValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) method.</span></span> <span data-ttu-id="1c6ca-104">Ako želite rukovatelja događajima za događaj *OnChange* za pokretanje nakon što postavite vrijednost mora koristiti u *atribut formContext.data.entity.* Metoda [fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) u kodu.</span><span class="sxs-lookup"><span data-stu-id="1c6ca-104">If you want event handlers for the *OnChange* event to run after you set the value you must use the *formContext.data.entity attribute.*[fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) method in your code.</span></span>
+<span data-ttu-id="be1b3-103">Događaj *onChange* ne pojavljuje se ako se polje programski mijenja pomoću *atributa.* [SetValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) metodu.</span><span class="sxs-lookup"><span data-stu-id="be1b3-103">The *OnChange* event does not occur if the field is changed programmatically using the *attribute.*[setValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) method.</span></span> <span data-ttu-id="be1b3-104">Ako želite da se Rukovatelji događajima za događaj *onChange* pokrenuti nakon što postavite vrijednost, morate koristiti *atribut formcontext. podatkovni. entiteti.* [Fireonchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) metodu u vašem kodu.</span><span class="sxs-lookup"><span data-stu-id="be1b3-104">If you want event handlers for the *OnChange* event to run after you set the value you must use the *formContext.data.entity attribute.*[fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) method in your code.</span></span>
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)

@@ -1,5 +1,5 @@
 ---
-title: Migriraj poštanske sandučiće između dvije različite samoposlužni
+title: Migrirati poštanske sandučiće između dva različita stanara
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,15 +14,15 @@ ms.custom:
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
 ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36734445"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="cbfae-102">Migriraj poštanske sandučiće između dvije različite samoposlužni</span><span class="sxs-lookup"><span data-stu-id="cbfae-102">Migrate mailboxes between two different tenants</span></span>
+# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="ab398-102">Migrirati poštanske sandučiće između dva različita stanara</span><span class="sxs-lookup"><span data-stu-id="ab398-102">Migrate mailboxes between two different tenants</span></span>
 
-<span data-ttu-id="cbfae-103">Možda će biti potrebno migrirati poštanske sandučiće između dvije različite samoposlužni u sustavu Office 365, na primjer, kad postoje promjenjivog organizacije.</span><span class="sxs-lookup"><span data-stu-id="cbfae-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="cbfae-104">Ove premještanjima treba pažljivo planirati.</span><span class="sxs-lookup"><span data-stu-id="cbfae-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="cbfae-105">Pogledajte sljedećih smjernica:</span><span class="sxs-lookup"><span data-stu-id="cbfae-105">Please see the following guidance:</span></span>
+<span data-ttu-id="ab398-103">Možda ćete morati migrirati poštanske sandučiće između dva različita stanara u sustavu Office 365, na primjer, kada postoje spajanja u organizaciji.</span><span class="sxs-lookup"><span data-stu-id="ab398-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="ab398-104">Ove migracije treba pažljivo planirati.</span><span class="sxs-lookup"><span data-stu-id="ab398-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="ab398-105">Molimo pogledajte sljedeće upute:</span><span class="sxs-lookup"><span data-stu-id="ab398-105">Please see the following guidance:</span></span>
   
-[<span data-ttu-id="cbfae-106">Kako migrirati poštanske sandučiće iz jedne Office 365 klijentske na drugi</span><span class="sxs-lookup"><span data-stu-id="cbfae-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[<span data-ttu-id="ab398-106">Kako migrirati poštanske sandučiće iz jednog Office 365 klijenta na drugi</span><span class="sxs-lookup"><span data-stu-id="ab398-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

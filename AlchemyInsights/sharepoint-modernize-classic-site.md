@@ -1,5 +1,5 @@
 ---
-title: Moderna web-mjesta kao korijensko web-mjesto
+title: Moderna stranica kao root stranice
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503483"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576660"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a><span data-ttu-id="8b645-102">Modernize klasični SharePoint web-mjesta</span><span class="sxs-lookup"><span data-stu-id="8b645-102">Modernize your classic SharePoint site</span></span>
+# <a name="modernize-your-classic-sharepoint-site"></a><span data-ttu-id="db2c9-102">Modernize vaše klasično SharePoint web-mjesto</span><span class="sxs-lookup"><span data-stu-id="db2c9-102">Modernize your classic SharePoint site</span></span>
 
-<span data-ttu-id="8b645-103">Pogledajte sljedeće pojedinosti o korištenju nove Moderna doživljaj:</span><span class="sxs-lookup"><span data-stu-id="8b645-103">See the following for details about using the new modern experience:</span></span>
+<span data-ttu-id="db2c9-103">Da biste prebacili na moderno korisničko sučelje, morate se usredotočiti na sljedeće:</span><span class="sxs-lookup"><span data-stu-id="db2c9-103">To make the switch to a modern user interface, you need to focus on the following:</span></span>
 
-- <span data-ttu-id="8b645-104">Opširni pregled modernizing klasični SharePoint mjesta za iskustvo Moderna, potražite [Modernize klasični SharePoint web-mjesta](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span><span class="sxs-lookup"><span data-stu-id="8b645-104">For a step-by-step overview of modernizing your classic SharePoint Sites to the modern experience, see [Modernize your classic SharePoint Sites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span></span>
+- <span data-ttu-id="db2c9-104">Tranzicije **popisa i biblioteka** za korištenje modernog korisničkog sučelja (naziva se i modernim popisom i bibliotekama).</span><span class="sxs-lookup"><span data-stu-id="db2c9-104">Transitioning your **lists and libraries** to use the modern user interface (also referred to as the modern list and library experience).</span></span>
+- <span data-ttu-id="db2c9-105">Pretvaranje **stranica web-mjesta** s klasičnih wiki i web-dijelova u moderne stranice s klijentskim stranama.</span><span class="sxs-lookup"><span data-stu-id="db2c9-105">Transforming your **site pages** from classic wiki and web part pages into modern client-side pages.</span></span>
+- <span data-ttu-id="db2c9-106">Stvaranje **modernih web** -mjesta (timsko web-mjesto ili komunikacijska stranica).</span><span class="sxs-lookup"><span data-stu-id="db2c9-106">Creating **modern sites** (Team site or Communication Site).</span></span>
 
-- <span data-ttu-id="8b645-105">Za maksimiziranje korištenje Moderna korisničko sučelje za stranice web-mjesta i popisa i biblioteka stranica, pogledajte [Modernize korisničkog sučelja](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).</span><span class="sxs-lookup"><span data-stu-id="8b645-105">To maximize the use of the modern user interface for your site pages and list and library pages, see [Modernize the user interface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).</span></span> 
+<span data-ttu-id="db2c9-107">Modernize vaše iskustvo:</span><span class="sxs-lookup"><span data-stu-id="db2c9-107">Modernize your experience by:</span></span>
+- <span data-ttu-id="db2c9-108">[Omogućavanje popisa i biblioteka za prikazivanje u modernom korisničkom sučelju](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) zamjenom prilagodbi, uklanjanjem nekompatibilnih stupaca iz korištenih prikaza ili (kao posljednje rješenje) premještanjem podataka u modernu vrstu popisa kompatibilne s korisničkim sučeljem.</span><span class="sxs-lookup"><span data-stu-id="db2c9-108">[Enabling lists and libraries to show in the modern user interface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) by replacing customizations, removing incompatible columns from the used views, or (as a last resort) moving data into a modern user interface-compatible list type.</span></span>
+- <span data-ttu-id="db2c9-109">[Povezivanje web-lokacije s Officeovom 365 grupom](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), koja vašoj web-lokaciji daje modernu početnu stranicu i omogućuje korištenje web-mjesta, na primjer, poštanskog sandučića ili programa Microsoft Planner.</span><span class="sxs-lookup"><span data-stu-id="db2c9-109">[Connecting your site to an Office 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), which gives your site a modern home page and enables your site to use, for example, a mailbox or Microsoft Planner.</span></span> <span data-ttu-id="db2c9-110">To vam omogućuje korištenje moderne verzije kalendara i popisa zadataka.</span><span class="sxs-lookup"><span data-stu-id="db2c9-110">This enables you to use a modern version of a calendar and task list.</span></span>
+- <span data-ttu-id="db2c9-111">[Stvaranje modernih stranica](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)je odličan način za dijeljenje ideja pomoću slika, Excel, Word i PowerPoint dokumenata, videozapisa i još mnogo toga.</span><span class="sxs-lookup"><span data-stu-id="db2c9-111">[Creating modern pages](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec), is a great way to share ideas using images, Excel, Word and PowerPoint documents, video, and more.</span></span>
+- <span data-ttu-id="db2c9-112">[Stvaranje modernih klijentskih stranica](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) i konfiguriranje ovih "sličnih" na vaše ključne klasične wiki i stranice web-dijelova.</span><span class="sxs-lookup"><span data-stu-id="db2c9-112">[Creating modern client-side pages](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) and configuring these to be "similar" to your key classic wiki and web part pages.</span></span> <span data-ttu-id="db2c9-113">Programska Pretvorba stranica treba biti učinjeno za ključne stranice vaših web stranica, jer transformacija sve stranice je resurs intenzivan i često nije potrebno.</span><span class="sxs-lookup"><span data-stu-id="db2c9-113">Programmatic page transformation should be done for the key pages of your sites, as transforming all pages is resource-intensive and often not needed.</span></span> <span data-ttu-id="db2c9-114">Da biste pomogli u ovom trijažu, skener modernizacije sustava SharePoint može vam dati informacije o trenutačnim stranicama wiki i web-dijelova.</span><span class="sxs-lookup"><span data-stu-id="db2c9-114">To assist in this triage, the SharePoint Modernization scanner can give you usage information about the current wiki and web part pages.</span></span>
+- <span data-ttu-id="db2c9-115">[Stvaranje modernih web stranica](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).</span><span class="sxs-lookup"><span data-stu-id="db2c9-115">[Creating modern sites](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).</span></span> <span data-ttu-id="db2c9-116">Trebam li stvoriti timsko web-mjesto ili web-mjesto za komunikaciju?</span><span class="sxs-lookup"><span data-stu-id="db2c9-116">Should I create a team site or a communication site?</span></span>
 
-- <span data-ttu-id="8b645-106">Da biste saznali više o tome kako deblokirati popise i biblioteke prilikom korištenja Moderna korisničko sučelje vidjeli [Maksimiziraj koriste suvremene popisa i biblioteka](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)</span><span class="sxs-lookup"><span data-stu-id="8b645-106">To learn more about how to unblock your lists and libraries when using the modern user interface, see [Maximize use of modern lists and libraries](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)</span></span>
+<span data-ttu-id="db2c9-117">Dodatne informacije:</span><span class="sxs-lookup"><span data-stu-id="db2c9-117">Additional Info:</span></span> 
+- <span data-ttu-id="db2c9-118">Za korak-po-korak pregled moderniziranja klasičnih SharePoint web-mjesta do modernog iskustva pogledajte [Modernize klasične SharePoint web-mjesta](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span><span class="sxs-lookup"><span data-stu-id="db2c9-118">For a step-by-step overview of modernizing your classic SharePoint Sites to the modern experience, see [Modernize your classic SharePoint Sites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span></span>
+- <span data-ttu-id="db2c9-119">Pogledajte vodič za [moderno iskustvo](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).</span><span class="sxs-lookup"><span data-stu-id="db2c9-119">See a guide to [Modern Experience](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).</span></span>
+- <span data-ttu-id="db2c9-120">Pogledajte [SharePoint Classic i Modern je iskustvo](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).</span><span class="sxs-lookup"><span data-stu-id="db2c9-120">See [SharePoint Classic and Modern experiences](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).</span></span> 
 
-- <span data-ttu-id="8b645-107">Dodatne informacije o povezivanju s Office 365 grupe i izvršavanju grupi veza pogledajte [Povezivanje s Office 365 grupe](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span><span class="sxs-lookup"><span data-stu-id="8b645-107">For more information about connecting to an Office 365 group and performing a group-connection, see [Connect to an Office 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span></span>
+
+
+
