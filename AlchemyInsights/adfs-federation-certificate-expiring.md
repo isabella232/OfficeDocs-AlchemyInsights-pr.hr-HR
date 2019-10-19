@@ -1,5 +1,5 @@
 ---
-title: ADFS Federacija istječu certifikata
+title: ADFS Federacija certifikata istječe
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
 ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737181"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>ADFS Federacija istječu certifikata
+# <a name="adfs-federation-certificate-expiring"></a>ADFS Federacija certifikata istječe
 
 Da biste riješili taj problem, slijedite ove korake:
   
-1. Na računalo instalirajte na Microsoft Azure Active Directory modul za Windows PowerShell (Ako već nije instaliran modul). Da biste to učinili, prijeđite na [Upravljanje Azure AD pomoću Windows PowerShell](https://aka.ms/aadposh).
+1. Instalirajte Microsoft Azure Active Directory modul za Windows PowerShell na računalu (ako modul nije već instaliran). Da biste to učinili, idite na [Upravljanje uslugom Azure ad pomoću sustava Windows PowerShell](https://aka.ms/aadposh).
 
-2. Slijedite korake u u "scenariju 1: ADFS token potpisni certifikat istekao" sekcije ["Došlo je do problema prilikom pristupa web-mjestu" Pogreška iz ADFS kada vanjsko korisnik potpiše Office 365, Azure, ili Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Slijedite korake u odjeljku "scenarij 1.: istekao je rok valjanosti certifikata potpisa AD FS-a" u sekciji ["došlo je do problema pri pristupu web-mjestu" od AD FS-a kada se vanjski korisnik prijavljuje u Office 365, Azure ili Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
 
-3. Slijedite korake u [Ažuriranje ili popravak postavke vanjsko domene u Office 365, Azure ili Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
+3. Slijedite korake u [ažuriranju ili popravite postavke savezne domene u sustavu Office 365, Azure ili Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
 
-    Da biste saznali više o obnavljanje certifikata Federacija pogledajte [Obnovi Federacija potvrde za Office 365 i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Da biste saznali više o obnavljanju certifikata Federacije, pogledajte [obnavljanje federacijskih certifikata za Office 365 i Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

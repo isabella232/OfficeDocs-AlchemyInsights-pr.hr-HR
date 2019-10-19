@@ -1,5 +1,5 @@
 ---
-title: Zamijeni vaš Classic korijensko web-mjesto s Moderna web-mjesta
+title: Zamijenite svoju klasični root stranicu s modernim stranicama
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -13,30 +13,30 @@ ms.custom:
 - "9000687"
 - "2579"
 ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36749252"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Zamijeni vaš Classic korijensko web-mjesto s Moderna web-mjesta
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Zamijenite svoju klasični root stranicu s modernim stranicama
 
-Ako je vaše okruženje postavljena prije Travanj 2019 korijensko web-mjesto možete promijeniti Moderna web-mjesta pomoću Microsoft PowerShell:
+Ako je vaša okolina postavljena prije travnja 2019, možete promijeniti korijensko web-mjesto na moderno web-mjesto pomoću Microsoft PowerShell:
 
-- Ako imate različite web-mjesta koje želite koristiti kao korijen web-mjesta, s njim možete zamijeniti [(Zamijeni) korijensko web-mjesto](https://docs.microsoft.com/sharepoint/modern-root-site) . 
-    - Koristite [Pozovite SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) Zamijeni mjesto web-mjesta s drugog web-mjesta vrijeme arhiviranja izvornog web-mjesta. Dostupno za timskog web-mjesta (nije povezano s grupom) i komunikacije web-mjesta. 
+- Ako imate drugo web-mjesto koje želite koristiti kao root web-mjesto, možete zamijeniti [(swap) root web-mjesto](https://docs.microsoft.com/sharepoint/modern-root-site) s njom. 
+    - Pomoću poziva [-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) zamijenite mjesto web-mjesta s drugim web-mjestom dok arhivirate originalno web-mjesto. Dostupno i za timsko web-mjesto (nije povezano s grupom) i web-mjesto komunikacije. 
 
-- Dodatne mogućnosti će biti uvedene uskoro koji će vam omogućiti zadržati pomoću sadržaja na web-mjestu, ali pretvaranje postojećeg web-mjesta komunikacije web-mjesta. 
+- Uskoro će se uvesti dodatne mogućnosti koje će vam omogućiti da nastavite koristiti sadržaj na web-mjestu, ali pretvorite postojeće web-mjesto na web-mjesto komunikacije. 
 >[!Important]
->Ove mogućnosti će biti poslednjeg postupno. Nastavite provjerite Office 365 poruku centar za ažuriranja. 
+>Ove mogućnosti će se postupno isvaljivati. Nastavite provjeriti Office 365 Message Center za ažuriranja. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Poznati problemi s zamjene web-mjesta
 
-- Ciljno mjesto može vratiti "nije pronađen" Pogreška (HTTP 404) za kratkog vremenskog razdoblja.
-- Sadržaj će morati biti ponovno pretražiti da radi indeksiranja da biste ažurirali indeks pretraživanja. Postoji bez ručnog korak potreban - to će učiniti automatski.
-- Ništa zavise "statički" veze (poput datoteka sinkronizacije datoteka i OneNote) morat ćete ručno ispraviti.
-- Izvorišnog web-mjesta je organizacijske vijesti, ažurirajte URL.Nabavite popis svih web-mjesta organizacijske vijesti.
-- Web-mjesta Project Server možda morati provjeriti da biste bili sigurni da su i dalje povezani ispravno.
+- Ciljno web-mjesto može vratiti pogrešku "nije pronađeno" (HTTP 404) u kratkom vremenskom razdoblju.
+- Sadržaj će se morati obnoviti za ažuriranje indeksa pretraživanja. Nema ručnog koraka potreban-to će biti učinjeno automatski.
+- Sve što ovisi o "statičkim" vezama (kao što su datoteka Sync i OneNote datoteke) morat će se ručno ispraviti.
+- Ako je izvorna web-lokacija web-mjesta interesne grupe, ažurirajte URL.Nabavite popis svih web-mjesta organizacijskih vijesti.
+- Možda će biti potrebno provjeriti web-mjesta Project Servera kako bi se osiguralo da su još uvijek ispravno povezane.
 
 
 

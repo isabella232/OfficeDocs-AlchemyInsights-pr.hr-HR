@@ -14,10 +14,10 @@ ms.custom:
 - "2004"
 ms.assetid: ''
 ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556520"
 ---
 # <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Kako izbrisati mapu u programu Outlook na webu
@@ -26,5 +26,5 @@ ms.locfileid: "36556520"
 2. Odaberite **Izbriši mapu**.
 3. Odaberite **u redu** da biste potvrdili.
 
-Da biste saznali više, pogledajte [Rad s mapama poruku u programu Outlook na webu](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Da biste saznali više, pogledajte [rad s mapama poruka u programu Outlook na webu](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

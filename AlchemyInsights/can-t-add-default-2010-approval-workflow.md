@@ -1,5 +1,5 @@
 ---
-title: Nije moguće dodati zadani tijek rada za odobrenje 2010
+title: Nije moguće dodati zadani 2010 tijek rada za odobrenje
 ms.author: pebaum
 author: Techwriter40
 ms.date: 1/28/2019
@@ -13,17 +13,17 @@ ms.custom:
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
 ms.openlocfilehash: d5486e218e9b6e3d632330bcc3a64b7b87952581
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36747668"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a>Nije moguće dodati zadani tijek rada za odobrenje 2010
+# <a name="cant-add-default-2010-approval-workflow"></a>Nije moguće dodati zadani 2010 tijek rada za odobrenje
 
-U zbirke web-mjesta Microsoft SharePoint globalno ponovno iskoristiv tijek rada (na primjer "odobrenje - SharePoint 2010") ne može dodati na popis ili biblioteku. Tijek rada za odobrenje možda nedostaju. Da biste riješili taj problem, pogledajte [nije moguće dodati globalno ponovno iskoristiv tijeka rada na SharePoint popis ili biblioteku](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
+U zbirci web-mjesta programa Microsoft SharePoint ne možete dodati globalni tijek rada koji se može ponovno koristiti (kao što je "odobrenje-SharePoint 2010") na popis ili biblioteku. Možda nedostaje tijek rada za odobrenje. Da biste riješili taj problem, pogledajte [nije moguće dodati globalni tijek rada za višekratnu upotrebu u SharePoint popis ili biblioteku](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
 
-Za više informacija o tijek rada odobravanja vidjeti [sve o procesima odobrenja](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
+Dodatne informacije o odobrenjima tijeka rada potražite [u svim radnim tijekovima odobrenja](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
  
-Saznajte više o [Moderna odobravanja u protoku](https://flow.microsoft.com/blog/introducing-modern-approvals). 
+Saznajte više o [modernim odobrenjima u tijeku](https://flow.microsoft.com/blog/introducing-modern-approvals). 
   

@@ -1,5 +1,5 @@
 ---
-title: Tijek rada se pokreće
+title: Tijek rada se ne započinje
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,38 +13,38 @@ ms.custom:
 - "9000144"
 - "1670"
 ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738081"
 ---
-# <a name="workflow-is-not-starting"></a>Tijek rada se pokreće
+# <a name="workflow-is-not-starting"></a>Tijek rada se ne započinje
 
-- SharePoint 2010 i SharePoint 2013 tijekovi rada su početni.
+- Tijekovi rada sustava SharePoint 2010 i SharePoint 2013 se ne počinju.
 
-    - Ako vaš tijek rada se pokreće, možda postoji problem privremeni servis gdje korisnici primijetiti povremena kašnjenja s tijeku rada. Provjerite [Nadzorne ploče servis stanja sustava](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste vidjeli ako vaša organizacija utjecati.
+    - Ako se tijek rada ne započinje, možda postoji problem s privremenim servisima u kojem korisnici mogu doživjeti povremene odgode s napretkom tijeka rada. Provjerite je li vaša tvrtka ili ustanova utjecala na [nadzornu ploču za zdravstvenu službu](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) .
 
-    - Ako više od 24 sata prošlo Budući vidjeli taj problem, prijaviti ulaznica za podršku. U mnogim slučajevima smo već radite rješenje. Molimo pošaljite nam najmanje 24 sata dovršiti rješenje.
+    - Ako je prošlo više od 24 sata od kada ste prvi put vidjeli ovaj problem, molimo prijavite ulaznicu za podršku. U mnogim slučajevima već radimo na rješenju. Molim vas, dajte nam najmanje 24 sata da dovršimo rješenje.
 
-- Tijekovi rada SharePoint 2010 odgođeno na početak.
+- Tijekovi rada sustava SharePoint 2010 odgođeni na početku.
 
-    - To se događa ako se tijek rada pokrene u veliki serije. (na primjer, kada nekoliko stavke dodaju odjednom).
+    - To se događa ako se tijek rada aktivira u velikim serijama. (na primjer, kada se nekoliko stavki doda odjednom).
 
-    - Tijekovi rada su dizajnirani za pokretanje u stvarnom vremenu, pa je kašnjenje ponašanje po dizajna.
+    - Tijekovi rada nisu dizajnirani za izvođenje u realnom vremenu, tako da je odgoda po dizajnu ponašanje.
 
-   -  Ako je tijek rada složene Extensible objekt Markup Language (XMOL), kompiliranja može biti sporo. Provjerite [u ovom](https://support.microsoft.com//kb/3043697) članku.
+   -  Ako je tijek rada složen Extensible Object Markup Language (XMOL), kompilacija može biti spora. Provjerite [ovaj](https://support.microsoft.com//kb/3043697) članak.
 
-    - Trebali biste pojednostavili tijek rada ili redizajnirati ga pomoću vrsta platforme Microsoft SharePoint 2013 tijeka rada.
+    - Trebali biste pojednostavniti tijek rada ili ga redizajnirati pomoću vrste platforme Microsoft SharePoint 2013 workflow.
 
-    - Ako povijest tijeka rada postala velik, možda želite Pročisti stavke ili stvoriti novi popis povijesti.
+    - Ako je vaša povijest tijeka rada narasla, možda želite očistiti stavke ili stvoriti novi popis povijesti.
 
-        Dodatne informacije: [Čišćenje povijesti tijeka rada](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Dodatne informacije: [čišćenje povijesti tijeka rada](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Povezane teme
-Želite li pokušajte Microsoft Flow u SharePoint Online?
-- [Stvaranje toka](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint i tijek](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Želite li isprobati Microsoft Flow u sustavu SharePoint Online?
+- [Stvori tok](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint i Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

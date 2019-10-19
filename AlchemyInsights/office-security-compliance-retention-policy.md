@@ -14,42 +14,42 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753752"
 ---
 # <a name="more-info-about-retention-policies"></a>Dodatne informacije o pravilima zadržavanja
 
-Za većinu organizacija, volumen i složenosti njihovih podataka povećava dnevno - e-pošta, dokumenti, izravnih poruka i više. Učinkovito upravljanje ili serijskog ove informacije je važna i pravila zadržavanja mogu vam pomoći u postizanju ovih ciljeva. Dodatne informacije o pravilima zadržavanja posjetite ove veze:
+Za većinu organizacija, volumen i složenost njihovih podataka povećava svakodnevno-e-poštu, dokumente, izravne poruke i još mnogo toga. Važno je učinkovito upravljati ili reguliraju te informacije, a pravila zadržavanja mogu vam pomoći u postizanju tih ciljeva. Za više informacija o pravilima zadržavanja, molimo posjetite ove veze:
 
-## <a name="a-from-security-and-compliance-center"></a>A) iz sigurnost i usklađenosti centar
+## <a name="a-from-security-and-compliance-center"></a>A) iz centra za sigurnost i usklađenost
 
-- Idi na sigurnost i usklađenosti > podataka governance > zadržavanja
-  - Pogledajte članak [THIS](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+- Idite na sigurnost i usklađenost > upravljanje podacima > zadržavanje
+  - Pogledajte [ovaj](https://docs.microsoft.com/office365/securitycompliance/retention-policies) članak
 
-- Idi na sigurnost i usklađenosti > eDiscovery> napredne predočavanja elektroničkih dokumenata 
-  - Pogledajte članak [THIS](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- Idi na sigurnost i usklađenost > eDiscovery> Advanced eDiscovery 
+  - Pogledajte [ovaj](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) članak
 
-- Idi na sigurnost i usklađenosti > klasifikacije > zadržavanja
-  - Potražite u člancima
-    - [Osjetljivost natpise](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- Idite na sigurnost i usklađenost > klasifikacije > zadržavanja
+  - Pogledajte ove članke
+    - [Oznake osjetljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Pregled naljepnica](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>B) police naslijeđeno predočavanja elektroničkih dokumenata
+## <a name="b-legacy-ediscovery-policies"></a>B) naslijeđene pravila za otkrivanje podataka
 
-- Pogledajte članak [THIS](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)
+- Pogledajte [ovaj](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) članak
 
-## <a name="c-site-closure-and-deletion-policies"></a>C) neradnog vremena i brisanje pravila web-mjesta
+## <a name="c-site-closure-and-deletion-policies"></a>C) pravila zatvaranja i brisanja web-mjesta
 
-- Pogledajte članak [THIS](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)  
+- Pogledajte [ovaj](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) članak  
 
-## <a name="d-information-rights-management-irm"></a>D) informacije Rights Management (IRM)
+## <a name="d-information-rights-management-irm"></a>D) upravljanje pravima na informacije (IRM)
 
-- Potražite u člancima
-  - [IRM na popisu/biblioteke](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [Pregled IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+- Pogledajte ove članke
+  - [IRM na popisu/biblioteci](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [Pregled IRM-om](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> Ne preporučujemo premještanje sigurnost i pravila usklađenosti Ako još uvijek koriste naslijeđeno predočavanja elektroničkih dokumenata ili IRM ili neradnog vremena web-mjesta i brisanje pravila.
+> Preporučujemo da se preselite u police za sigurnost i usklađenost ako još uvijek koristite Legacy Edisc, ili IRM ili zaštita web-mjesta i pravila brisanja.

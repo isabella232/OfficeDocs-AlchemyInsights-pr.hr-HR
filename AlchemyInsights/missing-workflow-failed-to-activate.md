@@ -1,5 +1,5 @@
 ---
-title: Nedostaje tijek rada nije uspio aktivirati
+title: Nestanak tijeka rada nije uspio aktivirati
 ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
@@ -9,36 +9,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
 ms.openlocfilehash: f03d7e1441465050c4b0608f4100f217b183d2e2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753788"
 ---
-# <a name="missing-workflow-failed-to-activate"></a>Nedostaje tijek rada nije uspio aktivirati
+# <a name="missing-workflow-failed-to-activate"></a>Nestanak tijeka rada nije uspio aktivirati
 
-U zbirke web-mjesta Microsoft SharePoint globalno ponovno iskoristiv tijek rada (na primjer "odobrenje - SharePoint 2010") ne može dodati na popis ili biblioteku.
+U zbirci web-mjesta programa Microsoft SharePoint ne možete dodati globalni tijek rada koji se može ponovno koristiti (kao što je "odobrenje-SharePoint 2010") na popis ili biblioteku.
   
 Da biste riješili taj problem, slijedite ove korake: 
   
-1. Otvorite web-mjesto korijena zbirke web-mjesta SharePoint Designer 2013.
+1. Otvorite korijensku web-lokaciju zbirke web-mjesta u programu SharePoint Designer 2013.
   
-2. Pod **Objekti web-mjesta**odaberite **tijekova rada**. 
+2. U odjeljku **objekti web-mjesta**odaberite **tijekove rada**. 
   
-3. U sekciji **Novo** vrpce **tijekove rada** , odaberite **Tijek rada za ponovno iskoristiv**. 
+3. U **novom** odjeljku vrpce **Tijekovi rada** odaberite **Ponovno iskoristiv tijek rada**. 
   
-4. **Stvaranje tijeka rada ponovno iskoristiv** obrascu unesite naziv ** *Repair2010* **. Za **Vrstu Platform**kliknite **Tijeka rada sustava SharePoint 2010**, a zatim kliknite **u redu**. 
+4. **Da biste** unijeli naziv * * *Repair2010* * *. Za **vrstu platforme**kliknite **SharePoint 2010 Workflow**, a zatim kliknite **u redu**. 
   
-1. U odjeljak **spremiti** vrpce **tijeka rada** odaberite **Objavi**. 
+1. U odjeljku **Spremi** na vrpci **tijeka rada** odaberite **Objavi**. 
   
-2. U odjeljku **Upravljanje** vrpce **tijeka rada** , odaberite **Objaviti globalno**. U dijaloškom okviru potvrda koja se pojavljuje odaberite **u redu**. 
+2. U odjeljku **Upravljanje** vrpcom **tijeka rada** odaberite **Objavi globalno**. U potvrdnom dijaloškom okviru koji se pojavi odaberite **u redu**. 
   
-3. U web-pregledniku, pronađite na web-mjestu korijena zbirke web-mjesta i pristup **Postavkama web-mjesta** \> **Značajke zbirke web-mjesta**. Zatim, Preklopi značajka **tijekova rada** : 
+3. U web-pregledniku Pronađite korijensku web-lokaciju zbirke web-mjesta, a zatim pristupite **značajkama zbirke web**-mjesta za **postavku** \> web-mjesta. Zatim uključite značajku **tijekova rada** : 
   
-· Značajka je *aktivirano* , kliknite **Deaktiviraj,** a zatim kliknite **Aktiviraj**. 
+· Ako je značajka *aktivirana* , kliknite " **Deaktiviraj",** a zatim kliknite " **Aktiviraj**". 
   
-· Značajka je *Deactivated* , kliknite **Aktiviraj**. 
+· Ako je značajka *deaktivirana* , kliknite **Aktiviraj**. 
   
-Za dodatne informacije pogledajte sljedeći [članak](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+Dodatne informacije potražite u sljedećem [članku](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 

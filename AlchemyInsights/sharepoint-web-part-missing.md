@@ -1,5 +1,5 @@
 ---
-title: Projekt Web App nedostaje iz zbirke web-mjesta sustava SharePoint
+title: Projekt web app nedostaje iz zbirke web-mjesta SharePoint
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
 ms.openlocfilehash: 8c749ce5f7e6a00b990ca387833fac90f4e2ce17
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36749648"
 ---
-# <a name="missing-web-part-in-sharepoint-site-collection"></a>Nedostaje web-dijela u zbirci web-mjesta sustava SharePoint
+# <a name="missing-web-part-in-sharepoint-site-collection"></a>Nedostaje web-dio u zbirci web-mjesta sustava SharePoint
 
-Ako nedostaju web-dio se koriste vide, moguće je pokušavate dodati [Klasični web-dijela na stranici Moderna](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Važno je da zabilježite Moderna stranica možete koristiti samo Moderna web-dijelova i classic stranica možete koristiti samo klasičnu web-dijelova. Mnogi Moderna web-dijelovi ispunjenje iste svrhe kao klasični web-dijelove, ali će vidjeti razlike u izgled i funkcionalnost.
+Ako vam nedostaje web-dio koji ste navikli vidjeti, moguće je da pokušavate dodati [klasični web-dio na modernu stranicu](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Važno je napomenuti da moderne stranice mogu koristiti samo moderne web-dijelove i klasične stranice mogu koristiti samo klasične web-dijelove. Brojni moderni web-dijelovi ispunjavaju iste namjene kao i klasični web-dijelovi, ali vidjet ćete razlike u izgledu i funkcionalnosti.
 
-Postoje mnogi web-dijelovi neće se prikazati zbog [postavka prilagođenu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), koji je onemogućen po zadanom na Moderna web-mjestima. 
+Postoji mnogo web-dijelova koji se ne prikazuju zbog [prilagođene postavke skripte](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), koja je prema zadanim postavkama onemogućena na modernim web-lokacijama. 
 
-Popis web-dijelova koji su nedostupni potražite, [značajke utjecati kada je blokirano prilagođene skripte](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
+Za popis web-dijelova koji nisu dostupni molimo pogledajte, [značajke zahvaćene kada je Prilagođena skripta blokirana](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
 
- Dodatne informacije o sigurnosnim pitanjima prilagođene skripte potražite [Sigurnosna razmatranja dopuštanja prilagođene skripte](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+ Dodatne informacije o sigurnosnim implikacijama prilagođene skripte potražite [u pogledu sigurnosnih razmatranja dopuštanja prilagođene skripte](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).

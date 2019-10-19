@@ -1,5 +1,5 @@
 ---
-title: Uloga Admin i kako dodijeliti
+title: Administratorska uloga i kako dodijeliti
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754076"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Naišli na probleme oblak servis?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Imate problema s Cloud uslugom?
 
-Ako imate problema s uslugom oblaka, možete provjeriti [servisa stanja](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) u centru za administraciju Microsoft 365 da biste utvrdili je li Poznati problem s razlučivosti u tijeku prije Nazovite podršku ili trošite vrijeme za otklanjanje poteškoća. Problem može biti vrlo privremene i već identificirani Microsoft, no možda postoje lapse u vrijeme između identifikacija problema i knjiženja servisa stanja nadzorne ploče. Nastavite provjerite nadzorne ploče servisa za daljnje ažuriranja.
+Ako imate problema s uslugom Cloud, možete provjeriti [zdravlje servisa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) u centru za administraciju tvrtke Microsoft 365 da biste utvrdili je li poznati problem s rezolucijom u tijeku prije nego što nazovete podršku ili provedete vrijeme otklanjanja poteškoća. To pitanje može biti vrlo privremeno i već identificirano od strane Microsofta, međutim može doći do isteka vremena između identifikacije izdanja i knjiženja na nadzornu ploču za zdravlje usluga. Nastavite provjeravati nadzornu ploču servisa za daljnja ažuriranja.
 
-**Pravila za obavijesti**
+**Pravila obavješćivanja**
 
-Kada se pojavi incident servis Microsoft prepoznaje pravovremene, ciljane i točne komunikaciju su kritične za kupce. Microsoft obavještava Office 365 administratori ažuriranjem specifične za klijentske [Usluge stanja nadzorne ploče (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na administratorskog portala za Office 365. Na svaki sat cadence su pružene incident ažuriranja servisa ili, ako je potrebno različitih cadence, ga biti naveden u komunikacije knjiženja SHD. Za dodatne informacije pogledajte [kako provjeriti stanja servisa Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Kada dođe do incidenta s uslugom, Microsoft prepoznaje da su pravovremene, ciljane i točne komunikacije kritične za kupce. Microsoft obavještava Office 365 administratori ažuriranjem administratorski [usluge zdravstvene nadzorne ploče (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na Office 365 admin portal. Aktualizacija servisnih incidenata pruža se na kadencu po satu ili, ako je potrebna drugačija kadencija, to će biti navedeno u knjiženju SHD komunikacije. Dodatne informacije potražite u okviru [provjere sustava Office 365 usluge Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

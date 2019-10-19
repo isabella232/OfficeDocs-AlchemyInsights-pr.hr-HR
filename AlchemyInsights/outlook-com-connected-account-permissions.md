@@ -1,5 +1,5 @@
 ---
-title: 8000093 Outlook.com povezani račun dozvole
+title: 8000093 Outlook.com povezane dozvole računa
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.custom:
 - "1431"
 - "8000093"
 ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546871"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Kako popraviti "Čini smo nemate dozvolu"
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Kako popraviti "Izgleda da nemamo dozvolu"
 
-Ako vidite poruku o pogrešci "čini smo nemate dozvolu za e-poštu za dobivanje..." Molimo učinite sljedeće:
+Ako vidite poruku o pogrešci "Izgleda da nemamo dozvolu za dobiti e-poštu za..." učinite sljedeće:
 
-1. Otvorite [Postavke računa povezani](https://outlook.live.com/mail/options/mail/accounts) i uklonite ili izbrisati povezani račun navedene pogreške.
-2. Ponovno dodati račun povezan.
-3. Idite [poštanskog sandučića](https://outlook.live.com/mail/inbox).
+1. Otvorite [Postavke povezanog računa](https://outlook.live.com/mail/options/mail/accounts) i uklonite ili izbrišite povezani račun naveden u pogrešci.
+2. Ponovno dodajte povezani račun.
+3. [Vrati se u poštanski sandučić](https://outlook.live.com/mail/inbox).
 
-Može potrajati neko vrijeme za sve poruke e-pošte za ponovno sinkronizirati s povezanim računa.
+Možda će trebati neko vrijeme da se sve e-poruke ponovno sinkroniziraju s vašeg povezanog računa.
 
-Saznajte više o [Uklanjanje](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) i [Dodavanje](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) povezani računi.
+Saznajte više o [uklanjanju](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) i [dodavanju](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) povezanih računa.

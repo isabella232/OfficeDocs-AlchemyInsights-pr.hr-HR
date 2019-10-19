@@ -1,5 +1,5 @@
 ---
-title: 'OneDrive: Nedostaje datoteka ili mapa'
+title: 'OneDrive: datoteke ili mape koje nedostaju'
 ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
@@ -8,14 +8,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
 ms.openlocfilehash: 5c38d323bd021ded8eccb3f12a46c9d04a3bcd13
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753320"
 ---
-# <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: Otklanjanje 'Obrade promjene'
+# <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: otklanjanje poteškoća s "obradom Promjena"
 
-Ako vidite "Mijenja obrade" dulje vrijeme, može biti jer nemate mrežni otvaranje datoteke, mnogo datoteka zaglavljeni u red čekanja ili na vrlo velike datoteke sinkronizacije, pogledajte [OneDrive prestaje na obradu](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).
+Ako se tijekom duljeg vremenskog razdoblja vidi "obrada promjena", to bi moglo biti zato što imate otvorenu mrežnu datoteku, puno datoteka zaglavljenih u redu ili vrlo veliku sinkronizaciju datoteka, vidi da je [OneDrive zaglavljen na obradi](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).
 
-Čitanje u ovom članku da biste otklonili "Obrade promjene". Također ćete vidjeti ovu poruku ako imate datoteku koja mijenja vrijeme (kao Outlook. PST datoteke ili baze podataka). Naučite kako [premještati Outlookove podatkovne datoteke](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) koji koristite redovito iz OneDrive.
+Pročitajte ovaj članak za otklanjanje poteškoća "obrada promjena". Tu ćete poruku vidjeti i ako imate datoteku koja se mijenja cijelo vrijeme (kao što je Outlook. PST datoteku ili bazu podataka). Naučite kako [premjestiti podatkovne datoteke programa Outlook](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) koje redovito upotrebljavate iz servisa OneDrive.

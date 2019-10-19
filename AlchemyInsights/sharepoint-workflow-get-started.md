@@ -1,5 +1,5 @@
 ---
-title: Upoznavanje s programom SharePoint Online
+title: Početak rada sa sustavom SharePoint Online
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
 ms.openlocfilehash: 0b589888bed37a3733b6bf2148070b46ff874ddc
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36749576"
 ---
-# <a name="workflows-in-sharepoint"></a>Tijekovi rada u programu SharePoint
+# <a name="workflows-in-sharepoint"></a>Tijekovi rada u sustavu SharePoint
 
-Tijekovi rada u programu SharePoint dopustili modela i automatizirati poslovne procese. SharePoint podržava dva primarna tijeka rada razvojnom okruženju za autorizaciju tijekova rada: SharePoint Designer i Visual Studio. 
+Tijekovi rada u sustavu SharePoint omogućuju vam modeliranje i automatizacije poslovnih procesa. SharePoint podržava dva primarna okruženja za razvoj tijeka rada za autoriranje tijekova rada: SharePoint Designer i Visual Studio. 
 
-Pogledajte [SharePoint razvoj tijekova rada u programu SharePoint Designer i Visio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) ili [razviti SharePoint tokove posla i pomoću Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) procijeniti prednosti i nedostaci svakog od. 
+Pogledajte [razvoj tijekova rada sustava SharePoint u programu SharePoint Designer i visio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) ili [razvijete tijekove rada sustava SharePoint pomoću programa Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) za ocjenjivanje prednosti i nedostataka svakog od njih. 
 
-Nastojite određuju ako tijekovi rada su rješenja za korištenje u okruženju SharePoint ili su tražite opće informacije na prvi koraci, pogledajte [Pregled tijekova rada u programu SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).
+Ako pokušavate odrediti jesu li tijekovi rada rješenje za korištenje u vašem SharePoint okruženju ili tražite općenite informacije o početku, pogledajte [Pregled tijekova rada u sustavu SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).

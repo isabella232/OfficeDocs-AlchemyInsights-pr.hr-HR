@@ -1,5 +1,5 @@
 ---
-title: Vraćanje vaše OneDrive
+title: Vraćanje servisa OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
 ms.openlocfilehash: 2750a91a243543df073b016e41d3332a968123a1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36551659"
 ---
-# <a name="restore-your-onedrive"></a>Vraćanje vaše OneDrive
+# <a name="restore-your-onedrive"></a>Vraćanje servisa OneDrive
 
-Ako mnogo datoteka OneDrive Dohvati izbrisana, overwritted, oštećen ili zaražene zlonamjernog softvera, možete vratiti cijeli OneDrive prethodne vrijeme unutar zadnjih 30 dana.
+Ako se puno datoteka sa servisa OneDrive izbriše, prebriše, pokvari ili inficira zlonamjernim softverom, cijeli OneDrive možete vratiti u prethodno vrijeme u posljednjih 30 dana.
   
-1. Idi na OneDrive u web-pregledniku.
+1. Idite na OneDrive u web-pregledniku.
     
-2. Kliknite ikonu postavke u gornji desni kut, a zatim odaberite **vratiti vaše OneDrive**.
+2. Kliknite ikonu Postavke u gornjem desnom dijelu, a zatim odaberite **Vrati OneDrive**.
     
-3. Odaberite datum iz popisa ili odaberite **Prilagođeni datum i vrijeme**.
+3. Odaberite datum s popisa ili odaberite **prilagođeni Datum i vrijeme**.
     
-4. Kliknite da biste poništili sve aktivnosti nakon datuma odabrani **Vraćanje** . 
+4. Kliknite **Vrati** da biste poništili sve aktivnosti nakon odabranog datuma. 
     
-[Više pomoću vraćanja datoteka pomoći](https://go.microsoft.com/fwlink/?linkid=872874)
+[Više pomoći pri korištenju datoteka Restore](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

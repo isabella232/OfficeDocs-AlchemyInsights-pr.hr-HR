@@ -1,5 +1,5 @@
 ---
-title: Dobio pogreške 'Parametar nije moguće pronaći'?
+title: Nema pogreške "parametar nije moguće pronaći"?
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -12,20 +12,20 @@ ms.custom:
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
 ms.openlocfilehash: 5549801bfd0fd84c232f483f8d9fbd250c389aec
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36739845"
 ---
-# <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migracija e-pošte iz IMAP e-pošte sustava za Office 365
+# <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migracija e-pošte iz IMAP sustava e-pošte u Office 365
 
-Za migraciju e-pošte iz programa sustava pošte IMAP, slijedite ovaj postupak: [IMAP migracije u centru za administraciju Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
+Da biste migrirali e-poštu iz IMAP sustava e-pošte, slijedite ovaj proces: [IMAP migracija u Microsoft 365 Admin Center](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-Mnoge velike organizacije će morati pažljivo planirati za upravljanje očekivanja korisnika. [Što trebate znati o migraciji vaš IMAP poštanske sandučiće Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) članak pomoći će vam upravljanje promjena.
+Mnoge velike organizacije morat će pažljivo planirati upravljanje očekivanih korisnika. [Ono što trebate znati o migraciji IMAP poštanskog sandučića u Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) članak pomoći će vam u upravljanju promjenom.
 
-Također provjerite stranicu [prihvaćaju Office 365 s FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) uz pomoć operatera pomoć za migraciju, ako pravo.
+Molimo također provjerite [donijeti Office 365 s FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) stranicu za potpomognutu pomoć s migracijom, ako je prihvatljivo.
   
 
-Također provjerite stranicu [prihvaćaju Office 365 s FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) uz pomoć operatera pomoć za migraciju, ako pravo.
+Molimo također provjerite [donijeti Office 365 s FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) stranicu za potpomognutu pomoć s migracijom, ako je prihvatljivo.
   

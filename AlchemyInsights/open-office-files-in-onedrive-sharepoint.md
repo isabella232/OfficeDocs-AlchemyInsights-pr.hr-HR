@@ -1,5 +1,5 @@
 ---
-title: Otvaranje datoteke iz Sharepoint ili OneDrive problema
+title: Problemi s otvaranjem datoteka iz sustava SharePoint ili servisa OneDrive
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
 ms.openlocfilehash: 50a4888a3f8b366101cefeae6b382c728994d8a0
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753032"
 ---
-# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Otvaranje datoteke iz Sharepoint ili OneDrive problema 
+# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Problemi s otvaranjem datoteka iz sustava SharePoint ili servisa OneDrive 
 
 
-Ako imate problema s otvaranjem Office datoteka i dokumenata iz biblioteke dokumenata programa SharePoint ili OneDrive, Slijede neki prijedlozi možete riješiti ih.
+Ako imate problema s otvaranjem Officeovih datoteka i dokumenata iz biblioteka dokumenata sustava SharePoint ili OneDrive, evo nekoliko prijedloga koji će vam pomoći da ih popravite.
 
-- [Provjeri ograničenja datoteku da biste osigurali podržane datoteke](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [Provjerite ograničenja datoteka kako biste osigurali da je datoteka podržana](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- [Preuzimanje i provjerite oštećenje datoteke na lokalnom računalu](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
+- [Preuzimanje i provjera oštećenja datoteke na lokalnom računalu](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
 
-- [Brisanje vašeg predmemorije office document cache](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+- [Brisanje predmemorije Officeovog dokumenta](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
 
-- [Pokrenite popravak na Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [Pokreni popravak na Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-Za dodatne informacije ili pojedinosti provjerite članak [riješiti probleme otvaranje dokumenata u bibliotekama sustava SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
+Dodatne informacije ili pojedinosti potražite u članku [Rješavanje problema otvaranja dokumenata u SharePoint bibliotekama](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
 

@@ -1,5 +1,5 @@
 ---
-title: Dodavanje grupe web-mjesta sustava SharePoint
+title: Dodavanje grupe na SharePoint web-mjesto
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: 423db4e5bbb85e75aee3548d5b6b46a64ebc6fa0
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750512"
 ---
-# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Problemi kada stvaranja ili grupe povezani web-mjesta u SharePoint Online
+# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Problemi pri stvaranju ili grupiranju povezanih web-mjesta u sustavu SharePoint Online
 
-Postoji nekoliko uobičajenih problema naišao je na prilikom stvaranja ili ponovno stvaranje grupe povezani web-mjesta.
+Došlo je do nekoliko uobičajenih problema pri stvaranju ili ponovnom stvaranju grupe povezanog web-mjesta.
 
- Ako ste izbrisali grupu i njegovih povezanih web-mjesta i želite stvoriti drugu web-mjesta s istim URL, morat ćete trajno ukloniti prethodno web-mjesto.
+ Ako ste izbrisali grupu i njegovo povezano web-mjesto i želite stvoriti drugo web-mjesto s istim URL-om, morat ćete trajno ukloniti prethodno web-mjesto.
 
-Preuzimanje [SPO upravljanja ljuske](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+Preuzmite " [SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429) "
 
- Dodatne informacije na Uvod powershell potražite [Uvod u SharePoint Online ljuske za upravljanje](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
+ Dodatne informacije o početku rada s PowerShell potražite u nastavku [programa SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
 
-Uklanjanje web-mjesta iz izbrisane web-mjesta pomoću cmdleta [Ukloni-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) powershell.
+Uklonite web-mjesto iz izbrisanih web-mjesta pomoću cmdleta [Ukloni-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell.
 
-Ako izradi grupe povezanih web-mjesta i primiti upozorenje drugu grupu s iste alias već postoji, provjerite postojeće grupe iz [centra za administraciju sistema Office 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). Da biste riješili taj problem, izbrišite postojeće grupe ako više nije potrebna ili stvaranje web-mjesta s različitim Pseudonim dodijeljen.
+Ako stvarate grupnu povezanu stranicu i primite upozorenje druga grupa s istim pseudonimom već postoji, provjerite postojeće grupe iz [Office 365 iz centra za administraciju](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). Da biste riješili problem, izbrišite postojeću grupu ako više nije potrebna ili stvorite web-mjesto s dodijeljenim drugim pseudonimom.
 
-Stvaranje i korištenje Moderna grupe s SharePoint na različite načina.
+Postoje različiti načini stvaranja i korištenja modernih grupa u sustavu SharePoint.
 
-Postojeća web-mjesta možete se povezati s Office 365 grupe. Za dodatne informacije pogledajte [povezivanje programa Office 365 grupu pomoću ineterface korisnika SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+Postojeća web-mjesta možete povezati s Officeovom 365 grupom. Dodatne informacije potražite [u okviru Povezivanje grupe sustava Office 365 pomoću web-mjesta korisnika sustava SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
 
-Da biste stvorili programa Office 365 grupe povezanih web-mjesta, trebat ćete stvoriti web-mjesto tima. Dodatne informacije potražite u članku [Kreiranje web-mjesto tima u SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).
+Za stvaranje povezanog web-mjesta sustava Office 365, morat ćete stvoriti timsko web-mjesto. Dodatne informacije potražite [u okviru Stvaranje timskog web-mjesta u sustavu SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).
 

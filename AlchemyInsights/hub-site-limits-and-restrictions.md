@@ -1,5 +1,5 @@
 ---
-title: Ograničenja za web-mjesto koncentratora i ograničenja
+title: Ograničenja i ograničenja mjesta koncentratora
 ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
 ms.openlocfilehash: fa44561d2e49944d4f9de5995499a961faa2b07b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754688"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a>Ograničenja web-mjesta SharePoint koncentratora i ograničenja
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>Ograničenja i ograničenja web-mjesta središta sustava SharePoint
 
-- Preporuča se odabir komunikacije web-mjesta ili web-mjesto tima koji koristi novi predložak Moderna. Ako koristite klasični timskog web-mjesta, koncentrator navigacije će se pojaviti samo na stranicama Moderna i koncentrator postavke web-mjesta će se pojaviti samo na stranicama Moderna.
+- Preporučljivo je odabrati web-mjesto za komunikaciju ili timsko web-mjesto koje koristi novi moderni predložak. Ako koristite klasično timsko web-mjesto, navigacija koncentratora pojavit će se samo na modernim stranicama, a postavke koncentratora web-mjesta pojavit će se samo na modernim stranicama.
 
-- Web-mjesta koji su već pridružen drugom koncentrator **ne može** se pretvoriti u web-mjesto koncentratora.
+- Web-mjesta koja su već pridružena drugom koncentratoru **ne mogu** se pretvoriti u mjesto koncentratora.
 
-- Možete stvoriti do 100 mjesta koncentrator za svoju organizaciju. Nema ograničenja na broj web-mjesta mogu se pridružiti web-mjesto koncentratora.
+- Možete kreirati do 100 koncentratora mjesta za svoju organizaciju. Nema ograničenja na broj web-mjesta koja se mogu povezati s web-mjestom koncentratora.
 
-- Kada korisnici pridružiti svojim mjestima web-mjesto koncentratora, ne posljedice dozvole za web-mjesto koncentratora ili povezana web-mjesta. Važno je da provjerite dopuštaju pridruživanje mjesta koncentrator svi korisnici imaju dozvolu za koncentrator.
+- Kada korisnici povezuju svoja web-mjesta s mjestom koncentratora, ona ne utječe na dozvole mjesta koncentratora ili pridruženih web-mjesta. Važno je osigurati da svi korisnici kojima dopuštate povezivanje web-mjesta u Hub imaju dozvolu za koncentrator.
 

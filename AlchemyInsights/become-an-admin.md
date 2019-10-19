@@ -1,5 +1,5 @@
 ---
-title: Postaju programa Admin
+title: Postanite administrator
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 4/6/2018
@@ -13,14 +13,14 @@ ms.custom:
 - "71"
 - "13"
 ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736893"
 ---
-# <a name="become-an-admin"></a>Postaju programa Admin
+# <a name="become-an-admin"></a>Postanite administrator
 
-Pretpostavlja da admin uloga za ovu organizaciju, morate poduzeti preko na klijentske.
+Da biste preuzimali administratorsku ulogu za ovu organizaciju, morate preuzeti zakupca.
   
-Slijedite upute u ovom vodiču: [učinite admin takeover u Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)
+Slijedite upute u ovom vodiču: [učiniti admin preuzimanje u Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)

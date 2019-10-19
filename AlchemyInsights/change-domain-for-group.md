@@ -1,5 +1,5 @@
 ---
-title: Promjena domenu Office 365 grupe
+title: Promjena domene za Office 365 Group
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
 ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736821"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Promjena domenu Office 365 grupe
+# <a name="change-the-domain-for-office-365-group"></a>Promjena domene za Office 365 Group
 
-Ako želite promijeniti domene za Office 365 grupno tijekom stvaranja, slijedite korake u [Odaberite domena koristiti prilikom stvaranja grupe za Office 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Ako želite promijeniti domenu za Office 365 Group tijekom stvaranja, slijedite korake u [Odaberite domenu koja će se koristiti prilikom kreiranja Office 365 grupa](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-Nakon Office 365 grupe već stvorili, trenutno ne postoji način za promjenu domene. Jedini način je stvaranje nove grupe Office 365 i ako je potrebno izbrisati staru (kroz [Centar za administraciju sustava Exchange](https://outlook.office365.com/ecp.aspx)mogu se dodati adrese e-pošte dodatne).
+Nakon što je Office 365 Group već stvorena, trenutno ne postoji način za promjenu domene. Jedini način je da stvorite novu grupu sustava Office 365 i izbrišete staru ako je potrebno (Dodatne adrese e-pošte mogu se dodati putem [centra za administraciju sustava Exchange](https://outlook.office365.com/ecp.aspx)).

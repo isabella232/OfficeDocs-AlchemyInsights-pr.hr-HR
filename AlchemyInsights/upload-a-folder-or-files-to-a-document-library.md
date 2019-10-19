@@ -1,5 +1,5 @@
 ---
-title: Prenesi mape ili datoteke u biblioteku dokumenata
+title: Prijenos mape ili datoteka u biblioteku dokumenata
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36532611"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Prenesi mape ili datoteke u SharePoint biblioteku dokumenata
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Prijenos mape ili datoteka u biblioteku dokumenata sustava SharePoint
 
-Prenijeti u mapu, morate koristiti Microsoft Edge, Google vizualnog ili Mozilla FireFox. Ne može prenijeti mape u doživljaj klasični biblioteku ili pomoću Internet Explorer 10 ili 11.
+Da biste prenijeli mapu, morate koristiti Microsoft Edge, Google Chrome ili Mozilla FireFox. Ne možete učitati mape u klasičnom iskustvu biblioteke ili pomoću preglednika Internet Explorer 10 ili 11.
   
-1. Otvorite biblioteku dokumenata gdje želite prenijeti mape ili datoteke.
+1. Otvorite biblioteku dokumenata u koju želite prenijeti mapu ili datoteke.
     
-2. Otvorite Explorer datoteku na računalo i Pregledaj mape ili datoteke koje želite prenijeti.
+2. Otvorite eksplorer za datoteke na računalu i potražite mapu ili datoteke koje želite prenijeti.
     
-3. Povucite mape ili datoteke u biblioteku dokumenata. Ako ne vidite artikle koji ste otpremili pojavljuju u biblioteci, osvježite stranicu. 
+3. Povucite mapu ili datoteke u biblioteku dokumenata. Ako ne vidite artikle koje ste prenijeli u biblioteci, osvježite stranicu. 
     
-Ako ne želite prenijeti povlačenjem stavki između windows, također možete koristiti gumb **prenijeti** u biblioteci dokumenata odaberite mapu ili datoteke koje želite prenijeti. 
+Ako ne želite učitati povlačenjem stavki između prozora, možete koristiti i gumb za **prijenos** u biblioteci dokumenata da biste odabrali mapu ili datoteke koje želite prenijeti. 
   
 

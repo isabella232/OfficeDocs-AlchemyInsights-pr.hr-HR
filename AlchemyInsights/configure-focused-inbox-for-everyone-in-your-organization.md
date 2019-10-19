@@ -1,5 +1,5 @@
 ---
-title: 912 Konfiguriraj Focused ulaznu poštu svima u organizaciji
+title: 912 konfiguriranje fokusirane ulazne pošte za sve u vašoj organizaciji
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738405"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Uključivanje fokusirana Primljeno ili isključiti za svakoga
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Uključivanje ili isključivanje fokusirane ulazne pošte za sve
 
-Za upute pogledajte [Konfigurirati fokusirana Primljeno svima u vašoj organizaciji](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
+Upute potražite u odjeljku [Konfiguriranje fokusirane ulazne pošte za sve u vašoj organizaciji](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**Napomena**: ovaj postupak zahtijeva Exchange Online PowerShell. Želite li učinite to u centru za administraciju Microsoft 365? [Glasujte ovdje!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Napomena**: ovaj postupak zahtijeva Exchange Online PowerShell. Želite li to učiniti u centru za administraciju Microsoft 365? [Glasajte ovdje!](https://go.microsoft.com/fwlink/p/?linkid=862489)

@@ -1,5 +1,5 @@
 ---
-title: Kalendar 1081 - RBA CatchAll
+title: 1081 kalendar-RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
 ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737613"
 ---
-# <a name="create-and-manage-room-mailboxes"></a>Stvaranje i upravljanje poštanskim sandučićima soba
+# <a name="create-and-manage-room-mailboxes"></a>Kreiranje poštanskog sandučića u sobi i upravljanje njima
 
-Za stvaranje i izmjenu poštanske sandučiće sobi, pogledajte [Stvaranje i upravljanje poštanskim sandučićima sobi](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Da biste kreirali i izmijenili poštanske sandučiće sobe, pogledajte [Stvaranje poštanskog sandučića sobe i upravljanje njima](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
 
-Dodatne informacije o sobi i opremu poštanski sandučići (poznate i kao resurs poštanske sandučiće) pogledajte [poštanske sandučiće prostora i opreme](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).
+Da biste saznali više o sandučićima soba i opreme (poznate i kao poštanski sandučići resursa), pogledajte [poštanske sandučiće sobe i opreme](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).

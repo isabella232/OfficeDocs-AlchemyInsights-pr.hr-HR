@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online ili OneDrive 'Postavljanje'
+title: SharePoint Online ili OneDrive ' postavka '
 ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
@@ -7,18 +7,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: f461759a8f9a1f98ea7c5937a9d79e8bc4ebbbda
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "1161"
+- "5200019"
+ms.openlocfilehash: f451b0ce99dece9e61285de0826e951793c7708f
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750440"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818850"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online ili OneDrive "Postavljanje"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online ili OneDrive "postavljanje"
 
-Kada korisnik doda postojeće klijentske Office 365, možda vidjeti SharePoint Online ili OneDrive za poslovne ikone navedeni kao "Postavljanje" dok dovršetka postupka dodjeljivanja resursa.
+Kada se korisnik doda postojećem sustavu Office 365, oni mogu vidjeti ikone sustava SharePoint Online ili OneDrive za tvrtke navedene kao "postavljanje" dok se ne dovrši postupak dodjele.
 
-Ako je prošlo je više od 24 sata od vidjeli taj problem, prijavite slučaj podršku.
+Ako je prošlo više od 24 sata od kada ste prvi put vidjeli taj problem, prijavite se slučaj podrške.
 
-Možemo razumjeti da 24 sata mogu prestati poput dugo vrijeme. U mnogim slučajevima smo već radite rješenje. Molimo pošaljite nam najmanje 24 sata dovršiti rješenje.
+Shvaćamo da 24 sata može izgledati kao dugo vremena. U mnogim slučajevima već radimo na rješenju. Molim vas, dajte nam najmanje 24 sata da dovršimo rješenje.
 

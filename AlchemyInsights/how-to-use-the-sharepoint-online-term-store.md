@@ -1,5 +1,5 @@
 ---
-title: Kako koristiti spremište termina Online SharePoint
+title: Kako koristiti spremište termina za SharePoint Online
 ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
@@ -12,17 +12,17 @@ ms.custom:
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
 ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754832"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Kako koristiti spremište termina Online SharePoint
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Kako koristiti spremište termina za SharePoint Online
 
-Spremište termina je dostupan za administraciju sistema Office 365 globalne, SharePoint administraciju i administratori spremišta termina i može se pronaći u novi SharePoint Online admin centar.
+Spremište termina dostupno je za administratore sustava Office 365 Global admin, SharePoint admin i web-spremište termina te se može pronaći u novom centru za administraciju sustava SharePoint online.
   
-Dodatne informacije o kako koristiti spremište termina SharePoint Online i taksonomije unutar SharePoint Online potražite [Uvod u upravljanih metapodataka](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Dodatne informacije o korištenju spremišta termina sustava SharePoint online i taksonomije unutar sustava SharePoint Online potražite [u uvodu upravljanim metapodacima](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-Ako imate problema s uvjetima ne pojavljuju ili pojavljuje povremeno, preporučujemo Pričekajte 24 sata, a prijavu zahtjeva za podrškom ako se problem pojavljuje. Iako 24 sata mogu biti dugo, može biti spremanja problem ili smo možda već radi na rješenje za ovaj problem.
+Ako imate problem s izrazima koji se ne pojavljuju ili se pojavljuju povremeno, preporučujemo da pričekate 24 sata, a zatim prijavite zahtjev za podrškom ako se problem nastavi. Iako 24 sata može biti dugo vremena, može biti problem predmemoriranja ili možda već radimo na rješenju ovog problema.
   

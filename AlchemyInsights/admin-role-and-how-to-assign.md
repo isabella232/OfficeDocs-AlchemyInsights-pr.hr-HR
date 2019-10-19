@@ -1,5 +1,5 @@
 ---
-title: Uloga Admin i kako dodijeliti
+title: Administratorska uloga i kako dodijeliti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,19 +14,19 @@ ms.custom:
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737073"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Što su admin uloge i kako učiniti dodijelite ih?
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Koje su administratorske uloge i kako ih dodjeljujete?
 
-Izgleda kao da su neka pitanja o admin uloge. Ti članci treba odgovoriti na vaša pitanja.
+Čini se da imate neka pitanja o administratorskim ulogama. Ovi članci bi trebali odgovoriti na sva vaša pitanja.
   
-- [O ulogama admin](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- [O administratorskim ulogama](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [Dodijelite uloge admin](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
+- [Dodjela administratorskih uloga](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-Niste odgovoriti na vaše pitanje? Nema frke! Koristite mogućnost "nam povratni poziv," razgovarati inženjeru za podršku.
+Nisi odgovorio na pitanje? Nema frke! Upotrijebite opciju "Nazovimo vas" kako biste razgovarali s inženjerom podrške.
   

@@ -1,5 +1,5 @@
 ---
-title: Promijenite naziv domene u SharePoint Online
+title: Promjena naziva domene u sustavu SharePoint Online
 ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
@@ -12,19 +12,19 @@ ms.custom:
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
 ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36747632"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Promijenite naziv domene u SharePoint Online
+# <a name="change-domain-name-in-sharepoint-online"></a>Promjena naziva domene u sustavu SharePoint Online
 
-Nažalost, nije moguće promijeniti SharePoint Online naziv domene za vašu organizaciju u sustavu Office 365. Na primjer, ako naziv organizacije mijenja iz "Contoso" "Četvrti Kava", nije moguće promijeniti contoso.sharepoint.com fourthcoffee.sharepoint.com.
+Nažalost, nije moguće promijeniti naziv domene SharePoint Online za vašu organizaciju u sustavu Office 365. Na primjer, ako se naziv vaše organizacije mijenja iz "contoso" u "Četvrta kava", ne možete contoso.sharepoint.com promijeniti u fourthcoffee.sharepoint.com.
   
-Da biste koristili fourthcoffee.sharepoint.com naziv domene, morate kupiti novu pretplatu Office 365 i premjestiti sve e-pošte, datoteka i drugih podataka koje želite zadržati za novu pretplatu.
+Da biste koristili naziv domene fourthcoffee.sharepoint.com, morat ćete kupiti novu pretplatu na Office 365 i premjestiti svu e-poštu, datoteke i sve druge podatke koje želite zadržati na novoj pretplati.
   
- **Napomena**: na primjer, za promjenu naziva web-mjesta iz https://contoso.sharepoint.com/sites/sample1 za https://contoso.sharepoint.com/sites/sample2, stvorite novo web-mjesto i premještanje sav sadržaj iz starog web-mjesta novi.
+ **Napomena**: na primjer, da biste promijenili naziv web-mjesta https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2, stvorite novo web-mjesto, a zatim premjestite sav sadržaj s starog web-mjesta na novi.
   
-Info o premještanju stavki u bibliotekama dokumenata, pogledajte [premjestiti ili kopirati stavke iz SharePoint biblioteke dokumenata](https://go.microsoft.com/fwlink/?linkid=2025831).
+Informacije o premještanjem stavki u bibliotekama dokumenata potražite u nastavku podataka o [preseljenom ili kopaciji artikala iz biblioteke dokumenata sustava SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
   

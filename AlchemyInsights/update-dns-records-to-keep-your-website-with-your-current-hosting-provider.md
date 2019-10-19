@@ -1,5 +1,5 @@
 ---
-title: Ažuriranje zapisa DNS zadržati svoje web-mjesto s trenutnom pružatelju usluge
+title: Ažurirajte DNS zapise kako biste svoju web-lokaciju održali s trenutnim davatelja hosting
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
 ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36742254"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Ažuriranje zapisa DNS zadržati svoje web-mjesto s trenutnom pružatelju usluge
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Ažurirajte DNS zapise kako biste svoju web-lokaciju održali s trenutnim davatelja hosting
 
-Kao dio procesa drugom pružatelju usluge premještanja vaše Office 365 javne web-ćete vjerojatno morati promjene zapisa domene.
+Kao dio procesa premještanja Office 365 javnog web-mjesta na drugog davatelja hosting, vjerojatno ćete morati promijeniti svoje zapise domene.
   
-1. U centru za administraciju idite na **Postavljanje** \> **domena** i odaberite naziv domene koju želite promijeniti.
+1. U centru za administraciju idite na domene **postavljanja** \> **** i odaberite naziv domene koji želite promijeniti.
 
-2. Unesite informacije koje poravnava web-mjesto s novim pružatelju usluge.
+2. Unesite informacije koje se na web-lokaciju poravnava s novim davatelju usluga hosting.
 
-Da biste saznali više, pogledajte [ažuriranje DNS zapisa da biste zadržali web-mjesto s trenutnom pružatelju usluge](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
+Da biste saznali više, pogledajte [Ažuriranje DNS zapisa kako biste mogli zadržati svoju web-lokaciju s trenutnim davatelja hosting](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
   
-Da biste saznali više o discontinuation javnog web-mjesta, pogledajte [SharePoint Online javnim web-mjestima se više ne postoje](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).
+Da biste saznali više o prekidu javnog web-mjesta, pogledajte [SharePoint Online javna web-mjesta za](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)prekid.

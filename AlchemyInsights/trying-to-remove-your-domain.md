@@ -12,17 +12,17 @@ ms.custom:
 - "28"
 - "9"
 ms.openlocfilehash: a1ea38d29ff31e13fbcee0f18acb5627599a4be6
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36742545"
 ---
 # <a name="trying-to-remove-your-domain"></a>Pokušavate li ukloniti domenu?
 
-Za uklanjanje vaše domene iz Office 365, slijedite korake u ovom članku: [uklanjanje domena iz Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
+Da biste uklonili domenu iz sustava Office 365, slijedite korake u ovom članku: [Uklonite domenu iz sustava office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
   
-Morate ažurirati korisnike ili grupe koje su dodijeljene tom naziv domene prije uklanjanja domene.
+Morat ćete ažurirati sve korisnike ili grupe koje su dodijeljene tom nazivu domene prije nego što uklonite domenu.
   
-[Provjerite članak domena](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) za druge uobičajene rješenja.
+[Provjerite domene članak](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) za druga uobičajena rješenja.
   

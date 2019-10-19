@@ -1,5 +1,5 @@
 ---
-title: Uvjeti nedostaju iz spremišta termina Online SharePoint
+title: Uvjeti koji nedostaju iz spremišta termina SharePoint Online
 ms.author: pebaum
 author: Techwriter40
 ms.date: 10/30/2018
@@ -12,15 +12,15 @@ ms.custom:
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
 ms.openlocfilehash: edca68b2b5bf0b2d3de0f8a921d42868729aefca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36749144"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Uvjeti nedostaju iz spremišta termina Online SharePoint
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Uvjeti koji nedostaju iz spremišta termina SharePoint Online
 
-Uvjete u SharePoint neće se pojaviti pojam dućana su očekuje da biste vidjeli ili se povremeno pojavljuju.
+Uvjeti u trgovini programa SharePoint Online Term koji očekujete neće se prikazivati ili se povremeno prikazuju.
   
-Ako je prošlo je više od 24 sata od vidjeli taj problem, prijavite slučaj podršku. Možemo razumjeti da 24 sata mogu prestati poput dugo vrijeme. U mnogim slučajevima smo već radite rješenje pa ponovo pošaljite nam najmanje 24 sata.
+Ako je prošlo više od 24 sata od kada ste prvi put vidjeli taj problem, prijavite se slučaj podrške. Shvaćamo da 24 sata može izgledati kao dugo vremena. U mnogim slučajevima, već radimo na rješenju, pa nas molimo da nam date najmanje 24 sata.
   

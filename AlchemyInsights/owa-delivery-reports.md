@@ -1,5 +1,5 @@
 ---
-title: Izvješća o nemogućnosti isporuke u programu Outlook na webu
+title: Izvješća o neisporuci u programu Outlook na webu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 1b39decd55f0bf63746a28866f880d42dd4d3001
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557097"
 ---
-# <a name="issues-with-email-delivery"></a>Problemi s isporuke e-pošte
+# <a name="issues-with-email-delivery"></a>Problemi s dostavom e-pošte
 
-Kada postoji problem dostava ste poslali poruku e-pošte, Office 365 šalje e-poštu kako biste znali. Primite e-pošte je obavijest isporuke stanja, poznata i kao DSN ili Odskočne poruku. Većinu uobičajenih vrsta zove izvještaj o neuspjeloj isporuci (NDR), koji vam govori poruka nije isporučena. Nemogućnosti isporuke mogu biti uzrokovani nešto jednostavno kao gramatičkih pogrešaka u adresu e-pošte. Engl uključuju kod pogreške koja pokazuje Zašto nije isporučena e-pošte, rješenja da biste dobili e-pošte isporučena, vezu više pomoći na web i tehničke pojedinosti za administratore.
+Kada postoji problem s dostavljanjem poruke e-pošte koju ste poslali, Office 365 šalje poruku e-pošte da biste znali. E-pošta koju primite je obavijest o statusu isporuke, također poznata kao DSN ili bounce poruka. Najčešći tip naziva se izvješće o neisporuci (NDR), što vam govori da poruka nije isporučena. Neisporuka može biti uzrokovana nečim jednostavnim kao što je pogreška u e-adresi. NDRs uključuju kôd pogreške koji pokazuje zašto vaša e-pošta nije isporučena, rješenja koja vam pomažu u isporuci e-pošte, vezu do dodatne pomoći na webu i tehničke pojedinosti za administratore.
 
-Da biste vidjeli popis engl i Saznajte zašto poruka nije isporučena, pogledajte [e-pošte o neuspjeloj isporuci izvješća u sustavu Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Da biste vidjeli popis NDRs-a i saznali zašto vaša poruka nije isporučena, pogledajte [izvješća o neisporuci e-pošte u sustavu Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
