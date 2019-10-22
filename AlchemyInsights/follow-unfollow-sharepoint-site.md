@@ -1,26 +1,26 @@
 ---
-title: Slijedite ili poništavanje slijedite SharePoint web-mjesta
+title: Praćenje ili nepraćenje SharePoint web-mjesta
 ms.author: pebaum
-author: Techwriter40
+author: v-miegge
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
+ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755696"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "37611689"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Slijedite ili poništavanje slijedite SharePoint web-mjesta
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Praćenje ili nepraćenje SharePoint web-mjesta
 
-Slijedite web-mjesta koja vas zanima SharePoint na više načina. To će omogućuju jednostavno pronaći web-mjesto na popis i omogućuju da biste vidjeli aktivnost iz web-mjesta. 
+Postoji više načina za pronalaženje i praćenje web-mjesta, vijesti i sadržaja koji vas zanimaju u sustavu SharePoint. To će vam omogućiti da jednostavno pronađete informacije na popisu i dopustite vam da vidite aktivnost iz sustava SharePoint.
 
-Gledanje videozapisa [slijedite SharePoint web-mjesta](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
+Pogledajte videozapis kako biste [pronašli i pratili web-mjesta i vijesti](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
 
-Ako ne pratite ili poništavanje slijedite web-mjesta i napipati rezultati nisu očekivanim pogledajte problem povezan jedan korisnik ili sve korisnike unutar organizacije. Ako svi korisnici naišao je na problem, možda postoji problem privremeni servisa. 
+Ako ne možete pratiti ili neslijediti web-mjesto, vijesti ili sadržaj i osjetite da rezultati nisu očekivani, pogledajte je li problem povezan s jednim korisnikom ili svim korisnicima unutar vaše organizacije. Ako se problem susreće sa svim korisnicima, možda postoji problem s privremenim servisom.
 
-Provjerite [Nadzorne ploče servis stanja sustava](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste vidjeli ako vaša organizacija utjecati.
+Provjerite je li vaša tvrtka ili ustanova utjecala na [nadzornu ploču za zdravstvenu službu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) .
