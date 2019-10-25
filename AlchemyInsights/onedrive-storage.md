@@ -1,5 +1,5 @@
 ---
-title: OneDrive spremišta
+title: Pohrana na servisu OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661036"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658285"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="f5cb3-102">Upravljanje OneDrive spremišta</span><span class="sxs-lookup"><span data-stu-id="f5cb3-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="48ffa-102">Upravljanje pohrani na servisu OneDrive</span><span class="sxs-lookup"><span data-stu-id="48ffa-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="f5cb3-103">Za promjenu zadanog spremišta za nove i postojeće korisnike OneDrive:</span><span class="sxs-lookup"><span data-stu-id="f5cb3-103">To change the default storage for new and existing OneDrive users:</span></span>
-  
-- <span data-ttu-id="f5cb3-104">Idite na [pohranu stranice administracije centra OneDrive](https://admin.onedrive.com/?v=StorageSettings)i zatim unesite novi iznos u GB.</span><span class="sxs-lookup"><span data-stu-id="f5cb3-104">Go to the [Storage page of the OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), and then enter a new amount in GB.</span></span>
+<span data-ttu-id="48ffa-103">Prostor za pohranu na servisu OneDrive ne broji se prema ukupnoj kvoti klijenta.</span><span class="sxs-lookup"><span data-stu-id="48ffa-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
 
-<span data-ttu-id="f5cb3-105">Ovu postavku prostora za pohranu primjenjuje se na sve korisnike kojima niste postavite određene pohranu ograničenja.</span><span class="sxs-lookup"><span data-stu-id="f5cb3-105">This storage space setting applies to all users for whom you haven't set specific storage limits.</span></span> <span data-ttu-id="f5cb3-106">Da biste promijenili prostor za pohranu za određene korisnike, morate koristiti Microsoft PowerShell.</span><span class="sxs-lookup"><span data-stu-id="f5cb3-106">To change the storage space for specific users, you need to use Microsoft PowerShell.</span></span> <span data-ttu-id="f5cb3-107">Za informacije o tome kako to učiniti, pogledajte [promijeniti vaši korisnici OneDrive prostora koristite PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span><span class="sxs-lookup"><span data-stu-id="f5cb3-107">For information on how to do this, see [Change your users' OneDrive storage space using PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).</span></span> <span data-ttu-id="f5cb3-108">Da biste provjerili koliko prostora za pohranu koji koristite u vlastiti OneDrive, pogledajte [Upravljanje OneDrive za pohranu poslovne](https://go.microsoft.com/fwlink/?linkid=866429).</span><span class="sxs-lookup"><span data-stu-id="f5cb3-108">To check how much storage you're using in your own OneDrive, see [Manage your OneDrive for Business storage](https://go.microsoft.com/fwlink/?linkid=866429).</span></span> <span data-ttu-id="f5cb3-109">Info o pohranu koji dolazi uz svaki plan, potražite [OneDrive poslovnih opis servisa](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span><span class="sxs-lookup"><span data-stu-id="f5cb3-109">For info about the storage that comes with each plan, see [OneDrive for Business service description](https://go.microsoft.com/fwlink/p/?LinkID=826071).</span></span>
+<span data-ttu-id="48ffa-104">Naučite [kako se prostor za pohranu na servisu OneDrive dodjeljuje po korisniku/planu](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span><span class="sxs-lookup"><span data-stu-id="48ffa-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
+
+<span data-ttu-id="48ffa-105">Saznajte [koliko prostora za pohranu upotrebljavate na servisu OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span><span class="sxs-lookup"><span data-stu-id="48ffa-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
+
+<span data-ttu-id="48ffa-106">Saznajte [Kako doći do kvote za pohranu na servisu OneDrive pomoću značajke PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span><span class="sxs-lookup"><span data-stu-id="48ffa-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
+
+<span data-ttu-id="48ffa-107">Microsoft će u početku pružiti 1 TB po korisniku, koji administratori mogu povećati do 5 TB po korisniku.</span><span class="sxs-lookup"><span data-stu-id="48ffa-107">Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="48ffa-108">Saznajte kako [postaviti zadani prostor za pohranu za korisnike servisa OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).</span><span class="sxs-lookup"><span data-stu-id="48ffa-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
+
+<span data-ttu-id="48ffa-109">Saznajte [kako promijeniti prostor za pohranu na servisu OneDrive određenog korisnika](https://docs.microsoft.com/onedrive/change-user-storage).</span><span class="sxs-lookup"><span data-stu-id="48ffa-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
+
+<span data-ttu-id="48ffa-110">Saznajte [na koji način globalni administratori mogu postaviti kvote pohrane na servisu OneDrive za sve korisnike koji koriste PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span><span class="sxs-lookup"><span data-stu-id="48ffa-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
   
