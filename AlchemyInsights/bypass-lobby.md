@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637769"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654248"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Kontrolne postavke predvorja i razina sudjelovanja
 
@@ -24,7 +24,7 @@ Ako želite dopustiti svima, uključujući dial-in, vanjski i anonimni korisnici
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Ovaj cmdlet trenutno zahtijeva korištenje Skype za Business PowerShell modul. Da biste dobili setup koristiti ovaj cmdlet, provjerite upravljanje pravilima putem PowerShell.
+Ovaj cmdlet trenutno zahtijeva korištenje Skype za Business PowerShell modul. Da biste dobili setup koristiti ovaj cmdlet, provjerite [Upravljanje pravilima putem PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Možete postaviti novo pravilo koje ćete zatim morati primijeniti na korisnike. Ako izmijenite globalnu politiku, ona će se automatski odnositi na korisnike. Za bilo koju promjenu pravila morate pričekati najmanje 4 sata i do 24 sata kako bi pravila stupile na snagu.
 

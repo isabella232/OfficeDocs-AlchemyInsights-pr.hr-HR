@@ -2,7 +2,6 @@
 title: Preimenuj web-mjesto
 ms.author: pebaum
 author: Techwriter40
-ms.date: 9/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 453b19d9a35e074a9b0e8aaae5a4256110d4a1f9
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752168"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658357"
 ---
 # <a name="rename-a-sharepoint-site"></a>Preimenuj SharePoint web-mjesto
 
-Da biste promijenili naziv web-mjesta, na primjer iz https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2, morate stvoriti novo web-mjesto i zatim premjestiti sav sadržaj s starog web-mjesta na novi. Informacije o premještanjem stavki u bibliotekama dokumenata potražite u nastavku podataka o [preseljenom ili kopaciji artikala iz biblioteke dokumenata sustava SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018691).
-  
-Napomena: Ako pokušavate promijeniti naziv domene (to jest, taj dio URL-a iznad) u URL-u sustava SharePoint Online, to nije moguće. Pogledajte [promjenu domena](https://go.microsoft.com/fwlink/?Linkid=2018696).
+Slijedite korake u [ovom članku](https://docs.microsoft.com/sharepoint/change-site-address) da biste promijenili naziv web-mjesta--na primjer, od https://contoso.sharepoint.com/sites/sample1 do https://contoso.sharepoint.com/sites/sample2.
+
+**Napomena:** Naziv domene (u gornjem primjeru, taj dio URL-a) nije moguće promijeniti u URL-u sustava SharePoint online. Pogledajte [promjenu domena](https://go.microsoft.com/fwlink/?Linkid=2018696) za više informacija.
   

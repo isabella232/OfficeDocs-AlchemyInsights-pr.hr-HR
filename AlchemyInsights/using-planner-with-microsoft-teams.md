@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: 0a66d2b39e77284edb8539c22121598183c9bce4
-ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
+ms.openlocfilehash: 04a0bcff06c9a52db4bc7ff55799a1cef8fd1eca
+ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37373166"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37681698"
 ---
 # <a name="using-planner-with-microsoft-teams"></a>Korištenje programa Planner s Microsoftovim timovima
 
 Organizirajte svoje zadatke dodavanjem jedne ili više kartica planera na kanal Teams: 
 
 - [Dodajte karticu planer na tim kanal](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). Korisnik koji doda karticu mora biti član tima, a ne samo vlasnik. Korisnika možete dodati kao člana putem sučelja Microsoft Teams.
-- [Dodajte postojeći plan Microsoftovim timovima](https:/techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
+- [Dodajte postojeći plan Microsoftovim timovima](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
 - [Uklonite karticu planer ili izbrišite plan](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). Izbrisani planovi ne mogu se oporaviti u timovima. Ako je grupa već izbrisana, možete [oporaviti izbrisane planove i grupe](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
 - [Omogućavanje ili onemogućavanje obavijesti o dodjeli planera u timovima](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
 
