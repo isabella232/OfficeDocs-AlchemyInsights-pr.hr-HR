@@ -1,5 +1,5 @@
 ---
-title: Informacije o pretplati
+title: Informacije o pretplatama
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,29 +13,29 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501186"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576868"
 ---
-# <a name="subscription-information"></a>Informacije o pretplati
+# <a name="subscription-information"></a>Informacije o pretplatama
 
-Informacije o pretplatama Office 365 vlasnik u Centar za administraciju idite na **naplatu** \> stranicu [Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Informacije o pretplatama koje posjedujete potražite na stranici proizvodi za **naplatu** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
   
-Ključne informacije o svaku pretplatu:
+Ključne informacije o svakoj pretplatničkoj pretplati:
   
 - Status svakog
 
-- Kupljenih licenci
+- Kupljene licence
 
-- Dodijeljeni licence
+- Dodijeljene licence
 
-- Ponavljajući stanje naplate
+- Status ponavljajuće naplate
 
-- Saldo
+- Ravnotežu
 
-- Način plaćanja
+- Plaćanja
 
-- Sljedeći datum naplate ili isteka
+- Sljedeći Datum naplate ili isteka
