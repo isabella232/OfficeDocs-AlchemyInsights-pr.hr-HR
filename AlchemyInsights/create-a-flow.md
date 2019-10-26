@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
 ms.openlocfilehash: c9a874c1b2a5d6c7d5e22aeb23b50d61b88c9da3
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36516195"
 ---
-# <a name="microsoft-flow"></a><span data-ttu-id="eb391-102">Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="eb391-102">Microsoft Flow</span></span>
+# <a name="microsoft-flow"></a><span data-ttu-id="27d2e-102">Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="27d2e-102">Microsoft Flow</span></span>
 
-<span data-ttu-id="eb391-103">Microsoft Flow pomaže vam automatizirati uobičajene zadatke.</span><span class="sxs-lookup"><span data-stu-id="eb391-103">Microsoft Flow helps you automate common tasks.</span></span> <span data-ttu-id="eb391-104">Koristite ga za postavljanje tijekova rada za popise i biblioteke.</span><span class="sxs-lookup"><span data-stu-id="eb391-104">Use it to set up workflows for lists and libraries.</span></span> <span data-ttu-id="eb391-105">Da biste saznali kako dodati protok na popis ili biblioteku u SharePoint Online ili OneDrive, pogledajte [Stvaranje toka](https://go.microsoft.com/fwlink/?linkid=869408).</span><span class="sxs-lookup"><span data-stu-id="eb391-105">To learn how to add a flow to a list or library in SharePoint Online or OneDrive, see [Create a flow](https://go.microsoft.com/fwlink/?linkid=869408).</span></span>
+<span data-ttu-id="27d2e-103">Microsoft Flow pomaže vam automatizirati uobičajene zadatke.</span><span class="sxs-lookup"><span data-stu-id="27d2e-103">Microsoft Flow helps you automate common tasks.</span></span> <span data-ttu-id="27d2e-104">Koristite ga za postavljanje tijekova rada za popise i biblioteke.</span><span class="sxs-lookup"><span data-stu-id="27d2e-104">Use it to set up workflows for lists and libraries.</span></span> <span data-ttu-id="27d2e-105">Da biste saznali kako dodati protok na popis ili biblioteku u SharePoint Online ili OneDrive, pogledajte [Stvaranje toka](https://go.microsoft.com/fwlink/?linkid=869408).</span><span class="sxs-lookup"><span data-stu-id="27d2e-105">To learn how to add a flow to a list or library in SharePoint Online or OneDrive, see [Create a flow](https://go.microsoft.com/fwlink/?linkid=869408).</span></span>
   
-[<span data-ttu-id="eb391-106">Videozapisi o Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="eb391-106">Videos about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=864641)
+[<span data-ttu-id="27d2e-106">Videozapisi o Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="27d2e-106">Videos about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[<span data-ttu-id="eb391-107">Web-mjesto Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="eb391-107">Microsoft Flow website</span></span>](https://go.microsoft.com/fwlink/?linkid=864642)
+[<span data-ttu-id="27d2e-107">Web-mjesto Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="27d2e-107">Microsoft Flow website</span></span>](https://go.microsoft.com/fwlink/?linkid=864642)
   
 
