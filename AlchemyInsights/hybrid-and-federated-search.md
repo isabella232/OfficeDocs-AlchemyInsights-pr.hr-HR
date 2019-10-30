@@ -3,7 +3,6 @@ title: Hibridno i vanjsko pretraživanje
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 1f31fdc6d9f0eab6a436b46e45ea5663965f2767
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: 15e4c6a5b531ca90b0a44e696aa158bd480c072f
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122396"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768971"
 ---
 # <a name="hybrid-and-federated-searches"></a>Hibridne i vanjsko pretraživanje 
 
-1. Informacije o hibridnom i federacijskom pretraživanju u sustavu SharePoint Online?
-    Provjerite [ovdje](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)
+Informacije o hibridnom i vanjskim pretraživanjem u sustavu SharePoint Online potražite [u sustavu SharePoint na pretraživanju hibridnog sustava](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
-2. Želite planirati hibridno vanjsko pretraživanje?
-    Provjerite [ovdje](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)
+Informacije o planiranju hibridnog vanjskog pretraživanja potražite u okviru [Planiranje hibridnog vanjskog pretraživanja za SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).

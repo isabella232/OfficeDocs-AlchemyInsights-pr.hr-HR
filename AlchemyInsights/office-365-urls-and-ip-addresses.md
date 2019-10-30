@@ -1,5 +1,5 @@
 ---
-title: Office 365 URL-a i IP adrese
+title: Office 365 URL-ovi i IP adrese
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522027"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775307"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 URL-a i IP adresa raspona
+# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 URL-ovi i rasponi IP adrese
 
-Office 365 zahtijeva povezivosti s Internetom. Krajnjih točaka u ovom članku, [Office 365 URL i raspone IP adresa](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), treba biti dostupna korisnicima za pristup Office 365.
+Office 365 zahtijeva povezivanje s Internetom putem određenih IP adresa koje se nazivaju *krajnje točke*.
+Za popis krajnjih točaka koji moraju biti dostupni, pogledajte [Office 365 URL-ove i IP adrese raspona](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+
+Office 365 IP Address i URL web-usluga pomaže vam da bolje identificirate i razlikirate Office 365 mrežni promet, što vam olakšava ocjenjivanje, konfiguriranje i boravak u vezi s promjenama. Pogledajte [Office 365 IP Address i URL web-servis](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

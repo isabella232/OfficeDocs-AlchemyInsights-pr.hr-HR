@@ -1,9 +1,8 @@
 ---
-title: Pitanje o licenci
+title: Pitanje o dozvolama
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666652"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768612"
 ---
-# <a name="questions-about-your-office-365-license"></a>Pitanja o licencu za Office 365
+# <a name="questions-about-your-office-365-license"></a>Pitanja o licenci za Office 365
 
-Ako želite znati koliko licenci koje ste kupili ili koliko biste licenci dodjeljuju iz pretplate:
+Ako želite znati koliko ste licenci kupili ili koliko je licenci dodijeljeno iz pretplate:
   
-1. U centru za administraciju idite na **naplatu** \> stranicu [Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. U centru za administratore idite na stranicu **Naplata** \> [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Pronaći želite znati više o pretplati. Možete vidjeti broj licenci najprije platite za koliko dostupni su i dodeliti.
+2. Pronađite pretplatu o kojoj želite znati više. Možete vidjeti broj licenci koje plaćate i koliko ih je dostupno za dodjeljivati.
 
-Ako želite dodati dodatne licence ili ako imate previše mnoge, odaberite **Dodaj Ukloni licence** Prilagodi iznos kupili.
+Ako želite dodati više licenci ili ako imate previše, odaberite **Dodaj/Ukloni licence** da biste prilagodili nabavljeni iznos.

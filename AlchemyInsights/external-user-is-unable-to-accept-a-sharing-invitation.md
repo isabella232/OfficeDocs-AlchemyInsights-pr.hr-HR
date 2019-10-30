@@ -2,7 +2,6 @@
 title: Vanjski korisnik ne može prihvatiti pozivnicu za dijeljenje
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735885"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769115"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Vanjski korisnik ne može prihvatiti pozivnicu za dijeljenje
 
-Ako vanjski korisnik ne može prihvatiti pozivnicu za dijeljenje, pokušajte posjetiti veze u nastavku: 
+Ako vanjski korisnik ne može prihvatiti pozivnicu za zajedničko korištenje sustava SharePoint ili OneDrive, pokušajte posjetiti veze u nastavku: 
 
 - ["Pristup odbijen", "trebate dozvolu za pristup ovom web-mjestu", ili "korisnik nije pronađen u direktoriju" pogreške u SharePoint online i OneDrive za tvrtke](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["Pravila vaše organizacije ne dopuštaju dijeljenje s tim korisnicima" prilikom dijeljenja stavke ili web-mjesta u SharePoint Online ili OneDrive za tvrtke](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)

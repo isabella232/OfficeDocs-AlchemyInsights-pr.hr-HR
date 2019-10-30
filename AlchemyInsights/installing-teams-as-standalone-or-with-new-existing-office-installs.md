@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: fc222b2ea469f4f4d5233e87f7c9fd291bb5794c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344195"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768865"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Instaliranje timova kao samostalnog ili s novim ili postojećim instalacijama sustava Office
 
-Microsoft Teams sada je uključen kao dio *novih instalacija* sustava Office 365 Proplus, Office 365 Business i Office za Mac. Dodatne informacije potražite u članku [kada će Microsoftovi timovi početi biti uključeni u nove instalacije sustava Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams uključen je kao dio *novih instalacija* sustava Office 365 Proplus, Office 365 Business i Office za Mac. Dodatne informacije potražite u članku [kada će Microsoftovi timovi početi biti uključeni u nove instalacije sustava Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
 Osim toga, počevši s verzijom 1906 u mjesečnom kanalu, timovi će biti *dodani postojećim instalacijama* sustava Office 365 proplus (i Office 365 Business) na uređajima sa sustavom Windows kada ažurirate postojeću instalaciju na najnoviju verziju. Dodatne informacije potražite u [vezi s postojećim instalacijama sustava Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 

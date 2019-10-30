@@ -9,13 +9,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 95c51f61f9f5ac61d77bf3286f4e4602d47e4801
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 66911e4f87d54f635b397d02fefdcaadb68d0ecc
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36528903"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769367"
 ---
 # <a name="business-rule-not-firing-for-a-form"></a>Poslovno pravilo ne puca za obrazac
 
-* [Je li vaše poslovanje pravilo ne ispaljivanje za obrazac?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
+Poslovno pravilo možda neće izvršiti jer polje referencirano u poslovnom pravilu nije uključeno u obrazac. Za više informacija, pogledajte [je li vaše poslovno pravilo ne puca za obrazac?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).
