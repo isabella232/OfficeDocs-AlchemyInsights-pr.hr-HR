@@ -1,5 +1,5 @@
 ---
-title: Upoznavanje s programom SharePoint Online
+title: Početak rada sa sustavom SharePoint Online
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -10,24 +10,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 5e61491b626bfe75fd26a15ee54be82d9efa19a7
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751664"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766883"
 ---
-# <a name="workflows-in-sharepoint"></a>Tijekovi rada u programu SharePoint
+# <a name="workflows-in-sharepoint"></a>Tijekovi rada u sustavu SharePoint
 
-Ako tijekovi rada SharePoint su slanja poruke e-pošte, vaša organizacija možda naišao Exchange Online ograničenja pošiljatelja.
+Ako tijekovi rada sustava SharePoint ne šalju e-poštu, vaša je organizacija možda naišla na ograničenja pošiljatelja sustava Exchange Online.
 
-'Tijek rada je obustavljena' poruka o pogrešci može pojaviti ako imate jednu od sljedećih stavki:
+Poruka o pogrešci "tijek rada je suspendirana" može se pojaviti ako imate jednu od sljedećih stavki:
 
-- Imate tijeka rada u SharePoint Online koji koriste SharePoint 2010 ili vrsta platformi SharePoint 2013 tijeka rada.
+- Imate tijek rada u SharePoint online koji koristi vrstu platforme SharePoint 2010 ili SharePoint 2013 tijek rada.
 
-- Tijek rada konfiguriran za slanje poruka e-pošte prilagođenih više od 200 korisnicima na vrijeme, više od 10 000 primatelja po danu ili na više od 30 poruka u minuti.
+- Tijek rada je konfiguriran za slanje prilagođene poruke e-pošte na više od 200 korisnika u isto vrijeme, više od 10.000 primatelja po danu ili više od 30 poruka u minuti.
 
-Kad pokrenete tijek rada, poruka e-pošte nije poslana i Primijetit ćete poruku o pogrešci, interni Status je postavljen na Suspended ili nije moguće poslati primatelju prikazuje.
+Kada pokrenete tijek rada, poruka e-pošte nije poslana i primijetite poruku o pogrešci, interni status je postavljen na suspendirano ili nije moguće poslati primatelju.
 
-Za dodatne informacije pogledajte sljedeći [članak](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
+Za više informacija, molimo pogledajte sljedeći [članak](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
 
