@@ -1,5 +1,5 @@
 ---
-title: Kako napraviti nabave Office 365
+title: Kako napraviti Office 365 kupnju
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 98713a0d9d62b6eabb857ea8391cb7dff75b4da3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664086"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921842"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>Kako napraviti nabave Office 365
+# <a name="how-to-make-an-office-365-purchase"></a>Kako napraviti Office 365 kupnju
 
-Nabava Office 365 mogu se napraviti u centru za administraciju.
+Kupnje u sustavu Office 365 mogu se napraviti u centru za administraciju.
   
-- Kupiti pretplatu Office 365, idite na **naplatu** \> [nabave services](https://go.microsoft.com/fwlink/p/?linkid=868433) stranice.
+- Da biste kupili pretplatu na Office 365, idite na stranicu [Nabava usluga](https://go.microsoft.com/fwlink/p/?linkid=868433) **naplate** \> .
 
-- Da biste kupili dodatne licence, idite na **naplate** \> stranicu [Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) . Odaberite koje želite da dodate licence za pretplatu, a zatim odaberite **Dodaj Ukloni licence**.
+- Da biste kupili dodatne licence, idite na stranicu proizvoda za **naplatu** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) . Odaberite pretplatu kojoj želite dodati licence, a zatim odaberite **Dodaj/Ukloni licence**.
   
-Da biste saznali više, pogledajte [Kupite licence za Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Da biste saznali više, pogledajte [kupnju licenci za Office 365 za poslovnu pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+
+**Rješavanje problema**
+
+Ako osjetite probleme s učitavanjem stranice, pokušajte otvoriti web-stranicu u drugom pregledniku ili pokušajte otvoriti stranicu privatnog preglednika, kao što je prozor InPrivate u pregledniku Microsoft Edge ili anonimni prozor u Google Chromeu. 
 
 **Dodatni resursi**
   
-- [Korisnicima u sustavu Office 365 za poslovne dodijeliti licence](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Dodjeljivanje licenci korisnicima u sustavu Office 365 za poslovanje](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Za poslovne Odustani Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Otkaži Office 365 za poslovanje](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
