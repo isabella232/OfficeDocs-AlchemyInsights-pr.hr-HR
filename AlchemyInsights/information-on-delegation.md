@@ -13,23 +13,23 @@ ms.custom:
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
 ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36661720"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="44423-102">Otklanjanje poteškoća s delegiranjem u programu Outlook i Outlook na webu</span><span class="sxs-lookup"><span data-stu-id="44423-102">Troubleshooting delegation in Outlook and Outlook on the web</span></span>
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="5f17d-102">Otklanjanje poteškoća s delegiranjem u programu Outlook i Outlook na webu</span><span class="sxs-lookup"><span data-stu-id="5f17d-102">Troubleshooting delegation in Outlook and Outlook on the web</span></span>
 
-<span data-ttu-id="44423-103">**Otklanjanje poteškoća s alatom SaRA:**</span><span class="sxs-lookup"><span data-stu-id="44423-103">**Troubleshooting with the SaRA tool:**</span></span>
+<span data-ttu-id="5f17d-103">**Otklanjanje poteškoća s alatom SaRA:**</span><span class="sxs-lookup"><span data-stu-id="5f17d-103">**Troubleshooting with the SaRA tool:**</span></span>
 
-1. <span data-ttu-id="44423-104">Preuzmite i instalirajte SaRA alat [ovdje](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span><span class="sxs-lookup"><span data-stu-id="44423-104">Download and install SaRA tool [here](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span></span>
-1. <span data-ttu-id="44423-105">Odaberite **Outlook**, a zatim **Imam problema s kalendarom**.</span><span class="sxs-lookup"><span data-stu-id="44423-105">Select **Outlook**, then **I'm having issues with my calendar**.</span></span>
-1. <span data-ttu-id="44423-106">Reci **da** za zahvaćeni stroj.</span><span class="sxs-lookup"><span data-stu-id="44423-106">Say **Yes** for affected machine.</span></span>
-1. <span data-ttu-id="44423-107">Dodajte adresu e-pošte zahvaćenog korisnika.</span><span class="sxs-lookup"><span data-stu-id="44423-107">Add the e-mail address of the affected user.</span></span>
-1. <span data-ttu-id="44423-108">Odaberite **Imam problema s ovlaštenjima delegata**.</span><span class="sxs-lookup"><span data-stu-id="44423-108">Select **I'm having problems with delegate permissions**.</span></span>
-1. <span data-ttu-id="44423-109">U sljedećem upitnik, ako ste osoba koja daje dozvole, unesite adresu e-pošte svog delegata.</span><span class="sxs-lookup"><span data-stu-id="44423-109">At the next prompt, if you are the person giving permissions, enter the email address of your delegate.</span></span> <span data-ttu-id="44423-110">Ako ste primili dozvole i vi ste delegat, unesite adresu e-pošte osobe koja vam je dala dozvole.</span><span class="sxs-lookup"><span data-stu-id="44423-110">If you received permissions and you are the delegate, enter the email address of the person that gave you permissions.</span></span>
-1. <span data-ttu-id="44423-111">Na sljedećem izborniku odaberite mogućnost koja odgovara vašem scenariju.</span><span class="sxs-lookup"><span data-stu-id="44423-111">At the next menu, select the option that fits your scenario.</span></span>
-1. <span data-ttu-id="44423-112">Na sljedećem izborniku odaberite razinu dozvole.</span><span class="sxs-lookup"><span data-stu-id="44423-112">At the next menu, select the permission level.</span></span>
-1. <span data-ttu-id="44423-113">U ovoj fazi, SaRA alat će obavljati automatizirane provjere i to će vam pružiti moguću rezoluciju ili će osigurati Dijagnostički zapisnik koji se može koristiti za daljnje otklanjanje poteškoća.</span><span class="sxs-lookup"><span data-stu-id="44423-113">At this stage, SaRA tool will perform automated checks and it will provide you with possible resolution or alternatively will provide a diagnostic log that can be used for further troubleshooting.</span></span>
-1. <span data-ttu-id="44423-114">Možete pronaći dnevnike u SaRA rezultata mapu nalazi se u C:\Users\Username\AppData\Local\SaraResults.</span><span class="sxs-lookup"><span data-stu-id="44423-114">You can find the logs in the SaRA Results folder located at C:\Users\Username\AppData\Local\SaraResults.</span></span>
+1. <span data-ttu-id="5f17d-104">Preuzmite i instalirajte SaRA alat [ovdje](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span><span class="sxs-lookup"><span data-stu-id="5f17d-104">Download and install SaRA tool [here](https://aka.ms/SaRA-SkypeForBusinessSignIn).</span></span>
+1. <span data-ttu-id="5f17d-105">Odaberite **Outlook**, a zatim **Imam problema s kalendarom**.</span><span class="sxs-lookup"><span data-stu-id="5f17d-105">Select **Outlook**, then **I'm having issues with my calendar**.</span></span>
+1. <span data-ttu-id="5f17d-106">Reci **da** za zahvaćeni stroj.</span><span class="sxs-lookup"><span data-stu-id="5f17d-106">Say **Yes** for affected machine.</span></span>
+1. <span data-ttu-id="5f17d-107">Dodajte adresu e-pošte zahvaćenog korisnika.</span><span class="sxs-lookup"><span data-stu-id="5f17d-107">Add the e-mail address of the affected user.</span></span>
+1. <span data-ttu-id="5f17d-108">Odaberite **Imam problema s ovlaštenjima delegata**.</span><span class="sxs-lookup"><span data-stu-id="5f17d-108">Select **I'm having problems with delegate permissions**.</span></span>
+1. <span data-ttu-id="5f17d-109">U sljedećem upitnik, ako ste osoba koja daje dozvole, unesite adresu e-pošte svog delegata.</span><span class="sxs-lookup"><span data-stu-id="5f17d-109">At the next prompt, if you are the person giving permissions, enter the email address of your delegate.</span></span> <span data-ttu-id="5f17d-110">Ako ste primili dozvole i vi ste delegat, unesite adresu e-pošte osobe koja vam je dala dozvole.</span><span class="sxs-lookup"><span data-stu-id="5f17d-110">If you received permissions and you are the delegate, enter the email address of the person that gave you permissions.</span></span>
+1. <span data-ttu-id="5f17d-111">Na sljedećem izborniku odaberite mogućnost koja odgovara vašem scenariju.</span><span class="sxs-lookup"><span data-stu-id="5f17d-111">At the next menu, select the option that fits your scenario.</span></span>
+1. <span data-ttu-id="5f17d-112">Na sljedećem izborniku odaberite razinu dozvole.</span><span class="sxs-lookup"><span data-stu-id="5f17d-112">At the next menu, select the permission level.</span></span>
+1. <span data-ttu-id="5f17d-113">U ovoj fazi, SaRA alat će obavljati automatizirane provjere i to će vam pružiti moguću rezoluciju ili će osigurati Dijagnostički zapisnik koji se može koristiti za daljnje otklanjanje poteškoća.</span><span class="sxs-lookup"><span data-stu-id="5f17d-113">At this stage, SaRA tool will perform automated checks and it will provide you with possible resolution or alternatively will provide a diagnostic log that can be used for further troubleshooting.</span></span>
+1. <span data-ttu-id="5f17d-114">Možete pronaći dnevnike u SaRA rezultata mapu nalazi se u C:\Users\Username\AppData\Local\SaraResults.</span><span class="sxs-lookup"><span data-stu-id="5f17d-114">You can find the logs in the SaRA Results folder located at C:\Users\Username\AppData\Local\SaraResults.</span></span>

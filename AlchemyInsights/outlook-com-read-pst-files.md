@@ -14,14 +14,14 @@ ms.custom:
 - "1771"
 - "9000199"
 ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36535599"
 ---
-# <a name="pst-data-files-in-outlookcom"></a><span data-ttu-id="acec0-102">PST podatkovne datoteke u Outlook.com</span><span class="sxs-lookup"><span data-stu-id="acec0-102">PST data files in Outlook.com</span></span>
+# <a name="pst-data-files-in-outlookcom"></a><span data-ttu-id="f8f31-102">PST podatkovne datoteke u Outlook.com</span><span class="sxs-lookup"><span data-stu-id="f8f31-102">PST data files in Outlook.com</span></span>
 
-<span data-ttu-id="acec0-103">Nije moguće uvesti Outlook. PST podatkovnu datoteku na svoj Outlook.com račun pomoću preglednika.</span><span class="sxs-lookup"><span data-stu-id="acec0-103">It's not possible to import an Outlook .PST data file to your Outlook.com account using a browser.</span></span>
+<span data-ttu-id="f8f31-103">Nije moguće uvesti Outlook. PST podatkovnu datoteku na svoj Outlook.com račun pomoću preglednika.</span><span class="sxs-lookup"><span data-stu-id="f8f31-103">It's not possible to import an Outlook .PST data file to your Outlook.com account using a browser.</span></span>
 
-<span data-ttu-id="acec0-104">Za uvoz. PST podatkovnu datoteku, morate koristiti Outlook Desktop App.</span><span class="sxs-lookup"><span data-stu-id="acec0-104">To import a .PST data file, you must use the Outlook desktop app.</span></span> <span data-ttu-id="acec0-105">Da biste saznali više, pročitajte [Uvoz e-pošte, kontakata i kalendara iz Outlooka. pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="acec0-105">To learn more, read [Import email, contacts, and calendar from an Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
+<span data-ttu-id="f8f31-104">Za uvoz. PST podatkovnu datoteku, morate koristiti Outlook Desktop App.</span><span class="sxs-lookup"><span data-stu-id="f8f31-104">To import a .PST data file, you must use the Outlook desktop app.</span></span> <span data-ttu-id="f8f31-105">Da biste saznali više, pročitajte [Uvoz e-pošte, kontakata i kalendara iz Outlooka. pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="f8f31-105">To learn more, read [Import email, contacts, and calendar from an Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>

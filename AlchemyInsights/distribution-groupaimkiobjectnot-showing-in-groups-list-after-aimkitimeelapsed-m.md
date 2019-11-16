@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
 ms.openlocfilehash: af6f3e2040ebf2966f7bf7c4ffe796fa31106ecf
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36530487"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a><span data-ttu-id="1eb58-102">Grupa raspodjele "{AimKIObject}" ne prikazuje se na popisu grupe nakon {AimKITimeElapsed} minuta</span><span class="sxs-lookup"><span data-stu-id="1eb58-102">Distribution Group "{AimKIObject}" not showing in Groups list after {AimKITimeElapsed} minutes</span></span>
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a><span data-ttu-id="5ffa6-102">Grupa raspodjele "{AimKIObject}" ne prikazuje se na popisu grupe nakon {AimKITimeElapsed} minuta</span><span class="sxs-lookup"><span data-stu-id="5ffa6-102">Distribution Group "{AimKIObject}" not showing in Groups list after {AimKITimeElapsed} minutes</span></span>
 
-<span data-ttu-id="1eb58-103">Vaša grupa "{AimKIObject}" stvorena je prije nekoliko minuta.</span><span class="sxs-lookup"><span data-stu-id="1eb58-103">Your group "{AimKIObject}" was created {AimKITimeElapsed} minutes ago.</span></span> <span data-ttu-id="1eb58-104">Obično ne treba više od 60 minuta da bi se vaša nova grupa raspodjele pojavila u centru za administraciju.</span><span class="sxs-lookup"><span data-stu-id="1eb58-104">It normally doesn't take more than 60 minutes for your new distribution group to appear in the Admin center.</span></span>
+<span data-ttu-id="5ffa6-103">Vaša grupa "{AimKIObject}" stvorena je prije nekoliko minuta.</span><span class="sxs-lookup"><span data-stu-id="5ffa6-103">Your group "{AimKIObject}" was created {AimKITimeElapsed} minutes ago.</span></span> <span data-ttu-id="5ffa6-104">Obično ne treba više od 60 minuta da bi se vaša nova grupa raspodjele pojavila u centru za administraciju.</span><span class="sxs-lookup"><span data-stu-id="5ffa6-104">It normally doesn't take more than 60 minutes for your new distribution group to appear in the Admin center.</span></span>
   
-<span data-ttu-id="1eb58-105">Možda ćete moći koristiti značajku primatelji > grupe u [centru za administraciju sustava Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) da biste upravljali grupom sada ili koristite opciju "Nazovimo vas" mogućnošću razgovora s inženjerom podrške.</span><span class="sxs-lookup"><span data-stu-id="1eb58-105">You may be able to use the Recipients > Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) to manage your group now, or use the "Let us call you" option to talk to a support engineer.</span></span> 
+<span data-ttu-id="5ffa6-105">Možda ćete moći koristiti značajku primatelji > grupe u [centru za administraciju sustava Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) da biste upravljali grupom sada ili koristite opciju "Nazovimo vas" mogućnošću razgovora s inženjerom podrške.</span><span class="sxs-lookup"><span data-stu-id="5ffa6-105">You may be able to use the Recipients > Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) to manage your group now, or use the "Let us call you" option to talk to a support engineer.</span></span> 
   
 
