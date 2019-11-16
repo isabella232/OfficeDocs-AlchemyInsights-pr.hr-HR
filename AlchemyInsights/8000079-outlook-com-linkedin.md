@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
 ms.openlocfilehash: 136b349c374518e2b130184f2dc64d1bf9a7f7b0
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36494339"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="72fda-102">Problemi s bezvrijednom e-poštom tvrdeći da je iz LinkedIn</span><span class="sxs-lookup"><span data-stu-id="72fda-102">Issues with Junk email claiming to be from LinkedIn</span></span>
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="50c84-102">Problemi s bezvrijednom e-poštom tvrdeći da je iz LinkedIn</span><span class="sxs-lookup"><span data-stu-id="50c84-102">Issues with Junk email claiming to be from LinkedIn</span></span>
 
-<span data-ttu-id="72fda-103">Ako primate bezvrijednu e-poštu koja tvrdi da je iz LinkedIna, možete stvoriti pravilo za filtriranje tih e-poruka.</span><span class="sxs-lookup"><span data-stu-id="72fda-103">If you're receiving junk email which claims to be from LinkedIn, you can create a rule to filter those emails.</span></span>
-<span data-ttu-id="72fda-104">Pogledajte [Korištenje pravila ulazne pošte u Outlook.com](https://aka.ms/OutlookComInboxRules) za više informacija.</span><span class="sxs-lookup"><span data-stu-id="72fda-104">See [Use inbox rules in Outlook.com](https://aka.ms/OutlookComInboxRules) for more information.</span></span>
+<span data-ttu-id="50c84-103">Ako primate bezvrijednu e-poštu koja tvrdi da je iz LinkedIna, možete stvoriti pravilo za filtriranje tih e-poruka.</span><span class="sxs-lookup"><span data-stu-id="50c84-103">If you're receiving junk email which claims to be from LinkedIn, you can create a rule to filter those emails.</span></span>
+<span data-ttu-id="50c84-104">Pogledajte [Korištenje pravila ulazne pošte u Outlook.com](https://aka.ms/OutlookComInboxRules) za više informacija.</span><span class="sxs-lookup"><span data-stu-id="50c84-104">See [Use inbox rules in Outlook.com](https://aka.ms/OutlookComInboxRules) for more information.</span></span>
 
 
