@@ -11,10 +11,10 @@ ms.custom:
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37205401"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instaliranje Officea na terminalskom poslužitelju
@@ -46,7 +46,7 @@ Ako želite instalirati Office 365 ProPlus na RDS iz centra Microsoft 365 admin,
 
 2. Odaberite da kada se od vas zatraži da omogućite uređivač registra da napravi promjene na uređaju.
 
-3. U uređivač registra dodajte vrijednost niza **Sharedcomputer,** uz postavku 1 ispod HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. U uređivaču registra dodajte vrijednost niza **Sharedcomputer,** uz postavku 1 u odjeljku HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
 7. Na RDS poslužitelju prijavite se ***kao krajnji korisnik*** i [Provjerite je li aktivacija zajedničkog računala omogućena za Office 365 proplus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
