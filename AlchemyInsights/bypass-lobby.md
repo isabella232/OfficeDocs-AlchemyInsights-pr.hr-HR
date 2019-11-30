@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bf8be9ffe2bfa45ed2cf149c1c4fa118b40e816d
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768432"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626340"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Kontrolne postavke predvorja i razina sudjelovanja
 
@@ -24,7 +24,7 @@ Ako želite dopustiti svima, uključujući dial-in, vanjski i anonimni korisnici
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Ovaj cmdlet trenutno zahtijeva korištenje Skype za Business PowerShell modul. Da biste dobili setup koristiti ovaj cmdlet, provjerite [Upravljanje pravilima putem PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Ovaj cmdlet trenutno zahtijeva korištenje Skype za Business PowerShell modul. Da biste dobili setup koristiti ovaj cmdlet, provjerite [Upravljanje pravilima putem PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Možete postaviti novo pravilo koje ćete zatim morati primijeniti na korisnike. Ako izmijenite globalnu politiku, ona će se automatski odnositi na korisnike. Za bilo koju promjenu pravila morate pričekati najmanje 4 sata i do 24 sata kako bi pravila stupile na snagu.
 
@@ -36,8 +36,8 @@ Obavezno pregledajte dokumentaciju u nastavku prije nego što učinite te promje
 
 - [Dopusti anonimnim ljudima pokretanje sastanka](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) je pravila po organizatoru koja kontrolira mogu li se anonimni ljudi, uključujući B2B i saveznih korisnika, pridružiti sastanku korisnika bez Autenticnog korisnika iz organizacije koja je nazočna.
 
-- [Dopustite korisnicima biranja da zaobiđu predvorje](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**uskoro**) je pravilo po organizatoru koje kontrolira hoće li se osobe koje telefoniraju telefonom pridružiti sastanku izravno ili čekati u predvorju bez obzira na to jesu li **automatski priznali postavke korisnika** .
+- [Dopustite korisnicima biranja da zaobiđu predvorje](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**uskoro**) je pravilo po organizatoru koje kontrolira hoće li se osobe koje telefoniraju telefonom pridružiti sastanku izravno ili čekati u predvorju bez obzira na to jesu li **automatski priznali postavke korisnika** .
 
 - [Omogućite organizatori nadjačati postavke predvorja](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**uskoro**) je pravilo po organizatoru koje kontrolira može li organizator sastanka nadjačati postavke predvorja koje je administrator postavio u **automatski priznati ljude** i **dopustiti dial-in korisnicima da zaobiđu predvorje** kada zakazaju novi sastanak.
 
-**Napomena:** Pročitajte [Upravljanje pravilima sastanka u timovima](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) za potpuni pregled pravila sastanka Microsoft Teams.
+**Napomena:** Pročitajte [Upravljanje pravilima sastanka u timovima](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) za potpuni pregled pravila sastanka Microsoft Teams.
