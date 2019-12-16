@@ -1,22 +1,22 @@
 ---
-title: Radne površine app za SharePoint
+title: Aplikacija desktop za SharePoint
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 036efbec52fecefe709bf8e50372adf380933a7f
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 9c7d5eb8a6b0e86736dcae3be950d512e58f067c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751628"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044155"
 ---
-# <a name="desktop-app-for-sharepoint"></a>Radne površine app za SharePoint
+# <a name="desktop-app-for-sharepoint"></a>Aplikacija desktop za SharePoint
 
-Vaša organizacija je u program privatne pretpregled unijeli za App radne površine za SharePoint.
+Vaša je organizacija unesena u program privatnog pregleda za aplikaciju desktop za SharePoint.
 
-Microsoft trenutno ne podržava App radne površine za SharePoint (privatni pretpregled). Za pomoć s radne površine App za SharePoint koristite jedan pretpregled privatne Microsoft partnera.
+Microsoft trenutno ne podržava aplikaciju desktop za SharePoint (Private Preview). Upotrijebite svoje regrutne partnere za Microsoft Private Preview da biste dobili pomoć s aplikacijom za desktop za SharePoint.
 

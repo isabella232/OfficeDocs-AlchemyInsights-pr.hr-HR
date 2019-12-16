@@ -1,30 +1,30 @@
 ---
-title: Poruka o pogrešci prilikom zajedničkog korištenja datoteka
+title: Poruka o pogrešci prilikom dijeljenja datoteka
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: 6ce62675193c835ec0ec394d8ccceac2261354bb
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: dcea4e9de2830d4c3ddf2db84911e0f313012c9f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755948"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052173"
 ---
-# <a name="error-messages-when-sharing"></a>Poruka o pogrešci prilikom zajedničkog korištenja
+# <a name="error-messages-when-sharing"></a>Poruke o pogrešci prilikom dijeljenja
 
-Ako primite poruku o pogrešci kada pokušavate zajednički koristiti s vanjskog korisnika, najvjerojatnije vanjski zajedničko korištenje nije omogućeno ili zajedničko korištenje postavljen da ne Dopusti pokušaja razina korisnika za zajedničko korištenje.
+Ako primite poruku o pogrešci prilikom pokušaja dijeljenja s vanjskim korisnikom, najvjerojatnije vanjsko dijeljenje nije omogućeno ili dijeljenje nije postavljeno tako da ne dopušta razinu dijeljenja koju korisnik pokušava.
   
-U novi SharePoint administraciju centru kliknite **zajedničko korištenje** u lijevom oknu. Odaberite razinu ste zajedničko korištenje želite dopustiti. Provjerite je li vanjski je uključeno zajedničko korištenje web-mjesta. 
+U novom centru za administraciju sustava SharePoint kliknite **dijeljenje** u lijevom oknu. Odaberite razinu dijeljenja koju želite dopustiti. Provjerite je li vanjsko zajedničko korištenje uključeno za web-mjesto. 
   
-Ako korisnik prijavi prima poruku o pogrešci, pokušajte sljedeće korake:
+Ako korisnik koji se pokuša prijaviti primi poruku o pogrešci, pokušajte sljedeće korake:
   
-- Provjerite je li korisnik je prihvatio poziv za zajedničko korištenje je poslana.
+- Provjerite je li korisnik prihvatio pozivnicu za dijeljenje koja je poslana.
     
-- Provjerite je li korisnik je prihvatiti pozivnicu s adresom e-pošte koja je poslana.
+- Provjerite je li korisnik prihvatio pozivnicu s adresom e-pošte kojoj je poslana.
     
 
