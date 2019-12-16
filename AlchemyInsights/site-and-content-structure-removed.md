@@ -1,26 +1,26 @@
 ---
-title: Web-mjesta i sadržaja strukturu uklonjena
+title: Uklonjena je struktura web-mjesta i sadržaja
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: c4301fd892e82f2d41c69f0e65b319b92f676be2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: cbdb461220acd38a0b7c1ec45fb76da67068010a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749468"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053577"
 ---
-# <a name="site-and-content-structure-removed"></a><span data-ttu-id="cf092-102">Web-mjesta i sadržaja strukturu uklonjena</span><span class="sxs-lookup"><span data-stu-id="cf092-102">Site and content structure removed</span></span>
+# <a name="site-and-content-structure-removed"></a><span data-ttu-id="7f4d1-102">Uklonjena je struktura web-mjesta i sadržaja</span><span class="sxs-lookup"><span data-stu-id="7f4d1-102">Site and content structure removed</span></span>
 
-<span data-ttu-id="cf092-103">Počevši u listopadu 2018 sadržaja web-mjesta i stranice struktura više ne podržava ili primati ažuriranja značajka.</span><span class="sxs-lookup"><span data-stu-id="cf092-103">Starting in October 2018, the Site Content and Structure page will no longer be supported or receive feature updates.</span></span> <span data-ttu-id="cf092-104">Postavke veza stranicu SiteManager.aspx će se ukloniti iz SharePoint Online i izravan pristup bit će ograničen administratori zbirke web-mjesta dok 2019 ožujak, u koje vrijeme na stranicu sadržaja web-mjesta i struktura će biti potpuno Umirovljena.</span><span class="sxs-lookup"><span data-stu-id="cf092-104">The settings link to the SiteManager.aspx page will be removed from SharePoint Online and direct access will be restricted to Site Collection Admins until March 2019, at which time the Site Content and Structure page will be fully retired.</span></span> 
+<span data-ttu-id="7f4d1-103">Počevši od listopada 2018, stranica sadržaj i struktura web-mjesta više neće biti podržana ni primati ažuriranja značajki.</span><span class="sxs-lookup"><span data-stu-id="7f4d1-103">Starting in October 2018, the Site Content and Structure page will no longer be supported or receive feature updates.</span></span> <span data-ttu-id="7f4d1-104">Postavke veza na stranicu SiteManager. aspx uklonit će se s web-mjesta SharePoint Online, a izravni pristup bit će ograničen na administrator zbirke web-lokacija do ožujka 2019, u kojem će se trenutku stranica sadržaj i struktura web-mjesta potpuno povući.</span><span class="sxs-lookup"><span data-stu-id="7f4d1-104">The settings link to the SiteManager.aspx page will be removed from SharePoint Online and direct access will be restricted to Site Collection Admins until March 2019, at which time the Site Content and Structure page will be fully retired.</span></span> 
 
-<span data-ttu-id="cf092-105">Napomena: Kao zaobilazno rješenje dok se značajka potpuno je u mirovini, administratori zbirke web-mjesta možete kretati admin centar Microsoft 365, odaberite Poploči SharePoint i dodavanje ili uređivanje URL zamjenjujući ' / Sharepoint.aspx' s ' / Sitemanager.aspx'.</span><span class="sxs-lookup"><span data-stu-id="cf092-105">Note: As a workaround until the feature is fully retired, Site Collection Administrators can navigate to the Microsoft 365 admin center, select the SharePoint tile, and append or edit the URL by replacing '/Sharepoint.aspx' with '/Sitemanager.aspx'.</span></span> 
+<span data-ttu-id="7f4d1-105">Bilješka: kao zaobilazno rješenje dok se značajka ne povuče u potpunosti, administratori zbirke web-mjesta mogu se kretati do centra za administraciju sustava Microsoft 365, odabrati pločicu SharePoint i dodavati ili uređivati URL zamjenjujući '/SharePoint.aspx ' s '/Sitemanager.aspx '.</span><span class="sxs-lookup"><span data-stu-id="7f4d1-105">Note: As a workaround until the feature is fully retired, Site Collection Administrators can navigate to the Microsoft 365 admin center, select the SharePoint tile, and append or edit the URL by replacing '/Sharepoint.aspx' with '/Sitemanager.aspx'.</span></span> 
 
 
-<span data-ttu-id="cf092-106">Koristite datoteku premjestiti i kopiju za upravljanje web-mjesta sadržaja i strukture.</span><span class="sxs-lookup"><span data-stu-id="cf092-106">Use File Move and Copy to manage site content and structure.</span></span> <span data-ttu-id="cf092-107">Za dodatne informacije pogledajte [Kopiranje datoteka i mapa između OneDrive i SharePoint web-mjesta](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f).</span><span class="sxs-lookup"><span data-stu-id="cf092-107">For more information, see [Copy files and folders between OneDrive and SharePoint sites](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f).</span></span> 
+<span data-ttu-id="7f4d1-106">Korištenje datoteke Premjesti i Kopiraj za upravljanje sadržajem i strukturom web-mjesta.</span><span class="sxs-lookup"><span data-stu-id="7f4d1-106">Use File Move and Copy to manage site content and structure.</span></span> <span data-ttu-id="7f4d1-107">Dodatne informacije potražite u mapi [Kopiranje datoteka i mapa između servisa OneDrive i SharePoint web-mjesta](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f).</span><span class="sxs-lookup"><span data-stu-id="7f4d1-107">For more information, see [Copy files and folders between OneDrive and SharePoint sites](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f).</span></span> 
 
-<span data-ttu-id="cf092-108">Za dodatne informacije pogledajte [Rad s web-mjesta sadržaja i strukture](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).</span><span class="sxs-lookup"><span data-stu-id="cf092-108">For more information, please refer to [Work with site content and structure](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).</span></span>
+<span data-ttu-id="7f4d1-108">Dodatne informacije potražite u [radu s sadržajem i strukturom web-mjesta](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).</span><span class="sxs-lookup"><span data-stu-id="7f4d1-108">For more information, please refer to [Work with site content and structure](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).</span></span>

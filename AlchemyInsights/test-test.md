@@ -1,7 +1,7 @@
 ---
-title: Uvjeti nedostaju iz spremišta termina Online SharePoint
+title: Uvjeti koji nedostaju iz spremišta termina SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 10/30/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,44 +10,44 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 0f9efe980987c9ffc64fcf9d5d72a67f0a622867
-ms.sourcegitcommit: 23772ebd25a86a879ced40b10566a35e76a79eb5
+ms.openlocfilehash: 28913b8e57e39d51e8957b7408c19337a119c589
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/05/2019
-ms.locfileid: "36762045"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053505"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a><span data-ttu-id="475f6-102">Omogućivanja Bitlocker šifriranja s Intune</span><span class="sxs-lookup"><span data-stu-id="475f6-102">Enabling Bitlocker Encryption with Intune</span></span>
+# <a name="enabling-bitlocker-encryption-with-intune"></a><span data-ttu-id="19731-102">Omogućavanje BitLocker šifriranja s Intune</span><span class="sxs-lookup"><span data-stu-id="19731-102">Enabling Bitlocker Encryption with Intune</span></span>
 
-<span data-ttu-id="475f6-103">Pravila zaštite Intune krajnje točke mogu se konfigurirati postavke šifriranja Boitlocker za uređaje sustava Windows kao što je opisano u: Windows10 (i novijima) postavke za zaštitu uređaja pomoću Intune</span><span class="sxs-lookup"><span data-stu-id="475f6-103">Intune Endpoint Protection Policy can be used to configure Boitlocker encryption settings for Windows devices as described in : Windows10 (and later) settings to protect devices using Intune</span></span>
+<span data-ttu-id="19731-103">Intune pravilo zaštite sigurnosti može se koristiti za konfiguriranje postavke šifriranja Boitlocker za Windows uređaje kao što je opisano u: Windows10 (i noviji) postavke za zaštitu uređaja pomoću Intune</span><span class="sxs-lookup"><span data-stu-id="19731-103">Intune Endpoint Protection Policy can be used to configure Boitlocker encryption settings for Windows devices as described in : Windows10 (and later) settings to protect devices using Intune</span></span>
 
-<span data-ttu-id="475f6-104">Imajte na umu da mnogi uređaji novija izvodi Windows 10 podržava automatsko bitlocker šifriranje koje je pokrenulo bez aplikacije MDM pravila.</span><span class="sxs-lookup"><span data-stu-id="475f6-104">You should be aware that many newer devices running Windows 10 support automatic bitlocker encryption which is triggered without the application of MDM policy.</span></span> <span data-ttu-id="475f6-105">Aplikacija pravila to utjecati ako konfigurirane postavke koje nisu zadane.</span><span class="sxs-lookup"><span data-stu-id="475f6-105">This may impact application of policy if non default settings are configured.</span></span> <span data-ttu-id="475f6-106">Više detalja potražite u odjeljku najčešća pitanja vezana uz.</span><span class="sxs-lookup"><span data-stu-id="475f6-106">See FAQ for more detail.</span></span>
-
-
-<span data-ttu-id="475f6-107">Najčešća pitanja vezana uz  Q: koje izdanjima sustava Windows podržava uređaj šifriranje pomoću pravila zaštite krajnja točka?</span><span class="sxs-lookup"><span data-stu-id="475f6-107">FAQ  Q: Which editions of Windows support device encryption using the Endpoint Protection Policy?</span></span>
-<span data-ttu-id="475f6-108"> A: postavke u pravilima zaštite krajnje točke Intune su implementirati pomoću Bitlocker CSP.</span><span class="sxs-lookup"><span data-stu-id="475f6-108"> A: The settings in Intune Endpoint Protection Policy  are implemented using the Bitlocker CSP.</span></span><span data-ttu-id="475f6-109">Nisu sve izdanja niti izgradi Windows podržava Bitlocker CSP. 
-     </span><span class="sxs-lookup"><span data-stu-id="475f6-109">  Not all editions nor builds of Windows support the Bitlocker CSP. 
-     </span></span> <span data-ttu-id="475f6-110">Na ovom vrijeme izdanja sustava Windows: Enterprise; Podržane su Obrazovanje, mobilni, mobilni Enterprise i Professional (iz build 1809 nadalje).</span><span class="sxs-lookup"><span data-stu-id="475f6-110">At this time Windows Editions: Enterprise; Education, Mobile, Mobile Enterprise and Professional (from build 1809 onwards) are supported.</span></span>
+<span data-ttu-id="19731-104">Trebali biste biti svjesni da mnogi noviji uređaji sa sustavom Windows 10 podržavaju automatsko BitLocker šifriranje koje se aktivira bez primjene MDM pravila.</span><span class="sxs-lookup"><span data-stu-id="19731-104">You should be aware that many newer devices running Windows 10 support automatic bitlocker encryption which is triggered without the application of MDM policy.</span></span> <span data-ttu-id="19731-105">To može utjecati na primjenu pravila ako su konfigurirane nezadane postavke.</span><span class="sxs-lookup"><span data-stu-id="19731-105">This may impact application of policy if non default settings are configured.</span></span> <span data-ttu-id="19731-106">Pogledajte FAQ za više detalja.</span><span class="sxs-lookup"><span data-stu-id="19731-106">See FAQ for more detail.</span></span>
 
 
-
-
-<span data-ttu-id="475f6-111">Q: Ako uređaj već šifriran pomoću Bitlocker koristeći zadane postavke OS za metodu šifriranja i snaga šifriranja (XTS-AES-128) će Primjena pravila s različitim postavkama automatski okidač ponovnog šifriranja pogona s nove postavke?</span><span class="sxs-lookup"><span data-stu-id="475f6-111">Q: If a device is already encrypted with Bitlocker using the OS default settings for encryption method and cipher strength (XTS-AES-128)  will applying a policy with different settings automatically trigger re-encryption of the drive with the new settings?</span></span>
-
-<span data-ttu-id="475f6-112">A: Br.</span><span class="sxs-lookup"><span data-stu-id="475f6-112">A: No.</span></span> <span data-ttu-id="475f6-113">Za primjenu nove postavke snaga moraju prvo dešifrirati pogon.</span><span class="sxs-lookup"><span data-stu-id="475f6-113">In order to apply the new cipher settings the drive must first be decrypted.</span></span>
-
-<span data-ttu-id="475f6-114">Napomena za uređaje koji se upisani s Autopilot automatsko šifriranje koje bi doći tijekom OOBE se aktivira dok Intune pravila vrednovanja koja omogućuje pravila temelji postavke koristiti umjesto zadanih postavki OS</span><span class="sxs-lookup"><span data-stu-id="475f6-114">Note For devices being enrolled with Autopilot the automatic encryption that would occur during OOBE is not triggered until Intune policy is evaluated which allows the policy based settings to be used in place of the OS defaults</span></span>
+<span data-ttu-id="19731-107">Često  postavljana pitanja Q: koja izdanja sustava Windows podržavaju šifriranje uređaja pomoću pravila o zaštiti krajnjih točaka?</span><span class="sxs-lookup"><span data-stu-id="19731-107">FAQ  Q: Which editions of Windows support device encryption using the Endpoint Protection Policy?</span></span>
+<span data-ttu-id="19731-108"> O: postavke u pravilima zaštite sigurnosti Intune provode se pomoću BitLocker CSP-a.</span><span class="sxs-lookup"><span data-stu-id="19731-108"> A: The settings in Intune Endpoint Protection Policy  are implemented using the Bitlocker CSP.</span></span><span data-ttu-id="19731-109">Ne podržavaju sva izdanja ni verzije sustava Windows BitLocker CSP. 
+     </span><span class="sxs-lookup"><span data-stu-id="19731-109">  Not all editions nor builds of Windows support the Bitlocker CSP. 
+     </span></span> <span data-ttu-id="19731-110">U ovom trenutku izdanja sustava Windows: Enterprise; Podržano je obrazovanje, Mobilno, Mobilno poduzeće i profesionalni (od izgradnje 1809 prema naprijed).</span><span class="sxs-lookup"><span data-stu-id="19731-110">At this time Windows Editions: Enterprise; Education, Mobile, Mobile Enterprise and Professional (from build 1809 onwards) are supported.</span></span>
 
 
 
 
-<span data-ttu-id="475f6-115">Q ako uređaj šifrirani zbog aplikacije pravila Intune će ga se dešifrirati kada se uklone tog pravila?</span><span class="sxs-lookup"><span data-stu-id="475f6-115">Q If a device is encrypted as a result of the  application of Intune policy will it be decrypted when that policy is removed?</span></span>
+<span data-ttu-id="19731-111">P: ako je uređaj već šifriran s BitLocker pomoću zadane postavke OS-a za metodu šifriranja i čvrstoću šifriranje (XTS-AES-128) će primijeniti pravilo s različitim postavkama automatski aktivirati ponovno šifriranje pogona s novim postavkama?</span><span class="sxs-lookup"><span data-stu-id="19731-111">Q: If a device is already encrypted with Bitlocker using the OS default settings for encryption method and cipher strength (XTS-AES-128)  will applying a policy with different settings automatically trigger re-encryption of the drive with the new settings?</span></span>
 
-<span data-ttu-id="475f6-116">A: uklanjanje šifriranja Srodni pravila rezultirati dešifriranje pogona koji su konfigurirani.</span><span class="sxs-lookup"><span data-stu-id="475f6-116">A: Removal of encryption related policy does NOT result in decryption of the drives which were configured.</span></span>
+<span data-ttu-id="19731-112">A: ne.</span><span class="sxs-lookup"><span data-stu-id="19731-112">A: No.</span></span> <span data-ttu-id="19731-113">Kako biste primijenili nove postavke šifriranja, pogon mora prvo biti dešifriran.</span><span class="sxs-lookup"><span data-stu-id="19731-113">In order to apply the new cipher settings the drive must first be decrypted.</span></span>
+
+<span data-ttu-id="19731-114">Napomena za uređaje koji se upisuje autopilotom automatsko šifriranje koje će se pojaviti tijekom OOBE ne pokreće se dok se ne ocijeni pravila Intune koja omogućuje postavljanje postavki utemeljenih na pravilima za zadane postavke operacijskog sustava</span><span class="sxs-lookup"><span data-stu-id="19731-114">Note For devices being enrolled with Autopilot the automatic encryption that would occur during OOBE is not triggered until Intune policy is evaluated which allows the policy based settings to be used in place of the OS defaults</span></span>
 
 
 
 
-<span data-ttu-id="475f6-117">Q: Zašto se intune pravila usklađenosti ne Pokaži moj uređaj imaju "Omogućeno Bitlocker", ali je?</span><span class="sxs-lookup"><span data-stu-id="475f6-117">Q: Why does intune Compliance policy show that my device does not have "Bitlocker Enabled" but it is?</span></span>
+<span data-ttu-id="19731-115">Q ako je uređaj šifriran kao rezultat primjene pravila Intune hoće li se dešifrirati kada se ta pravila uklone?</span><span class="sxs-lookup"><span data-stu-id="19731-115">Q If a device is encrypted as a result of the  application of Intune policy will it be decrypted when that policy is removed?</span></span>
 
-<span data-ttu-id="475f6-118">A: na "Bitlocker omogućeno" postavka pravila usklađenosti intune koristi klijent Windows uređaj stanja Attestation (DHA).</span><span class="sxs-lookup"><span data-stu-id="475f6-118">A: The "Bitlocker enabled" setting in intune compliance policy utilizes the Windows Device Health Attestation  (DHA) client.</span></span> <span data-ttu-id="475f6-119">Ovaj klijent samo mjeri stanje uređaja prilikom pokretanja.</span><span class="sxs-lookup"><span data-stu-id="475f6-119">This client only measures device state at boot time.</span></span> <span data-ttu-id="475f6-120">Tako ako uređaj ne sustava nakon dovršetka bitlocker šifriranje klijentski servis DHA će izvješće bitlocker kao aktivni.</span><span class="sxs-lookup"><span data-stu-id="475f6-120">So if a device has not been rebooted since bitlocker encryption was completed the DHA client service will not report bitlocker as being active.</span></span>
+<span data-ttu-id="19731-116">O: uklanjanje pravila povezanih s šifriranjem ne rezultira dekriptiranje diskova koji su konfigurirani.</span><span class="sxs-lookup"><span data-stu-id="19731-116">A: Removal of encryption related policy does NOT result in decryption of the drives which were configured.</span></span>
+
+
+
+
+<span data-ttu-id="19731-117">P: Zašto neprecizno pravilo usklađenosti pokazuje da moj uređaj nema "BitLocker omogućen", ali je?</span><span class="sxs-lookup"><span data-stu-id="19731-117">Q: Why does intune Compliance policy show that my device does not have "Bitlocker Enabled" but it is?</span></span>
+
+<span data-ttu-id="19731-118">A: postavka "omogućeno za BitLocker" u pravilima usklađenosti koristi se s klijentskim programom za osiguranje sustava Windows (DHA).</span><span class="sxs-lookup"><span data-stu-id="19731-118">A: The "Bitlocker enabled" setting in intune compliance policy utilizes the Windows Device Health Attestation  (DHA) client.</span></span> <span data-ttu-id="19731-119">Ovaj klijent mjeri stanje uređaja samo u vrijeme pokretanja.</span><span class="sxs-lookup"><span data-stu-id="19731-119">This client only measures device state at boot time.</span></span> <span data-ttu-id="19731-120">Dakle, ako se uređaj nije ponovno pokrenuo jer je BitLocker šifriranje dovršen, usluga DHA klijenta neće prijaviti BitLocker kao aktivnu.</span><span class="sxs-lookup"><span data-stu-id="19731-120">So if a device has not been rebooted since bitlocker encryption was completed the DHA client service will not report bitlocker as being active.</span></span>

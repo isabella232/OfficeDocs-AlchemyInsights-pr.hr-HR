@@ -1,7 +1,7 @@
 ---
 title: Onemogući OneDrive
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -12,28 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 712004b2dfb36396707e0a39419e566fbfc6a751
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512866"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052929"
 ---
-# <a name="disable-onedrive"></a><span data-ttu-id="b1417-102">Onemogući OneDrive</span><span class="sxs-lookup"><span data-stu-id="b1417-102">Disable OneDrive</span></span>
+# <a name="disable-onedrive"></a><span data-ttu-id="5a5af-102">Onemogući OneDrive</span><span class="sxs-lookup"><span data-stu-id="5a5af-102">Disable OneDrive</span></span>
 
-<span data-ttu-id="b1417-103">Ovisno o vašim poslovnim potrebama možete onemogućiti pristup OneDrive i uslugama na nekoliko načina:</span><span class="sxs-lookup"><span data-stu-id="b1417-103">There are several ways you can disable access to OneDrive and its services depending on your business needs:</span></span>
+<span data-ttu-id="5a5af-103">Postoji nekoliko načina na koje možete onemogućiti pristup servisu OneDrive i njezinim uslugama ovisno o vašim poslovnim potrebama:</span><span class="sxs-lookup"><span data-stu-id="5a5af-103">There are several ways you can disable access to OneDrive and its services depending on your business needs:</span></span>
 
-[<span data-ttu-id="b1417-104">Prekidanje veze, skrivanje ili deinstalirajte aplikaciju OneDrive</span><span class="sxs-lookup"><span data-stu-id="b1417-104">Unlink, hide or uninstall the OneDrive Application</span></span>](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[<span data-ttu-id="5a5af-104">Poništavanje veze, skrivanje ili Deinstaliranje aplikacije OneDrive</span><span class="sxs-lookup"><span data-stu-id="5a5af-104">Unlink, hide or uninstall the OneDrive Application</span></span>](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[<span data-ttu-id="b1417-105">Dopusti samo sinkroniziranje za određene organizacije</span><span class="sxs-lookup"><span data-stu-id="b1417-105">Only allow syncing for specific organizations</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[<span data-ttu-id="5a5af-105">Dopusti sinkronizaciju samo za određene organizacije</span><span class="sxs-lookup"><span data-stu-id="5a5af-105">Only allow syncing for specific organizations</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
-[<span data-ttu-id="b1417-106">Onemogući OneDrive stvaranja web-mjesta za neki korisnici</span><span class="sxs-lookup"><span data-stu-id="b1417-106">Disable OneDrive site creation for some users</span></span>](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+[<span data-ttu-id="5a5af-106">Onemogući kreiranje web-mjesta servisa OneDrive za neke korisnike</span><span class="sxs-lookup"><span data-stu-id="5a5af-106">Disable OneDrive site creation for some users</span></span>](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[<span data-ttu-id="b1417-107">Pristup kontrolu SharePoint Online i OneDrive podatke na temelju mrežnog mjesta</span><span class="sxs-lookup"><span data-stu-id="b1417-107">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[<span data-ttu-id="5a5af-107">Upravljanje pristupom podacima sustava SharePoint online i servisu OneDrive na temelju mrežnog mjesta</span><span class="sxs-lookup"><span data-stu-id="5a5af-107">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[<span data-ttu-id="b1417-108">Onemogući osobne sinkronizaciju OneDrive</span><span class="sxs-lookup"><span data-stu-id="b1417-108">Disable personal OneDrive sync</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[<span data-ttu-id="5a5af-108">Onemogući osobnu sinkronizaciju s servisom OneDrive</span><span class="sxs-lookup"><span data-stu-id="5a5af-108">Disable personal OneDrive sync</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[<span data-ttu-id="b1417-109">Upravljanje vezama s uređaja Windows OneDrive i druge usluge</span><span class="sxs-lookup"><span data-stu-id="b1417-109">Manage connections from Windows devices to OneDrive and other services</span></span>](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[<span data-ttu-id="5a5af-109">Upravljanje vezama s Windows uređaja na OneDrive i drugim uslugama</span><span class="sxs-lookup"><span data-stu-id="5a5af-109">Manage connections from Windows devices to OneDrive and other services</span></span>](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 
