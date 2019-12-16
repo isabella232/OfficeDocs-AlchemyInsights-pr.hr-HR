@@ -1,26 +1,26 @@
 ---
-title: Web-mjesta i sadržaja strukturu uklonjena
+title: Uklonjena je struktura web-mjesta i sadržaja
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: c4301fd892e82f2d41c69f0e65b319b92f676be2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: cbdb461220acd38a0b7c1ec45fb76da67068010a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36749468"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053577"
 ---
-# <a name="site-and-content-structure-removed"></a>Web-mjesta i sadržaja strukturu uklonjena
+# <a name="site-and-content-structure-removed"></a>Uklonjena je struktura web-mjesta i sadržaja
 
-Počevši u listopadu 2018 sadržaja web-mjesta i stranice struktura više ne podržava ili primati ažuriranja značajka. Postavke veza stranicu SiteManager.aspx će se ukloniti iz SharePoint Online i izravan pristup bit će ograničen administratori zbirke web-mjesta dok 2019 ožujak, u koje vrijeme na stranicu sadržaja web-mjesta i struktura će biti potpuno Umirovljena. 
+Počevši od listopada 2018, stranica sadržaj i struktura web-mjesta više neće biti podržana ni primati ažuriranja značajki. Postavke veza na stranicu SiteManager. aspx uklonit će se s web-mjesta SharePoint Online, a izravni pristup bit će ograničen na administrator zbirke web-lokacija do ožujka 2019, u kojem će se trenutku stranica sadržaj i struktura web-mjesta potpuno povući. 
 
-Napomena: Kao zaobilazno rješenje dok se značajka potpuno je u mirovini, administratori zbirke web-mjesta možete kretati admin centar Microsoft 365, odaberite Poploči SharePoint i dodavanje ili uređivanje URL zamjenjujući ' / Sharepoint.aspx' s ' / Sitemanager.aspx'. 
+Bilješka: kao zaobilazno rješenje dok se značajka ne povuče u potpunosti, administratori zbirke web-mjesta mogu se kretati do centra za administraciju sustava Microsoft 365, odabrati pločicu SharePoint i dodavati ili uređivati URL zamjenjujući '/SharePoint.aspx ' s '/Sitemanager.aspx '. 
 
 
-Koristite datoteku premjestiti i kopiju za upravljanje web-mjesta sadržaja i strukture. Za dodatne informacije pogledajte [Kopiranje datoteka i mapa između OneDrive i SharePoint web-mjesta](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
+Korištenje datoteke Premjesti i Kopiraj za upravljanje sadržajem i strukturom web-mjesta. Dodatne informacije potražite u mapi [Kopiranje datoteka i mapa između servisa OneDrive i SharePoint web-mjesta](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
 
-Za dodatne informacije pogledajte [Rad s web-mjesta sadržaja i strukture](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).
+Dodatne informacije potražite u [radu s sadržajem i strukturom web-mjesta](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).

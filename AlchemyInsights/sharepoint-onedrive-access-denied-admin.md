@@ -1,28 +1,28 @@
 ---
-title: Rješavanje problema s porukama pristup odbijen
+title: Otklanjanje poteškoća s porukama odbijeno za pristup
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 4e6fdc6fbf745d1702bf1a7b3474ac82f6662305
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 57919e6dbd81a5bf3b17fb067485e8eec23b7d4c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751268"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051417"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Pristup odbijen poruke u centru Sharepoint OneDrive Admin rješavanje problema
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Otklanjanje poteškoća s porukama odbijeno u centru za administraciju sustava SharePoint/OneDrive
 
-Ako primate uskraćen prilikom pokušaja Pregledaj centar Admin Sharepoint OneDrive pristup, provjerite je li taj [dodeljivanje licence korisniku](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One). Ako korisnik ima licencu, također provjerite su [dodijeljeni ulogu administratora](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) koji može pristupiti admin centre.
+Ako primite poruku o odbijanju pristupa prilikom pokušaja pregledavanja u centar za administraciju sustava SharePoint/OneDrive, provjerite jeste li [korisniku dodijelili licencu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One). Ako korisnik ima licencu, također biste trebali osigurati da im je [dodijeljena administratorska uloga](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) koja može pristupiti centrima za administraciju.
 
-Ovaj se problem može pojaviti kada korisnik izbrisana i stvorena ponovo s istom korisniku glavni naziv (UPN). Novi račun stvorena pomoću različite PUID (jedinstveni ID Passport) vrijednost. Kada korisnik pokuša pristupiti zbirci web-mjesta ili njihovim OneDrive, korisnik ima neispravan PUID. Drugi scenarij uključuje imenik sinkronizacije s u Active Directory organizacijsku jedinicu (OU). Ako korisnici imaju već prijavljeni u SharePoint, a zatim su premještene različite OU i resynced SharePoint, može doći taj problem.
+Taj se problem može pojaviti i kada se korisnik izbriše i ponovno stvori s istim korisničkim nazivom (UPN). Novi račun kreira se pomoću različite vrijednosti PUID Kada korisnik pokuša pristupiti zbirci web-mjesta ili svom servisu OneDrive, korisnik ima neispravan PUID. Drugi scenarij uključuje sinkronizaciju direktorija s organizacijskom jedinicom Active Directory (OU). Ako su se korisnici već prijavili u SharePoint, a zatim se premještaju u drugi OU i ponovno sinkroniziraju sa sustavom SharePoint, možda će doživjeti taj problem.
 
-Da biste riješili taj problem, trebali biste vratiti izvornu UPN s korake u članku [Vraćanje korisnika u Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+Da biste riješili taj problem, trebali biste vratiti izvorni UPN s koracima u članku, [vratiti korisnika u Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
 
-Napomena: Ako centar za OneDrive ili SharePoint administraciju nije dostupno više korisnike koji su prethodno imali pristup, možda postoji problem privremeni servisa.  [Provjerite servisa stanja nadzorne ploče](https://portal.office.com/adminportal/home#/servicehealth).
+Napomena: Ako servis OneDrive ili SharePoint admin centar nije dostupan više korisnika koji su ranije imali pristup, možda postoji problem privremenog servisa.  [Provjerite nadzornu ploču zdravstvenog stanja usluge](https://portal.office.com/adminportal/home#/servicehealth).
 
 

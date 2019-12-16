@@ -1,7 +1,7 @@
 ---
-title: Moderna web-mjesta kao korijensko web-mjesto
-ms.author: efrene
-author: efrene
+title: Moderna stranica kao root stranice
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ms.date: 8/7/2019
@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: a3cf44d52a3948634fc0eed64c852ff17515fd9b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 2e2bb02b9dbaf7f8ede0b4c5ba8c8f29453309cb
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36753896"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054694"
 ---
-# <a name="modern-site-as-root-site"></a>Moderna web-mjesta kao korijensko web-mjesto
+# <a name="modern-site-as-root-site"></a>Moderna stranica kao root stranice
 
-Ćemo imati započela za rollout novu značajku koja će vam omogućiti da [Zamijeni vaš klasični mjesta korijensko web-mjesto s Moderna web-mjesta](https://docs.microsoft.com/sharepoint/modern-root-site). Koristite [Pozovite SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) Zamijeni mjesto web-mjesta s drugog web-mjesta vrijeme arhiviranja izvornog web-mjesta. Dostupno za timskog web-mjesta (nije povezano s grupom) i komunikacije web-mjesta.
+Započeli smo s uvođenju nove značajke koja će vam omogućiti da [zamijenite svoje klasično web-mjesto root stranicu s modernim stranicama](https://docs.microsoft.com/sharepoint/modern-root-site). Pomoću poziva [-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) zamijenite mjesto web-mjesta s drugim web-mjestom dok arhivirate originalno web-mjesto. Dostupno i za timsko web-mjesto (nije povezano s grupom) i web-mjesto komunikacije.
 
 >[!Important]
-> Brisanje klasični korijensko web-mjesto za stvaranje Moderna komunikacije web-mjesta. Ovo je Microsoft ne podržava. Brisanje korijenskog web-mjesta će napraviti sve SharePoint web-mjestima u vašoj organizaciji nedostupni na sve korisnike dok ne obnovite web-mjesto ili stvorite novo web-mjesto na URL-u istoj. Ćete smo komunikaciji značajka putem centra za poruku. Značajka biti uključen u vaše klijentske uskoro očekivati.
+> Nemojte brisati klasični root web stranice za stvaranje moderne komunikacijske stranice. Microsoft ne podržava to. Brisanjem korijenskog web-mjesta sve će SharePoint web-mjesta u vašoj organizaciji biti nedostupne svim korisnicima, sve dok ne vratite web-mjesto ili stvorite novo web-mjesto na istom URL-u. Mi ćemo komunicirati ovu značajku putem centra za poruke. Trebali biste očekivati da će značajka biti uključena u vašeg stanara uskoro.
 
 ## <a name="known-issues-with-swapping-sites"></a>Poznati problemi s zamjene web-mjesta
-- Ciljno mjesto može vratiti "nije pronađen" Pogreška (HTTP 404) za kratkog vremenskog razdoblja.
-- Sadržaj će morati biti ponovno pretražiti da radi indeksiranja da biste ažurirali indeks pretraživanja. Postoji bez ručnog korak potreban ovdje, to će učiniti automatski.
-- Ništa zavise "statički" veze (poput datoteka sinkronizacije datoteka i OneNote) morat ćete ručno ispraviti.
-- Web-mjesta Project Server možda morati provjeriti da biste bili sigurni da su i dalje povezani ispravno. 
+- Ciljno web-mjesto može vratiti pogrešku "nije pronađeno" (HTTP 404) u kratkom vremenskom razdoblju.
+- Sadržaj će se morati obnoviti za ažuriranje indeksa pretraživanja. Ovdje nije potreban ručni korak, to će biti učinjeno automatski.
+- Sve što ovisi o "statičkim" vezama (kao što su datoteka Sync i OneNote datoteke) morat će se ručno ispraviti.
+- Možda će biti potrebno provjeriti web-mjesta Project Servera kako bi se osiguralo da su još uvijek ispravno povezane. 

@@ -1,7 +1,7 @@
 ---
-title: Pretraživanje i hibridnog
-ms.author: efrene
-author: efrene
+title: Pretraživanje i hibridni
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: adc5dace5da9e9b1c52697211e5b770d5483994b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79b1c47b33e2e5c8b46a93ef2edbb1e9e0c8ff1d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504815"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048680"
 ---
-# <a name="search-and-hybrid"></a>Pretraživanje i hibridnog
+# <a name="search-and-hybrid"></a>Pretraživanje i hibridni
 
-- Trebate informacije o hibridno i vanjskog pretraživanja u SharePoint Online? Ako je tako, pogledajte [Ovaj članak](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+- Trebate li informacije o hibridnom i vanjskim pretraživanjem u sustavu SharePoint Online? Ako je tako, pogledajte [ovaj članak](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
-- Trebate informacije o planiranju hibridno vanjskog pretraživanja?  Ako je tako, pogledajte [Ovaj članak](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+- Trebate li informacije o planiranju hibridnog vanjskog pretraživanja?  Ako je tako, pogledajte [ovaj članak](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
 
 
 

@@ -1,7 +1,7 @@
 ---
-title: Dopusti Prilagođena skripta za omogućavanje značajki
-ms.author: efrene
-author: efrene
+title: Dopusti prilagođenu skriptu za omogućavanje značajki
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: cc39fd3e840ac17af2aea242551015074eb985cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4fe0384a97e2f40c8d0dd12bafd84d19edaeb386
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548887"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051777"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Dopusti Prilagođena skripta za omogućavanje značajki
+# <a name="allow-custom-script-to-enable-features"></a>Dopusti prilagođenu skriptu za omogućavanje značajki
 
-Administratori možda morati da **Dopusti Prilagođena skripta** omogućiti određene značajke. Na primjer, korisnici mogu primati pogreška 403 pri povezivanju SharePoint pomoću programa SharePoint Designer. Za detaljne korake, Primjeri i pogledajte razmatranja [Dopusti ili spriječiti prilagođene skripte](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Administratori će možda morati **dopustiti da Prilagođena skripta** Omogući određene značajke. Na primjer, korisnici mogu primiti pogrešku 403 kada se povezuju s SharePoint Designeru. Za detaljne korake, primjere i razmatranja vidi [Dopusti ili spriječi prilagođenu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
-Ako korisnici naišli **pogreška 403** sa SharePoint ili OneDrive, možete provjeriti [nadzorne ploče servis stanja sustava](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste odredili je li Poznati problem s razlučivosti u tijeku prije Nazovite podršku ili trošite vrijeme za otklanjanje poteškoća. Problem može biti vrlo privremene i Microsoft već identificirani, ali vrijeme između identifikacija problema i knjiženja servisa stanja nadzorne ploče mogu biti u lapse. Nastavite provjerite nadzorne ploče servisa stanja za daljnje ažuriranja.
+Ako korisnici nailazite na **pogrešku 403** sa sustavom SharePoint ili servisom OneDrive, možete provjeriti [nadzornu ploču zdravstvenog](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) sustava da biste utvrdili je li poznati problem s rezolucijom u tijeku prije nego što nazovete podršku ili provedete vrijeme otklanjanja poteškoća. Problem može biti vrlo privremeni i već identificiran od strane Microsofta, ali može doći do isteka vremena između identifikacije izdanja i knjiženja na nadzornu ploču za zdravlje usluga. Nastavite provjeravati nadzornu ploču za zdravlje usluga za daljnja ažuriranja.
 

@@ -1,7 +1,7 @@
 ---
-title: Izbriši grupu web-mjesta
-ms.author: kaarins
-author: kaarins
+title: Izbriši web-mjesto grupe
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 1/24/2019
 ms.audience: Admin
@@ -14,21 +14,21 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d1677fe1734386e38992811ec994c62286510eaa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513711"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053037"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Brisanje mjesta sustava SharePoint koja pripada grupi Office 365
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Brisanje SharePoint web-mjesta koje pripada grupi sustava Office 365
 
-Globalni administratori i administratori SharePoint sada možete izbrisati web-mjesta koja pripadaju grupi Office 365. Brisanje tih web-mjesta izbrisat će grupi i sve njegove resurse, uključujući poštanski sandučić programa Outlook i kalendar i bilo kojem timovi kanale.
+Globalni administratori i administratori sustava SharePoint sada mogu izbrisati web-mjesta koja pripadaju grupi sustava Office 365. Brisanjem tih web-mjesta izbrisat će se grupa i svi njezini resursi, uključujući poštanski sandučić i kalendar programa Outlook te bilo koje kanale timova.
   
 Važno:
 
-- Oporavi izbrisane mjesta 93 dana. Za više informacija pogledajte prikaz i vratiti izbrisane web-mjesta. Imajte na umu izbrisane grupe mora se povratiti unutar 30 dana.
-- Ako web-mjesto je dio pravila zadržavanja, možda nećete moći izbrisati dok web-mjesto uklonjeno iz u [Sigurnost &amp; centar Admin usklađenosti](https://protection.office.com/?rfr=AdminCenter#/retention). Dodatne informacije potražite u odjeljku [Pregled pravila zadržavanja](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .
+- Izbrisane stranice možete oporaviti za 93 dana. Dodatne informacije potražite u prikazu i vraćanju izbrisanih web-mjesta. Zabilježite da izbrisane grupe moraju biti obnovljena u roku od 30 dana.
+- Ako je web-mjesto dio pravila zadržavanja, možda ga nećete moći izbrisati dok se web-mjesto ne ukloni iz [centra za administraciju sigurnosti &amp; usklađenosti](https://protection.office.com/?rfr=AdminCenter#/retention). Pogledajte [Pregled pravila zadržavanja](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) za više informacija.
   
-Za [Prikaz i vraćanja izbrisati web-mjesta u novi centar admin SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)odaberite **izbrisati web-mjesta**. Odaberite web-mjesta koja je izbrisana i odaberite vraćanje ili brisanje (koje web-mjesta trajno će se izbrisati). Da biste izbrisali aktivno web-mjesto, odaberite **aktivnog** mjesta, odaberite web-mjesto i odaberite **Izbriši**. Za dodatne informacije pogledajte [Upravljanje web-mjestima u novi centar za administraciju sustava SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Za [Prikaz i vraćanje izbrisanih web-mjesta u novom centru za administraciju sustava SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)odaberite **izbrisana web-mjesta**. Odaberite web-mjesto koje je izbrisano i odaberite Vrati ili Izbriši (koji će trajno izbrisati web-mjesto). Da biste izbrisali aktivno web-mjesto, odaberite **aktivna** web-mjesta, odaberite web-mjesto i odaberite **Izbriši**. Dodatne informacije potražite [u okviru Upravljanje web-lokacijama u novom centru za administraciju sustava SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   

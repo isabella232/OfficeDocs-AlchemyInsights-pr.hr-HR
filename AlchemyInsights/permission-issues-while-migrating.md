@@ -1,22 +1,22 @@
 ---
-title: Dozvolu problemi prilikom migracije
+title: Problemi s dozvolama tijekom migracije
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: ccb2304acae2839e809e9e6a4d023d7e6548555b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: a9e0746327dd092d6232a43d12e354a3a64c11be
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752672"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054442"
 ---
-# <a name="permissions-issues-while-migrating"></a>Dozvole problemi prilikom migracije
+# <a name="permissions-issues-while-migrating"></a>Problemi s dozvolama tijekom migracije
 
-Informacije vezane uz uobičajene probleme dozvolu tijekom migracije SharePoint Online potražite [Razumevanje dozvole i SharePoint alat za migraciju.](https://go.microsoft.com/fwlink/?linkid=2019753)
+Informacije o uobičajenim problemima s dozvolama tijekom migracije na SharePoint Online potražite u članku [razumijevanje dozvola i alat za migraciju sustava SharePoint.](https://go.microsoft.com/fwlink/?linkid=2019753)
   
 

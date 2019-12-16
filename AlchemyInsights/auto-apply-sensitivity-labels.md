@@ -1,7 +1,7 @@
 ---
-title: Automatski Primijeni osjetljivost natpise
-ms.author: stephow
-author: stephow-MSFT
+title: Automatski primijeni osjetljivosti naljepnice
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517383"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050301"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Automatski Primijeni osjetljivost natpise
+# <a name="auto-apply-sensitivity-labels"></a>Automatski primijeni osjetljivosti naljepnice
 
-Osjetljivost natpisa može ručno primijeniti na sadržaj korisnici ili konfigurirati ih tako da se automatski primijeniti na sadržaj.
+Moguće je da se oznake osjetljivosti mogu ručno primijeniti na sadržaj ili ih možete konfigurirati da se automatski primjenjuju na sadržaj.
 
-Automatski primjene osjetljivost natpise uklanja potrebu za uvježbavanje korisnicima kako klasificirati sadržaja i morate da ih konfiguracijama pravila obavijesti.
+Automatsko nanošenje osjetljivosti oznake uklanja potrebu za obuku korisnika o tome kako klasificirati sadržaj i potrebu da ih obavijestiti o konfiguracijama politika.
 
-Kako biste automatski primijenili natpise, sljedeće potreban je:
+Da biste automatski primijenili natpise, potrebno je sljedeće:
 
-- Azure informacije zaštita P2 pretplate
-- [Preuzimanje i instalacija informacije zaštita Azure unified označavanje klijenta](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure zaštita informacija P2 pretplata
+- [Preuzmite i instalirajte Azure zaštita informacija Unified označavanje klijenta](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Možemo radite Ugrađena podrška neće zahtijevati klijent Objedinjena labeling zaštitu Azure informacije u budućnosti.
+Radimo na izvornim podrškom koja neće zahtijevati Azure zaštitu informacija Ujedinjenog klijenta u budućnosti.
 
-Trenutno samo Windows podržava Objedinjena labeling klijenta.  Značajka još nije podržana na Mac, iOS i Android.
+Trenutno, samo Windows podržava jedinstveni etiketiranje klijenta.  Značajka još nije podržana na Macu, iOS i Android.
 
-Dodatne informacije o osjetljivosti natpise i primjene ih automatski sadržaj potražite:
+Dodatne informacije o osjetljivom oznakama i automatsko nanošenje sadržaja potražite u nastavku:
 
-- [Pregled naljepnica osjetljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Automatski Primijeni natpis Osjetljivost sadržaja](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Pregled osjetljivih naljepnica](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Automatski primijeni oznaku osjetljivosti na sadržaj](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

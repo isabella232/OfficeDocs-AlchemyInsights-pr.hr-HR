@@ -1,30 +1,30 @@
 ---
-title: Pregled podataka Sprječavanje gubitka (DLP)
+title: Pregled gubitka podataka (DLP)
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: ce9353f81caba1717d92c913b26800ca67890dd8
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755120"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053073"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Pregled podataka Sprječavanje gubitka (DLP)
+# <a name="data-loss-prevention-dlp-overview"></a>Pregled gubitka podataka (DLP)
 
-S DLP pravila, možete:
+Pomoću pravila o DLP-u možete:
 
-- Preko mnoga mjesta, Exchange Online, SharePoint Online i OneDrive poslovnih identificirati osjetljive informacije.
-
-
-Ako, na primjer, možete identificirati bilo koji dokument koji sadrži broj kreditne kartice koji je spremljen u bilo OneDrive za poslovne web-mjesta ili možete nadzirati samo OneDrive mjesta određene osobe.
-
-- Sprečavanje slučajnog dijeljenja osjetljive informacije.
+- Identificirajte osjetljive informacije na mnogim lokacijama, kao što su Exchange Online, SharePoint online i OneDrive za tvrtke.
 
 
-Za više informacija pregledajte [članak](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Na primjer, možete identificirati bilo koji dokument koji sadrži broj kreditne kartice koji je pohranjen na bilo kojem web-mjestu servisa OneDrive za tvrtke ili možete nadzirati samo web-mjesta servisa OneDrive pojedinih osoba.
+
+- Spriječite slučajno dijeljenje osjetljivih informacija.
+
+
+Za više informacija pregledajte sljedeći [članak](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 

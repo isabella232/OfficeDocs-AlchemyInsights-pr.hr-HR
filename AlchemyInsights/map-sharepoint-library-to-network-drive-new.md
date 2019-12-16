@@ -1,9 +1,8 @@
 ---
-title: Karta SharePoint biblioteku s mrežnim pogonom
-ms.author: efrene
-author: efrene
+title: Mapiranje SharePoint biblioteke u mrežni pogon
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
-ms.date: 12/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +10,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: c7b16cb448684d3f68be84fda4d9de201b953ffb
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: ab1b9a0a7e9f9cd2ffabfb2b5af75401d13207a9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734877"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049149"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Karta SharePoint biblioteku s mrežnim pogonom
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mapiranje SharePoint biblioteke u mrežni pogon
 
-Mapiranje biblioteku kao mrežni pogon je privremena i podržani samo putem preglednika Internet Explorer. Povremeno morate otvorite SharePoint web-mjesta u programu Internet Explorer i odaberite spriječiti istek sesije **ostaju potpisane u** . Umjesto toga, [sinkronizirati datoteke SharePoint s novom klijentu sinkronizaciju OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> koji pruža [Datoteke na zahtjev](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Sve datoteke u OneDrive pristupiti bez korištenja lokalnog prostora.
+Mapiranje biblioteke kao mrežnog pogona privremeno je i podržano samo putem programa Internet Explorer. Morate povremeno otvoriti SharePoint web-mjesto u pregledniku Internet Explorer i odabrati **boravak prijavljen** kako biste spriječili da sesija istječe. Umjesto toga,</a> [Sinkronizirajte SharePoint datoteke s novim klijentskim sinkronizacijom servisa OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) koji pruža [datoteke na zahtjev](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Pristupite svim datotekama na servisu OneDrive bez korištenja lokalnog prostora za pohranu.
 
-Ako odaberete preslikati pogon umjesto u [novom klijentu OneDrive sinkronizaciju](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), provjerite je li slijedite korake u nastavku članka. 
-
-
-**Kako konfigurirati i rješavanje problema mapirani mrežni pogoni**
+Ako se odlučite za mapiranje pogona umjesto [korištenja novog klijenta za sinkronizaciju s servisom OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), slijedite korake iz članka u nastavku. 
 
 
-Pogledajte [Otklanjanje mapirani mrežni pogoni povezati SharePoint Onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+**Konfiguriranje i otklanjanje poteškoća s mapiranih mrežnih pogona**
 
-Napomena: Ako koristite Internet Explorer 10 s Windows 8 ili Windows 7 i dobiti **pristup odbijen** ili **put se ne može pristupiti** prilikom mapiranja pogona, instalirajte [hitni popravak](https://support.microsoft.com/help/2846960) da biste riješili taj problem. 
+
+Pogledajte [Otklanjanje poteškoća s mapiranih mrežnih pogona koji se povezuju s programom SharePoint onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+
+Napomena: Ako koristite Internet Explorer 10 sa sustavom Windows 8 ili Windows 7 i primite zahtjev **odbijen** ili **put nije dostupan** prilikom mapiranja pogona, instalirajte [ovaj hitni popravak](https://support.microsoft.com/help/2846960) da biste riješili taj problem. 

@@ -1,7 +1,7 @@
 ---
-title: Nove natpise zadržavanja automatski stvara
-ms.author: stephow
-author: stephow-MSFT
+title: Nove oznake zadržavanja stvorene automatski
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 2df788f74e7e6464d4a51653709e983046dd2f8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522171"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054658"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nove natpise zadržavanja automatski stvara
+# <a name="new-retention-labels-created-automatically"></a>Nove oznake zadržavanja stvorene automatski
 
-Možda ćete vidjeti [tri nove natpise Office 365 zadržavanja](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) automatski stvara u organizaciji pod **zadržavanja natpise** u admin centar sigurnosti ili usklađenosti. Nazivi naljepnica su:
+Možete vidjeti [tri nove oznake zadržavanja sustava Office 365](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) stvorene automatski u vašoj organizaciji pod **oznakama zadržavanja** u centru za administraciju sigurnosti ili usklađenosti. Nazivi naljepnica su:
 
 - Operativni postupak
-- Opće poslovne
-- Sporazum ugovora
+- Poslovni Opći
+- Ugovor o ugovoru
 
-To će pojaviti kada prvi put odaberete **Plana datoteka** ako nema drugih natpisa zadržavanja stvorena. Ove natpise automatski se stvaraju i, ako je potrebno, mogu biti uklonjene ako oni imaju još nije primijenjena na sadržaj. Da biste uklonili naljepnice:
+To će se dogoditi prvi put kada odaberete **datoteku plan** ako nema drugih oznaka zadržavanja stvorena. Te se oznake stvaraju automatski i, ako je potrebno, mogu se ukloniti ako još nisu primijenjene na sadržaj. Da biste uklonili natpise:
 
-1. U admin centar sigurnosti ili usklađenosti odaberite **klasifikacije** > **natpise** > kartica**zadržavanja** .
+1. U centru za administraciju sigurnosti ili usklađenosti odaberite **klasifikacija** > **naljepnica** > **zadržavanja** kartica.
 
-1. Odaberite zadržavanja natpise koje želite ukloniti > **izbrisati natpis** > **da** za brisanje natpis.
+1. Odaberite oznake zadržavanja koje želite ukloniti > **Izbriši oznaku** > **da** da biste izbrisali oznaku.
 
-Upravitelj plana datoteka, možete upravljati zadržavanja natpise i pravilima u vašoj organizaciji - za više informacija pogledajte [Pregled Upravitelj za planiranje datoteka](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
+Pomoću upravitelja plana datoteka možete upravljati oznakama i pravilima zadržavanja u organizaciji-za više informacija pogledajte [pregled upravitelja plana datoteka](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).

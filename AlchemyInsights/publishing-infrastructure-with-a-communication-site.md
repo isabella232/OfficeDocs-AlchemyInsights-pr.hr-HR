@@ -1,7 +1,7 @@
 ---
-title: Infrastruktura objavljivanja s web-mjesta komunikacije
+title: Objavljivanje infrastrukture s komunikacijskom stranicom
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 1/14/2019
 ms.audience: ITPro
 ms.topic: article
@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: 66e133f427913282e21fb8edb9f9b2b2294734f8
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: ad91fd901c2203841b75510de8ed4573aa0ddce1
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752384"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054297"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>Infrastruktura objavljivanja s web-mjesta komunikacije
+# <a name="publishing-infrastructure-with-a-communication-site"></a>Objavljivanje infrastrukture s komunikacijskom stranicom
 
 
-Omogućavanje značajke Infrastruktura objavljivanja programa SharePoint Server je s web-mjestima komunikacije **nije podržana** . 
+Omogućavanje funkcije objavljivanja infrastrukture sustava SharePoint Server **nije podržano** s komunikacijskim web-lokacijama. 
   
-Za dodatne informacije pogledajte [Premještanje iz objavljivanje mjesta komunikacije web-mjesta](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
+Dodatne informacije potražite u okviru [premještanja s web-mjesta objavljivanja na web-mjesta komunikacije](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
   
 

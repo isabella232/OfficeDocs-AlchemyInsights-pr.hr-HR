@@ -1,26 +1,26 @@
 ---
-title: "'OneDrive račun bit će izbrisane' poruka"
+title: "\"Račun za OneDrive izbrisat će se\" poruka"
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 10/30/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: 6e9027e4bf2baa9b1a04177651ec627723ba4a4b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: a3aefb6685ed6dce166ad422ddaafd8f62f18bb3
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36753500"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053289"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>Poruku "OneDrive račun bit će izbrisane"
+# <a name="onedrive-account-will-be-deleted-message"></a>"OneDrive račun će biti izbrisan" poruka
 
-Ako ste primili poruku e-pošte iz email@mail.onedrive.com upozorenje da "OneDrive račun bit će izbrisane" Imajte to je vaš osobni OneDrive.com račun, nije vaše OneDrive za poslovni račun. 
+Ako ste primili poruku e-pošte od email@mail.onedrive.com upozorenja da će "vaš račun za OneDrive biti izbrisan" Napominjemo da je to vaš osobni OneDrive.com račun, a ne račun za OneDrive za tvrtke. 
   
-Ako niste sigurni hoće li koristiti osobni OneDrive, prijavite se u onedrive.com ponovo aktivirati i pregledati vaš račun.
+Ako niste sigurni koristite li osobni OneDrive, prijavite se na onedrive.com da biste ponovno aktivirali i pregledali svoj račun.
   
-Za dodatne informacije pogledajte [Zašto niste dobivam poruku koja kaže da će izbrisati vaš račun e-pošte?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+Dodatne informacije potražite u nastavku [Zašto sam dobio email koji kaže da će vaš račun biti izbrisan?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 

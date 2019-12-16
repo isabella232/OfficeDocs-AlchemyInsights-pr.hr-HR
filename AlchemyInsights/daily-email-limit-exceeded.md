@@ -1,9 +1,8 @@
 ---
-title: Premašeno je dnevno ograničenje e-pošte. Tijek rada obustavljen.
-ms.author: efrene
-author: efrene
+title: Prekoračeno je svakodnevno ograničenje e-pošte. Tijek rada je suspendiran.
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: e3fbcd5bfc279847cfb39140c3689f5433b61509
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514435"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053109"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Dnevni e-pošta Premašeno ograničenje. Tijek rada obustavljen.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Dnevna poruka e-pošte premašena. Tijek rada je suspendiran.
 
-Ova se pogreška možda primili u sljedećim scenarijima:
+Ova pogreška može se primiti u sljedećim scenarijima:
 
-- Imate tijeka rada u SharePoint Online koji koriste SharePoint 2010 ili vrsta platformi SharePoint 2013 tijeka rada.
-- Tijek rada konfiguriran za slanje poruka e-pošte prilagođenih više od 200 korisnicima na vrijeme, više od 10 000 primatelja po danu ili na više od 30 poruka u minuti.
-- Kada pokrenete tijek rada, poruka e-pošte nije poslana i primijetiti sljedeće ponašanje:
-    - Za tijek rada pomoću vrsta platformi SharePoint 2013 pregledavati stranicu **Stanje tijeka rada** . Na stranici Stanje tijeka rada **Interna Status** postavljen u **pokrenuto**i prikazuje balončić informacije **nije bilo moguće poslati primatelju**.
+- Imate tijek rada u SharePoint online koji koristi vrstu platforme SharePoint 2010 ili SharePoint 2013 tijek rada.
+- Tijek rada je konfiguriran za slanje prilagođene poruke e-pošte na više od 200 korisnika u isto vrijeme, više od 10.000 primatelja po danu ili više od 30 poruka u minuti.
+- Kada pokrenete tijek rada, poruka e-pošte nije poslana i primijetite sljedeće ponašanje:
+    - Za tijek rada koji koristi vrstu platforme SharePoint 2013, potražite stranicu **status tijeka rada** . Na stranici status tijeka rada, **interni status** je postavljen na **pokretanje**, a informativni balon prikazuje **nemogućnost slanja primatelju**.
 
-Da biste zaobišli taj problem, konfigurirajte tijeka rada za slanje poruka e-pošte bez Prekoračenje [ograničenja Exchange Online pošiljatelja](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Ako, na primjer, koristiti zaustavljanje u tijeku rada, slanje e-pošte grupi Office 365, grupu raspodjele ili pošte omogućeno sigurnosne grupe ili poslati poruku manje od 200 primateljima odjednom.
+Da biste zaobišli taj problem, konfigurirajte tijek rada za slanje poruka e-pošte bez prekoračenja [ograničenja primatelja Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Na primjer, koristite pauzu u tijeku rada, pošaljite e-poštu u Office 365 grupu, grupu raspodjele ili sigurnosnu grupu koju je omogućila pošta ili poruku pošaljite manje od 200 primatelja odjednom.
 
 
-Za dodatne informacije pogledajte sljedeći [članak](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
+Dodatne informacije potražite u sljedećem [članku](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
 
 ## <a name="related-topics"></a>Povezane teme
-- [Stvaranje toka](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint i tijek](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [Stvori tok](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint i Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

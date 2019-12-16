@@ -1,7 +1,7 @@
 ---
-title: Pretvaranje web-mjesta u web-mjestu koncentratora
-ms.author: kaarins
-author: kaarins
+title: Pretvaranje web-mjesta u središte središta
+ms.author: pebaum
+author: pebaum
 ms.date: 12/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,23 +11,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5b8bb4d7a492db44888bb99bb21c59985295e13
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516735"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049941"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Stvaranje web-mjesta SharePoint koncentrator
+# <a name="create-a-sharepoint-hub-site"></a>Stvaranje SharePoint mjesta koncentratora
 
-1. U novi SharePoint administraciju centar pod **web-mjesta**pritisnite **aktivna web-mjesta**.
+1. U novom centru za administraciju sustava SharePoint u odjeljku **web-** mjesta kliknite **aktivna web-mjesta**.
 
-2. Odaberite web-mjesto želite biti web-mjesto koncentratora, kliknite **web-mjesto koncentratora**i kliknite **Dnevnik kao web-mjesto koncentratora**.
+2. Odaberite web-mjesto koje želite biti mjesto koncentratora, kliknite **mjesto koncentratora**, a zatim kliknite **Registriraj kao središte mjesta**.
 
-3. Unesite zaslonski naziv za web-mjesto koncentratora i navedite pojedinačni korisnici ili grupe sigurnosti želite dopustiti koncentrator pridružiti web-mjesta.
+3. Unesite zaslonski naziv za web-mjesto koncentratora i navedite pojedinačne korisnike ili sigurnosne grupe koje želite dopustiti da poveže web-mjesta s koncentratorom.
 
     > [!NOTE]
-    >  Preporučujemo da odaberete komunikacije web-mjesta ili web-mjesto tima koji koristi novi predložak. Ako koristite klasični timskog web-mjesta, koncentrator navigacije će se pojaviti samo na stranicama Moderna i koncentrator postavke web-mjesta će se pojaviti samo na stranicama Moderna. Web-mjesta koji su već pridružen drugom koncentrator ne može registrirati kao web-mjesto koncentratora.
+    >  Preporučujemo da odaberete web-mjesto za komunikaciju ili timsko web-mjesto koje koristi novi predložak. Ako koristite klasično timsko web-mjesto, navigacija koncentratora pojavit će se samo na modernim stranicama, a postavke koncentratora web-mjesta pojavit će se samo na modernim stranicama. Web-mjesta koja su već pridružena drugom koncentratoru ne mogu se registrirati kao mjesto koncentratora.
   
-[Saznajte više o web-mjestima koncentrator](https://go.microsoft.com/fwlink/?linkid=869149)
+[Saznajte više o mjestima koncentratora](https://go.microsoft.com/fwlink/?linkid=869149)
   

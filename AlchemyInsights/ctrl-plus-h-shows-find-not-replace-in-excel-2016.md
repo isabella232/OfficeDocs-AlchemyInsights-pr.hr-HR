@@ -1,7 +1,7 @@
 ---
-title: Traži i zamijeni u Excel 2016 prikazuje CTRL + H
-ms.author: dludwig
-author: dludwig
+title: CTRL + H prikazuje Pronađi, a ne zamijeni u Excelu 2016
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,14 +13,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 0d2260163a837d5d2c2f0ad54e74a73ca204c635
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 32ff3ad922af38adab8e6b60dfa139b3794668df
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514503"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053145"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>Traži i zamijeni u Excel prikazuje CTRL + H
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H prikazuje Pronađi, a ne zamijeni u Excelu
 
-U Excel 2016 pritiskom CTRL + H otvara dijaloški okvir Traži i zamijeni i prikazuje karticu traži, umjesto karticu Replace Zamijeni klikom na kartici Polazno ne istu stvar. Taj problem riješen u verziji 1708 (8431.2094). Da biste riješili taj problem, ažurirajte na najnoviju verziju. Odaberite **datoteku** \> **račun** \> **Mogućnosti ažuriranja** \> **Ažuriraj sada**.
+U programu Excel 2016, pritiskom na CTRL + H otvara Pronađi i zamijeni dijalog i prikazuje karticu Pronađi, umjesto kartice zamijeni. klik zamijeni na kartici Početna čini istu stvar. Taj je problem riješen u verziji 1708 (8431,2094). Da biste to riješili, ažurirajte na najnoviju verziju sustava Office. Odaberite **** \> ažuriranje \> **Mogućnosti ažuriranja** **računa** \> datoteka **sada**.
   
