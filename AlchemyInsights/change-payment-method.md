@@ -1,5 +1,5 @@
 ---
-title: Promijenite način plaćanja
+title: Promjena načina plaćanja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,21 +12,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
+ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665327"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068269"
 ---
-# <a name="change-payment-method"></a>Promijenite način plaćanja
+# <a name="change-payment-method"></a>Promjena načina plaćanja
 
-Možete provjeriti i promijeniti način plaćanja koji je konfiguriran u Centar za administraciju Microsoft 365. Odaberite pretplate koje želite provjeriti. Način plaćanja koji je konfiguriran za pretplatu se pojavljuje pod **naplate**. 
+Možete provjeriti i promijeniti način plaćanja konfiguriran u centru za administraciju Microsoft 365. Odaberite pretplatu koju želite provjeriti. Način plaćanja konfiguriran za pretplatu pojavljuje se u odjeljku **naplata**.
   
-1. U centru za administraciju idite na **naplatu** \> stranicu [Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. U centru za administratore idite na stranicu **Naplata** \> [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Uz način plaćanja za pretplatu koje želite promijeniti način plaćanja za odaberite **Uređivanje**.
+2. Pronađite pretplatu za koju želite promijeniti način plaćanja. Pored načina plaćanja odaberite **Uredi**.
 
-3. Slijedite korake na zaslonu da biste dovršili promjenu.
+3. Za dovršetak promjene slijedite korake na zaslonu.
 
-Koristite li stare admin centar? Za stare korake ili kako biste saznali više, pogledajte [Promijeni način plaćanja za Office 365 business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Da biste saznali više, pogledajte [promjenu načina plaćanja za Office 365 za poslovanje](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
