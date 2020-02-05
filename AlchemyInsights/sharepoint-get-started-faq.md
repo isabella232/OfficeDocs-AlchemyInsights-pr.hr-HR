@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051525"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771171"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>Zajednički problemi i rezolucije sustava SharePoint Online
 
 Evo nekih često zatraženih tema za probleme sa sustavom SharePoint online:
+
+- **Početak**: koristite [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) za izgradnju prekrasnih, moćnog intraneta koji povezuje radno mjesto. Pogledajte [primjere](https://lookbook.microsoft.com/) i uzmite [smjernice za dizajn](https://spdesign.azurewebsites.net/). Pogledajte [Uvod u SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) za cjelokupni uvod u SharePoint online.
 
 - **Permissions**: [izgraditi strategiju dopuštenja](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) i [razumjeti razine dozvola](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ Evo nekih često zatraženih tema za probleme sa sustavom SharePoint online:
 
 - **Modernize SharePoint**: pregledajte [Vodič za moderno iskustvo u sustavu SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) i [Modernize vaše klasične SharePoint web-mjesta](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) za pokretanje pokretanja.
 
-- **Početak**: Saznajte kako započeti [sa sustavom SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) s strategijama upravljanja web-mjestom.
+**Napomena:** Za konkretniji odgovor o problemu sustava SharePoint ukratko preformulirati pitanje i uključite pogreške koje vidite ili značajke koje upotrebljavate.

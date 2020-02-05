@@ -1,8 +1,8 @@
 ---
 title: Stvaranje SharePoint web-mjesta
 ms.author: pebaum
-author: pebaum
-ms.audience: ITPro
+author: todmccoy
+ms.audience: Admin
 ms.topic: article
 ms.collection: Adm_O365
 ms.prod: office-online-server
@@ -10,30 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "5200004"
+- "3911416"
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 2611c3ed9cfe78c82c9b123ea26b6fe8f951b458
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e1e71ae9401448ed18058f6307302dcbaf773649
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049869"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770847"
 ---
 # <a name="create-a-sharepoint-site"></a>Stvaranje SharePoint web-mjesta
 
-Možete vidjeti sljedeće informacije o stvaranju SharePoint web-mjesta:
-- [Upravljanje web-lokacijama u novom centru za administraciju sustava SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation): Saznajte više o mogućnostima kreiranja web-mjesta, uključujući kako stvoriti klasično web-mjesto ili web-mjesto timova koje ne uključuje grupu sustava Office 365.
-- [Stvorite timsko web-mjesto u sustavu SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Saznajte kako stvoriti timsko web-mjesto.
-- [Stvorite web-mjesto za komunikaciju u sustavu SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Saznajte kako stvoriti web-mjesto za komunikaciju.
-- [Upravljanje web-lokacijama u novom centru za administratore sustava SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Saznajte kako stvoriti klasično web-mjesto ili timsko web-mjesto koje ne uključuje grupu sustava Office 365.
+Stvaranje web-mjesta iz [aktivnih web-mjesta](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) ili upravljanje njima u centru za administraciju sustava SharePoint. Dodatne informacije potražite [u okviru Upravljanje web-lokacijama u novom centru za administraciju sustava SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation). 
 
+## <a name="tips"></a>Savjeti:
 
-  
-**Savjeti:**
-- Ne možete stvoriti web-mjesto s istim URL-om postojećeg web-mjesta. Ako ste izbrisali web-mjesto i želite ponovno koristiti URL, moguće je da izbrisana stranica još uvijek postoji pod **izbrisanim web-mjestima**. Za upravljanje izbrisanim web-mjestima Pogledajte, [izbrišite web-mjesto](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Da biste u potpunosti uklonili web-mjesto s PowerShell, Pogledajte primjer " [Ukloni SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) " cmdlet.
-- Neki korisnici možda neće moći stvoriti web-mjesto. Pogledajte [Upravljanje stvaranjem web-mjesta u sustavu SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Ne **možete** stvoriti web-mjesto s istim URL-om postojećeg web-mjesta. Ako ste izbrisali web-mjesto i želite ponovno koristiti URL, moguće je da izbrisana stranica još uvijek postoji pod [izbrisanim web-mjestima](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Web-mjesto će se morati trajno izbrisati da biste ponovno koristili URL. Da biste u potpunosti uklonili web-mjesto s PowerShell, Pogledajte primjer " [Ukloni SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) " cmdlet.
+- Neki korisnici možda neće moći stvoriti web-mjesto. [Pogledajte upravljanje stvaranjem web-mjesta u sustavu SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
 - Moguće je da se stranica pojavi zaglavljeno u **stvaranju** duže od očekivanog. Ako je prošlo više od 24 sata od kada ste prvi put vidjeli ovaj problem, molimo prijavite ulaznicu za podršku. U mnogim slučajevima već radimo na rješenju. Molim vas, dajte nam najmanje 24 sata da dovršimo rješenje.
-- Ako trebate stvoriti novo timsko web-mjesto koje ne uključuje Office 365 grupu, 
-
-

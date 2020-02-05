@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049401"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771135"
 ---
 # <a name="why-cant-i-edit-files"></a>Zašto ne mogu uređivati datoteke?
 
-Ako je dokument, radni list ili prezentacija zaključan za uređivanje i nije ga moguće otvoriti u aplikacijama za desktop sustava Windows, možda je datoteka već uređivala netko drugi ili je datoteka odjavljena. Pogledajmo neke od razloga [Zašto možda nećete moći urediti datoteku](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Brzo pogledajte neke od razloga [Zašto možda nećete moći urediti datoteku](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Ako imate biblioteke s **blagajni, traženi** ili **validacijske** stupce ili metapodatke ili kada je **skica stavka sigurnost** postavljena na **samo korisnike koji mogu uređivati** ili **samo korisnici koji mogu odobriti stavke** u postavke verzije biblioteke:
 
