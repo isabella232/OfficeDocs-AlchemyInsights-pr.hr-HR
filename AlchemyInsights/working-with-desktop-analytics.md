@@ -1,5 +1,5 @@
 ---
-title: Kako zatvoriti račun Analytics radne površine
+title: Kako zatvoriti korisnički račun za desktop Analytics
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800236"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771099"
 ---
-# <a name="working-with-desktop-analytics"></a><span data-ttu-id="1ac89-102">Rad s radne površine Analytics</span><span class="sxs-lookup"><span data-stu-id="1ac89-102">Working with Desktop Analytics</span></span>
+# <a name="working-with-desktop-analytics"></a><span data-ttu-id="70d2f-102">Rad s analitikom radne površine</span><span class="sxs-lookup"><span data-stu-id="70d2f-102">Working with Desktop Analytics</span></span>
 
-<span data-ttu-id="1ac89-103">Čini se da su pitanje o Analytics radne površine.</span><span class="sxs-lookup"><span data-stu-id="1ac89-103">It looks like you are asking about Desktop Analytics.</span></span> <span data-ttu-id="1ac89-104">Možda ćemo moći pomoći s preciznija odgovora ako Preformulirajte pitanje.</span><span class="sxs-lookup"><span data-stu-id="1ac89-104">We may be able to help with a more precise answer if you rephrase your question.</span></span>
+<span data-ttu-id="70d2f-103">Čini se da se pitate o analitici desktop.</span><span class="sxs-lookup"><span data-stu-id="70d2f-103">It looks like you are asking about Desktop Analytics.</span></span> <span data-ttu-id="70d2f-104">Možda ćemo biti u mogućnosti pomoći s preciznijim odgovorom ako preformulirati svoje pitanje.</span><span class="sxs-lookup"><span data-stu-id="70d2f-104">We may be able to help with a more precise answer if you rephrase your question.</span></span>
 
-- [<span data-ttu-id="1ac89-105">Što je Analytics radne površine?</span><span class="sxs-lookup"><span data-stu-id="1ac89-105">What is Desktop Analytics?</span></span>](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [<span data-ttu-id="1ac89-106">Kako postaviti Analytics radne površine</span><span class="sxs-lookup"><span data-stu-id="1ac89-106">How to set up Desktop Analytics</span></span>](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [<span data-ttu-id="1ac89-107">Najčešća pitanja</span><span class="sxs-lookup"><span data-stu-id="1ac89-107">Frequently Asked Questions</span></span>](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [<span data-ttu-id="1ac89-108">Rješavanje problema s radne površine Analytics</span><span class="sxs-lookup"><span data-stu-id="1ac89-108">Troubleshoot Desktop Analytics</span></span>](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [<span data-ttu-id="70d2f-105">Što je desktop Analytics?</span><span class="sxs-lookup"><span data-stu-id="70d2f-105">What is Desktop Analytics?</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [<span data-ttu-id="70d2f-106">Kako postaviti analitiku radne površine</span><span class="sxs-lookup"><span data-stu-id="70d2f-106">How to set up Desktop Analytics</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [<span data-ttu-id="70d2f-107">Najčešća pitanja</span><span class="sxs-lookup"><span data-stu-id="70d2f-107">Frequently Asked Questions</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [<span data-ttu-id="70d2f-108">Otklanjanje poteškoća s analitikom radne površine</span><span class="sxs-lookup"><span data-stu-id="70d2f-108">Troubleshoot Desktop Analytics</span></span>](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
