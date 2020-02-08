@@ -1,5 +1,5 @@
 ---
-title: Praćenje ili nepraćenje SharePoint web-mjesta
+title: Praćenje ili poništavaju praćenje web-mjesta sustava SharePoint
 ms.author: pebaum
 author: v-miegge
 ms.date: 6/20/2019
@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611689"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855543"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="28c12-102">Praćenje ili nepraćenje SharePoint web-mjesta</span><span class="sxs-lookup"><span data-stu-id="28c12-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="1dcae-102">Praćenje ili poništavaju praćenje web-mjesta sustava SharePoint</span><span class="sxs-lookup"><span data-stu-id="1dcae-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="28c12-103">Postoji više načina za pronalaženje i praćenje web-mjesta, vijesti i sadržaja koji vas zanimaju u sustavu SharePoint.</span><span class="sxs-lookup"><span data-stu-id="28c12-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="28c12-104">To će vam omogućiti da jednostavno pronađete informacije na popisu i dopustite vam da vidite aktivnost iz sustava SharePoint.</span><span class="sxs-lookup"><span data-stu-id="28c12-104">This will allow you to find the information easily in your list, and allow you to see activity from SharePoint.</span></span>
+<span data-ttu-id="1dcae-103">Ako korisnici nailaze na probleme sa sljedećim ili neslijedećim resursima sustava SharePoint, poduzmite sljedeće korake:</span><span class="sxs-lookup"><span data-stu-id="1dcae-103">If users are experiencing issues following or unfollowing SharePoint resources, complete these steps:</span></span>
 
-<span data-ttu-id="28c12-105">Pogledajte videozapis kako biste [pronašli i pratili web-mjesta i vijesti](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span><span class="sxs-lookup"><span data-stu-id="28c12-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
-
-<span data-ttu-id="28c12-106">Ako ne možete pratiti ili neslijediti web-mjesto, vijesti ili sadržaj i osjetite da rezultati nisu očekivani, pogledajte je li problem povezan s jednim korisnikom ili svim korisnicima unutar vaše organizacije.</span><span class="sxs-lookup"><span data-stu-id="28c12-106">If you are unable to follow or un-follow a site, news or content and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="28c12-107">Ako se problem susreće sa svim korisnicima, možda postoji problem s privremenim servisom.</span><span class="sxs-lookup"><span data-stu-id="28c12-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
-
-<span data-ttu-id="28c12-108">Provjerite je li vaša tvrtka ili ustanova utjecala na [nadzornu ploču za zdravstvenu službu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="28c12-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+* <span data-ttu-id="1dcae-104">Zamolite korisnika da se odjavi i ponovno se prijavi u SharePoint i pokuša iste korake da biste pratili/poništili praćenje resursa sustava SharePoint.</span><span class="sxs-lookup"><span data-stu-id="1dcae-104">Ask the user to sign-out and sign back into SharePoint and try the same steps to follow/unfollow the SharePoint resource.</span></span>
+* <span data-ttu-id="1dcae-105">Utvrdite je li problem s određenim web-mjestom ili svim web-mjestima.</span><span class="sxs-lookup"><span data-stu-id="1dcae-105">Determine if the issue is with a specific site or all sites.</span></span> <span data-ttu-id="1dcae-106">Ako se problem pojavljuje s određenim web-mjestima, provjerite je li značajka "Praćenje sadržaja" aktivna za web-mjesto tako da odete na **Postavke web-mjesta > Upravljanje značajkama web-mjesta > praćenje sadržaja**.</span><span class="sxs-lookup"><span data-stu-id="1dcae-106">If the issue occurs with specific sites, ensure the “Following Content” feature is active for the site by going to **Site Settings > Manage Site Features > Following Content**.</span></span> <span data-ttu-id="1dcae-107">Ako je značajka postavljena na Aktivno, pokušajte ponovno deaktivirati i aktivirati značajku za web-mjesto.</span><span class="sxs-lookup"><span data-stu-id="1dcae-107">If the feature is set to Active, try deactivating and activating the feature again for the site.</span></span>
+* <span data-ttu-id="1dcae-108">Zamolite korisnika da isproba drugi internetski preglednik da li je problem specifičan za korisnikov preglednik.</span><span class="sxs-lookup"><span data-stu-id="1dcae-108">Ask the user to try a different Internet browser to see if the issue is specific to the user’s browser.</span></span>
+* <span data-ttu-id="1dcae-109">Ako svi korisnici i sva web-mjesta imaju isti problem, provjerite [nadzornu ploču stanja servisa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste provjerili utječe li na vašu tvrtku ili ustanovu.</span><span class="sxs-lookup"><span data-stu-id="1dcae-109">If all users and all sites are experiencing the same issue, check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
