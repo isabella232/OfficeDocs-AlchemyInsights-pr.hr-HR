@@ -1,5 +1,5 @@
 ---
-title: Praćenje ili nepraćenje SharePoint web-mjesta
+title: Praćenje ili poništavaju praćenje web-mjesta sustava SharePoint
 ms.author: pebaum
 author: v-miegge
 ms.date: 6/20/2019
@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611689"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855543"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Praćenje ili nepraćenje SharePoint web-mjesta
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Praćenje ili poništavaju praćenje web-mjesta sustava SharePoint
 
-Postoji više načina za pronalaženje i praćenje web-mjesta, vijesti i sadržaja koji vas zanimaju u sustavu SharePoint. To će vam omogućiti da jednostavno pronađete informacije na popisu i dopustite vam da vidite aktivnost iz sustava SharePoint.
+Ako korisnici nailaze na probleme sa sljedećim ili neslijedećim resursima sustava SharePoint, poduzmite sljedeće korake:
 
-Pogledajte videozapis kako biste [pronašli i pratili web-mjesta i vijesti](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Ako ne možete pratiti ili neslijediti web-mjesto, vijesti ili sadržaj i osjetite da rezultati nisu očekivani, pogledajte je li problem povezan s jednim korisnikom ili svim korisnicima unutar vaše organizacije. Ako se problem susreće sa svim korisnicima, možda postoji problem s privremenim servisom.
-
-Provjerite je li vaša tvrtka ili ustanova utjecala na [nadzornu ploču za zdravstvenu službu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) .
+* Zamolite korisnika da se odjavi i ponovno se prijavi u SharePoint i pokuša iste korake da biste pratili/poništili praćenje resursa sustava SharePoint.
+* Utvrdite je li problem s određenim web-mjestom ili svim web-mjestima. Ako se problem pojavljuje s određenim web-mjestima, provjerite je li značajka "Praćenje sadržaja" aktivna za web-mjesto tako da odete na **Postavke web-mjesta > Upravljanje značajkama web-mjesta > praćenje sadržaja**. Ako je značajka postavljena na Aktivno, pokušajte ponovno deaktivirati i aktivirati značajku za web-mjesto.
+* Zamolite korisnika da isproba drugi internetski preglednik da li je problem specifičan za korisnikov preglednik.
+* Ako svi korisnici i sva web-mjesta imaju isti problem, provjerite [nadzornu ploču stanja servisa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste provjerili utječe li na vašu tvrtku ili ustanovu.
