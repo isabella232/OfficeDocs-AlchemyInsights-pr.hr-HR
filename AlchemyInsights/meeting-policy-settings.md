@@ -9,25 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2657"
 - "9000734"
-ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+- "2657"
+ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627566"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042836"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Upravljanje pravilima sastanka u Microsoftovim timovima
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Upravljanje pravilima sastanka u microsoft teams
 
-Pravila sastanka koriste se za kontrolu značajki koje su dostupne sudionicima koji ispunjavaju sastanke koje su zakazali korisnici u vašoj organizaciji. Neke značajke politika sastanka možda neće biti implementirane u centru za administraciju timova još uvijek (oni su označeni "uskoro" u dokumentaciji). U tom slučaju, ili ako ste uzimajući pogrešku kao što je "ne možemo ažurirati pravila upravo sada, ali pokušajte ponovno kasnije" u Microsoft Teams centar za administraciju, preporučujemo da koristite PowerShell za stvaranje ili izmjenu pravila sastanka timova. 
+**Napomena: može potrajati i do 24 sata da promjene pravila stupe na snagu za korisnike.** Možda nećete moći odmah izmijeniti novostvorena pravila; pričekajte 4 sata i pokušajte ponovno izmijeniti novostvorena pravila.
+
+Pravila sastanka koriste se za kontrolu značajki dostupnih sudionicima sastanka za sastanke koje su zakazali korisnici u vašoj tvrtki ili ustanovi. Neke značajke pravila sastanka možda se još neće implementirati u centru za administratore sustava Teams (one su uskoro označene kao "uskoro" u dokumentaciji). U tom slučaju ili ako vam se prikaže pogreška kao što je "Ne možemo ažurirati pravila odmah, ali pokušajte ponovno kasnije" u centru za administratore sustava Microsoft Teams, preporučujemo da koristite PowerShell za stvaranje ili izmjenu pravila sastanka sustava Teams. 
 
 Dodatne informacije o pravilima sastanka potražite u sljedećim resursima:
 
-- Da biste saznali više o stvaranju pravila, stvaranju promjena i dodjeljivanju korisnika pravilima, pogledajte [Upravljanje pravilima sastanka u timovima](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- Da biste saznali više o stvaranju pravila, unosenju promjena i dodjeli korisnika pravilima, pročitajte odjeljko [Upravljanje pravilima sastanka u sustavu Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
-- Da biste napravili promjene pravila pomoću PowerShell cmdlets, pogledajte [timove PowerShell pregled](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Morate koristiti [modul Skype za tvrtke PowerShell](https://www.microsoft.com/download/details.aspx?id=39366) za pravila sastanka timova. 
-    - Pregled [*-csteamsmetingpolicy dokumente Cmdletovi](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) za više informacija.
+- Da biste promijenili pravila pomoću cmdleta komponente PowerShell, pogledajte [pregled komponente Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Morate koristiti [modul PowerShell servisa Skype za tvrtke](https://www.microsoft.com/download/details.aspx?id=39366) za pravilniko o sastanku sustava Teams. 
+    - Dodatne informacije potražite u [dokumentaciji cmdleta *-CsTeamsMeetingPolicy.](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)
 
-**Napomena:** Može potrajati i do 24 sata da bi promjene politike stupile na snagu za korisnike. Možda nećete moći odmah mijenjati novostvorene politike; čekati 4 sata i ponovno pokušati izmijeniti novostvorena pravila. Ako još uvijek imate problema, pokušajte PowerShell.  

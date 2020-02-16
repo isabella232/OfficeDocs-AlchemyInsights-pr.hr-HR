@@ -1,5 +1,5 @@
 ---
-title: Početak rada sa sustavom SharePoint Online
+title: Otklanjanje poteškoća s tijekovima rada u sustavu SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,25 +14,19 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 7f8879360d90c30d5986831f6a537b1471eb8b6a
+ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770451"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056126"
 ---
-# <a name="workflows-in-sharepoint"></a>Tijekovi rada u sustavu SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Otklanjanje poteškoća s tijekovima rada u sustavu SharePoint
 
-Tijekovi rada sustava SharePoint unaprijed su programirane aplikacije koje pojednostavljuju širok izbor poslovnih procesa. Dodatne informacije potražite u vezama u nastavku.
+## <a name="troubleshoot-and-debug-workflows-in-sharepoint"></a>Otklanjanje poteškoća s tijekovima pogrešaka i ispravljanje pogrešaka u sustavu SharePoint
 
-## <a name="getting-started"></a>Početak rada
+Pogledajte [Otklanjanje pogrešaka provjere valjanosti tijeka rada sustava SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) i [ispravljanje pogrešaka u tijekovima rada sustava SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
-Ako ste tek započeli s tijekovima rada sustava SharePoint, pogledajte prikaz [tijekova rada sustava SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="power-automate"></a>Automatizirati za napajanje
 
-## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Rješavanje problema i ispravljanje pogrešaka u tijeku rada sustava SharePoint
-
-Pogledajte [Otklanjanje poteškoća s provjerom valjanosti sustava SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) tijekova rada i otklanjanje [pogrešaka sustava SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-
-## <a name="power-automate"></a>Automatiti napajanje
-
-Razmislite o korištenju [Automatata napajanja](https://docs.microsoft.com/power-automate/modern-approvals) umjesto klasičnih rješenja tijeka rada sustava SharePoint.
+Ako tek počinjete s tijekovima rada, razmislite o korištenju [značajke Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) umjesto klasičnih rješenja tijeka rada sustava SharePoint.
