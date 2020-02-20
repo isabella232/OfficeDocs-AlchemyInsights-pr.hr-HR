@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033831"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162904"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>Predočavanje elektroničkih dokumenata u mrežama servisa Yammer
 
 Sada možete izvršiti pretraživanja predočavala elektroničkih dokumenata za sadržaj servisa Yammer u sustavu Office 365.  Za izvođenje pretraživanja predočavanja elektroničkih dokumenata ili izvoza na yammer sadržaju potrebno je sljedeće:
 
-1. Najprije morate migrirati poslovnu mrežu servisa Yammer u izvorni način rada da biste svoje poruke i datoteke servisa Yammer mogli biti vidljivi.
-
-   > [!NOTE] 
-   >Ako ste novi klijent sustava Office 365 od 9 siječnja 2020.
+1. Najprije morate migrirati poslovnu mrežu servisa Yammer u izvorni način rada da biste svoje poruke i datoteke servisa Yammer mogli biti vidljivi. **Napomena: ako ste novi klijent sustava Office 365 od 9.**
 
 2. Za izlazak korisnika predočavanje elektroničkih dokumenata za Yammer bit će dostupno nakon izdavanja alata za poravnanje izvornog načina rada, a migracija naizvorni način rada dovrši se za Yammer na klijentu.
 
