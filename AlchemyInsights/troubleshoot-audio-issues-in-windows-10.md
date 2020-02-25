@@ -1,5 +1,5 @@
 ---
-title: Rješavanje problema s zvukom u sustavu Windows 10
+title: Otklanjanje poteškoća sa zvukom u sustavu Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,53 +11,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 46b23f97c2e682258224dc95e7a76b1201991828
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: f51fd233db5ae068e719f1cf3bc94a0dac82444f
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796011"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265008"
 ---
-# <a name="troubleshooting-audio-problems-in-windows-10"></a>Rješavanje problema s zvukom u sustavu Windows 10
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Otklanjanje poteškoća s autima u sustavu Windows 10
 
-**Pokretanje alata za otklanjanje poteškoća s zvukom**
+**Pokretanje alata za otklanjanje poteškoća s azvukom**
 
-Alat za otklanjanje poteškoća s zvukom možda može automatski ispraviti probleme s zvukom: 
+1.  Otvorite [postavke otklanjanja poteškoća](ms-settings:troubleshoot).
 
-1. Odaberite **Start**, upišite **Otklanjanje poteškoća**, a zatim odaberite **Otklanjanje poteškoća** s popisa rezultata. 
-2. Odaberite **Reprodukcija audiozapisa** > **Pokreni alat za otklanjanje poteškoća**.
-
-**Provjerite kabele, glasnoću, zvučnike i slušalice**
-
-- Provjerite ima li zvučnik i slušalice veze za labave kabele i provjerite jesu li spojeni na ispravan priključak.
-- Provjerite razinu napajanja i glasnoće i pokušajte pretvoriti sve kontrole glasnoće.
-- Neki zvučnici i aplikacije imaju svoje kontrole glasnoće, i možda ćete morati provjeriti sve kako bi bili sigurni da su na pravom nivou.
-- Pokušajte povezati pomoću drugog USB priključka.
-- **Napomena:** Sjetite se da zvučnici možda neće raditi kada su priključene slušalice.
-
-**Provjeri upravitelja uređaja**
-
-Da biste bili sigurni da su upravljački programi ažurirani:
-
-- Odaberite **Start**, upišite **Upravitelj uređaja**, a zatim odaberite **Upravitelj uređaja** s popisa rezultata.
-
-2. U odjeljku **Kontroleri zvuka, videozapisa i igre**Odaberite zvučnu karticu, otvorite je, odaberite karticu **upravljački program** i odaberite **Ažuriraj upravljački program**. 
-
-**Napomena:** Ako Windows ne pronađe novi upravljački program, potražite ga na web-mjestu proizvođača uređaja i slijedite njihove upute.
-
-**Ponovna instalacija upravljačkog programa**
-
-Ako ne možete ažurirati putem upravitelja uređaja ili pronaći novi upravljački program na web-mjestu proizvođača, pokušajte ove korake: 
-
-1. U upravitelju uređaja desnom tipkom miša kliknite (ili pritisnite i držite) upravljački program za audio i odaberite **Deinstaliraj**. Ponovno pokrenite uređaj i Windows će pokušati ponovno instalirati upravljački program.
-
-2. Ako ponovna instalacija upravljačkog programa ne radi, pokušajte koristiti generički upravljački program za audiozapise koji dolazi sa sustavom Windows. U upravitelju uređaja desnom tipkom miša kliknite (ili pritisnite i držite) vaš upravljački program za audio > **Update Driver softver** > **Pregledajte moje računalo za upravljački** > program**Dopustite mi da izaberem s popisa upravljačkih programa uređaja na računalu**, odaberite **audiouređaj visoke razlučivosti**, odaberite **dalje**i slijedite upute da biste ga instalirali.
+2.  Odaberite **Reprodukcija zvuka** > **Pokrenialat za otklanjanje poteškoća**.
 
 **Postavljanje zadanog uređaja**
 
-Ako se priključujete na audio uređaj pomoću USB ili HDMI, možda ćete morati postaviti taj uređaj kao zadani: 
+Ako se povezujete s audiouređajem putem USB-a ili HDMI-ja, možda ćete taj uređaj morati postaviti kao zadani:
 
-1. Odaberite **Start**, upišite **zvuk**, a zatim odaberite **zvuk** ili **Promjena zvukova sustava** s popisa rezultata.
+1. Otvorite **Start** > **Sound**, a zatim s popisa rezultata odaberite **Zvuk** ili **Promjena zvukova sustava.**
 
-2. Na kartici **Reprodukcija** odaberite uređaj, odaberite **Postavi zadano**, a zatim odaberite **u redu**.
+2.  Na kartici **Reprodukcija** odaberite uređaj, odaberite **Postavi zadano**, a zatim u **redu**.
 
+**Provjera kabela, glasnoće, zvučnika i slušalica**
+
+1. Provjerite ima li zvučnika i slušalica i provjerite jesu li priključeni na ispravnu utičnicu.
+
+2. Provjerite razinu snage i glasnoće i pokušajte okretati sve kontrole glasnoće.
+
+3. Neki zvučnici i aplikacije imaju vlastite kontrole glasnoće; možda ćete morati provjeriti ih sve kako bi bili sigurni da su na pravim razinama.
+
+4. Pokušajte se povezati pomoću drugog USB priključka.
+
+**Napomena:** Imajte na umu da zvučnici možda neće raditi kada su slušalice priključene.
+
+**Provjera upravitelja uređaja**
+
+Da biste bili sigurni da su upravljački programi ažurni:
+
+1. Odaberite **Start**, upišite **Upravitelj uređaja**, a zatim s popisa rezultata odaberite Upravitelj **uređaja.**
+
+2. U odjeljku **Kontroleri za zvuk, videozapise i igre**odaberite zvučnu karticu, otvorite je, odaberite karticu **Upravljački program** i odaberite Ažuriraj **upravljački program**.
+
+**Napomena**: Ako Windows ne pronađe novi upravljački program, potražite ga na web-mjestu proizvođača uređaja i slijedite njihove upute.
+
+**Ponovna instalacija upravljačkog programa**
+
+Ako ne možete ažurirati putem upravitelja uređaja ili pronaći novi upravljački program na web-mjestu proizvođača, pokušajte sljedeće:
+
+1. U upravitelju uređaja desnom tipkom miša kliknite (ili pritisnite i držite) upravljački program za zvuk, a zatim odaberite **Deinstaliraj**. Ponovno pokrenite uređaj i Windows će pokušati ponovno instalirati upravljački program.
+
+2. Ako ponovna instalacija upravljačkog programa ne funkcionira, pokušajte koristiti generički upravljački program za zvuk koji se isporučuje sa sustavom Windows. In Sprava Voditelj, pravo- klik ( ili prisutan i držite) tvoj audio vozač > **Ažurirati vozač softver** > **Brstiti moj računalo za vozač softver** > **Pustiti mene motika from rub od sprava vozač na moj računalo,** odabran **Povisok Definicija Audio Sprava**, odabran **Sljedeći**, i udarac naredbe to uvesti koga u službu Internet.

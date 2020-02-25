@@ -1,5 +1,5 @@
 ---
-title: Kako komunicirati s vanjskim korisnicima servisa Skype za tvrtke
+title: Kako komunicirati s vanjskim korisnicima skypea za tvrtke
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: e8eefb9c0f01ad42f725f178fa23b15850364a44
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305149"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265080"
 ---
-# <a name="allow-external-communications-with-skype-for-business"></a>Dopusti vanjsku komunikaciju pomoću servisa Skype za tvrtke 
+# <a name="allow-external-communications-with-skype-for-business"></a>Dopuštanje vanjske komunikacije putem Skypea za tvrtke 
 
-Želite li korisnicima servisa Skype za tvrtke omogućiti kontakt s korisnicima izvan vaše organizacije? 
+Želite li korisnicima skypea za tvrtke dopustiti kontaktiranje korisnika izvan tvrtke ili ustanove? Pogledajte [Dopusti korisnicima da kontaktiraju vanjske korisnike skypea za tvrtke](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-[Omogući korisnicima kontakt s vanjskim korisnicima servisa Skype za tvrtke](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
+DNS zapisi moraju biti ispravno postavljeni da bi vanjske komunikacije ispravno funkcionirale. Provjerite [ovdje](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) da biste provjerili imamo li posebne upute o tome kako postaviti DNS zapise s davateljem usluga. 
 
-Vaši DNS zapisi moraju biti ispravno postavljeni kako bi vanjske komunikacije ispravno funkcioniralo. Pogledajte [ovdje](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) da biste vidjeli imamo li specifične upute o tome kako postaviti DNS zapise s vašim davatelju usluga. 
+Želite li korisnicima skypea za tvrtke omogućiti da se poslušaju korisnicima korisnika skypea? Vidjeti:
 
-Ako želite da se korisnici timova mogu obratiti korisnicima izvan vaše organizacije (uključujući korisnike servisa Skype za tvrtke), pregledajte [upravljanje vanjskim pristupom u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
+- [Neka korisnici skypea za tvrtke dodaju kontakte programa Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+
+- [Dodavanje kontakta u Skypeu za tvrtke](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
+
+
+Ako želite da korisnici sustava Teams mogu kontaktirati korisnike izvan tvrtke ili ustanove (uključujući korisnike skypea za tvrtke), [pregledajte Upravljanje vanjskim pristupom u sustavu Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
