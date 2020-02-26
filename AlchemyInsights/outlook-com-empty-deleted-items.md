@@ -3,6 +3,7 @@ title: Ispraznite mapu Izbrisane stavke u Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768684"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277923"
 ---
-# <a name="empty-the-deleted-items-folder"></a>Ispraznite mapu Izbrisane stavke
+# <a name="empty-the-deleted-items-folder"></a>Pražnjenje mape Izbrisane stavke
 
-Da biste izbrisali sve izbrisane poruke programa Outlook, idite na svoje [Izbrisane stavke mapu](https://outlook.live.com/mail/deleteditems) i **Odaberite praznu mapu**, a zatim odaberite **oporaviti stavke izbrisane iz ove mape** iznad popisa poruka i odaberite **praznu mapu** ponovno.
+1. Otvorite mapu Izbrisane stavke i odaberite **Isprazni mapu**.
+2. Odaberite **Stavke koje se mogu oporaviti** pri vrhu stranice i ponovno odaberite Isprazni **mapu.**
 
-Ako ste izbrisali puno poruka, možda će trebati neko vrijeme da se te stavke premjeste ili budu očišćeni iz mape Izbrisane stavke. Molimo vas da otvorite prozor preglednika dok se stavke ne izbrišu.
+**Nije moguće isprazniti mapu Izbrisane stavke**
 
-Ako se poruke ne brišu ispravno, pokušajte izbrisati manji broj poruka.
+- Ako ste izbrisali mnogo e-pošte, možda će trebati neko vrijeme da se te stavke presele u mapu Izbrisane stavke ili ih se brišu iz mape Izbrisane stavke. Ostavite prozor preglednika otvorenim dok se brisanje odvija.
+- Ako se poruka e-pošte i dalje ne uspije ispravno izbrisati, odaberite manju seriju koju želite izbrisati.
+- Ako se izbrisana e-pošta vrati, to može biti zato što ste nedavno izbrisali mnogo e-pošte. Pokušajte ponovno kasnije.
