@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353997"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556637"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Želio bih se prijaviti za besplatnu timove, ali više ne mogu.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Želim se besplatno prijaviti za Teams
 
-- Ako koristite Office 365 rad ili školu račun besplatna ponuda nije dostupan. Vaša tvrtka ili ustanova, iako, možda već koristite timovima. Ako ne, idite na [Microsoft timove](https://products.office.com/microsoft-teams/group-chat-software) je li uvjete za besplatnu probnu verziju.
+Timovi su dostupni besplatno putem nekoliko različitih programa. Budući da se obratite podršci s ovim zahtjevom, već imate postojeći klijent sustava Microsoft 365, što znači da već imate Microsoft Teams.
 
-- Akademske institucije nisu uvjete za besplatna ponuda. Nastavnici i učenici, no možete dobiti besplatnu verziju sustava Office 365, koji uključuje punu verziju Microsoft Teams. Pogledajte [licenciranje za timove Microsoft Office 365](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+U većini slučajeva Timovi su prema zadanim postavkama uključeni za sve korisnike. Kada je uključen, korisnici mogu pokretati aplikacije Teams, instaliranjem [stolnih](https://office.visualstudio.com/MAX/_workitems/edit/desktop)  https://teams.microsoft.comi [mobilnih](https://office.visualstudio.com/MAX/_workitems/edit/desktop) klijenata ili iz preglednika u [sustavu](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients) .
 
-- Američki vladine institucije nisu uvjete za besplatna ponuda. Da biste saznali više o Office 365 planove za vladine organizacije (uključujući besplatna probna), pročitajte [licenciranje za timove Microsoft Office 365](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Iznimka je Microsoft Teams for Education (EDU). Ako imate EDU licencu, morate omogućiti Microsoft Teams ručno. Da biste to učinili, idite na Microsoft 365 centar za **administratore> Usluge i dodatke > Microsoft Teams**. Ako koristite novi centar za administratore sustava Teams, morat ćete isključiti **Pokušajte s novim centrom** za administratore da biste pronašli **servise i dodatke**. VAŽNO: Možda ćete morati pričekati do 24 sata da promjene stupe na snagu.
+
+Ne propustite sve naše smjernice za [podršku udaljenim radnicima u aplikaciji Teams](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams).
