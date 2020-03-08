@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: bd36391f0536b2fe951926eceab02e6411b54f3d
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
+ms.openlocfilehash: 14de391dd1f020e29beb4b432e288b46bee3dd9a
+ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371587"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42558825"
 ---
 # <a name="microsoft-365-service-health"></a>Microsoft 365 Service Health
 
 
-Provjerite stanje servisa bilo koje usluge s nadzorne ploče stanja servisa. Odabirom **novog centra za administratore** u gornjem desnom kutu vidjet ćete nove mogućnosti servisa.
+Provjerite stanje servisa bilo koje usluge s [nadzorne ploče stanja servisa](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Odabirom **novog centra za administratore** u gornjem desnom kutu vidjet ćete nove mogućnosti stanja servisa.
 
-- Odaberite **Postavke** za primanje **obavijesti e-pošte**stanja servisa .
+- Odaberite **Postavke** za primanje **obavijesti o zdravstvenoj pošti**servisa .
 
 - Odaberite **Prijavi problem** ako imate problem s uslugom.
 
-- Odaberite **Povijest** da biste pregledali povijest stanja servisa tvrtke ili ustanove. 
+- Odaberite **Povijest** da biste pregledali povijest stanja servisa vaše tvrtke ili ustanove. 
 
-Dodatne informacije potražite u [odjeljku Provjera stanja servisa sustava Office 365](https://docs.microsoft.com/en-us/office365/enterprise/view-service-health). 
+Dodatne informacije potražite [u članku Provjera stanja servisa sustava Office 365](https://docs.microsoft.com/en-us/office365/enterprise/view-service-health). 
