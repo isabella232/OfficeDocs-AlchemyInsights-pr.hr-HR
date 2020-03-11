@@ -1,5 +1,5 @@
 ---
-title: Zatražite od administratora da omogući Microsoft Teams
+title: Zamolite administratora da omogući Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962289"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573124"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Propuštaš! Zatražite od administratora da omogući Microsoft Teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Propuљtaљ! Zamolite administratora da omogući Microsoft Teams
 
-Jesu li nastavnici i osoblje u mogućnosti pristupiti timovima, ali studenti ne mogu ili su vaši F1 licencirani korisnici ne mogu pristupiti timovima?
+Ako imate EDU klijenta, morate omogućiti Microsoft Teams ručno. Da biste to učinili, idite na Microsoft 365 centar za administratore > **usluge i dodatke > Microsoft Teams**. Ako koristite novi centar za administratore sustava Teams, morat ćete isključiti **Pokušajte s novim centrom** za administratore da biste pronašli **servise i dodatke**. 
 
-Timovi moraju biti izričito omogućeni za studente i F1 licence. Detaljnije upute o omogućivanju timova za školu možete pronaći u [odjeljku Konfiguriranje timova za obrazovanje](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**VAŽNO:** Možda ćete morati pričekati do 24 sata da promjene stupe na snagu.
