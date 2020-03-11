@@ -11,15 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: d6baf8606dfca20c0fba1817b9531db915bdf7a8
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
+ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063612"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42581413"
 ---
-# <a name="change-your-desktop-background-and-colors"></a><span data-ttu-id="fe271-102">Promjena pozadine i boja radne površine</span><span class="sxs-lookup"><span data-stu-id="fe271-102">Change your desktop background and colors</span></span>
+# <a name="change-your-desktop-background-and-colors"></a><span data-ttu-id="a4124-102">Promjena pozadine i boja radne površine</span><span class="sxs-lookup"><span data-stu-id="a4124-102">Change your desktop background and colors</span></span>
 
-<span data-ttu-id="fe271-103">Da biste promijenili postavku boja, odaberite**Boje\*\*\*\*za personalizaciju** > **postavki** >  **pokretanja** > , a zatim odaberite vlastitu boju ili dopustite sustavu Windows da povuče boju isticanja iz pozadine.</span><span class="sxs-lookup"><span data-stu-id="fe271-103">To change your colors setting, select **Start** > **Settings** > **Personalization** > **Colors**, and then choose your own color or let Windows pull an accent color from your background.</span></span>
+<span data-ttu-id="a4124-103">Da biste promijenili postavku boja, idite na **Start** > **Settings** > **Personalizacija** > **Boje**, a zatim odaberite vlastitu boju ili neka Windows povuče boju akcenta iz pozadine.</span><span class="sxs-lookup"><span data-stu-id="a4124-103">To change your colors setting, go to **Start** > **Settings** > **Personalization** > **Colors**, and then choose your own color or let Windows pull an accent color from your background.</span></span>
 
-<span data-ttu-id="fe271-104">Da biste promijenili \*\*\*\* > pozadinu radne površine, odaberite**Pokreni pozadinu\*\*\*\*personalizacije** > **postavki** > , a zatim odaberite sliku, boju ili stvorite dijaprojekciju slika.</span><span class="sxs-lookup"><span data-stu-id="fe271-104">To change your desktop background, select **Start** > **Settings** > **Personalization** > **Background**, and then select a picture, solid color, or create a slideshow of pictures.</span></span> <span data-ttu-id="fe271-105">Želite više pozadina i boja radne površine?</span><span class="sxs-lookup"><span data-stu-id="fe271-105">Want more desktop backgrounds and colors?</span></span> <span data-ttu-id="fe271-106">Posjetite [Microsoft Store](https://www.microsoft.com/en-us/store/collections/windowsthemes) da biste odabrali između desetaka besplatnih tema.</span><span class="sxs-lookup"><span data-stu-id="fe271-106">Visit [Microsoft Store](https://www.microsoft.com/en-us/store/collections/windowsthemes) to choose from dozens of free themes.</span></span>
+![Personalizirajte boje u sustavu Windows.](media/windows-personalization-colors.png)
+
+<span data-ttu-id="a4124-105">Da biste promijenili pozadinu radne**površine,** > idite na **Početak** > **personalizacije** > **postavki ,** a zatim odaberite sliku, punu boju ili stvorite dijaprojekciju slika.</span><span class="sxs-lookup"><span data-stu-id="a4124-105">To change your desktop background, go to **Start** > **Settings** > **Personalization** > **Background**, and then choose a picture, solid color, or create a slideshow of pictures.</span></span> 
+
+![Promijenite pozadinu radne površine sustava Windows.](media/windows-desktop-background.png)
+
+<span data-ttu-id="a4124-107">Želite li više pozadina i boja radne površine?</span><span class="sxs-lookup"><span data-stu-id="a4124-107">Want more desktop backgrounds and colors?</span></span> <span data-ttu-id="a4124-108">Posjetite [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) da biste odabrali između desetaka besplatnih tema.</span><span class="sxs-lookup"><span data-stu-id="a4124-108">Visit [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) to choose from dozens of free themes.</span></span>
