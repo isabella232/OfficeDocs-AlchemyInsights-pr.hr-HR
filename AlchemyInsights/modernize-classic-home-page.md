@@ -1,5 +1,5 @@
 ---
-title: Modernizirati Klasična početna stranica
+title: Modernizirati klasičnu početnu stranicu
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -11,23 +11,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
-ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
+ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42322746"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600556"
 ---
-# <a name="modernize-the-classic-home-page"></a>Modernizirati Klasična početna stranica
+# <a name="modernize-the-classic-home-page"></a>Modernizirati klasičnu početnu stranicu
 
-Nedavno ažuriranje klasičnih početnih stranica timskog web-mjesta sustava SharePoint utječe na početnu stranicu klasičnih timskih web-mjesta (STS#0) kada početna stranica sadrži *samo zadane web-dijelove okvira* kao što su početak rada, biblioteka dokumenata i sažetak sadržaja vijesti.
+Nedavno ažuriranje klasičnih početnih stranica timskog web-mjesta sustava SharePoint utječe na početnu stranicu klasičnih timskih web-mjesta (STS#0) kada početna stranica sadrži *samo zadane web-dijelove izvan okvira* kao što su početak rada, biblioteka dokumenata i sažetak sadržaja vijesti.
 
-Pogledajte prošećite [kroz](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)promjenu ovdje . 
+Pogledajte prohod promjena [ovdje](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
 **Napomena: klasična timska web-mjesta koja sadrže prilagođeni sadržaj neće se automatski ažurirati.**
 
-* Saznajte više o kriterijima ažuriranja na [Classic home page modernizaciji](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
+* Saznajte više o kriterijima ažuriranja na [klasičnoj modernizaciji početne stranice](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
 
 * [Nadogradite druge početne stranice koje nisu bile dio automatske modernizacije](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
 
-* Onemogućite ovu nadogradnju na određenim web-mjestima pomoću [cmdleta Komponente Komponente SharePoint Patterns and Practices (PnP).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)
+* Onemogućite ovu nadogradnju na određenim web-mjestima pomoću [cmdleta Komponente SharePoint Patterns and Practices (PnP) PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).
