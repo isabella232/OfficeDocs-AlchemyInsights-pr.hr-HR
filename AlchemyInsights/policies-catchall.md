@@ -1,5 +1,5 @@
 ---
-title: Pravila izlike
+title: Pravila catchall
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274841"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599944"
 ---
-# <a name="teams-policies"></a>Pravila timova
+# <a name="teams-policies"></a>Pravila za timove
 
-Postavke Microsoft Teams kontroliraju se pravilima. Da biste napravili promjenu, morate konfigurirati odgovarajuće pravilo, a zatim ga primijeniti na korisnike. Najbrži način za to učiniti za sve korisnike je izmjena zadanog pravilnika pod imenom Global. 
+Pravilima kontroliraju postavke sustava Microsoft Teams. Da biste napravili promjenu, morate konfigurirati odgovarajuće pravilo, a zatim ga primijeniti na korisnike. Najbrži način za to za sve korisnike je izmjena zadanog pravila pod nazivom Globalno. 
 
-**Note** Promjene pravila imaju ***najmanje 4 do 48 sati kako bi***stupile na snagu. Ako kreirate prilagođenu politiku, morate pričekati najmanje 4 sata da biste mogli napraviti dodatne promjene. Tada možete primijeniti tu politiku na korisnike. To znači da prilagođena pravila mogu trajati do 48 sati kako bi stupile na snagu. Globalna pravila postavljena su kao zadana za sve korisnike, a promjene globalne politike mogu trajati do 24 sata da bi stupile na snagu. Ako ste kreirali prilagođenu politiku, primijenili je na korisnike i još uvijek nije stupila na snagu nakon 48 sati ili ste izmijenili globalnu politiku i čekali najmanje 24 sata, otvorite slučaj podrške.
+**NAPOMENA** Promjene politike za ***stupile na snagu***od najmanje 4 do 48 sati . Ako izradite prilagođeno pravilo, morate pričekati najmanje 4 sata da biste ga mogli unijeti dodatne promjene. Zatim možete primijeniti to pravilo na korisnike. To znači da prilagođena pravila mogu potrajati i do 48 sati da stupe na snagu. Globalna pravila postavljena su kao zadana za sve korisnike, a promjene globalnih pravila mogu stupiti na snagu do 24 sata. Ako ste izradili prilagođena pravila, primijenili ga na korisnike i još uvijek nije stupila na snagu nakon 48 sati ili ste izmijenili globalna pravila i čekali najmanje 24 sata, otvorite slučaj za podršku.
 
 Politike timova podijeljene su u sljedeća područja:
 
-- [Klubovi pravila](https://docs.microsoft.com/MicrosoftTeams/teams-policies) kontroliraju korisničko otkriće privatnih timova u potrazi i stvaranju privatnih kanala.  
-- [Politike sastanka](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontroliraju što korisnici mogu učiniti s sastancima timova, uključujući kontrolu predvorja. Za pomoć u vezi s predvorjem, kao što je konfiguriranje timova za priznanje svih, pogledajte [postavke kontrole predvorja i razine sudjelovanja](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
-- [Pravila za razmjenu poruka](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kontroliraju što korisnici mogu učiniti uz chat i poruke, uključujući uključivanje ili isključivanje chata, brisanje chatova, traženje potvrda o čitanju, korištenje GIF-ova i naljepnica, i još mnogo toga.
-- [Pravila postavljanja aplikacija](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) kontroliraju koje su aplikacije dostupne korisnicima, uključujući prilagođene i aplikacije trećih strana te redoslijed kojim se prikazuju.  
-- [Pravila zadržavanja](https://docs.microsoft.com/microsoftteams/retention-policies) podataka za timove nalaze se u centru za sigurnost i usklađenost sustava Office 365.
-- Timovi adresara adresne knjige postavljeni su putem [opsegom pretraživanja direktorija](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).
+- [Pravila timova](https://docs.microsoft.com/MicrosoftTeams/teams-policies) kontroliraju otkrivanje privatnih timova korisnika u pretraživanju i stvaranju privatnih kanala.  
+- [Pravila sastanka](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontroliraju što korisnici mogu učiniti sa sastancima programa Teams, uključujući kontrolu predvorja. Pomoć za probleme s predvorjem, kao što je konfiguriranje timova za primanje svih, pogledajte [Upravljanje postavkama predvorja i razinama sudjelovanja](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
+- [Pravila razmjene poruka](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kontroliraju što korisnici mogu učiniti s čavrljanjem i porukama, uključujući uključivanje ili isključivanje čavrljanja, brisanje razgovora, traženje potvrda o čitanju, korištenje gifisa i naljepnica i još mnogo toga.
+- [Pravila za postavljanje aplikacija](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) kontroliraju koje su aplikacije dostupne korisnicima, uključujući prilagođene aplikacije i aplikacije trećih strana te redoslijed pojavljivanja.  
+- [Pravila zadržavanja podataka](https://docs.microsoft.com/microsoftteams/retention-policies) za Teams nalaze se u centru za sigurnost i usklađenost sustava Office 365.
+- Pravila adresara timova postavljaju se putem [pretraživanja imenika s opsegom](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).

@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: adc5dba801236bfbcff30d3fa151f8d0463be3cd
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162904"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600592"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>Predočavanje elektroničkih dokumenata u mrežama servisa Yammer
 
-Sada možete izvršiti pretraživanja predočavala elektroničkih dokumenata za sadržaj servisa Yammer u sustavu Office 365.  Za izvođenje pretraživanja predočavanja elektroničkih dokumenata ili izvoza na yammer sadržaju potrebno je sljedeće:
+Sada možete izvršiti pretraživanja predočavanje elektroničkih dokumenata za sadržaj servisa Yammer u sustavu Office 365.  Za pretraživanje ili izvoz predočavanja elektroničkih dokumenata na sadržaj servisa Yammer potrebno je sljedeće:
 
-1. Najprije morate migrirati poslovnu mrežu servisa Yammer u izvorni način rada da biste svoje poruke i datoteke servisa Yammer mogli biti vidljivi. **Napomena: ako ste novi klijent sustava Office 365 od 9.**
+1. Najprije morate migrirati mrežu servisa Yammer Enterprise u izvorni način rada da bi poruke i datoteke servisa Yammer učinili vidljivima. **siječnja 2020., a mreža servisa Yammer već je u izvornom načinu rada, vaši su podaci sada vidljivi s predočavanja elektroničkih dokumenata**.
 
-2. Za izlazak korisnika predočavanje elektroničkih dokumenata za Yammer bit će dostupno nakon izdavanja alata za poravnanje izvornog načina rada, a migracija naizvorni način rada dovrši se za Yammer na klijentu.
+2. Za izlaske iz kupaca, predočavanje elektroničkih dokumenata za Yammer bit će dostupno nakon objavljivanja alata za poravnanje native mode, a migracija na tivni način završi za Yammer na klijentu.
 
 Za više informacija o:
 
-- Nativni način rada na servisa Yammer potražite u odjeljku Pregled [izvornog načina rada](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- Predočavanje elektroničkih dokumenata u mrežama servisa Yammer potražite u odjeljku Pregled [predočavanja elektroničkih dokumenata na yammer mrežama](https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- Predočavanje elektroničkih dokumenata u sustavu Office 365 potražite [u članku Predočavanje elektroničkih dokumenata u sustavu Office 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/ediscovery).
+- Native Mode u yammeru potražite u članku Pregled [načina rada native](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- Predočavanje elektroničkih dokumenata u mrežama servisa Yammer potražite u članku [Pregled predočavanja elektroničkih dokumenata na mrežama servisa Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- Predočavanje elektroničkih dokumenata u sustavu Office 365 [potražite u članku Predočavanje elektroničkih dokumenata u sustavu Office 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
