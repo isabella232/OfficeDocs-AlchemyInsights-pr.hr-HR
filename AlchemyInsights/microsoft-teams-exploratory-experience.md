@@ -11,15 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: e899d29da78b2820c4384252af162092b81e9391
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
+ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564134"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42612339"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a><span data-ttu-id="6856f-102">Doživljaj eksploatacije microsoft timova</span><span class="sxs-lookup"><span data-stu-id="6856f-102">Microsoft Teams Exploratory experience</span></span>
+# <a name="microsoft-teams-exploratory-experience"></a><span data-ttu-id="89634-102">Doživljaj eksploatacije microsoft timova</span><span class="sxs-lookup"><span data-stu-id="89634-102">Microsoft Teams Exploratory experience</span></span>
 
-<span data-ttu-id="6856f-103">Iskustvo eksploatacije microsoftovih timova korisnicima u vašoj tvrtki ili ustanovi koji imaju Azure Active Directory (AAD) i nisu licencirani za Teams pokrenuti istraživačko iskustvo teams.</span><span class="sxs-lookup"><span data-stu-id="6856f-103">The Microsoft Teams Exploratory experience lets users in your organization who have Azure Active Directory (AAD) and are not licensed for Teams initiate an exploratory experience of Teams.</span></span> <span data-ttu-id="6856f-104">Administratori mogu uključiti ili isključiti tu značajku za korisnike u svojoj tvrtki ili ustanovi.</span><span class="sxs-lookup"><span data-stu-id="6856f-104">Admins can switch this feature on or off for users in their organization.</span></span> <span data-ttu-id="6856f-105">(Ranije probne verzije Microsoft Commercial Clouda sada se naziva doživljaj istraživačkog centra timova.)</span><span class="sxs-lookup"><span data-stu-id="6856f-105">(The earlier Microsoft Commercial Cloud Trial is now called The Teams Exploratory experience.)</span></span>
+<span data-ttu-id="89634-103">Iskustvo eksploatacije microsoftovih timova korisnicima u vašoj tvrtki ili ustanovi koji imaju Azure Active Directory (AAD) i nisu licencirani za Teams pokrenuti istraživačko iskustvo teams.</span><span class="sxs-lookup"><span data-stu-id="89634-103">The Microsoft Teams Exploratory experience lets users in your organization who have Azure Active Directory (AAD) and are not licensed for Teams initiate an exploratory experience of Teams.</span></span> <span data-ttu-id="89634-104">Administratori mogu uključiti ili isključiti tu značajku za korisnike u svojoj tvrtki ili ustanovi.</span><span class="sxs-lookup"><span data-stu-id="89634-104">Admins can switch this feature on or off for users in their organization.</span></span> <span data-ttu-id="89634-105">(Ranije probne verzije Microsoft Commercial Clouda sada se naziva doživljaj istraživačkog centra timova.)</span><span class="sxs-lookup"><span data-stu-id="89634-105">(The earlier Microsoft Commercial Cloud Trial is now called The Teams Exploratory experience.)</span></span>
 
-<span data-ttu-id="6856f-106">Dodatne informacije [potražite u odjeljku Upravljanje licencom za istraživanje microsoftovih timova](https://docs.microsoft.com/microsoftteams/teams-exploratory/).</span><span class="sxs-lookup"><span data-stu-id="6856f-106">For more information, please see [Managing the Microsoft Teams Exploratory license](https://docs.microsoft.com/microsoftteams/teams-exploratory/).</span></span>
+<span data-ttu-id="89634-106">Doživljaj programa Microsoft Teams Exploratory dostupan je bez dodatnih troškova do sljedeće godišnjice poslovnog ugovora ili obnove na ili nakon siječnja 2021.</span><span class="sxs-lookup"><span data-stu-id="89634-106">The Microsoft Teams Exploratory experience is available at no additional cost until your next enterprise agreement anniversary or renewal on or after January 2021.</span></span> <span data-ttu-id="89634-107">U tom će trenutku krajnji korisnici na licenci za iskustvo microsoft exploratory morati prijeći na plaćenu licencu koja uključuje teams.</span><span class="sxs-lookup"><span data-stu-id="89634-107">At that time, end users on a Microsoft Exploratory experience license will need to move to a paid license that includes Teams.</span></span>
+
+<span data-ttu-id="89634-108">Dodatne informacije [potražite u odjeljku Upravljanje licencom za istraživanje microsoftovih timova](https://docs.microsoft.com/microsoftteams/teams-exploratory/).</span><span class="sxs-lookup"><span data-stu-id="89634-108">For more information, please see [Managing the Microsoft Teams Exploratory license](https://docs.microsoft.com/microsoftteams/teams-exploratory/).</span></span>
