@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42744996"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856459"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Uobičajeni problemi i rješenja za aplikaciju Teams
 
@@ -36,11 +36,11 @@ Za sve korisnike aplikacije Teams:
 
     Da biste potvrdili da je korisnik licenciran za audiokonferencije i da ima zadani broj uz plaćanje:
     1.    Idite na Aktivne korisnike i odaberite odgovarajućeg korisnika.
-    2.    Ovisno o verziji centra za administratore, odaberite Licence i aplikacije ili kliknite Uređivanje u odjeljku Licence za proizvode.
+    2.    Ovisno o verziji centra za administratore, odaberite **Licence i aplikacije** ili kliknite **Uređivanje** na **Licence za proizvode**.
     3.    Potvrdite da korisnik ima odabrane licence za audiokonferencije, Microsoft Teams i Skype za tvrtke online (Plan 2).
-    4.    U centrima za administratore kliknite Prikaži sve, a zatim Teams.
-    5.    U centru za administratore programa Microsoft Teams kliknite Naslijeđeni portal.
-    6.    U centru za administratore sustava Skype za tvrtke kliknite Audiokonferencije, a zatim Korisnici.
+    4.    U centrima za administratore kliknite **Prikaži sve**, a zatim **Teams**.
+    5.    U centru za administratore programa Microsoft Teams kliknite **Naslijeđeni portal**.
+    6.    U centru za administratore sustava Skype za tvrtke kliknite **Audiokonferencije**, a zatim **Korisnici**.
     7.    Odaberite odgovarajućeg korisnika i potvrdite da korisnik ima zadani broj uz plaćanje.
     
     Za dodatne informacije pogledajte [tarife za pozivanje sustava Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili nazovite tim za trgovačke naplate tvrtke Microsoft za pomoć oko pitanja u vezi s licenciranjem.
