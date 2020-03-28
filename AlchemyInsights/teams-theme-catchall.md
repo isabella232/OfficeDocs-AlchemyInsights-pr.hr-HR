@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856459"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030392"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Uobičajeni problemi i rješenja za aplikaciju Teams
+
+**Važno**: zbog porasta korištenja aplikacije Teams, kada korisniku dodijelite licencu aplikacije Teams, može proći do 24 sata prije no što se program za njega potpuno postavi. Do tada mu nećete moći dodjeljivati pravilnike aplikacije Teams, a on možda neće imati pristup određenim značajkama aplikacije Teams kao što su pozivi i audiokonferencije.
+
+**Uobičajeni problemi i rješenja**
 
 Da biste dobili precizniji odgovor, pokušajte ponovno formulirati svoje pitanje da biste uvrstili sve pogreške koje vidite ili značajke aplikacije Teams koje koristite.
 
@@ -29,7 +33,7 @@ Za sve korisnike aplikacije Teams:
 - **Novi ste korisnik aplikacije Teams?** Pogledajte [Početak rada u aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
 - **Omogućavanje pristupa aplikaciji Teams za goste:** pogledajte [kontrolni popis za pristup aplikaciji Teams za goste](https://docs.microsoft.com/microsoftteams/guest-access-checklist) i provjerite jesu li svi koraci dovršeni. Dodatni resursi:
     - [Upoznavanje s pristupom gosta u programu Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access)
-    - [Postavljanje – kontrolni popis za pristup gosta u programu Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+    - [Postavljanje – kontrolni popis za pristup gosta u aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
     - [Način na koji se gost uključuje u Teams](https://docs.microsoft.com/microsoftteams/guest-joins)
 
 - **Sastanci i uključivanje biranjem u programu Teams**: trebate pomoć pri uključivanju ili postavljanju audiokonferencija u programu Microsoft Teams? Je li ovaj korisnik nedavno stvoren? Ako jest, trebat ćete pričekati od 2 do 24 sata **da bi se postavke primijenile**. 
