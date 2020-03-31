@@ -1,5 +1,5 @@
 ---
-title: 182 molimo pokrenite Saru za dijagnozu i rješavanje problema provjere autentičnosti programa Outlook
+title: 182 Pokrenite SaRA da biste dijagnosticirali i riješili probleme s provjerom autentičnosti programa Outlook
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 150a64e110a6e2e013952d97d811f0e791803d39
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36752626"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059800"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="bff45-102">Koristite Saru za dijagnosticiranje i rješavanje problema provjere autentičnosti programa Outlook</span><span class="sxs-lookup"><span data-stu-id="bff45-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="f90be-102">Dijagnosticiranje i rješavanje problema s provjerom autentičnosti programa Outlook pomoću sara</span><span class="sxs-lookup"><span data-stu-id="f90be-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
 
-<span data-ttu-id="bff45-103">Preporučujemo vam da koristite [Outlook traži moju lozinku za](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) dijagnostiku na zahvaćenom stroju da biste otklonili probleme u kojima Outlook stalno traži lozinku.</span><span class="sxs-lookup"><span data-stu-id="bff45-103">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password.</span></span> <span data-ttu-id="bff45-104">Ovo [SaRA](https://diagnostics.office.com/#/) dijagnostika radi automatizirane provjere i vraća moguća rješenja za korištenje za rješavanje svih otkrivenih problema.</span><span class="sxs-lookup"><span data-stu-id="bff45-104">This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>
+<span data-ttu-id="f90be-103">**Napomena**: Provjerite jesu li [zadane sigurnosne postavke omogućene](http://aka.ms/securitydefaults) za vašu tvrtku ili ustanovu.</span><span class="sxs-lookup"><span data-stu-id="f90be-103">**Note**: Please check to see whether [security defaults](http://aka.ms/securitydefaults) is enabled for your organization.</span></span> <span data-ttu-id="f90be-104">Ako je klijent stvoren nakon 21. **security defaults**</span><span class="sxs-lookup"><span data-stu-id="f90be-104">If your tenant was created after October 21st, 2019 and your Outlook is repeatedly asking you for a password, you may have **security defaults** enabled in your tenant.</span></span>
+
+<span data-ttu-id="f90be-105">Preporučujemo da koristite [Outlook stalno traži moju dijagnostiku lozinke](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) na zahvaćenom računalu za otklanjanje poteškoća gdje Outlook neprestano traži lozinku.</span><span class="sxs-lookup"><span data-stu-id="f90be-105">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password.</span></span> <span data-ttu-id="f90be-106">Ova [SaRA dijagnostika](https://diagnostics.office.com/#/) provjerava i vraća moguća rješenja koja možete koristiti za rješavanje svih otkrivenih problema.</span><span class="sxs-lookup"><span data-stu-id="f90be-106">This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>
