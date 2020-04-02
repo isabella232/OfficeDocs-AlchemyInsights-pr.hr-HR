@@ -1,5 +1,5 @@
 ---
-title: BlockLegacyAuth
+title: BlokLegacyAuth
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: 73c46cc9ad17553f53f90a53fa272609a208d4a6
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: e7bff5f9fcf6f2f2c77e93c2f27f585f2cc18bea
+ms.sourcegitcommit: 98231a228ecb2bf14ec3b96d4dd4ccf2507617a3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627278"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43079252"
 ---
 # <a name="blocking-legacy-authentication"></a>Blokiranje naslijeđene provjere autentičnosti
 
-Naslijeđena provjera autentičnosti pojam je koji se odnosi na zahtjev za provjeru autentičnosti koji je napravio:
+Naslijeđena provjera autentičnosti izraz je koji se odnosi na zahtjev za provjeru autentičnosti koji je iznio:
 
-- Stariji Officeovi klijenti koji ne koriste modernu provjeru autentičnosti (na primjer, Office 2010 Client)
-- Svaki klijent koji koristi naslijeđene mailove protokole kao što su IMAP/SMTP/POP3  
+- Stariji klijenti sustava Office koji ne koriste modernu provjeru autentičnosti (na primjer, klijent sustava Office 2010).
 
-Za više informacija o blokiranju naslijeđene provjere autentičnosti i omogućivanju moderne provjere autentičnosti, pogledajte [blokiranje naslijeđene provjere autentičnosti](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+- Bilo koji klijent koji koristi naslijeđene protokole pošte kao što je IMAP/SMTP/POP3.
+
+Dodatne informacije o blokiranju naslijeđene provjere autentičnosti i omogućavanju moderne provjere autentičnosti potražite u odjeljku [Blokiranje naslijeđene provjere autentičnosti](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+
+Zadane sigurnosne postavke u servisu Azure Active Directory (Azure AD) olakšavaju zaštitu i štite vašu tvrtku ili ustanovu. Sigurnosne zadane postavke sadrže unaprijed konfigurirane sigurnosne postavke za uobičajene napade.
+Dodatne informacije o zadanim postavkama sigurnosti potražite u odjeljku [Što su sigurnosne zadane postavke?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+
+**Napomena:** ako je vaš klijent stvoren 22.  U nastojanju da zaštiti sve naše korisnike, sigurnosne zadane se uvodi na sve nove stvorene klijente.

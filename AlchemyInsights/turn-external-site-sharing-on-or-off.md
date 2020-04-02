@@ -1,5 +1,5 @@
 ---
-title: Prilagođavanje dozvola za SharePointov popis ili biblioteku
+title: Prilagodba dozvola za SharePoint popis ili biblioteku
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 1220bbbcdd1316585746b6f0ad9f95f24373cb6e
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 738e17393af628d5b19aa7e047a736f78615ff57
+ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922111"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43100319"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Uključivanje i isključivanje vanjskog dijeljenja za web-mjesto
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Uključivanje i isključivanje vanjskog zajedničkog korištenja za web-mjesto
 
-Morate biti globalni ili SharePoint administrator u sustavu Office 365 da biste promijenili postavku vanjskog dijeljenja za web-mjesto (prethodno nazvanu "zbirka web-mjesta"). Vlasnici web-mjesta ne smiju mijenjati tu postavku. 
+Da biste promijenili postavku vanjskog zajedničkog korištenja web-mjesta (prethodno zvana "zbirka web-mjesta"). Vlasnicima web-mjesta nije dopuštena promjena ove postavke. 
 
-Za više informacija pogledajte [Uključivanje ili isključivanje vanjskog dijeljenja za web-mjesto](https://docs.microsoft.com/sharepoint/change-external-sharing-site).
+Dodatne informacije potražite [u odjeljku Uključivanje i isključivanje vanjskog zajedničkog korištenja za web-mjesto](https://docs.microsoft.com/sharepoint/change-external-sharing-site).

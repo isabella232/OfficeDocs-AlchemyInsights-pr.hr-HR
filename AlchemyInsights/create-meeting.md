@@ -1,5 +1,5 @@
 ---
-title: Stvori sastanak
+title: Stvaranje sastanka
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,22 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 0775f12d3778f1f6f7a53ec47ddb8f0cd71dc1af
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376559"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105339"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Zakazivanje sastanka u timovima
+# <a name="schedule-a-meeting-in-teams"></a>Zakazivanje sastanka u aplikaciji Teams
+
+**Važno**: Ako imate problema s stvaranjem sastanka ili ne možete pronaći mogućnost sastanka u aplikaciji Teams, provjerite jesu li zahvaćeni korisnici [licencirani za poštanski sandučić sustava Exchange Online i omogućen je poštanski sandučić](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
 
 Sastanak možete zakazati na dva načina: 
 
-- Odaberite **raspored** sastanak ikona u chat (to je ispod okvira za sastavljanje) rezervirati sastanak s ljudima u chat.
-- Odaberite ikonu **kalendara** na lijevoj strani aplikacije i odaberite **novi sastanak** u gornjem desnom dijelu ili odaberite raspon vremena u kalendaru da biste otvorili obrazac za planiranje.
+- Odaberite ikonu **Zakazivanje sastanka** u chatu (to je ispod okvira za sastavljanje) da biste rezervirali sastanak s osobama u chatu.
+- Odaberite ikonu **Kalendar** na lijevoj strani aplikacije i odaberite **Novi sastanak** u gornjem desnom kutu ili odaberite raspon vremena u kalendaru da biste otvorili obrazac za zakazivanje.
 
-Slično rasporedu sastanka u programu Outlook, dat ćete svoj sastanak naslov, pozvati ljude i dodati detalje sastanaka.
+Slično zakazivanju sastanka u programu Outlook, sastanku ćete dati naslov, pozvati osobe i dodati detalje o sastancima.
 
-Na desnoj strani obrasca za raspoređivanje možete dodati kanal ili pojedinačne osobe ili ostaviti prazno za zakazivanje privatnog sastanka.
+Na desnoj strani obrasca za zakazivanje možete dodati kanal ili pojedinačne osobe ili ostaviti prazno da biste zakazali privatnu obvezu.
 
-Dodatne informacije o stvaranju i zakazivanju sastanaka u Microsoftovim timovima potražite u članku [Zakazivanje sastanka u timovima](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+- Dodatne informacije o stvaranju i zakazivanju sastanaka u programima Microsoft Teams [potražite u članku Zakazivanje sastanka u aplikaciji Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+- Ograničenja i specifikacije za sastanke potražite u [odjeljku Ograničenja i specifikacije za Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
