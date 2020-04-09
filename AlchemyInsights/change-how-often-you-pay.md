@@ -1,5 +1,5 @@
 ---
-title: Promjena koliko često platiti
+title: Promjena učestalosti plaćanja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386893"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195010"
 ---
-# <a name="change-how-often-you-pay"></a>Promjena koliko često platiti
+# <a name="change-how-often-you-pay"></a>Promjena učestalosti plaćanja
 
- **Želite li promijeniti učestalost plaćanja?** Ako želite promijeniti kako često platiti za Office 365 za pretplatu poslovne iz godišnji mjesečno ili mjesečno za godišnje, možemo vam pomoći s tim. Morat ćete kupiti isti pretplate s novu učestalost plaćanja i otkazati pretplatu stari. Razgovarati inženjeru za podršku, koristite mogućnost "nam povratni poziv,".
+Kada kupite pretplatu, odabirete mjesečnu ili godišnju naplatu. Da biste promijenili učestalost naplate pretplate, slijedite ove korake.
+
+1. U centru za administratore otvorite stranicu **> za naplatu [proizvoda & usluga.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
+
+2. Pronađite pretplatu koju želite promijeniti. U odjeljku **Naplata** pokraj stavke **Naplaćena mjesečno** ili **Naplaćeno godišnje**kliknite **Uredi**.
+
+3. Odaberite opciju za koliko često želite naplatiti, a zatim odaberite **Promijeni**.
