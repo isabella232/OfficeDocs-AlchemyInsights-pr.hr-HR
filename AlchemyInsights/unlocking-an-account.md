@@ -11,27 +11,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 7a1629c43fbb263439515e5e2c9dff53ab26d667
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
+ms.openlocfilehash: f66eb26df12412162e6f092c2528138bb30b7eb2
+ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211276"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43231412"
 ---
 # <a name="unlocking-an-account"></a>Otključavanje računa
 
-Korisnicima sustava Office 365 može biti onemogućen pristup zbog pokušaja prijave s netočnom lozinkom. Da biste korisnicima omogućili ponovnu prijavu u Microsoft 365, pokušajte provesti sljedeće korake.
+Korisnicima može biti onemogućen pristup sustavu Office 365 zbog pokušaja prijave s netočnom lozinkom ili drugih oblika ugrožavanja sigurnosti. Da biste korisnicima omogućili ponovnu prijavu u Microsoft 365, **prije podnošenja zahtjeva za podršku pokušajte provesti sljedeće korake**. 
 
-**Ponovno postavite korisničku lozinku**
+**Ograničenje slanja e-pošte**
 
-1. U centru za administratore otvorite stranicu **Korisnici > [Aktivni korisnici](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.
+Ako je nekom od vaših korisnika onemogućeno slanje e-pošte, kao administrator možete [sami deblokirati njegov račun](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Korisnik će moći slati e-poštu u roku od jednog sata nakon uklanjanja ograničenja.
+
+**Ponovno postavljanje korisničke lozinke**
+
+1. U centru za administratore otvorite stranicu **Korisnici > Aktivni korisnici**.
 
 2. Odaberite korisnika, a zatim kliknite **Ponovno postavi lozinku**.
 
 **Provjerite je li korisniku dopuštena prijava**
 
-1. U centru za administratore otvorite stranicu **Korisnici > [Aktivni korisnici](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.
+1. U centru za administratore otvorite stranicu **Korisnici > Aktivni korisnici**.
 
-2. Odaberite korisnika, kliknite **Dodatne akcije (...)**, a zatim kliknite **Uredi status prijave**. 
+2. Odaberite korisnika, kliknite **Dodatne akcije (...)**, a zatim kliknite **Uredi status prijave**.
 
 Dodatne načine za ponovno postavljanje lozinke, uključujući samostalno ponovno postavljanje lozinke, potražite u [Ponovno postavljanje lozinki u sustavu Microsoft 365 Business](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
+
+
+Ako jedan od vaših korisnika ima ograničenja u slanju e-pošte, kao administrator možete [deblokirati račun sami](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam) **bez otvaranja slučaja podrške**. Korisnik će moći slati e-poštu u roku od sat vremena nakon uklanjanja ograničenja.
+
+Servis sprječava korisnika da šalje poruku e-pošte nakon što otkrije dokaze o ugroženom računu i/ili izlaznoj neželjenoj pošti. Radi opreza, slijedite korake iz članka [Postupanje s kompromitiranim računom e-pošte u sustavu Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
