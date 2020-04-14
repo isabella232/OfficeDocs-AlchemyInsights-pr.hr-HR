@@ -1,5 +1,5 @@
 ---
-title: Kako kupiti Office 365 Obrazovanje planove
+title: Kupnja tarifa za Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,19 +14,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390900"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286234"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Kako kupiti Office 365 Obrazovanje planove
+# <a name="how-to-purchase-office-365-education-plans"></a>Kupnja tarifa za Office 365 Education
 
-Što ste odobrili za Office 365 Obrazovanje. Nabave:
-  
-1. U centru za administraciju idite na **naplatu** \> stranici [Servisi nabave](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+Odobrena vam je kupnja sustava Office 365 Education.  Upute za kupnju:
 
-2. Odaberite s popisa pod **Namjerava Obrazovanje**.
+1. Idite na **[Naplata > Kupnja servisa](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
-3. Pokazivač iznad koje želite kupiti pretplatu i **Kupite sada**odabrati.
+2. Odaberite odgovarajuću tarifu s popisa u odjeljku **Tarife za obrazovne ustanove**.
+
+3. Postavite pokazivač miša na pretplatu koju želite kupiti pa kliknite **Kupite odmah**.
+
+**Udaljeno podučavanje i učenje**
+
+- Pogledajte [Daljinsko podučavanje i učenje u sustavu Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) da biste naučili najnovije savjete o postavljanju planiranja lekcija svoje škole, virtualnim sastancima i zajedničkom korištenju sadržaja sa studentima.
+
+- Postoje dodatne smjernice za IT u [Početak rada s aplikacijom Microsoft Teams za daljinsko učenje](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) i [Prijelaz na daljinsko učenje](https://www.microsoft.com/education/remote-learning).
