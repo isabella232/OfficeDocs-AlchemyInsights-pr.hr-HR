@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958530"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537733"
 ---
 # <a name="general-migration-performance-guidance"></a>Smjernice za performanse opće migracije
 
+
 **Važno**: Tijekom ovih neočekivanih vremena poduzimamo korake kako bismo osigurali da servisi SharePoint Online i OneDrive i dalje budu široko raspoloživi – dodatne informacije potražite u [Privremene prilagodbe značajke SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Smjernice za performanse migracije**
+**Mogućnosti migracije**
 
-Na performanse migracije mogu utjecati mrežna infrastruktura, veličina datoteke, vrijeme migracije te ograničavanje. Razumijevanje gore navedenog olakšat će vam planiranje i maksimiziranje efikasnosti migracije.
+Dostupne su različite mogućnosti za migraciju sadržaja u servis SharePoint Online, ovisno o veličini i količini datoteka koje želite premjestiti, popis mogućnosti [nalazi se ovdje](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Smjernice za performanse opće migracije](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Da biste saznali više o migraciji sadržaja, posjetite poveznice u nastavku.
+
+- [Performanse migracije sustava SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Krenite s upraviteljem migracije](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)
