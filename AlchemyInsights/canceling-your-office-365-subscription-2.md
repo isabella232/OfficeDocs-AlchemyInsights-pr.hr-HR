@@ -1,5 +1,5 @@
 ---
-title: Otkazivanje pretplate Office 365?
+title: Otkazivanje pretplate na Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665464"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552589"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Otkazivanje pretplate Office 365?
+# <a name="canceling-your-office-365-subscription"></a>Otkazivanje pretplate na Office 365?
 
-Žao nam da biste vidjeli Idi!
+Žao nam je što odlaziš!
   
-Na temelju podataka organizacije Vjerujemo sve trenutne pretplate imaju više od 25 dodijeljene licence. Možete ukloniti korisnike dok imaju manje od 25, zatim idite na **naplatu** \> stranicu [Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) . U sekciji **Postavke & akcije** odaberite **otkazati pretplatu**.
+Na temelju podataka vaše tvrtke ili ustanove vjerujemo da sve vaše trenutne pretplate imaju više od 25 dodijeljenih licenci. Korisnike možete ukloniti dok ne budete imali manje od 25, a zatim otvorite stranicu **Proizvodi za naplatu** \> [& usluge.](https://go.microsoft.com/fwlink/p/?linkid=842054) U odjeljku **Postavke & Akcije** odaberite **Odustani od pretplate**.
   
-Umjesto toga odaberite **potrebna pomoć** razgovarati inženjeru za podršku.
+Alternativno, odaberite **Potrebna pomoć** za razgovor s inženjerom za podršku.
   
-Da biste saznali više, pogledajte [otkazali pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Povrat novca: svi prorated krediti bit će vam vraćeni unutar sljedećeg ciklusa naplate.** 
+
+**Napomena:** Ako ne vidite opciju za otkazivanje, kliknite na pretplatu da biste vidjeli detalje i trebali biste vidjeti mogućnost **Odustani od pretplate** u **Postavkama & Akcije**. 
+
+Dodatne informacije [potražite u odjeljku Otkazivanje pretplate](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

@@ -13,16 +13,14 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 6432d32a4424c13f38077b37aa5f689a573a876e
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: c634596b42e672f635bb50d080429c94fe2da258
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541645"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552877"
 ---
 # <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Otklanjanje poteškoća s alatom za migraciju sustava SharePoint i pogreškama
-
-**Važno**: Tijekom ovih neočekivanih vremena poduzimamo korake kako bismo osigurali da servisi SharePoint Online i OneDrive i dalje budu široko raspoloživi – dodatne informacije potražite u [Privremene prilagodbe značajke SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 Prilikom korištenja alata za migraciju sustava SharePoint (SPMT) možete naići na neke uobičajene probleme i pogreške. Dodatne informacije potražite na vezama u nastavku.
 

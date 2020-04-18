@@ -11,25 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: e591c56dd207a5bcb3979be3f66052121100b162
-ms.sourcegitcommit: 2572c4e5a981d5f3f556835061c568cfd08b78da
+ms.openlocfilehash: b28865ff1da434a254c9051183074be35cdd0252
+ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "41969297"
+ms.lasthandoff: 04/17/2020
+ms.locfileid: "43547954"
 ---
-# <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Ispravljanje pogreške u vezi s aplikacijama sustava Office "Vaš račun je u lošem stanju"
+# <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Ispravak pogreške "Vaš je račun u lošem stanju"
 
-Da biste riješili tu pogrešku, isprobajte sljedeće mogućnosti na zahvaćenom računalu:
+Da biste riješili tu pogrešku, pokušajte sljedeće mogućnosti na zahvaćenom računalu:
 
-- Otvorite aplikaciju sustava Office, odaberite Odjava**na račun** >  **datoteke** > **sa svih računa**. Ponovno se prijavite pomoću korisničkog računa s valjanom licencom. Detaljne informacije potražite [u odjeljku Računi u sustavu Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Otvorite aplikaciju sustava Office, odaberite Odjava**računa** >  **datoteke** > **svih računa**. Ponovno se prijavite pomoću korisničkog računa s valjanom licencom. Detaljne informacije potražite u članku [Računi u sustavu Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 - [Izbrišite vjerodajnice sustava Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomoću upravitelja vjerodajnica sustava Windows.<br>
   **Napomena:** Putovi registra za Office 2016 promijenili su se u 16.0. Na primjer, \Software\Microsoft\Office\16.0\Common\Identity\
-- Na zahvaćenom računalu postavite EnableADAL = 0 pomoću sljedećih koraka:  
-     1. Desnom tipkom miša kliknite gumb Windows i odaberite **Pokreni**. U okvir **Otvori** upišite **regedit**, a zatim odaberite **U redu**.
-     2. Odaberite **Da** kada se od vas zatraži da biste uređivaču registra dopustili izmjene uređaja.
-    3. U uređivaču registra dodajte DWORD vrijednost EnableADAL s postavkom 0 pod HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
-- Ako dođe do pogreške tijekom povezivanja sa sustavom Office 365 pomoću sustava Office 2013, [omogućite modernu provjeru autentičnosti](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) klijenta sustava Office.
+- Ako dođe do pogreške tijekom povezivanja sa sustavom Office 365 pomoću sustava Office 2013, [omogućite modernu provjeru autentičnosti](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) za klijent sustava Office.
 
-Dodatne informacije potražite u [odjeljku Otklanjanje poteškoća s aplikacijama koje se ne mogu prijaviti u Office 365, Azure ili Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
+Dodatne informacije potražite [u odjeljku Otklanjanje poteškoća s aplikacijama koje nisu preglednike koje se ne mogu prijaviti u Office 365, Azure ili Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
 
