@@ -1,9 +1,9 @@
 ---
-title: Dodavanje grupe na SharePoint web-mjesto
+title: Dodavanje grupe na Web-mjesto sustava SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 8/3/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,39 +11,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 6ac4728c02471dd2640e0c516fee7cf5ebb12f54
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36495203"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676381"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Dodavanje grupe na SharePoint web-mjesto
+# <a name="add-a-group-to-a-sharepoint-site"></a>Dodavanje grupe na Web-mjesto sustava SharePoint
 
-Nekim web-lokacijama sustava SharePoint (uključujući one stvorene u Microsoftovim timovima) upravljaju vlasnici sustava Office 365. SharePoint web-mjesta i sadržaj mogu se dijeliti i s Officeovim 365 grupama i sa SharePoint grupama. SharePoint grupa je zbirka korisnika koji imaju isti skup dozvola za web-mjesta i sadržaj. Za klasična web-mjesta preporučujemo da koristite grupe da biste jednostavno dodijelili istu razinu dozvole mnogim ljudima odjednom, a ne dodjeljujete dozvole jednoj osobi odjednom.
+Nekim timskim web-mjestima sustava SharePoint (uključujući ona stvorena u sustavu Microsoft Teams) upravljaju vlasnici grupa sustava Office 365. Web-mjesta i sadržaj sustava SharePoint mogu se zajednički koristiti i s grupama sustava Office 365 i sa sharepoint grupama. SharePoint grupa zbirka je korisnika koji imaju isti skup dozvola za web-mjesta i sadržaj. Za klasična web-mjesta preporučujemo da koristite grupe da biste jednostavno dodijelili istu razinu dozvole mnogim osobama odjednom, a ne dodijelili dozvole jednoj osobi odjednom.
   
-Upravljajte članovima Office 365 grupa:
+Upravljanje članovima grupe sustava Office 365:
   
-1. Idite na [stranicu grupe u centru za administraciju Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. Idite na [stranicu Grupe u centru za administratore sustava Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Odaberite grupu da biste vidjeli svoje vlasnike i članove. Da biste dodali ili uklonili osobe, kliknite vezu za **Uređivanje** u retku **vlasnici** ili **Članovi** . 
+2. Odaberite grupu da biste vidjeli njezine vlasnike i članove. Da biste dodali ili uklonili osobe, kliknite vezu **Uredi** u retku **Vlasnici** ili **Članovi.** 
     
-Podijelite web-mjesto za komunikaciju sa uredom 365 grupe:
+Zajedničko korištenje web-mjesta za komunikaciju s grupom sustava Office 365:
   
-1. Idite na web-mjesto u pregledniku i kliknite **zajedničko korištenje web-mjesta** u gornjem desnom dijelu. 
+1. Idite na web-mjesto u pregledniku i kliknite **Zajedničko korištenje web-mjesta** u gornjem desnom kutu. 
     
-2. Unesite naziv grupe, a zatim odaberite razinu dozvole (čitanje, uređivanje ili potpuna kontrola).
+2. Unesite naziv grupe, a zatim odaberite razinu dozvole (Čitanje, Uređivanje ili Potpuna kontrola).
     
-Stvorite SharePoint grupu za korištenje s klasičnim web-mjestom:
+Stvaranje sharepoint grupe za korištenje s klasičnim web-mjestom:
   
-1. Idite na web-mjesto u pregledniku i kliknite ikonu Postavke u gornjem desnom dijelu.
+1. Idite na web-mjesto u pregledniku i kliknite ikonu Postavke u gornjem desnom kutu.
     
-2. Kliknite **Postavke web-mjesta**, a zatim u odjeljku **Korisnici i dozvole**kliknite **dozvole web-mjesta**.
+2. Kliknite **Postavke web-mjesta**, a zatim u odjeljku **Korisnici i dozvole**kliknite **Dozvole web-mjesta**.
     
-3. Na kartici dozvole kliknite **Stvori grupu**.
+3. Na kartici Dozvole kliknite **Stvori grupu**.
     
-[Povezivanje klasičnog timskog web-mjesta s novom Office 365 grupom](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Povezivanje klasičnog timskog web-mjesta s novom grupom sustava Office 365](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Saznajte više o radu s grupama sustava SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
+[Saznajte više o radu sa sharepoint grupama](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

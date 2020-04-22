@@ -1,9 +1,9 @@
 ---
-title: Dodavanje kalendara programa SharePoint
+title: Dodavanje kalendara sustava SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 4f01c0f1d6b8c6ada537fa1f91ddec1edabb804a
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122536"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671341"
 ---
-# <a name="add-a-sharepoint-calendar"></a>Dodavanje kalendara programa SharePoint
+# <a name="add-a-sharepoint-calendar"></a>Dodavanje kalendara sustava SharePoint
 
-SharePoint kalendari su klasične vrste popisa koje su ponekad zbunjene s Officeovim kalendarom grupe 365.
+Kalendari sustava SharePoint klasične su vrste popisa koje se ponekad miješaju s kalendarima grupe sustava Office 365.
  
-Da biste kreirali kalendar programa SharePoint, slijedite ove korake:
+Da biste stvorili kalendar sustava SharePoint, slijedite ove korake:
  
-1.  Odaberite ikonu zupčanika **postavki** , a zatim odaberite **Dodaj aplikaciju**.
-2.  U okvir za pretraživanje **aplikacije** unesite **Kalendar** i pritisnite ENTER.
+1.  Odaberite ikonu **Postavke** zupčanika, a zatim **Dodaj aplikaciju**.
+2.  U okvir **Traženje pretraživanja aplikacije** upišite **Kalendar** i pritisnite enter.
 3.  Odaberite aplikaciju pod nazivom **Kalendar**, a zatim unesite naziv kalendara.
 
-Dodatne informacije o Office 365 grupe potražite u okviru [grupe sustava office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Dodatne informacije o grupama sustava Office 365 potražite [u članku Saznajte više o grupama sustava Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

@@ -1,9 +1,9 @@
 ---
-title: Povećajte veličinu poštanskog sandučića za JSK Enterprise
+title: Povećanje veličine poštanskog sandučića za Poduzeća SKU-ove
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: c7c7c3d17bb0be0a31c80b39b587f1e085a12d84
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: cc3842bf7226079b8542cb95aa0cdbf00d95361f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739269"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671233"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Što učiniti ako veličinu poštanskog sandučića već je 100GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Što učiniti ako je veličina poštanskog sandučića već 100 GB
 
-S E3 ili E5 plan, veličinu poštanskog sandučića već je 100 GB i nema načina da biste ga povećali. Umjesto toga izbrišite stare e-pošte ili uključiti pohraniti u oblak arhiviranje e-pošte. 
+Uz e3 ili E5 plan, veličina poštanskog sandučića već je 100 GB i ne postoji način da ga povećate. Umjesto toga izbrišite staru e-poštu ili uključite arhiviranje e-pošte da biste je pohranili u oblak. 
   
-Za omogućavanje arhiviranja e-pošte:
+Da biste omogućili arhiviranje e-pošte:
   
-1. U centru za administraciju Microsoft 365 idite na **administraciju centrira** \> **sustava Exchange**. 
+1. U centru za administratore sustava Microsoft 365 idite na **Administratorski** \> centri **Exchange**. 
     
-2. Odaberite **primatelje** \> **poštanski sandučići**i odaberite poštanski sandučić. 
+2. Odaberite **Poštanski sandučići** \> **primatelja**i odaberite poštanski sandučić. 
     
-3. U oknu pojedinosti, pod značajkom **Zamjenom arhiva**odaberite **Omogući**. 
+3. U oknu s detaljima u **odjeljku Arhiva mjesta**odaberite **Omogući**. 
     
-4. Nakon nekoliko minuta, nova mapa pojavit će se u programu Outlook vaš korisnika na webu naziva *Arhiva zamjenom* ili naziva app Outlook *Online Arhiviraj - \<naziv\> * . Korisniku možete povući i ispustiti e-pošte u arhivu. 
+4. Nakon nekoliko minuta u programu Outlook korisnika na webu pod nazivom *Arhiva za mješinu* ili u aplikaciji Outlook pod nazivom *Mrežna arhiva \<– naziv\> * . Vaš korisnik može povući i ispustiti e-poštu u arhivu. 
     
-Možete pristupiti neograničen količinu spremišta za arhiviranje. Da biste saznali više, pogledajte [Omogući arhiviranje neograničen](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+Možete pristupiti neograničenu količinu prostora za pohranu za arhiviranje. Dodatne informacije [potražite u odjeljku Omogućivanje neograničenog arhiviranja](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
   
 

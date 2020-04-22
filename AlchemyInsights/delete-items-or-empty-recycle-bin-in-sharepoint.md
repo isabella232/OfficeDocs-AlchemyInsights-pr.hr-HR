@@ -1,9 +1,9 @@
 ---
-title: Brisanje stavki ili prazno smeće web-mjesta sustava SharePoint
+title: Brisanje stavki ili pražnjenje koša za smeće web-mjesta sustava SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: 1766b9c54c0c9eb1574ab70f672f2fdec8cc3959
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: f035104d3a9c2a3d5c82d9753497fa5f4c9e6319
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922112"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704861"
 ---
-# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Brisanje stavki ili prazno smeće web-mjesta sustava SharePoint 
+# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Brisanje stavki ili pražnjenje koša za smeće web-mjesta sustava SharePoint 
 
-Kada izbrišete stavku iz SharePoint biblioteke dokumenata ili popisa, on se ne uklanja odmah iz sustava SharePoint. Izbrisane stavke idu u koš za smeće web-mjesta na određeno vrijeme. Tijekom tog vremena možete vratiti stavke koje ste izbrisali na njihovu izvornu lokaciju ili ih ukloniti da biste oslobodili prostor za pohranu.
+Kada izbrišete stavku iz SharePoint biblioteke dokumenata ili popisa, ona se neće odmah ukloniti iz sustava SharePoint. Izbrisane stavke ulaze u koš za smeće web-mjesta na određeno vrijeme. Tijekom tog vremena možete vratiti stavke koje ste izbrisali na izvorno mjesto ili ih ukloniti da biste oslobodili prostor za pohranu.
 
-[Brisanje stavki ili prazno smeće web-mjesta sustava SharePoint](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online)
+[Brisanje stavki ili pražnjenje koša za smeće web-mjesta sustava SharePoint](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)

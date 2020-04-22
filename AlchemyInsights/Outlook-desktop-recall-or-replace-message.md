@@ -1,40 +1,40 @@
 ---
-title: Outlook Desktop opoziv ili zamijeniti poruku e-pošte
+title: Opoziv ili zamjena poruke e-pošte radne površine programa Outlook Desktop
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36496103"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687502"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Opoziv ili zamjena poruke e-pošte programa Outlook
 
-- Kao administrator, možete **opozvati poruke u ime korisnika pomoću PowerShell**. Ne možete se sjetiti poruka iz centra za administraciju.
-- Možete se **prisjetiti samo poruka koje se šalju osobama u vašoj organizaciji**. Ako je poruka poslana na Gmail adresu, na primjer, ne možete ga opozvati.
-- Možete se **prisjetiti samo poruka poslane iz outlooka 2016 na PC-ju**. Ako korisnik pošalje poruku pomoću programa Outlook za Mac ili Outlook na webu, ne možete ga opozvati.
+- Kao admin, možete **opozvati poruke u ime korisnika pomoću PowerShell**. Ne možete opozvati poruke iz centra za administratore.
+- Možete **se prisjetiti samo poruka koje se šalju osobama u vašoj organizaciji**. Ako je poruka poslana na Gmail adresu, na primjer, ne možete je se sjetiti.
+- Možete **samo opozvati poruke poslane iz programa Outlook 2016 na PC-ju**. Ako korisnik pošalje poruku pomoću programa Outlook za Mac ili Outlook na webu, ne možete je se sjetiti.
 
 Da biste opozvali ili zamijenili poruku e-pošte:
 
-1. U oknu mape s lijeve strane prozora programa Outlook odaberite mapu poslane stavke.
-1. Dvaput pritisnite poruku koju želite podsjetiti da biste je otvorili.
-1. Odaberite karticu **poruka** , a zatim odaberite **Akcije** > **Opozovi ovu poruku**.
-1. Odaberite **Izbriši nepročitanih kopija ove poruke** ili **izbrišite nepročitanih kopija i zamijenite novom porukom**, a zatim odaberite **u redu**.
+1. U oknu mape s lijeve strane prozora programa Outlook odaberite mapu Poslane stavke.
+1. Dvokliknite poruku koju želite opozvati da biste je otvorili.
+1. Odaberite karticu **Poruka,** a zatim **Akcije Opoziv** > **ova poruka**.
+1. Odaberite **Izbriši nepročitane kopije ove poruke** ili Izbriši **nepročitane kopije i zamijeni je novom porukom**, a zatim odaberite U **redu**.
 1. Ako šaljete zamjensku poruku, sastavite poruku, a zatim odaberite **Pošalji**.
-1. Uspjeh ili neuspjeh opoziv poruke ovisi o postavkama primatelja u programu Outlook. Za korake za provjeru opoziva pogledajte [ovaj članak](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. Uspjeh ili neuspjeh opoziva poruke ovisi o postavkama primatelja u programu Outlook. Korake za provjeru opoziva potražite u [ovom članku](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-Traženje i brisanje poruka e-pošte u organizaciji
+Traženje i brisanje poruka e-pošte u tvrtki ili ustanovi
 
-- Ako niste globalni administrator, vaš račun mora biti dodan ulozi eDiscovery managera ili u ulozi za upravljanje pretraživanjem usklađenosti da biste potražili poruke. Da biste izbrisali poruke, morate se pridružiti grupi uloga za upravljanje organizacijom ili u ulozi upravljanja pretraživanjem i pročišćavanja. Dozvole za te uloge dodijeljene su u [centru za sigurnost i usklađenost](https://go.microsoft.com/fwlink/?linkid=2083731).
+- Ako niste globalni administrator, vaš se račun mora dodati ulozi upravitelja predočavanja elektroničkih dokumenata ili ulozi upravljanja pretraživanjem usklađenosti da biste potražili poruke. Da biste izbrisali poruke, morat ćete se pridružiti grupi uloga Upravljanje organizacijom ili ulozi upravljanja pretraživanjem i čišćenjem. Dozvole za te uloge dodjeljuju se u centru za [sigurnost i usklađenost](https://go.microsoft.com/fwlink/?linkid=2083731).
 - [Stvorite pretraživanje sadržaja](https://docs.microsoft.com/office365/securitycompliance/content-search) da biste pronašli poruku koju želite izbrisati.
-- [Povežite se s PowerShell centrom za sigurnost i usklađenost](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- [Povežite se s powershellcentra za sigurnost i usklađenost](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Ako koristite multi-faktor provjeru autentičnosti, pogledajte [Povezivanje na Office 365 sigurnost i usklađenost centar PowerShell pomoću multi-faktor provjere autentičnosti](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Ako koristite višestruku provjeru autentičnosti, [pročitajte u članku Povezivanje sa ljuskom Microsoft 365 za sigurnost i centar za usklađenost PowerShell pomoću višestruke provjere autentičnosti](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

@@ -1,5 +1,5 @@
 ---
-title: Postavke pravila organizacije za vanjske korisnike
+title: Postavke pravila tvrtke ili ustanove za vanjske korisnike
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,22 +10,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 18a313ef54d94374b475ebc7f98c8ad62c5b0ee7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3e703bfb7ac8a1932231e9a6f7bcd942c13cc2e0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054478"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43641992"
 ---
-# <a name="organization-policy-settings-for-external-users"></a>Postavke pravila organizacije za vanjske korisnike
+# <a name="organization-policy-settings-for-external-users"></a>Postavke pravila tvrtke ili ustanove za vanjske korisnike
 
-Korisnici mogu vidjeti sljedeću poruku upozorenja kada pokušaju dijeliti s vanjskim korisnicima vaše organizacije: 
+Korisnici mogu vidjeti sljedeću poruku upozorenja kada pokušaju zajednički koristiti s vanjskim korisnicima vaše tvrtke ili ustanove: 
 
-   **Pravila vaše organizacije ne dopuštaju dijeljenje s tim korisnicima. Idite na vanjsko dijeljenje u sustavu Office 365 Admin Center da biste ga omogućili.** 
+   **Pravila tvrtke ili ustanove ne dopuštaju zajedničko korištenje s tim korisnicima. Da biste ga omogućili, otvorite vanjsko zajedničko korištenje u centru za administratore sustava Microsoft 365.** 
 
-To se često događa prvi put kada pokušavate dijeliti s vanjskim korisnicima ili prilikom dijeljenja s novim vanjskim korisnicima. Za više informacija, molimo pogledajte članak u nastavku:
+To se često događa prvi put pokušava podijeliti s vanjskim korisnicima ili prilikom zajedničkog korištenja s novim vanjskim korisnicima. Dodatne informacije potražite u članku u nastavku:
 
-[Pravila vaše organizacije ne dopuštaju dijeljenje s tim korisnicima](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[Pravila vaše tvrtke ili ustanove ne dopuštaju zajedničko korištenje s tim korisnicima](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 

@@ -1,28 +1,28 @@
 ---
-title: Omogućavanje određivanja verzije na popisu ili biblioteci
+title: Omogućivanje određivanja verzija na popisu ili u biblioteci
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d1ef45ccc997c983715637f7da7b301cdd52e3d9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 94250ff817032c5b2f63361768f7e40ad3cfe3d2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36527427"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703346"
 ---
-# <a name="enable-versioning-for-a-list-or-library"></a>Omogući određivanje verzije za popis ili biblioteku
+# <a name="enable-versioning-for-a-list-or-library"></a>Omogućivanje određivanja verzija za popis ili biblioteku
 
 1. Idite na popis ili biblioteku.
     
-2. Kliknite **Postavke**, a zatim kliknite postavke **biblioteke** ili **postavke popisa**.
+2. Kliknite **Postavke**, a zatim **Postavke biblioteke** ili **Postavke popisa**.
     
-3. Kliknite **Postavke određivanja verzije**.
+3. Kliknite **Postavke određivanja verzija**.
     
-4. Odaberite postavke koje želite, a zatim kliknite **u redu**.
+4. Odaberite željene postavke, a zatim kliknite **U redu**.
     
 

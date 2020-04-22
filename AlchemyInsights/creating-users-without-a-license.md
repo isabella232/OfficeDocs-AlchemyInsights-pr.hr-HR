@@ -1,9 +1,9 @@
 ---
-title: 743 stvaranje korisnika bez licence
+title: 743 Stvaranje korisnika bez licence
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "743"
 - "1200022"
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
-ms.openlocfilehash: aa594ead2f48bd6b6597746588b1edc16e08a14a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 95f4a66817e9b8f133ec20305cf29c95fb0cb2ff
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740601"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705365"
 ---
-# <a name="create-mailboxes-that-dont-require-licenses"></a>Stvori poštanske sandučiće koji ne zahtijevaju licence
+# <a name="create-mailboxes-that-dont-require-licenses"></a>Stvaranje poštanskih sandučića za koje nisu potrebne licence
 
-- Ako vam je potrebna grupna e-adresa za više osoba, pogledajte [stvaranje zajedničkog poštanskog sandučića](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
+- Ako vam je potrebna grupna adresa e-pošte za više osoba, pročitajte u članku [Stvaranje zajedničkog poštanskog sandučića](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
 
-- Da biste omogućili timu ljudi da surađuju i dijele e-poštu i datoteke, pogledajte [Saznajte više o Officeovim 365 grupama](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+- Da biste timu osoba omogućili zajednički rad i zajedničko korištenje e-pošte i datoteka, [pročitajte članku Saznajte više o grupama sustava Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

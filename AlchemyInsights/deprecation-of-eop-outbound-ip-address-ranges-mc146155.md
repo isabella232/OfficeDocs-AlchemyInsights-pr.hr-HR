@@ -1,28 +1,28 @@
 ---
-title: 1065 postupku EOP izlaznog IP adresa rangesMC146155
+title: 1065 Ukidanje raspona izlazne IP adrese EOP-aMC146155
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: 9860845dea444847833d4c5cd01d49ea93473778
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: f4854c32d970d84f3a0664a9e384dc6e3cd0bfa7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752947"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704589"
 ---
-# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Postupku EOP izlaznog IP adresu raspona
+# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Ukidanje raspona izlazne IP adrese EOP-a
 
-Možemo ste otkrio mogući problem s vaše organizacije (Ako ne ispravlja po listopad 26th, 2018) možda prijeloma Protok e-pošte za lokalno ili vanjska odredišta. Kao prethodno communicated da biste pojednostavili upravljanje raspon IP adresa, možemo konsolidirate raspone Exchange Online Protection (EOP) IP adresa koji se koriste za slanje i primanje e-pošte izvan Office 365. Naše analiza pokazuje da jedan ili više e-pošte vanjskog izvora ili odredišta koji ste konfigurirali u poveznici protok pošte nisu prihvaća veze iz u IP adresu raspone prikazana [ovdje](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Otkrili smo potencijalni problem s vašom organizacijom koji (ako se ne ispravi do 26. listopada 2018.) može prekinuti tijek pošte na vaša lokalna ili vanjska odredišta. Kao što je prethodno priopćeno, kako bismo pojednostavili upravljanje rasponima IP adresa ip adresa, konsolidiramo raspone IP adresa exchange online zaštite (EOP) koji se koriste za slanje i primanje e-pošte izvan sustava Microsoft 365. Naša analiza pokazuje da jedan ili više vanjskih izvora e-pošte ili odredišta koja ste konfigurirali u konektorima tijeka pošte ne prihvaćaju veze iz raspona IP adresa koji su [ovdje](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)prikazani .
 
-Djelovati prije listopad 26th da biste osigurali tih izvora i odredišta će prihvatiti veze i iz sve [objavljene EOP IP adrese](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Zakon prije 26 [.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-Dodatne informacije o ovom promjenom pogledajte poruku centar knjiži [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)ili [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
+Dodatne informacije o toj promjeni potražite u članku Postovi centra za poruke [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)ili [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
 
-**Napomena**: Ako prethodno koristili IP ili URL objavljivanje putem HTML, XML i RSS krajnje točke ažuriranja, možete također treba migrirati u novu web-usluge za automatiziranje te vrste ažuriranja. Dodatne informacije potražite u [Office 365 krajnje točke kategorije i Office 365 IP adresu i URL web-usluge](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).
+**Napomena:** Ako ste prethodno koristili IP ili URL objavljivanje putem HTML-a, XML-a i RSS-a za ažuriranja krajnjih točaka, trebali biste migrirati i na nove web-servise za automatizaciju tih vrsta ažuriranja. Dodatne informacije potražite u članku [Kategorije krajnje točke za Microsoft 365 te IP adresa i URL web-usluga](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).

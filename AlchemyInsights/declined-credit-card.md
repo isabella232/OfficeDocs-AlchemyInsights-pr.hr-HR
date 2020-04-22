@@ -1,9 +1,9 @@
 ---
-title: Odbijeno kreditne kartice
+title: Odbijena kreditna kartica
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665163"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705077"
 ---
-# <a name="declined-credit-card"></a>Odbijeno kreditne kartice
+# <a name="declined-credit-card"></a>Odbijena kreditna kartica
 
-Ako platiti kreditnom karticom, a odbio kreditne kartice, primit ćete poruku e-pošte vas obavijestiti o tome Nismo uspjeli obraditi uplata. Provjerite da [kreditnoj kartici](https://go.microsoft.com/fwlink/p/?linkid=842054) - broj kartice, datum isteka, naziv na kreditne kartice i adresu, uključujući Grad, stanje i poštanski broj - pojavljuju točno se kao na kreditne kartice i izjava kreditne kartice. Možete ažurirati podatke kreditne kartice i neposredno slanje uplata koristeći mogućnost **podmiriti saldo** na stranici [Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+Ako plaćate kreditnom karticom, a vaša kreditna kartica je odbijena, primit ćete poruku e-pošte s obavijesti da nismo mogli obraditi plaćanje. Dvaput provjerite da se [podaci o kreditnoj kartici](https://go.microsoft.com/fwlink/p/?linkid=842054) - broj kartice, datum isteka, ime na kreditnoj kartici i adresa, uključujući grad, državu i poštanski broj - pojavljuju točno onako kako to čine na kreditnoj kartici i izvatku kreditne kartice. Podatke o kreditnoj kartici i odmah poslati uplatu pomoću mogućnosti **Podmirenje salda** na stranici [Proizvodi & usluge.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
 
-Da biste saznali više, pogledajte "što ako moje Kreditna je kartica istekla, i Moje plaćanja je prekoračen rok?" u [platiti za Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Dodatne informacije potražite u odjeljku "Što ako je moja kreditna kartica istekla i ako je moja uplata dospjela?" u [aplikaciji Plaćanje pretplate na Microsoft 365 za tvrtke](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
-Ako nastavite vidjeti poruku "odbijen", obratite se vaša banka. Moguće kreditne kartice nije aktivan je — na primjer, ako nedavno primljene kreditne kartice u poštu s datumom isteka ažurirani, možda još uvijek trebate ga aktivirati. Vaša banka vam može reći i ako kreditne kartice nisu odobrene za online, Međunarodni ili ponavljajuće transakcije.
+Ako se i dalje prikazuje poruka "odbijeno", obratite se svojoj banci. Moguće je da vaša kreditna kartica nije aktivna, primjerice, ako ste nedavno primili kreditnu karticu u pošti s ažuriranim datumom isteka, možda ćete je ipak morati aktivirati. Banka vam može reći i nije li vaša kreditna kartica odobrena za mrežne, međunarodne ili ponavljajuće transakcije.
   
-Za dodatne informacije pogledajte [Otklanjanje poteškoća kreditne kartice i bankovne račune](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Dodatne informacije [potražite u odjeljku Otklanjanje poteškoća s kreditnim karticama i bankovnim računima](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
