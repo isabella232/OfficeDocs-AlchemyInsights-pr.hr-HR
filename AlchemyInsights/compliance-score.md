@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600341"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706085"
 ---
 # <a name="compliance-score"></a>Ocjena usklađenosti
 
@@ -33,7 +33,7 @@ Globalni administrator morat će postaviti odgovarajuće [dozvole](https://docs.
 
 **Za više informacija o:**
 
-- Postavljanje dozvola za pristup za ocjenu usklađenosti potražite u članku [Davanje pristupa centru za sigurnost sustava Office 365 & .](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
+- Postavljanje dozvola za pristup za ocjenu usklađenosti potražite u članku [Davanje pristupa korisnicima centrima za & usklađenosti sustava Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
 - Rad s mjerama poboljšanja u ocjeni usklađenosti potražite [u članku Rad s ocjenom usklađenosti](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
 - Kako se izračunava ocjena usklađenosti, pogledajte [Metodologija ocjene usklađenosti](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
 - Ocjena usklađenosti u odnosu na upravitelj usklađenosti, vidi [Odnos prema upravitelju usklađenosti](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).

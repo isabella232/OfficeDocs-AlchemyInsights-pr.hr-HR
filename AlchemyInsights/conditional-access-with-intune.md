@@ -1,34 +1,34 @@
 ---
-title: Uvjetni pristup s Intune
+title: Uvjetni pristup s intune
 ms.author: pebaum
 author: pebaum
-ms.date: 10/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c9c47d71b2da3840504d5b28c7c9e067b4c05fa5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36504986"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706013"
 ---
-# <a name="conditional-access-with-intune"></a>Uvjetni pristup s Intune
+# <a name="conditional-access-with-intune"></a>Uvjetni pristup s intune
 
-Korištenje **uvjetnog pristupa** s Intune zahtijeva 3 koraka: 
+Korištenje **uvjetnog pristupa** s intuneom zahtijeva 3 koraka: 
   
-- Izradite **pravilnik o uvjetnom pristupu** koji definira koji se resursi štite i koje uvjete treba zadovoljiti da biste pristupili tim resursima. Na primjer, uređaj mora biti usklađen prije pristupanja korporacijskoj e-pošti. 
+- Stvorite **pravila uvjetnog pristupa** koja definiraju koji su resursi zaštićeni i koji su uvjeti potrebni za pristup tim resursima. Na primjer, uređaj mora biti sukladan prije pristupanja korporativnoj e-pošti. 
     
-- Stvorite **pravila usklađenosti** da biste definirali postavke koje moraju biti ispunjene prije nego što se uređaj smatra sukladnim. Na primjer, uređaj mora imati PIN od najmanje 6 znamenki prije nego što se smatra sukladnim. 
+- Stvorite **pravila usklađenosti** da biste definirali postavke koje se moraju ispuniti prije nego što se uređaj smatra sukladnim. Na primjer, uređaj mora imati pin od najmanje 6 znamenki prije nego što se smatra sukladnim. 
     
-- Osiguravanje **pravila usklađenosti** i pravila **uvjetnog pristupa** usmjerene su na željene grupe korisnika. To može zahtijevati stvaranje određenih grupa korisnika u servisu Azure Active Directory. 
+- Osiguravanje **pravila usklađenosti** i **pravila uvjetnog pristupa** usmjerene su na željene grupe korisnika. To može zahtijevati stvaranje određenih grupa korisnika u servisu Azure Active Directory. 
     
-Pročitaj više:
+Opširnije::
   
-- [Najbolje prakse uvjetnog pristupa](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Najbolji primjeri iz prakse za uvjetni pristup](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Početak početka s uvjetnim pristupom](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Prvi koraci s uvjetnim pristupom](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

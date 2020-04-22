@@ -1,8 +1,8 @@
 ---
-title: 414 doživljaj pretraživanja ažuriraju
+title: 414 Ažurirani doživljaj pretraživanja
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: a4ecb6fcdd33b871f971a788ffe2afa8e7c50ba6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8602a1e0c9374e8c772d91b4721c1435fec4bea1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551479"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709291"
 ---
-# <a name="search-experience-updated"></a>Ažurira doživljaj pretraživanja
+# <a name="search-experience-updated"></a>Ažuriranje doživljaja pretraživanja
 
-Pretraživanje se sada nalaze na dnu na app. Dodirnete na njemu pruža izravan pristup gornji kontakte, nadolazeće putovanje planovi puta, paket isporuka i nedavne privitke. Možete tražiti poruke e-pošte, datoteke i kontakte u bilo račune iz jednog okvira za pretraživanje jedan ili koristiti naše nove filtre za sužavanje pretraživanja.
+Pretraživanje se sada nalazi pri dnu aplikacije. Dodirom na njega omogućuje vam izravan pristup vrhunskim kontaktima, nadolazećim putnim itinererima, isporuci paketa i nedavnim privicima. Poruke e-pošte, datoteke i kontakte možete pretraživati na bilo kojem računu iz jednog okvira za pretraživanje ili pomoću naših novih filtara suziti pretraživanje.

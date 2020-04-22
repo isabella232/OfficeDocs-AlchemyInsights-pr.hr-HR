@@ -1,9 +1,9 @@
 ---
-title: 1049 antiSpam 4.5.3 Too broju primatelja (AS780090)
+title: 1049 AntiSpam 4.5.3 Previše primatelja (AS780090)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1049"
 - "3100024"
 ms.assetid: fa3d4be9-c90a-4926-9754-4b708b038bf6
-ms.openlocfilehash: d8bd1e91fdc7975b128ee5d53198585cc97de418
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1afdc8682749a6e9f0c28428e09642269af66f84
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516879"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708011"
 ---
-# <a name="453-too-many-recipients-as780090"></a>4.5.3 previše primatelja (AS780090)
+# <a name="453-too-many-recipients-as780090"></a>4.5.3 Previše primatelja (AS780090)
 
-Ova pogreška se javlja kada glasnoće promet e-pošte iz IP adresu izvora premašuje ograničenje na temelju reputaciju (ili nedostatak reputaciju) od IP adresu izvora.
+Ta se pogreška pojavljuje kada količina prometa e-pošte s izvorne IP adrese premašuje ograničenje na temelju reputacije (ili nedostatka ugleda) izvorne IP adrese.
 
-Blokiranje e-pošte iz IP adresu izvora će isteći unutar sata. Ako je izvor IP adresu poslužitelja e-pošte na lokalno koji vam pripada, provjerite konfiguraciju protok poveznik za poštu. Ako ponašanje nastavi za više od jednog sata, obratite se podršci za zahtjev iznimku za IP adresu izvora.
+Blokiranje e-pošte s izvorne IP adrese istječe u roku od sat vremena. Ako je izvorna IP adresa lokalni poslužitelj e-pošte koji pripada vama, provjerite konfiguraciju poveznika tijeka pošte. Ako se ponašanje nastavi dulje od sat vremena, obratite se podršci da biste zatražili iznimku za izvornu IP adresu.

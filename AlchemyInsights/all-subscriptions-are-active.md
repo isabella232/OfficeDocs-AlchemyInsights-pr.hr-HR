@@ -1,9 +1,9 @@
 ---
-title: Sve pretplate su aktivno
+title: Sve pretplate su aktivne
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b91e12002a58e206d03142b3ab8b9090dfafacd5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386216"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708239"
 ---
-# <a name="all-subscriptions-are-active"></a>Sve pretplate su aktivno
+# <a name="all-subscriptions-are-active"></a>Sve pretplate su aktivne
 
-Svojim pretplatama su aktivni. To se može provjeriti odlaskom na **naplatu** \> [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice. Svojim pretplatama su poredane po stanju s aktivnom pretplatama na vrhu. Dodatne informacije, poput licence count i način plaćanja, može se vidjeti odabirom pretplate.
+Vaše su pretplate aktivne. To se može potvrditi tako da odete na stranicu Pretplate na **naplatu.** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) Vaše pretplate su poredane prema statusu, uz aktivne pretplate na vrhu. Dodatne informacije, kao što su broj licence i način plaćanja, možete vidjeti odabirom pretplate.
   
-Ako imate problema sa uslugom, koristite mogućnost "nam povratni poziv," razgovarati inženjeru za podršku.
+Ako imate problema s uslugom, upotrijebite opciju "Nazovimo vas" da biste razgovarali s inženjerom za podršku.

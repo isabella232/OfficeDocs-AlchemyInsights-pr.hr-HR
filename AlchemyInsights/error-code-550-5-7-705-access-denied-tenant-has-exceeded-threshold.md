@@ -1,8 +1,8 @@
 ---
-title: Kod pogreške 550 5.7.705 pristup odbijen, klijentske premašila je prag
+title: Kod pogreške 550 5.7.705 Pristup je odbijen, klijent je premašio prag
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527211"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702982"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 pristup odbijen, klijentske premašila je prag
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Pristup odbijen, najmoprimac je premašio prag
 
-Ova poruka pojavljuje kada vaša organizacija poslana je previše neželjenu ili masovne pošte i možemo smjestiti blok izlazne pošte.
-Najčešća uzroka su poslužitelji ugrožena lokalno ili ugrožena administratorske račune koji su korišteni za stvaranje poveznike. Oba uvjeta možete dopustiti neželjena pošta da prođe kroz vaše organizacije.
+Ta se poruka pojavljuje kada vaša tvrtka ili ustanova pošalje previše neželjene ili skupne pošte, a mi postavljamo blok na odlaznu poštu.
+Uobičajeni uzroci ugroženi su lokalni poslužitelji ili ugroženi administratorski računi koji su korišteni za stvaranje poveznika. Oba uvjeta mogu dopustiti da neželjena pošta prođe kroz vašu tvrtku ili ustanovu.
 
-Da biste uklonili ovaj blok, potrebno je razumjeti i objašnjavaju uzrok agent za podršku, kao i ispravili problem podlozi.
-Kada ste spremni, kliknite **Kontaktirajte nas** ispod.
+Da biste uklonili taj blok, morate razumjeti i objasniti uzrok agentu za podršku, kao i ispraviti problem u podlozi.
+Kliknite **Kontaktirajte nas** u nastavku kada budete spremni.

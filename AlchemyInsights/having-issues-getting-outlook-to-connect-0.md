@@ -1,29 +1,26 @@
 ---
-title: Imate li problema Uvod Outlook za povezivanje?
+title: Imate problema s povezivanjem programa Outlook?
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/22/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77223f73-5de2-45fd-b1d9-b66460148314
-ms.openlocfilehash: 1167b104ca86c4823da578b0dc9dbb708ec8b6c6
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: c68fc2381432a9681ed60dac4e8c8fde3c303b8c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739701"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710183"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>Imate li problema Uvod Outlook za povezivanje?
+# <a name="having-issues-getting-outlook-to-connect"></a>Imate problema s povezivanjem programa Outlook?
 
-Možemo ste otkrio Outlook nije konfiguriran za raditi ispravno pod sljedećim domain(s):
+Otkrili smo da Outlook nije konfiguriran za pravilan rad pod sljedećim domenama:
   
 {HealthCheckString}
   
-Zapise NS ili CNAME domena (DNS) postavke nisu ispravno postavljen. Za detaljne upute možete upućivati [Stvaranje DNS zapisa na bilo kojem DNS pružatelju usluge za Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) . 
+NS ili CNAME zapisi postavki domene (DNS) nisu ispravno postavljeni. Detaljne upute možete potražiti [u članku Stvaranje DNS zapisa kod bilo kojeg davatelja usluge hostiranja DNS-a.](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) 
   
 Da biste otklonili tu poteškoću, idite na stranicu [Domene](https://admin.microsoft.com/adminportal/home#/Domains) u centru za administratore okruženja Microsoft 365 i mi ćemo vam pomoći. 
-
-  
-

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286472"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706193"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Uobičajeni problemi i rješenja za ADFS
 
@@ -28,4 +28,4 @@ Konfiguracija vanjske domene može se ažurirati u skladu s načinom opisanim u 
 
 - [2647020](https://support.microsoft.com/help/2647020)   Pogreške „Nažalost, imamo poteškoća s vašom prijavom” i „80041317” ili „80043431” kad se vanjski korisnik pokuša prijaviti u Office 365, Azure ili Intune.
 
-Dodatne informacije pronađite u članku [Ažuriranje ili popravak vanjske domene u sustavu Office 365, Azure ili Intune](https://docs.microsoft.com/hr-HR/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Dodatne informacije pronađite u članku [Ažuriranje ili popravak vanjske domene u sustavu Office 365, Azure ili Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

@@ -1,9 +1,9 @@
 ---
-title: Kako kupiti licence za pretplatu poslovne Office 365
+title: Kupnja licenci za pretplatu na Aplikacije za Microsoft 365 za tvrtke
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 5e0c500d9c537efd91cdbed1dfe914ec91821b82
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d202ab1ad27c886473793dd1bde77409bff6939a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664204"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709507"
 ---
-# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Kako kupiti licence za pretplatu poslovne Office 365
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Kupnja licenci za pretplatu na Aplikacije za Microsoft 365 za tvrtke
 
-Kada dodjeljujete Office 365 licence korisnicima, možda pronaći imati potrebu da kupite dodatne licence. Da biste to učinili:
+Prilikom dodjele licenci korisnicima možda ćete moći kupiti dodatne licence. Da biste to učinili:
   
-1. U centru za administraciju idite na **naplatu** \> stranicu [Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. U centru za administratore idite na stranicu **Naplata** \> [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Pronađite pretplate na koji želite da dodate licence i odaberite **Dodaj Ukloni licence**.
+2. Pronađite pretplatu na koju želite dodati licence, a zatim odaberite **Dodaj/ukloni licence**.
 
-3. U okviru **Ukupni licence** unesite ukupan broj licence potrebne za ovu pretplatu i zatim odaberite **slanja promjena**. Na primjer, ako imate 100 licence i trebate dodati više 5, unesite 105.
+3. U okvir **Ukupne licence** unesite ukupan broj licenci potrebnih za ovu pretplatu, a zatim odaberite **Pošalji promjenu**. Na primjer, ako imate 100 licenci i trebate dodati još 5, unesite 105.
 
-Da biste saznali više, pogledajte [Kupite licence za Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Dodatne informacije [potražite u odjeljku Kupnja licenci za pretplatu na Aplikacije za Microsoft 365 za tvrtke](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).

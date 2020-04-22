@@ -3,7 +3,7 @@ title: Promjena učestalosti plaćanja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,13 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217856"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706819"
 ---
 # <a name="change-how-often-you-pay"></a>Promjena učestalosti plaćanja
 
-Kada kupite pretplatu, odabirete mjesečnu ili godišnju naplatu. Da biste promijenili učestalost naplate pretplate, slijedite ove korake.
-
-1. U centru za administratore otvorite stranicu **> za naplatu [proizvoda & usluga.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
-
-2. Pronađite pretplatu koju želite promijeniti. U odjeljku **Naplata** pokraj stavke **Naplaćena mjesečno** ili **Naplaćeno godišnje**kliknite **Uredi**.
-
-3. Odaberite mogućnost za koliko često želite naplatiti, a zatim kliknite **Promijeni**.
+ **Želite promijeniti učestalost plaćanja?** Ako želite promijeniti učestalost plaćanja pretplate na Microsoft 365 za tvrtke, bilo od godišnje do mjesečne ili mjesečne do godišnje, možemo vam pomoći u tome. Morat ćete kupiti istu pretplatu s novom frekvencijom plaćanja i otkazati staru pretplatu. Molimo vas da koristite opciju "Nazovimo vas" kako biste razgovarali s inženjerom za podršku.

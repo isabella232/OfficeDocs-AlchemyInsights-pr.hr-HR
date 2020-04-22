@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća s porukama odbijeno za web-mjesta OneDrive za tvrtke
+title: Otklanjanje poteškoća s pristupom odbijenim porukama na web-mjestima servisa OneDrive za tvrtke
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 9d8aba4e53a1e0505a430296bb1c11713ea2ce7b
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a83936acf969926c113b28ceb22b006cdb96e2b4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051597"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692793"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Otklanjanje poteškoća s porukama odbijeno za web-mjesta OneDrive za tvrtke
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Otklanjanje poteškoća s pristupom odbijenim porukama na web-mjestima servisa OneDrive za tvrtke
 
-Taj se problem najčešće pojavljuje kada se korisnik izbriše i ponovno stvori s istim korisničkim nazivom (UPN). Novi račun kreira se pomoću različite vrijednosti PUID Kada korisnik pokuša pristupiti zbirci web-mjesta ili svom servisu OneDrive, korisnik ima neispravan PUID. Drugi scenarij uključuje sinkronizaciju direktorija s organizacijskom jedinicom Active Directory (OU). Ako su se korisnici već prijavili u SharePoint, a zatim se premještaju u drugi OU i ponovno sinkroniziraju sa sustavom SharePoint, možda će doživjeti taj problem.
+Taj se problem najčešće pojavljuje kada se korisnik izbriše i ponovno stvori s istim korisničkim glavnim nazivom (UPN). Novi račun stvara se pomoću različite VRIJEDNOSTI PUID (Passport Unique ID). Kada korisnik pokuša pristupiti zbirci web-mjesta ili na servisu OneDrive, korisnik ima pogrešan PUID. Drugi scenarij uključuje sinkronizaciju direktorija s organizacijskom jedinicom servisa Active Directory (OU). Ako su se korisnici već prijavili u SharePoint, a zatim se premještaju u drugi OU i ponovno sinkroniziraju sa sustavom SharePoint, mogu se pojaviti taj problem.
 
-1. Da biste riješili taj problem, trebali biste vratiti izvorni UPN s koracima u članku, [vratiti korisnika u Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
-2. Ako ne možete vratiti izvornog korisnika, morate ukloniti starog korisnika s web-mjesta OneDrive pomoću ovih koraka, [ukloniti korisnika s popisa korisničkih informacija](). 
-3. Nakon što je to učinjeno, možete provjeriti korisnik ima administratorska prava na OneDrive web-mjesta slijedeći korake za [Dodavanje admin-a za user ' s OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive)
+1. Da biste riješili taj problem, trebali biste vratiti izvorni UPN s koracima iz članka, [Vraćanje korisnika u microsoft 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+2. Ako ne možete vratiti izvornog korisnika, trebali biste ukloniti starog korisnika s web-mjesta servisa OneDrive pomoću ovih [koraka, uklonite korisnika s popisa korisničkih podataka](). 
+3. Nakon toga možete provjeriti ima li korisnik administratorska prava na web-mjesto servisa OneDrive slijedeći korake za [dodavanje administratora za web-pogon servisa OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles) korisnika
 
-Dodatne informacije o razinama dozvola potražite u članku, [razumijevanje razina dozvola u sustavu SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Dodatne informacije o razinama dozvola potražite u članku [Objašnjenje razina dozvola u sustavu SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).

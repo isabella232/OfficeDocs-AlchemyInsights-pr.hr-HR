@@ -2,35 +2,35 @@
 title: Anonimno dijeljenje
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 8a007821fb44544512ae5b9bf22ee9aba16e618c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f503564af9ccdd3e27f328a3f94a52eb9871d17d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050373"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708047"
 ---
 # <a name="anonymous-sharing"></a>Anonimno dijeljenje
 
  **Omogući anonimni pristup**
   
-U novom centru za administraciju sustava SharePoint kliknite **dijeljenje** u lijevom oknu. 
+U novom centru za administratore sustava SharePoint kliknite **zajedničko korištenje** u lijevom oknu. 
   
-- Odaberite sljedeće: **Dopusti dijeljenje s provjerenim vanjskim korisnicima i pomoću anonimnog pristupa.**
+- Odaberite sljedeće: **Dopusti zajedničko korištenje provjerenim vanjskim korisnicima i korištenje anonimnog pristupa.**
   
-(Po želji možete postaviti veze na isteći u određenom broju dana i odaberite kako primatelji mogu koristiti veze.)
+(Po želji možete postaviti da će veze isteći u određenom broju dana i odabrati način na koji primatelji mogu koristiti veze.)
     
- **Anonimno dijeljenje datoteke ili mape**
+ **Anonimno zajedničko korištenje datoteke ili mape**
   
-- Odaberite datoteku ili mapu koju želite zajednički koristiti, a zatim kliknite **dijeljenje**. 
+- Odaberite datoteku ili mapu koju želite zajednički koristiti, a zatim kliknite **Zajedničko korištenje**. 
     
-- Za koga biste željeli da ova veza radi? Klikni na **bilo koga.**
+- Za koga želite da ovaj link radi? kliknite **Bilo tko.**
   
- **Napomena**: **svatko** kreira vezu koju svatko može koristiti za pristup dokumentu ili mapi, čak i ako nisu prijavljeni na Office 365 ili OneDrive. Koristite ovo za dijeljenje s bilo kime, unutar ili izvan vaše tvrtke. Ova veza se također može proslijediti bilo kome. 
+ **Napomena:** **svatko** stvara vezu koju svatko može koristiti za pristup dokumentu ili mapi, čak i ako nije prijavljen na Microsoft 365 ili OneDrive. Koristite ovo za dijeljenje s bilo kim, unutar ili izvan vaše tvrtke. Ovaj link također može biti proslijeđen oko svakome. 
     
 

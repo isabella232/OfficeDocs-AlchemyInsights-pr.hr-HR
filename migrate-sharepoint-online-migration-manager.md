@@ -1,9 +1,9 @@
 ---
-title: Migraciju na SharePoint online putem upravitelja migracija
+title: Migracija u SharePoint online putem upravitelja migracije
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964088"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707179"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migraciju na SharePoint online putem upravitelja migracija
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migracija u SharePoint online putem upravitelja migracije
 
-Smješten u modernom SharePointovom centru za administraciju, upravitelj migracija vodi vas kroz postavljanje vaših klijenata i stvaranje zadataka. Možete odrediti globalne ili postavke razine zadatka, pregledati napredak zadatka i preuzeti agregirane sažetke i izvješća na razini zadatka.
+Upravitelj migracije koji se nalazi u modernom centru za administratore sustava SharePoint vodi vas kroz postavljanje klijenata i stvaranje zadataka. Možete odrediti globalne postavke ili postavke razine zadatka, pregledati sve dovršeni napredak zadatka i preuzeti skupna izvješća sažetka i izvješća na razini zadatka.
 
-* [Početak početka s upraviteljem migracije](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [Korisnici upravitelja migracijskih programa](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [Krenite s upraviteljem migracije](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [Postavite klijente upravitelja migracije](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
 * [Postavke upravitelja migracija](https://docs.microsoft.com/sharepointmigration/mm-settings)

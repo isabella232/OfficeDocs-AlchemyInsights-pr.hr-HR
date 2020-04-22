@@ -3,28 +3,28 @@ title: Pitanja o korištenju alata za implementaciju sustava Office (ODT)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 96d3f70f554f71c43d6458ec8debc099cd9fb040
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36553532"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698050"
 ---
 # <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Pitanja o korištenju alata za implementaciju sustava Office (ODT)
 
-Preuzmite alat za implementaciju sustava Office iz [Microsoftova centra za preuzimanje](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+Preuzmite alat za implementaciju sustava Office iz [Microsoftova centra za preuzimanje](https://go.microsoft.com/fwlink/p/?LinkID=626065).
   
-Nakon preuzimanja datoteke, pokrenite self-izdvajanje izvršne datoteke, koja sadrži Officeov alat implementacije izvršne (Setup. exe) i uzorak konfiguracijske datoteke (Configuration. xml).
+Nakon preuzimanja datoteke pokrenite izvršnu datoteku koja se sama izdvaja, koja sadrži izvršnu datoteku alata za implementaciju sustava Office (setup.exe) i oglednu konfiguracijsku datoteku (configuration.xml).
   
- **Da biste isključili ili uklonili proizvode sustava Office 365 ProPlus s klijentskih računala:**
+ **Da biste izuzeli ili uklonili Aplikacije sustava Microsoft 365 za poslovne proizvode s klijentskih računala:**
   
-Prilikom instaliranja sustava Office 365 ProPlus možete izuzeti određene proizvode. Da biste to učinili, slijedite korake za instaliranje sustava Office s ODT-om, ali uključite element ExcludeApp u konfiguracijsku datoteku. Na primjer, ova konfiguracijska datoteka instalira sve proizvode sustava Office 365 ProPlus osim izdavača:
+Prilikom instalacije aplikacija microsoft 365 za tvrtke možete izuzeti određene proizvode. Da biste to učinili, slijedite korake za instalaciju sustava Office s ODT-om, ali u konfiguracijsku datoteku uključite element ExcludeApp. Na primjer, ova konfiguracijska datoteka instalira sve Aplikacije sustava Microsoft 365 za poslovne proizvode osim programa Publisher:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">

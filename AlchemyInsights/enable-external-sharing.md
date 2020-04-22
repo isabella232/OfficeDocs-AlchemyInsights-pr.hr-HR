@@ -1,42 +1,42 @@
 ---
-title: Omogući vanjsko dijeljenje
+title: Omogućivanje vanjskog zajedničkog korištenja
 ms.author: pebaum
 author: pebaum
-ms.date: 12/4/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 5d8de2b0f29409b585451b160e421ad7eaac4cef
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 58c4537f7a11ea408ef9cfc9f30396da0f951bc7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052713"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703599"
 ---
-# <a name="enable-external-sharing"></a>Omogući vanjsko dijeljenje
+# <a name="enable-external-sharing"></a>Omogućivanje vanjskog zajedničkog korištenja
 
- Da biste osigurali da je zajedničko korištenje omogućeno za SharePoint online:
+ Da biste bili sigurni da je zajedničko korištenje omogućeno za SharePoint Online:
   
 - **Globalno dijeljenje**
     
-  - Portal –\> pregled\> dijeljenja vanjskog dijeljenja-web-mjesta, neka vanjski ljudi pristupe vašim web-lokacijama: na
+  - Portal\> - Vanjsko dijeljenje -\> Pregled dijeljenja - Web-mjesta, Neka vanjski ljudi pristupe vašim web-mjestima: UKLJUČENO
     
-  - Portal-\> vanjsko dijeljenje-\> web-mjesta-"Neka vanjski ljudi pristupiti vašim web-lokacijama" potvrdni okvir
+  - Portal\> - vanjsko dijeljenje -\> Web-mjesta - potvrdni okvir "Neka vanjski ljudi pristupaju vašim web-mjestima"
     
-- **Administrativno dijeljenje – centar za administratore sustava SharePoint**
+- **Zajedničko korištenje u sustavu SharePoint – centar za administratore sustava SharePoint**
     
-    Vanjsko dijeljenje-provjerite je li odabrana jedna od dviju opcija:
+    Vanjsko dijeljenje – provjerite jesu li odabrane dvije mogućnosti:
     
-  - "Dopustite vanjskim korisnicima koji prihvate dijeljenje pozivnica i prijavite se kao autentizirani korisnici"
+  - "Dopusti vanjskim korisnicima koji prihvate pozivnice za zajedničko korištenje i prijave se kao provjereni korisnici"
     
-  - "Dopustite objema vanjskim korisnicima koji prihvate dijeljenje pozivnica i anonimne veze za goste"
+  - "Dopusti i vanjskim korisnicima koji prihvate pozivnice za zajedničko korištenje i anonimne veze za goste"
     
 - **Pojedinačne zbirke web-mjesta**
     
-  - Zbirke web-mjesta – odaberite zbirku web-mjesta, a zatim kliknite dijeljenje – s vrpce\> – provjerite jesu li odabrane mogućnosti dijeljenja.
+  - Zbirke web-mjesta – odaberite zbirku web-mjesta u\> pitanju, a zatim kliknite Zajedničko korištenje – na vrpci – provjerite jesu li odabrane mogućnosti zajedničkog korištenja.
     
-Dodatne informacije o tome kako uključiti vanjsko dijeljenje potražite [u stranici Uključivanje ili isključivanje vanjskog dijeljenja za SharePoint online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Dodatne informacije o tome kako uključiti vanjsko zajedničko korištenje potražite u članku [Uključivanje i isključivanje vanjskog zajedničkog korištenja za SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

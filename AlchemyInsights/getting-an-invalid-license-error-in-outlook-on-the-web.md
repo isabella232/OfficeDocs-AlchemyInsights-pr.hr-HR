@@ -1,9 +1,9 @@
 ---
-title: 125 dobivanja pogreške nije valjana licenca u programu Outlook na webu?
+title: 125 Pogreška licence koja nije valjana u programu Outlook na webu?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523791"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708823"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Dohvaćanje pogreške nije valjana licenca u programu Outlook na webu?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Dobivanje pogreške licence koja nije valjana u programu Outlook na webu?
 
-Ako koristite Outlook na webu i dobit ćete **nešto pošlo po zlu** pogreška koja sadrži **X OWA pogreška: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, licence za Exchange Online nije ispravno dodijeljeni ili je nedavno istekla. Vaš administrator možete dodijeliti licencu koju slijedeći ove korake:
+Ako koristite Outlook na webu i dobijete pogrešku nešto **je pošlo po zlu** koja sadrži **X-OWA-Error: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, licenca za Exchange Online nije ispravno dodijeljena ili je nedavno istekla. Administrator vam može dodijeliti licencu slijedeći ove korake:
   
-1. Otvorite [Microsoft 365 admin centar](https://portal.office.com/adminportal/home#/homepage) i pod **aktivnih korisnika**odaberite **Uređivanje korisnika**.
+1. Otvorite [centar za administratore sustava Microsoft 365](https://portal.office.com/adminportal/home#/homepage) i u odjeljku **Aktivni korisnici**odaberite **Uredi korisnika**.
 
-2. **Uređivanje korisnika** stranice koja otvara, odaberite korisnika. U svojstva stranice korisnika koji otvara kliknite **Uređivanje** za **licence proizvoda**.
+2. Na **stranici Uređivanje korisnika** koja će se otvoriti odaberite korisnika. Na stranici svojstava korisnika koja se otvori kliknite **Uredi** za **licence proizvoda**.
 
-3. U **licenci proizvoda** stranice odaberite odgovarajuću vrijednost **mjesto** i dodijelite licencu koja sadrži Exchange Online (proširiti licence da biste vidjeli njegove detalje). Kada završite, kliknite **Spremi**.
+3. Na stranici **Licence proizvoda** koja se otvori odaberite odgovarajuću vrijednost **lokacije** i dodijelite licencu koja sadrži Exchange Online (proširite licencu da biste vidjeli njezine pojedinosti). Kada završite, kliknite **Spremi**.

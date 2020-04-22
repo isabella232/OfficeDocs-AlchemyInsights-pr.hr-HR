@@ -1,5 +1,5 @@
 ---
-title: Rješavanje problema-korisnik nije pronađen u direktoriju
+title: Rješavanje problema - Korisnik nije pronađen u direktoriju
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 0f1e427801107109e31486a4d300f53084880caf
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3b863c5e9962dd29ca2ed41d113041d74830f615
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054802"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702730"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Rješavanje problema-korisnik nije pronađen u direktoriju
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Rješavanje problema - Korisnik nije pronađen u direktoriju
 
-Ako korisnici primaju poruku o pogrešci "korisnik ne može naći" u direktoriju, pokušajte ponovno gdje vrsta problema je korisnik nije u direktoriju.
+Ako korisnik jesu primanje poruka o pogreški " korisnik ne moći' biti postaviti" in imenik, ugoditi probati opet gdje svi Ispostavljati je Korisnik ne in imenik.
 
-Za otklanjanje problema možete dovršiti sljedeće korake.
+Da biste otklonili problem, možete izvršiti sljedeće korake.
 
-- Provjerite je li račun koji je prihvatio pozivnicu e-poštom isti račun koji se koristi za prijavu kasnije. Provjerite koristi li korisnik isti račun za prihvaćanje pozivnice i prijavu na web-mjesto. 
+- Provjerite je li račun koji je prihvatio pozivnicu za e-poštu isti račun koji se kasnije koristi za prijavu. Provjerite koristi li korisnik isti račun za prihvaćanje pozivnice i prijavu na web-mjesto. 
 
-Dodatne informacije potražite u članku [kako upravljati pseudonime za Microsoftov račun</a> za upravljanje uredom 365 login](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Dodatne informacije [potražite u odjeljku Upravljanje pseudonimima</a> za Microsoftov račun radi upravljanja prijavom na Microsoft 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- Pregledajte Svaka web-mjesta u kojima korisnik prima pogrešku. 
+- Pronađite svako web-mjesto(e) na kojem korisnik prima pogrešku. 
 
-Dodajte "/_layouts/15/. aspx/membershipgroupid = 0" (unutar dvostrukih navodnika) do kraja URL-a web-mjesta. 
+Dodajte "/_layouts/15/people.aspx/membershipgroupid=0" (unutar dvostrukih navodnika) do kraja URL-a web-mjesta. 
 
-Primjer: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Primjer: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Odaberite korisnika s popisa.
 
-- Kliknite **Ukloni korisničke dozvole** s vrpce. 
--  Dodajte korisnika natrag i ponovno pošaljite pozivnicu korisniku.
+- Na vrpci kliknite **Ukloni korisničke dozvole.** 
+-  Dodajte natrag korisnika i ponovno pošaljite pozivnicu korisniku.
 

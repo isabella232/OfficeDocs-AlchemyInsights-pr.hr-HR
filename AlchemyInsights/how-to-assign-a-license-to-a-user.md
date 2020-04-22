@@ -1,5 +1,5 @@
 ---
-title: Dodeljivanje licence korisniku
+title: Kako dodijeliti licencu korisniku
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,27 +10,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "325"
-- "150008"
+- "651"
+- "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664240"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709543"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a>Dodeljivanje licence korisniku
+# <a name="how-to-assign-a-license-to-a-user"></a>Kako dodijeliti licencu korisniku
 
-Korisnik mora Office 365 licencu imati pristup uslugama. Ovdje su koraci za dodavanje, promjena ili uklanjanje licence korisnika.
+Korisnik upotreba licence za pristup uslugama. Evo koraka za dodavanje, promjenu ili uklanjanje licence od korisnika.
   
-1. U centru za administraciju Idi **korisnici** \> stranici [aktivnog korisnika](https://go.microsoft.com/fwlink/p/?linkid=834822) .
+1. U centru za administratore idite na stranicu **Aktivni korisnici.** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822)
 
-2. Odaberite ime korisnika kojemu želite dodijeliti, promjena ili uklanjanje licence.
+2. Odaberite ime korisnika kojem želite dodijeliti, promijeniti ili ukloniti licencu.
 
-3. Na kartici **licenci i Apps** odaberite licencu koju želite dodijeliti tog korisnika.
+3. Na **kartici Licence i aplikacije** odaberite licencu koju želite dodijeliti tom korisniku.
 
-    Prema zadanim postavkama, sve usluge pridružena tu licencu automatski se dodjeljuje korisniku. Da biste ograničili usluga koje su dostupne korisniku, očistite okvir za usluge koje ne želite da korisnik ima.
+    Prema zadanim postavkama, sve usluge povezane s tom licencom automatski se dodjeljuju korisniku. Da biste ograničili koje su usluge dostupne korisniku, poništite potvrdni okvir za usluge koje ne želite da taj korisnik ima.
 
-4. Na dnu okna, odaberite **Spremi promjene**.
+4. Pri dnu okna odaberite **Spremi promjene**.
 
-Za dodatne informacije pogledajte [dodijeliti licence korisnicima](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)i [Uklanjanje licence korisnika](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Dodatne informacije [potražite u odjeljku Dodjela licenci korisnicima](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)i [Uklanjanje licenci od korisnika](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

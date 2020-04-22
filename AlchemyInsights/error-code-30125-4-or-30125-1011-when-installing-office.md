@@ -1,8 +1,8 @@
 ---
-title: Kod pogreške 30125 4 ili 30125-1011 pri instalaciji Officea
+title: Kod pogreške 30125-4 ili 30125-1011 prilikom instalacije sustava Office
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: e57c0c5fd35f54c6fff70965e0010f3d013a8fe7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4853344968d0516e975cb71c5a92d070bdc454cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527044"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703054"
 ---
-# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Kod pogreške 30125 4 ili 30125-1011 pri instalaciji Officea
+# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Kod pogreške 30125-4 ili 30125-1011 prilikom instalacije sustava Office
 
-Ova se pogreška možda vidjeti ako protuvirusni softver, vatrozid, postavke proxy poslužitelja ili veze spriječiti instalaciju programa sustava Office. Evo nekih stvari koje možete pokušati riješiti problem:
+Ta bi vam se pogreška mogla prikazati ako protuvirusni softver, vatrozid, postavke proxy poslužitelja ili veza onemogućuju instalaciju sustava Office. Evo nekoliko stvari koje možete pokušati riješiti problem:
   
-- Ponovo pokrenite računalo i ponovo instalirajte Office
+- Ponovno pokretanje računala i ponovna instalacija sustava Office
 
-- Instaliranje sustava Office pomoću [Office izvanmrežne installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- Instalacija sustava Office pomoću [izvanmrežnog instalacijskog programa sustava Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Privremeno isključite postavke proxy poslužitelja
+- Privremeno isključivanje postavki proxyja
 
-- Privremeno isključite protuvirusni softver
+- Privremeno isključivanje antivirusnog softvera
 
-- Privremeno isključi Vatrozid
+- Privremeno isključivanje vatrozida
 
-Dodatne informacije potražite [kod pogreške 30125 4 ili 30125-1011 pri instalaciji Officea](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
+Dodatne informacije [potražite kod pogreške 30125-4 ili 30125-1011 prilikom instalacije sustava Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   

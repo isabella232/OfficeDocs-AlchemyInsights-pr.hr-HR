@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274842"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706157"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Usklađenost s komunikacijom u Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Usklađenost s komunikacijom u sustavu Microsoft 365
 
-Usklađenost s komunikacijom nova je rješenja za usklađivanje Microsoft 365 koja pomaže organizacijama u ispunjavanju zahtjeva za usklađenost nadzora i minimiziranje komunikacijskih rizika. Temelji se na značajki nadzor u sustavu Office 365 i sadrži nova poboljšanja, uključujući:
+Usklađenost s komunikacijom novo je rješenje usklađenosti sustava Microsoft 365 koje pomaže organizacijama da zadovolje zahtjeve nadzorne usklađenosti i minimiziraju rizike komunikacije. Temelji se na značajki Nadzor i sadrži nova poboljšanja, uključujući:
 
 - Inteligentni prilagodljivi predlošci
-- Fleksibilni tijekovi rada za otklanjanje
-- Djelotvoran uvidi
+- Fleksibilni tijekovi rada za otklanjanje poteškoća
+- Uvidi koji se mogu poduzeti
 
-Ako trenutno koristite [nadzorne politike u sustavu Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), preporučujemo da sada koristite novu usklađenost s komunikacijom kako biste riješili regulatorne potrebe.
+Ako trenutno koristite [pravila nadzora](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), preporučujemo da sada koristite novu usklađenost komunikacije kako biste riješili regulatorne potrebe.
 
-Za postavljanje usklađenosti komunikacije pogledajte [Konfiguriranje usklađenosti komunikacije](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Da biste postavili usklađenost s komunikacijom, pogledajte [Konfiguriranje usklađenosti s komunikacijom](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
-Da biste istražili, pregledali i otklonili usklađenost komunikacije, pogledajte [istragu i ispravljanje upozorenja o sukladnosti komunikacije](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Da biste istražili, pregledali i otklanjali usklađenost s komunikacijom, pogledajte [Istraživanje i otklanjanje upozorenja o usklađenosti s komunikacijom](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
 
-Za pregled značajke usklađenosti komunikacije pogledajte [usklađenost komunikacije u Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Pregled značajke usklađenosti s komunikacijom potražite u članku [Usklađenost s komunikacijom u sustavu Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
-Preduvjeti licence: korisnici prate komunikacijske politike moraju imati jedno od sljedećeg:
+Licencni preduvjeti: korisnici koji se nadziru putem komunikacijskih pravila moraju imati jedno od sljedećeg:
 
-- Microsoft 365 E5 licenca za usklađenost
-- Office 365 Enterprise E3 licenca uz Napredno usklađivanje dodatka
+- Licenca za microsoft 365 E5 usklađenost
+- Licenca za Office 365 Enterprise E3 s dodatkom Za naprednu usklađenost
 - Pretplata na Office 365 Enterprise E5
 
 Ako nemate ništa od navedenog i želite isprobati usklađenost s komunikacijom, **[prijavite se za probnu verziju sustava Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.

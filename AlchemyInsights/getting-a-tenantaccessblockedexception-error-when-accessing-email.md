@@ -1,9 +1,9 @@
 ---
-title: 127 dobivanja TenantAccessBlockedException pogreška pri pristupu e-pošte?
+title: 127 Dobivanje pogreške TenantAccessBlockedException prilikom pristupa e-pošti?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523971"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708895"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Dobivanje TenantAccessBlockedException pogreška pri pristupu e-pošte?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Dobivanje pogreške TenantAccessBlockedException prilikom pristupa e-pošti?
 
-Postoji nekoliko različitih razloga zašto možda primite ovu poruku o pogrešci. Primjerice:
+Postoji nekoliko različitih razloga zbog kojih biste mogli primiti ovu pogrešku. Na primjer:
 
-- Provjerite je li vaša pretplata valjan na **naplatu** \> stranici [Proizvodi & services](https://portal.office.com/adminportal/home#/subscriptions) u centru za administraciju Microsoft 365.
+- Provjerite je li vaša pretplata valjana na **stranici Proizvodi za naplatu** \> [& uslugama](https://portal.office.com/adminportal/home#/subscriptions) u centru za administratore sustava Microsoft 365.
 
-- Potvrdite za bilo prekoračenim rokom obavijesti na **naplatu** \> stranici [sastavnicama & uplate](https://portal.office.com/adminportal/home#/billoverview) u centru za administraciju Microsoft 365.
+- Provjerite ima li dospjelih obavijesti na stranici **Računi za naplatu** \> [& plaćanja](https://portal.office.com/adminportal/home#/billoverview) u centru za administratore sustava Microsoft 365.
 
-- Ako naplate i pretplatama za vaš račun nedavno ažurirane, može potrajati vrijeme promjene proširiti. Pokušajte ponovo za nekoliko minuta, a ako se problem nastavi, Kontaktirajte nas.
+- Ako su naplata i pretplate za vaš račun nedavno ažurirane, možda će biti potrebno vrijeme da se promjene prošire. Pokušajte ponovno za nekoliko minuta, a ako se problem nastavi pojavljivati, kontaktirajte nas.

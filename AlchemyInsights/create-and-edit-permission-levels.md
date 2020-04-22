@@ -1,9 +1,9 @@
 ---
-title: Rad sa SharePoint razinama dozvola
+title: Rad s razinama dozvola sustava SharePoint
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: be0b9373d5494ad1325b557a2b2e23eff8c8bfd4
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 924d8ed360c34c8cdcfba2651d1615ec1ca59c90
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922110"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705473"
 ---
-# <a name="working-with-sharepoint-permission-levels"></a>Rad sa SharePoint razinama dozvola
+# <a name="working-with-sharepoint-permission-levels"></a>Rad s razinama dozvola sustava SharePoint
 
-SharePoint dolazi s zadanim razinama dozvola koje možete koristiti, kao što su **doprinos** i **Prikaz samo**. Ali ako jedan od ovih ne zadovolji vaše potrebe, možete stvoriti novu razinu dozvole. Imajte na umu da je lakše pratiti razine dozvola ako ne mijenjate zadane postavke.
+SharePoint dolazi sa zadanim razinama dozvola koje možete koristiti, kao što su **doprinos** i **samo prikaz**. No ako jedan od njih ne zadovoljava vaše potrebe, možete stvoriti novu razinu dozvole. Imajte na umu da je jednostavnije pratiti razine dozvola ako ne promijenite zadane vrijednosti.
 
-[Kako stvoriti i uređivati razine dozvola](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+[Kako stvoriti i urediti razine dozvola](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)

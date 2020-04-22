@@ -1,9 +1,9 @@
 ---
-title: Aktivacija licence pretplate glasnoće za Microsoft Office 365
+title: Aktivacija Microsoftove pretplate za količinsku licencu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661180"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708751"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktivacija licence pretplate glasnoće za Microsoft Office 365
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivacija Microsoftove pretplate za količinsku licencu
 
-1. Prijaviti se na [portal glasnoće licenciranje servisa Centar (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).
+1. Prijavite se na [portal servisnog centra za količinsko licenciranje (VLSC).](https://go.microsoft.com/fwlink/p/?LinkId=329762)
 
-2. Idite do Office 365 pretplate i odaberite **Aktiviraj**.
+2. Idite na pretplatu i odaberite **Aktiviraj**.
 
-3. Poruku e-pošte će biti poslana kontakt Online Services (OLS).
+3. Kontaktu za mrežne usluge (OLS) poslat će se poruka e-pošte.
 
-4. Aktivacija e-pošte će vam pružiti dvije mogućnosti: **prijavite**ili **prijaviti**. Ako ste prethodno stvorili probnu verziju, odaberite **prijavu**. Ako još nemate klijentske Office 365, odaberite **prijavite**.
+4. Aktivacijska e-pošta pružit će vam dvije mogućnosti: **Registracija**ili **Prijava**. Ako ste prethodno stvorili probnu **verziju,** odaberite Prijava . Ako još nemate klijent sustava Microsoft 365, odaberite **Registracija**.
 
-5. Prijavite se u Microsoft 365 admin centar ([https://admin.microsoft.com](https://admin.microsoft.com)) pomoću postojeće vjerodajnice administratora sistema Office 365. Nakon što se uspješno prijavite, primit ćete poruku koja potvrđuje vaš nabave drugi e-pošte.
+5. Prijavite se u centar za administratore sustava Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) pomoću postojećih administratorskih vjerodajnica. Nakon što se uspješno prijavite, primit ćete još jednu poruku e-pošte s potvrdom kupnje.
 
-6. Nakon što ste prijavljeni, možete otići **naplate** \> [proizvode & services](https://go.microsoft.com/fwlink/p/?linkid=842054) stranicu da biste provjerili nabavljenih pretplate Office 365 aktiviraju unutar vaše klijentske. (Možete i karticu **pretplate** u VLSC da biste prikazali detalje Ovjera da su sprema pretplatu.)
+6. Nakon što se prijavite, možete otići na stranicu **Proizvodi za naplatu** \> [& uslugada](https://go.microsoft.com/fwlink/p/?linkid=842054) biste provjerili jesu li kupljene pretplate aktivirane unutar klijenta. (Možete odabrati i karticu **Pretplata** u VLSC-u da biste vidjeli pojedinosti kojima se potvrđuje da je vaša pretplata uplaćena.)

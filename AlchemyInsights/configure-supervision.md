@@ -1,33 +1,33 @@
 ---
-title: Konfigurirajte nadzor
+title: Konfiguriranje nadzora
 ms.author: robmazz
 author: robmazz
 manager: laurawi
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 0e693de897fe083e1afd9093789367bc58220846
-ms.sourcegitcommit: fbc613525a6302e61d78388ae821f842f186ad03
+ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34813821"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705905"
 ---
-# <a name="configure-supervision-policies"></a>Konfiguriranje pravila na Nadziri
+# <a name="configure-supervision-policies"></a>Konfiguriranje pravila nadzora
 
-Pravila na Nadziri u Microsoft 365 i Office 365 omogućuju praćenje e-pošte sustava Exchange, servisa Skype za poslovne Online, Microsoft Teams i 3 komunikacije strana šalju unutar i izvan vaše organizacije. Naznačeni pregledavatelja možete ispitati nadziranih poruka da biste osigurali su usklađene s pravilima vaše organizacije, rizik upravljanja i sukladnosti sa standardima i riješiti ih s vrstom klasifikaciju.
+Pravila nadzora u sustavu Microsoft 365 omogućuju vam nadzor e-pošte sustava Exchange, servisa Skype a za tvrtke online, servisa Microsoft Teams i komunikacija treće strane poslanih unutar i izvan tvrtke ili ustanove. Određeni pregledavatelji mogu pregledati nadzirane poruke kako bi osigurali da su u skladu s pravilima vaše tvrtke ili ustanove, upravljanjem rizicima i standardima usklađenosti s propisima o usklađenosti s propisima te ih riješiti vrstom klasifikacije.
 
-Da biste koristili pravila na Nadziri u vašoj organizaciji, trebate:
+Da biste koristili pravila nadzora u tvrtki ili ustanovi, morate:
 
-- Određivanje komunikacije za nadzor.
-- Odlučiti tko će obaviti pregled komunikacije.
-- Postavljanje pravila na Nadziri
+- Odredite komunikaciju koju treba pratiti.
+- Odlučite tko će izvršiti pregled komunikacije.
+- Pravila nadzora postavljanja
 
 uči više:
 
-- [Pregled polica na Nadziri](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
-- [Konfiguriranje pravila na Nadziri](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)
+- [Pregled pravila nadzora](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
+- [Konfiguriranje pravila nadzora](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)

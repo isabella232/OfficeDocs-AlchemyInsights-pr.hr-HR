@@ -1,8 +1,8 @@
 ---
-title: 959 promjena zaslonski naziv
+title: 959 Promjena zaslonskog imena
 ms.author: pdigia
 author: pebaum
-ms.date: 7/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736713"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706963"
 ---
-# <a name="change-your-display-name"></a>Promjena naziva prikaza
+# <a name="change-your-display-name"></a>Promjena zaslonskog imena
   
-Da biste promijenili naziv prikaza u programu Outlook, upotrijebite sljedeće korake.
+Da biste promijenili zaslonsko ime u programu Outlook, slijedite ove korake.
   
-1. U programu Outlook odaberite **Postavke računa** **postavki** \> računa **datoteka** \> .
+1. U programu Outlook odaberite **Postavke računa** \> **za datoteke** \> **.**
 
-2. Odaberite račun e-pošte, a zatim odaberite **Promijeni**.
+2. Odaberite račun e-pošte, a zatim **Promijeni**.
 
     > [!NOTE]
-    > Ako ne vidite mogućnost promjene naziva zaslona, vjerojatno koristite račun e-pošte sustava Microsoft Exchange. U tom slučaju morate se obratiti administratoru da biste promijenili naziv prikaza. Pogledajte [promjenu korisničkog imena i adrese e-pošte u sustavu Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+    > Ako ne vidite mogućnost promjene zaslonskog imena, vjerojatno koristite račun e-pošte sustava Microsoft Exchange. U tom slučaju morate se obratiti administratoru da biste promijenili zaslonsko ime. Pogledajte [Promjena korisničkog imena i adrese e-pošte](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Nakon što promijenite naziv prikaza, kliknite **u redu** da biste spremili promjene. Moguće je nekoliko sati da se promjene odražavaju u cijeloj organizaciji.
+3. Nakon što promijenite zaslonsko ime, kliknite **U redu** da biste spremili promjene. Promjenama može potrajati nekoliko sati da se promisle u cijeloj tvrtki ili ustanovi.
 
-Dodatne informacije potražite [u prikazu promjena zaslonski naziv koji primatelji e-pošte vide](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Dodatne informacije [potražite u odjeljku Promjena zaslonskog imena koje primatelji e-pošte vide](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: d03f9cd62a1867619f0b7ed8f449ff638164a836
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 2e3f9b789db6d8e581440c6decc4a1ea748eabf6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744557"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709651"
 ---
-# <a name="activating-windows-10-subscriptions"></a>Aktivacija pretplata na Windows 10
+# <a name="activating-windows-10-subscriptions"></a>Aktiviranje pretplata na Windows 10
 
-Microsoft 365 Business, Microsoft 365 obrazovanje, Microsoft 365 i Enterprise pružaju digitalne licence za Windows 10 kao dio pretplate. Da biste aktivirali pretplatu, vaš uređaj mora već biti aktiviran Windows 10 Pro (1703 ili noviji). Da biste vidjeli potpuni popis zahtjeva za aktivaciju pretplate na Windows 10, pogledajte [preduvjete za aktivaciju pretplate na Windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).
+Microsoft 365 Business Premium, Microsoft 365 Education, Microsoft 365 i Enterprise u sklopu pretplate pružaju digitalne licence za Windows 10. Za aktiviranje pretplate vaš uređaj mora već imati aktiviran Windows 10 Pro (1703 ili noviju verziju). Potpuni popis preduvjeta za aktivaciju pretplate na Windows 10 potražite [u odjeljku Preduvjeti za aktivaciju pretplate u sustavu Windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).

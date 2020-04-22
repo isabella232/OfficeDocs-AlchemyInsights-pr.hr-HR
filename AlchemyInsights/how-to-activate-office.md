@@ -11,20 +11,20 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: 194c03d4cb1e519b1dc72737fa92a1fcfadc5e26
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 56e91bf630fe234ca54ba09c3c756d9f4b71854c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664348"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709687"
 ---
 # <a name="how-to-activate-office"></a>Kako aktivirati Office
 
-Da biste instalirali i aktivirali Office uspješno, administrator mora ste dodijelili [licencu za Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) rad korisnika ili školi račun.
+Da biste uspješno instalirali i aktivirali Office, administrator u račun korisnika ili račun u školi mora dodijeliti licencu sustava [Office.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
-Nakon instaliranja sustava Office u mnogim slučajevima Office 365 apps će aktivirati automatski i ako nije korisnik zatraži da aktivirate, mogu se pokrenuti pomoću Office odmah.
+Nakon instalacije sustava Office, u mnogim slučajevima aplikacije će se automatski aktivirati i ako se od korisnika ne zatraži aktivacija, mogu odmah početi koristiti Office.
   
-Međutim, ako korisnik zatraženo da se **prijavite za postavljanje sustava Office**, moraju prijavite njihov rad ili školu račun, trebali biste već je [dodijeljen licencu za Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Međutim, ako se od korisnika zatraži prijava **za postavljanje sustava Office,** mora se prijaviti pomoću računa za posao ili obrazovnu školu, koji već treba imati [dodijeljenu licencu za Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
   
-Za detaljnije informacije pogledajte [Aktivirati Office na Računalu](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) ili [Aktivirati Office na u Mac](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
+Detaljne informacije [potražite u odjeljku Aktivacija sustava Office na PC-ju](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) ili [Aktivacija sustava Office na Macu](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
   

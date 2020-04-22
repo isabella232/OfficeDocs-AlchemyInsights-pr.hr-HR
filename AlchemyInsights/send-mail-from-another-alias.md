@@ -1,9 +1,9 @@
 ---
-title: Slanje pošte iz drugog pseudonim
+title: Slanje pošte s drugog pseudonima
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d10446576aa9fd79175671db8bdd560041480b6d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551515"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709183"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a>Slanje e-pošte iz pseudonim ili sekundarne adrese
+# <a name="send-email-from-an-alias-or-secondary-address"></a>Slanje e-pošte s pseudonima ili sekundarne adrese
 
-Office 365 ne podržava trenutno slanje e-pošte iz pseudonim ili adresu e-pošte Sekundarna. Pseudonima e-pošte mogu se primati samo pošta. Ako želite poslati e-poštu iz drugu adresu e-pošte, morate stvoriti zajednički poštanski sandučić. Zajednički poštanski sandučić će vam drugu adresu e-pošte bez potrebe drugu licencu.
+Microsoft 365 trenutno ne podržava slanje e-pošte s pseudonima ili sekundarne adrese e-pošte. Pseudonimi e-pošte mogu se koristiti samo za primanje e-pošte. Ako želite poslati e-poštu s druge adrese e-pošte, morate stvoriti zajednički poštanski sandučić. Zajednički poštanski sandučić dat će vam drugu adresu e-pošte, bez potrebe za drugom licencom.
   
-- [Idite tamo da biste stvorili zajednički poštanski sandučić](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [Idite ovdje da biste stvorili zajednički poštanski sandučić](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Možete pročitati u članku [Stvaranje zajednički poštanski sandučić](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) koji će vam reći sve što trebate znati o zajednički poštanski sandučići, uključujući kako ih koristiti.
+Možete pročitati i članak [Stvaranje zajedničkog poštanskog sandučića](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) koji će vam reći sve što trebate znati o zajedničkim poštanskim sandučićima, uključujući njihovo korištenje.

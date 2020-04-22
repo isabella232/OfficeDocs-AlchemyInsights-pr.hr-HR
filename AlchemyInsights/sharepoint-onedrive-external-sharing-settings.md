@@ -1,5 +1,5 @@
 ---
-title: Uključivanje ili isključivanje vanjskog dijeljenja za SharePoint
+title: Uključivanje i isključivanje vanjskog zajedničkog korištenja za SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053901"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692865"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Poruka upozorenja: pravila vaše organizacije ne dopuštaju dijeljenje s tim korisnicima
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Poruka upozorenja: pravila vaše tvrtke ili ustanove ne dopuštaju zajedničko korištenje s tim korisnicima
 
-Korisnici mogu doživjeti poruku upozorenja prilikom pokušaja dijeljenja s vanjskim korisnicima vaše organizacije. Poruka je **pravila vaše organizacije ne dopuštaju vam da dijelite s tim korisnicima. Idite na vanjsko dijeljenje u sustavu Office 365 Admin Center da biste ga omogućili**. To se često događa prvi put kada pokušavate dijeliti s vanjskim korisnicima ili prilikom dijeljenja s novim vanjskim korisnicima.
+Korisnici ma mogu naići na poruku upozorenja prilikom pokušaja zajedničkog korištenja s vanjskim korisnicima vaše tvrtke ili ustanove. Poruka je pravila vaše tvrtke ili ustanove koja vam **ne dopuštaju zajedničko korištenje s tim korisnicima. Idite na Vanjsko zajedničko korištenje u centru za administratore sustava Microsoft 365 da biste ga omogućili**. To se često događa prvi put pokušava podijeliti s vanjskim korisnicima ili prilikom zajedničkog korištenja s novim vanjskim korisnicima.
 
-Provjerite **Postavke vanjskog dijeljenja u sustavu SharePoint i OneDrive** za vašu organizaciju.
+Provjerite **postavke vanjskog zajedničkog korištenja sustava SharePoint i OneDrive** za svoju tvrtku ili ustanovu.
 
-1. U sustavu [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)odaberite **SharePoint**.
-3. Odaberite **dijeljenje** da biste vidjeli postavke vanjskog dijeljenja.
+1. U [centru za administratore sustava Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)odaberite **SharePoint**.
+3. Odaberite **Zajedničko korištenje** da biste vidjeli postavke vanjskog zajedničkog korištenja.
 
-Provjerite **Postavke vanjskog dijeljenja** za određeno web-mjesto.
+Provjerite **postavke vanjskog zajedničkog korištenja** za određeno web-mjesto.
 
-1. U sustavu [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)odaberite **SharePoint**.
-2. Odaberite **aktivna web-mjesta** da biste vidjeli dostupne web-mjesta.
-3. Odaberite web-mjesto koje želite provjeriti, a zatim odaberite gumb za **dijeljenje** koji se prikazuje na traci izbornika da biste provjerili postavke za web-mjesto.
+1. U [centru za administratore sustava Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)odaberite **SharePoint**.
+2. Odaberite **Aktivna web-mjesta** da biste vidjeli dostupna web-mjesta.
+3. Odaberite web-mjesto koje želite provjeriti, a zatim odaberite gumb **Zajedničko korištenje** koji se prikazuje na traci izbornika da biste provjerili postavke web-mjesta.
 
-Dodatne informacije potražite u članku [Pregled vanjskog dijeljenja](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Dodatne informacije potražite [u odjeljku Pregled vanjskog zajedničkog korištenja](https://docs.microsoft.com/sharepoint/external-sharing-overview).

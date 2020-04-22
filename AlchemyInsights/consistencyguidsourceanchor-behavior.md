@@ -1,9 +1,9 @@
 ---
-title: Ponašanje za Konzistenceguid/sourceAnchor
+title: Ponašanje DosljednostGuid / sourceAnchor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8527e7c2404742a999041f85ed12d78c48cc0d8c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36516965"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705725"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>Ponašanje za Konzistenceguid/sourceAnchor
+# <a name="consistencyguid--sourceanchor-behavior"></a>Ponašanje DosljednostGuid / sourceAnchor
 
-Azure AD Connect (verzija 1.1.524.0 i after) sada olakšava korištenje atributa msDS- Kada koristite ovu značajku, Azure AD Connect automatski konfigurira pravila sinkronizacije na:
+Azure AD Connect (verzija 1.1.524.0 i nakon) sada olakšava korištenje msDS-DosljednostGuid kao atribut sourceAnchor. Kada koristite ovu značajku, Azure AD Connect automatski konfigurira pravila sinkronizacije na:
   
-- Koristite msDS-Konzistencyguid kao atribut sourceAnchor za korisničke objekte. ObjectGUID se koristi za druge vrste objekata.
+- Koristite msDS-DosljednostGuid kao atribut sourceAnchor za korisničke objekte. ObjectGUID se koristi za druge vrste objekata.
     
-- Za bilo koji određeni lokalni korisnički objekt oglasa čiji atribut msDS-Konzistencyguid nije popunjen, Azure AD Connect ponovno ispisuje vrijednost objectGUID-a na atribut MSD-Konzistencyguid u lokalno Active Directory. Nakon što se atribut msDS-Konzistencyguid popunjava, Azure AD Connect zatim izvozi objekt u Azure AD.
+- Za sve dane lokalni objekt AD Korisnik čiji atribut msDS-DosljednostGuid nije popunjen, Azure AD Connect vraća svoju vrijednost objectGUID natrag na atribut msDS-DosljednostGuid u lokalnom servisu Active Directory. Nakon popunjavanja atributa msDS-DosljednostGuid, Azure AD Connect zatim izvozi objekt u Azure AD.
     
- **Napomena:** Kada se lokalni AD objekt uvozi u Azure AD Connect (koji se uvozi u prostor AD Connector i projicira u metaverse), više ne možete promijeniti svoju vrijednost sourceAnchor. Da biste odredili vrijednost sourceAnchor za određeni lokalno AD Object, konfigurirajte atribut MSD-Konzistencyguid prije nego što se uvozi u Azure AD Connect. 
+ **Napomena:** Nakon što se lokalni AD objekt uveze u Azure AD Connect (tj. uvozi u prostor AD poveznika i projicira u Metaverse), više ne možete promijeniti njegovu vrijednost sourceAnchor. Da biste odredili vrijednost sourceAnchor za određeni lokalni AD objekt, konfigurirajte njegov atribut msDS-DosljednostGuid prije uvoza u Azure AD Connect. 
   
-Za više informacija o SourceAnchor i Konzistencyguid, pogledajte sljedeće: [Azure ad Connect: koncepti dizajna](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Dodatne informacije o SourceAnchor i DosljednostGuid potražite u sljedećim [člancima Azure AD Connect: Koncepti dizajna](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

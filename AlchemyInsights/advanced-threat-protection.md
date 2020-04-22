@@ -1,32 +1,32 @@
 ---
-title: Office 365 napredne prijetnja Zaštita
+title: Napredna zaštita od prijetnji sustava Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664492"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710327"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 napredne prijetnja Zaštita
+# <a name="office-365-advanced-threat-protection"></a>Napredna zaštita od prijetnji sustava Office 365
 
-- Sigurno privitke, sigurnom veze i mamaca su dio programa Office 365 Napredno prijetnja zaštite (ATP). Enterprise E5, obrazovanje A5 i Microsoft 365 Business uključiti ATP. Svi planovi zahtijevaju se dodatak ATP pretplate.
+- Sigurni privici, sigurne veze i zaštita od krađe identiteta dio su sustava Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5 i Microsoft 365 Business Premium uključuju ATP. Za sve ostale tarife potrebna je pretplata na ATP.
 
-- Morate dodijeliti odgovarajuće licence za zaštitu korisnici po Office 365 ATP. Pogledajte [ovu temu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) za upute kako masovno primijeniti licence korisnicima.
+- Morate dodijeliti odgovarajuće licence da biste zaštitili korisnike pomoću ATP-a za Office 365. Upute za skupnu primjenu licenci korisnicima potražite u [ovoj temi.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- Administratori globalne Office 365 ili sigurnosni administratori mogu pristupiti značajke Office 365 ATP u & Sigurnosni centar usklađenosti na **Managmeent prijetnja** \> **pravila**.
+- Globalni administratori ili sigurnosni administratori mogu pristupiti značajkama ATP-a sustava Office 365 u Centru za & sigurnosti na **upravljačkoj** \> **politici prijetnji**.
 
-- Sigurno privitke i sigurnom vezu pravila može biti ograničena možete cijeloj organizaciji, određene domene ili manje grupe korisnici.
+- Pravila sigurnih privitaka i sigurnih veza mogu vas opsegom nazivati cijelom tvrtkom ili kao gradom, određenim domenama ili manjim grupama korisnika.
 
-- Nema zadanog pravila ATP sigurnom privitak. Trebate [stvoriti pravilo](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) i primijenite korisnicima.
+- Nema zadanog pravila ATP sigurnog privitka. Morate [stvoriti pravilo](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) i primijeniti ga na korisnike.
 
-- Postoji zadana pravila za sigurne veze ATP koji se primjenjuje u vašoj organizaciji. Za uređivanje ovog pravila ili stvoriti prilagođene pravila pogledajte [ovu temu](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- Postoji zadana pravila ATP sigurnih veza koja se primjenjuju na sve u vašoj organizaciji. Da biste uredili ovo pravilo ili stvorili prilagođena pravila, pogledajte [ovu temu](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).

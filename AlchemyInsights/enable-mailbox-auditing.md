@@ -1,9 +1,9 @@
 ---
-title: Omogući nadzor poštanskog sandučića
+title: Omogućivanje nadzora poštanskog sandučića
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
-ms.openlocfilehash: 73517f46935a67a4a8a3e4770090ac897fe67979
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: ae11d6be0789a5662d202b85268480a3d42922c4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736245"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703563"
 ---
-# <a name="enable-mailbox-auditing"></a>Omogući nadzor poštanskog sandučića
+# <a name="enable-mailbox-auditing"></a>Omogućivanje nadzora poštanskog sandučića
 
-Da biste omogućili nadzor poštanskog sandučića za jednog korisnika ili cijeloj organizaciji sljedeće Cmdletovi morate pokrenuti iz Remote Shell uštede energije:
+Da biste omogućili nadzor poštanskog sandučića za jednog korisnika ili cijelu organizaciju, sljedeći cmdleti moraju se pokrenuti iz ljuske udaljene energije:
   
  **Jedan korisnik**
   
-Skup-poštanski sandučić - identitet "Dow Ane" - AuditEnabled $true
+Set-Mailbox -Identitet "Jane Dow" -AuditEnabled $true
   
- **Organizacija**
+ **Organizacije**
   
-Dohvati poštanski sandučić - ResultSize neograničen - filtriranje {RecipientTypeDetails - eq "UserMailbox"} | Skup poštanski sandučić - AuditEnabled $true
+Get-Mailbox-ResultSize Neograničeno -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true
   
 [uči više](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)
   

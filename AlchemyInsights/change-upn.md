@@ -1,9 +1,9 @@
 ---
-title: Promjena UPN
+title: Promijeni UPN
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,33 +11,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36738585"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706382"
 ---
 # <a name="change-a-users-email-address"></a>Promjena adrese e-pošte korisnika
 
-Promjena nečiju adresu e-pošte je lako! Samo slijedite ove korake:
+Promjena nečije e-mail adrese je lako! Samo slijedite ove korake:
   
-1. U centru za administraciju Microsoft 365 idite na stranicu [korisnici](https://go.microsoft.com/fwlink/p/?linkid=834822) ili odaberite **korisnike** \> **Aktivnih korisnika**.
+1. U centru za administratore sustava Microsoft 365 idite na stranicu [Korisnici](https://go.microsoft.com/fwlink/p/?linkid=834822) ili odaberite **Aktivni** \> **korisnici**.
     
 2. Odaberite korisnika.
     
-3. S desne strane u u **korisničko ime / Email pseudonime** redaka, odaberite **Uređivanje**.
+3. Na desnoj strani u retku **Korisničko ime / Pseudonimi e-pošte** odaberite **Uredi**.
     
 4. U okvir **Pseudonim** upišite novu e-poštu, a zatim odaberite **Dodaj**.
     
-    **Važno**: Ako dobijete poruku o pogrešci " **parametar nije moguće pronaći koji odgovara nazivu parametar" EmailAddresses**"znači da traje je malo duže za Office 365 da biste završili postavljanje vaše klijentske ili prilagođenu domenu ako jedan Nedavno dodano . Instalacijski postupak može potrajati do 4 sata. Pričekajte neko vrijeme, tako da postupak postavljanja ima vremena da završi i pokušajte ponovo. Ako se problem nastavi, nazovite podršku i će učiniti punu sinkronizaciju za vas.
+    **VAŽNO**: Ako vam se prikaže poruka o pogrešci " **Parametar se ne može pronaći koji odgovara nazivu parametra "EmailAddresses"** to znači da microsoftu treba malo duže da dovrši postavljanje klijenta ili prilagođenu domenu ako ste je nedavno dodali. Postupak postavljanja može potrajati do 4 sata. Pričekajte neko vrijeme da bi postupak postavljanja ima vremena za dovršetak, a zatim pokušajte ponovno. Ako se problem nastavi pojavljivati, nazovite podršku i oni će za vas napraviti potpunu sinkronizaciju.
     
-    Ako dobijete poruku o pogrešci " **Žao, korisnik ne može uređivati. Pregledajte informacije o korisniku i pokušajte ponovno**"znači da nisu Office 365 globalni administrator i nemate dozvole da biste promijenili korisničko ime.
+    Ako vam se prikaže poruka o pogrešci " **Žao nam je, korisnik se ne može uređivati. Pregledajte podatke o korisniku i pokušajte ponovno**" to znači da niste globalni administrator i nemate dozvole za promjenu korisničkog imena.
     
-5. Odaberite **Postavi kao primarni** za adresu e-pošte koji želite postaviti kao adresu e-pošte primarnog te osobe. Ako ste kupili pretplatu iz GoDaddy, morate se prijaviti na njihove konzola postaviti adresu e-pošte primarnog. 
+5. Odaberite **Postavi kao primarnu** za adresu e-pošte koju želite postaviti kao primarnu adresu e-pošte za tu osobu. Ako ste pretplatu kupili na servisa GoDaddy, morate se prijaviti na upravljačku konzolu da biste postavili primarnu adresu e-pošte. 
     
-6. Odaberite **Spremi**, zatim **Zatvori**, i gotovi!
+6. Odaberite **Spremi**, zatim **Zatvori**i gotovi ste!
     
-Nije bio to jednostavno? Za više pojedinosti i korake s screenshots odjaviti ovaj članak: [promijeniti korisničko ime i adresa u sustavu Office 365 e-pošte](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+Nije li to bilo lako? Za više detalja i koraka sa snimkama zaslona pogledajte ovaj članak: [Promijenite korisničko ime i adresu e-pošte](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 

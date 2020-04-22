@@ -1,8 +1,8 @@
 ---
-title: Napredna zaštita od prijetnji u sustavu SharePoint i servisu OneDrive
+title: Napredna zaštita od prijetnji u sustavima SharePoint i OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: f4043e9716ebdf5236df7ec0ead32d1a738fbc23
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d2b398bda3a2d1760b8380e0651caa2ed9883504
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050409"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710363"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Napredna zaštita od prijetnji (ATP) u sustavu SharePoint i servisu OneDrive
+# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Napredna zaštita od prijetnji (ATP) u sustavima SharePoint i OneDrive
 
 Pogledajte sljedeće:
-- [ATP za SharePoint, OneDrive i timove](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Preglednik prijetnji i Realtime zaštite](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [ATP za SharePoint, OneDrive i teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Threat Explorer i otkrivanje u stvarnom vremenu](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 
 Dodatne informacije:
@@ -31,4 +31,4 @@ Dodatne informacije:
 - [Otkrivanje virusa u SPO-u](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
 - [Šifriranje podataka u ODB-u i SPO-u](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
 - [Zaštita podataka u sustavu SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Otkrivanje ransomware i oporavak datoteke](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Ransomware Otkrivanje i oporavak datoteka](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
