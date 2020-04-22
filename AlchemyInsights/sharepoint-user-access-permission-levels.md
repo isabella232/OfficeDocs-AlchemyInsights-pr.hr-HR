@@ -2,35 +2,35 @@
 title: Korisničke dozvole
 ms.author: pebaum
 author: pebaum
-ms.date: 5/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: c176d7c838109e7f6a75043716e9f45079909b50
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b0a8f86c8ec419fb5b63e47b7d7528b5c83a96e4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050985"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767601"
 ---
-# <a name="user-permissions-in-sharepoint"></a><span data-ttu-id="138c5-102">Korisničke dozvole u sustavu SharePoint</span><span class="sxs-lookup"><span data-stu-id="138c5-102">User permissions in SharePoint</span></span>
+# <a name="user-permissions-in-sharepoint"></a><span data-ttu-id="270c0-102">Korisničke dozvole u sustavu SharePoint</span><span class="sxs-lookup"><span data-stu-id="270c0-102">User permissions in SharePoint</span></span>
 
-<span data-ttu-id="138c5-103">Nakon što kreirate SharePoint web-mjesto, možda želite pružiti ili ograničiti korisnički pristup web-mjestu ili njezinom sadržaju.</span><span class="sxs-lookup"><span data-stu-id="138c5-103">After you have created a SharePoint site, you may want to provide or restrict user access to the site or its contents.</span></span> <span data-ttu-id="138c5-104">Najlakši način rada s dozvolama je korištenje [zadanih grupa](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) i razina dozvola koje pokrivaju najčešće scenarije.</span><span class="sxs-lookup"><span data-stu-id="138c5-104">The easiest way to work with permissions is to use the [default groups](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) and permissions levels provided, which cover most common scenarios.</span></span> <span data-ttu-id="138c5-105">No, ako je potrebno, možete postaviti više fino zrnati dozvole izvan zadane razine.</span><span class="sxs-lookup"><span data-stu-id="138c5-105">But, if you need to, you can set more fine-grained permissions beyond the default levels.</span></span> <span data-ttu-id="138c5-106">Za više informacija, pogledajte [razumijevanje razina dozvola u sustavu SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).</span><span class="sxs-lookup"><span data-stu-id="138c5-106">For more information, please see [Understanding permission levels in SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).</span></span>
+<span data-ttu-id="270c0-103">Nakon što stvorite SharePoint web-mjesto, možda želite omogućiti ili ograničiti korisnički pristup web-mjestu ili njegovom sadržaju.</span><span class="sxs-lookup"><span data-stu-id="270c0-103">After you have created a SharePoint site, you may want to provide or restrict user access to the site or its contents.</span></span> <span data-ttu-id="270c0-104">Najjednostavniji način rada s dozvolama jest korištenje [zadanih grupa](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) i razina dozvola koje obuhvaćaju najčešće scenarije.</span><span class="sxs-lookup"><span data-stu-id="270c0-104">The easiest way to work with permissions is to use the [default groups](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) and permissions levels provided, which cover most common scenarios.</span></span> <span data-ttu-id="270c0-105">Ali, ako je potrebno, možete postaviti više sitno zrnate dozvole izvan zadanih razina.</span><span class="sxs-lookup"><span data-stu-id="270c0-105">But, if you need to, you can set more fine-grained permissions beyond the default levels.</span></span> <span data-ttu-id="270c0-106">Dodatne informacije potražite [u odjeljku Objašnjenje razina dozvola u sustavu SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).</span><span class="sxs-lookup"><span data-stu-id="270c0-106">For more information, please see [Understanding permission levels in SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).</span></span>
 
-<span data-ttu-id="138c5-107">Za više informacija o upravljanju određenim razinama dozvola, molimo posjetite niže poveznice:</span><span class="sxs-lookup"><span data-stu-id="138c5-107">For more information on managing specific permission levels, please visit the below links:</span></span>
+<span data-ttu-id="270c0-107">Za više informacija o upravljanju određenim razinama dozvola, posjetite dolje navedene veze:</span><span class="sxs-lookup"><span data-stu-id="270c0-107">For more information on managing specific permission levels, please visit the below links:</span></span>
 
-- [<span data-ttu-id="138c5-108">Uređivanje i upravljanje dozvolama za SharePointov popis ili biblioteku</span><span class="sxs-lookup"><span data-stu-id="138c5-108">Edit and manage permissions for a SharePoint list or library</span></span>](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [<span data-ttu-id="270c0-108">Uređivanje dozvola za SharePoint popis ili biblioteku i upravljanje njima</span><span class="sxs-lookup"><span data-stu-id="270c0-108">Edit and manage permissions for a SharePoint list or library</span></span>](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [<span data-ttu-id="138c5-109">Stvaranje SharePoint grupa i upravljanje njima</span><span class="sxs-lookup"><span data-stu-id="138c5-109">Create and manage SharePoint groups</span></span>](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [<span data-ttu-id="270c0-109">Stvaranje sharepoint grupa i upravljanje njima</span><span class="sxs-lookup"><span data-stu-id="270c0-109">Create and manage SharePoint groups</span></span>](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [<span data-ttu-id="138c5-110">Kako stvoriti i uređivati razine dozvola</span><span class="sxs-lookup"><span data-stu-id="138c5-110">How to create and edit Permission Levels</span></span>](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+- [<span data-ttu-id="270c0-110">Kako stvoriti i urediti razine dozvola</span><span class="sxs-lookup"><span data-stu-id="270c0-110">How to create and edit Permission Levels</span></span>](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
 
-- [<span data-ttu-id="138c5-111">Postavljanje i upravljanje zahtjevima za pristup</span><span class="sxs-lookup"><span data-stu-id="138c5-111">Set up and manage access requests</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
+- [<span data-ttu-id="270c0-111">Postavljanje zahtjeva za pristup i upravljanje njima</span><span class="sxs-lookup"><span data-stu-id="270c0-111">Set up and manage access requests</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
 
-- [<span data-ttu-id="138c5-112">Promjena dozvola u podmapi</span><span class="sxs-lookup"><span data-stu-id="138c5-112">Change the permissions on a subfolder</span></span>](https://support.office.com/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6)
+- [<span data-ttu-id="270c0-112">Promjena dozvola u podmapi</span><span class="sxs-lookup"><span data-stu-id="270c0-112">Change the permissions on a subfolder</span></span>](https://support.office.com/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6)
 
-- [<span data-ttu-id="138c5-113">Dijeljenje SharePoint datoteka ili mapa u sustavu Office 365</span><span class="sxs-lookup"><span data-stu-id="138c5-113">Share SharePoint files or folders in Office 365</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [<span data-ttu-id="270c0-113">Zajedničko korištenje datoteka ili mapa sustava SharePoint u sustavu Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="270c0-113">Share SharePoint files or folders in Microsoft 365</span></span>](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [<span data-ttu-id="138c5-114">Dijeljenje web-mjesta</span><span class="sxs-lookup"><span data-stu-id="138c5-114">Share a site</span></span>](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)
+- [<span data-ttu-id="270c0-114">Zajedničko korištenje web-mjesta</span><span class="sxs-lookup"><span data-stu-id="270c0-114">Share a site</span></span>](https://support.office.com/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658)

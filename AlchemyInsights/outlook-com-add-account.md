@@ -1,9 +1,9 @@
 ---
-title: 9000236 Outlook.com Dodavanje računa
+title: 9000236 Outlook.com dodati račun
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8224ded963b3098b78b20f6bb157c183243d769b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36538192"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760980"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a><span data-ttu-id="f4c36-102">Dodajte druge račune e-pošte na Outlook.com</span><span class="sxs-lookup"><span data-stu-id="f4c36-102">Add your other email accounts to Outlook.com</span></span>
+# <a name="add-your-other-email-accounts-to-outlookcom"></a><span data-ttu-id="55527-102">Dodavanje drugih računa e-pošte u Outlook.com</span><span class="sxs-lookup"><span data-stu-id="55527-102">Add your other email accounts to Outlook.com</span></span>
 
-<span data-ttu-id="f4c36-103">Kada dodate druge račune e-pošte u Outlook.com, možete koristiti Outlook.com za slanje i čitanje poruka e-pošte s tih računa bez napuštanja Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="f4c36-103">When you add other email accounts to Outlook.com, you can use Outlook.com to send and read email messages from those accounts without leaving Outlook.com.</span></span> <span data-ttu-id="f4c36-104">Svaki račun koji dodate u Outlook.com zove se povezani račun.</span><span class="sxs-lookup"><span data-stu-id="f4c36-104">Each account you add to Outlook.com is called a connected account.</span></span>
+<span data-ttu-id="55527-103">Kada dodate druge račune e-pošte u Outlook.com, možete koristiti Outlook.com za slanje i čitanje poruka e-pošte s tih računa bez ostavljanja Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="55527-103">When you add other email accounts to Outlook.com, you can use Outlook.com to send and read email messages from those accounts without leaving Outlook.com.</span></span> <span data-ttu-id="55527-104">Svaki račun koji dodate Outlook.com naziva se povezani račun.</span><span class="sxs-lookup"><span data-stu-id="55527-104">Each account you add to Outlook.com is called a connected account.</span></span>
 
-<span data-ttu-id="f4c36-105">Napomena: sinkronizacija s povezanog računa na vaš Outlook.com račun je samo u jednom smjeru.</span><span class="sxs-lookup"><span data-stu-id="f4c36-105">Note: Syncing from your connected account to your Outlook.com account is one-way only.</span></span> <span data-ttu-id="f4c36-106">E-pošta poslana s povezanog računa pomoću Outlook.com neće se pojaviti na vašem povezanom računu poslane stavke.</span><span class="sxs-lookup"><span data-stu-id="f4c36-106">Email sent from your connected account using Outlook.com will not appear in your connected account Sent Items.</span></span>
+<span data-ttu-id="55527-105">Napomena: sinkronizacija s povezanog računa s Outlook.com računom samo je jedan smjer.</span><span class="sxs-lookup"><span data-stu-id="55527-105">Note: Syncing from your connected account to your Outlook.com account is one-way only.</span></span> <span data-ttu-id="55527-106">E-pošta poslana s vašeg povezanog računa pomoću Outlook.com neće se prikazati na povezanom računu Poslane stavke.</span><span class="sxs-lookup"><span data-stu-id="55527-106">Email sent from your connected account using Outlook.com will not appear in your connected account Sent Items.</span></span>
 
-<span data-ttu-id="f4c36-107">Da biste dodali povezani račun:</span><span class="sxs-lookup"><span data-stu-id="f4c36-107">To add a connected account:</span></span>
+<span data-ttu-id="55527-107">Da biste dodali povezani račun:</span><span class="sxs-lookup"><span data-stu-id="55527-107">To add a connected account:</span></span>
 
-1. <span data-ttu-id="f4c36-108">Otvorite [postavke sinkronizacije e-pošte](https://go.microsoft.com/fwlink/?linkid=875264).</span><span class="sxs-lookup"><span data-stu-id="f4c36-108">Open your [Sync Email settings](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
-2. <span data-ttu-id="f4c36-109">U odjeljku **Povezani računi**odaberite **Gmail** ili **drugi računi e-pošte**.</span><span class="sxs-lookup"><span data-stu-id="f4c36-109">Under **Connected accounts**, select **Gmail** or **Other email accounts**.</span></span>
-3. <span data-ttu-id="f4c36-110">Na stranici povezivanje računa unesite zaslonski naziv (primatelji imena će vidjeti kada prime poruku e-pošte od vas) i punu adresu e-pošte i lozinku računa e-pošte koji želite povezati s vašim Outlook.com računom.</span><span class="sxs-lookup"><span data-stu-id="f4c36-110">On the Connect your account page, enter a display name (the name recipients will see when they receive an email message from you) and the full email address and password of the email account you want to connect to your Outlook.com account.</span></span>
+1. <span data-ttu-id="55527-108">Otvorite [postavke sinkronizacijske e-pošte](https://go.microsoft.com/fwlink/?linkid=875264).</span><span class="sxs-lookup"><span data-stu-id="55527-108">Open your [Sync Email settings](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
+2. <span data-ttu-id="55527-109">U **odjeljku Povezani računi**odaberite **Gmail** ili Ostali **računi e-pošte**.</span><span class="sxs-lookup"><span data-stu-id="55527-109">Under **Connected accounts**, select **Gmail** or **Other email accounts**.</span></span>
+3. <span data-ttu-id="55527-110">Na stranici Povezivanje računa unesite zaslonsko ime (primatelji će vidjeti kada prime poruku e-pošte od vas) i punu adresu e-pošte i lozinku računa e-pošte koji želite povezati s računom Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="55527-110">On the Connect your account page, enter a display name (the name recipients will see when they receive an email message from you) and the full email address and password of the email account you want to connect to your Outlook.com account.</span></span>
 
-<span data-ttu-id="f4c36-111">E-poštu možete slati s bilo kojeg računa koji ste povezali s vašim Outlook.com računom.</span><span class="sxs-lookup"><span data-stu-id="f4c36-111">You can send email from any account you've connected to your Outlook.com account.</span></span> <span data-ttu-id="f4c36-112">Prilikom sastavljanja e-pošte odaberite **iz** i odaberite adresu e-pošte koju želite koristiti ili [ažurirajte zadanu adresu iz adrese](https://go.microsoft.com/fwlink/?linkid=875264).</span><span class="sxs-lookup"><span data-stu-id="f4c36-112">When composing an email, select **From** and choose which email address you want to use, or [update your default From address](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
+<span data-ttu-id="55527-111">E-poštu možete slati s bilo kojeg računa koji ste povezali s računom Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="55527-111">You can send email from any account you've connected to your Outlook.com account.</span></span> <span data-ttu-id="55527-112">Prilikom sastavljanja e-pošte odaberite **Iz** i odaberite adresu e-pošte koju želite koristiti ili [ažurirajte zadanu adresu .](https://go.microsoft.com/fwlink/?linkid=875264)</span><span class="sxs-lookup"><span data-stu-id="55527-112">When composing an email, select **From** and choose which email address you want to use, or [update your default From address](https://go.microsoft.com/fwlink/?linkid=875264).</span></span>
 
-<span data-ttu-id="f4c36-113">Za više informacija pročitajte [Dodavanje drugih računa e-pošte na Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="f4c36-113">For more information, read [Add your other email accounts to Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="55527-113">Dodatne informacije potražite u članku [Dodavanje drugih računa e-pošte u Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="55527-113">For more information, read [Add your other email accounts to Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="f4c36-114">Ako želite stvoriti novu adresu e-pošte koja koristi isti Outlook.com račun, pročitajte [Dodavanje ili uklanjanje pseudonima e-pošte](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="f4c36-114">If you want to create a new email address that uses the same Outlook.com account, read [Add or remove an email alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="55527-114">Ako želite stvoriti novu adresu e-pošte koja koristi isti Outlook.com račun, pročitajte članak [Dodavanje ili uklanjanje pseudonima e-pošte](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="55527-114">If you want to create a new email address that uses the same Outlook.com account, read [Add or remove an email alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

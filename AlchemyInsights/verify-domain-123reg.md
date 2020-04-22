@@ -1,5 +1,5 @@
 ---
-title: Potvrdite svoju domenu pomoću 123-reg.co.uk
+title: Provjera domene pomoću 123-reg.co.uk
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 1ac842d5e2100aa82e0aa8d341d845abcf2c82d0
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: e84e56a839754e65eaa0945c68abdedcec1a7733
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42325976"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766341"
 ---
-# <a name="verify-your-domain-with-123-regcouk"></a><span data-ttu-id="757bc-102">Potvrdite svoju domenu pomoću 123-reg.co.uk</span><span class="sxs-lookup"><span data-stu-id="757bc-102">Verify your domain with 123-reg.co.uk</span></span>
+# <a name="verify-your-domain-with-123-regcouk"></a><span data-ttu-id="8df40-102">Provjera domene pomoću 123-reg.co.uk</span><span class="sxs-lookup"><span data-stu-id="8df40-102">Verify your domain with 123-reg.co.uk</span></span>
 
-<span data-ttu-id="757bc-103">Da biste potvrdili svoju domenu, morat ćete dodati TXT zapis u registrar domena da biste provjerili posjedujete li svoju domenu.</span><span class="sxs-lookup"><span data-stu-id="757bc-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="8df40-103">Da biste potvrdili domenu, morat ćete dodati TXT zapis u registrar domena da biste provjerili jeste li vlasnik domene.</span><span class="sxs-lookup"><span data-stu-id="8df40-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="757bc-104">Najprije slijedite čarobnjak za [dodavanje domene](https://portal.office.com/adminportal/home#/Domains) tako da odaberete **Domene** **postavki** \> , a zatim **Dodaj domenu**.</span><span class="sxs-lookup"><span data-stu-id="757bc-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="8df40-104">Najprije slijedite čarobnjak za [dodavanje domene](https://portal.office.com/adminportal/home#/Domains) tako da odaberete **Domene postavki** \> **Domains**, a zatim **Dodaj domenu**.</span><span class="sxs-lookup"><span data-stu-id="8df40-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="757bc-105">Detaljne upute potražite u članku [Stvaranje DNS zapisa na 123-reg.co.uk za Office 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk)</span><span class="sxs-lookup"><span data-stu-id="757bc-105">See [Create DNS records at 123-reg.co.uk for Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk) for step-by-step instructions.</span></span>
+<span data-ttu-id="8df40-105">Detaljne upute [potražite u članku Stvaranje DNS zapisa u 123-reg.co.uk za Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk)</span><span class="sxs-lookup"><span data-stu-id="8df40-105">See [Create DNS records at 123-reg.co.uk for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk) for step-by-step instructions.</span></span>
