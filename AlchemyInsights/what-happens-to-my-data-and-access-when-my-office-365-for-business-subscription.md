@@ -1,9 +1,9 @@
 ---
-title: Što se događa moje podatke i access kada završava moj Office 365 poslovne pretplate?
+title: Što se događa s mojim podacima i pristupom kada moja pretplata na Microsoft 365 za tvrtke završi?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 746f9b1553336e66f0c2bcb9e59b75e49b41d3b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531243"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766197"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Što se događa moje podatke i access kada završava moj Office 365 poslovne pretplate?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Što se događa s mojim podacima i pristupom kada moja pretplata na Microsoft 365 za tvrtke završi?
 
-Ako pretplatu Office 365 završava — jer ona istekne, ili odlučite stornirati — access services Office 365, aplikacije i podatke o klijentu proći kroz više stanja prije pretplate potpuno isključeno ili *deprovisioned*  . Ako ste svjesni ovaj napretka, bit ćete bolje posebnog da biste vratili pretplatu aktivni stanje prije je prekasno, ili — ako ste napuštanja Office 365 — sigurnosnu kopiju podataka prije konačnici izbrisane.
+Ako vaša pretplata završi – bilo zato što istekne ili zato što odlučite otkazati – vaš pristup uslugama, aplikacijama i korisničkim podacima prolazi kroz više stanja prije nego što pretplata bude u potpunosti isključena ili *dedodjela* . Ako ste svjesni tog napretka, bit ćete bolje opremljeni za vraćanje pretplate u aktivno stanje prije nego što bude prekasno ili, ako napuštate Microsoft, sigurnosno kopiranje podataka prije nego što se u konačnici izbriše.
   
-Prije pretplate zapravo dostigne datum isteka, imate nekoliko mogućnosti za **Upravljanje ponavljajući naplate za pretplatu**.
+Prije nego što pretplata zapravo dosegne datum isteka, imate nekoliko mogućnosti **upravljanja ponavljajućom naplatom za pretplatu**.
   
-- Ako **Ponavljanje naplate** već uključen, ne morate ništa poduzimati. Vaša pretplata će se naplatiti na njegov datum **naplate ponavljanje** i koju ćete naplatiti za dodatne godinu ili mjesec, ovisno o trenutnom učestalosti uplate. Ako iz bilo kojeg razloga ste isključili **ponavljajući naplate** , možete uvijek [Uključivanje ponavljanja naplate natrag na](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Ako je **ponavljajuća naplata** već uključena, ne morate poduzimati nikakve radnje. Pretplata će se naplatiti na datum **ponavljajuće naplate,** a naplatit će vam se za dodatnu godinu ili mjesec, ovisno o trenutačnoj učestalosti plaćanja. Ako ste iz bilo kojeg razloga isključili **ponavljajuću naplatu,** uvijek možete [ponovno uključiti ponavljajuću naplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Ako ste kupca Otvori količinsko licenciranje avansni, jedna godina pretplate, obratite partnera za kupnju novog ključa proizvoda. Primit ćete upute poštom aktivirati ključ u [Jedinicu licenciranje servisni centar](https://go.microsoft.com/fwlink/p/?LinkID=282016). Da biste saznali kako pronaći novi partnera ili partnera ste radili s u prošlosti, pogledajte [pronaći partnera za Office 365 ili distributer](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).
+- Ako ste korisnik otvorenog količinskog licenciranja s unaprijed plaćenom pretplatom od jedne godine, obratite se partneru da biste kupili novi ključ proizvoda. Primit ćete upute putem e-pošte da biste aktivirali ključ u [servisnom centru za količinsko licenciranje](https://go.microsoft.com/fwlink/p/?LinkID=282016). Da biste saznali kako pronaći novog partnera ili partnera s kojim ste radili u prošlosti, [pročitajte dio "Pronalaženje partnera ili prodavača sustava Microsoft 365"](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).

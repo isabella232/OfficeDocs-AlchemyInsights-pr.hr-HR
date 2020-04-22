@@ -2,45 +2,45 @@
 title: Postavljanje pretplate na O365 Business Essentials
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744705"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767781"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Postavljanje pretplate na O365 Business Essentials
 
-Stvorite Office 365 račune i dodajte domenu
+Stvaranje računa za Microsoft 365 i dodavanje domene
   
-- U ovom koraku koristite čarobnjaka za postavljanje da biste kreirali Office 365 račune za korisnike i dodali vlastitu domenu. Čarobnjak vam omogućuje personalizaciju korisničkog ID-a i e-pošte za vašu tvrtku, kao što je [rob@contoso.com](mailto:rob@contoso.com).
+- U ovom koraku koristite čarobnjak za postavljanje da biste stvorili račune sustava Microsoft 365 za svoje korisnike i dodali vlastitu domenu. Čarobnjak vam omogućuje da personalizirate korisnički ID korisnika i e-poštu za svoju tvrtku, primjerice [rob@contoso.com](mailto:rob@contoso.com).
     
-- Idite na [Microsoft 365 Admin Center](https://login.partner.microsoftonline.cn/).
+- Idite na centar za [administratore sustava Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Da biste pokrenuli čarobnjak, odaberite **Idi na postavljanje**. Da biste saznali više, pogledajte [Dodavanje domene u Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Da biste pokrenuli čarobnjak, odaberite **Idi na postavljanje**. Dodatne informacije potražite u članku [Dodavanje domene u Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
 Uvoz e-pošte
   
-- Premjestite postojeću e-poštu i kontakte iz drugih sustava e-pošte na svoj Office 365 poštanski sandučić tako da ga možete vidjeti sve na jednom mjestu. Za mogućnosti migracija, [Migrirajte e-poštu i kontakte u Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Premjestite postojeću e-poštu i kontakte iz drugih sustava e-pošte u poštanski sandučić sustava Microsoft 365 da biste ga sve mogli vidjeti na jednom mjestu. Za mogućnosti migracije [migrirajte e-poštu i kontakte u Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
 - Povezivanje računa e-pošte
     
-  - Osim upravljanja e-poštom sustava Office 365 u programu Outlook, možete povezati i druge račune e-pošte s programom Outlook, kao što su Gmail i Yahoo računi. To vam omogućuje upravljanje svim svojim e-poštom na jednom mjestu. Možete povezati do 5 računa e-pošte u programu Outlook. Za više detalja pogledajte [Povezivanje računa e-pošte u programu Outlook na webu (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Osim upravljanja e-poštom u programu Outlook, možete povezati i druge račune e-pošte s programom Outlook, kao što su Gmail i Yahoo računi. To vam omogućuje upravljanje svim e-poštom na jednom mjestu. U programu Outlook možete povezati do 5 računa e-pošte. Dodatne informacije [potražite u članku Povezivanje računa e-pošte u programu Outlook na webu (Microsoft 365).](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) 
     
-Instaliranje servisa Skype za tvrtke
+Instalacija Skypea za tvrtke
   
-- Vi i članovi vašeg tima možete [preuzimati i instalirati Skype za tvrtke](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) na svim vašim računalima, Macovima, tabletama i telefonima. Tada ćete moći vidjeti internetski status svojih suradnika, početi razgovore iz drugih Officeovih aplikacija i ugostiti video sastanke s do 250 osoba. 
+- Vi i članovi tima možete [preuzeti i instalirati Skype za tvrtke](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) na svim PC-jevima, Macovima, tabletima i telefonima. Tada ćete moći vidjeti mrežni status svojih suradnika, započeti razgovore s drugim aplikacijama sustava Office i ugostiti videosastanke s do 250 osoba. 
     
-Pohranite datoteke na internetu
+Pohrana datoteka na internetu
   
-- Da biste saznali koje su lokacije za pohranu najbolje za vašu tvrtku, pogledajte [gdje možete pohraniti datoteke u Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Svi automatski dobiju mjesto pohrane u oblaku **servisa OneDrive** kada kreirate Office 365 račune za njih. Pomoću servisa OneDrive možete pristupiti datotekama na računalima, telefonima i tabletama. 
+- Da biste saznali koja su mjesta za pohranu najbolja za vašu tvrtku, pročitajte popis [Gdje možete pohraniti datoteke u sustavu Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Prilikom stvaranja računa za Microsoft 365 za njih svatko automatski dobiva mjesto za pohranu u oblaku na **servisu OneDrive.** Uz OneDrive možete pristupati datotekama na svim računalima, telefonima i tabletima. 
     
-Detaljne korake za postavljanje možete pronaći u [ovom članku](https://docs.microsoft.com/office365/admin/setup/setup).
+Detaljni koraci za postavljanje nalaze se u [ovom članku](https://docs.microsoft.com/office365/admin/setup/setup).
   
 

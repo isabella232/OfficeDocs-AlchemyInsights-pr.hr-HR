@@ -1,9 +1,9 @@
 ---
-title: Migrirati poštanske sandučiće između dva različita stanara
+title: Migracija poštanskih sandučića između dva različita klijenta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2bfce9766552fd55159fb87433ae4ff791c2e814
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734445"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762273"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>Migrirati poštanske sandučiće između dva različita stanara
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>Migracija poštanskih sandučića između dva različita klijenta
 
-Možda ćete morati migrirati poštanske sandučiće između dva različita stanara u sustavu Office 365, na primjer, kada postoje spajanja u organizaciji. Ove migracije treba pažljivo planirati. Molimo pogledajte sljedeće upute:
+Možda ćete morati migrirati poštanske sandučiće između dva različita klijenta, na primjer, kada postoje spajanja tvrtki ili ustanove. Te migracije treba pažljivo planirati. Molimo pogledajte sljedeće smjernice:
   
-[Kako migrirati poštanske sandučiće iz jednog Office 365 klijenta na drugi](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[Kako migrirati poštanske sandučiće s jednog klijenta u drugi](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

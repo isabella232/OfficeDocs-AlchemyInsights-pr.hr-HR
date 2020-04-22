@@ -3,7 +3,7 @@ title: Vraćanje izbrisane grupe sustava Office 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,20 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 2e89b479f8cfc0ee0e590b64d09abae8a678e1cc
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048824"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758746"
 ---
 # <a name="restore-a-deleted-office-365-group"></a>Vraćanje izbrisane grupe sustava Office 365
 
 Izbrisane grupe zadržavaju se 30 dana. Da biste vratili izbrisanu grupu:
   
-1. U [centru za administraciju sustava Exchange](https://outlook.office365.com/ecp/)odaberite **primatelje** u lijevom oknu, a zatim odaberite **grupe**. Ako je grupa izbrisana prije manje od 30 dana, pojavit će se na popisu i stupac STATUS će navesti datum brisanja.
+1. U [centru za administratore sustava Exchange](https://outlook.office365.com/ecp/)odaberite **primatelje** u lijevom oknu, a zatim **grupe**. Ako je grupa izbrisana prije manje od 30 dana, pojavit će se na popisu, a stupac STATUS navest će datum brisanja.
 
-2. Odaberite grupu, a zatim kliknite **Vrati** na naredbenoj traci ili kliknite vezu "kliknite ovdje za vraćanje" u oknu s detaljima.
+2. Odaberite grupu, a zatim na naredbenoj traci kliknite **Vrati** ili kliknite vezu "Kliknite ovdje da biste vratili" u oknu s detaljima.
 
-Dodatne informacije ili da biste saznali kako vratiti grupe pomoću PowerShell, pogledajte [Vraćanje izbrisane Office 365 grupe](https://go.microsoft.com/fwlink/?linkid=867802).
+Dodatne informacije ili informacije o vraćanju grupa pomoću komponente PowerShell potražite u članku [Vraćanje izbrisane grupe sustava Office 365](https://go.microsoft.com/fwlink/?linkid=867802).
   

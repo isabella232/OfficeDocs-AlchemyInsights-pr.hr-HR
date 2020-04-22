@@ -10,23 +10,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 8787dbcbb802ea55498bc8a737e69bb54b6d8ff6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 75ae4368f0b63f375068dcd9f759527bfde689f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049689"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763445"
 ---
-# <a name="recover-missing-or-deleted-site-collections"></a>Vraćanje nestalih ili izbrisanih zbirki web-mjesta
+# <a name="recover-missing-or-deleted-site-collections"></a>Oporavak zbirki web-mjesta koje nedostaju ili su izbrisane
 
-Informacije o oporavku ili izbrisanim zbirkama web-mjesta u sustavu SharePoint potražite u sljedećim člancima.
+Informacije o oporavku zbirki web-mjesta koje nedostaju ili su izbrisane u sustavu SharePoint potražite u sljedećim člancima.
 
 [Vraćanje izbrisanih web-mjesta](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[Vraćanje pomoću SPO PowerShell modula](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
+[Vraćanje pomoću modula SPO PowerShell](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
 
-Ako ne možete pronaći web-mjesto, možda želite [pretražiti zapisnik nadzora u centru za zaštitu &amp; usklađenosti sustava Office 365](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
+Ako ne možete pronaći web-mjesto koje možda želite [pretražiti &amp; zapisnik nadzora u Centru za sigurnosnu usklađenost sustava Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**Napomena:** "Moderna" tima web stranice nisu vidljivi u **klasičnom** SHAREPOINT admin UI. Popisu "modernih" web-mjesta možete pristupiti iz [novog centra za administraciju sustava SharePoint](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**Napomena:** "Moderna" timska web-mjesta nisu vidljiva u **klasičnom** korisničkom upravu za administratore sustava SharePoint. Možete pristupiti popisu "modernih" web-mjesta iz centra za [administratore sustava New Sharepoint](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 

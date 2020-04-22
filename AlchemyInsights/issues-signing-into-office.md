@@ -1,5 +1,5 @@
 ---
-title: Potpisivanje Office apps problemi
+title: Problemi s prijavom u aplikacije sustava Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 3622a3408b25b43090e9414ae5ffcfc2760264ee
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938158"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762971"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Potpisivanje Office apps problemi
+# <a name="issues-signing-in-to-office-apps"></a>Problemi s prijavom u aplikacije sustava Office
 
-Da biste riješili probleme za prijavu s Office apps, pokušajte sljedeće:
+Da biste riješili probleme s prijavom u aplikacije sustava Office, pokušajte sljedeće:
 
-- Uklonite sve račune rad, osim zahvaćeni račun pomoću Windows postavke > **pristup poslu ili u školi**.
-- [Očisti Office vjerodajnice](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomoću Windows upravitelj vjerodajnica.<br/>
-    **Napomena:** Putova registra za Office 2016 ste promijenili 16.0. (Prije: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Otvorite Office app, odaberite **datoteku** > **račun** > **Odjava**. Zatim prijavite putem korisničkog računa s valjanu licencu. Za detaljnije informacije pogledajte [račune u Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Za Mac, vidjeti [ne mogu prijaviti u 2016 Office za Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
-- Ako dođe do pogreške pri povezivanju s Office 365 pomoću Office 2013, omogućiti Moderna provjeru autentičnosti klijenta sustava Office.
+- Uklonite sve poslovne račune, osim zahvaćenog računa, pomoću postavki sustava Windows > **Access work ili school**.
+- [Izbrišite vjerodajnice sustava Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomoću upravitelja vjerodajnica sustava Windows.<br/>
+    **Napomena:** Putovi registra za Office 2016 promijenili su se u 16.0. (npr.: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Otvorite aplikaciju sustava Office, odaberite > **Odjava****računa datoteke** **File** > . Zatim se prijavite pomoću korisničkog računa s valjanom licencom. Detaljne informacije potražite u članku [Računi u sustavu Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Za Mac pročitajte [Nije moguća prijava u aplikaciju sustava Office 2016 za Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Ako se pojave pogreške tijekom povezivanja sa sustavom Microsoft 365 pomoću sustava Office 2013, omogućite modernu provjeru autentičnosti za klijent sustava Office.
 
-Dodatne informacije potražite u sljedećem članku:
-- [Ne možete se prijaviti na Office 365, Azure ili Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Povezivanjem u prijavu nakon ažuriranja za Office 2016 build 16.0.7967 na Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Nažalost, drugi račun iz vaše organizacije već prijavljeni na ovom računalu" u Officeu](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [Rješavanje problema u znak s Office Moderna provjere autentičnosti kada koristite ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+Dodatne informacije potražite u sljedećim člancima:
+- [Ne možete se prijaviti u Microsoft 365, Azure ili Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+- [Problemi s povezivanjem prilikom prijave nakon ažuriranja za Office 2016 build 16.0.7967 u sustavu Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
+- ["Nažalost, drugi račun vaše tvrtke ili ustanove već je prijavljen na ovom računalu" u sustavu Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
+- [Otklanjanje poteškoća s prijavom pomoću moderne provjere autentičnosti sustava Office kada koristite ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)

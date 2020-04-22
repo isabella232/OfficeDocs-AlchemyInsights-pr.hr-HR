@@ -1,9 +1,9 @@
 ---
-title: Izlazna e-pošta u mapu bezvrijedne e-pošte
+title: Izlazna e-pošta u mapu Bezvrijedna e-pošta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 371d2c46e9048365fd343145330536bd9cf1db82
-ms.sourcegitcommit: 1002f510fadb92c143cd6bbb60b42a851d5a38e1
+ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37062748"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761160"
 ---
-# <a name="outbound-email-to-junk-email-folder"></a>Izlazna e-pošta u mapu bezvrijedne e-pošte
+# <a name="outbound-email-to-junk-email-folder"></a>Izlazna e-pošta u mapu Bezvrijedna e-pošta
 
-Ako ste vidjeli izlazne poruke označene kao junk, učinite sljedeće:
+Ako vam se izlazne poruke označavaju kao Bezvrijedno, učinite sljedeće:
 
-- Ako već niste, razmotrite [Konfiguriranje obavijesti o izlaznim spam pravilima](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy).
+- Ako to već niste učinili, razmislite o [konfiguriranju obavijesti o odlaznim spam pravilima](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy).
 
-- Koristite [trag poruke](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) da biste vidjeli ima li izlazna poruka **neželjenu** vrijednost događaja uz dodatni detalj: **koristite bazen visokog rizika za isporuku**.
+- Upotrijebite [praćenje poruka](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) da biste vidjeli ima li izlazna poruka vrijednost događaja **Neželjena pošta** s dodatnim pojedinostima: **Koristite skup za isporuku visokog rizika**.
 
-  Za ove poruke provjerite sadržaj poruke da biste vidjeli što se može smatrati spam. Na primjer, potpisi ponekad mogu uzrokovati probleme za mnoge korisnike.
+  Za te poruke provjerite sadržaj poruke da biste vidjeli što se može smatrati neželjenom poštom. Na primjer, potpisi ponekad mogu uzrokovati probleme za mnoge korisnike.
 
-  Ako imate više primjera zakonitih izlaznih poruka koje su označene kao junk, otvorite ulaznicu za podršku i zatražite od agenta za podršku da vaše poruke šalju kao lažne pozitivne na naše neželjene analitičare. Budite spremni pružiti ogledne poruke koje uključuju sva zaglavlja poruka.
+  Ako imate više primjera legitimnih izlaznih poruka koje se označavaju kao Bezvrijedno, otvorite ulaznicu za podršku i zamolite agenta za podršku da pošalje vaše poruke kao lažno pozitivne poruke našim analitičarima neželjene pošte. Budite spremni pružiti ogledne poruke koje uključuju sva zaglavlja poruka.

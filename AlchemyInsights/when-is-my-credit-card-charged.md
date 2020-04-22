@@ -1,9 +1,9 @@
 ---
-title: Kada se naplaćuje kreditne kartice?
+title: Kada se moja kreditna kartica naplaćuje?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: ba7ee6b1b683c04454e024e9c167fbdc91ea66b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558393"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765261"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Kada se naplaćuje kreditne kartice?
+# <a name="when-is-my-credit-card-charged"></a>Kada se moja kreditna kartica naplaćuje?
 
-S početnog nabave može potrajati do dva dana za trošak pojaviti.
+Uz početnu kupnju može potrajati i do dva dana da se naknada dogodi.
   
-Ponavljajući troškove dogoditi unutar jednog dana fakturu stvoren.
+Ponavljajući troškovi događaju se u roku od jednog dana od kreiranja fakture.
   
-Ako napunjenost ne uspije, sustav će nastaviti pokušaj podmiriti saldo preko sljedeći nekoliko tjedana. Provjerite ažuriranja plaćanja informacija u bilo kojem trenutku da biste osigurali sljedeći pokušaj trošak je uspješan. Dodatne informacije potražite u članku [Dodavanje, ažuriranje ili uklanjanje kreditnih kartica ili bankovnih računa u Office 365 poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Ako naboj ne uspije, sustav će nastaviti pokušavati podmiriti ravnotežu tijekom sljedećih nekoliko tjedana. U bilo kojem trenutku možete ažurirati podatke o plaćanju da biste osigurali da je sljedeći pokušaj naplate uspješan. Dodatne informacije [potražite u odjeljku Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili bankovnog računa u sustavu Microsoft 365 za tvrtke](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

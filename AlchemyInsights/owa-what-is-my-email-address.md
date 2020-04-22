@@ -3,23 +3,23 @@ title: Koja je moja adresa e-pošte u programu Outlook na webu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 0dffe1ca5aaf9627869db9d8f7ba50343edb7753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f06176a4695d46bf3f8386be1a77705abf187112
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555621"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768177"
 ---
 # <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Koja je moja adresa e-pošte u programu Outlook na webu?
 
-Adresa e-pošte je dodijelio vam rad ili školi. Izgleda kao ellen@contoso.onmicrosoft.com, ellen@contoso.edu ili ellen@contoso.com. Ovaj račun poslu ili u školi je adresa e-pošte i računa koji koristite za prijavu na Office 365 za rad ili školi.
+Vašu adresu e-pošte dodjeljuje vam vaša radna funkcija ili škola. Izgleda kao ellen@contoso.onmicrosoft.com, ellen@contoso.edu ili ellen@contoso.com. Ovaj račun tvrtke ili obrazovne ustanove adresa je e-pošte i računa koji koristite za prijavu u Microsoft 365 za posao ili školu.
 
-Poslu ili u školi računa razlikuje se od Microsoftova računa. Microsoftova računa koristiti za osobne usluge poput Outlook.com, Xbox Live, servisa Skype i više.
+Račun tvrtke ili obrazovne ustanove razlikuje se od Microsoftova računa. Microsoftov račun koristite za osobne servise kao što su Outlook.com, Xbox Live, Skype i još mnogo toga.
 
-Za dodatne informacije pogledajte [što je korisnički ID i Zašto mi je potrebna za Office 365 za poslovne?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+Dodatne informacije potražite u [odjeljku Što je moj korisnički ID i zašto mi je potreban za Microsoft 365 za tvrtke?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)

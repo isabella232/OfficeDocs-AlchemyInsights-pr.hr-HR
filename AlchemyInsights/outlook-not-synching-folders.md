@@ -1,9 +1,9 @@
 ---
-title: Outlook nije sinkroniziranje mapa
+title: Outlook ne sinkronizira mape
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557313"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768681"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook nije sinkroniziranje mapa
+# <a name="outlook-not-synching-folders"></a>Outlook ne sinkronizira mape
 
-Ako Outlook nije sinkroniziranje mape prema očekivanjima, postoje neke stvari koje možete pokušati riješiti taj problem.
+Ako Outlook ne sinkronizira mape prema očekivanom, možete ih pokušati ispraviti.
 
-1. Smanjite broj mapa u poštanskom sandučiću primarno ili zajednički. [Pogledajte Outlook kada postoji previše stavki ili mape u .ost načinu Cached ili mapu .pst datoteke problemi s performansama](https://support.microsoft.com/help/2768656).
-2. Onemogućiti predmemoriranje sve zajedničke mape.
-3. Promijenite konfiguraciju sekundarni poštanski sandučić sustava Exchange drugi račun sustava Exchange u profilu.
+1. Smanjite broj mapa u primarnom ili zajedničkom poštanskom sandučiću. [Pogledajte probleme s performansama programa Outlook kada postoji previše stavki ili mapa u mapi predmemorirane datoteke .ost ili .pst .](https://support.microsoft.com/help/2768656)
+2. Onemogućite predmemoriranje svih zajedničkih mapa.
+3. Promijenite konfiguraciju sekundarnog poštanskog sandučića sustava Exchange na drugi račun sustava Exchange na svom profilu.
 
-Za dodatne informacije pogledajte [performanse i sinkronizacije probleme kada rad s mapama u sekundarni poštanski sandučić u programu Outlook](https://support.microsoft.com/help/3115602).
+Dodatne informacije [potražite u odjeljku Problemi s performansama i sinkronizacijom kada radite s mapama u sekundarnom poštanskom sandučiću u programu Outlook](https://support.microsoft.com/help/3115602).

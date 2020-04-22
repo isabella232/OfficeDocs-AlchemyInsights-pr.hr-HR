@@ -1,5 +1,5 @@
 ---
-title: Prijelaz na drugu tarifu za Office 365 za tvrtke
+title: Prijelaz na drugi plan za Microsoft 365 za tvrtke
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547990"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763785"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Prijelaz na drugu tarifu za Office 365 za tvrtke
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Prijelaz na drugu pretplatu na Microsoft 365 za tvrtke
 
-Kada se vaša tvrtka promijeni ili vam je potrebno više značajki sustava Office 365, možete nadograditi na novu tarifu.
+Kada se vaša tvrtka promijeni ili vam je potrebno više značajki, možete nadograditi na novi plan.
   
 1. U centru za administratore idite na **Proizvodi za \> naplatu & [usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 

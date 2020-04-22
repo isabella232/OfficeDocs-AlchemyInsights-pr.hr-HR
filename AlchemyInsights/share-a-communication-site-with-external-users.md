@@ -1,32 +1,32 @@
 ---
-title: Dijeljenje web-mjesta komunikacije s vanjskim korisnicima
+title: Zajedničko korištenje komunikacijskog web-mjesta s vanjskim korisnicima
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 393ee0bb9c5ac01f2d948b1a772c7b9915caed87
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 38eaa55db49f3c6f38da42605f4180e60ebb6349
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054153"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767493"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Dijeljenje web-mjesta komunikacije s vanjskim korisnicima
+# <a name="share-a-communication-site-with-external-users"></a>Zajedničko korištenje komunikacijskog web-mjesta s vanjskim korisnicima
 
-Da biste uključili vanjsko dijeljenje korisnika za web-mjesta komunikacije, slijedite ove korake: 
+Da biste uključili zajedničko korištenje vanjskog korisnika za web-mjesta za komunikaciju, slijedite ove korake: 
   
-1. Otvorite **moderni centar za administraciju** -ako ste u klasičnom administratorskom centru, vidjet ćete da je **Pokušajte sada** ili * * pokušajte pretpregled * * gumb od vrha desno. To će vas odvesti do centra modernog administratora. 
+1. Otvorite **moderni centar za administratore** – ako se nalazite u klasičnom centru za administratore, u gornjem desnom kutu prikazat će se gumb **Pokušaj** izpretpregleda **. To će vas odvesti do Modern Admin Center. 
   
-2. Odaberite **aktivna web-mjesta.**
+2. Odaberite **Aktivna web-mjesta.**
   
-3. Odaberite web-mjesto koje ima **predložak web-mjesta komunikacije**. 
+3. Odaberite web-mjesto koje ima **predložak komunikacijskog web-mjesta**. 
   
-4. Na gornjem izborniku odaberite gumb za **dijeljenje** . 
+4. Odaberite gumb **Dijeljenje** na gornjem izborniku. 
   
- **Napomena:** Ako ste odabrali više od jednog web-mjesta, gumb za **dijeljenje** pojavit će se onemogućeno. Odaberite samo jedno web-mjesto. 
+ **Napomena:** Ako ste odabrali više od jednog web-mjesta, gumb **Zajedničko korištenje** pojavit će se onemogućen. Odaberite samo jedno web-mjesto. 
   
 

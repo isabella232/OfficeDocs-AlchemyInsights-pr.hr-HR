@@ -1,8 +1,8 @@
 ---
-title: Instalacija visi ili se zaglavi
+title: Instalacija visi ili zaglavi
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 710fc06c37d5c5cd378929a6cc50f7069104eb8f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735417"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763246"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Instalacija sustava Office visi ili se zaglavi
+# <a name="office-installation-hangs-or-gets-stuck"></a>Instalacija sustava Office visi ili zaglavi
 
-To se ponašanje može vidjeti zbog mrežne povezanosti, antivirusnog softvera ili postavki Windows Update na računalu. Ovdje su neke stvari koje možete pokušati riješiti problem.
+To se može ponašanje pojaviti zbog mrežne povezivosti, antivirusnog softvera ili postavki servisa Windows Update na računalu. Evo nekoliko stvari koje možete pokušati riješiti problem.
   
-- Ponovno pokrenite računalo i provjerite je li Office instaliran
+- Ponovno pokretanje računala i provjera je li instaliran sustav Office
 
 - Korištenje ožičene veze
 
-- Ako ste na sporu internetsku vezu, instalirajte Office [pomoću izvanmrežnog instalacijskog programa Officea](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- Ako ste na sporoj internetskoj vezi, instalirajte Office [pomoću izvanmrežnog instalacijskog programa sustava Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Privremeno Isključivanje protuvirusnog softvera
+- Privremeno isključivanje antivirusnog softvera
 
-- Pokretanje internetskog popravka s upravljačke ploče
+- Pokretanje mrežnog popravka s upravljačke ploče
 
 - Uklanjanje i ponovna instalacija sustava Office
 
-[Ured traje dugo instalirati](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Instalacija sustava Office traje dulje](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   
