@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: 6877c073ed366ba0d464a076c6aec5acb3477d22
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: d80f48ae5a791e30a85e23478424bc836b5da4e6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600088"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713926"
 ---
-# <a name="microsoft-stream-licensing-overview"></a><span data-ttu-id="3b188-102">Pregled licenciranja za Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="3b188-102">Microsoft Stream Licensing overview</span></span>
+# <a name="microsoft-stream-licensing-overview"></a><span data-ttu-id="2983b-102">Pregled licenciranja za Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="2983b-102">Microsoft Stream Licensing overview</span></span>
 
-<span data-ttu-id="3b188-103">Microsoft Stream je usluga u oblaku licencirana po korisnikovoj pretplati.</span><span class="sxs-lookup"><span data-stu-id="3b188-103">Microsoft Stream is a cloud service licensed on a per user subscription basis.</span></span> <span data-ttu-id="3b188-104">Dostupan je kao dio pretplata na Office 365 koji ispunjavaju uvjete.</span><span class="sxs-lookup"><span data-stu-id="3b188-104">It is available as part of eligible Office 365 subscriptions.</span></span> <span data-ttu-id="3b188-105">Informacije o svakoj vrsti pretplate potražite u članku Određivanje cijena sustava Office 365.</span><span class="sxs-lookup"><span data-stu-id="3b188-105">See Office 365 pricing for information on each subscription type.</span></span>
+<span data-ttu-id="2983b-103">Microsoft Stream je usluga u oblaku licencirana po korisnikovoj pretplati.</span><span class="sxs-lookup"><span data-stu-id="2983b-103">Microsoft Stream is a cloud service licensed on a per user subscription basis.</span></span> <span data-ttu-id="2983b-104">Dostupan je kao dio pretplata na Microsoft 365 koji ispunjavaju uvjete.</span><span class="sxs-lookup"><span data-stu-id="2983b-104">It is available as part of eligible Microsoft 365 subscriptions.</span></span> <span data-ttu-id="2983b-105">Informacije o svakoj vrsti pretplate potražite u članku Cijene sustava Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="2983b-105">See Microsoft 365 pricing for information on each subscription type.</span></span>
 
-- [<span data-ttu-id="3b188-106">Pregled licenciranja za Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="3b188-106">Microsoft Stream Licensing overview</span></span>](https://docs.microsoft.com/stream/license-overview)
+- [<span data-ttu-id="2983b-106">Pregled licenciranja za Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="2983b-106">Microsoft Stream Licensing overview</span></span>](https://docs.microsoft.com/stream/license-overview)

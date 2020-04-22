@@ -1,9 +1,9 @@
 ---
-title: Ne prisiljavati me na nadogradnju. Kako se vratiti na prethodnu verziju sustava Office?
+title: Ne tjeraj me da nadogradi. Kako se vratiti na prethodnu verziju sustava Office?
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: 4caf3e3c3a72b2ae59bb13982a2e45c53a7911f2
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 6d8f0dc4abe2782567f1d36455be2ce747b20fab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052857"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714834"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a><span data-ttu-id="d950f-103">Ne prisiljavati me na nadogradnju.</span><span class="sxs-lookup"><span data-stu-id="d950f-103">Don't force me to upgrade.</span></span> <span data-ttu-id="d950f-104">Kako se vratiti na prethodnu verziju sustava Office?</span><span class="sxs-lookup"><span data-stu-id="d950f-104">How do I go back to the previous Office version?</span></span>
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a><span data-ttu-id="2aded-103">Ne tjeraj me da nadogradi.</span><span class="sxs-lookup"><span data-stu-id="2aded-103">Don't force me to upgrade.</span></span> <span data-ttu-id="2aded-104">Kako se vratiti na prethodnu verziju sustava Office?</span><span class="sxs-lookup"><span data-stu-id="2aded-104">How do I go back to the previous Office version?</span></span>
 
-<span data-ttu-id="d950f-105">Prilikom otvaranja Officeove datoteke, probna verzija aplikacije sustava Office može se otvoriti, umjesto druge verzije.</span><span class="sxs-lookup"><span data-stu-id="d950f-105">When opening an Office file, the trial version of an Office app may open, instead of another version.</span></span> <span data-ttu-id="d950f-106">To će se dogoditi ako imate Office 365 suđenje.</span><span class="sxs-lookup"><span data-stu-id="d950f-106">This will happen if you have the Office 365 trial.</span></span>
+<span data-ttu-id="2aded-105">Prilikom otvaranja datoteke sustava Office može se otvoriti probna verzija aplikacije sustava Office, a ne drugu verziju.</span><span class="sxs-lookup"><span data-stu-id="2aded-105">When opening an Office file, the trial version of an Office app may open, instead of another version.</span></span> <span data-ttu-id="2aded-106">To će se dogoditi ako imate probnu verziju sustava Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="2aded-106">This will happen if you have the Microsoft 365 trial.</span></span>
   
-<span data-ttu-id="d950f-107">Nakon instalacije Office 365 suđenja, 2016 probnu verziju aplikacija instaliraju.</span><span class="sxs-lookup"><span data-stu-id="d950f-107">When you install the Office 365 trial, the 2016 trial version of the apps are installed.</span></span> <span data-ttu-id="d950f-108">Ove probne verzije postaju zadane za otvaranje datoteka programa Word, Excel i PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="d950f-108">These trial versions become the default for opening Word, Excel, and PowerPoint files.</span></span> <span data-ttu-id="d950f-109">Na primjer, ako imate Excel 2013 instaliran i vi također instalirali Office 365 suđenje, onda će se vaše radne knjige otvoriti u probna verzija Excela 2016.</span><span class="sxs-lookup"><span data-stu-id="d950f-109">For example, if you have Excel 2013 installed and you also installed the Office 365 trial, then your workbooks will open in the trial version of Excel 2016.</span></span>
+<span data-ttu-id="2aded-107">Kada instalirate probnu verziju Microsoft 365, 2016 probna verzija aplikacija su instalirani.</span><span class="sxs-lookup"><span data-stu-id="2aded-107">When you install the Microsoft 365 trial, the 2016 trial version of the apps are installed.</span></span> <span data-ttu-id="2aded-108">Te probne verzije postaju zadane za otvaranje datoteka programa Word, Excel i PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="2aded-108">These trial versions become the default for opening Word, Excel, and PowerPoint files.</span></span> <span data-ttu-id="2aded-109">Na primjer, ako imate instaliran Excel 2013 i instalirali ste probnu verziju sustava Microsoft 365, radne knjige će se otvoriti u probnoj verziji programa Excel 2016.</span><span class="sxs-lookup"><span data-stu-id="2aded-109">For example, if you have Excel 2013 installed and you also installed the Microsoft 365 trial, then your workbooks will open in the trial version of Excel 2016.</span></span>
   
-<span data-ttu-id="d950f-110">Ako imate taj problem, možete [deinstalirati](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016 aplikacije i koristiti starije verzije aplikacija koje ste već instalirali.</span><span class="sxs-lookup"><span data-stu-id="d950f-110">If you have this problem, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the 2016 apps, and use the older versions of the apps you already have installed.</span></span> <span data-ttu-id="d950f-111">Ili možete [deinstalirati](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) starije verzije aplikacija i nadograditi na novije verzije uključene u Office 365.</span><span class="sxs-lookup"><span data-stu-id="d950f-111">Or, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the older versions of the apps and upgrade to the newer versions included with Office 365.</span></span>
+<span data-ttu-id="2aded-110">Ako imate taj problem, možete [deinstalirati](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) aplikacije 2016 i koristiti starije verzije aplikacija koje ste već instalirali.</span><span class="sxs-lookup"><span data-stu-id="2aded-110">If you have this problem, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the 2016 apps, and use the older versions of the apps you already have installed.</span></span> <span data-ttu-id="2aded-111">Možete i [deinstalirati](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) starije verzije aplikacija i nadograditi na novije verzije obuhvaćene sustavom Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="2aded-111">Or, you can [uninstall](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) the older versions of the apps and upgrade to the newer versions included with Microsoft 365.</span></span>

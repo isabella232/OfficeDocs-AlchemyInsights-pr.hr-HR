@@ -1,9 +1,9 @@
 ---
-title: 712 pretvaranje popisa raspodjele u grupu sustava Office 365
+title: 712 Pretvaranje popisa raspodjele u grupu sustava Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0aa4928b33c75051c7210e88098555b82e130fd5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738333"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715732"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="f8b46-102">Pretvaranje grupe raspodjele u Officeovu grupu 365</span><span class="sxs-lookup"><span data-stu-id="f8b46-102">Convert a distribution group to an Office 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a><span data-ttu-id="c827e-102">Pretvaranje grupe za raspodjelu u grupu sustava Office 365</span><span class="sxs-lookup"><span data-stu-id="c827e-102">Convert a distribution group to an Office 365 Group</span></span>
 
-<span data-ttu-id="f8b46-103">Grupe raspodjele možete pretvoriti u Office 365 grupe ako ispunjavaju određene kriterije.</span><span class="sxs-lookup"><span data-stu-id="f8b46-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="f8b46-104">Da biste pretvorili grupu ili otklonili poteškoće s pretvorbom, pogledajte [popise raspodjele nadogradnje na Office 365 Group u programu Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="f8b46-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>
+<span data-ttu-id="c827e-103">Grupe za raspodjelu možete pretvoriti u grupe sustava Office 365 ako zadovoljavaju određene kriterije.</span><span class="sxs-lookup"><span data-stu-id="c827e-103">You can convert distribution groups to Office 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="c827e-104">Da biste pretvorili grupu ili otklonili poteškoće s pretvorbom, pročitajte članak [Nadogradnja popisa raspodjele u grupe sustava Office 365 u programu Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="c827e-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Office 365 Groups in Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).</span></span>

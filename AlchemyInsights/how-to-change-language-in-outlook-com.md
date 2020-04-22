@@ -3,7 +3,7 @@ title: Kako promijeniti jezik u Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3352bf86e926bf4242a2826b773b1d7cf4ac4faf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36541658"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711263"
 ---
-# <a name="change-your-language"></a><span data-ttu-id="f865d-102">Promjena jezika</span><span class="sxs-lookup"><span data-stu-id="f865d-102">Change your language</span></span>
+# <a name="change-your-language"></a><span data-ttu-id="1f371-102">Promjena jezika</span><span class="sxs-lookup"><span data-stu-id="1f371-102">Change your language</span></span>
 
-1. <span data-ttu-id="f865d-103">Da biste pregledali jezik u programu Outlook, idite na postavke [**jezika i vremena**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Postavke** \> **Prikaz svih postavki** > programa Outlook**Opći** > **jezik i vrijeme**).</span><span class="sxs-lookup"><span data-stu-id="f865d-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
+1. <span data-ttu-id="1f371-103">Da biste promijenili jezik u programu Outlook, idite na Postavke [**jezika i vremena**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) **(Postavke** \> **Prikaz svih postavki programa** > Outlook**Opći** > **jezik i vrijeme).**</span><span class="sxs-lookup"><span data-stu-id="1f371-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
 
-2. <span data-ttu-id="f865d-104">Odaberite svoj jezik.</span><span class="sxs-lookup"><span data-stu-id="f865d-104">Choose your language.</span></span>
+2. <span data-ttu-id="1f371-104">Odaberite svoj jezik.</span><span class="sxs-lookup"><span data-stu-id="1f371-104">Choose your language.</span></span>
 
-3. <span data-ttu-id="f865d-105">Odaberite **Spremi**.</span><span class="sxs-lookup"><span data-stu-id="f865d-105">Select **Save**.</span></span>
+3. <span data-ttu-id="1f371-105">Odaberite **Spremi**.</span><span class="sxs-lookup"><span data-stu-id="1f371-105">Select **Save**.</span></span>
 
-<span data-ttu-id="f865d-106">Da biste saznali više, pogledajte [promjenu vremenske zone i jezične postavke u Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="f865d-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
+<span data-ttu-id="1f371-106">Dodatne informacije [potražite u odjeljku Promjena postavki vremenske zone i jezika u odjeljku Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="1f371-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>

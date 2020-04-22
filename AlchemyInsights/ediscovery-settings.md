@@ -1,31 +1,31 @@
 ---
-title: Postavke predočavanja elektroničkih dokumenata
+title: Postavke za otkrivanje elektroničkih dokumenata
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.assetid: ''
-ms.openlocfilehash: 756473fc94a4c68d5cb1f4c390ecb810c3a8cf89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528219"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714394"
 ---
-# <a name="ediscovery-settings"></a><span data-ttu-id="9f182-102">Postavke predočavanja elektroničkih dokumenata</span><span class="sxs-lookup"><span data-stu-id="9f182-102">Ediscovery settings</span></span>
+# <a name="ediscovery-settings"></a><span data-ttu-id="ffc1e-102">Postavke za otkrivanje elektroničkih dokumenata</span><span class="sxs-lookup"><span data-stu-id="ffc1e-102">Ediscovery settings</span></span>
 
-<span data-ttu-id="9f182-103">obveza predočavanja elektroničkih dokumenata sadržaja pretraživanja u sustavu Office 365 omogućuju pretraživali, držite i izvoz sadržaja iz Exchange Online poštanski sandučići SharePoint Online i OneDrive mjestima poslovnom servisa Skype za razgovore Business, Microsoft Teams i grupe za Office 365.</span><span class="sxs-lookup"><span data-stu-id="9f182-103">eDiscovery/Content searches in Office 365 allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
+<span data-ttu-id="ffc1e-103">Predočavanje elektroničkih dokumenata/pretraživanje sadržaja omogućuje vam pretraživanje, držanje i izvoz sadržaja iz poštanskih sandučića sustava Exchange Online, web-mjesta sustava SharePoint Online i OneDrive za tvrtke, razgovora programa Skype za tvrtke, microsoft teams i grupa sustava Office 365.</span><span class="sxs-lookup"><span data-stu-id="ffc1e-103">eDiscovery/Content searches allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
 
-- <span data-ttu-id="9f182-104">Ako tražite predočavanja elektroničkih dokumenata ili mogućnosti izbornika pretraživanja sadržaja, pogledajte [problemi predočavanja elektroničkih dokumenata](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span><span class="sxs-lookup"><span data-stu-id="9f182-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
-- <span data-ttu-id="9f182-105">Informirajte se o dozvole potrebne za izvođenje pretraživanja predočavanja elektroničkih dokumenata iz [dozvole potrebne za pretraživanja predočavanja elektroničkih dokumenata](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="9f182-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
-- <span data-ttu-id="9f182-106">Ako pretraživanje nije uputio očekivane rezultate, pogledajte [pretraživanje ne daje očekivane rezultate](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="9f182-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
+- <span data-ttu-id="ffc1e-104">Ako tražite mogućnosti izbornika Predočavanje elektroničkih dokumenata ili Pretraživanja sadržaja, pogledajte [Problemi s predočavanjem elektroničkih dokumenata](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span><span class="sxs-lookup"><span data-stu-id="ffc1e-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
+- <span data-ttu-id="ffc1e-105">Saznajte više o dozvolama potrebnima za pretraživanje predočavanja elektroničkih dokumenata iz [dozvola potrebnih za pretraživanja predočavanja elektroničkih dokumenata](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="ffc1e-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
+- <span data-ttu-id="ffc1e-106">Ako pretraživanje ne vraća očekivane rezultate, pročitajte u [odjeljku Pretraživanje koje ne vraća očekivane rezultate](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="ffc1e-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
 
-<span data-ttu-id="9f182-107">Dodatne informacije o predočavanja elektroničkih dokumenata u sustavu Office 365 pogledajte [predočavanja elektroničkih dokumenata u sustavu Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="9f182-107">For more information on ediscovery in Office 365, see [Ediscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
+<span data-ttu-id="ffc1e-107">Dodatne informacije o otkrivanju elektroničkih [dokumenata potražite u odjeljku Otkrivanje e-dokumenata](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="ffc1e-107">For more information on ediscovery, see [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>

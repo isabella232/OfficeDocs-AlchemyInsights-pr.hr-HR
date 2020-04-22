@@ -1,8 +1,8 @@
 ---
-title: Incident servis u tijeku
+title: Incident servisa u tijeku
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -17,19 +17,19 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: 4c139d72ca6370af1b28bfa9883669a7a1d4da88
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c9ce8d5cb969f20233565f778f3970b3ae77bd9c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551011"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716236"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="9ee95-102">Incident servis u tijeku</span><span class="sxs-lookup"><span data-stu-id="9ee95-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="ef464-102">Incident servisa u tijeku</span><span class="sxs-lookup"><span data-stu-id="ef464-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="9ee95-103">Možda utjecala po incident servisa ili advisory koja je trenutno u tijeku istražio.</span><span class="sxs-lookup"><span data-stu-id="9ee95-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="9ee95-104">Provjerite najnovije stanje odlaskom na stranicu [Servisa stanja](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="9ee95-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="ef464-103">Možda će utjecati na incident servisa ili savjetovanje koje se trenutno istražuje.</span><span class="sxs-lookup"><span data-stu-id="ef464-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="ef464-104">Najnoviji status možete provjeriti tako da odete na [stranicu Zdravlje servisa.](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="ef464-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="9ee95-105">Zbog praktičnosti, možete pronaći sažetak ovaj incident ispod:</span><span class="sxs-lookup"><span data-stu-id="9ee95-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="ef464-105">Radi vaše udobnosti, možete pronaći sažetak ovog incidenta u nastavku:</span><span class="sxs-lookup"><span data-stu-id="ef464-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="9ee95-106">**Broj incident:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="9ee95-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="ef464-106">**Broj incidenta:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="ef464-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
  
-> <span data-ttu-id="9ee95-107">Opis utjecati: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="9ee95-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="ef464-107">Opis učinka: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="ef464-107">Impact description: {ImpactDescription}</span></span>

@@ -1,5 +1,5 @@
 ---
-title: Problem s aktivacijom-trenutno se ne možemo povezati
+title: Problem s aktivacijom – trenutno se ne možemo povezati
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 84e3a7700558ad8a5fad5b7ded6354fe8736e0f7
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628234"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716164"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a><span data-ttu-id="59ca3-102">Popravljanje aplikacija sustava Office "ne možemo se odmah povezati" poruka</span><span class="sxs-lookup"><span data-stu-id="59ca3-102">Fixing the Office apps "We are unable to connect right now" message</span></span>
+# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a><span data-ttu-id="826af-102">Popravljanje poruke aplikacije sustava Office "Trenutno se ne možemo povezati"</span><span class="sxs-lookup"><span data-stu-id="826af-102">Fixing the Office apps "We are unable to connect right now" message</span></span>
 
-<span data-ttu-id="59ca3-103">Ako primite ovu poruku, pokušajte sljedeće:</span><span class="sxs-lookup"><span data-stu-id="59ca3-103">If you receive this message, try the following:</span></span>
+<span data-ttu-id="826af-103">Ako primite ovu poruku, pokušajte sljedeće:</span><span class="sxs-lookup"><span data-stu-id="826af-103">If you receive this message, try the following:</span></span>
 
-1. <span data-ttu-id="59ca3-104">Provjerite vatrozid, antivirusni softver i postavke proxyja da biste potvrdili da ne blokiraju pristup internetu aplikacijama sustava Office.</span><span class="sxs-lookup"><span data-stu-id="59ca3-104">Check your firewall, antivirus software, and proxy settings to confirm that they are not blocking Internet access to Office apps.</span></span> <span data-ttu-id="59ca3-105">Pogledajte [Office 365 URL-ove i IP adrese raspona](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span><span class="sxs-lookup"><span data-stu-id="59ca3-105">See [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span></span>
+1. <span data-ttu-id="826af-104">Provjerite postavke vatrozida, antivirusnog softvera i proxyja da biste potvrdili da ne blokiraju pristup internetu aplikacijama sustava Office.</span><span class="sxs-lookup"><span data-stu-id="826af-104">Check your firewall, antivirus software, and proxy settings to confirm that they are not blocking Internet access to Office apps.</span></span> <span data-ttu-id="826af-105">Pogledajte [Microsoftove URL-ove i raspone IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span><span class="sxs-lookup"><span data-stu-id="826af-105">See [Microsoft URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).</span></span>
 
-2. <span data-ttu-id="59ca3-106">Idite na **pokretanje** > **, a**zatim upišite **Services. msc**.</span><span class="sxs-lookup"><span data-stu-id="59ca3-106">Go to **Start** > **Run**, and then type **services.msc**.</span></span> <span data-ttu-id="59ca3-107">Provjerite jesu li sve sljedeće usluge pokrenite:</span><span class="sxs-lookup"><span data-stu-id="59ca3-107">Make sure that the following services are all running:</span></span>
-    - <span data-ttu-id="59ca3-108">Automatsko podešavanje uređaja povezanih s mrežom</span><span class="sxs-lookup"><span data-stu-id="59ca3-108">Network Connected Devices Auto-Setup</span></span>
-    - <span data-ttu-id="59ca3-109">Servis popisa mrežnih usluga</span><span class="sxs-lookup"><span data-stu-id="59ca3-109">Network List Service</span></span>
-    - <span data-ttu-id="59ca3-110">Svijest o mrežnom mjestu</span><span class="sxs-lookup"><span data-stu-id="59ca3-110">Network Location Awareness</span></span>
-    - <span data-ttu-id="59ca3-111">Zapisnik događaja u sustavu Windows</span><span class="sxs-lookup"><span data-stu-id="59ca3-111">Windows Event Log</span></span>
+2. <span data-ttu-id="826af-106">Idite na **Pokreni** > **,** a zatim upišite **services.msc**.</span><span class="sxs-lookup"><span data-stu-id="826af-106">Go to **Start** > **Run**, and then type **services.msc**.</span></span> <span data-ttu-id="826af-107">Provjerite jesu li pokrenuti sljedeći servisi:</span><span class="sxs-lookup"><span data-stu-id="826af-107">Make sure that the following services are all running:</span></span>
+    - <span data-ttu-id="826af-108">Automatsko postavljanje mrežnih povezanih uređaja</span><span class="sxs-lookup"><span data-stu-id="826af-108">Network Connected Devices Auto-Setup</span></span>
+    - <span data-ttu-id="826af-109">Usluga popisa mreža</span><span class="sxs-lookup"><span data-stu-id="826af-109">Network List Service</span></span>
+    - <span data-ttu-id="826af-110">Svijest o mrežnom mjestu</span><span class="sxs-lookup"><span data-stu-id="826af-110">Network Location Awareness</span></span>
+    - <span data-ttu-id="826af-111">Zapisnik događaja u sustavu Windows</span><span class="sxs-lookup"><span data-stu-id="826af-111">Windows Event Log</span></span>
 
-<span data-ttu-id="59ca3-112">Ako jedna od tih usluga nije pokrenut, pokušajte ga pokrenuti.</span><span class="sxs-lookup"><span data-stu-id="59ca3-112">If one of these services is not running, try to start it.</span></span> <span data-ttu-id="59ca3-113">Ako imate problem s započinjem servisa, pokrenite sljedeću naredbu otvaranjem naredbenog retka s povišenim dozvolama:</span><span class="sxs-lookup"><span data-stu-id="59ca3-113">If you have a problem starting the service, run the following command by opening a command prompt with elevated permissions:</span></span>
+<span data-ttu-id="826af-112">Ako se jedna od tih usluga ne izvodi, pokušajte ga pokrenuti.</span><span class="sxs-lookup"><span data-stu-id="826af-112">If one of these services is not running, try to start it.</span></span> <span data-ttu-id="826af-113">Ako imate problema s pokretanjem servisa, pokrenite sljedeću naredbu otvaranjem naredbenog retka s povišenim dozvolama:</span><span class="sxs-lookup"><span data-stu-id="826af-113">If you have a problem starting the service, run the following command by opening a command prompt with elevated permissions:</span></span>
 
-<span data-ttu-id="59ca3-114">**sfc/scannow**</span><span class="sxs-lookup"><span data-stu-id="59ca3-114">**sfc /scannow**</span></span>
+<span data-ttu-id="826af-114">**sfc / scannow**</span><span class="sxs-lookup"><span data-stu-id="826af-114">**sfc /scannow**</span></span>
 
-<span data-ttu-id="59ca3-115">Nakon završetka ove naredbe, ponovo pokrenite računalo.</span><span class="sxs-lookup"><span data-stu-id="59ca3-115">After this command finishes, restart the computer.</span></span>
+<span data-ttu-id="826af-115">Nakon dovršetka ove naredbe ponovo pokrenite računalo.</span><span class="sxs-lookup"><span data-stu-id="826af-115">After this command finishes, restart the computer.</span></span>
 
-<span data-ttu-id="59ca3-116">Detaljne informacije potražite u stranici ["Žao mi je, ne možemo se povezati s vašim računom. Pokušajte ponovno kasnije "pogreška kada aktivirate Office iz Officea 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).</span><span class="sxs-lookup"><span data-stu-id="59ca3-116">For detailed information, see ["Sorry, we can't connect to your account. Please try again later" error when you activate Office from Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).</span></span>
+<span data-ttu-id="826af-116">Detaljne informacije potražite u [odjeljku "Nažalost, ne možemo se povezati s vašim računom. Pokušajte ponovo kasnije" kada aktivirate Office iz sustava Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).</span><span class="sxs-lookup"><span data-stu-id="826af-116">For detailed information, see ["Sorry, we can't connect to your account. Please try again later" error when you activate Office from Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).</span></span>
