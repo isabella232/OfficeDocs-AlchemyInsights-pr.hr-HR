@@ -3,7 +3,7 @@ title: Rezultati revizije su prazni
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: dda79df5b48dba8ea954aee693caead7725b0f96
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36517419"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712414"
 ---
 # <a name="auditing-results-are-blank"></a>Rezultati revizije su prazni
 
  **Izvješća o reviziji za klasična web-mjesta**
   
-Da biste pregledali izvješće o reviziji za zbirku web-mjesta sustava SharePoint, morate biti administrator zbirke web-mjesta. Da biste se dodali kao administrator, pogledajte [Dodavanje administratora zbirke web-mjesta kao globalnog ili SharePoint admin](https://go.microsoft.com/fwlink/?linkid=869390). Informacije o radu s zapisniku nadzora potražite u [prikazu izvješća zapisnika nadzora](https://go.microsoft.com/fwlink/?linkid=395237). 
+Da biste prikazali izvješće o nadzoru za zbirku web-mjesta sustava SharePoint, morate biti administrator zbirke web-mjesta. Da biste se dodali kao administrator, [pročitajte članak Dodavanje administratora zbirke web-mjesta kao globalnog ili SharePoint administratora](https://go.microsoft.com/fwlink/?linkid=869390). Informacije o radu s zapisnikom nadzora potražite u odjeljku [Prikaz izvješća zapisnika nadzora](https://go.microsoft.com/fwlink/?linkid=395237). 
   
- **Pretraži dnevnik nadzora sustava Office 365**
+ **Pretraživanje zapisnika nadzora**
   
-Morate biti globalni administrator u sustavu Office 365 za rad s revizijskim zapisniku u centru za [sigurnost &amp; sukladnosti](https://protection.office.com). Prije nego što započnete, uključite zapisivanje nadzora. Zatim možete pokrenuti pretraživanje zapisnika revizije. 
+Da biste radili s zapisnikom nadzora u [ &amp; centru](https://protection.office.com)za usklađenost sigurnosti , morate biti globalni administrator . Prije početka uključite zapisivanje nadzora. Zatim možete pokrenuti pretraživanje zapisnika nadzora. 
   
-[Saznajte kako pretražiti zapisnik nadzora](https://go.microsoft.com/fwlink/?linkid=708432).
+[Saznajte kako pretraživati zapisnik nadzora](https://go.microsoft.com/fwlink/?linkid=708432).
   
 

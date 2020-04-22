@@ -1,9 +1,9 @@
 ---
-title: Identificiranje prosljeđivanje vanjski e-pošte na poštanskim sandučićima u zapisnika nadzora
+title: Prepoznavanje vanjskog prosljeđivanja e-pošte na poštanskim sandučićima u nadzornim zapisnicima
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,31 +12,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539093"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716452"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Prepoznati prilikom prosljeđivanja e-pošte vanjskog konfiguriran na poštanski sandučići
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Prepoznavanje kada je vanjsko prosljeđivanje e-pošte konfigurirano na poštanskim sandučićima
 
-Kada korisnik Office 365 konfigurira prosljeđivanje vanjski e-pošte na poštanski sandučić, aktivnost se nadzirati kao dio cmdlet **Set poštanskog sandučića** . Možete vidjeti aktivnosti pomoću pretraživanje zapisnika nadzora u & usklađenosti centar sigurnosti.
+Kada korisnik sustava Microsoft 365 konfigurira prosljeđivanje vanjske e-pošte na poštanskom sandučiću, aktivnost se nadzire kao dio cmdleta **Set-Mailbox.** Aktivnost možete vidjeti pomoću pretraživanja zapisnika nadzora u centru za & sigurnosti.
 
-1. Prijavite se u sustav [Office 365 sigurnosne & usklađenosti centar](https://protection.office.com/).
+1. Prijavite se u Centar za [sigurnost sustava Microsoft 365 & .](https://protection.office.com/)
 
-2. Idi na **pretraživanje** > stranicu za**pretraživanje zapisnika nadzora** .
+2. Idite na stranicu **za** > **pretraživanje zapisnika nadzora** pretraživanja.
 
-3. Odaberite raspon datum u polja **Datum početka** i **Datum završetka** . Ne morate navesti korisničko ime. Provjerite je li polje **aktivnosti** postavljeno na **Pokaži rezultate za sve aktivnosti**.
+3. Odaberite datumski raspon u poljima **Datum početka** i **Datum završetka.** Ne morate navesti korisničko ime. Provjerite je li polje **Aktivnosti** postavljeno na **Prikaži rezultate za sve aktivnosti**.
 
-4. Kliknite **Pretraži**.
+4. Kliknite **Pretraživanje**.
 
-U rezultatima pritisnite **Rezultate filtra** i upišite **Skup poštanskog sandučića** u okvir filtar aktivnost. Odaberite zapis nadzora u rezultatima. Potpaleta **pojedinosti** pritisnite **Dodatne informacije**. Imate pogledajte detalje svakog nadzora zapisa da biste ustanovili Ako aktivnost odnosi prosljeđivanja e-pošte.
+U rezultatima kliknite **Filtriraj rezultate** i u okvir filtra aktivnosti upišite Postavi **poštanski sandučić.** Odaberite zapis nadzora u rezultatima. U potpaleti **Detalji** kliknite **Dodatne informacije**. Morate pogledati pojedinosti svakog zapisa nadzora da biste utvrdili je li aktivnost povezana s prosljeđivanjem e-pošte.
 
-- **ID objekta**: vrijednost pseudonim poštanskog sandučića koja je izmijenjena.
+- **ObjectId**: Vrijednost pseudonima izmijenjenog poštanskog sandučića.
 
-- **Parametri**: _ForwardingSmtpAddress_ označava adresu e-pošte za cilj.
+- **Parametri**: _ForwardingSmtpAddress_ označava ciljnu adresu e-pošte.
 
-- **Korisnički ID**: korisnika koji je konfiguriran prosljeđivanja e-pošte na poštanskog sandučića u polju **ID objekta** .
+- **UserId**: Korisnik koji je konfigurirao prosljeđivanje e-pošte na poštanskom sandučiću u polju **ObjectId.**
 
-Za dodatne informacije pogledajte [Determining tko postaviti poštanski sandučić za prosljeđivanje e-pošte](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Dodatne informacije potražite u [odjeljku Određivanje tko je postavio prosljeđivanje e-pošte za poštanski sandučić](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).

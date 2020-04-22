@@ -1,8 +1,8 @@
 ---
-title: Praćenje korištenja i aktivnosti servisa OneDrive i SharePoint
+title: Nadzor korištenja i aktivnosti servisa OneDrive i sustava SharePoint
 ms.author: pebaum
 author: pebaum
-ms.date: 6/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 0eae0f18067d99fdc6bd9a61fcd97b4d690bc946
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 669599f5ab0195a05c290a2e857b60e1ea3165d8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052569"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713746"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Prikaz izvještaja o servisu OneDrive i aktivnosti i korištenju sustava SharePoint
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Prikaz izvješća o aktivnostima i korištenju servisa OneDrive i sustava SharePoint
 
-Idite na [stranicu izvješća o korištenju u centru za administraciju tvrtke Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). U odjeljku **Odabir izvješća**odaberite aktivnost servisa OneDrive ili SharePoint ili izvješće o korištenju.
+Idite na [stranicu Izvješća o korištenju u centru za administratore sustava Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). U **odjeljku Odabir izvješća**odaberite aktivnost ili izvješće o korištenju servisa OneDrive ili SharePoint.
   
-[Dodatne informacije o izvješćima o servisu OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
+[Dodatne informacije o izvješćima na servisu OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
   
 [Dodatne informacije o izvješćima sustava SharePoint](https://go.microsoft.com/fwlink/?linkid=875240)
   

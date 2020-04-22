@@ -1,9 +1,9 @@
 ---
-title: Ispravite probleme isporuke e-pošte javne mape
+title: Rješavanje problema s isporukom e-pošte u javne mape omogućene za poštu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: f7b5e5a230d26870d5e95e8762b5874f73723c6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525089"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716344"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Ispravite probleme isporuke e-pošte javne mape
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Rješavanje problema s isporukom e-pošte u javne mape omogućene za poštu
 
-Ako vanjskih pošiljatelja nije moguće slati poruke pošte omogućeno javne mape i pošiljatelji pogrešci: **ne može se pronaći (550 5.4.1)**, provjerite domena e-pošte za javnu mapu konfiguriran kao Interna preusmjeravanja domene umjesto programa Mjerodavne domene:
+Ako vanjski pošiljatelji ne mogu slati poruke u javne mape omogućene za poštu, a pošiljatelji primaju pogrešku: **nije moguće pronaći (550 5.4.1)**, provjerite je li domena e-pošte za javnu mapu konfigurirana kao interna domena prijenosa umjesto autoritativne domene:
 
-1. Otvorili [Centar za administraciju sustava Exchange (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. Otvorite [centar za administratore sustava Exchange (EAC).](https://docs.microsoft.com/Exchange/exchange-admin-center)
 
-2. Idi na **Protok e-pošte** \> **domena prihvaćeno**, odaberite domenom prihvaćene, a zatim kliknite **Uređivanje**.
+2. Idite na **Tijek** \> pošte **Prihvaćene domene**, odaberite prihvaćenu domenu, a zatim kliknite **Uredi**.
 
-3. U svojstvima stranice da otvara ako je vrsta domene za **Authoritative**, promijenite vrijednost **Interna preusmjeravanja** i kliknite **Spremi**.
+3. Na stranici svojstava koja se otvori, ako je vrsta domene postavljena na **Autoritativni**, promijenite vrijednost **u Unutarnji relej,** a zatim kliknite **Spremi**.
 
-Vanjskih pošiljatelja primanje pogreška **nemate dozvolu (550 5.7.13)**, pokrenite sljedeću naredbu u [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) da biste vidjeli dozvole za anonimne korisnike u javnu mapu:
+Ako vanjski pošiljatelji prime pogrešku **koju nemate dozvolu (550 5.7.13),** pokrenite sljedeću naredbu u [sustavu Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) da biste vidjeli dozvole za anonimne korisnike u javnoj mapi:
 
-`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`Na primjer, `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`.
+`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`Na primjer. `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`
 
-Dopustiti vanjskim korisnicima da šalju e-pošte javne mape, dodajte CreateItems access desno korisnik anonimno. Na primjer, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.
+Da biste vanjskim korisnicima omogućili slanje e-pošte u ovu javnu mapu, dodajte pristup CreateItems izravno korisniku Anonymous. Na primjer. `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`

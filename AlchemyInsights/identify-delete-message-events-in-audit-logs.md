@@ -1,9 +1,9 @@
 ---
-title: Odredite Brisanje poruke događaja u zapisnika nadzora
+title: Prepoznavanje događaja brisanja poruka u zapisnicima nadzora
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539201"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716488"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Evidencija nadzora za poruke e-pošte izbrisane
+# <a name="audit-logs-for-deleted-email-messages"></a>Nadzor zapisnika za izbrisane poruke e-pošte
 
-Početni 2019 siječanj, Microsoft je uključivanje zapisivanja po zadanom nadzor poštanskog sandučića. U suprotnom, za pregled brisanje poruka događaje za određenog korisnika, morate ručno omogućiti brisanje akcije za nadzor. Nadzor poštanskog sandučića zapisivanje već omogućeno za organizaciju ili za određenog korisnika, slijedite dolje navedene korake.
+Počevši od siječnja 2019, Microsoft po zadanom uključuje zapisivanje nadzora poštanskog sandučića. U suprotnom, da biste pregledali događaje brisanja poruka za određenog korisnika, morate ručno omogućiti akcije brisanja za nadzor. Ako je zapisivanje nadzora poštanskog sandučića već omogućeno za vašu tvrtku ili ustanovu ili za određenog korisnika, slijedite korake u nastavku.
 
-1. Prijavite se u sustav [Office 365 sigurnosne & usklađenosti centar](https://protection.office.com/)
+1. Prijava u Centar za [& sigurnosti sustava Microsoft 365](https://protection.office.com/)
 
-2. Kliknite **za pretraživanje i istraživanja** i odaberite **Pretraživanje zapisnika nadzora**.
+2. Kliknite **Pretraživanje i istraživanje** i odaberite Pretraživanje **zapisnika nadzora**.
 
-3. Odaberite raspon datum u polja **Datum početka** i **Datum završetka** . Navedite korisničko ime korisnika koji želite istražiti (korisnik koji izbrisane stavke). U polju **aktivnosti** odaberite **Izbrisane poruke iz mape Izbrisane stavke** i **Moved poruke u mapu Izbrisane stavke**.
+3. Odaberite datumski raspon u poljima **Datum početka** i **Datum završetka.** Navedite korisničko ime za korisnika kojeg želite istražiti (korisnika koji je izbrisao stavke). U polju **Aktivnosti** odaberite **Izbrisane poruke iz mape Izbrisane stavke** i **Premještene poruke u mapu Izbrisane stavke**.
 
-4. Kliknite **Pretraži**.
+4. Kliknite **Pretraživanje**.
 
-U rezultatima, odaberite nadzora zapisa. Potpaleta pojedinosti kliknite **Dodatne informacije**. Dodatne informacije o izbrisana stavka (na primjer, redak predmeta i mjesto artikla kada je izbrisana) prikazuje se u polju **AffectedItems** . Svojstvo **ClientInfoString** će prikazati ako brisanja došlo je do u programu Outlook, Outlook na webu (nekadašnjeg naziva Outlook Web App) ili drugi uređaj.
+U rezultatima odaberite zapis nadzora. U potpaleti pojedinosti kliknite **Dodatne informacije**. Dodatne informacije o izbrisanoj stavci (na primjer, retku predmeta i mjestu artikla prilikom brisanja) prikazuju se u polju **ZahvaćeniArtikli.** Svojstvo **ClientInfoString** prikazat će se je li došlo do brisanja u programu Outlook, programu Outlook na webu (ranije poznatom kao Outlook Web App) ili bilo kojem drugom uređaju.
 
-Za dodatne informacije pogledajte [Determining tko postaviti poštanski sandučić za prosljeđivanje e-pošte](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Dodatne informacije potražite u [odjeljku Određivanje tko je postavio prosljeđivanje e-pošte za poštanski sandučić](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
 
-**Napomena**: nije moguće dohvatiti izbrisane stavke pomoću značajke zapisnika nadzora. Dohvatiti izbrisane poruke u programu Outlook na webu potražite [Oporavi izbrisane stavke u Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Napomena:** Izbrisane stavke ne možete dohvatiti pomoću značajke zapisnika nadzora. Da biste dohvatili izbrisane poruke u programu Outlook na webu, [pročitajte članak Oporavak izbrisanih stavki u web-aplikaciji Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

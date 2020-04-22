@@ -1,9 +1,9 @@
 ---
-title: Ispravljanje neuspjelog protoka
+title: Ispravljanje neuspjelog tijeka
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 465c4e9fe300eecb05b38abe589c8d845dc6e440
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36525201"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714106"
 ---
-# <a name="fix-a-flow-that-failed"></a>Ispravljanje toka koji nije uspio
+# <a name="fix-a-flow-that-failed"></a>Ispravljanje tijeka koji nije uspio
 
-1. Idite na [Microsoft Flow](https://flow.microsoft.com/)i kliknite ikonu obavijesti u gornjem desnom dijelu. (Ili u mobilnoj aplikaciji odaberite karticu aktivnost.) Odaberite tok koji nije uspio pogledati detalje.
+1. Idite na [Microsoft Flow](https://flow.microsoft.com/)i kliknite ikonu Obavijesti u gornjem desnom kutu. (Ili u mobilnoj aplikaciji odaberite karticu Aktivnost.) Odaberite tijek koji nije uspio pogledati detalje.
     
-2. Pronađite korak s crvenom ikonom uskličnika da biste vidjeli poruku o pogrešci za protok.
+2. Pronađite korak s crvenom ikonom uskličnika da biste vidjeli poruku o pogrešci za tijek.
     
-3. Ovisno o poruci o pogrešci, trebali biste moći urediti protok i popraviti ga. 
+3. Ovisno o poruci o pogrešci, trebali biste moći urediti tijek i popraviti ga. 
     
-[Uobičajeni nedostaci protoka](https://go.microsoft.com/fwlink/?linkid=872110)
+[Uobičajeni kvarovi protoka](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

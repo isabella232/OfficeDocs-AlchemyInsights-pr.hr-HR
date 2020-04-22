@@ -2,29 +2,29 @@
 title: Stvaranje web-mjesta za komunikaciju
 ms.author: pebaum
 author: pebaum
-ms.date: 11/13/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: cb5207ef7348f0c7728d2752d1a7196dc712b566
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: efd118352e2f7a137a489c69956b3eac11f1ffb7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049905"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715588"
 ---
 # <a name="create-a-communication-site"></a>Stvaranje web-mjesta za komunikaciju
 
-Da biste kreirali web-mjesto za komunikaciju u sustavu SharePoint Online, dovršite sljedeće korake: 
+Da biste stvorili web-mjesto za komunikaciju u sustavu SharePoint Online, poduzmite sljedeće korake: 
   
-1. U gornjem lijevom kutu stranice kliknite pokretač aplikacije i odaberite pločicu sustava SharePoint. Ako ne vidite pločicu sustava SharePoint, kliknite **web-mjesta** ili **sve aplikacije** ako SharePoint nije vidljiv. 
+1. U gornjem lijevom kutu stranice kliknite pokretač aplikacija i odaberite pločicu sustava SharePoint. Ako ne vidite pločicu sustava SharePoint, kliknite **Web-mjesta** ili **Sve aplikacije** ako SharePoint nije vidljiv. 
     
-2. Na vrhu SharePoint stranice kliknite **Stvori web-mjesto** i odaberite **web-mjesto komunikacije**. Slijedite korake u čarobnjaku za stvaranje web-mjesta. 
+2. Pri vrhu stranice sustava SharePoint kliknite **Stvori web-mjesto** i odaberite **Web-mjesto za komunikaciju**. Slijedite korake u čarobnjaku za stvaranje web-mjesta. 
     
- **Bilješka**: ako ne vidite mogućnost za **Stvaranje web-mjesta**, samoposlužno stvaranje web-mjesta može biti onemogućeno u Office 365. Obratite se osobi koja administriranja Office 365 u vašoj organizaciji za stvaranje timskog web-mjesta. Ako ste administrator klijenta, pogledajte [Upravljanje stvaranjem web-mjesta u sustavu SharePoint online da biste omogućili stvaranje samoposlužnog web-mjesta za vašu organizaciju.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Napomena**: Ako ne vidite opciju **za stvaranje web-mjesta,** samoposlužno stvaranje web-mjesta može biti onemogućeno. Da biste stvorili timsko web-mjesto, obratite se osobi koja upravlja sustavom Microsoft 365 u tvrtki ili ustanovi. Ako ste administrator klijenta, pročitajte članak [Upravljanje stvaranjem web-mjesta u sustavu SharePoint Online da biste omogućili samoposlužno stvaranje web-mjesta za svoju tvrtku ili ustanovu.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Napomena:** Ako pokušavate stvoriti web-mjesto za komunikaciju i URL se dodaje s slučajnim brojevima, vjerojatno je web-mjesto s istim URL-om već postoji u okruženju sustava SharePoint ili je izbrisano i još uvijek postoji u izbrisanim mjestima (koš za smeće). Koristite [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) za procjenu koša za smeće i [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) za uklanjanje web-mjesta iz koša za smeće. 
+ **Napomena:** Ako pokušavate stvoriti komunikacijsko web-mjesto, a URL se dodaje nasumičnim brojevima, vjerojatno web-mjesto s istim URL-om već postoji u okruženju sustava SharePoint ili je izbrisano i još uvijek postoji u izbrisanim web-mjestima (koš za smeće). Koristite [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) za procjenu koša za smeće i [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) uklanjanje web-mjesta iz koša za smeće. 
   
 

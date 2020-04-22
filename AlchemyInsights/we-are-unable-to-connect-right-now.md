@@ -1,5 +1,5 @@
 ---
-title: Problem s aktivacijom-trenutno se ne možemo povezati
+title: Problem s aktivacijom – trenutno se ne možemo povezati
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 84e3a7700558ad8a5fad5b7ded6354fe8736e0f7
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628234"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716164"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Popravljanje aplikacija sustava Office "ne možemo se odmah povezati" poruka
+# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Popravljanje poruke aplikacije sustava Office "Trenutno se ne možemo povezati"
 
 Ako primite ovu poruku, pokušajte sljedeće:
 
-1. Provjerite vatrozid, antivirusni softver i postavke proxyja da biste potvrdili da ne blokiraju pristup internetu aplikacijama sustava Office. Pogledajte [Office 365 URL-ove i IP adrese raspona](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Provjerite postavke vatrozida, antivirusnog softvera i proxyja da biste potvrdili da ne blokiraju pristup internetu aplikacijama sustava Office. Pogledajte [Microsoftove URL-ove i raspone IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Idite na **pokretanje** > **, a**zatim upišite **Services. msc**. Provjerite jesu li sve sljedeće usluge pokrenite:
-    - Automatsko podešavanje uređaja povezanih s mrežom
-    - Servis popisa mrežnih usluga
+2. Idite na **Pokreni** > **,** a zatim upišite **services.msc**. Provjerite jesu li pokrenuti sljedeći servisi:
+    - Automatsko postavljanje mrežnih povezanih uređaja
+    - Usluga popisa mreža
     - Svijest o mrežnom mjestu
     - Zapisnik događaja u sustavu Windows
 
-Ako jedna od tih usluga nije pokrenut, pokušajte ga pokrenuti. Ako imate problem s započinjem servisa, pokrenite sljedeću naredbu otvaranjem naredbenog retka s povišenim dozvolama:
+Ako se jedna od tih usluga ne izvodi, pokušajte ga pokrenuti. Ako imate problema s pokretanjem servisa, pokrenite sljedeću naredbu otvaranjem naredbenog retka s povišenim dozvolama:
 
-**sfc/scannow**
+**sfc / scannow**
 
-Nakon završetka ove naredbe, ponovo pokrenite računalo.
+Nakon dovršetka ove naredbe ponovo pokrenite računalo.
 
-Detaljne informacije potražite u stranici ["Žao mi je, ne možemo se povezati s vašim računom. Pokušajte ponovno kasnije "pogreška kada aktivirate Office iz Officea 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Detaljne informacije potražite u [odjeljku "Nažalost, ne možemo se povezati s vašim računom. Pokušajte ponovo kasnije" kada aktivirate Office iz sustava Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

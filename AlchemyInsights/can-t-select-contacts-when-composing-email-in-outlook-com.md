@@ -1,9 +1,9 @@
 ---
-title: Ne možete odabrati kontakte prilikom sastavljanja e-pošte u Outlook.com
+title: Nije moguće odabrati kontakte prilikom sastavljanja e-pošte u Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: b74cabb36a6214c81ba90004225e1c08eeb1b262
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d674538e9d84f47ab7ee51975e752ac24f6e1ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518607"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711659"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a>Ne možete odabrati kontakte prilikom sastavljanja e-pošte
+# <a name="cant-select-contacts-when-composing-email"></a>Nije moguće odabrati kontakte prilikom sastavljanja e-pošte
 
-Kada sastavljate novu e-poštu, neke kupce ne vidite svoj popis kontakata kada kliknite gumbe **Prima** ili **kopija** . Odaberite kontakt, počnite tipkati u **Prima** ili **kopija** polja i povezane kontakte će biti prikazan.
+Prilikom sastavljanja nove e-pošte neki korisnici ne vide svoj popis kontakata kada kliknu gumbe **Prima** ili **Kopija.** Da biste odabrali kontakt, počnite upisivati u polja **Prima** ili **Kopija** i prikazat će se povezani kontakti.

@@ -1,9 +1,9 @@
 ---
-title: Pogreška slanja e-pošte blokiran SpamHaus
+title: Pogreška pri slanju e-pošte koju je blokirao SpamHaus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 39213f6f1b96c2bef9ea071f43c38766debf64d1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ff4f7a155fe74f5b42a1bd43e67ef0a751d7fbd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527124"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714250"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Pogreška slanja e-pošte: klijent domaćin blokirane pomoću Spamhaus
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Pogreška pri slanju e-pošte: Glavno računalo klijenta blokirano je pomoću usluge Spamhaus
 
-IP adresu slanja poruke je na popisu blok vlasništvu [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Za blokira Spamhaus razlozi ugrožena račune ugrožena strojeva zajedničko korištenje javne IP adresa i pravila davatelj internetskih usluga (ISP). Mogući popravke su:
+IP adresa koja je poslala poruku nalazi se na popisu blokova u vlasništvu [Spamhausa](https://go.microsoft.com/fwlink/p/?linkid=123245). Razlozi za blokiranje u spamhausu uključuju ugrožene račune, kompromitirane strojeve koji dijele javnu IP adresu i pravila davatelja internetskih usluga (ISP- a). Mogući popravci su:
   
-- Blokirani ulaznih poruka za Office 365 gdje kontrolu izvorni poslužitelj e-pošte, morate odrediti uzrok i uklonite bloka s Spamhaus web-mjesta.
+- Za blokirane dolazne poruke u kojima upravljate izvornim poslužiteljem e-pošte morate odrediti uzrok i ukloniti blok s web-mjesta Spamhaus.
 
-- Blokirani ulaznih poruka za Office 365 gdje IP adresu izvora pripada nekom drugom, vlasnik adresa mora ukloniti bloka s Spamhaus web-mjesta. Ako je IP adresa na na pravila blok popisa (PBL), vlasnik možete dodijeliti različite statička IP adresa ili uklanjanje adresu u PBL.
+- Za blokirane dolazne poruke gdje izvorNA IP adresa pripada nekome drugome, vlasnik adrese mora ukloniti blok s web-mjesta Spamhaus. Ako se IP adresa nalazi na popisu blokiranih pravila (PBL), vlasnik može dodijeliti drugu statičku IP adresu ili ukloniti adresu iz PBL-a.
 
-- Za blokirane izlaznog poruke iz domenu Office 365, možete primati ovu pogrešku ako poruke usmjeravaju kroz 3 servis proizvođača. Alat za pronalaženje WHOIS možete koristiti za pronalaženje blokirani vlasnik IP adresu.
+- Za blokirane izlazne poruke s domene povezane s Microsoftom možete primiti ovu pogrešku ako se poruke usmjeravaju putem servisa treće strane. Pomoću whois alata za pretraživanje možete pronaći vlasnika blokirane IP adrese.

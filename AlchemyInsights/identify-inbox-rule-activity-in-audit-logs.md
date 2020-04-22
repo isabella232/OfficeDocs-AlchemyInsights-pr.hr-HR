@@ -1,9 +1,9 @@
 ---
-title: Identificiranje Primljeno pravilo aktivnost u zapisnika nadzora
+title: Utvrđivanje aktivnosti pravila ulazne pošte u zapisnicima nadzora
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539137"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716416"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Identificiranje Primljeno pravilo aktivnost u zapisnika nadzora
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Utvrđivanje aktivnosti pravila ulazne pošte u zapisnicima nadzora
 
-Pretraživanje zapisnika nadzora u & Office 365 sigurnost usklađenosti centar možete koristiti za prikaz mape Primljeno pravilo događaje (Stvaranje, izmjena i brisanje pravila ulazne pošte).
+Pretraživanje zapisnika nadzora u centru za sigurnost sustava Microsoft 365 & usklađenosti možete koristiti za prikaz događaja pravila ulazne pošte (stvaranje, izmjena i brisanje pravila ulazne pošte).
 
-1. Prijavite se u sustav [Office 365 sigurnosne & usklađenosti centar](https://protection.office.com/).
+1. Prijavite se u Centar za [sigurnost sustava Microsoft 365 & .](https://protection.office.com/)
 
-2. Idi na **pretraživanje** > stranicu za**pretraživanje zapisnika nadzora** .
+2. Idite na stranicu **za** > **pretraživanje zapisnika nadzora** pretraživanja.
 
-3. Odaberite raspon datum u polja **Datum početka** i **Datum završetka** .
+3. Odaberite datumski raspon u poljima **Datum početka** i **Datum završetka.**
 
-4. Pod **Aktivnosti poštanskog sandučića sustava Exchange**, provjerite je li polje **aktivnosti** postavljeno na **InboxRule novo stvori/Izmijeni/Omogući/Onemogući Primljeno pravilo**.
+4. U odjeljku **Aktivnosti poštanskog sandučića sustava Exchange**provjerite je li polje **Aktivnosti** postavljeno na **Novo- InboxRule Stvaranje/ izmjena/omogućivanje/onemogućivanje pravila ulazne pošte**.
 
-5. Kliknite **Pretraži**.
+5. Kliknite **Pretraživanje**.
 
-U rezultatima, odaberite nadzora zapisa. Potpaleta pojedinosti kliknite **Dodatne informacije**. Informacije o postavkama pravila ulazne pošte prikazuje se u polju **parametre** .
+U rezultatima odaberite zapis nadzora. U potpaleti pojedinosti kliknite **Dodatne informacije**. Informacije o postavkama pravila ulazne pošte prikazuju se u polju **Parametri.**
 
-Za dodatne informacije pogledajte [Determining ako je korisnik stvorio pravilo Primljeno](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Dodatne informacije potražite u [odjeljku Određivanje je li korisnik stvorio pravilo ulazne pošte](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

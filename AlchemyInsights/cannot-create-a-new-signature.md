@@ -3,7 +3,7 @@ title: Nije moguće stvoriti novi potpis
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: a6cfdd6d9329b002d3bc55b6eeff02a25157aa18
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5b7f44b8a629f4781c4d953cc24ccb21c99c333
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519831"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711335"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Dodavanje ili stvaranje novog potpisa u programu Outlook
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Nije moguće dodati ili stvoriti novi potpis u programu Outlook
 
-Ovo je poznat problem. Da biste ga riješili smo radite i status će se ažurirati u [Outlook se smrzava klikom na gumb potpis](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Ovo je poznati problem. Radimo na tome da to popravimo i status će se ažurirati u [programu Outlook zamrzava klikom na gumb Potpis](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
 
-Da biste zaobišli taj problem, prvo [pokušajte korake](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) deinstalirati unaprijed instaliran Microsoft Office radne površine Apps. 
+Da biste zaobišli taj problem, [najprije isprobajte korake](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) za deinstalaciju unaprijed instaliranih aplikacija za Microsoft Office za stolna računala. 
 
-Ako to ne uspije za utječe stroja, pokušajte [utemeljenih na registru zaobilazno rješenje](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Ako taj se' funkcionirati za to izvještačen stroj, ugoditi probati [Registry- temeljen workaround](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).

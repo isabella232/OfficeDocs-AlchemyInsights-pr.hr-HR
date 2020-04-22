@@ -1,8 +1,8 @@
 ---
-title: Nepodudaranje servisa OneDrive PUID
+title: Nepodudarnost PUID-a na servisu OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/8/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 58fe40f0fe29b75ea3e736d447d626d2fdf5391a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e1fc50afa5b2e3d625c9136aac9bcb8ff24e00d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049077"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713134"
 ---
-# <a name="onedrive-puid-mismatch"></a>Nepodudaranje servisa OneDrive PUID
-Čini se da ste doživjeli [nepodudaranje PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) -a u servisu OneDrive za tvrtke. Molimo slijedite korake u nastavku kako bismo vam mogli pomoći što je prije moguće:
+# <a name="onedrive-puid-mismatch"></a>Nepodudarnost PUID-a na servisu OneDrive
+Čini se da na servisu OneDrive za tvrtke imate [nepodudarnost PUID-a.](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) Slijedite korake u nastavku kako bismo vam što prije mogli pomoći:
 
-1. Kliknite **kontakt podrška**, a zatim **novi zahtjev za uslugom**.
-2. Ostavite naslov i opis kao **nepodudaranje PUID-a na servisu OneDrive**.
-3. Nakon što je ulaznica podnesena, Molimo ažurirajte ga sa sljedećim informacijama:
-    - Na koji je zahvaćen URL web-mjesta servisa OneDrive.
-    - Korisnički glavni naziv (UPN) zahvaćenog korisnika.
+1. Kliknite **Obratite se službi za podršku**, a zatim Novi zahtjev za **servisom**.
+2. Ostavite naslov i opis kao **NEPODUDARNOST PUID-a na web-mjestu servisa OneDrive**.
+3. Nakon podnošenja karte ažurirajte je sljedećim informacijama:
+    - To utječe na URL web-mjesta servisa OneDrive.
+    - Korisničko glavno ime (UPN) zahvaćenog korisnika.
 
 
 

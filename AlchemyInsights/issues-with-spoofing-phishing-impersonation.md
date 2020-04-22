@@ -1,5 +1,5 @@
 ---
-title: Problemi s lažno predstavljanje, krađe identiteta ili oponašanja?
+title: Problemi s zavaravanjem, krađom identiteta ili oponašanju?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,29 +9,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
-ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
+ms.openlocfilehash: fa6503b7ec1c4e83030149ee460e6d84602d7f4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36716095"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713962"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemi s lažno predstavljanje, krađe identiteta ili oponašanja?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Problemi s zavaravanjem, krađom identiteta ili oponašanju?
 
-Saznajte kako Office 365 štiti ste iz:
+Saznajte kako vas Microsoft štiti od:
 
-- [Lažno predstavljanje](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
+- [Podvala](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
-- [Krađa identiteta i oponašanja](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
+- [Krađa identiteta i lažno predstavljanje](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
 
-Dodatni preporuke:
+Dodatne preporuke:
 
-- Za lažiran pošiljatelja koji se pojavljuju dolazi iz vlastite domene, [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) i [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) mogu pomoći.
+- Za zavaravaju pošiljatelje koji se pojavljuju dolaze iz vlastite domene, [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) i [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) može pomoći.
 
-- Provjerite pošiljatelja vlastite domene nisu konfigurirana za zaobilaženje protiv neželjene pošte filtriranje pomoću pravila toka pošte (poznate i kao prijevoza pravila) ili dopustiti stavke popisa. Dodatne informacije potražite u [Cautions protiv zaobilaženje Office 365 neželjene pošte filtre](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Provjerite nisu li pošiljatelji u vlastitoj domeni konfigurirani za zaobilaženje filtriranja protiv neželjene pošte pomoću pravila tijeka pošte (poznata i kao pravila prijenosa) ili dopuštanje unosa popisa. Dodatne informacije [potražite u odjeljku Upozorenja protiv zaobilaženja Microsoftovih filtara za neželjenu poštu](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- Provjerite je li korisnici niste konfigurirali [popis sigurnih pošiljatelja](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) stavke koje nije moguće dopustiti napada krađe identiteta.
+- Provjerite nisu li korisnici konfigurirali unose [popisa sigurnih pošiljatelja](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) koji mogu dopustiti napade krađe identiteta.
 
-- Razmotrite dostava visoke pouzdanosti neželjene pošte i phishinga poruke stavi u karantenu umjesto mape Bezvrijedna e-pošta. Za dodatne informacije pogledajte [karantene poruka e-pošte u sustavu Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
+- Razmislite o isporuci neželjenih poruka velike pouzdanosti i krađe identiteta u karantenu umjesto u mapu Bezvrijedna e-pošta. Dodatne informacije potražite u [odjeljku Karantena poruka e-pošte](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
 
-**[Izvješćivanje poruke Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) je najbolji način nam način izvođenja filtre.**
+**[Izvješćivanje microsoftom o mogu](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) nanajbolji način da nas obavijestite o izvedbi filtara.**

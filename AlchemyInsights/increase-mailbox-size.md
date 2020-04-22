@@ -1,5 +1,5 @@
 ---
-title: Povećaj veličinu poštanskog sandučića
+title: Povećanje veličine poštanskog sandučića
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,29 +12,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068286"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714034"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Prebacivanje planova za povećanje veličine poštanskog sandučića
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Promjena pretplata radi povećanja veličine poštanskog sandučića
 
-Ako je vaša Office 365 Veličina poštanskog sandučića već 100 GB, ne postoji način da ga povećati.
+Ako je veličina poštanskog sandučića već 100 GB, ne možete ga povećati.
   
-Ako je veličina poštanskog sandučića 50 GB, možete ga povećati na 100 GB prebacivanjem na [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ili [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Evo koraka za prelazak na drugi plan sustava Office 365:
+Ako je veličina poštanskog sandučića 50 GB, možete ga povećati na 100 GB tako da se prebacite na [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ili [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Evo koraka za prelazak na drugu pretplatu:
   
-1. U centru za administraciju Microsoft 365 idite na stranicu **naplate** \> [proizvoda & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. U centru za administratore sustava Microsoft 365 otvorite stranicu Proizvodi **za naplatu** \> [&.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. Odaberite pretplatu koju želite nadograditi.
 
-3. Na stranici s detaljima o pretplati odaberite **Nadogradnja**.
+3. Na stranici s pojedinostima o pretplati odaberite **Nadogradnja**.
 
-4. Pronađite plan koji želite nadograditi, a zatim odaberite gumb za **nadogradnju** .
+4. Pronađite plan na koji želite nadograditi, a zatim odaberite gumb **Nadogradnja.**
 
-5. Unesite broj licenci koje su vam potrebne, odaberite želite li platiti svaki mjesec ili cijelu godinu, a zatim odaberite **odjava**.
+5. Unesite broj potrebnih licenci, odaberite želite li platiti svaki mjesec ili za cijelu godinu, a zatim odaberite **Naplata**.
 
-Za više detalja pogledajte [nadogradnju na drugi plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Dodatne informacije potražite [u odjeljku Nadogradnja na drugi plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-Ako imate [Office 365 plan koji podržava arhivu u mjestu](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), također možete dobiti dodatnu pohranu e-pošte omogućavanjem arhiviranja poštanskog sandučića. Poštanski sandučić arhive daje vam dodatno skladištenje i omogućuje premještanje, kopiranje i traženje poruka u glavnom i arhivskim sandučićima. Korake o omogućivanju poštanskog sandučića arhive potražite u okviru [Omogući poštanski sandučić arhive](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Ako imate [pretplatu koja podržava zamjenuću arhivu,](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)možete nabaviti i dodatni prostor za pohranu e-pošte omogućivanjem arhive poštanskog sandučića. Arhivski poštanski sandučić daje vam dodatni prostor za pohranu i omogućuje premještanje, kopiranje i pretraživanje poruka u primarnom i arhivskom poštanskom sandučiću. Korake o omogućivanja poštanskog sandučića arhive [potražite u odjeljku Omogućivanje poštanskog sandučića arhive](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

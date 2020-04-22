@@ -1,9 +1,9 @@
 ---
-title: Povećajte veličinu poštanskog sandučića za JSK SMB
+title: Povećanje veličine poštanskog sandučića za SMB SKU-ove
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/22/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 1f4832ee74470ec2cb0f61fcc50ac559d3767791
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739233"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714070"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Skretnica namjerava povećati veličinu poštanskog sandučića
+# <a name="switch-plans-to-increase-mailbox-size"></a>Promjena tarife za povećanje veličine poštanskog sandučića
 
-Ako je veličina poštanskog sandučića 50 GB, možete povećati veličinu poštanskog sandučića 100 GB prebacivanjem [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ili [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Ovdje su korake za prijelaz na drugi plan Office 365:
+Ako je veličina poštanskog sandučića 50 GB, veličinu poštanskog sandučića možete povećati na 100 GB tako da prebacite na [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ili [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Evo koraka za prelazak na drugu pretplatu:
   
-1. U centru za administraciju Microsoft 365 idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.
+1. U centru za administratore sustava Microsoft 365 otvorite stranicu [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite Pretplate **na naplatu** \> **Subscriptions**.
     
-2. Odaberite **parametar planove** za prikaz popisa novih planovi koje su dostupne. 
+2. Odaberite **Promjena planova** za prikaz popisa novih dostupnih planova. 
     
-3. Odaberite plan da biste vidjeli nove ukupni trošak po mjesecu. Svakako čitati **ključne informacije**, a zatim odaberite **Dalje** odjaviti. 
+3. Odaberite plan da biste vidjeli novi ukupni trošak mjesečno. Obavezno pročitajte **ključne informacije**, a zatim odaberite **Dalje** da biste se odjavili. 
     
-4. Kada završite odjavu, Office 365 traje nekoliko minuta za dovršenje skretnice. Možete početi koristiti odmah novu pretplatu.
+4. Kada završite odjavu, Microsoft 365 traje nekoliko minuta da bi dovršio prekidač. Novu pretplatu možete odmah početi koristiti.
     
-Za više pojedinosti pogledajte [prijeđite na drugi plan za Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
+Dodatne informacije potražite [u odjeljku Prijelaz na drugu pretplatu na Microsoft 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
   
 

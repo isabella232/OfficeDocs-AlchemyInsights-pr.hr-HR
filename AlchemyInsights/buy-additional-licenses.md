@@ -1,5 +1,5 @@
 ---
-title: Kupite dodatne licence
+title: Kupnja dodatnih licenci
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,28 +12,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664708"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712163"
 ---
-# <a name="buy-additional-office-365-licenses"></a>Kupite dodatne licence za Office 365
+# <a name="buy-additional-licenses"></a>Kupnja dodatnih licenci
 
-1. U centru za administraciju idite na **naplatu** \> stranicu [Proizvodi & services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. U centru za administratore idite na stranicu **Naplata** \> [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Pronalaženje koje želite da dodate licence za pretplatu, a zatim odaberite **Dodaj Ukloni licence**.
+2. Pronađite pretplatu kojoj želite dodati licence, a zatim odaberite **Dodaj/ukloni licence**.
 
-    [Što ako ne vidim Dodaj Ukloni vezu?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [Što ako ne vidim vezu Dodaj/ukloni?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. U okviru **Ukupni licence** unesite ukupan broj licenci koje trebate za ovu pretplatu i odaberite **slanja promjena**. Na primjer, ako imate 100 licence i trebate dodati više 5, unesite 105.
+3. U okvir **Ukupne licence** unesite ukupan broj licenci potrebnih za ovu pretplatu, a zatim odaberite **Pošalji promjenu**. Na primjer, ako imate 100 licenci i trebate dodati još 5, unesite 105.
 
     > [!NOTE]
-    > Ako platite pretplatu kreditnih kartica ili bankovnih računa, sve nove licence kupite dostupnih odmah nakon što primite potvrdu naloga. Ako platiti fakturu možda za čekanje odobrenja potvrdni prije nove licence su dostupni za korištenje.
+    > Ako pretplatu plaćate kreditnom karticom ili bankovnim računom, sve nove licence koje kupite dostupne su odmah nakon što primite potvrdu narudžbe. Ako plaćate fakturom, možda ćete morati pričekati provjeru kredita prije nego što vaše nove licence budu dostupne za korištenje.
 
-Da biste saznali više, pogledajte [Kupite licence za Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Dodatne informacije [potražite u odjeljku Kupnja licenci za pretplatu na Microsoft 365 za tvrtke](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
 
 **Dodatni resursi**
 
-- [Korisnicima u Office 365 poslovne dodijeliti licence](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Dodjela licenci korisnicima u sustavu Microsoft 365 za tvrtke](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
