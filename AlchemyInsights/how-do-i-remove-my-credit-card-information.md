@@ -1,9 +1,9 @@
 ---
-title: Kako ukloniti Moje informacije kreditne kartice?
+title: Kako mogu ukloniti podatke o kreditnoj kartici?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f8b44773767aa28750a7c444b22091359030c93f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664420"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709967"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a><span data-ttu-id="a7635-102">Kako ukloniti Moje informacije kreditne kartice?</span><span class="sxs-lookup"><span data-stu-id="a7635-102">How do I remove my credit card information?</span></span>
+# <a name="how-do-i-remove-my-credit-card-information"></a><span data-ttu-id="1e7dc-102">Kako mogu ukloniti podatke o kreditnoj kartici?</span><span class="sxs-lookup"><span data-stu-id="1e7dc-102">How do I remove my credit card information?</span></span>
 
-1. <span data-ttu-id="a7635-103">U centru za administraciju Microsoft 365 idite na **naplatu** \> [načine plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806) stranice.</span><span class="sxs-lookup"><span data-stu-id="a7635-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="1e7dc-103">U centru za administratore sustava Microsoft 365 idite na stranicu **Naplata** \> [Načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="1e7dc-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="a7635-104">Na stranici **načine plaćanja** izdvajanja kreditnih kartica ili bankovnih računa za brisanje.</span><span class="sxs-lookup"><span data-stu-id="a7635-104">On the **Payment methods** page, pick the credit card or bank account to delete.</span></span>
+2. <span data-ttu-id="1e7dc-104">Na stranici **Načini plaćanja** odaberite kreditnu karticu ili bankovni račun koji želite izbrisati.</span><span class="sxs-lookup"><span data-stu-id="1e7dc-104">On the **Payment methods** page, pick the credit card or bank account to delete.</span></span>
 
-3. <span data-ttu-id="a7635-105">Da biste uklonili kreditnih kartica ili bankovnih računa, odaberite **izbrisati način plaćanja.**</span><span class="sxs-lookup"><span data-stu-id="a7635-105">To remove the credit card or bank account, select **Delete payment method.**</span></span>
+3. <span data-ttu-id="1e7dc-105">Da biste uklonili kreditnu karticu ili bankovni račun, odaberite **Izbriši način plaćanja.**</span><span class="sxs-lookup"><span data-stu-id="1e7dc-105">To remove the credit card or bank account, select **Delete payment method.**</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="a7635-106">Nećete moći ukloniti kreditne kartice ili bankovni račun ako se trenutno koristi platiti za pretplatu.</span><span class="sxs-lookup"><span data-stu-id="a7635-106">You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.</span></span>
+> <span data-ttu-id="1e7dc-106">Nećete moći ukloniti kreditnu karticu ili bankovni račun ako se trenutačno koristi za plaćanje pretplate.</span><span class="sxs-lookup"><span data-stu-id="1e7dc-106">You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.</span></span>
 
-4. <span data-ttu-id="a7635-107">U oknu **izbrisati način plaćanja** , odaberite **Izbriši**.</span><span class="sxs-lookup"><span data-stu-id="a7635-107">In the **Delete payment method** pane, select **Delete**.</span></span>
+4. <span data-ttu-id="1e7dc-107">U oknu **Brisanje načina plaćanja** odaberite **Izbriši**.</span><span class="sxs-lookup"><span data-stu-id="1e7dc-107">In the **Delete payment method** pane, select **Delete**.</span></span>
 
-<span data-ttu-id="a7635-108">Da biste saznali više, pogledajte [Dodavanje, ažuriranje, ili uklanjanje kreditnih kartica ili bankovnih računa u Office 365 poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="a7635-108">To learn more, see [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="1e7dc-108">Dodatne informacije potražite [u odjeljku Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili bankovnog računa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="1e7dc-108">To learn more, see [Add, update, or remove a credit card or bank account](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>

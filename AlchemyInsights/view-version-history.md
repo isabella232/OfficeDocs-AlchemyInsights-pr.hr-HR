@@ -2,27 +2,27 @@
 title: Prikaz povijesti verzija
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 34c73c42-e4a0-41ab-8eb8-a834d4bb04c4
-ms.openlocfilehash: 816638036f2374f13b62f7f87fffce1090338fd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c9cdc5065e3f54fd996611d82aa0479b79a634ca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531279"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707251"
 ---
-# <a name="view-version-history-of-a-file-or-list-item"></a><span data-ttu-id="b7efd-102">Prikaz povijesti verzija datoteke ili stavke popisa na</span><span class="sxs-lookup"><span data-stu-id="b7efd-102">View version history of a file or list item</span></span>
+# <a name="view-version-history-of-a-file-or-list-item"></a><span data-ttu-id="7346c-102">Prikaz povijesti verzija datoteke ili stavke popisa</span><span class="sxs-lookup"><span data-stu-id="7346c-102">View version history of a file or list item</span></span>
 
-1. <span data-ttu-id="b7efd-103">Idite na SharePoint web-mjesto i otvorite popis ili biblioteku iz trake za brzo pokretanje.</span><span class="sxs-lookup"><span data-stu-id="b7efd-103">Go to the SharePoint site and open the list or library from the Quick Launch bar.</span></span> <span data-ttu-id="b7efd-104">Ako se ne pojavi naziv popisa ili biblioteke, pritisnite **sadržaj web-mjesta** ili **Prikaz cjelokupnog sadržaja web-mjesta**i zatim pritisnite naziv.</span><span class="sxs-lookup"><span data-stu-id="b7efd-104">If the name of the list or library doesn't appear, click **Site contents** or **View All Site Content**, and then click the name.</span></span>
+1. <span data-ttu-id="7346c-103">Idite na Web-mjesto sustava SharePoint i otvorite popis ili biblioteku s trake za brzo pokretanje.</span><span class="sxs-lookup"><span data-stu-id="7346c-103">Go to the SharePoint site and open the list or library from the Quick Launch bar.</span></span> <span data-ttu-id="7346c-104">Ako se naziv popisa ili biblioteke ne pojavi, kliknite **Sadržaj web-mjesta** ili **Prikaži sav sadržaj web-mjesta,** a zatim kliknite naziv.</span><span class="sxs-lookup"><span data-stu-id="7346c-104">If the name of the list or library doesn't appear, click **Site contents** or **View All Site Content**, and then click the name.</span></span>
     
-2. <span data-ttu-id="b7efd-105">Desnom tipkom miša pritisnite razmak između artikla ili naziv dokumenta i datum, a zatim s izbornika **Povijesti verzija** .</span><span class="sxs-lookup"><span data-stu-id="b7efd-105">Right-click the space between the item or document name and date, and then click **Version History** from the menu.</span></span> <span data-ttu-id="b7efd-106">Možda ćete morati klizati izbornik da biste vidjeli **Povijest verzija**.</span><span class="sxs-lookup"><span data-stu-id="b7efd-106">You might need to scroll the menu to see **Version History**.</span></span> <span data-ttu-id="b7efd-107">Ako ga ne vidite, Trotočka (...) u dijaloškom okviru kliknite, a zatim **Povijest verzija**.</span><span class="sxs-lookup"><span data-stu-id="b7efd-107">If you don't see it, click the ellipsis (...) in the dialog box, and then click **Version History**.</span></span>
+2. <span data-ttu-id="7346c-105">Desnom tipkom miša kliknite razmak između naziva i datuma stavke ili dokumenta, a zatim na izborniku kliknite **Povijest verzija.**</span><span class="sxs-lookup"><span data-stu-id="7346c-105">Right-click the space between the item or document name and date, and then click **Version History** from the menu.</span></span> <span data-ttu-id="7346c-106">Možda ćete se morati pomaknuti po izborniku da biste vidjeli **Povijest verzija**.</span><span class="sxs-lookup"><span data-stu-id="7346c-106">You might need to scroll the menu to see **Version History**.</span></span> <span data-ttu-id="7346c-107">Ako je ne vidite, kliknite tri točke (...) u dijaloškom okviru, a zatim **Povijest verzija**.</span><span class="sxs-lookup"><span data-stu-id="7346c-107">If you don't see it, click the ellipsis (...) in the dialog box, and then click **Version History**.</span></span>
     
-3. <span data-ttu-id="b7efd-108">U dijaloškom okviru povijest verzija pokažite verziju želite prikaz i kliknite strelicu dolje na desnoj strani da biste dobili popis mogućnosti.</span><span class="sxs-lookup"><span data-stu-id="b7efd-108">In the Version History dialog box, point to the version you want view and click the down arrow on the right side to get a list of options.</span></span> <span data-ttu-id="b7efd-109">Kliknite **Prikaz**.</span><span class="sxs-lookup"><span data-stu-id="b7efd-109">Click **View**.</span></span>
+3. <span data-ttu-id="7346c-108">U dijaloškom okviru Povijest verzija pokažite na željenu verziju i kliknite strelicu prema dolje na desnoj strani da biste dobili popis mogućnosti.</span><span class="sxs-lookup"><span data-stu-id="7346c-108">In the Version History dialog box, point to the version you want view and click the down arrow on the right side to get a list of options.</span></span> <span data-ttu-id="7346c-109">Kliknite **Prikaz**.</span><span class="sxs-lookup"><span data-stu-id="7346c-109">Click **View**.</span></span>
     
-[<span data-ttu-id="b7efd-110">Saznajte više o povijesti verzija</span><span class="sxs-lookup"><span data-stu-id="b7efd-110">Learn more about version history</span></span>](https://go.microsoft.com/fwlink/?linkid=875709)
+[<span data-ttu-id="7346c-110">Saznajte više o povijesti verzija</span><span class="sxs-lookup"><span data-stu-id="7346c-110">Learn more about version history</span></span>](https://go.microsoft.com/fwlink/?linkid=875709)
   
 
