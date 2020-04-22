@@ -1,8 +1,8 @@
 ---
-title: Pitanja povezane Office 2019
+title: Pitanja povezana sa sustavom Office 2019
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: f00109e467c5ef853f9312f57a7f966288a0bb0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f02dcd8415414068b62497d647474c4b8f8d4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553604"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719795"
 ---
-# <a name="about-office-2019"></a>O Office 2019
+# <a name="about-office-2019"></a>O sustavu Office 2019
 
-Office 2019 je za klijente koji još nisu spremne za oblak ili imaju određene potrebe za lokalno ili hibridno Office uvođenja. Uključuje smislene podskup značajki koje su već dodani za Office 365 preko zadnje tri godine, ali nije dio Office 365.
+Office 2019 namijenjen je korisnicima koji još nisu spremni za oblak ili imaju posebnu potrebu za lokalnom ili hibridnom implementacijom sustava Office. Uključuje smisleni podskup značajki koje su već dodane u Microsoft 365 tijekom posljednje tri godine, ali nije dio sustava Microsoft 365.
   
-Office 365 ProPlus oblak povezani verziju Officea, isporučuje Office doživljaja Većina produktivniji i najsigurniji. Pruža pristup suite services izvan što ste verzije lokalno i primi nova značajka ažuriranja pridonositi.
+Aplikacije sustava Microsoft 365 za tvrtke, verzija sustava Office povezana s oblakom, pruža najproduktivniji i najsigurniji doživljaj sustava Office. Omogućuje pristup paketu usluga koje nadilaze ono što lokalne verzije imaju i stalno primaju nova ažuriranja značajki.
   
-Stoga, ako imate apps radne površine Office kao dio pretplate za Office 365 već imate najnoviju verziju Officea.
+Stoga, ako imate aplikacije sustava Office za stolna računala kao dio pretplate na Microsoft 365, već imate najnoviju verziju sustava Office.
   
-Dodatne informacije potražite u sljedećem članku:
+Dodatne informacije potražite u sljedećim člancima:
   
-[Office 2019 komercijalna for Windows i Mac najčešća pitanja](https://support.microsoft.com/help/4133312)
+[Najčešća pitanja o komercijalnim sadržajima za Office 2019 Za Windows i Mac](https://support.microsoft.com/help/4133312)
   
-[Broj glavnih verzija Office 2019 ostaje na 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[Broj glavne verzije sustava Office 2019 ostaje na 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Oznaka godine u Office 2016 i Office 365 apps klijenta uklonit će se iz stavke izbornika Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Oznaka godine u klijentskim aplikacijama sustava Office 2016 i Microsoft 365 uklonit će se iz unosa izbornika Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

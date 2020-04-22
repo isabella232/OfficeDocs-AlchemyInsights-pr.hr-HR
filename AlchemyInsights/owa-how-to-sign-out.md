@@ -3,7 +3,7 @@ title: Kako se odjaviti iz programa Outlook na webu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 6eac1462c26c1889d2e91ce336c88de0d221124b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556665"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742941"
 ---
 # <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kako se odjaviti iz programa Outlook na webu
 
-Za potpisivanje iz Outlooka na web, odaberite naziv ili slika u gornjem desnom kutu i **Odjava**.
+Da biste se odjavili iz programa Outlook na webu, odaberite svoje ime ili sliku u gornjem desnom kutu i odaberite **Odjava**.
 
-Da biste prestali automatski na poslu ili u školi račun:
+Da biste se zaustavili automatsku prijavu na račun na poslu ili u školi:
 
-1. Odaberite naziv ili slika i **Odjava**.
-1. Idi na [Outlook.office.com](https://outlook.office.com/) i odaberite **neki drugi račun**.
-1. Prijavite se pomoću adrese e-pošte koju želite koristiti.
+1. Odaberite svoje ime ili sliku i odaberite **Odjava**.
+1. Idite na [Outlook.office.com](https://outlook.office.com/) i odaberite **Koristi drugi račun**.
+1. Prijavite se s adresom e-pošte koju želite koristiti.
 
-Da biste saznali više, pogledajte [kako prijaviti za ili iz Outlooka na web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Dodatne informacije [potražite u članku Prijava u Outlook ili iz' iz programa Outlook .](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)

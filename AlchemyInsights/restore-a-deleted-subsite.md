@@ -1,9 +1,9 @@
 ---
-title: Vraćanje izbrisane podmjesto
+title: Vraćanje izbrisanog podmjesta
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 82ea3285b7ded867a179d81bb79ef204270eb038
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7da70d293730dcb5df1f13c42252bab58f41711
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552246"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758674"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Vraćanje izbrisane SharePointovog podmjesta
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Vraćanje izbrisanog podmjesta sustava SharePoint
 
-Izbrisane podmjesta šalju zbirke web-mjesta koš za smeće, gdje ste čuvaju 93 dana. Da biste vratili izbrisane podmjesto:
+Izbrisana podmjesta šalju se u koš za smeće zbirke web-mjesta, gdje se čuvaju 93 dana. Da biste vratili izbrisano podmjesto:
   
-1. U novi SharePoint administraciju centru pronaći web-mjesto s kojeg je izbrisana podmjesto i provjerite si administratora. zbirke web-mjesta 
+1. U novom centru za administratore sustava SharePoint pronađite web-mjesto s kojeg je web-mjesto izbrisano i provjerite jeste li administrator zbirke web-mjesta. 
     
-2. Idite na web-mjestu. U lijevom oknu kliknite **Koš za smeće** . (Ako ne vidite koš za smeće, kliknite ikonu postavke, a zatim **sadržaj web-mjesta**. Koš za smeće je na krajnjoj desnoj strani naredbenu traku na vrhu.)
+2. Idi na stranicu. Kliknite **Koš za smeće** u lijevom oknu. (Ako ne vidite koš za smeće, kliknite ikonu Postavke, a zatim **Sadržaj web-mjesta**. Koš za smeće nalazi se na krajnjem desnom dijelu naredbene trake pri vrhu.)
     
-3. Na dnu stranice kliknite **drugog stupnja koš za smeće**.
+3. Pri dnu stranice kliknite **Koš za smeće druge faze**.
     
-4. Pritisnite lijevo podmjesto i zatim kliknite **Vrati**.
+4. Kliknite lijevo od web-podmjesta, a zatim **Kliknite Vrati**.
     
 

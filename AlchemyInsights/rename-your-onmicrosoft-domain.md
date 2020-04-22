@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 357524491dc26b3a6101eb0d39d1f446aaf052c3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741213"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720165"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>Preimenovanje onmicrosoft.com domene
 
- **Nije moguće preimenovati domene onmicrosoft nakon prijave.** Na primjer, ako je početna domene odaberete bila *fourthcoffee.onmicrosoft.com*, nije moguće promijeniti da bude *fabrikam.onmicrosoft.com*. Koristiti različite onmicrosoft.com domene imate želite započeti novu pretplatu s Office 365.
+ **Nakon registracije ne možete preimenovati onmicrosoft domenu.** Na primjer, ako je početna domena koju ste odabrali *fourthcoffee.onmicrosoft.com*, ne možete je promijeniti da bude *fabrikam.onmicrosoft.com*. Da biste koristili drugu onmicrosoft.com domenu, morate započeti novu pretplatu na Microsoft 365.
   
-Ako želite koristiti prilagođenu domenu kao *contoso.com* možete [dodati jedan posedujete](https://docs.microsoft.com/office365/admin/setup/add-domain) ili [kupiti od tvrtke Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
+Ako želite koristiti prilagođenu domenu kao *što su contoso.com* , možete dodati [onu koju posjedujete](https://docs.microsoft.com/office365/admin/setup/add-domain) ili [je kupiti od Microsofta](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
   

@@ -1,9 +1,9 @@
 ---
-title: How-to--nk2-datoteke za uvoz
+title: kako-to- uvoz- nk2- kartoteka
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770239"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759324"
 ---
-# <a name="how-to-import-nk2-files"></a>Kako uvesti datoteke .nk2 
+# <a name="how-to-import-nk2-files"></a>Kako uvesti .nk2 datoteke 
 
-Kada prvi put pokrenete Microsoft Outlook 2013, Outlook 2016, Outlook 2019 ili Outlook za Office 365 predmemoriju Nadimak (spremljene u datoteci *profilename*.nk2) uvezeni u skrivena poruka u zadanom spremištu poruka.
+Kada prvi put pokrenete Microsoft Outlook 2013, Outlook 2016, Outlook 2019 ili Outlook za Microsoft 365, predmemorija nadimaka (pohranjena u datoteci *profilename*.nk2) uvozi se u skrivenu poruku u zadanom spremištu poruka.
 
-Za uvoz datoteke .nk2 u Outlook 2013, Outlook 2016, Outlook 2019 ili Outlook za Office 365, provjerite je li .nk2 datoteku u sljedeću mapu: %appdata%\Microsoft\Outlook
+Da biste uvezli .nk2 datoteke u Outlook 2013, Outlook 2016, Outlook 2019 ili Outlook za Microsoft 365, provjerite nalazi li se datoteka .nk2 u sljedećoj mapi: %appdata%\Microsoft\Outlook
 
-**Napomena**: .nk2 datoteku mora imati isti naziv kao trenutni profil programa Outlook 2013 ili Outlook 2016. Po zadanom je profil naziv "Outlook". Da biste provjerili naziv profila, slijedite ove korake: 
+**Napomena:**.nk2 datoteka mora imati isti naziv kao trenutni profil programa Outlook 2013 ili Outlook 2016. Prema zadanim postavkama naziv profila je "Outlook". Da biste provjerili naziv profila, slijedite ove korake: 
 1. Kliknite **Start**, a zatim **Upravljačka ploča**.
-2. Dvokliknite **pošta**.
-3. U dijaloškom okviru Postava pošte odaberite **Pokaži profile**.
-4. Odaberite **Počni** > **Pokreni**.
-5. U okvir **Otvori** upišite *outlook.exe /importnk2*i odaberite **u redu**. 
+2. Dvokliknite **Pošta**.
+3. U dijaloškom okviru Postavljanje pošte odaberite **Pokaži profile**.
+4. Odaberite **Pokreni** > **pokretanje**.
+5. U okvir **Otvori** upišite *outlook.exe /importnk2,* a zatim odaberite **U redu**. 
 
-Nakon što uvezete .nk2 datoteku, sadržaj datoteke su spojene u postojeće predmemorije Nadimak pohranjuju u poštanskom sandučiću.
+Nakon uvoza .nk2 datoteke, sadržaj datoteke spaja se u postojeću predmemoriju nadimaka pohranjenu u vašem poštanskom sandučiću.
 
-**Napomena**: .nk2 datoteku je preimenovana s datotečnim nastavkom .old kada sljedeći put pokrenete Outlook 2013, Outlook 2016, Outlook 2019 ili Outlook za Office 365. Ako želite ponovo uvesti .nk2 datoteku, najprije uklonite .old datotečni nastavak.
+**napomena:**.nk2 datoteka preimenovana je s datotečnim nastavkom .old prilikom sljedećeg pokretanja programa Outlook 2013, Outlook 2016, Outlook 2019 ili Outlook za Microsoft 365. Ako želite ponovno uvesti .nk2 datoteku, najprije uklonite datotečni nastavak .old.
 
-Za dodatne informacije pogledajte [Uvoz ili kopiranje popisa samodovršetka na drugo računalo](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+Dodatne informacije potražite [u odjeljku Uvoz ili kopiranje popisa samodovršetka na drugo računalo](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

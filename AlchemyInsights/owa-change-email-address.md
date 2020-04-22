@@ -1,9 +1,9 @@
 ---
-title: Promjena adresu e-pošte u programu Outlook na webu
+title: Promjena adrese e-pošte u programu Outlook na webu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 7afa86c3f2d9a00606cfd371b07243c85aa8bdb8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a56f88f09a8a3a14ce63cebabe0281ba68a359f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510507"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743085"
 ---
-# <a name="change-your-office-365-email-address"></a>Promjena adrese e-pošte Office 365 
+# <a name="change-your-email-address"></a>Promjena adrese e-pošte 
 
-Da biste promijenili adresu e-pošte, trebat ćete administratorske ovlasti.
+Da biste promijenili adresu e-pošte, potrebne su vam administratorske ovlasti.
   
-Slijedite upute u [promijeniti korisničko ime i adresa u sustavu Office 365 e-pošte](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+Slijedite upute u [odjeljku Promjena korisničkog imena i adrese e-pošte u sustavu Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).

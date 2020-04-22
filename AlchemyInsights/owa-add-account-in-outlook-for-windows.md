@@ -1,29 +1,29 @@
 ---
-title: Dodavanje Outlook na račun web Outlook za Windows
+title: Dodavanje programa Outlook na web-račun u Outlook za Windows
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f745546c991bae52046014dff836aeb54c779db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ffcc8ba50b98b693b48e13bb398a44289de305f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510975"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743193"
 ---
-# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Dodavanje Outlook na račun web Outlook
+# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Dodavanje programa Outlook na web-račun u Outlook
 
-Ove korake isti su li dodajete prvi račun e-pošte ili računi dodatne e-pošte programa Outlook.
+Ti su koraci isti bez obzira na to dodajete li prvi račun e-pošte ili dodatne račune e-pošte u Outlook.
 
-1. Odaberite **datoteku** > **Dodaj račun**.
-1. Ono što vidite dalje ovisi o verziji programa Outlook:
-    - Za **Outlook za Office 365** i **2016 programa Outlook**, unesite adresu e-pošte i kliknite **Poveži**.
-    - Za **Outlook 2013** i **Outlook 2010**, unesite svoje ime, adresu e-pošte i lozinku i kliknite **Dalje**.
-1. Ako se to zatraži, ponovo upišite svoju lozinku, a zatim odaberite **u redu** > **Završi** za početak korištenja računa e-pošte u programu Outlook.
+1. Odaberite **Dodaj datoteku** > **računa**.
+1. Ono što vidite sljedeće ovisi o vašoj verziji programa Outlook:
+    - Za **Outlook za Office 365** i Outlook **2016**unesite adresu e-pošte i kliknite **Poveži**.
+    - Za **Outlook 2013** i **Outlook 2010**unesite svoje ime, adresu e-pošte i lozinku, a zatim kliknite **Dalje**.
+1. Ako se to od vas zatraži, ponovno unesite lozinku, a zatim odaberite **U redu** > **Završi** da biste počeli koristiti račun e-pošte u programu Outlook.
 
-Za dodatne informacije pogledajte [Dodavanje računa e-pošte za Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)
+Dodatne informacije potražite [u odjeljku Dodavanje računa e-pošte u Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b).

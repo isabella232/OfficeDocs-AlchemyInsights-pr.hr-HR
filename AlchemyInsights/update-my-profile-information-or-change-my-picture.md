@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 4d7d6fad670a877a0912b6c4a4bec0c5b3c6505e
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278863"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720093"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>Ažuriranje podataka o profilu ili promjena slike
 
-Trenutno nije moguće uređivati i ažurirati podatke o profilu izravno iz programa Outlook za iOS, ali je moguće te podatke urediti negdje drugdje. 
+Trenutno nije moguće urediti i ažurirati podatke o profilu izravno iz programa Outlook za iOS, ali te informacije moguće je uređivati negdje drugdje. 
 
-Ažuriranja profila možete ažurirati u programima Outlook za Windows ili outlooku na webu (OWA). 
+Ažuriranja profila možete ažurirati u programu Outlook za Windows ili Outlook na webu (OWA). 
 
 **Outlook za Windows**: 
 
-- **Informacije** > o >  > **korisniku****računa za datoteke****O meni** (dovodi vas na office 365 profil na internetu) > **ažuriranje profila** ili kliknite na ikonu kamere da biste promijenili fotografiju  
+- **Datoteka** > **Office Račun** > **Korisničke informacije** > O**meni** (donosi vas na Microsoft 365 profil online) > Update **Profile** ili kliknite na ikonu kamere za promjenu fotografije  
   
 **Outlook na webu (OWA)**: 
 
-- **Slika** > profila**Moj profil** > **Ažuriraj profil**
+- **Slika** > profila**Moj profil** > **Aktualizacija profila**

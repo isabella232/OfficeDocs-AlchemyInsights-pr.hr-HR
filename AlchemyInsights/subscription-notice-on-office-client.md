@@ -1,9 +1,9 @@
 ---
-title: Obavijest pretplate na Office klijenta
+title: Obavijest o pretplati na klijentu sustava Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559761"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741855"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>Pretplata na obavijest u Office klijenta?
+# <a name="subscription-notice-in-your-office-client"></a>Obavijest o pretplati u klijentu sustava Office?
 
-Čini se da vidite obavijesti u Office klijent povezane statusa pretplate za Office 365. Možete pronaći informacije o tome kako riješiti problem u ovom članku: [pretplate obavijest pojavljuje se kada otvorim aplikacije Office 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Izgleda da vam se u klijentu sustava Office prikazuje obavijest povezana sa statusom pretplate. Informacije o tome kako riješiti problem u ovom članku: [Obavijest o pretplati pojavljuje se kada otvorim aplikaciju za Microsoft 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-Ako je Office 365 pretplate ažuran, možda ste Pogodi privremeni problem koji je uzrokovao aktivaciju Office uspjeti. Postoje jednostavne korake koje možete poduzeti da biste izbjegli te poruke, poput provjere vrijeme računala, izvodi Office kao Administrator i prijavljivanja aktivirati. Možete pronaći detaljne korake da biste riješili te probleme u ovom članku: [nelicenciran proizvoda i aktivacija pogreške u Officeu](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
+Ako je pretplata ažurna, možda ste naišli na privremeni problem koji je uzrokovao neuspjeh aktivacije sustava Office. Postoje jednostavni koraci koje možete poduzeti da biste izbjegli te poruke, kao što su provjera vremena računala, pokretanje sustava Office kao administratora i prijava za aktivaciju. Detaljne korake za rješavanje tih problema možete pronaći u ovom članku: [Nelicencirane pogreške proizvoda i aktivacije](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
   
-Ako to ne funkcionira, obratite nam se s vezama ispod i možemo bit će Drago pomoći.
-  
+Ako vam ne radi, obratite nam se s vezama u nastavku i rado ćemo vam pomoći.

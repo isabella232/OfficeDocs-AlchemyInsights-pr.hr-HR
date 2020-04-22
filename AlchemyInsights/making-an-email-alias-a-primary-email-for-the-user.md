@@ -1,9 +1,9 @@
 ---
-title: 723 izrada e-mail alias primarnu e-poštu za korisnika
+title: 723 Stvaranje pseudonima e-pošte primarne e-pošte za korisnika
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 3e22655c7408863915ab22389f70d10956839ad8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c21e57befaf770301a7c8a42dd3ff9ff92394b70
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735237"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721884"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Napravite pseudonim e-pošte primarnu adresu za korisnika
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Postavljanje pseudonima e-pošte kao primarne adrese za korisnika
 
-Za upute pogledajte [Dodavanje drugog pseudonima e-pošte za korisnika](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
+Upute potražite u [odjeljku Dodavanje drugog pseudonima e-pošte za korisnika](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
 
-**Napomena**: ako je vaša tvrtka ili ustanova u hibridnom načinu rada, morate promijeniti primarnu adresu e-pošte u organizaciji sustava Exchange. Dodatne informacije potražite u okviru [Dodavanje ili uklanjanje adresa e-pošte za poštanski sandučić](https://technet.microsoft.com/library/bb123794.aspx).
+**Napomena**: Ako je vaša tvrtka ili ustanova u hibridnom načinu rada, morate promijeniti primarnu adresu e-pošte u lokalnoj organizaciji sustava Exchange. Dodatne informacije potražite u [odjeljku Dodavanje ili uklanjanje adresa e-pošte za poštanski sandučić](https://technet.microsoft.com/library/bb123794.aspx).

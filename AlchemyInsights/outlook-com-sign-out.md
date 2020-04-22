@@ -1,9 +1,9 @@
 ---
-title: Odjava Outlook.com
+title: Odjava iz Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 02e4c5478f5ca880ece6cd70b3385ca78c724f28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 82e1926e267bd821b3374765878e6c7ce1e36d69
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557762"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743517"
 ---
 # <a name="how-to-sign-out-of-outlookcom"></a>Kako se odjaviti iz Outlook.com
 
-1. Odaberite naziv ili slika u gornjem desnom kutu.
+1. Odaberite svoje ime ili sliku u gornjem desnom kutu.
 
-    Ako ne vidite sliku na vrhu zaslona, provjerite ako ad blokiranje je uključen. Ponekad to sprječava sliku s prikazom.
+    Ako na vrhu zaslona ne vidite sliku, provjerite je li uključeno blokiranje oglasa. Blokiranje ponekad sprječava prikazivanje slike.
 
-2. Odaberite **odjaviti**.
+2. Odaberite **Odjava**.
 
-    Da biste zaustavili prijavljujete automatski, poništite potvrdni okvir za **zadržati me prijavljeni** na stranici gdje unesite lozinku.
+    Da biste se prestali automatski prijavljivati, poništite okvir **Zadrži me prijavljenim** na stranici na koju unosite lozinku.
 
-Da biste saznali više, pogledajte [kako prijaviti u ili iz Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Dodatne informacije potražite [u odjeljku Kako se prijaviti u Outlook.com ili iz vas](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

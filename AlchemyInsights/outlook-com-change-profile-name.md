@@ -3,7 +3,7 @@ title: Promjena naziva profila u Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 6f90968c23674274f4f516572828fe7a52c7818c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36546712"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760656"
 ---
 # <a name="change-your-profile-name-in-outlookcom"></a>Promjena naziva profila u Outlook.com
 
-1. Idite na [podatke o Microsoftovu računu](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Idite na [informacije o Microsoftovu računu](https://go.microsoft.com/fwlink/p/?linkid=860841).
 2. Odaberite **Uredi naziv**.
 3. Unesite ime i prezime i odaberite **Spremi**.
 
-Omogućite do 24 sata da promjene naziva vašeg profila stupite na snagu.
+Dopustite da promjene naziva profila stupe na snagu do 24 sata.

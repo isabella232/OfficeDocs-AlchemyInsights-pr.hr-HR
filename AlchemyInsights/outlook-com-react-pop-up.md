@@ -1,9 +1,9 @@
 ---
-title: Outlook.com reagira na skočni prozor 8000091
+title: 8000091 Outlook.com Reagirati pop-up
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3a8ca385a6cfdbbbd9ce5c61b4b2201359e3fd3e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36545467"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744539"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com je spreman za prvi put
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com je spreman za premijera vrijeme
 
-Svjesni smo da neki kupci mogu vidjeti "Outlook.com je spreman za prvi put" skočni prozor svaki put kada se prijave, a mi radimo na Fix.
+Svjesni smo da neki korisnici mogu vidjeti skočni prozor "Outlook.com je spreman za premijera" svaki put kada se prijave, a mi radimo na popravku.
 
 Žao mi je zbog toga.
 

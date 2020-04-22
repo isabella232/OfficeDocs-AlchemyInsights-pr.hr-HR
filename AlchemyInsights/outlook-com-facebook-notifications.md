@@ -1,9 +1,9 @@
 ---
-title: Outlook.com Facebook obavijesti
+title: Outlook.com Obavijesti na Facebooku
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/1/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: 737785e235389e211557b8055a561ec7a7d66692
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822063"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760332"
 ---
 # <a name="facebook-notifications-using-outlookcom"></a>Facebook obavijesti pomoću Outlook.com
 
-Ako ne želite primati obavijesti s Facebooka, možete promijeniti [Postavke Facebooka](https://aka.ms/facebook-notifications-settings) ili postaviti pravilo ulazne pošte.
+Ako ne želite primati obavijesti s Facebooka, možete promijeniti [postavke facebooka](https://aka.ms/facebook-notifications-settings) ili postaviti Pravilo ulazne pošte.
 
 1. Idite na [Postavke pravila](https://outlook.live.com/mail/options/mail/rules/inboxRules).
 1. Odaberite **Dodaj novo pravilo**.
 1. Navedi svoje pravilo "Facebook".
-1. Dodajte uvjet "from" i unesite "notification@facebookmail.com"
-1. Dodajte akciju "Delete". Odabir brisanja znači da poruke ostaju u izbrisanim stavkama i mogu se oporaviti. Ako odaberete "Označi kao bezvrijedno", poruke će se automatski izbrisati i ne mogu se oporaviti.
+1. Dodajte uvjet "Od" i unesite "notification@facebookmail.com"
+1. Dodajte akciju "Izbriši". Odabir omalovažavanje znači da poruke ostaju u izbrisanim stavkama i mogu se vratiti. Ako odaberete "Označi kao bezvrijedno", poruke će se automatski izbrisati i ne mogu se vratiti.
 1. Odaberite **Spremi**.

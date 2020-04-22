@@ -1,9 +1,9 @@
 ---
-title: 8000088 spremanja e-pošte u Outlook.com
+title: 8000088 Spremanje e-pošte u Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,27 +14,27 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: de5147c772b499e6ac494ff17039d192c690b9b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b04901aa77135da48df9ce56f0af11b9ea77bbaf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521271"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759034"
 ---
-# <a name="saving-messages-in-outlookcom"></a>Spremanje poruke u Outlook.com
+# <a name="saving-messages-in-outlookcom"></a>Spremanje poruka u Outlook.com
 
-Poruka e-pošte nije moguće spremiti u Outlook.com, ali možete ih ispisati PDF koji možete spremiti na Računalu.
+Poruke e-pošte ne možete spremiti u Outlook.com, ali ih možete ispisati u PDF koji možete spremiti na PC.
 
-Uslužni program Microsoft ispisa za PDF uključeni u Windows 10 omogućuje ispis bilo koju poruku e-pošte izravno u PDF.
+Uslužni program Microsoft Print To PDF obuhvaćen sustavom Windows 10 omogućuje ispis bilo koje poruke e-pošte izravno u PDF.
 
-1. Odaberite poruku na koju želite spremiti.
+1. Odaberite poruku koju želite spremiti.
 2. Odaberite tri točkice <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- na vrhu poruka i zatim odaberite <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
- **Ispis**.
-3. Odaberite **Ispis** i iz padajućeg izbornika pisača odaberite **Ispis Microsoft u PDF**.
+ pri vrhu poruke, a zatim odaberite <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
+ **Ispiši**.
+3. Odaberite **Ispis** ponovno i na padajućem izborniku pisača odaberite **Microsoft Print to PDF**.
 4. Odaberite **Ispis**.
 5. Unesite naziv datoteke, a zatim odaberite **Spremi**.
 
-**Napomena:** To se ne preporučuje na javno ili računalima kao drugim korisnicima može imati pristup svaki PDF spremite na računalo i nemojte izbrisati.
+**Napomena:** To se ne preporučuje na zajedničkim ili javnim računalima jer drugi korisnici mogu imati pristup svim PDF-ovima koje spremite na PC i ne brišu.
 
-Dodatne informacije o ispisu potražite [Ispis poruke e-pošte, privitke, i kalendare u Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
+Dodatne informacije o ispisu potražite u odjeljku [Ispis poruka e-pošte, privitaka i kalendara u sustavu Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).

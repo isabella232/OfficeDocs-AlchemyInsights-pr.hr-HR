@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 28c3a376170aba0ae43929865200fc85cd1c41f4
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 27f3dc123590f3199d6a984d7e9a4db3918ac9cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626736"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758854"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kako odgoditi nadogradnju programa Microsoft driven Teams
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kako odgoditi nadogradnju na Microsoft driven Teams
 
-Ako ste primili komunikaciju o automatskoj nadogradnji koje pokreće Microsoft s servisa Skype za tvrtke u Microsoft Teams, a želite odgoditi automatsku nadogradnju na kasniji datum, vaš Office 365 Global admin može se prijaviti na [portal admin portala](https://admin.teams.microsoft.com/dashboard) i odaberite gumb **odgoditi** . Da biste vidjeli novi Datum automatizirane nadogradnje vašeg stanara na Microsoft Teams, osvježite stranicu portala za administraciju timova.
+Ako ste primili komunikaciju o automatiziranoj nadogradnji utemeljenoj na Microsoftu s skypea za tvrtke na Microsoft Teams i želite odgoditi automatiziranu nadogradnju na kasniji datum, globalni administrator može se prijaviti na [portal Administrator timova](https://admin.teams.microsoft.com/dashboard) i odabrati gumb **Odgodi.** Da biste vidjeli novi datum automatizirane nadogradnje klijenta na Microsoft Teams, osvježite stranicu portala Teams Admin.
 
-**Napomena:** Gumb **Odgoda** bit će dostupan samo ako ste primili obavijest centra za poruke u vezi s automatiziranom nadogradnjom. 
+**Napomena:** Gumb **Odgodi** bit će dostupan samo ako ste primili obavijest centra za poruke u vezi s automatiziranom nadogradnjom. 
 
-Office 365 Global Admins također može pokrenuti [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) da biste saznali više o trenutnom statusu nadogradnje. 
+Globalni administratori mogu pokrenuti [get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) da bi saznali više o svojem trenutnom statusu nadogradnje. 

@@ -1,5 +1,5 @@
 ---
-title: Korištenje Microsoft Edge na temelju Chromium preglednika za Ediscovery izvoz
+title: Korištenje preglednika Microsoft Edge na temelju preglednika chromium za izvoz za otkrivanje e-a
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: d4ccaf4928fb041ec7914b95520c4e7ccdac208c
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 5c247ab69c272d2d296f9602fc5246a08164da5e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741135"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726204"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Korištenje Microsoft Edge na temelju Chromium preglednika za Ediscovery izvoz
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Korištenje preglednika Microsoft Edge na temelju preglednika chromium za izvoz za otkrivanje e-a
 
-S obzirom na nedavnu promjenu, preglednik Microsoft Edge više neće imati omogućenu podršku za ClickOnce. Da biste nastavili koristiti Microsoft Office 365 eDiscovery Export Tool, morat ćete koristiti Microsoft Internet Explorer ili omogućiti podršku za ClickOnce u pregledniku Microsoft Edge. 
+Zbog nedavne promjene, preglednici Microsoft Edge više neće imati omogućenu clickOnce podršku prema zadanim postavkama. Da biste nastavili koristiti alat za izvoz elektroničkih dokumenata microsoft 365, morat ćete koristiti Microsoft Internet Explorer ili omogućiti ClickOnce podršku u pregledniku Microsoft Edge. 
 
-Da biste omogućili ClickOnce support u Microsoft Edge na temelju Chromium: 
-1. U pregledniku Microsoft Edge posjetite edge://flags/#edge-Click-jednom.
-2. Za mogućnost podrške za ClickOnce promijenite vrijednost iz **zadanog** ili **onemogućenog** na **omogućeno**. 
+Da biste omogućili ClickOnce podršku u pregledniku Microsoft Edge na temelju kroma: 
+1. U pregledniku Microsoft Edge posjetite edge://flags/#edge-click-once.
+2. Za mogućnost ClickOnce podrška promijenite vrijednost iz **Zadano** ili **Onemogućeno** u **Omogućeno**. 
 3. Pri dnu prozora preglednika odaberite **Ponovno pokreni**. <br>
- Promjena će stupiti na snagu nakon ponovnog pokretanja Microsoft Edge. 
+ Promjena će stupiti na snagu nakon ponovnog pokretanja preglednika Microsoft Edge. 
 
-Za informacije o tome i koracima za instaliranje izvoznog alata pogledajte: [Izvoz rezultata pretraživanja sadržaja](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Informacije o tome i koraci maza alata za izvoz potražite u članku [Izvoz rezultata pretraživanja sadržaja](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).

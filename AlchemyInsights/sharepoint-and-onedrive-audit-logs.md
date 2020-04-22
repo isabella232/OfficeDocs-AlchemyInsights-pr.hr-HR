@@ -1,9 +1,9 @@
 ---
-title: Klasična izvješća evidencije nadzornih zapisnika sustava SharePoint
+title: Klasična izvješća zapisnika nadzora sustava SharePoint
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,40 +12,40 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: be95034bea3c58a4fde96cfb0f9ba525e810758e
-ms.sourcegitcommit: 24e8248b0f061a76af50bf566d7a13fc24d29d99
+ms.openlocfilehash: 3270f1ab03bacb235cbdc3d710053c858f0a5183
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37992610"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741957"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>Zapisnici revizije sustava SharePoint i OneDrive
+# <a name="sharepoint-and-onedrive-audit-logs"></a>Zapisnici nadzora sustava SharePoint i OneDrive
 
-## <a name="sharepoint-classic-audit-logs"></a>SharePoint klasični dnevnici nadzora
+## <a name="sharepoint-classic-audit-logs"></a>Klasični zapisnici nadzora sustava SharePoint
 
-U jedinstvenim revizijskim Evidijama (UAL). Sva štena revizijska izvješća SPO-a sada će biti pokretana preko UAL-a, a naslijeđeni revizijski signali su premješteni u UAL.
+SPO naslijeđeno nadziranje premješteno je u zapisnik objedinjenog nadzora (UAL). Sva spovita izvješća o reviziji SPO-a sada će biti napajana putem UAL-a, a naslijeđeni revizijski signali migrirani su u UAL.
 
 Ključne promjene:
 
-* Obrezivanje nije dostupno kao mogućnost.
-* Odabir specifičnih događaja za reviziju nije dostupan. Pogledajte [ovaj dokument](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) za potpuni popis revidiranih događaja dostupnih prema zadanim postavkama.
-* Opcija **lokacija** pod **prilagođenim izvješćima** nije dostupna.
-* Mogućnost **otvaranja ili preuzimanja dokumenata** nije dostupna.
+* Podrezivanje NIJE dostupno kao sposobnost.
+* Odabir određenih događaja za reviziju NIJE dostupan. Pogledajte [ovaj dokument](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) za potpuni popis nadziranih događaja dostupnih prema zadanim postavkama.
+* Mogućnost **Lokacija** u **odjeljku Prilagođena izvješća** NIJE dostupna.
+* Mogućnost Otvaranje ili preuzimanje događaja **dokumenata** NIJE dostupna.
 
 [Konfiguriranje postavki nadzora za zbirku web-mjesta](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
 
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Dnevnika programa SharePoint i OneDrive moderne jedinstvene revizije iz sukladnosti
+## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Datoteke s objema nadzora sustava SharePoint i OneDrive iz usklađenosti
 
-* [Uključi/isključi objedinjeno bilježenje nadzora](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+* [Uključivanje/isključivanje objedinjenog zapisivanja nadzora](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-U sustavu SharePoint ili servisu OneDrive nije potrebna dodatna konfiguracija.
+Nije potrebna dodatna konfiguracija u sustavu SharePoint ili OneDrive.
 
-Korištenje pretraživanja zapisnika nadzora za provjeru aktivnosti datoteka, mapa, korisnika, dozvola:
+Koristite pretraživanje zapisivanja nadzora da biste provjerili aktivnost datoteka, mapa, korisnika, dozvola:
 
 * [Aktivnosti datoteka i stranica](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-* [Aktivnosti mape](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Korištenje aktivnosti zahtjeva za dijeljenje i pristup](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Aktivnosti mapa](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Dijeljenje i pristup aktivnostima zahtjeva](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
 * [Aktivnosti sinkronizacije](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
 * [Aktivnosti administracije web-mjesta](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Dodatne informacije o dohvat tih događaja potražite [u pretraživanju zapisnika nadzora](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Dodatne informacije o dohvaćanju tih događaja [potražite u odjeljku Pretraživanje zapisnika nadzora](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).

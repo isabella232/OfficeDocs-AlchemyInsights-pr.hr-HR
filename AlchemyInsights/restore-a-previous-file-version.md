@@ -3,7 +3,7 @@ title: Vraćanje prethodne verzije datoteke
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 3d612b3e729b471cafd8304d8afe0f569f257e49
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 4432e3f169378c9a694bd633d0a7f12ad057e7ad
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36552343"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742711"
 ---
 # <a name="restore-a-previous-file-version"></a>Vraćanje prethodne verzije datoteke
 
-S povijesti online verzije možete vidjeti i vratiti starije verzije datoteka na servisu OneDrive ili SharePoint. Povijest verzija radi sa svim vrstama datoteka, uključujući PDF-ove, CAD datoteke, fotografije i videozapise. Da biste vratili prethodnu verziju datoteke:
+Pomoću povijesti mrežnih verzija možete vidjeti i vratiti starije verzije datoteka na servisu OneDrive ili sharepoint. Povijest verzija funkcionira sa svim vrstama datoteka, uključujući PDF-ove, CAD datoteke, fotografije i videozapise. Da biste vratili prethodnu verziju datoteke:
   
-1. Otvorite biblioteku dokumenata sustava SharePoint ili lokaciju servisa OneDrive.
+1. Otvorite biblioteku dokumenata sustava SharePoint ili mjesto servisa OneDrive.
     
-2. Kliknite lijevo od datoteke da biste je odabrali, a zatim kliknite **Povijest verzija**. Ako na naredbenoj traci ne vidite povijest verzija, kliknite više ( **...** ). 
+2. Kliknite lijevo od datoteke da biste je odabrali, a zatim **kliknite Povijest verzija**. Ako na naredbenoj traci ne vidite povijest verzija, kliknite Više ( **...** ). 
     
-3. Kliknite verziju koju želite prikazati ili kliknite više ( **...** ) desno od verzije, a zatim kliknite **Vrati**.
+3. Kliknite verziju koju želite pregledati ili kliknite Više ( **...** ) s desne strane verzije, a zatim kliknite **Vrati**.
     
 

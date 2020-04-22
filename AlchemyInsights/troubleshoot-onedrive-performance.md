@@ -9,25 +9,25 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 5416da63851de8b0b45e1d5c0cef24b03db40e6e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 197a84c5f69f9e58460925049345263743fe78ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054946"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733190"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>Otklanjanje poteškoća s performansama servisa OneDrive
 
-Ako se pojavljuje sporiji od očekivanog sinkronizacije ili sličnih problema s performansama s servisom OneDrive:
+Ako imate sporiji od očekivane sinkronizacije ili probleme sa sličnim performansama sa servisom OneDrive:
 
-- Potvrdite da nema poznatih problema pomoću [nadzorne ploče za zdravlje usluga](https://portal.office.com/adminportal/home?ref=/servicehealth).
+- Potvrdite da nema poznatih problema pomoću [nadzorne ploče stanja servisa](https://portal.office.com/adminportal/home?ref=/servicehealth).
 
-- [Omogućite datoteke na zahtjev](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-US&rs=en-US&ad=US) tako da možete pristupiti svim datotekama na servisu OneDrive bez da ih sve preuzmete i koristite prostor za pohranu na uređaju.
+- [Omogućite datoteke na zahtjev](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) da biste svim datotekama na servisu OneDrive mogli pristupiti bez potrebe za preuzimanjem svih datoteka i korištenjem prostora za pohranu na uređaju.
 
-- [Pregledajte najbolje prakse](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) za planiranje i performanse mreže.
+- [Pregledajte najbolje primjere iz prakse](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) za planiranje i performanse mreže.
 
-- [Maksimalno Povećajte brzinu prijenosa i preuzimanja](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43), osobito ako prvi put sinkronizirate uređaj.
+- [Maksimizirajte brzinu prijenosa i preuzimanja,](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)osobito ako sinkronizirate uređaj prvi put.
 
-- Ako sinkronizirate biblioteku s više od 100.000 stavki, Sinkronizacija servisa OneDrive možda će se činiti duže vrijeme ili će status prikazati obradu 0KB xMB. " [Saznajte više o sinkroniziranje više od 100.000 datoteka](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) , kao i [ograničenje za OneDrive podržane granice od 300.000 datoteka](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- Ako sinkronizirate biblioteku s više od 100 000 stavki, sinkronizacija servisa OneDrive može se dugo prikazivati ili status prikazuje obradu 0KB xMB-a." [Saznajte više o sinkronizaciji više od 100.000 datoteka](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) kao i [podržanog ograničenja od 300 000 datoteka na servisu OneDrive](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
-- Kada korisnik prelazi ograničenja korištenja, SharePoint Online ograničava sve daljnje zahtjeve tog korisničkog računa na kratko razdoblje. Sve korisničke radnje se ograniče dok je gas na snazi.
+- Kada korisnik premaši ograničenja korištenja, SharePoint Online zamrači sve dodatne zahtjeve s tog korisničkog računa na kratko razdoblje. Sve akcije korisnika su gasite dok je gas na snazi.

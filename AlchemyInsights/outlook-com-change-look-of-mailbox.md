@@ -3,26 +3,26 @@ title: Outlook.com promjenu izgleda poštanskog sandučića
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547664"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721890"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Promjena izgleda Outlook.com poštanski sandučić
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Promjena izgleda poštanskog sandučića Outlook.com
 
-Možete promijeniti izgled popisa i čitanje okno poruku u Outlook.com.
+Izgled popisa poruka i okna za čitanje možete promijeniti u Outlook.com.
 
-- Da biste promijenili izgled prozora poruke, otvorite mogućnosti [okna za čitanje](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Da biste promijenili kako se sortiraju e-pošte na vrhu popisa poruka odaberite **Filtar** > **Sortiranje po** i odaberite kako želite sortirati e-pošte.
-- Grupirati poruke po razgovoru, otvorite mogućnosti [poruke organizacije](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- Za uključivanje ili isključivanje fokusirana Primljeno, otvorite mogućnosti [izgleda](https://outlook.live.com/mail/options/mail/layout/focused) .
+- Da biste promijenili izgled prozora poruke, otvorite mogućnosti [okna za čitanje.](https://outlook.live.com/mail/options/mail/layout/readingPane)
+- Da biste promijenili način sortiranja e-pošte, pri vrhu popisa poruka odaberite **Filtriranje** > **po sortiranju** i odaberite način sortiranja e-pošte.
+- Da biste grupirali poruke po razgovoru, otvorite mogućnosti [organizacije poruka.](https://outlook.live.com/mail/options/mail/layout/conversations)
+- Da biste uključili ili isključili fokusiranu mapu Primljeno, otvorite mogućnosti [izgleda.](https://outlook.live.com/mail/options/mail/layout/focused)

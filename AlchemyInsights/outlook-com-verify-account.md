@@ -1,9 +1,9 @@
 ---
-title: Kako provjeriti vaš račun Outlook.com
+title: Kako potvrditi Outlook.com račun
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511486"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743409"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Kako provjeriti vaš račun Outlook.com
+# <a name="how-to-verify-your-outlookcom-account"></a>Kako potvrditi Outlook.com račun
 
-Dva koraka provjere pomaže u zaštiti čineći ga teže za netko drugi prijaviti u Microsoftov račun. Koristi dva različitih obrazaca identitet: lozinke i način kontakta (poznate i kao Info o sigurnosti).
+Potvrda u dva koraka pridonosi vašoj zaštiti otežavajući prijavu na Microsoftov račun. Koristi dva različita oblika identiteta: vašu lozinku i metodu kontakta (poznatu i kao sigurnosne podatke).
   
-Za uključivanje ili isključivanje provjere dva koraka:
+Da biste uključili ili isključili potvrdu u dva koraka:
   
-1. Idite na [stranicu Osnove sigurnosti](https://go.microsoft.com/fwlink/?linkid=842325) i Prijava putem Microsoftova računa.
-2. Odaberite **Dodatne mogućnosti sigurnosti**.
-3. Pod **dva koraka provjere**odaberite **Postavljanje provjere dva koraka** i slijedite upute.
+1. Otvorite [stranicu Osnove sigurnosti](https://go.microsoft.com/fwlink/?linkid=842325) i prijavite se pomoću Microsoftova računa.
+2. Odaberite **Dodatne sigurnosne mogućnosti**.
+3. U **odjeljku Potvrda u dva koraka**odaberite **Postavljanje potvrde u dva koraka** i slijedite upute.
 
-Ako uključite dva koraka provjere, uvijek ćete dva obrasce identifikacija. Ako izgubite način kontakta sama lozinku nećete dobiti ste natrag u obzir - i ga možete poduzeti 30 dana ponovno stekao pravo pristupa.
+Ako uključite provjeru u dva koraka, uvijek će vam trebati dva oblika identifikacije. Ako izgubite način kontakta, vaša lozinka sama neće vas vratiti na vaš račun - i to vam može potrajati 30 dana da ponovno pristupite.
   
-Saznajte više o [dva koraka provjere](https://go.microsoft.com/fwlink/?linkid=872270).
+Saznajte više o [potvrdi u dva koraka](https://go.microsoft.com/fwlink/?linkid=872270).
   
