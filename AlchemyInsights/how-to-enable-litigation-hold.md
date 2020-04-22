@@ -1,9 +1,9 @@
 ---
-title: 976-kako-omogućiti-tužba-čekanje
+title: 976-kako-to-omogućiti-parnice-držite
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398619"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720724"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a><span data-ttu-id="64e11-102">Postavite poštanski sandučić na zakonsko čekanje</span><span class="sxs-lookup"><span data-stu-id="64e11-102">Place a mailbox on legal hold</span></span>
+# <a name="place-a-mailbox-on-legal-hold"></a><span data-ttu-id="12573-102">Postavljanje poštanskog sandučića na pravno zadržavanje</span><span class="sxs-lookup"><span data-stu-id="12573-102">Place a mailbox on legal hold</span></span>
 
-- <span data-ttu-id="64e11-103">Za mjesto poštanskog sandučića na čekanju ili na čekanju, Exchange Online plan 2 [licenca Exchange Online plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) je potrebna.</span><span class="sxs-lookup"><span data-stu-id="64e11-103">To place a mailbox on Litigation Hold or In-Place hold, an Exchange Online Plan 2 license [Exchange Online Plan 2 license](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) is required.</span></span> <span data-ttu-id="64e11-104">Ako je poštanskom sandučiću dodijeljen plan 1, možete dodijeliti zasebnu licencu za Exchange Online [arhiviranje](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)dodatke Exchange Online arhiviranju.</span><span class="sxs-lookup"><span data-stu-id="64e11-104">If a mailbox is assigned a Plan 1 license, you can assign a separate Exchange Online Archiving add-on license [Exchange Online Archiving add-on license](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).</span></span>
+- <span data-ttu-id="12573-103">Da biste poštanski sandučić postavite na čuvanje parnice ili čuvanje na mjestu, potrebna je licenca exchange online tarife [Exchange Plan 2 Exchange Online Plan 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)</span><span class="sxs-lookup"><span data-stu-id="12573-103">To place a mailbox on Litigation Hold or In-Place hold, an Exchange Online Plan 2 license [Exchange Online Plan 2 license](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) is required.</span></span> <span data-ttu-id="12573-104">Ako je poštanskom sandučiću dodijeljena licenca Plan 1, možete dodijeliti zasebnu licencu za arhiviranje sustava Exchange Online [exchange online exchange online arhiviranje](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).</span><span class="sxs-lookup"><span data-stu-id="12573-104">If a mailbox is assigned a Plan 1 license, you can assign a separate Exchange Online Archiving add-on license [Exchange Online Archiving add-on license](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).</span></span>
 
-- <span data-ttu-id="64e11-105">Da biste omogućili čekanje na parnice za jednog korisnika, [slijedite ove korake](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold).</span><span class="sxs-lookup"><span data-stu-id="64e11-105">To enable Litigation Hold for a single user, [follow these steps](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold).</span></span> <span data-ttu-id="64e11-106">Kada je omogućeno čekanje na parnice, sačuvat će se sav sadržaj u poštanskom sandučiću.</span><span class="sxs-lookup"><span data-stu-id="64e11-106">When Litigation Hold is enabled, all content in the mailbox is preserved.</span></span>
+- <span data-ttu-id="12573-105">Da biste omogućili čuvanje parnice za jednog korisnika, [slijedite ove korake](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold).</span><span class="sxs-lookup"><span data-stu-id="12573-105">To enable Litigation Hold for a single user, [follow these steps](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold).</span></span> <span data-ttu-id="12573-106">Kada je omogućeno čuvanje parnice, sačuvan je sav sadržaj u poštanskom sandučiću.</span><span class="sxs-lookup"><span data-stu-id="12573-106">When Litigation Hold is enabled, all content in the mailbox is preserved.</span></span>
 
-- <span data-ttu-id="64e11-107">Da biste sačuvali sadržaj u svim poštanskim sandučićima u vašoj organizaciji, možete koristiti [pravilo zadržavanja Office 365 na razini organizacije](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations).</span><span class="sxs-lookup"><span data-stu-id="64e11-107">To preserve content in all mailboxes in your organization, you can use an [organization-wide Office 365 retention policy](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations).</span></span> <span data-ttu-id="64e11-108">Napominjemo da će se za pravila zadržavanja na razini organizacije novi korisnici automatski dodijeliti pravilima.</span><span class="sxs-lookup"><span data-stu-id="64e11-108">Note that for organization-wide retention policies, new users will be automatically assigned to the policy.</span></span>
+- <span data-ttu-id="12573-107">Da biste sačuvali sadržaj u svim poštanskim sandučićima u tvrtki ili ustanovi, možete koristiti [pravila zadržavanja na razini tvrtke ili ustanove](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations).</span><span class="sxs-lookup"><span data-stu-id="12573-107">To preserve content in all mailboxes in your organization, you can use an [organization-wide retention policy](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations).</span></span> <span data-ttu-id="12573-108">Imajte na umu da će za pravila zadržavanja na razini organizacije novi korisnici automatski biti dodijeljeni pravilima.</span><span class="sxs-lookup"><span data-stu-id="12573-108">Note that for organization-wide retention policies, new users will be automatically assigned to the policy.</span></span>

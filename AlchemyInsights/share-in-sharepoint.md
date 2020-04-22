@@ -1,9 +1,9 @@
 ---
-title: Podijeli u sustavu SharePoint
+title: Zajedničko korištenje u sustavu SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 0498f7e6b4b0989f043afbb7573af54b5206a11a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36549463"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742359"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a><span data-ttu-id="2c764-102">Kako zajednički koristiti SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="2c764-102">How to share in SharePoint Online</span></span>
+# <a name="how-to-share-in-sharepoint-online"></a><span data-ttu-id="9faa2-102">Zajedničko korištenje u sustavu SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="9faa2-102">How to share in SharePoint Online</span></span>
 
-<span data-ttu-id="2c764-103">Da biste podijelili web-mjesto:</span><span class="sxs-lookup"><span data-stu-id="2c764-103">To share a site:</span></span>
+<span data-ttu-id="9faa2-103">Da biste zajednički koristili web-mjesto:</span><span class="sxs-lookup"><span data-stu-id="9faa2-103">To share a site:</span></span>
   
-1. <span data-ttu-id="2c764-104">Otvorite web-mjesto u web-pregledniku.</span><span class="sxs-lookup"><span data-stu-id="2c764-104">Open the site in a web browser.</span></span>
+1. <span data-ttu-id="9faa2-104">Otvorite web-mjesto u web-pregledniku.</span><span class="sxs-lookup"><span data-stu-id="9faa2-104">Open the site in a web browser.</span></span>
     
-2. <span data-ttu-id="2c764-105">Ako web-mjesto pripada grupi sustava Office 365, kliknite ikonu Postavke u gornjem desnom dijelu, a zatim kliknite **dozvole web-mjesta**.</span><span class="sxs-lookup"><span data-stu-id="2c764-105">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="2c764-106">Kliknite **Pozovi osobe**, a zatim odaberite Dodavanje članova u grupu sustava Office 365 ili podijelite samo web-mjesto.</span><span class="sxs-lookup"><span data-stu-id="2c764-106">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
+2. <span data-ttu-id="9faa2-105">Ako web-mjesto pripada grupi sustava Office 365, kliknite ikonu Postavke u gornjem desnom kutu, a zatim **dozvole web-mjesta**.</span><span class="sxs-lookup"><span data-stu-id="9faa2-105">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="9faa2-106">Kliknite **Pozovi osobe**, a zatim odaberite dodavanje članova u grupu sustava Office 365 ili zajedničko korištenje samo web-mjesta.</span><span class="sxs-lookup"><span data-stu-id="9faa2-106">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
     
-    <span data-ttu-id="2c764-107">Za web-mjesto za komunikaciju kliknite **zajedničko korištenje web-mjesta** u gornjem desnom dijelu, unesite ime osobe, a zatim odaberite razinu dozvole (čitanje, uređivanje ili potpuna kontrola).</span><span class="sxs-lookup"><span data-stu-id="2c764-107">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
+    <span data-ttu-id="9faa2-107">Za web-mjesto za komunikaciju kliknite **Zajedničko korištenje web-mjesta** u gornjem desnom kutu, unesite ime osobe, a zatim odaberite razinu dozvole (Čitanje, Uređivanje ili Potpuna kontrola).</span><span class="sxs-lookup"><span data-stu-id="9faa2-107">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
     
-    <span data-ttu-id="2c764-108">Za klasično timsko web-mjesto kliknite **Podijeli** u gornjem desnom dijelu.</span><span class="sxs-lookup"><span data-stu-id="2c764-108">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="2c764-109">Unesite ime osobe koju želite pozvati ili upišite svatko za dijeljenje s svima u vašoj organizaciji.</span><span class="sxs-lookup"><span data-stu-id="2c764-109">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="2c764-110">Kliknite **Podijeli**.</span><span class="sxs-lookup"><span data-stu-id="2c764-110">Click **Share**.</span></span>
+    <span data-ttu-id="9faa2-108">Za klasično timsko web-mjesto kliknite **Zajedničko korištenje** u gornjem desnom kutu.</span><span class="sxs-lookup"><span data-stu-id="9faa2-108">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="9faa2-109">Unesite ime osobe koju želite pozvati ili upišite Svi da biste je zajednički koristili sa svima u tvrtki ili ustanovi.</span><span class="sxs-lookup"><span data-stu-id="9faa2-109">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="9faa2-110">Kliknite **Zajedničko korištenje**.</span><span class="sxs-lookup"><span data-stu-id="9faa2-110">Click **Share**.</span></span>
     
-[<span data-ttu-id="2c764-111">Saznajte kako zajednički koristiti datoteku ili mapu</span><span class="sxs-lookup"><span data-stu-id="2c764-111">Learn how to share a file or folder</span></span>](https://go.microsoft.com/fwlink/?linkid=511430)
+[<span data-ttu-id="9faa2-111">Saznajte kako zajednički koristiti datoteku ili mapu</span><span class="sxs-lookup"><span data-stu-id="9faa2-111">Learn how to share a file or folder</span></span>](https://go.microsoft.com/fwlink/?linkid=511430)
   
 
