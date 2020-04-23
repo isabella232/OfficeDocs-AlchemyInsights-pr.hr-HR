@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4352"
-ms.openlocfilehash: 6b1d6043013fd90d2aa7e5688c25cc1186d734f1
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: 5677d41c37f3114f40c2fae7cb0fd48c040813a6
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541633"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43789006"
 ---
 # <a name="teams-dial-in-conferencing-number-removal"></a>Uklanjanje broja za uključivanje u konferenciju biranjem u programu Teams
 
@@ -24,7 +24,7 @@ Trebate li pomoć pri uklanjanju broja za uključivanje u konferenciju biranjem 
 
 Zadani telefonski broj konferencijskog mosta određuje ID pozivatelja koji će se koristiti prilikom odlaznog poziva nekog od sudionika ili organizatora iz samog sastanka.
 
-1. Prijavite se u Office 365 pomoću računa tvrtke.
+1. Prijavite se pomoću poslovnog računa.
 
 2. Otvorite **Centar za administratore okruženja Microsoft 365**.
 
