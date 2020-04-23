@@ -1,9 +1,9 @@
 ---
-title: Smjene timova
+title: Timovi Shifts
 ms.author: heidip
 author: heidip
 manager: dansimp
-ms.date: 3/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1686"
 - "9000161"
-ms.openlocfilehash: 7c5e736d0ac66fb5a1398494b9ffe1164324e344
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: cbd5363ba153299e0af2133858a49544a6c6c75c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328662"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737444"
 ---
-# <a name="using-teams-shifts"></a><span data-ttu-id="2734a-102">Korištenje smjena timova</span><span class="sxs-lookup"><span data-stu-id="2734a-102">Using Teams Shifts</span></span>
+# <a name="using-teams-shifts"></a><span data-ttu-id="034af-102">Korištenje pomaka timova</span><span class="sxs-lookup"><span data-stu-id="034af-102">Using Teams Shifts</span></span>
 
-<span data-ttu-id="2734a-103">Da biste saznali više o smjenama za timove, uključujući kako migrirati iz programa Microsoft Staffhub, pogledajte [smjene u timovima](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span><span class="sxs-lookup"><span data-stu-id="2734a-103">To learn more about Shifts for Teams, including how to migrate from Microsoft Staffhub, see [Shifts for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span></span> 
+<span data-ttu-id="034af-103">Dodatne informacije o smjenama za teams, uključujući migraciju iz microsoft staffhuba, potražite u [odjeljku Smjene za teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span><span class="sxs-lookup"><span data-stu-id="034af-103">To learn more about Shifts for Teams, including how to migrate from Microsoft Staffhub, see [Shifts for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).</span></span> 
 
-<span data-ttu-id="2734a-104">Microsoft Staffhub bit će [umirovljen](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) 31. prosinca 2019.</span><span class="sxs-lookup"><span data-stu-id="2734a-104">Microsoft Staffhub will be [retired](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) on December 31, 2019.</span></span> 
+<span data-ttu-id="034af-104">Microsoft Staffhub bit će [u mirovini](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) 31.</span><span class="sxs-lookup"><span data-stu-id="034af-104">Microsoft Staffhub will be [retired](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) on December 31, 2019.</span></span> 
 

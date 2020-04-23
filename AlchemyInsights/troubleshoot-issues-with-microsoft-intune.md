@@ -1,25 +1,25 @@
 ---
-title: Rješavanje problema s Microsoft Intune
+title: Otklanjanje poteškoća s programom Microsoft Intune
 ms.author: pebaum
 author: pebaum
-ms.date: 10/23/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 0875105a99b5c85caaef96a61d6d6f23ae294116
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 916ce1fa20f8f12483b76a53eac4234849d48ce3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506579"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733442"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a><span data-ttu-id="7d893-102">Rješavanje problema s Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="7d893-102">Troubleshoot issues with Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-microsoft-intune"></a><span data-ttu-id="bf781-102">Otklanjanje poteškoća s programom Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="bf781-102">Troubleshoot issues with Microsoft Intune</span></span>
 
-<span data-ttu-id="7d893-103">Pregledajte resurse dolje navedene da riješite problem.</span><span class="sxs-lookup"><span data-stu-id="7d893-103">Review resources listed below to resolve your issue now.</span></span>
+<span data-ttu-id="bf781-103">Pregledajte resurse navedene u nastavku da biste odmah riješili problem.</span><span class="sxs-lookup"><span data-stu-id="bf781-103">Review resources listed below to resolve your issue now.</span></span>
   
-1. <span data-ttu-id="7d893-104">Koristite [Portal otklanjanje Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) dijagnosticirati i riješiti neke uobičajene pogreške.</span><span class="sxs-lookup"><span data-stu-id="7d893-104">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve some common failures.</span></span> <span data-ttu-id="7d893-105">Pregledajte [ovaj](https://docs.microsoft.com/intune/help-desk-operators) dokument za više detalja.</span><span class="sxs-lookup"><span data-stu-id="7d893-105">Review [this](https://docs.microsoft.com/intune/help-desk-operators) document for more details.</span></span>  
-2. <span data-ttu-id="7d893-106">Pregledajte [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)da biste pronašli odgovore i rješenja za uobičajene probleme.</span><span class="sxs-lookup"><span data-stu-id="7d893-106">Review [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)to find answers and solutions to common issues.</span></span>  
-3. <span data-ttu-id="7d893-107">Odjava [Servis stanja sustava](https://portal.office.com/AdminPortal/Home#/servicehealth) da biste vidjeli stanje usluge.</span><span class="sxs-lookup"><span data-stu-id="7d893-107">Check out [Service Health](https://portal.office.com/AdminPortal/Home#/servicehealth) to see status of the service.</span></span>   
-4. <span data-ttu-id="7d893-108">Pregledajte [dokumentaciju Intune](https://docs.microsoft.com/intune/) za planiranje, s uputama, otklanjanje poteškoća članke i više.</span><span class="sxs-lookup"><span data-stu-id="7d893-108">Review [Intune documentation](https://docs.microsoft.com/intune/) for planning, how-to, troubleshooting articles and more.</span></span> 
+1. <span data-ttu-id="bf781-104">Koristite [Intune Portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili neke uobičajene pogreške.</span><span class="sxs-lookup"><span data-stu-id="bf781-104">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve some common failures.</span></span> <span data-ttu-id="bf781-105">Dodatne informacije potražite [u ovom](https://docs.microsoft.com/intune/help-desk-operators) dokumentu.</span><span class="sxs-lookup"><span data-stu-id="bf781-105">Review [this](https://docs.microsoft.com/intune/help-desk-operators) document for more details.</span></span>  
+2. <span data-ttu-id="bf781-106">Pregledajte [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)da biste pronašli odgovore i rješenja uobičajenih problema.</span><span class="sxs-lookup"><span data-stu-id="bf781-106">Review [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)to find answers and solutions to common issues.</span></span>  
+3. <span data-ttu-id="bf781-107">Pogledajte [Stanje servisa](https://portal.office.com/AdminPortal/Home#/servicehealth) da biste vidjeli status usluge.</span><span class="sxs-lookup"><span data-stu-id="bf781-107">Check out [Service Health](https://portal.office.com/AdminPortal/Home#/servicehealth) to see status of the service.</span></span>   
+4. <span data-ttu-id="bf781-108">Pregledajte [Intune dokumentaciju](https://docs.microsoft.com/intune/) za planiranje, upute, otklanjanje poteškoća i još mnogo toga.</span><span class="sxs-lookup"><span data-stu-id="bf781-108">Review [Intune documentation](https://docs.microsoft.com/intune/) for planning, how-to, troubleshooting articles and more.</span></span> 
