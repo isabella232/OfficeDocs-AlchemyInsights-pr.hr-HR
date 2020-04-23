@@ -2,7 +2,7 @@
 title: Migracija e-pošte s IMAP-a
 ms.author: pebaum
 author: pebaum
-ms.date: 5/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 6e4e2430ff2fc9b493d93897ca3429bbee82e96e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 6d5a3ad2c3f8d3e1f294ddc641716e62fc0ada78
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36738801"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713854"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>Kada se prikaže pogreška "Neprihvaćena domena"
 
-Prilikom pokušaja dodavanja adrese e-pošte na korisnika ili grupe ili tijekom migracije poštanskih sandučića sustava Office 365 možda vam se prikaže sljedeća pogreška: **Ne možete koristiti domenu jer to još nije prihvaćena domena za sustav Exchange.**
+Tijekom pokušaja dodavanja adrese e-pošte na korisnika ili grupe ili tijekom migracije poštanskih sandučića okruženja Microsoft 365 možda vam se prikaže sljedeća pogreška: **Ne možete upotrebljavati domenu jer to još nije prihvaćena domena za sustav Exchange.**
   
 U većini slučajeva ta je pogreška rezultat naziva domene *(primjerice contoso.com)*  koji nije u potpunosti postavljen na vašu organizaciju.
   
-Provjerite je domena u potpunosti postavljena tako da slijedite upute iz odjeljka [Dodavanje domene u Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+Provjerite je li domena u potpunosti postavljena tako da slijedite upute iz odjeljka [Dodavanje domene u Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
   
