@@ -12,21 +12,19 @@ ms.custom:
 - "5300030"
 - "2700"
 - "3179"
-ms.openlocfilehash: 500406e0f19610fe884df1faf3537aa7cb947e47
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552709"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789294"
 ---
-# <a name="sharepoint-migration-performance-guidance"></a><span data-ttu-id="c2be6-102">Smjernice za performanse migracije sustava SharePoint</span><span class="sxs-lookup"><span data-stu-id="c2be6-102">SharePoint migration performance guidance</span></span>
+# <a name="sharepoint-migration-performance-guidance"></a><span data-ttu-id="28fbd-102">Smjernice za performanse migracije sustava SharePoint</span><span class="sxs-lookup"><span data-stu-id="28fbd-102">SharePoint migration performance guidance</span></span>
 
-<span data-ttu-id="c2be6-103">Na performanse migracije mogu utjecati mrežna infrastruktura, veličina datoteke, vrijeme migracije te ograničavanje.</span><span class="sxs-lookup"><span data-stu-id="c2be6-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="c2be6-104">Razumijevanje gore navedenog olakšat će vam planiranje i maksimiziranje efikasnosti migracije.</span><span class="sxs-lookup"><span data-stu-id="c2be6-104">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="28fbd-103">Na performanse migracije mogu utjecati mrežna infrastruktura, veličina datoteke, vrijeme migracije te ograničavanje.</span><span class="sxs-lookup"><span data-stu-id="28fbd-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span>
 
-<span data-ttu-id="c2be6-105">Dodatne informacije potražite u sljedećim člancima:</span><span class="sxs-lookup"><span data-stu-id="c2be6-105">For more information, please visit:</span></span>
+<span data-ttu-id="28fbd-104">Dodatne informacije potražite u sljedećim člancima:</span><span class="sxs-lookup"><span data-stu-id="28fbd-104">For more information, please visit:</span></span>
 
-- [<span data-ttu-id="c2be6-106">Smjernice za performanse opće migracije</span><span class="sxs-lookup"><span data-stu-id="c2be6-106">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [<span data-ttu-id="28fbd-105">Smjernice za performanse opće migracije</span><span class="sxs-lookup"><span data-stu-id="28fbd-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-- [<span data-ttu-id="c2be6-107">Izbjegavanje uskih grla ili blokiranja u sustavu SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="c2be6-107">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [<span data-ttu-id="c2be6-108">Preuzimanje i instalacija alata za migraciju sustava SharePoint</span><span class="sxs-lookup"><span data-stu-id="c2be6-108">Download and install the SharePoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [<span data-ttu-id="28fbd-106">Izbjegavanje uskih grla ili blokiranja u sustavu SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="28fbd-106">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
