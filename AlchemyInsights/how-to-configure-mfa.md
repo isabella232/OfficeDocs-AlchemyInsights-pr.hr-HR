@@ -1,5 +1,5 @@
 ---
-title: 955 kako konfigurirati MFA
+title: 955 Kako konfigurirati MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739629"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722368"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>Konfiguriranje višestruku provjeru autentičnosti u sustavu Office 365
+# <a name="configure-multi-factor-authentication"></a>Konfiguriranje provjere autentičnosti s više faktora
 
-Da biste konfigurirali MFA, pogledajte [postavili višestruku provjeru autentičnosti korisnici za Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Da biste konfigurirali MFA, pogledajte [Postavljanje višestruke provjere autentičnosti](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
 
-Imajte na umu da trebate biti globalni administrator sistema Office 365 za omogućavanje i konfiguriranje MFA.
+Imajte na umu da morate biti globalni administrator da biste omogućili i konfigurirali MFA.

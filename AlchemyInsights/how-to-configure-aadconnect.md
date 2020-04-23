@@ -1,9 +1,9 @@
 ---
-title: 646 kako konfigurirati AADConnect
+title: 646 Kako konfigurirati AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541577"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722521"
 ---
-# <a name="configure-sync-features"></a>Konfiguriranje značajke sinkronizacije
+# <a name="configure-sync-features"></a>Konfiguriranje značajki sinkronizacije
 
-Povezivanje Azure AD uključuje nekoliko značajki koje su omogućena po zadanom ili koje kasnije možete omogućiti. Neke značajke zahtijevaju dodatnu konfiguraciju u određenim okruženjima.
+Azure AD Connect sadrži nekoliko značajki koje su prema zadanim postavkama omogućene ili koje možete omogućiti kasnije. Neke značajke zahtijevaju dodatnu konfiguraciju u određenim okruženjima.
 
-- [Filtriranje](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) ograničenja objekata se sinkroniziraju Azure AD. Po zadanom, sve korisnici, kontakti, grupe i Windows 10 sinkroniziraju se računi na računalu. Možete uključiti ili isključiti na temelju domene, organizacijske jedinice ili druge atribute objekata.
+- [Filtriranje](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) ograničava da se objekti sinkroniziraju sa Azure AD-om. Prema zadanim postavkama, svi korisnici, kontakti, grupe i računi računala sa sustavom Windows 10 sinkroniziraju se. Objekte možete uključiti ili izuzeti na temelju domena, OU-ova ili drugih atributa.
 
-- [Lozinka raspršivanja sinkronizacije](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) sinkronizira raspršivanja lozinku iz lokalno servisa Active Directory za Azure AD. To omogućuje upravljanje lozinkom na jedno mjesto, ali koristi istu lozinku u oba lokalno i oblak okruženjima. Jer je Active Directory mjerodavne izvora, možete koristiti vlastite pravila lozinke.
+- [Sinkronizacija raspisija](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) lozinkom sinkronizira raspadjevi lozinke iz lokalnog servisa Active Directory u Azure AD. To omogućuje upravljanje lozinkom na jednom mjestu, ali korištenje iste lozinke u lokalnim i cloud okruženjima. Budući da je Active Directory autoritativni izvor, možete koristiti vlastita pravila za lozinku.
 
-- [(SSPR) za vraćanje izvorne lozinke samoposlužno](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) omogućava korisnicima da Vrati svoje vlastite lozinke oblak dok još uvijek se primjenjuju pravila za lozinke lokalno.
+- [Samoposlužno ponovno postavljanje lozinke (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) korisnicima omogućuje ponovno postavljanje vlastitih lozinki u oblaku, a da još uvijek primjenjujete pravila lokalne lozinke.
 
-- [Writeback uređaj](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) dopušta registrirani uređaji u Azure AD budu napisani natrag na lokalno Active Directory pa se može koristiti za uvjetno pristup.
+- [Povrat podataka uređaja](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) omogućuje vraćanje registriranih uređaja u Azure AD u lokalni Active Directory da bi se mogli koristiti za uvjetni pristup.
 
-- [Briše spriječi slučajnog](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) po zadanom je omogućena za sprečavanje brisanja previše istodobnih objekt (više od 500 objekata po sinkronizacije). Možete promijeniti ovu postavku potrebama vaše organizacije.
+- [Sprječavanje slučajnog brisanja](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) omogućeno je prema zadanim postavkama kako bi se spriječilo previše istovremenih brisanja objekata (više od 500 objekata po sinkronizaciji). Tu postavku možete promijeniti tako da odgovara potrebama vaše tvrtke ili ustanove.
 
-- [Automatske nadogradnje](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) omogućena je po zadanom express instalacijama i osigurava vaša verzija Azure AD povezivanje uvijek je trenutni.
+- [Automatska nadogradnja](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) omogućena je prema zadanim postavkama za ekspresne instalacije i pomaže vam da vaša verzija usluge Azure AD Connect bude uvijek aktualna.

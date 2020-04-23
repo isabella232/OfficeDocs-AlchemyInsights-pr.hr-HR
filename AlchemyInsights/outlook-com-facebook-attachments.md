@@ -1,9 +1,9 @@
 ---
-title: Outlook.com e-mail pretplate
+title: Outlook.com pretplata na e-poštu
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 11/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: c07e1af1f1559b06515cdb65ca3c40c58bdb7216
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f802c3fb16decad593cf79ebb20561f61f0931ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38645645"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723523"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Nije moguće priložiti ili prenositi datoteke s Facebooka
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Nije moguće priložiti ili prenijeti datoteke s Facebooka
 
-Zbog promjene u Facebook uvjetima i odredbama, nakon listopada 23, 2019, više nećete moći učitati privitke izravno s Facebooka, a Facebook se više neće pojavljivati na popisu vaših mjesta u oblaku. 
+Zbog promjene uvjeta i odredbi facebooka, nakon listopada 23, 2019, više nećete moći prenijeti privitke izravno s Facebooka, a Facebook se više neće prikazivati na popisu lokacija u oblaku. 
 
-Popis drugih mjesta u oblaku možete upravljati na svojim [računima za pohranu](https://go.microsoft.com/fwlink/?linkid=2111075).
+Popisom drugih lokacija u oblaku možete upravljati na [računima za pohranu](https://go.microsoft.com/fwlink/?linkid=2111075).
 
 Saznajte više o [računima za pohranu](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
   

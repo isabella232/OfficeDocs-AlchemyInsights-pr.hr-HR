@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 4185077215ac3628103286ed58c396088410d868
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 61f2cb4d4d9158d8f9d90cd8a59d5a9ad109eb12
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600304"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789114"
 ---
 # <a name="project-common-issues-and-resolutions"></a>Zajednički problemi i rezolucije projekta
 
@@ -28,6 +28,6 @@ Evo nekih često traženih tema u programu Project:
 
 3. **Podešavanje performansi web-aplikacije Project Web App (PWA) u web-aplikaciji Project Online:** Pregledajte [učinak performansi i kompromise](https://docs.microsoft.com/projectonline/tune-project-online-performance) nekih od najčešćih postavki web-aplikacije Project Web App.
 
-4. **Povežite se s programom Project Online pomoću klijenta project desktop:** Pomoću [klijenta Project Online za stolna računala](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) povežite se s web-projektom Project Online u okruženju sustava Office 365. 
+4. **Povežite se s programom Project Online pomoću klijenta project desktop:** Pomoću [klijenta Project Online Desktop](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) povežite se s web-projektom Project Online u okruženju sustava Microsoft 365. 
 
-5. **Instalacija programa Project Professional:** [instalirajte i koristite Project Professional](https://support.office.com/en-us/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) s pretplatničkim verzijama sustava Project Online i verzijama programa Project 2019, 2016 ili 2013 koje nisu pretplate.
+5. **Instalacija programa Project Professional:** [instalirajte i koristite Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) s pretplatničkim verzijama sustava Project Online i verzijama programa Project 2019, 2016 ili 2013 koje nisu pretplate.

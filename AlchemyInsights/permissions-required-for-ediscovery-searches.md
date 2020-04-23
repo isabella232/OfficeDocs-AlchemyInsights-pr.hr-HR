@@ -1,9 +1,9 @@
 ---
-title: 1489-Permissions-required-for-ediscovery-searches
+title: 1489-permissions-required-for-ediscovery-searchs
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372120"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758890"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Dozvole potrebne za pretraživanja predočavanja elektroničkih dokumenata
 
-Za izvođenje pretraživanja sadržaja u & Sigurnosni centar usklađenosti korisnik mora biti barem biti član Upravitelj predočavanja elektroničkih dokumenata uloga grupa koji im omogućuje da pretraživanja i mjesto čekanjima na poštanske sandučiće, SharePoint web-mjesta i mjesta OneDrive. Članove možete također stvaranje i upravljanje slučajevima predočavanja elektroničkih dokumenata, dodavanje i uklanjanje članova slučaja, stvaranje i uređivanje sadržaja pretraživanja i pristup podacima slučaja u napredne predočavanja elektroničkih dokumenata.
+Da bi izvršio pretraživanja sadržaja u centru za & sigurnosti, korisnik mora biti barem član grupe uloga upravitelja elektroničkih dokumenata, što im omogućuje pretraživanje i mjesto na poštanskim sandučićima, web-mjestima sustava SharePoint i mjestima servisa OneDrive. Članovi također mogu stvarati slučajeve predočavanja elektroničkih dokumenata i njima upravljati, dodavati i uklanjati članove u slučaj, stvarati i uređivati pretraživanja sadržaja te pristupati podacima slučaja u naprednom predočavanju elektroničkih dokumenata.
 
-Za izvođenje pretraživanja zamjenom predočavanja elektroničkih dokumenata u centru za administraciju sustava Exchange (EAC), korisnik mora biti član grupe uloga upravljanja otkrivanje u Exchange Online.
+Da bi izvršio pretraživanja za lokalno predočavanje elektroničkih dokumenata u centru za administratore sustava Exchange (EAC), korisnik mora biti član grupe uloga Upravljanje otkrivanjem u sustavu Exchange Online.
 
-Za više informacija o dozvolama predočavanja elektroničkih dokumenata pogledajte: 
+Dodatne informacije o dozvolama za predočavanje elektroničkih dokumenata potražite u odjeljku: 
 
-- [Dodijelite dozvole predočavanja elektroničkih dokumenata u & Sigurnosni centar usklađenosti](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [Dodjela dozvola za predočavanje elektroničkih dokumenata u centru za & usklađenosti](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-- [Dodijelite dozvole predočavanja elektroničkih dokumenata u sustavu Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Dodjela dozvola za predočavanje elektroničkih dokumenata u sustavu Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Napomena**: nakon dodjeljivanjem dozvola predočavanja elektroničkih dokumenata, možda ćete morati pričekati nekoliko minuta za dozvole proširiti.
+**Napomena**: Nakon dodjele dozvola za predočavanje elektroničkih dokumenata možda ćete morati pričekati nekoliko minuta da bi se dozvole širila.

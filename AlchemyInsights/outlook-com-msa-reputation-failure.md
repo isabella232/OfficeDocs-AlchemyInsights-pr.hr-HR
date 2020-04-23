@@ -1,9 +1,9 @@
 ---
-title: Zaključani račun Outlook.com
+title: Outlook.com račun zaključan
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/30/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: 9a96bb18d06814164cd54e8183f67f2d2db55eac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e3ddebc8b73688d65c32e15383c7d654a3f1fff1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546079"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745747"
 ---
-# <a name="account-locked"></a>Zaključani račun
+# <a name="account-locked"></a>Račun zaključan
 
-Ako vidite poruku "vaš račun zaključan" prilikom pokušaja prijave Outlook.com je jer smo ste primijetili neke neuobičajene aktivnosti na vaš račun. Da bi vas zaštitio od potencijalnih prijevara ili zloupotrebu smo ste privremeno zaključana vaš račun. Znamo da je frustrirajuće, ali ćemo vam mogu pomoći da natrag račun sa samo nekoliko koraka.
+Ako se prilikom prijave na Outlook.com prikaže poruka "Vaš je račun zaključan", to je zato što smo primijetili neke neobične aktivnosti na vašem računu. Da bismo vas zaštitili od potencijalne prijevare ili zlouporabe, privremeno smo zaključali vaš račun. Znamo da je to frustrirajuće, ali možemo vam pomoći da se vratite na svoj račun sa samo nekoliko koraka.
 
-1. Idite na [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) i prijaviti zaključani račun.Za otključavanje vaš račun, morate unijeti šifru sigurnost navedene u poruci tekst iz Microsoft. Da biste dobili poruku teksta, morate imati telefon koji podržava messaging tekst. Ako vaš telefon ne podržava messaging tekst, Pitajte prijatelja ili člana obitelji koristiti njihove telefonski. Microsoft ne spremite telefonski broj tako telefonski broj koristite da biste primali tekstne poruke ne treba biti povezane s vašim računom.
-2. Ako vidite poruku "Premašeno ograničenje korištenja", idite na [Račun Reinstatement](https://go.microsoft.com/fwlink/?linkid=2090483) i jednu od naših agenti će pregledati vaš račun.
+1. Idite na [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) i prijavite se na zaključani račun.Da biste otključali račun, morate unijeti sigurnosni kôd naveden u tekstualnoj poruci tvrtke Microsoft. Da biste dobili tekstnu poruku, morate imati telefon koji podržava tekstne poruke. Ako telefon ne podržava tekstne poruke, možete zatražiti od prijatelja ili člana obitelji da koristi svoj telefon. Microsoft ne sprema taj telefonski broj, pa telefonski broj koji koristite za primanje ove tekstne poruke ne mora biti povezan s vašim računom.
+2. Ako se prikaže poruka "Premašeno ograničenje upotrebe", idite na [Vraćanje računa](https://go.microsoft.com/fwlink/?linkid=2090483) i jedan od naših agenata će pregledati vaš račun.
 
-Da biste doznali više, pročitajte [Unblock moj račun Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
+Da biste saznali više, pročitajte članak [Deblokiranje mog Outlook.com računa](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 

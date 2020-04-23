@@ -12,12 +12,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: cfe884a207490a19325ce059652de158c16dc801
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704077"
+ms.locfileid: "43788694"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP pitanja s brojevima socijalnog osiguranja
 
@@ -25,7 +25,7 @@ ms.locfileid: "43704077"
 
 **DLP problemi sa SSN-ovima**
 
-Imate li problema s **sprječavanjem gubitka podataka (DLP)** koji ne funkcionira za sadržaj koji sadrži **broj socijalnog osiguranja (SSN)** prilikom korištenja osjetljive vrste podataka u sustavu Office 365? Ako je tako, provjerite sadrži li vaš sadržaj potrebne informacije za ono što traži DLP pravila. 
+Imate li problema s **sprječavanjem gubitka podataka (DLP)** koji ne funkcionira za sadržaj koji sadrži **broj socijalnog osiguranja (SSN)** kada koristite osjetljivu vrstu podataka u sustavu Microsoft 365? Ako je tako, provjerite sadrži li vaš sadržaj potrebne informacije za ono što traži DLP pravila. 
   
 Na primjer, za ssn pravilo konfigurirano s razinom pouzdanosti od 85%, vrednuju se sljedeće i mora se otkriti da bi se pravilo pokrenulo:
   
