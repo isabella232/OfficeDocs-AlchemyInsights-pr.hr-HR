@@ -1,9 +1,9 @@
 ---
-title: Koja je moja adresa e-pošte Outlook.com?
+title: Koja je moja Outlook.com e-mail adresa?
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: b7cd4910bea61f438e23dd2a520570d58d42bc22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d11d453f4f4512378f0226d16de15c09c695f019
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743373"
 ---
-# <a name="see-your-own-outlookcom-email-address"></a><span data-ttu-id="dc982-102">Pogledajte svoju vlastitu adresu e-pošte Outlook.com</span><span class="sxs-lookup"><span data-stu-id="dc982-102">See your own Outlook.com email address</span></span>
+# <a name="see-your-own-outlookcom-email-address"></a><span data-ttu-id="e4754-102">Prikaz vlastite Outlook.com e-adrese</span><span class="sxs-lookup"><span data-stu-id="e4754-102">See your own Outlook.com email address</span></span>
 
-<span data-ttu-id="dc982-103">Da biste vidjeli zadanu adresu e-pošte koristiti prilikom slanja e-pošte, idite na [Postavke e-pošte za sinkronizaciju](https://outlook.live.com/mail/options/mail/accounts) i potražite pod **postaviti zadane iz adrese**.</span><span class="sxs-lookup"><span data-stu-id="dc982-103">To see the default email address you use when sending email, go to your [Sync email settings](https://outlook.live.com/mail/options/mail/accounts) and look under **Set default From address**.</span></span>
+<span data-ttu-id="e4754-103">Da biste vidjeli zadanu adresu e-pošte koju koristite prilikom slanja e-pošte, idite na [postavke sinkronizacije e-pošte](https://outlook.live.com/mail/options/mail/accounts) i u odjeljku **Postavi zadanu adresu pošiljatelja**.</span><span class="sxs-lookup"><span data-stu-id="e4754-103">To see the default email address you use when sending email, go to your [Sync email settings](https://outlook.live.com/mail/options/mail/accounts) and look under **Set default From address**.</span></span>
 
-<span data-ttu-id="dc982-104">Ako vašem računu Outlook.com ste povezani drugi račun e-pošte, možete odabrati slanje e-pošte s tom adresom.</span><span class="sxs-lookup"><span data-stu-id="dc982-104">If you've connected another email account to your Outlook.com account, you can choose to send email from that address.</span></span>
+<span data-ttu-id="e4754-104">Ako ste povezali drugi račun e-pošte s računom Outlook.com, možete poslati e-poštu s te adrese.</span><span class="sxs-lookup"><span data-stu-id="e4754-104">If you've connected another email account to your Outlook.com account, you can choose to send email from that address.</span></span>
 
-1. <span data-ttu-id="dc982-105">Odaberite tri točkice</span><span class="sxs-lookup"><span data-stu-id="dc982-105">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- <span data-ttu-id="dc982-106">na dnu prozora Sastavljanje i odaberite **Pokaži iz** da biste vidjeli redak šalje.</span><span class="sxs-lookup"><span data-stu-id="dc982-106">at the bottom of the compose window and select **Show From** to see the From line.</span></span>
-2. <span data-ttu-id="dc982-107">Iznad retka u odaberite **iz** i odaberite adresu e-pošte koji želite koristiti.</span><span class="sxs-lookup"><span data-stu-id="dc982-107">Above the To line, select **From** and choose which email address you want to use.</span></span>
+1. <span data-ttu-id="e4754-105">Odaberite tri točkice</span><span class="sxs-lookup"><span data-stu-id="e4754-105">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="e4754-106">na dnu prozora za sastavljanje i odaberite **Prikaži iz** da biste vidjeli redak Od.</span><span class="sxs-lookup"><span data-stu-id="e4754-106">at the bottom of the compose window and select **Show From** to see the From line.</span></span>
+2. <span data-ttu-id="e4754-107">Iznad retka Primatelj odaberite **Iz** i odaberite adresu e-pošte koju želite koristiti.</span><span class="sxs-lookup"><span data-stu-id="e4754-107">Above the To line, select **From** and choose which email address you want to use.</span></span>
 
-<span data-ttu-id="dc982-108">Saznajte više o [slanju e-poštu s različite adrese u Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="dc982-108">Learn more about [sending email from a different address in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="e4754-108">Saznajte više o [slanju e-pošte s druge adrese u Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="e4754-108">Learn more about [sending email from a different address in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

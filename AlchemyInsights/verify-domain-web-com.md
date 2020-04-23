@@ -1,5 +1,5 @@
 ---
-title: Potvrdite svoju domenu pomoću web.com
+title: Provjera domene pomoću web.com
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 81852ff53efd791edb7b6e17ea6e6e327ff52224
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 08e8975b497a949589f063b9bf6901cf77a786f5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42325989"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765369"
 ---
-# <a name="verify-your-domain-with-webcom"></a><span data-ttu-id="baa66-102">Potvrdite svoju domenu pomoću web.com</span><span class="sxs-lookup"><span data-stu-id="baa66-102">Verify your domain with web.com</span></span>
+# <a name="verify-your-domain-with-webcom"></a><span data-ttu-id="f7611-102">Provjera domene pomoću web.com</span><span class="sxs-lookup"><span data-stu-id="f7611-102">Verify your domain with web.com</span></span>
 
-<span data-ttu-id="baa66-103">Da biste potvrdili svoju domenu, morat ćete dodati TXT zapis u registrar domena da biste provjerili posjedujete li svoju domenu.</span><span class="sxs-lookup"><span data-stu-id="baa66-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="f7611-103">Da biste potvrdili domenu, morat ćete dodati TXT zapis u registrar domena da biste provjerili jeste li vlasnik domene.</span><span class="sxs-lookup"><span data-stu-id="f7611-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="baa66-104">Najprije slijedite čarobnjak za [dodavanje domene](https://portal.office.com/adminportal/home#/Domains) tako da odaberete **Domene** **postavki** \> , a zatim **Dodaj domenu**.</span><span class="sxs-lookup"><span data-stu-id="baa66-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="f7611-104">Najprije slijedite čarobnjak za [dodavanje domene](https://portal.office.com/adminportal/home#/Domains) tako da odaberete **Domene postavki** \> **Domains**, a zatim **Dodaj domenu**.</span><span class="sxs-lookup"><span data-stu-id="f7611-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="baa66-105">Detaljne upute [potražite u članku Stvaranje DNS zapisa u web.com za Office 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com)</span><span class="sxs-lookup"><span data-stu-id="baa66-105">See [Create DNS records at web.com for Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) for step-by-step instructions.</span></span>
+<span data-ttu-id="f7611-105">Detaljne upute [potražite u članku Stvaranje DNS zapisa u web.com za Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com)</span><span class="sxs-lookup"><span data-stu-id="f7611-105">See [Create DNS records at web.com for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) for step-by-step instructions.</span></span>

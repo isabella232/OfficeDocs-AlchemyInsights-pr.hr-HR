@@ -1,9 +1,9 @@
 ---
-title: Office 365 za Neprofitne organizacije planove i cijene
+title: Tarife i cijene sustava Office 365 za neprofitne tvrtke
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 503ed30c3a9c1d8ab67d964a6c03a1886d9bcefd
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3841ea04e5fac7492372adaa27258ef66b6879ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390576"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761554"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a><span data-ttu-id="0ec25-102">Office 365 za Neprofitne organizacije planove i cijene</span><span class="sxs-lookup"><span data-stu-id="0ec25-102">Office 365 for Nonprofit plans and pricing</span></span>
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a><span data-ttu-id="4efac-102">Tarife i cijene sustava Office 365 za neprofitne tvrtke</span><span class="sxs-lookup"><span data-stu-id="4efac-102">Office 365 for Nonprofit plans and pricing</span></span>
 
-<span data-ttu-id="0ec25-103">Kvalificirani nonprofits možete primiti Office 365 Neprofitne organizacije kao na donacije ili nadogradite napredne značajke na značajnu popusta.</span><span class="sxs-lookup"><span data-stu-id="0ec25-103">Qualified nonprofits can receive Office 365 Nonprofit as a donation or upgrade to advanced features at a significant discount.</span></span> <span data-ttu-id="0ec25-104">Da kvalifikujete za Office 365 Neprofitne organizacije plan, morate držite [prepoznata imaju status](https://go.microsoft.com/fwlink/p/?LinkID=330253) u pravilima diskriminacije vaše države i Potpiši tvrtke Microsoft.</span><span class="sxs-lookup"><span data-stu-id="0ec25-104">To qualify for a Office 365 Nonprofit plan, you must hold [recognized charitable status](https://go.microsoft.com/fwlink/p/?LinkID=330253) in your country and sign Microsoft's non-discrimination policy.</span></span> <span data-ttu-id="0ec25-105">Microsoft pridržava pravo da biste provjerili prikladnost u bilo kojem trenutku i obustavljanje usluge neće podržavati organizacije.</span><span class="sxs-lookup"><span data-stu-id="0ec25-105">Microsoft reserves the right to verify eligibility at any time and to suspend the service for ineligible organizations.</span></span>
+<span data-ttu-id="4efac-103">Kvalificirane neprofitne organizacije mogu dobiti Office 365 Nonprofit kao donaciju ili nadogradnju na napredne značajke uz značajan popust.</span><span class="sxs-lookup"><span data-stu-id="4efac-103">Qualified nonprofits can receive Office 365 Nonprofit as a donation or upgrade to advanced features at a significant discount.</span></span> <span data-ttu-id="4efac-104">Da biste se kvalificirali za tarifu Office 365 Nonprofit, morate imati [priznati dobrotvorni status](https://go.microsoft.com/fwlink/p/?LinkID=330253) u svojoj zemlji i potpisati Microsoftova pravila o nediskriminaciji.</span><span class="sxs-lookup"><span data-stu-id="4efac-104">To qualify for a Office 365 Nonprofit plan, you must hold [recognized charitable status](https://go.microsoft.com/fwlink/p/?LinkID=330253) in your country and sign Microsoft's non-discrimination policy.</span></span> <span data-ttu-id="4efac-105">Microsoft zadržava pravo provjere prihvatljivosti u bilo kojem trenutku i obustave usluge za neprihvatljive tvrtke ili ustanove.</span><span class="sxs-lookup"><span data-stu-id="4efac-105">Microsoft reserves the right to verify eligibility at any time and to suspend the service for ineligible organizations.</span></span>
   
-<span data-ttu-id="0ec25-106">U odjeljku [Najčešća pitanja vezana uz](https://products.office.com/nonprofit/office-365-nonprofit) dodatnih pitanja o ovu ponudu.</span><span class="sxs-lookup"><span data-stu-id="0ec25-106">See the [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) for additional questions about this offer.</span></span>
+<span data-ttu-id="4efac-106">Dodatna pitanja o ovoj ponudi potražite u [najčešćim pitanjima.](https://products.office.com/nonprofit/office-365-nonprofit)</span><span class="sxs-lookup"><span data-stu-id="4efac-106">See the [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) for additional questions about this offer.</span></span>
   
-- [<span data-ttu-id="0ec25-107">Pregledajte Neprofitne organizacije planove</span><span class="sxs-lookup"><span data-stu-id="0ec25-107">Review the Nonprofit plans</span></span>](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [<span data-ttu-id="4efac-107">Pregled planova neprofitnih organizacija</span><span class="sxs-lookup"><span data-stu-id="4efac-107">Review the Nonprofit plans</span></span>](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [<span data-ttu-id="0ec25-108">Usporedi sve planove za Office 365</span><span class="sxs-lookup"><span data-stu-id="0ec25-108">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="4efac-108">Usporedba svih pretplata na Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="4efac-108">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)

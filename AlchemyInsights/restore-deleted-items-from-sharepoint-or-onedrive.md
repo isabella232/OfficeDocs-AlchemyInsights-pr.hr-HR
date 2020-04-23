@@ -1,9 +1,9 @@
 ---
-title: Vraćanje izbrisane stavke iz SharePoint ili OneDrive
+title: Vraćanje izbrisanih stavki sa servisa SharePoint ili OneDrive
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 588c774d56ab092e7d50321ca6be9e2dd4f03f16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551875"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742507"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="99e56-102">Vraćanje izbrisane stavke iz SharePoint ili OneDrive</span><span class="sxs-lookup"><span data-stu-id="99e56-102">Restore deleted items from SharePoint or OneDrive</span></span>
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="f5eeb-102">Vraćanje izbrisanih stavki sa servisa SharePoint ili OneDrive</span><span class="sxs-lookup"><span data-stu-id="f5eeb-102">Restore deleted items from SharePoint or OneDrive</span></span>
 
-1. <span data-ttu-id="99e56-103">Idite na vaš OneDrive ili SharePoint web-mjesta.</span><span class="sxs-lookup"><span data-stu-id="99e56-103">Go to your OneDrive or the SharePoint site.</span></span>
+1. <span data-ttu-id="f5eeb-103">Idite na OneDrive ili SharePoint web-mjesto.</span><span class="sxs-lookup"><span data-stu-id="f5eeb-103">Go to your OneDrive or the SharePoint site.</span></span>
     
-2. <span data-ttu-id="99e56-104">U lijevom oknu kliknite **Koš za smeće** .</span><span class="sxs-lookup"><span data-stu-id="99e56-104">Click **Recycle Bin** in the left pane.</span></span> 
+2. <span data-ttu-id="f5eeb-104">Kliknite **Koš za smeće** u lijevom oknu.</span><span class="sxs-lookup"><span data-stu-id="f5eeb-104">Click **Recycle Bin** in the left pane.</span></span> 
     
-3. <span data-ttu-id="99e56-105">Pritisnite lijevo od stavki ili datoteka koje želite vratiti.</span><span class="sxs-lookup"><span data-stu-id="99e56-105">Click to the left of the items or files you want to restore.</span></span>
+3. <span data-ttu-id="f5eeb-105">Kliknite lijevo od stavki ili datoteka koje želite vratiti.</span><span class="sxs-lookup"><span data-stu-id="f5eeb-105">Click to the left of the items or files you want to restore.</span></span>
     
-4. <span data-ttu-id="99e56-106">Kliknite **Vrati**.</span><span class="sxs-lookup"><span data-stu-id="99e56-106">Click **Restore**.</span></span> 
+4. <span data-ttu-id="f5eeb-106">Kliknite **Vrati**.</span><span class="sxs-lookup"><span data-stu-id="f5eeb-106">Click **Restore**.</span></span> 
     
-<span data-ttu-id="99e56-107">Kada datoteke, mape, biblioteke, popise i stavke popisa se brišu iz SharePoint web-mjestu, oni idite u koš za smeće gdje im si čuvaju 93 dana osim ako ih netko izbriše iz koša za smeće.</span><span class="sxs-lookup"><span data-stu-id="99e56-107">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin.</span></span> <span data-ttu-id="99e56-108">Ako ste izbrisali iz ovog koša za smeće (nazivaju se koš za smeće), oni idite na zbirku web-mjesta koš za smeće za preostale vrijeme i zatim se trajno brišu.</span><span class="sxs-lookup"><span data-stu-id="99e56-108">If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted.</span></span> <span data-ttu-id="99e56-109">Izbrisano web-mjesta i zbirki web-mjesta Idi izravno u zbirci web-mjesta koš za smeće 93 dana.</span><span class="sxs-lookup"><span data-stu-id="99e56-109">Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
+<span data-ttu-id="f5eeb-107">Kada se datoteke, mape, biblioteke, popisi i stavke popisa brišu sa SharePoint web-mjesta, one idu u koš za smeće, gdje se čuvaju 93 dana, osim ako ih netko ne izbriše iz ovog koša za smeće.</span><span class="sxs-lookup"><span data-stu-id="f5eeb-107">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin.</span></span> <span data-ttu-id="f5eeb-108">Ako se brišu iz ovog koša za smeće (koji se naziva koš za smeće web-mjesta), oni odlaze u koš za smeće zbirke web-mjesta za preostalo vrijeme, a zatim se trajno brišu.</span><span class="sxs-lookup"><span data-stu-id="f5eeb-108">If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted.</span></span> <span data-ttu-id="f5eeb-109">Izbrisana web-mjesta i zbirke web-mjesta izravno se nalaze u košu za smeće zbirke web-mjesta tijekom 93 dana.</span><span class="sxs-lookup"><span data-stu-id="f5eeb-109">Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
   
-<span data-ttu-id="99e56-110">[Vraćanje stavki u koš za smeće zbirke web-mjesta](https://go.microsoft.com/fwlink/?linkid=867800) (Administratori zbirke web-mjesta)</span><span class="sxs-lookup"><span data-stu-id="99e56-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
+<span data-ttu-id="f5eeb-110">[Vraćanje stavki u koš za smeće zbirke web-mjesta](https://go.microsoft.com/fwlink/?linkid=867800) (administratori zbirke web-mjesta)</span><span class="sxs-lookup"><span data-stu-id="f5eeb-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
   
-<span data-ttu-id="99e56-111">[Vraćanje izbrisane zbirki web-mjesta](https://go.microsoft.com/fwlink/?linkid=867660) (globalni ili SharePoint administratori u Office 365)</span><span class="sxs-lookup"><span data-stu-id="99e56-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Office 365)</span></span> 
+<span data-ttu-id="f5eeb-111">[Vraćanje izbrisanih zbirki web-mjesta](https://go.microsoft.com/fwlink/?linkid=867660) (globalni administratori ili administratori sustava SharePoint u sustavu Microsoft 365)</span><span class="sxs-lookup"><span data-stu-id="f5eeb-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Microsoft 365)</span></span> 
   
-<span data-ttu-id="99e56-112">Za mjesta koji pripadaju grupi Office 365, morate vratiti grupu obnovite web-mjesto.</span><span class="sxs-lookup"><span data-stu-id="99e56-112">For sites that belong to an Office 365 group, you need to restore the group to restore the site.</span></span> <span data-ttu-id="99e56-113">Pogledajte [vratiti izbrisane grupe Office 365](https://go.microsoft.com/fwlink/?linkid=867802) (globalni administrator)</span><span class="sxs-lookup"><span data-stu-id="99e56-113">See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
+<span data-ttu-id="f5eeb-112">Za web-mjesta koja pripadaju grupi sustava Office 365 morate vratiti grupu da biste vratili web-mjesto.</span><span class="sxs-lookup"><span data-stu-id="f5eeb-112">For sites that belong to an Office 365 group, you need to restore the group to restore the site.</span></span> <span data-ttu-id="f5eeb-113">Pogledajte [Vraćanje izbrisane grupe sustava Office 365](https://go.microsoft.com/fwlink/?linkid=867802) (globalni administrator)</span><span class="sxs-lookup"><span data-stu-id="f5eeb-113">See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
   
 
