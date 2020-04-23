@@ -1,9 +1,9 @@
 ---
-title: Import-Export-in-Outlook-for-Mac
+title: uvoz-izvoz-u-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 5a03c5871187b07201e548295facf17df3209f74
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 524053a53a8390253259c3edae71a7a60995c8ce
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33629938"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724722"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Uvoz/Izvoz u programu Outlook za Mac 
+# <a name="importexport-in-outlook-for-mac"></a>Uvoz/izvoz u programu Outlook za Mac 
 
 Izvoz:
 1. Na kartici **Alati** odaberite **Izvoz**.
-2. U okviru **Spremi kao** , pod **favorite**, odaberite mapu **preuzima** i odaberite **Spremi**.
-3. Kada vidite obavijesti izvoz dovrši, odaberite **Završi**.
+2. U okviru **Spremi kao** u odjeljku **Favoriti**odaberite mapu **Preuzimanja,** a zatim odaberite **Spremi**.
+3. Kada vidite obavijest da je izvoz dovršen, odaberite **Završi**.
 
 Uvoz:
-1. Na kartici **Alati** odaberite **uvoza**.
-2. Odaberite **Outlook za Windows arhivirati datoteke (.pst)** > **Nastavi**.
-3. Pronađite .pst datoteku na vaše Mac i odabrati **Uvezi**.
-4. Kada se dovrši postupak uvoza, odaberite **Završi**.
-5. Uvezene stavke pojavljuju se u navigacijskom oknu pod **Na mom računalu**.
+1. Na kartici **Alati** odaberite **Uvezi**.
+2. Odaberite **Datoteka arhive programa Outlook za Windows (.pst)** > **Nastavi**.
+3. Pronađite .pst datoteku na Mac računalu, a zatim odaberite **Uvoz**.
+4. Po dovršetku postupka uvoza odaberite **Završi**.
+5. Uvezene stavke pojavljuju se u navigacijskom oknu u odjeljku **Na mojem računalu**.
 
-Potpuni skup uvoz i izvoz upute za Outlook za Mac potražite [Uvoz i izvoz Outlook e-pošte, kontakata i kalendara](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+Cijeli skup uputa za uvoz i izvoz za Outlook za Mac pogledajte [Uvoz i izvoz e-pošte, kontakata i kalendara](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)programa Outlook . 
 
-Primanje podršku u-app za Outlook za Mac problemi, otvorite Outlook i odaberite **pomoći** > **Podržava kontakt**. Upišite pitanje i član Outlook za Mac kontakta s koje će dobiti podršku tima. [Obratite se podršci u programu Outlook za Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Da biste primili podršku u aplikaciji za probleme s programom Outlook za Mac, otvorite Outlook i odaberite **Pomoć** > **za podršku za kontakt**. Upišite svoje pitanje i član tima za podršku za Outlook za Mac stupit će u kontakt s vama. [Obratite se podršci u programu Outlook za Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)

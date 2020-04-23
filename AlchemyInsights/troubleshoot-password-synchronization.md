@@ -1,9 +1,9 @@
 ---
-title: Rješavanje problema s lozinku sinkronizacije
+title: Rješavanje problema sa sinkronizacijom lozinki
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,51 +13,51 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533799"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732502"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Rješavanje problema s lozinku sinkronizacije
+# <a name="troubleshoot-password-synchronization"></a>Rješavanje problema sa sinkronizacijom lozinki
 
-Otklanjanje poteškoća gdje nema lozinke su sinkronizirane s verzijom Azure AD povezivanje 1.1.614.0 ili noviji:
+Da biste otklonili poteškoće kada se lozinke ne sinkroniziraju sa servisom Azure AD Connect verzije 1.1.614.0 ili novije:
   
-1. Otvorite novu sesiju Windows PowerShell na poslužitelju Azure AD povezivanje s mogućnost **Pokreni kao Administrator** .
+1. Otvorite novu sesiju komponente Windows PowerShell na poslužitelju Azure AD Connect pomoću mogućnosti **Pokreni kao administrator.**
 
-2. Pokrenite **RemoteSigned skup pravilnik izvođenja** ili **Postavi pravilnik izvođenja neograničen**.
+2. Pokrenite **Set-ExecutionPolicy RemoteSigned** ili **Set-ExecutionPolicy neograničen**.
 
-3. Pokretanje čarobnjaka za povezivanje Azure AD.
+3. Pokrenite čarobnjak za Azure AD Connect.
 
-4. Idite na stranicu **Dodatne zadatke** , odaberite **Otklanjanje**i kliknite **Dalje**.
+4. Idite na stranicu **Dodatni zadaci,** odaberite **Otklanjanje poteškoća**i kliknite **Dalje**.
 
-5. Na stranici otklanjanje poteškoća kliknite izbornik **pokretanje pokrenuti otklanjanje pogrešaka** u PowerShellu.
+5. Na stranici Otklanjanje poteškoća kliknite **Pokreni da biste pokrenuli** izbornik za otklanjanje poteškoća u programu PowerShell.
 
-6. U glavnom izborniku odaberite **Otklanjanje sinkronizacije lozinku**.
+6. U glavnom izborniku odaberite **Otklanjanje poteškoća sa sinkronizacijom lozinki**.
 
-7. U izborniku sub odaberite **lozinku sinkronizacije neće raditi uopće**.
+7. U podizborniku odaberite **Sinkronizacija lozinki uopće ne funkcionira**.
 
-**Razumjeli rezultate otklanjanje zadatka**
+**Objašnjenje rezultata zadatka otklanjanja poteškoća**
   
-Otklanjanje poteškoća zadatak izvodi sljedeće čekove:
+Zadatak otklanjanja poteškoća izvodi sljedeće provjere:
   
-- Ovjerava za klijentske Azure AD omogućena značajka sinkronizacije lozinku.
+- Provjerava je li značajka sinkronizacije lozinke omogućena za klijenta Azure AD-a.
 
-- Ovjerava da poslužitelj Azure AD povezivanje nije u pripremne načinu.
+- Provjerava je li poslužitelj Azure AD Connect u pripremnom načinu rada.
 
-- Za svaki postojeći lokalno Active Directory poveznik (koji odgovara postojećem šume servisa Active Directory):
+- Za svaki postojeći lokalni konektor servisa Active Directory (koji odgovara postojećoj šumi servisa Active Directory):
 
 - 
-  - Provjerava je li omogućena značajka sinkronizacije lozinku.
+  - Provjerava je li omogućena značajka sinkronizacije lozinke.
 
-  - Traži lozinku sinkronizacije pulsnom događaje u zapisnicima događaja aplikacija sustava Windows.
+  - Traži događaje zapisnika zapisnika zapisnika sinkronizacije lozinkom u zapisnicima događaja aplikacije sustava Windows.
 
-  - Za svaku domenu Active Directory pod Active Directory poveznik lokalno:
+  - Za svaku domenu servisa Active Directory pod lokalnim povezom servisa Active Directory:
 
-  - Ovjerava domena je dostupno s poslužitelja Azure AD povezivanje.
+  - Provjerava je li domena dostupna s poslužitelja Azure AD Connect.
 
-  - Ovjerava računi Active Directory Domain Services (AD DS) koje koriste Active Directory poveznik lokalno ima ispravan korisničko ime, lozinku i dozvole potrebne za sinkronizaciju lozinku.
+  - Provjerava ima li računi servisa Active Directory Domain Services (AD DS) koje koristi lokalni poveznik servisa Active Directory ispravno korisničko ime, lozinku i dozvole potrebne za sinkronizaciju lozinki.
 
-Više pomoć sinkronizaciju lozinku za otklanjanje poteškoća potražite [Otklanjanje lozinku sinkronizacije s Azure AD povezivanje sinkronizaciju](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Dodatne informacije o otklanjanju poteškoća pri sinkronizaciji lozinki [potražite u članku Otklanjanje poteškoća sa sinkronizacijom lozinke pomoću sinkronizacije usluge Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   

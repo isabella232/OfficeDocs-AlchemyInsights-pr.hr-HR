@@ -1,9 +1,9 @@
 ---
-title: Kako napraviti novi izgled Outlook.com poput staru
+title: Kako napraviti novi Outlook.com izgledati kao stari
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: 34ff4a6a78b6b362c7929e77e8369d2d6e05c868
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc254df10c21521e65c53e478288938e0bb1c3f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497507"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721704"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Kako napraviti novi izgled Outlook.com kao što su Stara verzija
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Kako napraviti novi Outlook.com izgledaju kao stara verzija
 
-Ovdje su neke postavke možete promijeniti da biste novi izgled Outlook.com kao što su Stara verzija:
+Evo nekoliko postavki koje možete promijeniti da bi nova Outlook.com izgledala kao stara verzija:
 
 1. Idite na [Postavke izgleda](https://outlook.live.com/mail/options/mail/layout).
-1. Pod **Focused Primljeno**odaberite **ne sortirati moje poruke**.
-1. Pod **organizacije poruka**, odaberite **najnovije poruke na vrh**.
-1. Pod **pošiljatelja slike**, odaberite **ne prikazuj pošiljatelja slike**.
-1. Pod **okno za čitanje**odaberite **Sakrij okno za čitanje**.
-1. Pod **Pregled tekst poruke**, odaberite **Pokaži pretpregled teksta**.
-1. Pod **pretpreglede umetnuto**, odaberite **ne prikazuj privitke u popisu poruka**.
+1. U **odjeljku Fokusirana ulazna pošta**odaberite **Nemoj sortirati moje poruke**.
+1. U **odjeljku Organizacija poruka**odaberite Najnovije poruke na **vrhu**.
+1. U **odjeljku Slika pošiljatelja**odaberite **Ne prikazuj slike pošiljatelja**.
+1. U **odjeljku Okno za čitanje**odaberite Sakrij **okno za čitanje**.
+1. U **odjeljku Tekst pretpregleda poruke**odaberite **Prikaži tekst pretpregleda**.
+1. U **odjeljku Umetnute pretpreglede**odaberite **Ne prikazuj privitke na popisu poruka**.
 
-Da biste promijenili postavke pošte tako Primljeno izgleda i ponaša se način na koji želite da, pogledajte [promijeniti izgled poštanskog sandučića u Outlook.com i novi Outlook na webu](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Da biste promijenili postavke pošte tako da ulazna pošta izgleda i ponaša se onako kako želite, pročitajte u članku [Promjena izgleda poštanskog sandučića u Outlook.com i novog programa Outlook na webu](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

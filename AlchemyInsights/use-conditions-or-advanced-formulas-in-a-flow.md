@@ -1,9 +1,9 @@
 ---
-title: Koristite uvjete ili Napredno formule u tijeku
+title: Korištenje uvjeta ili naprednih formula u toku
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c25cae12-c04d-43ac-b26f-bc0264854f48
-ms.openlocfilehash: da2b093237f94809b501baabe84122e776b7fbb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88ae3420d7be6bba9f032a99564c43e7d4d24b2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532259"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726348"
 ---
-# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>Koristite uvjete ili Napredno formule u tijeku
+# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a>Korištenje uvjeta ili naprednih formula u toku
 
-U Microsoft Flow na tijek možete prilagoditi tako da se izvodi zadatke samo ako je uvjet istinit. Info, pogledajte [Dodavanje uvjeta u tijek](https://go.microsoft.com/fwlink/?linkid=872112).
+U programu Microsoft Flow možete prilagoditi tijek tako da izvršava zadatke samo ako je uvjet istinit. Dodatne informacije potražite [u odjeljku Dodavanje uvjeta toku](https://go.microsoft.com/fwlink/?linkid=872112).
   
-Za stvaranje napredne formulu pogledajte [tijeka rada definicija jezik sheme za Azure logiku apps](https://aka.ms/logicexpressions).
+Da biste stvorili naprednu formulu, pogledajte [jezičnu shemu definicije tijeka rada za aplikacije logike azure](https://aka.ms/logicexpressions).
   
 
