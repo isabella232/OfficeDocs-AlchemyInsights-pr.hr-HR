@@ -1,8 +1,8 @@
 ---
-title: Priprema za korištenje protokola TLS 1.2 u sustavu Office 365
+title: Priprema za upotrebu protokola TLS 1.2 u okruženju Microsoft 365
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: ef04b5b6ab6c365359b6973cbd56d5d1e833554b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 319a5b089da94c8a2dcf7aef7d9e1bf791490d08
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554757"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666892"
 ---
-# <a name="prepare-for-use-of-tls-12-in-office-365"></a>Priprema za korištenje protokola TLS 1.2 u sustavu Office 365
+# <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>Priprema za upotrebu protokola TLS 1.2 u okruženju Microsoft 365
 
-Od 31. listopada 2018. Office 365 nastavit će s prijelazom na TLS 1.2. To znači da Microsoft više neće rješavati probleme koji su pronađeni na klijentima, uređajima ili servisima koji se sa sustavom Office 365 povezuju putem protokola TLS 1.0 i 1.1. **To ne znači da će Office 365 blokirati veze s protokolima TLS 1.0 i 1.1.** Datum konačnog ukidanja bit će utvrđen na temelju upotrebe i trenutnog stanja sigurnosti naslijeđenih protokola TLS. Nakon donošenja odluke, obavijest o ukidanju objavit ćemo šest mjeseci unaprijed, osim ako uočimo problem koji ugrožava sigurnost. U tom ćemo slučaju morati djelovati prije isteka tih šest mjeseci da bismo zaštitili korisnike koji koriste naše usluge.
+Od 31. listopada 2018. Microsoft 365 nastavit će s prijelazom na TLS 1.2. To znači da Microsoft više neće rješavati probleme koji su pronađeni na klijentima, uređajima ili servisima koji se sa sustavom Office 365 povezuju putem protokola TLS 1.0 i 1.1. **To ne znači da će Microsoft 365 blokirati veze s protokolima TLS 1.0 i 1.1.** Datum konačnog ukidanja bit će utvrđen na temelju upotrebe i trenutnog stanja sigurnosti naslijeđenih protokola TLS. Nakon donošenja odluke, obavijest o ukidanju objavit ćemo šest mjeseci unaprijed, osim ako uočimo problem koji ugrožava sigurnost. U tom ćemo slučaju morati djelovati prije isteka tih šest mjeseci da bismo zaštitili korisnike koji koriste naše usluge.
   
-Preporučujemo da na svim poslužiteljima i klijentima koji se povezuju sa sustavom Office 365 što prije omogućite TLS 1.2.
+Preporučujemo da na svim poslužiteljima i klijentima koji se povezuju s okruženjem Microsoft 365 što prije omogućite TLS 1.2.
   
-Dodatne informacije pogledajte u članku [Priprema za TLS 1.2 u sustavu Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
+Dodatne informacije pogledajte u članku [Priprema za TLS 1.2 u okruženju Microsoft 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
   
