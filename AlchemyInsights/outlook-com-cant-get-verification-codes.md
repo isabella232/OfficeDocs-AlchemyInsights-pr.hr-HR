@@ -1,9 +1,9 @@
 ---
-title: Outlook.com ne može primati šifre provjere
+title: Outlook.com ne mogu primati kodove za provjeru
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537687"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760800"
 ---
-# <a name="cant-get-verification-codes"></a><span data-ttu-id="90137-102">Nije moguće dohvatiti šifre provjere</span><span class="sxs-lookup"><span data-stu-id="90137-102">Can't get verification codes</span></span>
+# <a name="cant-get-verification-codes"></a><span data-ttu-id="4da39-102">Nije moguće dobiti kodove za potvrdu</span><span class="sxs-lookup"><span data-stu-id="4da39-102">Can't get verification codes</span></span>
 
-<span data-ttu-id="90137-103">Ako ne možete pristupiti zamjenski e-pošte ili telefonski broj, idite na stranicu Microsoft račun [Osnove sigurnosti](https://account.microsoft.com/security) , odaberite **ne imati bilo koju od ovih** na stranici za prijavu i slijedite upute da biste zamijenili sigurnosnih informacija.</span><span class="sxs-lookup"><span data-stu-id="90137-103">If you can't access your alternate email or phone number, go to your Microsoft account [Security basics](https://account.microsoft.com/security) page, select **I don't have any of these** on the sign-in page, and follow the instructions to replace your security info.</span></span>
+<span data-ttu-id="4da39-103">Ako ne možete pristupiti zamjenskoj e-pošti ili telefonskom broju, otvorite stranicu [Osnove sigurnosti Microsoftova](https://account.microsoft.com/security) računa, odaberite **Nemam ništa od toga** na stranici za prijavu i slijedite upute za zamjenu sigurnosnih podataka.</span><span class="sxs-lookup"><span data-stu-id="4da39-103">If you can't access your alternate email or phone number, go to your Microsoft account [Security basics](https://account.microsoft.com/security) page, select **I don't have any of these** on the sign-in page, and follow the instructions to replace your security info.</span></span>
 
-<span data-ttu-id="90137-104">*Napomena:* [Microsoft autentikatora app](https://go.microsoft.com/fwlink/?linkid=2016117) zahtijevaju internetsku vezu za ovjeru šifru.</span><span class="sxs-lookup"><span data-stu-id="90137-104">*Note:* The [Microsoft Authenticator app](https://go.microsoft.com/fwlink/?linkid=2016117) does not require an internet connection to provide you with a verification code.</span></span>
+<span data-ttu-id="4da39-104">*Napomena:* Aplikacija [Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) ne zahtijeva internetsku vezu da bi vam pružila kontrolni kôd.</span><span class="sxs-lookup"><span data-stu-id="4da39-104">*Note:* The [Microsoft Authenticator app](https://go.microsoft.com/fwlink/?linkid=2016117) does not require an internet connection to provide you with a verification code.</span></span>
 
-<span data-ttu-id="90137-105">Da biste doznali više, pročitajte [Microsoft sigurnosne informacije i provjere valjanosti šifre računa](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="90137-105">To learn more, read [Microsoft account security info and verification codes](https://support.microsoft.com/help/12428/).</span></span>
+<span data-ttu-id="4da39-105">Da biste saznali više, pročitajte [sigurnosne podatke o Microsoftovu računu i kontrolne kodove](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="4da39-105">To learn more, read [Microsoft account security info and verification codes](https://support.microsoft.com/help/12428/).</span></span>
