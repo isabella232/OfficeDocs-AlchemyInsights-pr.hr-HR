@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154189"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556946"
 ---
 # <a name="pstn-calling-plans"></a>Planovi pozivanja putem PSTN-a
 
-Pozivi drugim korisnicima servisa Skype za tvrtke i aplikacije Microsoft Teams besplatni su, no ako želite da korisnici mogu pozivati standardne telefone, a još nemate pružatelja usluga za upućivanje govornih poziva, morat ćete kupiti tarifu za pozive. 
+Ako želite da korisnici mogu pozivati standardne telefone, a još nemate pružatelja usluga za upućivanje govornih poziva, morat ćete kupiti tarifu za pozive.
 
-- Da biste započeli postupak kupnje, pogledajte [Kupnja tarife za pozive](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
+- Pročitajte članak [Kupnja tarife za pozive](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) da biste započeli postupak kupnje.
 
-- Dodatne informacije pronađite u članku [Telefonski sustav i tarife za pozive](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page). 
+- Postavite [kredit za komunikaciju](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) da korisnicima ne bi **ponestalo minuta**. Pogledajte tarife [ovdje](https://products.office.com/microsoft-teams/voice-calling). 
+
+- Dodatne informacije potražite u člancima [Telefonski sustav i tarife za pozive](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ili [Što je kredit za komunikaciju?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits).
