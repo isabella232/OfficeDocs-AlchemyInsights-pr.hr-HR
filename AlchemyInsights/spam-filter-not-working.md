@@ -1,9 +1,9 @@
 ---
-title: Ne radi 8000059 filtar neželjene pošte
+title: 8000059 Filtar za neželjenu poštu ne funkcionira
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 53dcda5ca13c033e74d6d25ccf1e610752e0ca79
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 38469649ddd661a90144ac8b63d7b12f6acd1549
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501287"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764073"
 ---
-# <a name="spam-filter-not-working"></a>Filtar neželjene pošte ne radi
+# <a name="spam-filter-not-working"></a>Filtar za neželjenu poštu ne funkcionira
 
-Ako mislite da je poruka koju ste primili u Outlook.com na krađu identiteta ili lažno predstavljanje prijevara, odaberite poruku i odaberite **Bezvrijedna** \> **krađa identiteta** da biste označili kao phishing prijevara. Da biste saznali više o zloupotrebe, krađa identiteta i lažno predstavljanje, [to čitanje](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). Blokiranje adresa e-pošte, dodavanje adrese ili domene na popis sigurnih pošiljatelja ili primijeniti druge mogućnosti bezvrijedne e-pošte, odaberite **Mogućnosti bezvrijedne e-pošte**.
+Ako smatrate da je poruka koju ste primili u Outlook.com prijevara ili prijevara s krađom identiteta, odaberite poruku i odaberite **Bezvrijedna** \> **krađa identiteta** da biste je označili kao prijevaru s krađom identiteta. Da biste saznali više o zlostavljanju, krađi identiteta i zavaravanju, [pročitajte ovo](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). Da biste blokirali adrese e-pošte, dodali adrese ili domene na popis sigurnih pošiljatelja ili primijenili druge mogućnosti bezvrijedne e-pošte, odaberite **Mogućnosti bezvrijedne e-pošte**.
   

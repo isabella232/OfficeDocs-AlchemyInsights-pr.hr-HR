@@ -1,9 +1,9 @@
 ---
-title: 1488-perform-eDiscovery-and-Content-searches
+title: 1488-izvođenje-eDiscovery-and-content-searchs
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555225"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764720"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kako izvesti pretraživanja sadržaja i pretraživanja predočavanja elektroničkih dokumenata
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kako izvršiti pretraživanja sadržaja i pretraživanja predočavanja elektroničkih dokumenata
 
-Alat za pretraživanje sadržaja u & sigurnost usklađenosti centar za brzo traženje e-pošte u poštanski sandučići Exchange, dokumente u SharePoint web-mjesta i OneDrive računa i razmjenu razgovore servisa Skype za poslovnu upotrebu. Možete koristiti i alat za pretraživanje sadržaja za pretraživanje e-pošte, dokumenti i instant messaging razgovora u Office 365 suradnju Alati kao što su Microsoft Teams i grupe za Office 365.
+Pomoću alata za pretraživanje sadržaja u centru za & sigurnosti brzo pronađite e-poštu u poštanskim sandučićima sustava Exchange, dokumentima na web-mjestima sustava SharePoint i računu servisa OneDrive te razgovorima izravnim porukama u skypeu za tvrtke. Alat za pretraživanje sadržaja možete koristiti i za traženje razgovora e-poštom, dokumentima i izravnim porukama u alatima za suradnju na sustavu Microsoft 365 kao što su Microsoft Teams i Grupe za Office 365.
 
 **Za izvođenje pretraživanja sadržaja**
 
-1. Idite na [& Sigurnosni centar usklađenosti](https://protection.office.com) i prijaviti.
-2. Kliknite **pretraživanja > sadržaja pretraživanja**.
-3. Kliknite **novo pretraživanje** da biste stvorili novo pretraživanje.
-4. Unesite potrebne pretraživanja uvjetima uključujući ključne riječi i mjesta sadržaja.  
-5. Kliknite **Spremi & Pokreni** za naziv pretraživanja, pokrenite ga i pretpregled rezultata.
+1. Idite u centar za [& za sigurnost](https://protection.office.com) i prijavite se.
+2. Kliknite **Pretraži > pretraživanje sadržaja**.
+3. Kliknite **Novo pretraživanje** da biste stvorili novo pretraživanje.
+4. Unesite potrebne uvjete pretraživanja, uključujući ključne riječi i lokacije sadržaja.  
+5. Kliknite **Spremi & pokreni** da biste imenovali pretraživanje, pokrenuli ga, a zatim pretpregledali rezultate.
 
-Detaljne upute o sadržaja pretraživanja izvoz rezultata i stvaranje obveza predočavanja elektroničkih dokumenata slučajeva držite podataka, pogledajte [Sadržaja pretraživanja](https://docs.microsoft.com/office365/securitycompliance/content-search) i [slučajevima predočavanja elektroničkih dokumenata](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Detaljne upute o pretraživanjima sadržaja, izvozu rezultata i stvaranju slučajeva predočavanja elektroničkih dokumenata radi držanja podataka potražite u odjeljku Pretraživanje [sadržaja](https://docs.microsoft.com/office365/securitycompliance/content-search) i [predočavanje elektroničkih dokumenata](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Razumijevanje više o sadržaja pretraživanja pregledom [u zahtjevi i ograničenja](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) i [istražuje djelomično indeksirane stavke](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) i drugih rezultata biti svjesni.
+Saznajte više o pretraživanju sadržaja pregledom [zahtjeva i ograničenja](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) te [istraživanjem djelomično indeksiranih stavki](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) i drugih rezultata kojih biste bili svjesni.

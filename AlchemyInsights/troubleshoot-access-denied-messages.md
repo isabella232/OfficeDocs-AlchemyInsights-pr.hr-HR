@@ -1,34 +1,34 @@
 ---
-title: Otklanjanje poteškoća s porukama odbijeno za pristup
+title: Otklanjanje poteškoća s porukama odbijenim pristupom
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1930edcfd14acc48ea77b66e2793654a3e6332cc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050697"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759792"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Otklanjanje poteškoća s porukama odbijeno za pristup
+# <a name="troubleshoot-access-denied-messages"></a>Otklanjanje poteškoća s porukama odbijenim pristupom
 
-Ako je netko dobio poruku "pristup je odbijen" u zajedničku mapu u sustavu SharePoint, administrator zbirke web-mjesta možda je omogućio način zaključavanja dopuštenja korisnika s ograničenim pristupom. Da biste to isključili: 
+Ako je netko u zajedničku mapu u sustavu SharePoint dobio poruku "Pristup je odbijen", administrator zbirke web-mjesta možda je omogućio "Način zaključavanja korisničkih dozvola s ograničenim pristupom". Da biste to isključili: 
   
-1. Prijeđite na web-mjesto, kliknite ikonu Postavke, a zatim kliknite **Postavke web-mjesta**.
+1. Pronađite web-mjesto, kliknite ikonu Postavke, a zatim **Postavke web-mjesta**.
     
-2. U odjeljku **Administracija zbirke web-** mjesta kliknite **značajke zbirke web-mjesta**.
+2. U **odjeljku Administracija zbirke web-mjesta**kliknite **Značajke zbirke web-mjesta**.
     
-3. Pored **načina zaključavanja dopuštenja korisnika s ograničenim pristupom**kliknite **Deaktiviraj**.
+3. Uz **način zaključavanja dopuštenja korisnika s ograničenim pristupom**kliknite **Deaktiviraj**.
     
-Poruka odbijeni pristup može se pojaviti i za zajedničke mape ako je web-mjesto objavljivanje. Informacije potražite u [programu pristup odbijen prilikom pristupa zajedničkoj mapi](https://go.microsoft.com/fwlink/?linkid=2004317).
+Poruka odbijenog pristupa može se pojaviti i za zajedničke mape ako je web-mjesto za objavljivanje. Dodatne informacije potražite u [odjeljku Pristup je odbijen prilikom pristupa zajedničkoj mapi](https://go.microsoft.com/fwlink/?linkid=2004317).
   
-Ako je netko dobio poruku "pristup je odbijen" prilikom pokušaja prikaza zahtjeva za pristup, korisnik mora biti dodan kao administrator zbirke web-mjesta ili član grupe vlasnici za web-mjesto. Dodatne informacije potražite u okviru [popis zahtjeva za pristup koji je odbijen](https://go.microsoft.com/fwlink/?linkid=2004220).
+Ako je netko prilikom pokušaja prikaza zahtjeva za pristup dobio poruku "Pristup je odbijen", korisnika treba dodati kao administrator zbirke web-mjesta ili član grupe Vlasnici za web-mjesto. Dodatne informacije potražite [u odjeljku Pristup je odbijen pristupu zahtjevima](https://go.microsoft.com/fwlink/?linkid=2004220).
   
-Ako korisnik dobio poruku "pristup je odbijen" nakon što su uklonjeni iz Active Directory lokalno i zatim dodan natrag, pogledajte [pristup odbijen kada korisnički račun sinkroniziran na Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).
+Ako je korisnik dobio poruku "Pristup je odbijen" nakon što je uklonjen iz lokalnog servisa Active Directory, a zatim ponovno dodan, pročitajte članak [Pristup je odbijen kada se korisnički račun sinkronizira sa sustavom Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2004318).
   
 

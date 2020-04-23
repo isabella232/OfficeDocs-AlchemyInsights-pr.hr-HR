@@ -1,5 +1,5 @@
 ---
-title: Potvrdite svoju domenu pomoću web.com
+title: Provjera domene pomoću web.com
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 81852ff53efd791edb7b6e17ea6e6e327ff52224
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 08e8975b497a949589f063b9bf6901cf77a786f5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42325989"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765369"
 ---
-# <a name="verify-your-domain-with-webcom"></a>Potvrdite svoju domenu pomoću web.com
+# <a name="verify-your-domain-with-webcom"></a>Provjera domene pomoću web.com
 
-Da biste potvrdili svoju domenu, morat ćete dodati TXT zapis u registrar domena da biste provjerili posjedujete li svoju domenu. 
+Da biste potvrdili domenu, morat ćete dodati TXT zapis u registrar domena da biste provjerili jeste li vlasnik domene. 
 
-Najprije slijedite čarobnjak za [dodavanje domene](https://portal.office.com/adminportal/home#/Domains) tako da odaberete **Domene** **postavki** \> , a zatim **Dodaj domenu**.
+Najprije slijedite čarobnjak za [dodavanje domene](https://portal.office.com/adminportal/home#/Domains) tako da odaberete **Domene postavki** \> **Domains**, a zatim **Dodaj domenu**.
   
-Detaljne upute [potražite u članku Stvaranje DNS zapisa u web.com za Office 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com)
+Detaljne upute [potražite u članku Stvaranje DNS zapisa u web.com za Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com)

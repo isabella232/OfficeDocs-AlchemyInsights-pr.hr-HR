@@ -1,9 +1,9 @@
 ---
-title: Informacije o pretplatama
+title: Informacije o pretplati
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/15/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 20b5097f2e5d3aa3b8f23b8865203846d90f08e8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36576868"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763857"
 ---
-# <a name="subscription-information"></a>Informacije o pretplatama
+# <a name="subscription-information"></a>Informacije o pretplati
 
-Informacije o pretplatama koje posjedujete potražite na stranici proizvodi za **naplatu** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Informacije o pretplatama koje posjedujete potražite na stranici **Proizvodi za naplatu** \> [& usluga.](https://go.microsoft.com/fwlink/p/?linkid=842054)
   
-Ključne informacije o svakoj pretplatničkoj pretplati:
+Ključne informacije o svakoj pretplati:
   
 - Status svakog
 
@@ -38,4 +38,4 @@ Ključne informacije o svakoj pretplatničkoj pretplati:
 
 - Plaćanja
 
-- Sljedeći Datum naplate ili isteka
+- Sljedeća naplata ili datum isteka

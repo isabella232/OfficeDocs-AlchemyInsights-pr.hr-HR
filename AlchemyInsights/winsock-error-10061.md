@@ -1,9 +1,9 @@
 ---
-title: Pogreška Winsocka 1554 10061
+title: 1554 Winsock pogreška 10061
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f54c7fc81c274871fbc22908ce0fb21500975d9e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8f62d97efc937518ef766b45e1747e83b7f99c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530776"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766161"
 ---
-# <a name="winsock-error-10061"></a>Winsock pogreške 10061
+# <a name="winsock-error-10061"></a>Winsock pogreška 10061
 
-Ta šifra pogreške znači da Office 365 nije mogao uspostaviti TCP utičnice (veza) s glavnog računala za cilj. Najvjerojatniji uzrok te pogreške je problem s konfiguracijom vatrozid. Da biste riješili problem, provjerite ove postavke:
+Ovaj kôd pogreške znači da Microsoft nije mogao uspostaviti TCP utičnicu (vezu) s ciljnim glavnim računalom. Najvjerojatniji uzrok ove pogreške je problem s konfiguracijom vatrozida. Da biste riješili problem, provjerite sljedeće postavke:
 
-- Provjerite konfiguraciju vatrozida s informacijama u [Office 365 URL i raspone IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+- Provjera konfiguracije vatrozida pomoću podataka u [URL-ovima i rasponima IP adresa sustava Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Ako pogreška je specifičan za Exchange Online Protection (EOP), trebali ste primili prethodno obavijest promjenu [Exchange Online Protection IP adrese](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+- Ako je pogreška specifična za Exchange Online Protection (EOP), trebali ste prethodno biti obaviješteni o promjeni [IP adresa exchange online protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
 
-- Provjerite je li vaš davatelj internetskih usluga (ISP) blokira priključak.
+- Provjerite blokira li davatelj internetskih usluga (ISP) priključak.
 
-- Provjerite pametne glavnog i ciljnog postavke poslužitelja u vaše poveznike.
+- Provjerite postavke pametnog glavnog računala i ciljnog poslužitelja u konektorima.
 
-Imajte na umu Office 365 ne blokiraj *dolazne* veze na ovaj način.
+Imajte na umu da Microsoft 365 na taj način ne blokira *dolazne* veze.

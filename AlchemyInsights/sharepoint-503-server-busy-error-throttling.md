@@ -2,7 +2,7 @@
 title: Ograničavanje sustava SharePoint Online
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958710"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742201"
 ---
 # <a name="sharepoint-online-throttling"></a>Ograničavanje sustava SharePoint Online
 
-**Važno**: Tijekom ovih dosad nezabilježenih vremena poduzimamo korake kako bismo osigurali da usluge sustava SharePoint Online i onedrive ostanu vrlo dostupne – dodatne informacije [potražite u članku Prilagodbe privremenih značajki sustava SharePoint Online.](https://aka.ms/ODSPAdjustments)
+**Važno**: Tijekom ovih neočekivanih vremena poduzimamo korake kako bismo osigurali da servisi SharePoint Online i OneDrive i dalje budu široko raspoloživi – dodatne informacije potražite u [Privremene prilagodbe značajke SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **503 poslužitelj je zauzet greška**
 
 Korisnici mogu primiti 503 poslužitelj je zauzet greška prilikom pokušaja navigacije do SharePoint ili OneDrive web-mjesta. 
 
-Ta je pogreška moguće uzrokovati ograničavanjem unutar servisa sustava SharePoint. SharePoint Online koristi ograničavanje za održavanje optimalnih performansi i pouzdanosti servisa sustava SharePoint Online. Ograničavanje ograničava broj korisničkih akcija ili istodobnih poziva (po skripti ili kodu) kako bi se spriječilo prekomjerno korištenje resursa. 
+Ta je pogreška moguće uzrokovati ograničavanjem unutar servisa sustava SharePoint. SharePoint Online koristi ograničavanje za održavanje optimalnih performansi i pouzdanosti servisa SharePoint Online. Ograničavanjem se ograničava broj korisničkih radnji ili istodobnih poziva (skriptom ili kodom) radi sprječavanja prekomjernog korištenja resursa. 
 
 Dodatne informacije o regulaciji potražite u odjeljku [Izbjegavanje ograničavanja ili blokiranja u sustavu SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

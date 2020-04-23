@@ -1,9 +1,9 @@
 ---
-title: Sinkronizacija kalendara programa SharePoint s programom Outlook
+title: Sinkronizacija kalendara sustava SharePoint s programom Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 08/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 8158b1fd762fe541a56c821fd68f1bdfa5d7339c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050769"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766953"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemi s sinkroniziranjem kalendara s uređajima
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemi s sinkronizacijom kalendara s uređajima
 
-SharePoint kalendari su klasične vrste popisa koje su ponekad zbunjene s Officeovim kalendarom grupe 365.
+Kalendari sustava SharePoint klasične su vrste popisa koje se ponekad miješaju s kalendarima grupe sustava Office 365.
 
-Da biste sinkronizirali kalendar programa SharePoint u Outlook, slijedite ove korake:
+Da biste sinkronizirali kalendar sustava SharePoint s programom Outlook, slijedite ove korake:
 
-1. Kliknite ikonu zupčanika **postavki** , a zatim kliknite **sadržaj web-mjesta**.
-2. Otvorite kalendar koji želite sinkronizirati (što je vrsta popisa događaja).
-3. Na izborniku klasične vrpce kliknite **Kalendar**, a zatim kliknite **Poveži se s Outlookom**.
-4. U pop-up traži da potvrdite sinkronizaciju, kliknite **Dopusti**.
+1. Kliknite ikonu **Postavke** zupčanika , a zatim **Sadržaj web-mjesta**.
+2. Otvorite kalendar koji želite sinkronizirati (što je vrsta popisa Događaji).
+3. Na izborniku klasične vrpce kliknite **Kalendar**, a zatim **Poveži se s programom Outlook**.
+4. U skočnom prozoru koji od vas traži potvrdu sinkronizacije kliknite **Dopusti**.
 
 >[!Note]
-> Kada napravite promjenu u sinkroniziranom Outlookovom kalendaru, pojavit će se u kalendaru programa SharePoint i obratno.
+> Kada napravite promjenu u sinkroniziranom kalendaru programa Outlook, ona će se pojaviti u kalendaru sustava SharePoint i obrnuto.
 
-Dodatne informacije o Office 365 grupe potražite u ovom [članku](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Dodatne informacije o grupama sustava Office 365 potražite u ovom [članku](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

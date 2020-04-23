@@ -3,7 +3,7 @@ title: Provjera pravopisa u Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: 9b581ccc1d0ca50dfb635aa3b9a2a2bb3339c6a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a6d1706990e9989b13a1a9fb48bb78b56ae6856a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547015"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760584"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Koristiti preglednik za provjeru pravopisa
+# <a name="use-your-browser-to-check-spelling"></a>Provjera pravopisa pomoću preglednika
 
-Iako Outlook.com imaju pravopisa provjeri funkcija, mnogi web-preglednici Automatska provjera pravopisa, uključujući Microsoft Edge, Internet Explorer 10 i novijim verzijama i trenutne verzije Firefox, vizualnog i Safari. Provjerite mogućnosti web-preglednika da biste saznali više o tome kako provjeriti pravopis.
+Iako Outlook.com nema funkciju provjere pravopisa, mnogi web-preglednici automatski provjeravaju pravopis, uključujući Microsoft Edge, Internet Explorer 10 i novije verzije te trenutne verzije preglednika Firefox, Chrome i Safari. Pogledajte mogućnosti web-preglednika da biste saznali više o provjeri pravopisa.

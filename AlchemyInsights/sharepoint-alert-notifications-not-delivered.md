@@ -1,9 +1,9 @@
 ---
-title: Obavijesti o upozorenjima za SharePoint nisu isporučene
+title: Obavijesti o upozorenjima sustava SharePoint nisu isporučene
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40047059"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742039"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Obavijesti o upozorenjima za SharePoint nisu isporučene
+# <a name="sharepoint-alert-notifications-not-delivered"></a>Obavijesti o upozorenjima sustava SharePoint nisu isporučene
 
-Molimo provjerite mapu JUNK u e-pošti, jer ponekad upozorenja mogu ići tamo.
+Provjerite mapu JUNK u poruci e-pošte jer ponekad upozorenja mogu ići tamo.
 
-Odredite **Jesu li sva upozorenja isporučena** ili ako **pojedinačno upozorenje** iz određene datoteke ili biblioteke nije isporučeno.
+Odredite ne **isporučuju** li **se sva upozorenja** ili se ne isporučuje pojedinačno upozorenje iz određene datoteke ili biblioteke.
 
-- **Pojedinačna upozorenja nisu isporučena**: ako pojedinačna upozorenja iz određene datoteke ili biblioteke nisu isporučena, možete je pokušati izbrisati i ponovno stvoriti. Pogledajte [Upravljanje, pregledavanje ili brisanje SharePoint upozorenja](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) za ponovno stvaranje upozorenja.
-- **Sva upozorenja nisu isporučena**: ako sva upozorenja iz više datoteka ili biblioteka nisu isporučena, posjetite [nadzornu ploču za zdravlje usluga](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste provjerili ima li nekih savjetovanja/incidenata koji se mogu javiti u sustavu SharePoint ili Exchange. Problem može biti s mogućnošću obavijesti sustava SharePoint ili zakašnjenjem u e-porukama putem sustava Exchange. Također će biti važno napomenuti da li se dostavlja druga e-pošta, a ako nije, problem je vjerojatno s zakašnjenjem u sustavu Exchange.
+- **Pojedinačna upozorenja se ne isporučuju**: Ako se pojedinačno upozorenje iz određene datoteke ili biblioteke ne isporuči, možete ga pokušati izbrisati i ponovno stvoriti. Pogledajte [Upravljanje upozorenjima sustava SharePoint, prikaz ili brisanje upozorenja](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) sustava SharePoint da biste ponovno stvorili upozorenje.
+- **Sva upozorenja se ne isporučuju**: Ako se sva upozorenja iz više datoteka ili biblioteka ne isporučuju, posjetite [nadzornu ploču Zdravlje servisa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste provjerili ima li savjeta/incidenata koji se mogu pojaviti u sustavu SharePoint ili Exchange. Problem može biti s mogućnošću upozorenja sustava SharePoint ili kašnjenja u e-pošti putem sustava Exchange. Također će biti važno napomenuti hoće li se druga e-pošta isporučiti, a ako ne, problem je vjerojatno s kašnjenjima sustava Exchange.
 
 Najčešća pitanja o upozorenjima:
 
-- Nije moguće slati upozorenja grupi za distribuciju, podržane su samo grupe sigurnosti i O365.
-- Ne možete prilagoditi predloške e-pošte upozorenja; Morate koristiti Microsoft FLOW ili SharePoint Designer Workflow da biste to postigli.
+- Nije moguće slati upozorenja grupi za raspodjelu, podržane su samo grupe sigurnosti i Sustava O365.
+- Ne možete prilagoditi predloške e-pošte upozorenja; da biste postigli taj tijek rada, morate koristiti tijek rada programa Microsoft FLOW ili SharePoint Designer.
 
 Više informacija:
 
-- **Postavljanje upozorenja**: dodatne informacije o postavljanju upozorenja potražite u okviru [stvaranje upozorenja kako biste dobili obavijest kada se datoteka ili mapa promijene u sustavu SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Otklanjanje poteškoća s upozorenjima**: dodatne informacije o rješavanju problema upozorenja potražite u odjeljku [korisnici ne primaju obavijesti o upozorenjima za SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Napredno O365 pravila upozorenja o sukladnosti**: za više informacija o postavljanju tih upozorenja pogledajte [pravila upozorenja o sukladnosti](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **Zapisnici nadzora sustava SharePoint i OneDrive**: dodatne informacije o dohvaćanjima tih događaja potražite [u pretraživanju zapisnika nadzora](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Upozorenja poslana naprednim zaštitom prijetnji**: Pogledajte [ATP za SharePoint i OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Upozorenja poslana podacima za prevenciju gubitka podataka**: Pogledajte [obavijesti e-poštom za DLP pravila](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- **Postavljanje upozorenja**: Dodatne informacije o postavljanju upozorenja potražite [u odjeljku Stvaranje upozorenja za obavještavanje kada se datoteka ili mapa promijene u sustavu SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Rješavanje problema s upozorenjima**: Dodatne informacije o upozorenjima o otklanjanju poteškoća potražite u [odjeljku Korisnici ne primaju obavijesti upozorenja sustava SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- **Napredna pravila upozorenja o usklađenosti sustava O365**: dodatne informacije o postavljanju tih upozorenja [potražite u odjeljku Pravila upozorenja o sukladnosti](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+- **Zapisnici nadzora sustava SharePoint i OneDrive**: dodatne informacije o dohvaćanju tih događaja potražite [u članku Pretraživanje zapisnika nadzora](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **Upozorenja koja šalje napredna zaštita od prijetnji**: Pogledajte [ATP za SharePoint i OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **Upozorenja koja šalju policija za sprječavanje gubitka podataka**: Pogledajte [obavijesti e-poštom za DLP pravila](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Srodne teme
 
 Želite li isprobati Microsoft Flow u sustavu SharePoint Online?
 
-- [Stvori tok](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Stvori tijek](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
 - [SharePoint i Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

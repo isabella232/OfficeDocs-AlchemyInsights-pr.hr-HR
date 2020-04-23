@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599944"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765523"
 ---
 # <a name="teams-policies"></a>Pravila za timove
 
@@ -30,5 +30,5 @@ Politike timova podijeljene su u sljedeća područja:
 - [Pravila sastanka](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontroliraju što korisnici mogu učiniti sa sastancima programa Teams, uključujući kontrolu predvorja. Pomoć za probleme s predvorjem, kao što je konfiguriranje timova za primanje svih, pogledajte [Upravljanje postavkama predvorja i razinama sudjelovanja](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Pravila razmjene poruka](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kontroliraju što korisnici mogu učiniti s čavrljanjem i porukama, uključujući uključivanje ili isključivanje čavrljanja, brisanje razgovora, traženje potvrda o čitanju, korištenje gifisa i naljepnica i još mnogo toga.
 - [Pravila za postavljanje aplikacija](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) kontroliraju koje su aplikacije dostupne korisnicima, uključujući prilagođene aplikacije i aplikacije trećih strana te redoslijed pojavljivanja.  
-- [Pravila zadržavanja podataka](https://docs.microsoft.com/microsoftteams/retention-policies) za Teams nalaze se u centru za sigurnost i usklađenost sustava Office 365.
+- [Pravila zadržavanja podataka](https://docs.microsoft.com/microsoftteams/retention-policies) za Teams nalaze se u centru za sigurnost i usklađenost sustava Microsoft 365.
 - Pravila adresara timova postavljaju se putem [pretraživanja imenika s opsegom](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).

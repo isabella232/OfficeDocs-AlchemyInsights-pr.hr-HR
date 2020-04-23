@@ -1,9 +1,9 @@
 ---
-title: Instaliranje programa Visio
+title: Instalacija programa Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: 8279c58300c1c7ed18ca54d10c3b92e45728e856
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498556"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765981"
 ---
-# <a name="install-visio"></a>Instaliranje programa Visio
+# <a name="install-visio"></a>Instalacija programa Visio
 
-Visio prodaje kao Samostalna aplikacija pa ako nemate ga još, [kupiti ili pokušajte Visio](https://products.office.com/visio). 
+Visio se prodaje kao samostalna aplikacija pa ako je još nemate, [kupite ili isprobajte Visio](https://products.office.com/visio). 
 
-**Napomena**: Visio Online Plan 1 ne uključuje radne površine verzija programa Visio, tako da nema instalacija je moguće.
+**Napomena**: Visio Online Plan 1 ne sadrži verziju programa Visio za stolna računala pa instalacija nije moguća.
 
-Ako imate pretplatu Visio Online Plan 2, morate [dodeljivanje licence](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) korisniku ili nećete imati mogućnost instalacije Visio iz **Moje instalira** u [moj račun portal](https://portal.office.com/account#installs). 
+Ako imate pretplatu na Visio Online Plan 2, morate [dodijeliti licencu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) korisniku ili oni neće imati mogućnost instalacije programa Visio iz **odjeljka Moje instalacije** na [portalu Moj račun](https://portal.office.com/account#installs). 
 
-Verzije Visio Standard ili Visio Professional non količinskog licenciranja su pridružene račune Microsoft i upravlja u Centar za administraciju. Da biste instalirali te verzije, korisnicima mora se prijaviti u [account.microsoft.com](https://account.microsoft.com) s Microsoftov račun pridružen verzija programa Visio.
+Verzije licence za nejedinice programa Visio Standard ili Visio Professional povezane su s Microsoftovim računima i njima se ne može upravljati u centru za administratore. Da bi instalirali te verzije, korisnici se moraju prijaviti da bi [account.microsoft.com](https://account.microsoft.com) s Microsoftovim računom povezanim s ovom verzijom programa Visio.
 
-Pomoć za detaljnije vidjeli [Instalirati Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) i slijedite korake za svoju verziju programa Visio.
+Detaljniju pomoć potražite [u članku Instalacija programa Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) i slijedite korake za svoju verziju programa Visio.
 
-Za dodatne informacije pogledajte:<br>
-[Vodič za implementaciju za Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Podržana scenariji za instaliranje različite verzije sustava Office, projekt i Visio na istom računalu](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[Licenciranje Visio](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+Dodatne informacije potražite u odjeljku:<br>
+[Vodič za implementaciju programa Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Podržani scenariji za instalaciju različitih verzija sustava Office, Project i Visio na isto računalo](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+[Licenciranje programa Visio](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)

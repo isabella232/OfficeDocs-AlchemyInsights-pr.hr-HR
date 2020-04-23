@@ -10,16 +10,16 @@ ms.assetid: ''
 ms.custom:
 - "1300007"
 - "4372"
-ms.openlocfilehash: 8a912b32dee23e8c6eae0ad7bc72228d49ceeb92
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: a664bd709062ec1335ebcf1f9adddc8aef917ac1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946609"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766593"
 ---
 # <a name="unexpected-multi-factor-authentication"></a>Neočekivana višestruka provjera autentičnosti
 
-Ako je vaš klijent stvoren nakon 21. listopada 2019., a vi neočekivano dobivate upit za MFA, vjerojatno imate [omogućene sigurnosne zadane postavke](http://aka.ms/securitydefaults) u svom klijentu. 
+Ako je vaš klijent stvoren nakon 21. listopada 2019., a vi neočekivano dobivate upit za MFA, vjerojatno imate [omogućene sigurnosne zadane postavke](https://aka.ms/securitydefaults) u svom klijentu. 
 
 Da biste upravljali zadanim postavkama sigurnosti:
 
