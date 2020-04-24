@@ -1,5 +1,5 @@
 ---
-title: Aktivacija pretplate na Office 365
+title: Aktivacija pretplate na Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191058"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783999"
 ---
-# <a name="activate-your-office-365-subscription"></a>Aktivacija pretplate na Office 365
+# <a name="activate-your-subscription"></a>Aktivacija pretplate
 
 **Aktivacija pretplate**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191058"
 
 **Ponovna aktivacija pretplate**
 
-Ako je vaša pretplata istekla, ako ju je onemogućio Microsoft ili ako ste je pak otkazali tijekom trajanja pretplate, možete je ponovno aktivirati u centru za administratore sustava Office 365.
+Ako je vaša pretplata istekla, ako ju je onemogućio Microsoft ili ako ste je pak otkazali tijekom trajanja pretplate, možete je ponovno aktivirati u centru za administratore sustava Microsoft 365.
 
-- U centru za administratore sustava Office 365 idite na stranicu [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) (ili kliknite **Naplata > Pretplate**).
+- U centru za administratore sustava Microsoft 365 idite na stranicu [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) (ili kliknite **Naplata > Pretplate**).
 
 - Odaberite pretplatu koju želite ponovno aktivirati, a zatim kliknite **Ponovno aktiviraj**. Ako kao dostupnu akciju ne vidite mogućnost **Ponovna aktivacija**, [nazovite podršku](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) da biste ponovno aktivirali pretplatu.
 
@@ -42,6 +42,6 @@ Dodatne informacije pronađite u članku [Ponovno aktiviranje pretplate](https:/
 
 **Aktivacija nove pretplate pomoću ključa proizvoda**
 
-- Da biste aktivirali novu pretplatu na Office 365 s pomoću ključa proizvoda, počnite [ovdje](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Da biste aktivirali novu pretplatu na Microsoft 365 pomoću ključa proizvoda, počnite [ovdje](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Unesite ključ proizvoda za Office 365 i slijedite upute za aktivaciju pretplate. Ako imate problema s aktivacijom, pogledajte ovaj popis [uobičajenih pogrešaka vezanih uz ključ proizvoda i njihovih rješenja](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Unesite ključ proizvoda za Microsoft 365 i slijedite upute za aktivaciju pretplate. Ako imate problema s aktivacijom, pogledajte ovaj popis [uobičajenih pogrešaka vezanih uz ključ proizvoda i njihovih rješenja](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

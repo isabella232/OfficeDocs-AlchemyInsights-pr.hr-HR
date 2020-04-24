@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509482"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788874"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Postavljanje automatskih odgovora za poštanski sandučić korisnika
 
 **Metoda 1**
 
-1. Prijavite se na portal sustava Office 365.
+1. Prijavite se na portal sustava Microsoft 365.
 
 2. Idite na **Korisnici > Aktivni korisnici** (ili **Grupe > Zajednički poštanski sandučići** ako ga postavite na zajednički poštanski sandučić).
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509482"
 
 **Metoda 2**
 
-1. Prijavite se na portal za administratore sustava Office 365 s pomoću administratorskih vjerodajnica.
+1. Prijavite se na portal za administratore sustava Microsoft 365 pomoću administratorskih vjerodajnica.
 
 2. Proširite mogućnost **Administratorski centri**, pa kliknite **Exchange**.
 

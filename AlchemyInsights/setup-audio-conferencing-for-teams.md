@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: f3af2a35c1fd4fee6458ff276a69bb551b33ac68
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707624"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764361"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Postavljanje audiokonferencija za aplikaciju Teams
 
@@ -38,8 +38,8 @@ Da biste potvrdili da je korisnik licenciran za audiokonferencije i da ima zadan
 
 5. U **centru za administratore aplikacije Microsoft Teams** kliknite **Naslijeđeni portal**.
 
-6. U **centru za administratore sustava Skype za tvrtke** kliknite **audiokonferencije** i zatim **korisnici**.
+6. U **centru za administratore sustava Skype za tvrtke** kliknite **audio konferencije** i zatim **korisnici**.
 
 7. Odaberite odgovarajućeg korisnika i potvrdite da korisnik ima **zadani broj uz plaćanje**.
 
-Za dodatne informacije pogledajte [tarife za pozivanje sustava Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili nazovite tim za trgovačke naplate tvrtke Microsoft za pomoć oko pitanja u vezi s licenciranjem.
+Za dodatne informacije pogledajte [tarife za pozivanje u sustavu Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili nazovite tim za Microsoft Commerce Billing za pomoć oko pitanja u vezi s licenciranjem.

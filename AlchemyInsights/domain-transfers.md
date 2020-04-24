@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 4508c70331f8d83f9f3569c64d49e963af801eb9
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530018"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783963"
 ---
 # <a name="domain-transfers"></a>Prijenosi domena
 
@@ -24,9 +24,9 @@ ms.locfileid: "43530018"
 
     - Premda Microsoftove kupljene domene ne podržavaju promjenu NS zapisa, razmislite o [ažuriranju DNS zapisa za svoje web-mjesto](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) umjesto prijenosa registracije domene na davatelja usluge smještanja web-stranica.
 
-- Microsoftova kupljena domena ne može se prenositi između klijenata u okviru sustava Office 365. 
+- Microsoftova kupljena domena ne može se prenositi između klijenata u okviru sustava Microsoft 365. 
 
-    - Domenu treće strane, međutim, možete prenositi između klijenata u okviru sustava Office 365 [uklanjanjem domene iz jednog klijenta](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) te njezinom verifikacijom u okviru drugog klijenta.
+    - Domenu treće strane, međutim, možete prenositi između klijenata u okviru sustava Microsoft 365 [uklanjanjem domene iz jednog klijenta](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) te njezinom verifikacijom u okviru drugog klijenta.
 
 - Registraciju ili naplatu domena trećih strana nije moguće prenijeti na Microsoft.
 

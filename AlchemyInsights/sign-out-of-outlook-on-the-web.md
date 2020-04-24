@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 2eac0cafc0fed6fe813d3820044a407e200955f3
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: a3d9adbea318e4302490e52d190d93607ce9fd4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100415"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789042"
 ---
 # <a name="sign-out-of-outlook-on-the-web"></a>Odjava iz programa Outlook na webu
 
 1. U gornjem desnom kutu zaslona kliknite sliku računa / inicijale. Ako ne vidite sliku pri vrhu zaslona, provjerite je li blokiranje oglasa uključeno. Blokiranje ponekad sprječava prikazivanje slike.
 
-2. Kliknite **Odjava**. (Ako ne želite da vas Outlook automatski prijavljuje na račun tvrtke ili obrazovne ustanove, prilikom sljedeće prijave u Office 365 poništite okvir **Zapamti moju prijavu**.)
+2. Kliknite **Odjava**. (Ako ne želite da vas Outlook automatski prijavljuje na račun tvrtke ili obrazovne ustanove, prilikom sljedeće prijave poništite okvir **Zapamti moju prijavu**.)
 
 3. Ako nema mogućnosti odjave, upoznati smo s tim problemom i radimo na objavi rješenja u sljedećem izdanju.  Pokušajte izbrisati predmemoriju preglednika i kolačiće i vidite hoće li to riješiti problem.  Ako ne riješi, možete se [ručno odjaviti s računa](https://login.live.com/logout.srf) i zatvoriti sve prozore preglednika.
 
