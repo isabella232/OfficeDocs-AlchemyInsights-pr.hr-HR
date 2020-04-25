@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4969"
-ms.openlocfilehash: 8b2342c1e4b7311c59ac7b3b6191de223bfc17ae
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 3a6a683e283b524d20da51d074aea417fe569b90
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509279"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799079"
 ---
 # <a name="power-bi-license-management"></a>Upravljanje licencijama za servis Power BI
 
@@ -26,6 +26,6 @@ Upravljanje licencijama za servis Power BI može se dovršiti u **centru za admi
 
 - Za **dodjelu** licenciju za servis Power BI idite na **Naplata > [Licencije](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Dodatne informacije potražite u članku [Dodjela licencija](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide). 
 
-- Za **dodavanje/uklanjanje** licencija za servis Power BI idite na **Naplata > [Usluge kupnje](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Dodatne informacije potražite u članku [Dodavanje/uklanjanje licencija](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
+- Da biste **dodali/uklonili** licence za Power BI, otvorite **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)**, pronađite pretplatu kojoj želite dodati ili iz nje ukloniti licence, a zatim kliknite **Dodaj/ukloni licence**.
 
 Dodatne informacije pronađite u članku [Upravljanje licencama za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
