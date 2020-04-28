@@ -1,5 +1,5 @@
 ---
-title: Vraćanje izbrisane grupe sustava Office 365
+title: Vraćanje izbrisane grupe sustava Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0443d51690399ea5c82ab9c2d6fc803a946161dd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758746"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912703"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Vraćanje izbrisane grupe sustava Office 365
+# <a name="restore-a-deleted-microsoft-365-group"></a>Vraćanje izbrisane grupe sustava Microsoft 365
 
 Izbrisane grupe zadržavaju se 30 dana. Da biste vratili izbrisanu grupu:
   
@@ -28,5 +28,5 @@ Izbrisane grupe zadržavaju se 30 dana. Da biste vratili izbrisanu grupu:
 
 2. Odaberite grupu, a zatim na naredbenoj traci kliknite **Vrati** ili kliknite vezu "Kliknite ovdje da biste vratili" u oknu s detaljima.
 
-Dodatne informacije ili informacije o vraćanju grupa pomoću komponente PowerShell potražite u članku [Vraćanje izbrisane grupe sustava Office 365](https://go.microsoft.com/fwlink/?linkid=867802).
+Dodatne informacije ili informacije o vraćanju grupa pomoću komponente PowerShell potražite u članku [Vraćanje izbrisane grupe sustava Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802).
   

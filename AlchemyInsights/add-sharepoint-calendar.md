@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671341"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43910996"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Dodavanje kalendara sustava SharePoint
 
-Kalendari sustava SharePoint klasične su vrste popisa koje se ponekad miješaju s kalendarima grupe sustava Office 365.
+Kalendari sustava SharePoint klasične su vrste popisa koje se ponekad miješaju s kalendarima grupa microsoft 365.
  
 Da biste stvorili kalendar sustava SharePoint, slijedite ove korake:
  
@@ -29,5 +29,5 @@ Da biste stvorili kalendar sustava SharePoint, slijedite ove korake:
 2.  U okvir **Traženje pretraživanja aplikacije** upišite **Kalendar** i pritisnite enter.
 3.  Odaberite aplikaciju pod nazivom **Kalendar**, a zatim unesite naziv kalendara.
 
-Dodatne informacije o grupama sustava Office 365 potražite [u članku Saznajte više o grupama sustava Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Dodatne informacije o Microsoft 365 grupama potražite [u članku Saznajte više o grupama za Microsoft 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

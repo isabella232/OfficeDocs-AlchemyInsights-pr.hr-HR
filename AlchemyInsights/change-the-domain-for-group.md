@@ -1,5 +1,5 @@
 ---
-title: Promjena domene za Office 365 Group
+title: Promjena domene za Microsoft 365 Group
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 4257191c183e4a20943c56c382b5fc78176330b8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7aab6fd8bef120a6d589fc3c2d852fd4cb499aca
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706481"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911284"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Promjena domene za Office 365 Group
+# <a name="change-the-domain-for-microsoft-365-group"></a>Promjena domene za Microsoft 365 Group
 
-Ako želite promijeniti domenu za grupu sustava Office 365 tijekom stvaranja, slijedite korake u [odjeljku Odabir domene koju ćete koristiti prilikom stvaranja grupa sustava Office 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Ako želite promijeniti domenu za grupu sustava Microsoft 365 tijekom stvaranja, slijedite korake u [odjeljku Odabir domene koju ćete koristiti prilikom stvaranja grupa za Microsoft 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
 
-Nakon što se grupa sustava Office 365 već stvori, trenutno ne postoji način promjene domene. Jedini način je stvaranje nove grupe sustava Office 365 i brisanje stare ako je potrebno (dodatne adrese e-pošte mogu se dodati putem [centra za administratore sustava Exchange](https://outlook.office365.com/ecp).
+Nakon što je grupa Microsoft 365 već stvorena, trenutno ne postoji način promjene domene. Jedini način je stvaranje nove Grupe za Microsoft 365 i brisanje stare ako je potrebno (dodatne adrese e-pošte mogu se dodati putem [centra za administratore sustava Exchange](https://outlook.office365.com/ecp).

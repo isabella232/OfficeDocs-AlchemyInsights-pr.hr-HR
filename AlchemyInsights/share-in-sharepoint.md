@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 0498f7e6b4b0989f043afbb7573af54b5206a11a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: daab5cfbcb52a1e946a5bd228897a2dc5e3ebe7e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742359"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911680"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Zajedničko korištenje u sustavu SharePoint Online
 
@@ -24,7 +24,7 @@ Da biste zajednički koristili web-mjesto:
   
 1. Otvorite web-mjesto u web-pregledniku.
     
-2. Ako web-mjesto pripada grupi sustava Office 365, kliknite ikonu Postavke u gornjem desnom kutu, a zatim **dozvole web-mjesta**. Kliknite **Pozovi osobe**, a zatim odaberite dodavanje članova u grupu sustava Office 365 ili zajedničko korištenje samo web-mjesta. 
+2. Ako web-mjesto pripada grupi microsoft 365, kliknite ikonu Postavke u gornjem desnom kutu, a zatim **dozvole web-mjesta**. Kliknite **Pozovi osobe**, a zatim odaberite dodavanje članova u grupu sustava Microsoft 365 ili zajedničko korištenje samo web-mjesta. 
     
     Za web-mjesto za komunikaciju kliknite **Zajedničko korištenje web-mjesta** u gornjem desnom kutu, unesite ime osobe, a zatim odaberite razinu dozvole (Čitanje, Uređivanje ili Potpuna kontrola). 
     

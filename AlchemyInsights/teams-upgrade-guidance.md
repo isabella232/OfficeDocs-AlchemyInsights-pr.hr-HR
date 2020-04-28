@@ -11,25 +11,27 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626304"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908768"
 ---
-# <a name="microsoft-teams-upgrade"></a>Nadogradnja Microsoft Teams
+# <a name="microsoft-teams-upgrade"></a>Nadogradnja servisa Microsoft Teams
 
-Bilo da ste tek započeli s timovima, koji već koriste timove uz Skype za tvrtke ili ste spremni za nadogradnju, želimo vam osigurati sve što vam je potrebno za uspješan put do timova. Za više informacija molimo posjetite poveznice u nastavku.
+**Važno**: To vam možemo pomoći pomoću dijagnostike podrške, ali izgleda da ne koristite Novi centar za administratore. Da biste koristili Novi centar za administratore, pomaknite prekidač u gornjem desnom kutu koji kaže **novi centar za administratore** udesno. Pomoću centra za novog administratora kliknite widget **Potrebna pomoć,** upišite "Nadogradnja timova", a zatim slijedite upute za pokretanje dijagnostike.
 
-[Početak nadogradnje Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+Bez obzira na to jeste li tek počeli s atimovima, već koristite aplikacije Teams uz Skype za tvrtke ili ste spremni za nadogradnju, želimo osigurati da imate sve što vam je potrebno za navigaciju uspješnim putovanjem do aplikacija Teams. Za više informacija posjetite linkove ispod.
+
+[Početak rada s nadogradnjom servisa Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
 [Planiranje nadogradnje](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[Razumijevanje Microsoft Teams i Skype za poslovne suživot](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Razumijevanje koegzistencije servisa Microsoft Teams i Skypea za tvrtke](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Izvođenje nadogradnje iz servisa Skype za tvrtke online timovima](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[Nadogradnja sa servisa Skype za tvrtke online na teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Izvođenje nadogradnje iz servisa Skype za poslovne lokalno timovima](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Nadogradnja s lokalnog servisa Skype za tvrtke na Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Provjerite status servisa Skype za tvrtke online u timovima nadogradnju s PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Provjera statusa skypea za tvrtke online na nadogradnju timova pomoću komponente PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

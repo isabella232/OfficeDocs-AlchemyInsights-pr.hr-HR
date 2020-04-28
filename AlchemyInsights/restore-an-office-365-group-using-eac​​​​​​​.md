@@ -1,5 +1,5 @@
 ---
-title: Vraćanje grupe sustava Office 365 pomoću centra za administratore sustava Exchange
+title: Vraćanje grupe sustava Microsoft 365 pomoću centra za administratore sustava Exchange
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: e0092afc382c034be0c1e130d2e32a56330c2732
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b40d216bce2f88c7ed48a470537c69e8589159f3
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742645"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912575"
 ---
-# <a name="restore-an-office-365-group-using-the-exchange-admin-center"></a>Vraćanje grupe sustava Office 365 pomoću centra za administratore sustava Exchange
+# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>Vraćanje grupe sustava Microsoft 365 pomoću centra za administratore sustava Exchange
 
 1. U lijevom navigacijskom oknu centra za administratore sustava Microsoft 365 proširite **Centar za administratore,** a zatim odaberite **Exchange**.
     
@@ -25,7 +25,7 @@ ms.locfileid: "43742645"
     
 3. Da biste vidjeli točno vrijeme kada je grupa bila meka izbrisana, odaberite grupu i pregledajte informacije u desnom oknu.
     
-4. Odaberite grupu sustava Office 365 koju želite vratiti, a zatim ikonu vraćanja.
+4. Odaberite grupu microsoft 365 koju želite vratiti, a zatim ikonu vraćanja.
     
 5. Odaberite osvježavanje ![Ikona Osvježi](media/6464df90-2a91-4c1f-92a6-9a38c7696ac3.gif) za ažuriranje informacija na stranici. Vaša grupa prikazat će se kao Aktivna. 
     

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721727"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912395"
 ---
 # <a name="manage-access-requests"></a>Upravljanje zahtjevima za pristup
 
@@ -26,7 +26,7 @@ Kada korisnik pokuša pristupiti stavci u sustavu SharePoint i nema dozvolu, pri
     
 2. U **odjeljku Korisnici i dozvole**kliknite **Zahtjevi za pristup i pozivnice**. (Ako se to ne pojavi, nisu podneseni zahtjevi za pristup.)
     
-3. Da biste korisniku dali dozvolu pojedinačno, kliknite **Odobri** ili **Odbij**. Da biste odabrali određenu razinu dozvole, najprije kliknite tri točke (...) pokraj imena osobe. Umjesto toga, dodajte korisnika u grupu koja ima dozvolu za web-mjesto. Za komunikacijska web-mjesta i klasična timska web-mjesta to možete učiniti na stranici Postavke web-mjesta. Za web-mjesta koja pripadaju grupi sustava Office 365 možete dodati korisnika u grupu.
+3. Da biste korisniku dali dozvolu pojedinačno, kliknite **Odobri** ili **Odbij**. Da biste odabrali određenu razinu dozvole, najprije kliknite tri točke (...) pokraj imena osobe. Umjesto toga, dodajte korisnika u grupu koja ima dozvolu za web-mjesto. Za komunikacijska web-mjesta i klasična timska web-mjesta to možete učiniti na stranici Postavke web-mjesta. Za web-mjesta koja pripadaju grupi microsoft 365 možete dodati korisnika u grupu.
     
     [Upravljanje zahtjevima za pristup](https://go.microsoft.com/fwlink/?linkid=2008747)
     

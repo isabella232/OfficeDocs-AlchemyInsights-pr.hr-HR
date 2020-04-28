@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767241"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912994"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Rješavanje problema sa zajedničkim korištenjem sadržaja sustava SharePoint s vanjskim korisnicima
 
@@ -32,7 +32,7 @@ Provjerite je li vanjsko zajedničko korištenje uključeno za web-mjesto. Za kl
     
 2. Odaberite web-mjesto ili web-mjesto, a zatim na vrpci kliknite **Zajedničko korištenje**.
     
-Za timsko web-mjesto koje pripada grupi sustava Office 365 ili komunikacijskom web-mjestu:
+Za timsko web-mjesto koje pripada grupi sustava Microsoft 365 ili komunikacijskom web-mjestu:
   
 - Te nove vrste web-mjesta imaju istu postavku zajedničkog korištenja kao i postavka na razini tvrtke ili ustanove, osim ako postavka na razini tvrtke ili ustanove dopušta zajedničko korištenje datoteka pomoću veza koje ne zahtijevaju prijavu. U tom slučaju web-mjesta omogućuju zajedničko korištenje s novim i postojećim vanjskim korisnicima koji se prijavljuju. Da biste promijenili postavku za određena web-mjesta, koristite novi centar za administratore sustava SharePoint ili PowerShell. [Saznajte više](https://go.microsoft.com/fwlink/?linkid=871863).
     

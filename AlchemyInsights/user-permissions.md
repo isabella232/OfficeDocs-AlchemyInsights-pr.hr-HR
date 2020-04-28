@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710507"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912886"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Korisničke dozvole u sustavima SharePoint i OneDrive
 
@@ -27,7 +27,7 @@ Ako korisnik u vašoj tvrtki ili ustanovi ne može pristupiti sustavu SharePoint
   
 1. Otvorite web-mjesto u web-pregledniku.
     
-2. Ako web-mjesto pripada grupi sustava Office 365, kliknite ikonu Postavke u gornjem desnom kutu, a zatim **dozvole web-mjesta**. Kliknite **Pozovi osobe**, a zatim odaberite dodavanje članova u grupu sustava Office 365 ili zajedničko korištenje samo web-mjesta. 
+2. Ako web-mjesto pripada grupi microsoft 365, kliknite ikonu Postavke u gornjem desnom kutu, a zatim **dozvole web-mjesta**. Kliknite **Pozovi osobe**, a zatim odaberite dodavanje članova u grupu sustava Microsoft 365 ili zajedničko korištenje samo web-mjesta. 
     
     Za web-mjesto za komunikaciju kliknite **Zajedničko korištenje web-mjesta** u gornjem desnom kutu, unesite ime osobe, a zatim odaberite razinu dozvole (Čitanje, Uređivanje ili Potpuna kontrola). 
     

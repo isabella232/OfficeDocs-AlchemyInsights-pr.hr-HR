@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642136"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912958"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemi prilikom stvaranja web-mjesta povezanog grupe u sustavu SharePoint
 
@@ -30,5 +30,5 @@ Ako ste izbrisali grupu i povezano web-mjesto i želite stvoriti drugo web-mjest
 
 1. Postoje različiti načini stvaranja i korištenja modernih grupa u sustavu SharePoint.
 
-   - Postojeća web-mjesta možete povezati s grupom sustava Office 365. Dodatne informacije potražite u članku [Povezivanje grupe sustava Office 365 pomoću korisničkog sučelja sustava SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Da biste stvorili povezano web-mjesto grupe sustava Office 365, morat ćete stvoriti [timsko web-mjesto](https://admin.microsoft.com/sharepoint).
+   - Postojeća web-mjesta možete povezati s grupom microsoft 365. Dodatne informacije potražite [u odjeljku Povezivanje grupe sustava Microsoft 365 pomoću korisničkog sučelja sustava SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Da biste stvorili povezano web-mjesto grupe Microsoft 365, morat ćete stvoriti [timsko web-mjesto](https://admin.microsoft.com/sharepoint).

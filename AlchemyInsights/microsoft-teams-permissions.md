@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590414"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911930"
 ---
 # <a name="microsoft-teams-permissions"></a>Dozvole za Microsoft Teams
 
-Microsoft Teams uključuje dvije korisničke uloge: vlasnika i člana. Prema zadanim postavkama korisnik koji kreira novi tim dodjeljuje status vlasnika. Osim toga, vlasnici i članovi mogu imati moderator mogućnosti za kanal (ako je moderacija postavljena). Ako je tim stvoren iz postojeće Office 365 grupe, dozvole su naslijeđene. Dodatne informacije potražite u sljedećem članku:
+Microsoft Teams sadrži dvije korisničke uloge: vlasnika i člana. Prema zadanim postavkama, korisniku koji stvori novi tim dodjeljuje se status vlasnika. Osim toga, vlasnici i članovi mogu imati mogućnosti moderatora za kanal (ako je postavljena umjerenost). Ako je tim stvoren iz postojeće Grupe za Microsoft 365, nasljeđuju se dozvole. Dodatne informacije potražite u članku:
 
-- [Dodjeljivanje vlasnika i članova tima u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [Dodjela vlasnika tima i članova u timovima](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
 - [Dozvole i razmatranja aplikacija Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [Postavljanje dozvola za goste za kanale u timovima](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Postavljanje dozvola za goste za kanale u aplikaciji Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
