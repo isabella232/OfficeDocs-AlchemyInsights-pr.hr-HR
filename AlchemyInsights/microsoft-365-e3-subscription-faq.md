@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912037"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943970"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Najčešća pitanja o pretplati na Microsoft 365 E3 i upravljanju licencama
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912037"
 - Da biste **otkazali** licence za E3, idite na **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)**, odaberite **Postavke i akcije**, a zatim kliknite na **Otkaži pretplatu**. Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - Informacije o **aktivaciji** pretplate na E3 pročitajte u članku [Aktivacija pretplate](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Informacije o **ponovnoj aktivaciji** pretplate na E3 pročitajte u članku [Ponovna aktivacija pretplate](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Informacije o produljenju probnog razdoblja za E3 pronađite u članku [Produljenje probnog razdoblja](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Informacije o **produljenju** probnog razdoblja za E3 potražite u članku [Produljenje probnog razdoblja](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 Dodatne informacije pronađite u članku [Upravljanje licencama za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
