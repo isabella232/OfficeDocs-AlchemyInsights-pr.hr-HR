@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713314"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010786"
 ---
 # <a name="office-activation-errors"></a>Pogreške pri aktivaciji sustava Office
 
-1. U **Upravljačkoj ploči > Programi i značajke**, potražite **Office**. Trebali biste vidjeti **Microsoft Office 365 ProPlus** ili **Microsoft Office 365 Business**. Ako na popisu vidite da je instalirano više od jedne verzije sustava Office, deinstalirajte verziju kojom se ne koristite. Ako ne možete uspješno deinstalirati s pomoću upravljačke ploče, upotrijebite pomoćnika za podršku i oporavak (SaRA) kako biste [deinstalirali](https://aka.ms/SARA-OfficeUninstall-Alchemy) verziju kojom se ne koristite. Zatim ponovo pokrenite Office i prijavite se s pomoću računa tvrtke ili obrazovne ustanove, ako se to od vas zatraži. 
+1. U **Upravljačkoj ploči > Programi i značajke**, potražite **Office**. Trebali biste vidjeti **Microsoft 365 za velike tvrtke** ili **Microsoft 365 za tvrtke**. Ako na popisu vidite da je instalirano više od jedne verzije sustava Office, deinstalirajte verziju kojom se ne koristite. Ako ne možete uspješno deinstalirati s pomoću upravljačke ploče, upotrijebite pomoćnika za podršku i oporavak (SaRA) kako biste [deinstalirali](https://aka.ms/SARA-OfficeUninstall-Alchemy) verziju kojom se ne koristite. Zatim ponovo pokrenite Office i prijavite se s pomoću računa tvrtke ili obrazovne ustanove, ako se to od vas zatraži. 
 
 2. Ako Office još uvijek nema licenciju, vratite se na **Upravljačku ploču > Programi i značajke**, kliknite desnom tipkom miša na preostalo instaliranje sustava Office, kliknite **Izmijeni** (ili **Promijeni**), pa kliknite **Popravak na internetu**. Popravak na internetu mogao bi potrajati. Zatim ponovo pokrenite Office i prijavite se s pomoću računa tvrtke ili obrazovne ustanove, ako se to od vas zatraži. 
 

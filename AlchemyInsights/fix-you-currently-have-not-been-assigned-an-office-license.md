@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: aceea65f054299797e989330b64af17a24fd5389
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218101"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010174"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Ispravak – „Trenutačno vam nije dodijeljena licenca za Office“
 
-Da biste instalirali klijentske aplikacije sustava Office, provjerite imate li pretplatu na Office 365 ili Microsoft 365 koja [obuhvaća klijentske aplikacije sustava Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), npr. Office 365 Business Premium, Office 365 Business ili Office 365 ProPlus.
+Da biste instalirali klijentske aplikacije sustava Office, provjerite imate li pretplatu na Office 365 ili Microsoft 365 koja [obuhvaća klijentske aplikacije sustava Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), kao što je npr. Microsoft 365 Business Premium, Microsoft 365 Apps za male tvrtke ili Microsoft 365 Apps za velike tvrtke.
 
-**Napomena**: [Office Home and Business](https://products.office.com/home-and-business) je proizvod sustava [Office za kućnu upotrebu](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), a ne dio pretplate za tvrtke. Project Online Essentials ne obuhvaća računalnu verziju programa Project, pa nije potrebna instalacija. Korisnici tarife 1 za Visio mogu pristupati programu Visio na webu jer tarifa ne obuhvaća računalnu verziju programa Visio. Računalne verzije programa Project i Visio nisu dostupne na Macu.
+**Napomena**: [Office Home and Business](https://products.office.com/home-and-business) proizvod je iz kategorije [Office za kućnu upotrebu](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) te nije dio pretplate za tvrtke. Project Online Essentials ne obuhvaća računalnu verziju programa Project, pa nije potrebna instalacija. Korisnici tarife 1 za Visio mogu pristupati programu Visio na webu jer tarifa ne obuhvaća računalnu verziju programa Visio. Računalne verzije programa Project i Visio nisu dostupne na Macu.
 
 Ako imate pretplatu koja obuhvaća aplikacije sustava Office, nećete vidjeti mogućnost instalacije osim ako nemate [dodijeljenu licencu](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ako ste administrator sustava Office 365 odgovoran za dodjelu licenci, pročitajte članak [Dodjela licenci korisnicima](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
