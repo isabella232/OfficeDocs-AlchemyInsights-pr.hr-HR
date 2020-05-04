@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726240"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010849"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Korištenje alata za implementaciju sustava Office (ODT)
 
@@ -42,4 +42,4 @@ Koristite alat za implementaciju sustava Office (ODT) za implementaciju verzija 
 
     **Napomena:** Ovaj korak morate pokrenuti s klijentskog računala na koje želite instalirati Office i morate imati dozvole lokalnog administratora na tom računalu.
 
-Dodatne informacije o korištenju alata za implementaciju sustava Office za scenarije implementacije sustava Microsoft 365 za tvrtke potražite [u članku Pregled alata za implementaciju sustava Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Dodatne informacije o korištenju alata za prilagodbu sustava Office potražite u članku [Pregled alata za prilagodbu sustava Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Dodatne informacije o korištenju alata za implementaciju sustava Office za scenarije implementacije sustava Microsoft 365 za tvrtke potražite [u članku Pregled alata za implementaciju sustava Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Dodatne informacije o korištenju alata za prilagodbu sustava Office potražite u članku [Pregled alata za prilagodbu sustava Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: 4b843407f05db207f3b676c03c7088d3d0ba062e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ffa91eaf333792af149feda25f9a377ed591b597
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704625"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010210"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Implementacija timova kao samostalnih ili s novim ili postojećim instalacijama sustava Office
 
-Microsoft Teams sada je dio ***novih instalacija*** aplikacija sustava Microsoft 365 za tvrtke, aplikacija microsoft 365 za tvrtke i Office za Mac. Dodatne informacije potražite u [odjeljku Kada će Microsoft Teams početi biti obuhvaćen novim instalacijama sustava Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams sada je dio ***novih instalacija*** aplikacija sustava Microsoft 365 za tvrtke, aplikacija microsoft 365 za tvrtke i Office za Mac. Dodatne informacije potražite u [odjeljku Kada će Microsoft Teams početi biti obuhvaćen novim instalacijama sustava Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Osim toga, počevši od verzije 1906 u mjesečnom ***kanalu,*** Timovi će se dodati postojećim instalacijama aplikacija Microsoft 365 za tvrtke (i Microsoft 365 Apps za tvrtke) na uređajima sa sustavom Windows kada postojeću instalaciju ažurirate na najnoviju verziju. Dodatne informacije potražite u [odjeljku Što je s postojećim instalacijama sustava Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Osim toga, počevši od verzije 1906 u mjesečnom ***kanalu,*** Timovi će se dodati postojećim instalacijama aplikacija Microsoft 365 za tvrtke (i Microsoft 365 Apps za tvrtke) na uređajima sa sustavom Windows kada postojeću instalaciju ažurirate na najnoviju verziju. Dodatne informacije potražite u [odjeljku Što je s postojećim instalacijama sustava Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
 > Ako ne želite čekati ovaj raspored uvođenja, možete implementirati Teams kao samostalne za svoje korisnike slijedeći ove [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) [upute](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) ili možete postaviti korisnike da instaliraju Teams za sebe iz sustava .
 
-Ako vaša tvrtka ili ustanova nije spremna za implementaciju timova, imamo korake koje možete poduzeti da ***biste izuzeli Teams*** iz [novih](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) ili [postojećih](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) instalacija sustava Office. Ako želite instalirati Teams, ali ne želite da se Timovi automatski pokreću za korisnika nakon instalacije, pročitajte u [odjeljku Sprječavanje automatskog pokretanja servisa Microsoft Teams nakon instalacije](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+Ako vaša tvrtka ili ustanova nije spremna za implementaciju timova, imamo korake koje možete poduzeti da ***biste izuzeli Teams*** iz [novih](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) ili [postojećih](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) instalacija sustava Office. Ako želite instalirati Teams, ali ne želite da se Timovi automatski pokreću za korisnika nakon instalacije, pročitajte u [odjeljku Sprječavanje automatskog pokretanja servisa Microsoft Teams nakon instalacije](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
 Da biste ***instalirali Teams*** s uređaja sa sustavom Windows, [pročitajte članku Deinstalacija servisa Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Da biste očistili Microsoft Teams s više ciljanih računala ili korisnika, pročitajte popis [implementacije programa Microsoft Teams .](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 

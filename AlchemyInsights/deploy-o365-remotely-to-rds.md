@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: ddd44d40e9430ee31b8b734450dde0defef229d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704697"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010246"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Implementacija aplikacija microsoft 365 za tvrtke za zajedničko korištenje na RDS-u, terminalskom poslužitelju ili VDI-u
 
@@ -25,15 +25,15 @@ Da biste implementirali Microsoft 365 aplikacije za tvrtke pomoću servisa Udalj
 - Morate imati tarifu za Microsoft 365 For Business ili tarifu za Office 365 koja obuhvaća aplikacije Microsoft 365 za tvrtke, kao što su Office 365 Enterprise E3 ili Enterprise E5.
    > [!NOTE] 
    > Tarife Microsoft 365 Apps for business i Microsoft 365 Business Premium Standard ne obuhvaćaju Aplikacije sustava Microsoft 365 za tvrtke.
-- Morate omogućiti [aktivaciju dijeljenog računala](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Morate omogućiti [aktivaciju dijeljenog računala](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
 > [!NOTE]
 > Microsoftov [pomoćnik za podršku i oporavak](https://aka.ms/SaRA_OfficeSCA_M365Portal) možete preuzeti i pokrenuti da biste instalirali Microsoft 365 Aplikacije za tvrtke u načinu aktivacije dijeljenog računala.
 
-Dodatne informacije o preduvjetima, uputama za postavljanje i smjernicama o prilagođenim instalacijama pomoću alata za implementaciju sustava Office [potražite u članku Implementacija aplikacija microsoft 365 za tvrtke pomoću servisa udaljene radne površine](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Dodatne informacije o preduvjetima, uputama za postavljanje i smjernicama o prilagođenim instalacijama pomoću alata za implementaciju sustava Office [potražite u članku Implementacija aplikacija microsoft 365 za tvrtke pomoću servisa udaljene radne površine](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
 
 Da biste ispravili pogreške povezane s aktivacijom zajedničkog računala:
-- Pročitajte [članak Otklanjanje poteškoća s aktivacijom zajedničkog računala za Microsoft 365 aplikacije za tvrtke](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+- Pročitajte [članak Otklanjanje poteškoća s aktivacijom zajedničkog računala za Microsoft 365 aplikacije za tvrtke](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
 - Pročitajte članak [Resetiranje aplikacija sustava Microsoft 365 za stanje aktivacije za velike tvrtke](https://go.microsoft.com/fwlink/?linkid=2109218).
 
 Ako želite instalirati Microsoft 365 aplikacije za tvrtke na RDS iz centra za administratore sustava Microsoft 365, ***koji koristi zadane postavke instalacije,*** slijedite ove korake:
@@ -47,5 +47,5 @@ Ako želite instalirati Microsoft 365 aplikacije za tvrtke na RDS iz centra za a
    1. Desnom tipkom miša kliknite gumb Windows u donjem lijevom kutu zaslona i odaberite **Pokreni**. U okvir Otvori upišite **regedit**, a zatim odaberite **U redu**.
    2. Odaberite **Da** kada se od vas zatraži da dopustite uređivaču registra da unese promjene na uređaj.
    3. In Registry Editor, dodati vrpca vrijednost od **SharedComputerLicensing** sa postavljanje od 1 pod HKEY_LOCAL_MACHINESOFTWAREMicrosoftOfficeClickToRunConfiguration\\\\.
-   4. Na RDS poslužitelju ***prijavite se kao krajnji korisnik*** i provjerite je li [aktivacija zajedničkog računala omogućena za Microsoft 365 Aplikacije za tvrtke](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+   4. Na RDS poslužitelju ***prijavite se kao krajnji korisnik*** i provjerite je li [aktivacija zajedničkog računala omogućena za Microsoft 365 Aplikacije za tvrtke](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 
