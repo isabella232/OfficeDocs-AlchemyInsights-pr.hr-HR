@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671485"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061988"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Dodavanje, uklanjanje ili sprječavanje korisnika da mijenjaju fotografije profila
 
@@ -24,6 +24,6 @@ ms.locfileid: "43671485"
 
 - **Uklanjanje fotografija profila:** Fotografije profila može ukloniti administrator u [upravljanju korisnicima servisa Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) ili korisnik u korisničkom profilu za Microsoft Teams.
 
-- **Blokiranje promjena fotografija profila:** Promjene fotografija mogu se blokirati za cijeli Microsoft 365* dodavanjem pravila web-aplikacije Outlook Web App po članku, [zaključavanjem fotografija ili ograničavanjem dozvola za promjenu fotografije profila za Microsoft 365](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Blokiranje promjena fotografija profila:** Promjene fotografija mogu se blokirati za cijeli Microsoft 365* dodavanjem pravila web-aplikacije Outlook Web App po članku, [zaključavanjem fotografija ili ograničavanjem dozvola za promjenu fotografije profila za Microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
 *Imajte na umu da Microsoft Teams trenutno ne podržava pravila web-aplikacije Outlook Web App da blokira promjene fotografija, ali planira dodati podršku za tu značajku početkom 2020.

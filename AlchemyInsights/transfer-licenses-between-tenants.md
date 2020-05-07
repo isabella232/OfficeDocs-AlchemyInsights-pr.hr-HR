@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: e3bbe36ff57038caa2541fe4456a1363c91995d7
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789438"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016896"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Prijenos licenci između klijenata
 
-Nije moguće prenositi licence između dviju tvrtki ili ustanova (klijenata). 
+**Nije moguće** prenositi licence između dviju tvrtki ili ustanova (klijenata). Ako ste korisnik količinskog licenciranja, obratite se [centru za usluge količinskog licenciranja](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center). U suprotnom slijedite navedene korake: 
 
 - Ako više ne namjeravate upotrebljavati klijenta s kojeg biste ih željeli prenijeti, možete [otkazati pretplatu](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) i [kupiti novog](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2) (ciljnog) klijenta.
 

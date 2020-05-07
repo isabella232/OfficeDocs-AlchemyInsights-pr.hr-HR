@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 5741edef38f15bfa546aba3a2868c4621da4934e
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 19871ba1cb6d12be3c0eab462adcbe0840afeebe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417678"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061771"
 ---
 # <a name="billing-and-payment"></a>Naplata i plaćanje
 
@@ -24,7 +24,7 @@ Računi se mogu pronaći na kartici **Računi za naplatu** > [& plaćanja.](http
 
 **Primanje faktura putem e-pošte**
 
-Na stranici Obavijesti o **naplati** > [](https://go.microsoft.com/fwlink/p/?linkid=853212) možete uključiti tu **značajku** i upravljati korisnicima koji će primiti fakturu kao privitak e-pošte. Faktura će biti poslana na adrese e-pošte korisnika na popisu primatelja obavijesti. Popis uključuje sve naplate i globalne administratore.  Možete upravljati time tko će primati obavijesti o fakturi promjenom uloge.  Uklanjanjem globalne uloge ili uloge administratora naplate korisnika se uklanja s popisa primatelja, a dodavanje globalne uloge ili uloge administratora naplate dodat će korisnika na popis primatelja.
+Na stranici Obavijesti o **naplati** > [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) možete uključiti tu **značajku** i upravljati korisnicima koji će primiti fakturu kao privitak e-pošte. Faktura će biti poslana na adrese e-pošte korisnika na popisu primatelja obavijesti. Popis uključuje sve naplate i globalne administratore.  Možete upravljati time tko će primati obavijesti o fakturi promjenom uloge.  Uklanjanjem globalne uloge ili uloge administratora naplate korisnika se uklanja s popisa primatelja, a dodavanje globalne uloge ili uloge administratora naplate dodat će korisnika na popis primatelja.
 
 **Napomena:** Primit ćete dvije zasebne poruke e-pošte: jednu koja vam omogućuje da znate da je vaš račun spreman, s uputama za prijavu u centar za administratore da biste ga pregledali i drugu e-poštu koja sadrži izjavu o naplati kao privitak.
 
@@ -34,13 +34,13 @@ Ako plaćate kreditnom karticom ili bankovnim računom, način plaćanja povezan
 
 Ako ste dodali novu karticu i još uvijek primate obavijest o odbijanju na staroj kreditnoj kartici, možda ćete tu novu karticu morati povezati s pretplatom.
 
-1. Idite na **Proizvodi za naplatu** > [& usluge](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Idite na **Naplata vaših** > **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Odaberite pretplatu koju želite platiti novom karticom ili bankovnim računom. U odjeljku **Naplata** pokraj načina plaćanja kliknite **Uredi**.
+2. Odaberite pretplatu koju želite platiti novom karticom ili bankovnim računom. U odjeljku **Naplata**, pokraj načina plaćanja, kliknite **Uredi**.
 
-3. Kliknite **Promijeni** pokraj trenutnog načina plaćanja.
+3. Kliknite **Promijeni** pokraj trenutačnog načina plaćanja.
 
-4. Na padajućem izborniku odaberite alternativni način plaćanja ili dodajte novi način plaćanja.
+4. S padajućeg popisa odaberite drugi način plaćanja ili dodajte novi način plaćanja.
 
 Pogledajte [Dodavanje, ažuriranje ili uklanjanje načina plaćanja](https://go.microsoft.com/fwlink/?linkid=2118133).
 
