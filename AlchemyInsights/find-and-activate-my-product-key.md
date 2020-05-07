@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716128"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062456"
 ---
 # <a name="find-and-activate-my-product-key"></a>Pronalaženje i aktivacija ključa proizvoda
 
@@ -32,7 +32,7 @@ Ako ste Microsoft 365 Business Premium Standard kupili u maloprodajnoj trgovini,
 
 **Napomena:** Da biste koristili ključ proizvoda za produljenje datuma isteka ili dodavanje licence postojećoj pretplati na Microsoft 365 Business Premium Standard, potreban vam je novi i neiskorišteni ključ za istu pretplatu na Microsoft 365.  Unos izvornog ključa proizvoda za Microsoft 365 neće funkcionirati jer se ključ koji je već iskorišten ne može ponovno koristiti.
 
-1. U centru za administratore otvorite stranicu **Proizvodi za naplatu** > [&.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. U centru za administratore otvorite stranicu **Naplata** > **[proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Pronađite pretplatu na koju želite produljiti datum isteka ili dodajte licence.  Kliknite [proširi datum završetka](https://go.microsoft.com/fwlink/p/?linkid=842054) ili [dodajte još licenci](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
