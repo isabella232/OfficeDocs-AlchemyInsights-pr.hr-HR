@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: cd3bb39b4a105a1391a373dfed7c2c247a980673
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 703aa6ba1c8175b76e445a261a4081bbf0103478
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286378"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064041"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>Uobičajeni problemi i rješenja u programu OneNote
 
@@ -24,7 +24,7 @@ Evo nekih često traženih tema programa OneNote:
 
 - [Rješavanje problema sa sinkronizacijom](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – da biste riješili najčešće probleme vezane uz sinkronizaciju programa OneNote, slijedite korake u [članku Rješavanje problema kada ne možete sinkronizirati OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-- Korištenje [programa OneNote u programu Teams](https://support.microsoft.com/en-us/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Napomena**: OneNote u aplikaciji Teams u aplikaciji Teams samo je za komercijalne i obrazovne klijente. Da biste mogli uređivati, koristite OneNote za web ili aplikaciju za računalo OneNote.
+- Korištenje [programa OneNote u programu Teams](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Napomena**: OneNote u aplikaciji Teams u aplikaciji Teams samo je za komercijalne i obrazovne klijente. Da biste mogli uređivati, koristite OneNote za web ili aplikaciju za računalo OneNote.
 
 - [Koristite bilježnicu za predmete u programu OneNote u timovima](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) odgovore na pitanja o postavljanju bilježnice za predmete u timovima.
 
