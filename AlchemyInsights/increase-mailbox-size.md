@@ -13,10 +13,10 @@ ms.custom:
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
 ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064221"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Promjena pretplata radi povećanja veličine poštanskog sandučića
@@ -25,7 +25,7 @@ Ako je veličina poštanskog sandučića već 100 GB, ne možete ga povećati.
   
 Ako je veličina poštanskog sandučića 50 GB, možete ga povećati na 100 GB tako da se prebacite na [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ili [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Evo koraka za prelazak na drugu pretplatu:
   
-1. U centru za administratore sustava Microsoft 365 otvorite stranicu **Naplata vaših** \> **[proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. U centru za administratore sustava Microsoft 365 otvorite stranicu **Naplata** \> **[vaših proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Odaberite pretplatu koju želite nadograditi.
 

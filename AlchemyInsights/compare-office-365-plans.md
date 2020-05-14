@@ -14,10 +14,10 @@ ms.custom:
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
 ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058419"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>Usporedba, nadogradnja ili kupnja pretplata
@@ -28,4 +28,4 @@ Ako je vaša tvrtka ili ustanova zainteresirana za usporedbu svih tarifa i cijen
   
 Ako je vaša tvrtka ili ustanova već kupila pretplate i zainteresirana je za prelazak na drugu tarifu, to možete učiniti iz centra za administratore sustava Microsoft 365. Otvorite stranicu **Naplata** \> [vaših proizvoda,](https://go.microsoft.com/fwlink/p/?linkid=842054) odaberite pretplatu koju želite promijeniti, a zatim odaberite karticu **Nadogradnja** da biste vidjeli popis novih dostupnih tarifa.
   
-Vaša tvrtka ili ustanova može kombinirati i pretplate kako bi zadovoljila potrebe i preduvjete korisnika. U centru za administratore otvorite stranicu [Usluge kupnje](https://go.microsoft.com/fwlink/p/?linkid=868433) **naplate.** \>
+Vaša tvrtka ili ustanova može kombinirati i pretplate kako bi zadovoljila potrebe i preduvjete korisnika. U centru za administratore **Billing** otvorite \> stranicu [Usluge kupnje](https://go.microsoft.com/fwlink/p/?linkid=868433) naplate.
