@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720688"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235289"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Kako pronaći i oporaviti poruke koje nedostaju, kontakte ili stavke kalendara u programu Outlook
 
-- Možete koristiti alat [Imam problema sa slanjem, primanjem ili pronalaženjem poruka e-pošte](https://aka.ms/SaRA-OutlookSendReceive) na zahvaćenom računalu. Ovaj alat će provjeriti niz pitanja i predložiti moguća rješenja.
+1. U programu Outlook idite na popis mapa e-pošte, a zatim odaberite **Izbrisane stavke**. **Važno**: Ako ne vidite mapu **Izbrisane stavke,** već vidite mapu **Smeće,** vaš račun ne podržava oporavak stavke koja se više ne prikazuje u mapi **Izbrisane stavke.**
 
-- [Utvrditi je li račun kompromitiran](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Ako ste ugroženi, slijedite korake u [članku Odgovaranje na kompromitirani račun e-pošte.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. Na izborniku **Polazno** kliknite **Oporavi izbrisane stavke s poslužitelja**. **Važno**: Ako na izborniku ne postoji naredba **Oporavi izbrisane stavke s poslužitelja,** vaš račun ne podržava oporavak stavke koja se više ne nalazi u mapi **Izbrisane stavke.**
 
-- [Pronalaženje poruke ili stavke pomoću trenutnog pretraživanja](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Odaberite stavke koje želite oporaviti, kliknite **Vrati odabrane stavke**, a zatim u **redu**.
 
-- [Oporavak izbrisanih stavki u programu Outlook za Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**Gdje idu oporavljeni predmeti?** Kada oporavite stavke iz mape Stavke koje se mogu oporaviti, one se premještaju u mapu **Izbrisane stavke.** Nakon što oporavite stavku, možete je pronaći u mapi **Izbrisane stavke,** a zatim je možete premjestiti u drugu mapu.
+
+Možete isto tako iskoristiti [Imam problematika slanje vijesti, primanje, ili nađi prema elektronička pošta poruke alat](https://aka.ms/SaRA-OutlookSendReceive) na **izvještačen stroj.** Ovaj alat će provjeriti niz pitanja i predložiti moguća rješenja.
