@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
+ms.sourcegitcommit: a61f9b7721701b20efade33a3293089761932905
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908768"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254741"
 ---
 # <a name="microsoft-teams-upgrade"></a>Nadogradnja servisa Microsoft Teams
 
-**Važno**: To vam možemo pomoći pomoću dijagnostike podrške, ali izgleda da ne koristite Novi centar za administratore. Da biste koristili Novi centar za administratore, pomaknite prekidač u gornjem desnom kutu koji kaže **novi centar za administratore** udesno. Pomoću centra za novog administratora kliknite widget **Potrebna pomoć,** upišite "Nadogradnja timova", a zatim slijedite upute za pokretanje dijagnostike.
+**Važno**: Ako ste nadograđeni sskypea za tvrtke online na Microsoft Teams u načinu rada Samo za Teams, ali ako ustanovite da još niste spremni, to možemo riješiti pomoću dijagnostike podrške. Provjerite koristite li novi centar za administratore tako da kliznete prekidač u gornjem desnom kutu koji piše **novi centar za administratore**udesno. Pomoću novog centra za administratore kliknite widget **Need Help? (Potrebna pomoć),** upišite **"Nadogradnja timova",** a zatim slijedite upute za pokretanje dijagnostike.
 
 Bez obzira na to jeste li tek počeli s atimovima, već koristite aplikacije Teams uz Skype za tvrtke ili ste spremni za nadogradnju, želimo osigurati da imate sve što vam je potrebno za navigaciju uspješnim putovanjem do aplikacija Teams. Za više informacija posjetite linkove ispod.
 
