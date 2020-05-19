@@ -12,16 +12,14 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: b288c3e7b29265dbb7a68055298a695accaf19c9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
+ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711371"
+ms.lasthandoff: 05/18/2020
+ms.locfileid: "44278812"
 ---
 # <a name="cannot-access-sharepoint"></a>Nije moguće pristupiti sustavu SharePoint
-
-**Važno**: Tijekom ovih neočekivanih vremena poduzimamo korake kako bismo osigurali da servisi SharePoint Online i OneDrive i dalje budu široko raspoloživi – dodatne informacije potražite u [Privremene prilagodbe značajke SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 Postoji nekoliko razloga zašto Microsoft SharePoint ili Microsoft OneDrive možda neće biti pristupačni. Ako ne možete pristupiti sustavu SharePoint Online, koristite sljedeći vodič za otklanjanje toga problema.
 
