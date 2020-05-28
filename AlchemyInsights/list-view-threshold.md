@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953760"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343063"
 ---
 # <a name="list-view-threshold"></a>Prag prikaza popisa
 
-Popisi i biblioteke sustava SharePoint mogu sadržavati i do 30 milijuna stavki, ali kada sadržavaju više od 5000 stavki, mogla bi vam se prikazati poruka o pogrešci zbog prekoračenja praga prikaza popisa kada pokušate raditi s njima. Prag je postavljen radi zadržavanja performansi servisa. Nije ga moguće promijeniti. Ta se pogreška može pojaviti i kod pokušaja zajedničkog korištenja ili prekida nasljeđivanja mape.
+Prag prikaza popisa uspostavljen je za održavanje performansi usluge. Prag se ne može promijeniti u sustavu SharePoint Online. Da biste izbjegli udaranje tog praga, pročitajte u članku [Upravljanje velikim popisima i bibliotekama u sustavu SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
 
-Da biste izbjegli prekoračenje tog praga, pogledajte sljedeće članke:
-
-- [Upravljanje velikim popisima i bibliotekama u sustavu SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [Dijeljenje pogreške/prekidanje nasljeđivanja](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+Ta se pogreška može pojaviti i kod pokušaja zajedničkog korištenja ili prekida nasljeđivanja mape. Pogledajte [Nasljeđivanje zajedničkog korištenja/prekida pogreške](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).
