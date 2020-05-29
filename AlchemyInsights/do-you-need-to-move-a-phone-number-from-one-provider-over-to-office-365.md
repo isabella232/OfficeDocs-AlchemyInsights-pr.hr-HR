@@ -1,5 +1,5 @@
 ---
-title: Trebate li premjestiti telefonski broj jednog davatelja usluga u Microsoft?
+title: Trebate li premjestiti telefonski broj od jednog davatelja usluga u Microsoftu?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -10,14 +10,19 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714906"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417380"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a><span data-ttu-id="81a42-102">Premještanje telefonskog broja drugog davatelja usluga na Microsoft</span><span class="sxs-lookup"><span data-stu-id="81a42-102">Move a phone number from another provider to Microsoft</span></span>
+# <a name="port-existing-numbers-to-teams"></a><span data-ttu-id="eed6b-102">Prijenos postojećih brojeva u Teams</span><span class="sxs-lookup"><span data-stu-id="eed6b-102">Port existing numbers to Teams</span></span>
 
-<span data-ttu-id="81a42-103">Trebate li prebaciti telefonski broj drugog davatelja usluga u Microsoft?</span><span class="sxs-lookup"><span data-stu-id="81a42-103">Do you need to move a phone number from another provider over to Microsoft?</span></span> <span data-ttu-id="81a42-104">Telefonske brojeve za različite zemlje i regije možete pronaći u [upravljanje telefonskim brojevima za vašu tvrtku ili ustanovu](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization).</span><span class="sxs-lookup"><span data-stu-id="81a42-104">Phone numbers for different countries and regions can be found in [Manage phone numbers for your organization](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization).</span></span> <span data-ttu-id="81a42-105">Odaberite državu ili regiju da biste pronašli informacije o prijenosu brojeva.</span><span class="sxs-lookup"><span data-stu-id="81a42-105">Choose your country or region to find information about transferring numbers.</span></span> 
-  
+<span data-ttu-id="eed6b-103">Ako trenutačno imate davatelja telefonskih usluga ili operatera i već imate telefonske brojeve za korisnike ili usluge, morate stvoriti "nalog za prijenos" kojim će se ti telefonski brojevi prenijeti u Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="eed6b-103">If you currently have a phone service provider or carrier and already have phone numbers for your users or services, you need to create a "port order" to transfer those phone numbers to Microsoft Teams.</span></span>
+
+- <span data-ttu-id="eed6b-104">Pogledajte [Prijenos telefonskih brojeva u Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) kako biste saznali o dovršetku prijenosa.</span><span class="sxs-lookup"><span data-stu-id="eed6b-104">See [Transfer phone numbers to Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) to learn how to complete the port.</span></span> 
+
+- <span data-ttu-id="eed6b-105">Pogledajte [Upravljanje telefonskim brojevima za vlastitu organizaciju](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) radi uputa u pogledu upravljanja telefonskim brojevima.</span><span class="sxs-lookup"><span data-stu-id="eed6b-105">See [Manage phone numbers for your organization](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) to guidance around phone number management.</span></span> 
+
+<span data-ttu-id="eed6b-106">Dodatne informacije pogledajte u [Pregled naloga za prijenos](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span><span class="sxs-lookup"><span data-stu-id="eed6b-106">For more info, see the [Port Order Overview](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span></span>  

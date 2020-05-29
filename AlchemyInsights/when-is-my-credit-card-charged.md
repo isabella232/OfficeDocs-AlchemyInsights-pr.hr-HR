@@ -1,5 +1,5 @@
 ---
-title: Kada se moja kreditna kartica naplaćuje?
+title: Kada se naplaćuje moja kreditna kartica?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765261"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418064"
 ---
-# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="51e0b-102">Kada se moja kreditna kartica naplaćuje?</span><span class="sxs-lookup"><span data-stu-id="51e0b-102">When is my credit card charged?</span></span>
+# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="f2581-102">Kada se naplaćuje moja kreditna kartica?</span><span class="sxs-lookup"><span data-stu-id="f2581-102">When is my credit card charged?</span></span>
 
-<span data-ttu-id="51e0b-103">Uz početnu kupnju može potrajati i do dva dana da se naknada dogodi.</span><span class="sxs-lookup"><span data-stu-id="51e0b-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
+<span data-ttu-id="f2581-103">Uz početnu kupnju može potrajati i do dva dana da se naplata dogodi.</span><span class="sxs-lookup"><span data-stu-id="f2581-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
   
-<span data-ttu-id="51e0b-104">Ponavljajući troškovi događaju se u roku od jednog dana od kreiranja fakture.</span><span class="sxs-lookup"><span data-stu-id="51e0b-104">Recurring charges happen within one day of the invoice being created.</span></span>
+<span data-ttu-id="f2581-104">Ponavljajući troškovi dogodit će se u roku od jednog dana od kreiranja fakture.</span><span class="sxs-lookup"><span data-stu-id="f2581-104">Recurring charges happen within one day of the invoice being created.</span></span>
   
-<span data-ttu-id="51e0b-105">Ako naboj ne uspije, sustav će nastaviti pokušavati podmiriti ravnotežu tijekom sljedećih nekoliko tjedana.</span><span class="sxs-lookup"><span data-stu-id="51e0b-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="51e0b-106">U bilo kojem trenutku možete ažurirati podatke o plaćanju da biste osigurali da je sljedeći pokušaj naplate uspješan.</span><span class="sxs-lookup"><span data-stu-id="51e0b-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="51e0b-107">Dodatne informacije [potražite u odjeljku Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili bankovnog računa u sustavu Microsoft 365 za tvrtke](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="51e0b-107">For more information, see [Add, update or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="f2581-105">Ako naboj ne uspije, sustav će nastaviti pokušavati podmiriti ravnotežu tijekom sljedećih nekoliko tjedana.</span><span class="sxs-lookup"><span data-stu-id="f2581-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="f2581-106">Ažuriranja podataka o plaćanju možete ažurirati u bilo kojem trenutku kako biste osigurali da je sljedeći pokušaj terećenja uspješan.</span><span class="sxs-lookup"><span data-stu-id="f2581-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="f2581-107">Dodatne informacije [potražite u odjeljku Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="f2581-107">For more information, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
