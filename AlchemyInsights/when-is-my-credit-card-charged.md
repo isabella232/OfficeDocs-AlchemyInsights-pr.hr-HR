@@ -1,5 +1,5 @@
 ---
-title: Kada se moja kreditna kartica naplaćuje?
+title: Kada se naplaćuje moja kreditna kartica?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765261"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418064"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Kada se moja kreditna kartica naplaćuje?
+# <a name="when-is-my-credit-card-charged"></a>Kada se naplaćuje moja kreditna kartica?
 
-Uz početnu kupnju može potrajati i do dva dana da se naknada dogodi.
+Uz početnu kupnju može potrajati i do dva dana da se naplata dogodi.
   
-Ponavljajući troškovi događaju se u roku od jednog dana od kreiranja fakture.
+Ponavljajući troškovi dogodit će se u roku od jednog dana od kreiranja fakture.
   
-Ako naboj ne uspije, sustav će nastaviti pokušavati podmiriti ravnotežu tijekom sljedećih nekoliko tjedana. U bilo kojem trenutku možete ažurirati podatke o plaćanju da biste osigurali da je sljedeći pokušaj naplate uspješan. Dodatne informacije [potražite u odjeljku Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili bankovnog računa u sustavu Microsoft 365 za tvrtke](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Ako naboj ne uspije, sustav će nastaviti pokušavati podmiriti ravnotežu tijekom sljedećih nekoliko tjedana. Ažuriranja podataka o plaćanju možete ažurirati u bilo kojem trenutku kako biste osigurali da je sljedeći pokušaj terećenja uspješan. Dodatne informacije [potražite u odjeljku Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

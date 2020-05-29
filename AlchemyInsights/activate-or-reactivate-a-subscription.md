@@ -12,12 +12,12 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062096"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418028"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktiviranje ili ponovna aktivacija pretplate
 
@@ -27,17 +27,17 @@ ms.locfileid: "44062096"
 
 - Ako vam je već dodijeljena licenca, možete pronaći aplikacije i preuzeti ih putem stranice [Moj račun](https://portal.office.com/account/#installs). Ova stranica sadrži popis aplikacija koje su vam dostupne za preuzimanje na temelju dodijeljenih licenci.
 
-- Ako ste već preuzeli aplikacije sustava Office, možda ćete se morati prijaviti u aplikacije pomoću računa na poslu ili u školi. To možete učiniti u bilo kojoj aplikaciji sustava Office (Word, Excel itd.) klikom na **Datoteka > Račun** (pri dnu). U odjeljku Podaci o korisniku kliknite **Promijeni račun**. Dodatne informacije potražite u članku [Instalacija aplikacija sustava Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Ako ste već preuzeli aplikacije sustava Office, možda ćete se morati prijaviti na aplikacije pomoću računa za posao ili školu. To možete učiniti u bilo kojoj aplikaciji sustava Office (Word, Excel itd.) klikom na **Datoteka > Račun** (pri dnu). U odjeljku Podaci o korisniku kliknite **Promijeni račun**. Dodatne informacije potražite u članku [Instalacija aplikacija sustava Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Ponovna aktivacija pretplate**
 
-Ako pretplata istekne, onemogućio ju je Microsoft ili ste je otkazali usred razdoblja pretplate, možete je ponovno aktivirati u centru za administratore.
+Ako vaša pretplata istekne, Microsoft ga je onemogućio ili ste je otkazali usred trajanja pretplate, možete je ponovno aktivirati u centru za administratore.
   
-1. U centru za administratore sustava Microsoft 365 otvorite stranicu **Naplata**  >  [vaših proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. U centru za administratore sustava Microsoft **Billing**365  >  otvorite stranicu[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
 2. Odaberite pretplatu koju želite ponovno aktivirati, a zatim odaberite **Ponovno aktiviraj**. Ako kao dostupnu akciju ne vidite mogućnost **Ponovna aktivacija**, [nazovite podršku](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) da biste ponovno aktivirali pretplatu.
 
-3. Unesite detalje za plaćanje. Ovdje također možete [ažurirati postojeće podatke o plaćanju](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account).
+3. Unesite detalje za plaćanje. Ovdje također možete [ažurirati postojeće podatke o plaćanju](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 Dodatne informacije pronađite u članku [Ponovno aktiviranje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
