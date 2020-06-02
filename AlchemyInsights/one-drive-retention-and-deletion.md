@@ -12,25 +12,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: bbdfdf34ecb24189b233ceded917a03a2d07d7db
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: 5d2ae0d21ab43814235feee8cc2b60290a17ad51
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343164"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510996"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Zadržavanje i brisanje servisa OneDrive
 
-- Izbrisane korisnike možete sami vratiti na servis [OneDrive.](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) Oni su u košu za smeće 93 dana.
+- Izbrisane [korisnike oneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) možete vratiti sami. Oni su u koš za smeće za 93 dana.
 
 - Pogledajte [ovaj članak](https://docs.microsoft.com/onedrive/retention-and-deletion) da biste saznali:
-    - Kako drugom korisniku omogućiti pristup servisu OneDrive izbrisanog korisnika.
-    - Što se događa s acom servisa OneDrive korisnika kada izbrišete korisnički račun za Microsoft 365 za svoju tvrtku ili ustanovu.
-    - Konfiguriranje delegiranja automatskog pristupa.
-    - Kako funkcionira postupak brisanja na servisu OneDrive.
+    - Kako drugom korisniku omogućiti pristup izbrisanom korisniku na servisu OneDrive.
+    - Što se događa s korisnikovim servisom OneDrive kada izbrišete korisnički Microsoftov račun za Microsoft 365 za vašu tvrtku ili ustanovu.
+    - Kako konfigurirati automatsko delegiranje pristupa.
+    - Način funkcioniranja postupka brisanja servisa OneDrive.
 
 - Informacije o vraćanju stavki iz koša za smeće na servisu OneDrive potražite u [odjeljku Vraćanje izbrisanih datoteka ili mapa](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
 
-- Zainteresirani za zadržavanje i zadržavanje i zadržavanje centra za sigurnost i usklađenost?
-    - [Pravila zadržavanja za web-mjesta servisa OneDrive i SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [Držanje za predočavanje elektroničkih dokumenata za web-mjesta servisa OneDrive i sustava SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Zanima vas zadržavanje i čuvanje centra za sigurnost i usklađenost?
+    - [Pravila zadržavanja za web-mjesta sa servisa OneDrive i sustava SharePoint](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [Čekanje predočavanja elektroničkih dokumenata za web-mjesta servisa OneDrive i SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

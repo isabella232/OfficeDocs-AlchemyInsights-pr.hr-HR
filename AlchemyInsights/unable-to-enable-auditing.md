@@ -1,9 +1,9 @@
 ---
-title: 2419 – nije moguće-za-Omogući-nadzor
+title: revizije koja nije u mogućnosti omogućiti
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 3af01c03711eed646f0009afb5bea685bc358196
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 23ad07a6dd943d61d1bd45453089a771cfd51b58
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35065613"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510420"
 ---
-# <a name="unable-to-enable-unified-auditing"></a>Nije moguće omogućiti Objedinjena nadzor
+# <a name="unable-to-enable-unified-auditing"></a>Nije moguće omogućiti objedinjeno nadziranje
 
-Kada pokušate da omogućite Objedinjena nadzor za organizaciju Office 365, možda ćete primiti pogrešku sličnu sljedeće:
+Kada pokušate omogućiti objedinjeno nadziranje za svoju tvrtku ili ustanovu, možda ćete primiti pogrešku sličnu sljedećoj:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
@@ -28,17 +28,17 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
 
 Da biste riješili taj problem, slijedite ove korake:
 
-1. [Povezivanje s Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+1. [Povezivanje sa ljuskom PowerShell sustava Exchange Online](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
 
-2. Pokrenite cmdlet sljedeće:
+2. Trčanje slijedeće cmdlet:
 
    ```
    Enable-OrganizationCustomization
    ```
 
-3. Pričekajte 60 minuta prethodne postavke stupile na snagu.
+3. Pričekajte 60 minuta da prethodna postavka stupiti na snagu.
 
-4. U Exchange Online PowerShell pokrenite sljedeću naredbu:
+4. Pokrenite sljedeću naredbu u dodatku PowerShell sustava Exchange Online:
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
@@ -46,6 +46,6 @@ Da biste riješili taj problem, slijedite ove korake:
 
 Dodatne informacije potražite u sljedećim člancima:
 
-- [Povezivanje s Exchange Online PowerShell pomoću višestruku provjeru autentičnosti](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [Povezivanje sa sustavom Exchange Online PowerShell pomoću višestruke provjere autentičnosti](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
--  [Uključivanje ili isključivanje pretraživanje zapisnika nadzora za Office 365](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off)
+-  [Uključivanje i isključivanje pretraživanja zapisnika nadzora](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)

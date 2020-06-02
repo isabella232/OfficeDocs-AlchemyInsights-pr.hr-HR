@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: 81b05e14fb3755c6602548087617f19ee1d585a5
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: c22bbf8ae5c6ff1dfdf729454330ebe498090581
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911716"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510672"
 ---
 # <a name="remove-users-from-a-sharepoint-group"></a>Uklanjanje korisnika iz sharepoint grupe
 
-SharePoint grupa zbirka je korisnika koji imaju isti skup dozvola za web-mjesta i sadržaj. Umjesto dodjeljivanja dozvola jednoj po osobi, pomoću grupa možete jednostavno dodijeliti istu razinu dozvole mnogim osobama odjednom.
+SharePoint grupa zbirka je korisnika koji imaju isti skup dozvola za web-mjesta i sadržaj. Umjesto dodjeljivanja dozvola jedna po jedna osoba, možete koristiti grupe za jednostavno dodjeljivanje iste razine dozvole mnogim osobama odjednom.
 
 - [Uklanjanje korisnika iz grupe](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [Dodavanje ili uklanjanje članova iz grupa za Microsoft 365 pomoću centra za administratore](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups?view=o365-worldwide)
+- [Dodavanje ili uklanjanje članova iz grupa sustava Microsoft 365 pomoću centra za administratore](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

@@ -1,5 +1,5 @@
 ---
-title: Prijelaz na drugi plan za Microsoft 365 za tvrtke
+title: Prijelaz na drugi Microsoft 365 za poslovnu tarifu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 35a2f888a340f50f38b79d8b81262edc6d850e5d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064349"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509808"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Prijelaz na drugu pretplatu na Microsoft 365 za tvrtke
 
 Kada se vaša tvrtka promijeni ili vam je potrebno više značajki, možete nadograditi na novi plan.
   
-1. U centru za administratore otvorite stranicu **Naplata** \> **[proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. U centru za administratore **Billing** otvorite \> stranicu **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Odaberite pretplatu koju želite nadograditi.
 
@@ -31,6 +31,6 @@ Kada se vaša tvrtka promijeni ili vam je potrebno više značajki, možete nado
 
 4. Pronađite plan na koji želite nadograditi, a zatim odaberite gumb **Nadogradnja.**
 
-5. Unesite broj potrebnih licenci, odaberite želite li platiti svaki mjesec ili za cijelu godinu, a zatim odaberite **Naplata**.
+5. Unesite broj potrebnih licenci, odaberite želite li platiti svaki mjesec ili cijelu godinu, a zatim odaberite **Naplata**.
 
-Dodatne informacije potražite [u odjeljku Nadogradnja na drugi plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Dodatne informacije potražite [u odjeljku Nadogradnja na drugi plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).

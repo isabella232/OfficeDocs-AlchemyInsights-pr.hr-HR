@@ -1,5 +1,5 @@
 ---
-title: Stvara vašoj korisnički poštanski sandučić
+title: Stvara se poštanski sandučić vašeg korisnika
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -10,15 +10,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 38741e07444474cf377aa69504b16764417d1d44
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0e8bf2a8462c599c8c78963e7a53ad88a1755697
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665644"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510060"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Stvaranje korisnički poštanski sandučić traje dugo vrijeme
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Stvaranje korisničkog poštanskog sandučića traje dugo
 
-Može potrajati do 24 sati prije novi poštanski sandučić je spreman za korištenje.
+Može potrajati i do 24 sata prije nego što novi poštanski sandučić bude spreman za korištenje.
   
-Ako je korisnikova poštanskog sandučića "Preparing" za više od jednog sata, pokušajte ukloniti licence za Exchange iz korisnika i ponovo dodajete ga ponovo, ili [obratite se podršci](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online).
+Ako je korisnikov poštanski sandučić "Priprema" više od sat vremena, pokušajte ukloniti licencu sustava Exchange od korisnika i ponovno je ponovno dodati natrag ili [se obratite službi za podršku](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).

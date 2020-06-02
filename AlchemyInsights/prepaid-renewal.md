@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 83fd98202d57c2ffceac4fcac8a928626d0ca203
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: bafaee929a668b918fef6858c24c308602e10307
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062889"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509916"
 ---
-# <a name="prepaid-microsoft-365-renewal"></a>Prepaid Microsoft 365 obnova
+# <a name="prepaid-microsoft-365-renewal"></a>Prepaid Obnova sustava Microsoft 365
 
-1. U centru za administratore otvorite stranicu **Naplata** \> **[proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. U centru za administratore **Billing** otvorite \> stranicu **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Pronađite pretplatu koju želite proširiti. U odjeljku **Naplata** odaberite **Proširi datum završetka**.
 
@@ -33,6 +33,6 @@ ms.locfileid: "44062889"
 > [!NOTE]
 > Ako imate više od jednog ključa proizvoda, možete odabrati **Dodaj drugi ključ proizvoda** da biste ih unijeli.
 
-5. Pregledajte pojedinosti narudžbe, a zatim odaberite **Iskoristi**.
+5. Pregledajte pojedinosti o narudžbi, a zatim odaberite **Iskoristi**.
 
-Dodatne informacije potražite u članku [Dodavanje licenci na pretplatu plaćenu pomoću ključa proizvoda ili proširenje pretplate.](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)
+Dodatne informacije [potražite u članku Dodavanje licenci ili proširivanje pretplate plaćene pomoću ključa proizvoda](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).
