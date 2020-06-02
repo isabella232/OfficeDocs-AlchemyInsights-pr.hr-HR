@@ -1,5 +1,5 @@
 ---
-title: Premještanje poruka e-pošte u poštanski sandučić Arhive
+title: Premještanje poruka e-pošte u poštanski sandučić Arhiva
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,26 +12,26 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: a5ad81e97df0ed5c337a622126173df94af80bb8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713638"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511032"
 ---
-# <a name="move-email-to-the-archive-mailbox"></a>Premještanje e-pošte u arhivski poštanski sandučić
+# <a name="move-email-to-the-archive-mailbox"></a>Premještanje e-pošte u poštanski sandučić arhive
 
-1. Provjerite je li poštanski **sandučić arhive** omogućen. Ako nije, slijedite korake u [ovom članku](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) da biste omogućili poštanski sandučić arhive.
+1. Provjerite je li omogućen **poštanski sandučić arhive.** Ako nije, pomoću koraka u [ovom članku](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) omogućite poštanski sandučić arhive.
 
-2. Da biste automatski arhivirali poruke u arhivski poštanski sandučić, oznaka zadržavanja s akcijom **Premjesti u arhivu** mora se automatski **primijeniti na cijelu oznaku poštanskog sandučića (zadano).** Slijedite korake ovdje da biste izradili oznaku: [Arhiviraj zadanu oznaku](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+2. Da bi se poruke automatski arhivirale u poštanski sandučić arhive, oznaka zadržavanja s akcijom **Premjesti u arhiv** mora biti postavljena tako da se automatski primjenjuje na cijeli poštanski sandučić **(zadana) oznaka**. Slijedite korake ovdje da biste izradili oznaku: [Arhiviraj zadanu oznaku](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Zatim dodajte oznaku **Arhivu** u pravila zadržavanja. U centru za administratore sustava Exchange odaberite **Pravila zadržavanja** > **dodajte oznaku Premjesti u arhivu** u pravilo > **Spremi**.
+3. Zatim dodajte oznaku **Arhiva** u pravila zadržavanja. U centru za administratore sustava Exchange odaberite **Pravila zadržavanja** > dodati **oznaku Premjesti** u arhivu u pravila > **Spremi**.
 
-4. Sada [dodijelite pravila zadržavanja](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) poštanskom sandučiću određenog korisnika. Ista pravila primijenit će se i na poštanski sandučić **Primarni** i **Arhiva.**
+4. Sada [dodijelite pravila zadržavanja](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) određenom korisničkom poštanskom sandučiću. Ista pravila primijenit će se i na poštanski sandučić **Primarna** i **arhiva.**
 
-Možda će biti potrebno prisiliti pomoćnika za upravljane mape (MFA) da pokrene i primijeni nove postavke na korisnikov poštanski sandučić. Pokrenite sljedeću naredbu dok [ste povezani s EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) da biste pokrenuli pomoćnika za upravljane mape za određeni poštanski sandučić:
+Možda će biti potrebno prisiliti pomoćnika za upravljane mape (MFA) da pokrene i primijeni nove postavke na poštanski sandučić korisnika. Pokrenite sljedeću naredbu dok [ste povezani s exo powershellom da](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) biste pokrenuli pomoćnika za upravljane mape za određeni poštanski sandučić:
   
-Pomoćnik za početnu mapu –identitet<name of the mailbox>
+Početni upravljani identitet pomoćnika -identitet<name of the mailbox>
 
-Dodatne informacije o postavljanju pravila arhiviranja [potražite u odjeljku Postavljanje pravila arhiviranja i brisanja za poštanske sandučiće](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Dodatne informacije o postavljanju pravila arhiviranja potražite [u odjeljku Postavljanje pravila arhiviranja i brisanja poštanskih sandučića](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

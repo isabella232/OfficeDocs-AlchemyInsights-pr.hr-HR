@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća s autom sustava Office 365 Advanced Protection
+title: Otklanjanje poteškoća sa sustavom Office 365 Advanced Threat Protection
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,25 +10,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732394"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512582"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Otklanjanje poteškoća s autom sustava Office 365 Advanced Protection
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Otklanjanje poteškoća sa sustavom Office 365 Advanced Threat Protection
 
-- Jeste li primijetili kašnjenja u isporuci poruka? Upotrijebite mogućnost [Dinamička isporuka](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) u pravilniku o sigurnim privicima ATP-a. To će pomoći u izbjegavanju kašnjenja poruka uz zaštitu primatelja od zlonamjernih datoteka.
+- Primjećujete li kašnjenja u isporuci poruka? Koristite mogućnost [Dinamička isporuka](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) u pravilima o sigurnoj privici ATP-a. Time ćete izbjeći kašnjenja poruka dok štitite primatelje od zlonamjernih datoteka.
 
-- Želite li microsoftu prijaviti lažno pozitivne ili lažne negativne negative? Pomoću ove [veze](https://www.microsoft.com/wdsi/filesubmission/) pošaljite datoteke na analizu.
+- Želite li Microsoftu prijaviti lažne pozitivne ili lažne negativne negativne učinke? Koristite ovu [vezu](https://www.microsoft.com/wdsi/filesubmission/) za slanje datoteka na analizu.
 
-- Jeste li znali da možete omogućiti zaštitu sigurnih veza za internu e-poštu poslanu između primatelja unutar tvrtke ili ustanove? Slijedite ove korake:
+- Jeste li znali da možete omogućiti zaštitu sigurnih veza za internu e-poštu poslanu između primatelja unutar vaše tvrtke ili ustanove? Slijedite ove korake:
 
-  1. Idite [https://protection.office.com](https://protection.office.com) na račun globalnog administratora ili sigurnosnog administratora i prijavite se.
+  1. Idite [https://protection.office.com](https://protection.office.com) na globalni administratorski ili administratorski račun i prijavite se.
 
-  2. U lijevom navigacijskom oknu u odjeljku **Upravljanje prijetnjama**odaberite **Sigurnosne veze** **pravila** \> .
+  2. U lijevom navigacijskom oknu u **odjeljku Upravljanje prijetnjama**odaberite **Policy** \> **Sigurne veze**pravila .
 
-  3. U odjeljku **Pravila koja se primjenjuju na cijelu organizaciju** odaberite pravilo i kliknite **Uredi**.
+  3. U odjeljku **Pravila koja se odnose na cijelu organizaciju** odaberite pravilo i kliknite **Uredi**.
 
-  4. U odjeljku **Postavke** **omogućite Primijeni sigurne veze na poruke poslane unutar tvrtke ili ustanove**.
+  4. U **odjeljku Postavke** **omogućite Primijeni sigurne veze na poruke poslane unutar organizacije**.
