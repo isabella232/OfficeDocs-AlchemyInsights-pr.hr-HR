@@ -1,5 +1,5 @@
 ---
-title: 1221-uvoz-izvoz-outlook-e-e-kontakti-kalendar
+title: 1221-uvoz-izvoz-outlook-e-email-kontakt-kalendar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 43e5b15b8c4de60d7f213b6145fa1be11954a42c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724656"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508836"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a><span data-ttu-id="27abd-102">Uvoz i izvoz e-pošte, kontakata i stavki kalendara u programu Outlook</span><span class="sxs-lookup"><span data-stu-id="27abd-102">Import and export Outlook email, contacts, and calendar items</span></span>
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a><span data-ttu-id="05619-102">Uvoz i izvoz e-pošte, kontakata i stavki kalendara u programu Outlook</span><span class="sxs-lookup"><span data-stu-id="05619-102">Import and export Outlook email, contacts, and calendar items</span></span>
 
-1. <span data-ttu-id="27abd-103">U programu Outlook kliknite **Datoteka**.</span><span class="sxs-lookup"><span data-stu-id="27abd-103">In Outlook, click **File**.</span></span>
+1. <span data-ttu-id="05619-103">U programu Outlook kliknite **Datoteka**.</span><span class="sxs-lookup"><span data-stu-id="05619-103">In Outlook, click **File**.</span></span>
 
-2. <span data-ttu-id="27abd-104">Kliknite **Otvori i izvezi**, a zatim **Uvoz/izvoz**.</span><span class="sxs-lookup"><span data-stu-id="27abd-104">Click **Open & Export**, and then click **Import/Export**.</span></span>
+2. <span data-ttu-id="05619-104">Kliknite **Otvori i izvezi**, a zatim **Uvoz/izvoz**.</span><span class="sxs-lookup"><span data-stu-id="05619-104">Click **Open & Export**, and then click **Import/Export**.</span></span>
 
-    <span data-ttu-id="27abd-105">Na taj ćete način otvoriti čarobnjak za uvoz i izvoz.</span><span class="sxs-lookup"><span data-stu-id="27abd-105">This starts the Import and Export wizard.</span></span>
+    <span data-ttu-id="05619-105">Na taj ćete način otvoriti čarobnjak za uvoz i izvoz.</span><span class="sxs-lookup"><span data-stu-id="05619-105">This starts the Import and Export wizard.</span></span>
 
-<span data-ttu-id="27abd-106">Potpuni skup uputa za uvoz i izvoz za Outlook potražite [u ovom članku](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).</span><span class="sxs-lookup"><span data-stu-id="27abd-106">For a complete set of import and export instructions for Outlook, see  [this article](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).</span></span>
+<span data-ttu-id="05619-106">Potpuni skup uputa za uvoz i izvoz za Outlook potražite u [ovom članku](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).</span><span class="sxs-lookup"><span data-stu-id="05619-106">For a complete set of import and export instructions for Outlook, see  [this article](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).</span></span>
 
-<span data-ttu-id="27abd-107">Ako ste administrator i želite skupno uvesti više PST datoteka u Microsoft 365 poštanske sandučiće, pogledajte [ovaj članak](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).</span><span class="sxs-lookup"><span data-stu-id="27abd-107">If you're an administrator and want to bulk-import multiple PST files to Microsoft 365 mailboxes, see [this article](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).</span></span>
+<span data-ttu-id="05619-107">Ako ste administrator i želite skupno uvesti više PST datoteka u Microsoft 365 poštanske sandučiće, pogledajte [ovaj članak](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).</span><span class="sxs-lookup"><span data-stu-id="05619-107">If you're an administrator and want to bulk-import multiple PST files to Microsoft 365 mailboxes, see [this article](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).</span></span>
