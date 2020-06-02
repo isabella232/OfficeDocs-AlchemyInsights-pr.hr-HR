@@ -1,5 +1,5 @@
 ---
-title: Kupnja pretplate na Microsoft 365 za tvrtke na besplatnoj probnoj verziji
+title: Kupnja pretplate na Microsoft 365 za tvrtke s besplatne probne verzije
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 40a09fdaa3b2218fc2dfacb10216f27d6440bd67
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061735"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506255"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Kupite pretplatu na Microsoft 365 na besplatnoj probnoj verziji
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Kupnja pretplate na Microsoft 365 s besplatne probne verzije
 
-Pokušali ste sa sustavom Microsoft 365, a sada ste spremni za kupnju. Prilikom kupnje sustava Microsoft 365 iz probne verzije imate dvije mogućnosti:
+Pokušali ste microsoft 365, a sada ste spremni za kupnju. Prilikom kupnje sustava Microsoft 365 iz probne verzije imate dvije mogućnosti:
   
- **Kupite isti plan kao i vaše suđenje**
+ **Kupite isti plan kao i probni**
   
-1. U centru za administratore otvorite stranicu **Naplata** \> **[proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. U centru za administratore **Billing** otvorite \> stranicu **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Pronađite pretplatu koju želite kupiti. U odjeljku **Licence** odaberite **Pretplata na kupnju**i slijedite korake za odjavu.
+2. Pronađite pretplatu koju želite kupiti. U odjeljku **Licence** odaberite **Kupite pretplatu**i slijedite korake za odjavu.
 
 **Kupnja druge pretplate**
   
@@ -35,7 +35,7 @@ Pokušali ste sa sustavom Microsoft 365, a sada ste spremni za kupnju. Prilikom 
 
 3. Pronađite pretplatu koju želite kupiti, odaberite **Kupi**i slijedite korake za odjavu.
 
-Dodatne informacije potražite [u odjeljku Kupnja pretplate na Microsoft 365 za tvrtke na besplatnoj probnoj verziji](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Dodatne informacije potražite u članku [Kupnja pretplate na Microsoft 365 za tvrtke iz besplatne probne verzije](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
 
 **Otklanjanje poteškoća**
 

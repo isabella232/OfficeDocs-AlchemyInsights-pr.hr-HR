@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 9878d51cadd211668a150f2ba43c4aabe4a75620
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712558"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506363"
 ---
 # <a name="assign-or-remove-users-licenses"></a>Dodjela ili uklanjanje korisničkih licenci
 
-Kao administrator možete po potrebi prilagoditi licence korisnika. Članci u nastavku pokazat će vam kako upravljati licencama korisnika, uključujući:
+Kao administrator možete prilagoditi licence korisnika prema potrebi. U člancima u nastavku prikazat će se kako upravljati licencama korisnika, uključujući:
   
-- [Dodjela licenci korisnicima u sustavu Microsoft 365 za tvrtke](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Dodjela licenci korisnicima u sustavu Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Poništavanje dodjele licenci od korisnika u sustavu Microsoft 365 za tvrtke](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [Poništavanje dodjele licenci od korisnika u programu Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
-Nisi odgovorio na tvoje pitanje? Nema frke! Pomoću gumba "Potrebna je pomoć" da biste razgovarali s inženjerom za podršku.
+Nisi odgovorio na tvoje pitanje? Nema frke! Pomoću gumba "Potrebna pomoć" razgovarajte s inženjerom za podršku.

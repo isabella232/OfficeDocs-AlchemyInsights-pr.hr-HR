@@ -1,5 +1,5 @@
 ---
-title: Postava otklanjanja poteškoća za streaming (upravljanje strujanje)
+title: Otklanjanje poteškoća s postavljanjem strujanja – upravljanje licenciranjem strujanja
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 8477d8e474c6e15efdfd49313406e105e7b9f8d8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36742617"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505011"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>Upravljanje dozvolama za Microsoft Stream
+# <a name="managing-microsoft-stream-licenses"></a>Upravljanje licencama za Microsoft Stream
 
-**Važno:** Morate biti u ulozi administratorskog klijenta za obavljanje operacija opisanih u ovoj temi.
+**Važno:** Da biste izvršili operacije opisane u ovoj temi, morate biti u ulozi administratora klijenta.
 
-Morate biti globalni administrator ili administrator za upravljanje korisnicima. Dodatne informacije potražite [u vezi s administratorskim ulogama](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
+Morate biti globalni administrator ili administrator upravljanja korisnicima. Dodatne informacije potražite [u odjeljku O administratorskim ulogama](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
 
-Licence možete dodijeliti [korisničkim računima pomoću paketa Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
+Licence možete [dodijeliti korisničkim računima pomoću komponente Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
