@@ -1,5 +1,5 @@
 ---
-title: Zajedničko korištenje videozapisa u programu Microsoft Stream
+title: Dijeljenje videozapisa u programu Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "9001694"
 - "3772"
 ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44015753"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a>Zajedničko korištenje videozapisa u programu Microsoft Stream
+# <a name="share-your-videos-in-microsoft-stream"></a>Dijeljenje videozapisa u programu Microsoft Stream
 
-Videozapise u web-aplikaciji Microsoft Stream možete dijeliti s osobama koje inače nemaju pristup. Postoje različiti načini dijeljenja videozapisa:
+Videozapise u programu Microsoft Stream možete dijeliti s osobama koje inače nemaju pristup. Videozapise možete podijeliti na različite načine:
 
-- [Zajedničko korištenje videozapisa u programu Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
+- [Dijeljenje videozapisa u programu Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
 
 - [Dozvole za videozapis](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)

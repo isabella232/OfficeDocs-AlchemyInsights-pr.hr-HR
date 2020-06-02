@@ -1,5 +1,5 @@
 ---
-title: Primajte sve teme u programu OneNote
+title: Tema programa OneNote hvata sve
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,25 +12,25 @@ ms.custom:
 - "9000755"
 - "2695"
 ms.openlocfilehash: 703aa6ba1c8175b76e445a261a4081bbf0103478
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44064041"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>Uobičajeni problemi i rješenja u programu OneNote
 
-Evo nekih često traženih tema programa OneNote:
+Evo nekoliko često traženih tema programa OneNote:
 
-- [Rješavanje problema sa sinkronizacijom](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – da biste riješili najčešće probleme vezane uz sinkronizaciju programa OneNote, slijedite korake u [članku Rješavanje problema kada ne možete sinkronizirati OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+- [Rješavanje problema sa sinkronizacijom](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – da biste riješili najčešće probleme povezane sa sinkronizacijom programa OneNote, slijedite korake u članku [Rješavanje problema kada ne možete sinkronizirati OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-- Korištenje [programa OneNote u programu Teams](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Napomena**: OneNote u aplikaciji Teams u aplikaciji Teams samo je za komercijalne i obrazovne klijente. Da biste mogli uređivati, koristite OneNote za web ili aplikaciju za računalo OneNote.
+- Koristi [OneNote u aplikaciji Teams](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Note**: OneNote u aplikaciji Teams trenutačno je samo za komercijalne i obrazovne klijente. Da biste mogli uređivati, koristite OneNote za web ili aplikaciju za računalo OneNote.
 
-- [Koristite bilježnicu za predmete u programu OneNote u timovima](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) odgovore na pitanja o postavljanju bilježnice za predmete u timovima.
+- [Koristite bilježnicu za predmete u programu OneNote u aplikaciji Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) odgovara na pitanja o postavljanju bilježnice za predmete u aplikaciji Teams.
 
 - [Premjestite bilježnicu u oblak](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).
 
-- [Otklonite poteškoće s premještanjem bilježnica u oblak](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).
+- [Rješavanje problema s premještanjem bilježnica u oblak](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).
 
 - [Instalacija programa OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) – počevši od ožujka 2020., kada instalirate Office 365 ili Office 2019, aplikacija OneNote za stolna računala instalirat će se uz aplikacije Word, PowerPoint i Excel za stolna računala.
 

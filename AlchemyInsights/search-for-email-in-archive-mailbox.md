@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 43c3bdae297ec475e951e53d399377f2f3ea133c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709255"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495583"
 ---
 # <a name="search-for-email-in-the-archive-mailbox"></a>Traženje e-pošte u poštanskom sandučiću Arhiva
 
-Kada je poštanski sandučić Arhive omogućen za Microsoft 365, možete koristiti **pretraživanje i izvoz predočavanja elektroničkih dokumenata** da biste otkrili sadržaj u poštanskom sandučiću Primarni i Arhiva. Informacije o korištenju **izvoza pretraživanja predočavanje elektroničkih dokumenata** da biste pronašli taj sadržaj, slijedite [ovdje](https://docs.microsoft.com/office365/securitycompliance/export-search-results)navedene korake .
+Kada je poštanski sandučić arhive omogućen za Microsoft 365, možete koristiti **pretraživanje i izvoz predočavanja elektroničkih dokumenata** da biste otkrili sadržaj u poštanskom sandučiću Primarna i Arhiva. Informacije o korištenju **izvoza pretraživanja predočavanja elektroničkih dokumenata** da biste pronašli taj sadržaj, slijedite ovdje [navedene](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)korake .
   
-Taj sadržaj možete zadržati i dodavanjem poštanskog sandučića u pravilo zadržavanja. Time će se sadržaj staviti u poštanski sandučić Primarni i Arhivna jedinica na čekanje. Dodatne informacije o stvaranju pravila zadržavanja radi zadržavanja e-pošte potražite u [koracima](https://docs.microsoft.com/Office365/securitycompliance/retention-policies)navedenima ovdje .
+Taj sadržaj možete zadržati i dodavanjem poštanskog sandučića pravilima zadržavanja. To će sadržaj staviti u poštanski sandučić Primarna i Arhiva na čekanje. Dodatne informacije o stvaranju pravila zadržavanja radi zadržavanja e-pošte potražite [ovdje](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)opisane korake .
   

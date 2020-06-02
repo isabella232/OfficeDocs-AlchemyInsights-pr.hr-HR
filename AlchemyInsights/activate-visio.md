@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e82793bb993aeba66eab0cca5c8b1d18d7f9103
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682284"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504867"
 ---
 # <a name="activate-visio"></a>Aktivacija programa Visio
 
-Da bi korisnik mogao instalirati i aktivirati aplikaciju Visio za stolna računala koja se isporučuje s planom Visio Online Plan 2, korisniku mora biti dodijeljena [licenca](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)za Visio .
+Da bi korisnik mogao instalirati i aktivirati aplikaciju Visio za stolna računala koja se isporučuje s programom Visio Online Plan 2, korisniku je mora biti [dodijeljena licenca za Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Napomena:** Visio Online Plan 1 ne sadrži verziju programa Visio za stolna računala.
 
@@ -32,8 +32,8 @@ Da biste aktivirali Visio:
 
 Da biste riješili probleme s aktivacijom, pokrenite [alat za otklanjanje poteškoća s aktivacijom](https://aka.ms/SARA-OfficeActivation-Alchemy) na zahvaćenom računalu.
 
-Detaljne informacije potražite u odjeljku:<br>
+Za detaljne informacije pogledajte:<br>
 [Aktivacija sustava Office na PC-ju](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Obavijest o pretplati pojavljuje se kada otvorim Microsoftovu aplikaciju](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Pogreška sustava Office "Proizvodi koje smo pronašli na <app>vašem računu ne mogu se koristiti za aktivaciju"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Prilikom otvaranja Microsoftove aplikacije prikazuje se obavijest o pretplati](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Pogreška sustava Office "Proizvodi koje smo pronašli na vašem računu ne mogu se koristiti za <app> aktivaciju"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
 [Pogreške zbog nelicenciranog proizvoda i pogreške s aktivacijom u sustavu Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

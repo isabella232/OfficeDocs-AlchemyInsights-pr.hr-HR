@@ -12,29 +12,29 @@ ms.custom:
 - "9001519"
 - "3586"
 ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44063213"
 ---
 # <a name="subscription-status"></a>Status pretplate
 
-Status pretplate možete pronaći na **stranici Vaši proizvodi** centra za administratore sustava Microsoft 365.
+Status pretplate možete pronaći na stranici **Vaši proizvodi** centra za administratore sustava Microsoft 365.
 
-1. Idite na **Naplata**  >  **[vaših proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Idite **Billing**na  >  **[Naplata vaših proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Ako postoji problem sa statusom bilo koje pretplate, pokraj pretplate vidjet ćete crvenu ikonu upozorenja ili status "isteklo" ili "onemogućeno" u odjeljku Naplata pojedinosti o pretplati.
+2. Ako postoji problem sa statusom bilo koje pretplate, pokraj pretplate vidjet ćete crvenu ikonu upozorenja ili status "istekla" ili "onemogućeno" u odjeljku Naplata pojedinosti pretplate.
 
-3. Ako želite ponovno aktivirati istekli ili onemogućeni pretplatu, kliknite **Odmah ponovno aktiviraj**.
+3. Ako želite ponovno aktivirati istekla ili onemogućena pretplata, kliknite **Ponovno aktiviraj sada**.
 
 **Isteka**
 
-1. Idite na **Naplata**  >  **[vaših proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Idite **Billing**na  >  **[Naplata vaših proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Ovisno o prikazu, datum isteka pojavit će se u krajnjem desnom stupcu s oznakom **Datum** ili u odjeljku **Naplata** pojedinosti o pretplati pokraj **opcije Istječe na**.
+2. Ovisno o prikazu, datum isteka pojavit će se na krajnjem desnom stupcu s oznakom **Datum** ili u odjeljku **Naplata** pojedinosti o pretplati pokraj stavke **Istječe .**
 
 **Licence**
 
-Broj kupljenih i upotreba licenci naveden je prema pretplati na stranici **Vaši proizvodi.**
+Broj kupljenih i u upotrebi naveden je pretplatom na stranici **Vaši proizvodi.**
 
