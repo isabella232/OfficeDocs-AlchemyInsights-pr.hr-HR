@@ -15,17 +15,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059836"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511428"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="698cc-102">Ponovno postavljanje ili promjena lozinki</span><span class="sxs-lookup"><span data-stu-id="698cc-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="1e2b8-102">Ponovno postavljanje ili promjena lozinki</span><span class="sxs-lookup"><span data-stu-id="1e2b8-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="698cc-103">Korisnik može promijeniti vlastitu lozinku iz **Moj račun** > [Sigurnost & privatnosti](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="698cc-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="1e2b8-103">Korisnik može promijeniti vlastitu lozinku iz **Moj račun**Sigurnost  >  [& privatnosti](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="1e2b8-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="698cc-104">Ako je korisnik zaboravio lozinku, administrator može ponovno postaviti lozinku tako da odete na **Aktivni korisnici ,** > [Active users](https://portal.office.com/adminportal/home#/users)odaberite korisnike i kliknite **Vrati izvornu lozinku**.</span><span class="sxs-lookup"><span data-stu-id="698cc-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="1e2b8-104">Ako je korisnik zaboravio lozinku, administrator može ponovno postaviti lozinku tako da odete **korisnicima Aktivni korisnici korisnici ,** odaberite korisnike i kliknite Vrati  >  [Active users](https://portal.office.com/adminportal/home#/users) **izvornu lozinku**.</span><span class="sxs-lookup"><span data-stu-id="1e2b8-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="698cc-105">[Kliknite ovdje da biste saznali više](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)ili korisnicima dopustili da ponovno postave svoje zaboravljene lozinke.</span><span class="sxs-lookup"><span data-stu-id="698cc-105">[Click here to learn more](https://docs.microsoft.com/office365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="1e2b8-105">[Kliknite ovdje da biste saznali više](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)ili da biste korisnicima dopustili da ponovno postavi svoje zaboravljene lozinke.</span><span class="sxs-lookup"><span data-stu-id="1e2b8-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
