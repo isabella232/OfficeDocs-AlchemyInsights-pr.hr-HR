@@ -1,5 +1,5 @@
 ---
-title: Konfiguriranje IRM pravila u bibliotekama dokumenata sustava SharePoint radi ograničavanja preuzimanja sadržaja
+title: Konfiguriranje IRM pravila u bibliotekama dokumenata sustava SharePoint da biste ograničili preuzimanje sadržaja
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5712"
-ms.openlocfilehash: d19bdbe9d8279e80a655d82be394fe43d210d7e5
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
-ms.translationtype: MT
+ms.openlocfilehash: 5260448fb16a015bf76e4467d732855015c84113
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44357436"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507830"
 ---
-# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>Konfiguriranje IRM pravila u bibliotekama dokumenata sustava SharePoint radi ograničavanja preuzimanja sadržaja
+# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>Konfiguriranje IRM pravila u bibliotekama dokumenata sustava SharePoint da biste ograničili preuzimanje sadržaja
 
-Unutar sustava SharePoint Online zaštita iRM-a primjenjuje se na datoteke na razini popisa i biblioteke. Da bi vaša tvrtka ili ustanova mogao koristiti IRM zaštitu, najprije morate postaviti upravljanje pravima. IRM se oslanja na servis Za upravljanje pravima na Azure iz azure zaštite informacija za šifriranje i dodjelu ograničenja korištenja.
+U sustavu SharePoint Online IRM zaštita primjenjuje se na datoteke na razini popisa i biblioteke. Da bi vaša tvrtka ili ustanova mogla koristiti IRM zaštitu, najprije morate postaviti upravljanje pravima. IRM se oslanja na servis Azure Rights Management iz Azure Information Protection za šifriranje i dodjelu ograničenja korištenja.
 
-- [Konfigurirajte IRM pravila u bibliotekama dokumenata sustava SharePoint da biste ograničili preuzimanje sadržaja](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+- [Konfigurirajte IRM pravila u bibliotekama dokumenata sustava SharePoint da biste ograničili preuzimanje sadržaja](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).

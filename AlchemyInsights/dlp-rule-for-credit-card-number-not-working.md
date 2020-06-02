@@ -12,12 +12,12 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: 80ff41b3e746f95278ccbf0df19eebb61f7f9ee0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e2e93bed44749b9017dc6ff919a151d46da7a3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704193"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507398"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>DLP problemi s brojevima kreditnih kartica
 
@@ -25,35 +25,35 @@ ms.locfileid: "43704193"
 
 **DLP problemi s brojevima kreditnih kartica**
 
-Imate li problema s **sprječavanjem gubitka podataka (DLP)** koji ne radi za sadržaj koji sadrži **broj kreditne kartice** kada koristite vrstu podataka osjetljivih na DLP u sustavu O365? Ako je tako, provjerite sadrži li vaš sadržaj potrebne informacije za pokretanje pravila DLP-a prilikom procjene. Na primjer, za **pravila kreditne kartice** konfigurirane s razinom pouzdanosti od 85%, vrednuju se sljedeće i mora se otkriti da bi se pravilo pokrenulo:
+Imate li problema s **sprječavanjem gubitka podataka (DLP)** koji ne radi za sadržaj koji sadrži **broj kreditne kartice** kada koristite DLP osjetljivu vrstu informacija u sustavu O365? Ako je tako, provjerite sadrži li vaš sadržaj potrebne informacije da biste pokrenuli pravilo DLP-a prilikom procjene. Na primjer, da bi **pravila kreditne kartice** konfigurirana s razinom pouzdanosti od 85%, ocjenjuju se sljedeće i moraju se otkriti da bi se pravilo pokrenulo:
   
-- **[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 znamenki koje se mogu formatirati ili neformatirati (ddddddddddddddd) i moraju proći Luhn test.
+- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 znamenki koje se mogu formatirati ili neformatirane (dddddddddddddd) i moraju proći Test Luhn.
 
-- **[Uzorak:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Vrlo složen i robustan uzorak koji otkriva kartice iz svih glavnih marki širom svijeta, uključujući Visa, MasterCard, Discover Card, JCB, American Express, poklon kartice, i diner kartice.
+- **[Uzorak:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Vrlo složen i robustan uzorak koji otkriva kartice svih glavnih marki širom svijeta, uključujući Visa, MasterCard, Discover Card, JCB, American Express, poklon kartice i diner kartice.
 
-- **[Kontrolni zbroj:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Da, Luhn kontrolni zbroj.
+- **[Kontrolni zbroj:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Da, Luhn checksum.
 
-- **[Definicija:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** DLP politika je 85% uvjeren da je otkrio ovu vrstu osjetljivih informacija ako, u blizini 300 znakova:
+- **[Definicija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** DLP politika je 85% sigurni da je otkrivena ova vrsta osjetljivih informacija ako, u blizini od 300 znakova:
 
   - Funkcija Func_credit_card pronalazi sadržaj koji odgovara uzorku.
 
-  - Točno je jedno od sljedećeg:
+  - Jedno od sljedećeg je istina:
 
-  - Ključna riječ iz Keyword_cc_verification je pronađena.
+  - Ključna riječ iz Keyword_cc_verification.
 
-  - Ključna riječ iz Keyword_cc_name je pronađena
+  - Ključna riječ Keyword_cc_name
 
-  - Funkcija Func_expiration_date pronalazi datum u pravom obliku datuma.
+  - Funkcija Func_expiration_date pronalazi datum u ispravnom obliku datuma.
 
   - Kontrolni zbroj prolazi
 
-    Na primjer, sljedeći uzorak će se pokrenuti za DLP Credit Card Number Policy:
+    Na primjer, sljedeći uzorak će se pokrenuti za DLP pravila broja kreditne kartice:
 
   - Visa: 4485 3647 3952 7352
   
   - Ističe: 2/2009
 
-Dodatne informacije o tome što je potrebno za detektiranje **broja kreditne kartice** za vaš sadržaj potražite u sljedećem odjeljku u ovom članku: [Što vrste osjetljivih informacija traže kreditnu karticu#](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
+Dodatne informacije o tome što je potrebno za otkriven broj **kreditne kartice** za vaš sadržaj potražite u sljedećem odjeljku u ovom članku: [Što vrste osjetljivih informacija traže kreditnu karticu#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Pomoću druge ugrađene osjetljive vrste informacija potražite u sljedećem članku informacije o tome što je potrebno za druge vrste: [Što zahtijevaju osjetljive vrste informacija](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Pomoću druge ugrađene vrste osjetljivih informacija pogledajte sljedeći članak za informacije o tome što je potrebno za druge vrste: [Što traže vrste osjetljivih informacija](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

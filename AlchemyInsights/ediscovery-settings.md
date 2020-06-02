@@ -1,5 +1,5 @@
 ---
-title: Postavke za otkrivanje elektroničkih dokumenata
+title: Postavke predočavanja elektroničkih dokumenata
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d2a331b7bbdbffd8a951aef171350a48eb4b859f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911140"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507090"
 ---
-# <a name="ediscovery-settings"></a>Postavke za otkrivanje elektroničkih dokumenata
+# <a name="ediscovery-settings"></a>Postavke predočavanja elektroničkih dokumenata
 
-Predočavanje elektroničkih dokumenata/pretraživanje sadržaja omogućuje vam pretraživanje, držanje i izvoz sadržaja iz poštanskih sandučića sustava Exchange Online, web-mjesta sustava SharePoint Online i OneDrive za tvrtke, razgovora programa Skype za tvrtke, Microsoft Teams i grupe sustava Microsoft 365.
+Pretraživanja predočavanja elektroničkih dokumenata/sadržaja omogućuju vam pretraživanje, zadržavanje i izvoz sadržaja iz poštanskih sandučića sustava Exchange Online, web-mjesta sustava SharePoint Online i servisa OneDrive za tvrtke, razgovora servisa Skype za tvrtke, servisa Microsoft Teams i Microsoft 365 grupe.
 
-- Ako tražite mogućnosti izbornika Predočavanje elektroničkih dokumenata ili Pretraživanja sadržaja, pogledajte [Problemi s predočavanjem elektroničkih dokumenata](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Saznajte više o dozvolama potrebnima za pretraživanje predočavanja elektroničkih dokumenata iz [dozvola potrebnih za pretraživanja predočavanja elektroničkih dokumenata](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Ako pretraživanje ne vraća očekivane rezultate, pročitajte u [odjeljku Pretraživanje koje ne vraća očekivane rezultate](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Ako tražite mogućnosti izbornika predočavanje elektroničkih dokumenata ili pretraživanje sadržaja, pogledajte [problemi s predočavanjem elektroničkih dokumenata](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Saznajte više o dozvolama potrebnima za izvođenje pretraživanja predočavanja [elektroničkih dokumenata iz dozvola potrebnih za pretraživanja predočavanja elektroničkih dokumenata](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
+- Ako pretraživanje ne vraća očekivane rezultate, pročitajte okvir [Pretraživanje koje ne vraća očekivane rezultate](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Dodatne informacije o otkrivanju elektroničkih [dokumenata potražite u odjeljku Otkrivanje e-dokumenata](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+Dodatne informacije o predočavanje elektroničkih dokumenata potražite u [odjeljku Predočavanje elektroničkih dokumenata](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
