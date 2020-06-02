@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: c0f0fbc2528e62f01cebe515fbeb192315c4d3c9
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787982"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509016"
 ---
 # <a name="how-to-verify-your-domain"></a>Kako potvrditi domenu
 
-Da biste potvrdili domenu, morat ćete dodati TXT zapis u registrar domena da biste provjerili jeste li vlasnik domene. Najprije slijedite čarobnjak za [dodavanje domene](https://portal.office.com/adminportal/home#/Domains/Wizard) tako **da kliknete Postavljanje** \> **domena**, a zatim **Dodaj domenu**.
+Da biste potvrdili svoju domenu, morat ćete dodati TXT zapis u registrar domene da biste provjerili jeste li vlasnik domene. Najprije slijedite [čarobnjak za dodavanje domene](https://portal.office.com/adminportal/home#/Domains/Wizard) tako da kliknete **Postava** \> **domene**, a zatim **Dodaj domenu**.
   
-Slijedite upute u odjeljku [Stvaranje DNS zapisa kod bilo kojeg davatelja usluge hostiranja DNS-a](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) da biste dodali TXT zapis da biste potvrdili svoju domenu.
+Slijedite upute u odjeljku [Stvaranje DNS zapisa kod bilo kojeg davatelja usluge hostiranja DNS-a](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) da biste dodali TXT zapis da biste potvrdili svoju domenu.
 
-Za ostale domene pitanja isprobajte [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Za druge domene pitanja pokušajte [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).

@@ -1,5 +1,5 @@
 ---
-title: Kako ponovno aktivirati obnovu i upravljati njome
+title: Kako ponovno aktivirati i upravljati obnovom
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064077"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509088"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kako ponovno aktivirati ponavljajuću naplatu i upravljati njome
 
 Izgleda da imate pretplatu koja je istekla. Ako ga želite ponovno aktivirati, evo kako.
   
-1. U centru za administratore otvorite stranicu **Naplata** \> **[proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. U centru za administratore **Billing** otvorite \> stranicu **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Odaberite pretplatu koju želite ponovno aktivirati. U odjeljku **Naplata** odaberite **Ponovno aktiviraj**.
 
-    Ako ne vidite **opciju Ponovno aktiviraj** te pomoću gumba "Potrebna pomoć" razgovarajte s inženjerom za podršku da biste ponovno aktivirali pretplatu.
+    Ako ne vidite **mogućnost Ponovno aktiviraj kao** opciju, pomoću gumba "Potrebna vam je pomoć" da biste razgovarali s inženjerom za podršku da biste ponovno aktivirali pretplatu.
 
 3. Potvrdite detalje za plaćanje. Ovdje možete ažurirati postojeće podatke o plaćanju. Kada završite s unosom načina plaćanja, odaberite **Ponovno aktiviraj**.
 
-Da biste saznali više o starim koracima pogledajte [Ponovno aktiviraj pretplatu](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Da biste saznali više o starim koracima pogledajte [Ponovno aktiviraj pretplatu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription). 
 
 Da biste upravljali mjesečnom ili godišnjom naplatom, možete uključiti ili isključiti **ponavljajuću naplatu.**
   
-1. U centru za administratore otvorite stranicu **Naplata** \> **[proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. U centru za administratore **Billing** otvorite \> stranicu **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Odaberite pretplatu za koju želite upravljati ponavljajućom naplatom.
 
-3. U odjeljku **Naplata**pokraj **mogućnosti Obnavlja nje** ili **Istječe**odaberite **uredi**.
+3. U **odjeljku Naplata**pokraj stavke **Obnovi ili** **Istječevanje**odaberite **uredi**.
 
 4. U oknu **Postavke ponavljajuće naplate** odaberite **Isključi** da biste ga isključili. Ako je ponavljajuća naplata već isključena, odaberite **Mjesečno** ili **Jednom** da biste je uključili.
 
 5. Odaberite **Pošalji promjenu**.
 
-Dodatne informacije pronađite u članku [Isključivanje ili uključivanje ponavljajuće naplate](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Dodatne informacije pronađite u članku [Isključivanje ili uključivanje ponavljajuće naplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

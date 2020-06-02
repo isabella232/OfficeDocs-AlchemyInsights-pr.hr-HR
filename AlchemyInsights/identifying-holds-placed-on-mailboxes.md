@@ -12,22 +12,22 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13eb97b9278ac3327425bbb6f03ebeb2e3a24ea2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724768"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508872"
 ---
 # <a name="identify-holds-placed-on-mailboxes"></a>Prepoznavanje čekanja postavljenih na poštanske sandučiće
 
-Imate li sadržaj sustava Microsoft 365 koji **zadržava** **čekanje** koje ne možete identificirati? Trebate **saznati** gdje se čekanje nalazi na **poštanskom sandučiću** ? Čekanja *(značajke zadržavanja)* mogu se primijeniti na jedan od sljedećih načina:
+Imate li sadržaj sustava Microsoft 365 koji **zadržava** **čekanje** koje ne možete identificirati? Trebate **saznati** gdje se nalazi čekanje na **poštanskom sandučiću?** Holds (*zadržavanja značajke*) može se primijeniti na jednu od sljedećih metoda:
   
-- Zadržavanje parnica
+- Zadržavanje sudskih
 
-- držanje za predočavanje elektroničkih dokumenata
+- Čekanje predočavanja elektroničkih dokumenata
 
-- Zadržavanje na mjestu
+- Držanje za mjesto
 
 - Pravila zadržavanja sustava Microsoft 365 
 
@@ -37,4 +37,4 @@ Imate li sadržaj sustava Microsoft 365 koji **zadržava** **čekanje** koje ne 
 
 - Oznake sustava Microsoft 365
 
-Da biste odredili koja se vrsta čekanja primjenjuje na korisnički poštanski sandučić, pročitajte članak [Kako prepoznati vrstu čekanja smještenog na poštanskom sandučiću sustava Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Da biste utvrdili koja se vrsta čekanja primjenjuje na korisnikov poštanski sandučić, [pročitajte članak Kako prepoznati vrstu čekanja koja se nalazi u poštanskom sandučiću sustava Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
