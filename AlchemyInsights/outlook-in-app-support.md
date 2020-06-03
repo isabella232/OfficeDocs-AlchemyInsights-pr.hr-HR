@@ -3,7 +3,7 @@ title: Klijent upravlja podrškom za Outlook u aplikaciji
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 6/3/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 646a65a4cb068b1c91c52c42d55fe09e62421f9d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3d723c11c24460291e9ced9dc87cf1258f1f41d9
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720424"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44542036"
 ---
-# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a>Vaš klijent upravlja podrškom za Outlook u aplikaciji
+# <a name="in-app-support-in-outlook-for-windows"></a>Podrška za aplikaciju u programu Outlook za Windows
 
-Možda ispunjavate uvjete za primanje podrške izravno u programu Outlook. Ako pokrećete najnoviju međuverziju mjesečnog kanala, otvorite Outlook i odaberite**Podrška za kontakt** **pomoći** > . Upišite svoje pitanje i član tima za podršku programa Outlook će vas kontaktirati.
-
-Ako niste sigurni koristite li najnoviju međuverziju mjesečnog kanala, pročitajte u članku [Koju verziju sustava Office koristim?](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)
+Kao administrator klijenta možete primati podršku za aplikaciju za probleme u programu Outlook za Windows. U programu Outlook odaberite **Pomoć za**kontakt  >  **s podrškom**. Unesite pitanje, a član tima za podršku programa Outlook za Windows odgovorit će na vašu poruku.
