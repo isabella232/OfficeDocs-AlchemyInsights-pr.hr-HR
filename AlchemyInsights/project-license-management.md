@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991037"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512402"
 ---
 # <a name="project-license-management"></a>Upravljanje licencama za Project
 
@@ -27,6 +27,6 @@ Upravljanje licencama za Project može se dovršiti u **centru za administratore
 - U vezi s **promjenom tarife** pročitajte članak [Ručna promjena tarifa za Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Da biste korisnicima **dodijelili** licence za Project, idite na **Naplata > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Dodatne informacije potražite u članku [Dodjeljivanje licenci](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Za **dodavanje/uklanjanje** licenci za Project idite na **Naplata > [Kupnja usluga](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Dodatne informacije potražite u članku [Dodavanje/uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Da biste **otkazali** licence za Project, idite na **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054),** odaberite **Postavke i akcije**, a zatim kliknite **Otkaži pretplatu**. Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Da biste **otkazali** licence za Project, idite na **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054),** odaberite **Postavke i akcije**, a zatim kliknite **Otkaži pretplatu**. Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Dodatne informacije pronađite u članku [Upravljanje licencama za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).

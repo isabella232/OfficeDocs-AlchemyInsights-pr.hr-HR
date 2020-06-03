@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: ae503796623c2d6d08a09f719109c3d23b34a26b
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787722"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512438"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Poruka u aplikacijama sustava Office – Naišli smo na problem s vašom pretplatom
 
@@ -24,7 +24,7 @@ ms.locfileid: "43787722"
 
 - Pročitajte članak [Pogreška sustava Office „Obavijest o računu: naišli smo na problem s vašom pretplatom.”](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
 
-- Uklonite i ponovno dodijelite [licencu sustava Office](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) pogođenom korisniku. 
+- Uklonite i ponovno dodijelite [licencu sustava Office](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) pogođenom korisniku. 
 
 - Otvorite aplikaciju sustava Office, idite na **Datoteka > Račun** pa se odjavite iz svih računa. Ponovo se prijavite s pomoću korisničkog računa s valjanom licencijom. Detaljne informacije potražite u članku [Računi u sustavu Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
