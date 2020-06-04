@@ -1,5 +1,5 @@
 ---
-title: Kašnjenja u primanju upozorenja sustava SharePoint i OneDrive
+title: Kašnjenja u primanju upozorenja za SharePoint i OneDrive
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: fb7ab6e8139c46d89b1cae1ee0ab9b9a601c8b64
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7f1033cec3abec782d1eee3b32128c4c60778913
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741993"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563502"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Kašnjenja u primanju upozorenja sustava SharePoint i OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Kašnjenja u primanju upozorenja za SharePoint i OneDrive
 
-- Najprije provjerite mapu Bezvrijedna ili Neželjena pošta u poruci e-pošte.
-- Ako **su sva upozorenja iz više datoteka ili biblioteka odgođena,** posjetite [nadzornu ploču Zdravlje servisa](https://portal.office.com/adminportal/home?ref=/servicehealth) da biste provjerili postoje li savjetnici/incidenti koji se mogu pojaviti u sustavu SharePoint ili Exchange. Problem može biti s mogućnošću upozorenja sustava SharePoint ili kašnjenja u e-pošti putem sustava Exchange. Također imajte na umu hoće li se druga e-pošta isporučiti – ako nije, problem je vjerojatno s kašnjenjima sustava Exchange.
-- Ako **se ne isporuči pojedinačno upozorenje iz određene datoteke ili biblioteke,** pokušajte ga izbrisati i ponovno stvoriti. Pogledajte [Upravljanje upozorenjima sustava SharePoint, prikaz ili brisanje upozorenja](https://support.microsoft.com/office/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) sustava SharePoint da biste ponovno stvorili upozorenje.
+- Najprije provjerite mapu Bezvrijedno ili Neželjena pošta u e-poruci.
+- Ako **su sva upozorenja iz više datoteka ili biblioteka odgođena,** posjetite [nadzornu ploču Stanje servisa](https://portal.office.com/adminportal/home?ref=/servicehealth) da biste provjerili ima li savjeta/incidenata koji se mogu pojaviti u sustavu SharePoint ili Exchange. Problem može biti u mogućnosti upozorenja sustava SharePoint ili kašnjenja u e-pošti putem sustava Exchange. Također imajte na umu da li se isporučuje druga e-pošta – ako ne, problem je vjerojatno uz kašnjenja sustava Exchange.
+- Ako **pojedinačno upozorenje iz određene datoteke ili biblioteke nije isporučeno,** pokušajte ga izbrisati i ponovno stvoriti. Pročitajte članak [Upravljanje, prikaz ili brisanje upozorenja sustava SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) da biste ponovno stvorili upozorenje.
 
 > [!NOTE]
-> - Upozorenja se ne mogu poslati grupi za raspodjelu. Podržane su samo grupe sigurnosti i Sustava O365.
-> - Ne možete prilagoditi predloške e-pošte upozorenja. Da biste to postigli, morate koristiti tijek rada programa Microsoft Flow ili SharePoint Designer.
+> - Upozorenja se ne mogu poslati grupi za raspodjelu. Podržane su samo sigurnosne i O365 grupe.
+> - Predloške e-pošte upozorenja ne možete prilagoditi. Da biste to postigli, morate koristiti tijek rada programa Microsoft Flow ili SharePoint Designer.
