@@ -1,5 +1,5 @@
 ---
-title: Postava za strujanje - API dostupnost otklanjanja pogrešaka
+title: Postavljanje otklanjanja poteškoća u sustavu Strujanje – dostupnost API-ja
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.custom:
 - "2800001"
 - "1338"
 ms.openlocfilehash: bd08dce9f6b037478e653bd61ad8cfa0a334bc5e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559293"
 ---
-# <a name="api-availability"></a><span data-ttu-id="218b7-102">API dostupnost</span><span class="sxs-lookup"><span data-stu-id="218b7-102">API Availability</span></span>
+# <a name="api-availability"></a><span data-ttu-id="d89a1-102">Dostupnost API-ja</span><span class="sxs-lookup"><span data-stu-id="d89a1-102">API Availability</span></span>
 
-<span data-ttu-id="218b7-103">API za strujanje danas nisu dostupne.</span><span class="sxs-lookup"><span data-stu-id="218b7-103">APIs for Stream are not available today.</span></span>
-<span data-ttu-id="218b7-104">Dodatne informacije:https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="218b7-104">For more information: https://stream.microsoft.com/support/</span></span>
+<span data-ttu-id="d89a1-103">API-ji za stream danas nisu dostupni.</span><span class="sxs-lookup"><span data-stu-id="d89a1-103">APIs for Stream are not available today.</span></span>
+<span data-ttu-id="d89a1-104">Za više informacija:https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="d89a1-104">For more information: https://stream.microsoft.com/support/</span></span>
