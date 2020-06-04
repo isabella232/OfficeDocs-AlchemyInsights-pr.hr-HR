@@ -1,5 +1,5 @@
 ---
-title: Sinkronizacija strani poslužitelja Dynamics preporučeno rješenja
+title: Preporučena rješenja za sinkronizaciju sa strane sustava Dynamics Server
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,27 +11,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 4fdcae9dbe524f5e552c8b4c8736d6795c394348
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1bd2fae31757ab4d890e1732b004edf594e3e724
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509895"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "36745461"
 ---
-# <a name="dynamics-server-side-sync-recommended-solutions"></a>Sinkronizacija strani poslužitelja Dynamics preporučeno rješenja
+# <a name="dynamics-server-side-sync-recommended-solutions"></a>Preporučena rješenja za sinkronizaciju sa strane sustava Dynamics Server
 
-* [Kako prikazati detaljne pogreška poslužitelja prikazane na moje portala](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Kako pregledati detaljnu pogrešku poslužitelja prikazanu na mom portalu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Kako vratiti portala](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Ponovno postavljanje portala](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [Kako očistiti predmemorija strani poslužitelja za portala](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [Kako izbrisati predmemoriju na strani poslužitelja za portal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [Kako promijeniti publike i vrsta Portal Dynamics 365](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Promjena publike i vrste portala sustava Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
 * [Kako promijeniti osnovni URL portala](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Kako konfigurirati davatelj vanjskog identiteta s portala](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Konfiguriranje vanjskog davatelja identiteta s portalom](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Najčešća pitanja](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Uvod u moje Portal Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Početak rada s portalom Moj Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

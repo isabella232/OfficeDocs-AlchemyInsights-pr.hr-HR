@@ -10,18 +10,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Ciljne više od 500 riječi za članak.
+description: Ciljajte ne više od 500 riječi za članak.
 ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666184"
 ---
 # <a name="setting-up-project"></a>Postavljanje projekta
 
  Da biste postavili Microsoft Project, slijedite korake u [ovom članku](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).
 
-**Obavijest za Mac korisnike:** Projekt proizvoda u ovom trenutku nije dostupna za MacOS. 
+**Obavijest za korisnike Maca:** Proizvod Projekta trenutno nije dostupan za MacOS. 
   
-Ako su pokrenuti u pogreške tijekom postavljanja [instalirati projekt koristeći podršku i oporavak pomoćnika](https://aka.ms/SaRA-ProjectSetupScenario).
+Ako tijekom postavljanja naigrate pogreške, [instalirajte Project pomoću pomoćnika za podršku i oporavak](https://aka.ms/SaRA-ProjectSetupScenario).

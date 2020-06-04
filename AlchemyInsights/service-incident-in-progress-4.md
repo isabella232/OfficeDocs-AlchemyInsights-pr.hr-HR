@@ -1,5 +1,5 @@
 ---
-title: Incident servis u tijeku
+title: Incident u tijeku
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,18 +13,18 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666292"
 ---
-# <a name="service-incident-in-progress"></a>Incident servis u tijeku
+# <a name="service-incident-in-progress"></a>Incident u tijeku
 
-Možda utjecala po incident servisa ili advisory koja je trenutno u tijeku istražio. Provjerite najnovije stanje odlaskom na stranicu [Servisa stanja](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Možda će vas utjecati incident ili savjetovanje koje se trenutno istražuje. Najnoviji status možete provjeriti tako da odete na stranicu [Stanje servisa.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Zbog praktičnosti, možete pronaći sažetak ovaj incident ispod:
+Radi vaše udobnosti, sažetak ovog incidenta možete pronaći u nastavku:
   
-> **Broj incident:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Broj incidenta:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Opis utjecati: {ImpactDescription}
+> Opis učinka: {ImpactDescription}
