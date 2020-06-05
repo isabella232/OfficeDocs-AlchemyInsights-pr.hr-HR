@@ -1,5 +1,5 @@
 ---
-title: Napredno uvođenje uhvatiti sve pravilo
+title: Napredna implementacija uhvatiti sve pravilo
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710903"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580843"
 ---
-# <a name="deploy-office-apps"></a><span data-ttu-id="c1fc1-102">Uvođenje aplikacija sustava Office</span><span class="sxs-lookup"><span data-stu-id="c1fc1-102">Deploy Office apps</span></span>
+# <a name="deploy-microsoft-365-apps"></a><span data-ttu-id="2a054-102">Implementacija aplikacija sustava Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="2a054-102">Deploy Microsoft 365 apps</span></span>
 
-<span data-ttu-id="c1fc1-103">Za implementaciju aplikacija sustava Office većem broju krajnjih korisnika putem alata za implementaciju sustava Office, programa Microsoft Endpoint Configuration Manager, kao dio slike diska operacijskog sustava ili u scenariju zajedničkog računala pomoću sustava Windows Server s uslugama udaljene radne površine (RDS) ili servisa Terminal Services, razmislite o korištenju vodiča korak po korak u **microsoft 365 aplikacija za savjetnika za implementaciju poduzeća**.</span><span class="sxs-lookup"><span data-stu-id="c1fc1-103">For deploying Office apps to multiple end users via the Office Deployment Tool, Microsoft Endpoint Configuration Manager, as part of an operating system disk image, or in a shared computer scenario using Windows Server with Remote Desktop Services (RDS) or Terminal Services, consider using the step by step guide in the **Microsoft 365 Apps for enterprise deployment advisor**.</span></span>
+<span data-ttu-id="2a054-103">Za uvođenje aplikacija sustava Microsoft 365 na više krajnjih korisnika putem alata za implementaciju sustava Office, Upravitelj konfiguracije krajnje točke Microsoft Endpoint, kao dio slike diska operacijskog sustava ili u scenariju zajedničkog računala pomoću sustava Windows Server s udaljenom radnom površinom services (RDS) ili servisima terminala razmislite o korištenju vodiča korak po korak u **Microsoft 365 Aplikacijama za savjetnik za implementaciju poduzeća**.</span><span class="sxs-lookup"><span data-stu-id="2a054-103">For deploying Microsoft 365 apps to multiple end users via the Office Deployment Tool, Microsoft Endpoint Configuration Manager, as part of an operating system disk image, or in a shared computer scenario using Windows Server with Remote Desktop Services (RDS) or Terminal Services, consider using the step by step guide in the **Microsoft 365 Apps for enterprise deployment advisor**.</span></span>
   
-<span data-ttu-id="c1fc1-104">Da biste započeli, provjerite jeste li prijavljeni kao administrator klijenta ili [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)globalni administrator, a zatim kliknite ovdje: .</span><span class="sxs-lookup"><span data-stu-id="c1fc1-104">To get started, make sure that you're signed in as a tenant admin or global admin, and then click here: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span></span>
+<span data-ttu-id="2a054-104">Da biste započeli, provjerite jeste li prijavljeni kao administrator klijenta ili globalni administrator, a zatim kliknite ovdje: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .</span><span class="sxs-lookup"><span data-stu-id="2a054-104">To get started, make sure that you're signed in as a tenant admin or global admin, and then click here: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span></span>
   
