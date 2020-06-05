@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512004"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582731"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Prijedlozi za rješavanje pogrešaka "Nelicenciranog proizvoda"
 
@@ -26,7 +26,7 @@ Da biste riješili pogreške o "Nelicenciranom proizvodu", pokušajte sljedeće:
 - Provjerite imate li pretplatu koja omogućuje klijentskim licencama, kao što su Microsoft 365 Apps za tvrtke ili Business Premium, i provjerite je li [korisniku dodijeljena licenca](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Provjerite je li korisnik prijave u Office s istim računom kojim je dodijeljena licenca.
 - Provjerite [stranicu Stanje servisa](https://docs.microsoft.com/office365/enterprise/view-service-health) da biste vidjeli postoje li poznati problemi s uslugom.
-- Provjerite postavke vatrozida, antivirusnog softvera i proxy poslužitelja da biste potvrdili da ne blokiraju pristup aplikacijama sustava Office internetu. Pogledajte [URL-ove i raspone IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Provjerite postavke vatrozida, antivirusnog softvera i proxy poslužitelja da biste potvrdili da ne blokiraju pristup internetskim aplikacijama sustava Microsoft 365. Pogledajte [URL-ove i raspone IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Možete pokušati i sljedeće radnje otklanjanja poteškoća: 
 
