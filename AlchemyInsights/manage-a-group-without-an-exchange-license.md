@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: fa4a5a26b12348a7f62f06e0860b8bf34f689651
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 2079d43667f5368a77cba40a6b8a93cd2f6dafd9
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912431"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579749"
 ---
 # <a name="manage-a-group-without-an-exchange-license"></a>Upravljanje grupom bez licence sustava Exchange
 
-Ako vaš administratorski račun nema poštanski sandučić, možda će vam se pojaviti pogreška u nabavi proizvoda koja nedostaje kada pokušate urediti grupu za Microsoft 365.
+Ako vaš administratorski račun nema poštanski sandučić, možda će vam se pojaviti pogreška o licenci proizvoda koja nedostaje kada pokušate urediti grupu microsoft 365.
   
-Budući da ste administrator klijenta, moguće je da uredite grupu iako nemate licencu sustava Exchange. Jednostavno idite na Grupe [centara](https://outlook.office365.com/ecp.aspx) \> za **administratore** sustava Exchange da biste upravljali grupom Microsoft 365.
+Budući da ste administrator klijenta, moguće je da uredite grupu iako nemate licencu za Exchange. Samo idite na grupe centara za [administratore sustava Exchange](https://outlook.office365.com/ecp.aspx) da biste \> **Groups** upravljali grupom microsoft 365.
   
-Ako želite urediti grupe u centru za administratore, dodajte licencu sustava Exchange na administratorski račun. Prije uređivanja grupe morate pričekati da se poštanski sandučić u potpunosti stvori.
+Ako želite urediti grupe u centru za administratore, dodajte licencu za Exchange na administratorski račun. Da biste mogli urediti grupu, morate pričekati da poštanski sandučić bude u potpunosti stvoren.
   

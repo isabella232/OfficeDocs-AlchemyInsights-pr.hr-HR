@@ -1,5 +1,5 @@
 ---
-title: Potpisivanje Office apps problemi
+title: Problemi s prijavom u aplikacije sustava Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 08bb0a94066f071f2ba0e9c54378f0d479191496
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4658b4df8a48072b4cc9d72bf503d7911bb5126b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938159"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579893"
 ---
-# <a name="blank-sign-in-screen-in-office-apps"></a>Prazan prijavu zaslon u Office apps
+# <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Prazan zaslon za prijavu u aplikacijama Microsoft 365
 
 Da biste riješili taj problem, pokušajte sljedeće:
 - Instalirajte najnovija ažuriranja za [Windows](https://support.microsoft.com/help/4027667/windows-10-update) i [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- Vrati mogućnosti programa Internet Explorer: idite na **Alati** > **Internet opcije** > **Napredno** > **Vraćanje postavki programa Internet Explorer** (Napomena će izgubiti prilagođene postavke), a zatim pokušajte ponovno potpisivanja Office.
-- Onemogući Windows Defender aplikacije Guard (WDAG) ili bilo koji sličan vatrozid ili protuvirusni program:
-    1. Na upravljačkoj ploči, idite na **programe**i odabrati **značajke Windows uključivanje ili isključivanje**.
-    2. Ako je omogućen Guard aplikacije Windows Defender, pokušajte ga onemogućiti.<br/>
+- Vraćanje izvornih mogućnosti preglednika Internet Explorer: idite na **Alati**  >  **Internetske mogućnosti**  >  **Advanced**  >  **Napredne postavke preglednika Internet Explorer** (imajte na umu da ćete izgubiti prilagođene postavke), a zatim se ponovno pokušajte prijaviti u Office.
+- Onesposobiti Windows Branitelj Aplikacija Čuvati (WDAG) ili bilo koji sličan firewall ili protu-- virus plan:
+    1. Na upravljačkoj ploči idite na **Programi**, a zatim uključite **ili isključite značajke sustava Windows**.
+    2. Ako je windows defender application guard omogućen, pokušajte ga onemogućiti.<br/>
     **Napomena:** Možda ćete morati ponovo pokrenuti računalo.
-- Osigurajte da Microsoft.AAD.BrokerPlugin [AAD WAM dodatak](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) ne blokira aplikacije ili vatrozida/funkcijama za zaštitu-virus program.
-- [Očisti Office vjerodajnice](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomoću Windows upravitelj vjerodajnica.<br/>
-    **Napomena:** Putova registra za Office 2016 ste promijenili 16.0. (Prije: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Provjerite da dodatak Microsoft.AAD.BrokerPlugin [AAD WAM](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) ne blokira nijedan program za aplikaciju ili vatrozid/protuvirusni program.
+- [Izbrišite vjerodajnice sustava Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomoću upravitelja vjerodajnica sustava Windows.<br/>
+    **Napomena:** Putovi registra za Office 2016 promijenili su se u 16.0. (Npr.: \Software\Microsoft\Office\16.0\Common\Identity\)
 
-Za dodatne informacije pogledajte [veze problemi u prijavu nakon ažuriranja za Office 2016 build 16.0.7967 na Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Dodatne informacije [potražite u odjeljku Problemi s povezivanjem prilikom ažuriranja na međuverziju sustava Office 2016 16.0.7967 u sustavu Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

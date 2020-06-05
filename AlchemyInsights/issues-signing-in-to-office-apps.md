@@ -1,5 +1,5 @@
 ---
-title: Potpisivanje Office apps problemi
+title: Problemi s prijavom u aplikacije sustava Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: de0a1b78724db9a8e93d8d599ce3b503abcb86e2
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: e4f2fea5c2f368ae240614ee1f7bc729338dd75d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938157"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579929"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Popravljanje Office poruku "Nažalost, već prijavljeni drugi račun iz vaše organizacije" apps
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Ispravak poruke aplikacije sustava Microsoft 365 "Nažalost, već je prijavljen drugi račun iz tvrtke ili ustanove"
 
 Da biste ispravili tu pogrešku, pokušajte sljedeće:
 
-- Uklonite sve račune rad, osim zahvaćeni račun pomoću Windows postavke > **pristup poslu ili u školi**.
-- [Očisti Office vjerodajnice](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomoću Windows upravitelj vjerodajnica.<br/>
-    **Napomena:** Putova registra za Office 2016 ste promijenili 16.0. (Prije: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Otvorite Office app, odaberite **datoteku** > **račun** > **Odjava**. Zatim prijavite putem korisničkog računa s valjanu licencu. Za detaljnije informacije pogledajte [račune u Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Za Mac, vidjeti [ne mogu prijaviti u 2016 Office za Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Uklonite sve poslovne račune, osim zahvaćenog računa, pomoću postavki sustava Windows > **Access posao ili školu**.
+- [Izbrišite vjerodajnice sustava Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomoću upravitelja vjerodajnica sustava Windows.<br/>
+    **Napomena:** Putovi registra za Office 2016 promijenili su se u 16.0. (Npr.: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Otvorite aplikaciju **File**sustava Office, odaberite  >  Odjava**računa**  >  **datoteke**. Zatim se prijavite pomoću korisničkog računa s valjanom licencom. Detaljne informacije potražite u članku [Računi u sustavu Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Za Mac pročitajte [Nije moguća prijava u aplikaciju sustava Office 2016 za Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 
-Za dodatne informacije pogledajte ["Nažalost, drugi račun iz vaše organizacije već prijavljeni na ovom računalu" u Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
+Dodatne informacije potražite [u odjeljku "Nažalost, na ovom je računalu već prijavljen drugi račun tvrtke ili ustanove" u sustavu Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).

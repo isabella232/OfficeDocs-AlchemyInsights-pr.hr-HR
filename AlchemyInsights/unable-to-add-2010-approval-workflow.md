@@ -1,44 +1,44 @@
 ---
-title: Nije moguće dodati 2010 tijek rada za odobrenje
+title: Nije moguće dodati tijek rada za odobrenje 2010.
 ms.author: pebaum
 author: pebaum
-ms.date: 12/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 11ba9bf04f826b0d7465a9a81a36c327e79f4d13
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049545"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582839"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>Nije moguće dodati 2010 tijek rada za odobrenje
+# <a name="unable-to-add-2010-approval-workflow"></a>Nije moguće dodati tijek rada za odobrenje 2010.
 
-U zbirci web-mjesta programa Microsoft SharePoint ne možete dodati globalni tijek rada koji se može ponovno koristiti (kao što je "odobrenje-SharePoint 2010") na popis ili biblioteku.
+U zbirci web-mjesta sustava Microsoft SharePoint ne možete dodati globalno ponovno upotrebljiv tijek rada (kao što je "Odobrenje - SharePoint 2010") na popis ili u biblioteci.
   
 Da biste riješili taj problem, slijedite ove korake: 
   
-1. Otvorite korijensku web-lokaciju zbirke web-mjesta u programu SharePoint Designer 2013.
+1. Otvorite korijensko web-mjesto zbirke web-mjesta u programu SharePoint Designer 2013.
   
-2. U odjeljku **objekti web-mjesta**odaberite **tijekove rada**. 
+2. U **odjeljku Objekti web-mjesta**odaberite **Tijekovi rada**. 
   
-3. U **novom** odjeljku vrpce **Tijekovi rada** odaberite **Ponovno iskoristiv tijek rada**. 
+3. U odjeljku **Novo** na **vrpci Tijekovi rada** odaberite **Ponovno upotrebljiva tijek rada**. 
   
-4. **Da biste** unijeli naziv * * *Repair2010* * *. Za **vrstu platforme**kliknite **SharePoint 2010 Workflow**, a zatim kliknite **u redu**. 
+4. Na obrascu **Stvaranje tijeka rada za višekratnu upotrebu** unesite naziv ** *Repair2010* **. Za **vrstu platforme**kliknite Tijek rada sustava **SharePoint 2010**, a zatim **U redu**. 
   
-1. U odjeljku **Spremi** na vrpci **tijeka rada** odaberite **Objavi**. 
+1. U odjeljku **Spremanje** na vrpci **Tijek rada** odaberite **Objavi**. 
   
-2. U odjeljku **Upravljanje** vrpcom **tijeka rada** odaberite **Objavi globalno**. U potvrdnom dijaloškom okviru koji se pojavi odaberite **u redu**. 
+2. U odjeljku **Upravljanje** na vrpci **Tijek rada** odaberite **Objavi globalno**. U dijaloškom okviru za potvrdu koji će se pojaviti odaberite **U redu**. 
   
-3. U web-pregledniku Pronađite korijensku web-lokaciju zbirke web-mjesta, a zatim pristupite **značajkama zbirke web**-mjesta za **postavku** \> web-mjesta. Uključivanje/isključivanje značajke **tijekova rada** : 
+3. U web-pregledniku pronađite korijensko web-mjesto zbirke web-mjesta, a zatim **pristupite značajkama zbirke web-mjesta postavki** \> **web-mjesta**. Uključivanje/isključivanje značajke **Tijekovi rada:** 
   
-· Ako je značajka *aktivirana* , kliknite " **Deaktiviraj",** a zatim kliknite " **Aktiviraj**". 
+· Ako je značajka *aktivirana* , kliknite **Deaktiviraj,** a zatim **Aktiviraj**. 
   
 · Ako je značajka *deaktivirana* , kliknite **Aktiviraj**. 
   
-Dodatne informacije potražite u sljedećem [članku](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+Za više informacija pogledajte sljedeći [članak](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 

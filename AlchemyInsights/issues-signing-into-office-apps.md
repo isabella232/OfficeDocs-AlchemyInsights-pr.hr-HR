@@ -1,5 +1,5 @@
 ---
-title: Potpisivanje Office apps problemi
+title: Problemi s prijavom u aplikacije sustava Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: 5f500ecf1f779fb1be4d257fd050a3ad054087dc
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4e7612562d036f1c717817d3c883d6df80f86e2f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938160"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579857"
 ---
-# <a name="fixing-the-office-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Popravljanje Office apps "Trusted Platform module vaše računalo ne radi ispravno" poruka
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Ispravljanje poruke aplikacije Microsoft 365 "Modul pouzdane platforme vašeg računala ne funkcionira ispravno"
 
 Da biste ispravili tu pogrešku, pokušajte sljedeće:
 
 - Instalirajte najnovija ažuriranja za [Windows](https://support.microsoft.com/help/4027667/windows-10-update) i [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- [Očisti Office vjerodajnice](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomoću Windows upravitelj vjerodajnica.<br/>
-    **Napomena:** Putova registra za Office 2016 ste promijenili 16.0. (Prije: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Pokušajte [postupka oporavka korisnika](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) da biste ispravili pogreške Trusted Platform Module (TPM).
-- Postaviti na EnableADAL = 0 pomoću sljedećih koraka:  
-    1. Desnom tipkom miša pritisnite gumb Start sustava Windows, odaberite **Pokreni**, upišite **regedit**i odaberite **u redu**.
-    2. Za odaberite **da** Dopusti uređivač registra da biste napravili promjene na uređaj.
-    3. U programu Registry Editor dodajte DWORD vrijednost **EnableADAL** s postavkom **0** pod HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
+- [Izbrišite vjerodajnice sustava Office](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomoću upravitelja vjerodajnica sustava Windows.<br/>
+    **Napomena:** Putovi registra za Office 2016 promijenili su se u 16.0. (Npr.: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Isprobajte [postupak oporavka korisnika](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) da biste ispravili pogreške trusted platform module (TPM).
+- Postavite EnableADAL = 0 pomoću sljedećih koraka:  
+    1. Desnom tipkom miša kliknite gumb Start sustava Windows, odaberite **Pokreni**, upišite **regedit**, a zatim odaberite **U redu**.
+    2. Odaberite **Da** da biste uređivaču registra omogućili izmjene uređaja.
+    3. In Registry Editor, dodati DWORD vrijednost od **EnableADAL** sa postavljanje od **0** pod HKEY_CURRENT_USER\SoftwareMicrosoft\Office16.0\Common\Identity.
 
-Za dodatne informacije pogledajte [veze problemi u prijavu nakon ažuriranja za Office 2016 build 16.0.7967 na Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Dodatne informacije [potražite u odjeljku Problemi s povezivanjem prilikom ažuriranja na međuverziju sustava Office 2016 16.0.7967 u sustavu Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

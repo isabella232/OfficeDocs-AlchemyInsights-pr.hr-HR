@@ -1,5 +1,5 @@
 ---
-title: Minecraft Izdanje sa Usluga 365 Obrazovanje zabadava
+title: Minecraft Edition sa sustavom Office 365 Education for Free
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,26 +12,26 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a1420596c2859fe163e991a9db1fe88039b01f36
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762057"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579641"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Izdanje sa Usluga 365 Obrazovanje zabadava
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition sa sustavom Office 365 Education for Free
 
-[Minecraft Izdanje sa Usluga 365 Obrazovanje zabadava](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft Edition sa sustavom Office 365 Education for Free](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: Obrazovanje Edition** zahtijeva Windows 10
+- **Minecraft: Obrazovanje Izdanje** zahtijeva Windows 10
 
-- Probne verzije ili pretplate **minecrafta: Education Edition** nudi se obrazovnim klijentima kojima upravlja Azure Active Directory (Azure AD)
+- Probne verzije ili pretplate **programa Minecraft: Education Edition** nude se klijentima obrazovanja kojima upravlja Azure Active Directory (Azure AD)
 
-  - Ako vaša škola nema klijentazure AD-a, [IT administrator može ga postaviti](https://docs.microsoft.com/education/windows/school-get-minecraft) kao dio postupka dobivanja **Minecrafta: Education Edition**.
+  - Ako vaša škola nema klijenta azure AD, [IT administrator može ga postaviti](https://docs.microsoft.com/education/windows/school-get-minecraft) kao dio procesa dobivanja **Minecrafta: Education Edition**.
 
-  - Office 365 Education, koji obuhvaća mrežne verzije aplikacija sustava Office i 1 TB mrežno skladištenje, besplatno je za nastavnike i učenike. [Prijavite se u školu za Office 365 Education](https://products.office.com/academic/office-365-education-plan).
+  - Office 365 Education, koji obuhvaća internetske verzije aplikacija sustava Microsoft 365 i 1 TB internetsku pohranu besplatan je za nastavnike i studente. [Prijavite školu za Office 365 Education](https://products.office.com/academic/office-365-education-plan).
 
-  - Ako vaša škola ima pretplatu na Office 365 Education, ona uključuje besplatnu pretplatu na Azure AD. [Registrirajte besplatnu pretplatu na Azure AD](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - Ako vaša škola ima pretplatu na Office 365 Education, uključuje besplatnu pretplatu na Azure AD. [Registrirajte besplatnu pretplatu na Azure AD](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 
 [Saznajte kako nastavnici mogu dobiti i distribuirati Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   

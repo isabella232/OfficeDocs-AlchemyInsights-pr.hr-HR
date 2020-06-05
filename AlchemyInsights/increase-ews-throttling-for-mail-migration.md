@@ -1,24 +1,25 @@
 ---
-title: Povećajte EWS Reguliranje ograničenja migracije pošte
+title: Povećanje ograničenja ograničavanja EWS-a za migraciju pošte
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1900"
+- "2691"
 - "3500008"
 ms.assetid: ''
-ms.openlocfilehash: 2898711c4b97e947e660af593e59518de905b405
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 947590f2ee669c683ab745e6f3aa123bde7841ee
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499559"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580073"
 ---
-# <a name="increase-ews-throttling-limits-for-mail-migration"></a>Povećajte EWS Reguliranje ograničenja migracije pošte
+# <a name="increase-ews-throttling-limits-for-mail-migration"></a>Povećanje ograničenja ograničavanja EWS-a za migraciju pošte
 
-Da biste povećali vaše klijentske EWS Reguliranje ograničenja migracije e-pošte, nastavite i otvorite ulaznica za podršku.
+Da biste povećali ograničenja ograničavanja EWS-a za e-poštu za migraciju e-pošte, nastavite i otvorite ulaznicu za podršku.
