@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 172b1a144b892a35a915502b08cea2834eb85c94
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ab241752d969acab237779c514d89b2a0c30c222
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505967"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580577"
 ---
 # <a name="viewing-chat-history-in-microsoft-teams"></a>Prikaz povijesti čavrljanja u programima Microsoft Teams
 
-Da biste pregledali povijest razgovora u programu Teams, pretraživanje sadržaja možete koristiti iz centra [za](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) [usklađenost & sigurnosti](https://sip.protection.office.com/insightdashboard), gdje možete pretraživati poštanski sandučić povezan s grupom microsoft 365 ili Microsoft timom. 
+Da biste pregledali povijest razgovora u programu Teams, možete koristiti [pretraživanje sadržaja](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) iz centra za usklađenost [& sigurnosti](https://sip.protection.office.com/insightdashboard), gdje možete pretraživati poštanski sandučić povezan s grupom Microsoft 365 ili Microsoft team. 
 
 Pogledajte [Pretraživanje Microsoft Teams i Microsoft 365 Grupe](https://docs.microsoft.com/microsoft-365/compliance/content-search) da biste saznali više o mogućnostima pretraživanja iz centra za sigurnost i usklađenost. 
 

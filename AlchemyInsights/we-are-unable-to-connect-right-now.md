@@ -1,5 +1,5 @@
 ---
-title: Problem s aktivacijom – trenutno se ne možemo povezati
+title: Aktivacija Issue - Nismo u mogućnosti to povezivanje odmah
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716164"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581867"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Popravljanje poruke aplikacije sustava Office "Trenutno se ne možemo povezati"
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Popravljanje poruke aplikacije Microsoft 365 "Trenutno se ne možemo povezati"
 
 Ako primite ovu poruku, pokušajte sljedeće:
 
-1. Provjerite postavke vatrozida, antivirusnog softvera i proxyja da biste potvrdili da ne blokiraju pristup internetu aplikacijama sustava Office. Pogledajte [Microsoftove URL-ove i raspone IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Provjerite postavke vatrozida, antivirusnog softvera i proxy poslužitelja da biste potvrdili da ne blokiraju pristup internetu aplikacijama sustava Microsoft 365. Pogledajte [Microsoftove URL-ove i raspone IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Idite na **Pokreni** > **,** a zatim upišite **services.msc**. Provjerite jesu li pokrenuti sljedeći servisi:
-    - Automatsko postavljanje mrežnih povezanih uređaja
-    - Usluga popisa mreža
+2. Idite na **Pokreni**  >  **,** a zatim upišite **services.msc**. Provjerite jesu li pokrenuti sljedeći servisi:
+    - Automatsko postavljanje uređaja povezanih s mrežom
+    - Usluga mrežnog popisa
     - Svijest o mrežnom mjestu
-    - Zapisnik događaja u sustavu Windows
+    - Zapisnik događaja sustava Windows
 
-Ako se jedna od tih usluga ne izvodi, pokušajte ga pokrenuti. Ako imate problema s pokretanjem servisa, pokrenite sljedeću naredbu otvaranjem naredbenog retka s povišenim dozvolama:
+Ako jedan od tih servisa nije pokrenut, pokušajte ga pokrenuti. Ako imate problema s pokretanjem servisa, pokrenite sljedeću naredbu otvaranjem naredbenog retka s povišenim dozvolama:
 
 **sfc / scannow**
 
-Nakon dovršetka ove naredbe ponovo pokrenite računalo.
+Nakon što ova naredba završi, ponovo pokrenite računalo.
 
-Detaljne informacije potražite u [odjeljku "Nažalost, ne možemo se povezati s vašim računom. Pokušajte ponovo kasnije" kada aktivirate Office iz sustava Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Detaljne informacije potražite u [odjeljku "Nažalost, ne možemo se povezati s vašim računom. Pokušajte ponovno kasnije" pogreška kada aktivirate Office iz Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

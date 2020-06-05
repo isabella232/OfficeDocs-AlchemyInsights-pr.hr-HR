@@ -1,5 +1,5 @@
 ---
-title: Poruka aplikacija sustava Office – Nije moguće pronaći povezane licence sustava Office
+title: Poruka aplikacija microsoft 365 – nije mogu pronaći povezane licence sustava Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505083"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581643"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Poruka aplikacija sustava Office – Nije moguće pronaći povezane licence sustava Office
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Poruka aplikacija microsoft 365 – nije mogu pronaći povezane licence sustava Office
 
 Da biste ispravili tu pogrešku, pokušajte sljedeće:
 
@@ -38,7 +38,7 @@ Ako se problem ne riješi, pokušajte sljedeće korake:
 
 - Resetirajte stanje aktivacije sustava Office. Pročitajte članak [Resetiranje aplikacija sustava Microsoft 365 za stanje aktivacije za velike tvrtke](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Provjerite postavke vatrozida, antivirusnog softvera i proxy poslužitelja da biste utvrdili da ne blokiraju aplikacije sustava Office na internetu. 
+- Provjerite postavke vatrozida, antivirusnog softvera i proxy poslužitelja da biste potvrdili da ne blokiraju pristup internetskim aplikacijama sustava Microsoft 365. 
 
 Dodatne rješenja za otklanjanje poteškoća potražite u sljedećim člancima:
 

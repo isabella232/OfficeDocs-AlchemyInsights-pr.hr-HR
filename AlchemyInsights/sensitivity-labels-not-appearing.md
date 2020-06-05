@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511644"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581007"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Oznake osjetljivosti koje se ne pojavljuju
 
 Oznake osjetljivosti omogućuju vam razvrstavanje i zaštitu osjetljivog sadržaja. Mogu se stvoriti u centru za usklađenost sustava Microsoft 365, centru za sigurnost sustava Microsoft 365 ili centru za sigurnost sustava Microsoft 365 & u odjeljku Oznake > osjetljivosti. Dodatne informacije o ovoj značajki [potražite u odjeljku Pregled oznaka osjetljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Ako ste konfigurirali oznake osjetljivosti, ali se ne prikazuju u aplikacijama sustava Office, provjerite sljedeće:
+Ako ste konfigurirali oznake osjetljivosti, ali se ne pojavljuju u aplikacijama sustava Microsoft 365, provjerite sljedeće:
 
 - Provjerite je li oznaka osjetljivosti [objavljena](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) korisnicima i grupama koje želite.
 
