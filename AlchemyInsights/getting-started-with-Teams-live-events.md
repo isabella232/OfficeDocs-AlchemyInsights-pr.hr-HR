@@ -11,18 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
-ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
-ms.translationtype: HT
+ms.openlocfilehash: 6ddb1e74d6c7217303da4f21a3bd71cdab3eb871
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43142981"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563610"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Početak rada s događajima uživo aplikacije Teams
 
 Događaji uživo aplikacije Teams predstavljaju proširenje sastanaka u aplikaciji Teams koji vam omogućuju zakazivanje i stvaranje događaja koji se prenose većim internetskim publikama.
 
 Da biste stvorili događaj uživo, morat ćete učiniti sljedeće:
+
+- Najprije potvrdite da su teams live događaji [dostupni u vašoj zemlji i regiji;](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) Događaji uživo još nisu podržani u nekim zemljama.  Ako ste dodijelili licence i postavili pravila, ali i dalje ne možete stvoriti događaj teams live, vjerojatno se nalazite u državi ili regiji u kojoj događaji uživo još nisu dostupni.
 
 - Imajte [Licenca za Office 365 Enterprise E1, E3 ili E5 ili licenca za Office 365 A3 ili A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Napomena**: zbog porasta korištenja aplikacije Teams, kada korisniku dodijelite licencu aplikacije Teams, može proći do 24 sata prije no što se program za njega potpuno postavi. Do tada mu nećete moći dodjeljivati pravilnike aplikacije Teams, a on možda neće imati pristup određenim značajkama aplikacije Teams kao što su pozivi i audiokonferencije.
 
@@ -31,8 +33,7 @@ Da biste stvorili događaj uživo, morat ćete učiniti sljedeće:
 - Dozvola za [stvaranje događaja uživo u servisu Microsoft Stream](https://docs.microsoft.com/microsoftteams/teams-live-events/what-are-teams-live-events) (za događaja stvorene pomoću vanjske aplikacije ili uređaja za emitiranje).
 
 - Puno timsko članstvo u tvrtki ili ustanovi (korisnik ne može biti gost niti potjecati iz druge tvrtke ili ustanove).
-
-- Zakazivanje privatnih sastanaka, zajedničko korištenje radnih površina dijeljenje IP videozapisa uključeno u pravilniku za sastanke aplikacije Teams.
+Zakazivanje privatnih sastanaka, zajedničko korištenje radnih površina dijeljenje IP videozapisa uključeno u pravilniku za sastanke aplikacije Teams.
 
 - [Najbolje prakse](https://support.office.com/article/Best-practices-for-producing-a-Teams-live-event-e500370e-4dd1-4187-8b48-af10ef02cf42) za događaje uživo u aplikaciji Teams.
 

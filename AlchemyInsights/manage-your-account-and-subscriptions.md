@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 3dc0d7481db5acae34a2186c9d63358c431c17f9
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
-ms.translationtype: HT
+ms.openlocfilehash: cc48ba0409eedd4e00cdc18de710663c85efa0cd
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102545"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418100"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Upravljanje računom i pretplatama
 
@@ -33,13 +33,13 @@ ms.locfileid: "43102545"
 
 - [Udaljeno podučavanje i učenje u sustavu Office 365 Education](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
 
-**U Centru za administratore sustava Microsoft 365 možete**: 
+**U centru za administratore sustava Microsoft 365 možete:** 
 
 - [pregledati svoj račun](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) 
 
 - [razumjeti svoj račun](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [dodati, ažurirati ili ukloniti načine plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account)
+- [Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **upravljati pretplatama i licencama** 
 

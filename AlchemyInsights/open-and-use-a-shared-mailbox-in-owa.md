@@ -13,15 +13,25 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 91777a95b705b64799627be6602757381f128ea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2342ef1c2b00ff8e22e05faaf45f0dcc2cebbe41
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682068"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163809"
 ---
-# <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Otvaranje i korištenje zajedničkog poštanskog sandučića u programu Outlook na webu
+# <a name="open-and-use-a-shared-mailbox-in-outlook"></a>Otvaranje i korištenje zajedničkog poštanskog sandučića u programu Outlook
 
-Zajednički poštanski sandučići kojima možete pristupati ne prikazuju se automatski u programu Outlook na webu (prije poznatom pod nazivom Outlook Web App).
+Zajednički poštanski sandučići omogućuju grupi osoba nadzor i slanje e-pošte s zajedničke adrese e-pošte. 
 
-Možete koristiti zajednički prikaz zajedničkog poštanskog sandučića i vašeg primarnog poštanskog sandučića ili otvoriti zajednički poštanski sandučić u zasebnom prozoru preglednika. Da biste primali obavijesti o novim porukama za zajednički poštanski sandučić, taj sandučić morate otvoriti u zasebnom prozoru preglednika. Dodatne informacije potražite u članku [Otvaranje i korištenje zajedničkog poštanskog sandučića u aplikaciji Outlook Web App](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
+**Napomena:** Vaš administrator sustava Microsoft 365 mora stvoriti zajednički poštanski sandučić i dodati vas kao člana.
+
+Pogledajte sljedeće da biste saznali kako otvoriti i koristiti zajednički poštanski sandučić:
+
+- [Dodavanje zajedničkog poštanskog sandučića u Outlook na webu](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+
+- [Otvaranje i korištenje zajedničkog poštanskog sandučića u programu Outlook za Windows](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+
+- [Otvaranje zajedničke mape ili poštanskog sandučića u programu Outlook za Mac](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
+
+- [Dodavanje zajedničkog poštanskog sandučića u Outlook mobile (Outlook za iOS & Android)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)

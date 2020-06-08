@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 8c79ab50e7ddbda0cf61eb9a95279f6c42cc515c
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508368"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581187"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Automatsko razvrstavanje ne ponaša prema očekivanjima s AIP klijentom
 
@@ -26,7 +26,7 @@ Automatsko razvrstavanje koje se ne ponaša prema očekivanjima, koristite sljed
 2. Provjerite koristite li pravila s opsegom koja nisu ispravno konfigurirana: [Konfiguriranje pravila zaštite podataka za Azure za određene korisnike pomoću pravila s opsegom](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. Ako automatsko označavanje ne funkcionira za Outlook prilikom prilaganja označenog dokumenta, provjerite nije li `DRMEncryptProperty` definirano kao što je ovdje opisano: [Postavke registra IRM-a za sigurnost](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. Ako ste [koristili ugrađene vrste informacija](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) za pravila zaštite podataka za Azure, provjerite odgovara li sadržaj očekivanom obliku.
-5. Provjerite je li oznaka prikladno konfigurirana za **automatsko** ili **preporučeno**. **(Automatsko** označavanje dostupno je za sve aplikacije sustava Office, dok je **preporučeno** dostupno za sve aplikacije sustava Office osim za Outlook.)
+5. Provjerite je li oznaka prikladno konfigurirana za **automatsko** ili **preporučeno**. **(Automatsko** označavanje dostupno je za sve aplikacije sustava Microsoft 365, dok je **preporučeno** dostupno za sve aplikacije sustava Microsoft 365 osim za Outlook.)
 6. Ne možete koristiti automatsku klasifikaciju za dokumente i poruke e-pošte koje su prethodno ručno označene ili prethodno automatski označene višom klasifikacijom.  Dodatne informacije [potražite u odjeljku Kako se primjenjuju automatske ili preporučene oznake](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
 7. Ako i dalje imate problema, prikupite zapisnike klijenata za zaštitu podataka usluge Azure i priložite izvezene zapisnike na kartu za podršku. Da biste izvezli zapisnike zaštite podataka usluge Azure:
     - Otvorite dokument sustava Office ili stvorite novu e-poštu u programu Outlook.

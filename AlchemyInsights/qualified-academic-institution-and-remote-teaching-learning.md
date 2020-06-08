@@ -10,22 +10,22 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 8d1a8cf65ccbf4cb6d1549ec58593bccc31feb01
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764684"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44062708"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Microsoftova kvalificirana akademska ustanova te podučavanje i učenje na daljinu
 
-Da biste počeli raditi sa sustavom Microsoft for Education, posjetite ovo [web-mjesto](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) i prijavite se.
+Da biste započeli s sustavom Office 365 for Education, posjetite ovo [web-mjesto](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) i prijavite se.
 
-Imat ćete probnu verziju sustava office 365 A1 za nastavničko osoblje i probnu verziju sustava Office 365 A1 za učenike i studente dok čekate na dovršavanje pregleda ispunjavanja uvjeta svoje tvrtke ili ustanove.  Pobrinite se da dodate domenu jer se time može pomoći ubrzati proces odobravanja.
+Imat ćete probnu verziju sustava office 365 A1 za nastavničko osoblje i probnu verziju sustava Office 365 A1 za učenike i studente dok čekate na dovršavanje pregleda ispunjavanja uvjeta svoje tvrtke ili ustanove. Pobrinite se da dodate domenu jer se time može pomoći ubrzati proces odobravanja.
 
 Primit ćete poruku e-pošte kojom ćete saznati je li ispunjavanje uvjeta vaše tvrtke ili ustanove odobreno.  
 
-Kada primite odobrenje, možete ići na karticu [Kupnje servisa](https://admin.microsoft.com/Adminportal/Home#/catalog) Microsoftova centra za administratore da biste kupili pretplate.
+Kada budete odobreni, možete otići na karticu [Kupnja servisa](https://admin.microsoft.com/Adminportal/Home#/catalog) u centru za administratore sustava Microsoft 365 da biste kupili pretplate.
 
 **Udaljeno podučavanje i učenje**
 

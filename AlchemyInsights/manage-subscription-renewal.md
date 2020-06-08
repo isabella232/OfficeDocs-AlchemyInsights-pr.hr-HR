@@ -12,18 +12,18 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 1f54b65f9e20bed4f69bdd08dbbbc3b03a1a22e5
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
-ms.translationtype: HT
+ms.openlocfilehash: d6b6f52a454744ecc8f77b180ae697cb7a830f5c
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195120"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44062961"
 ---
 # <a name="manage-subscription-renewal"></a>Upravljanje obnovom pretplate
 
 Da biste upravljali mjesečnim ili godišnjim plaćanjem, možete uključiti ili isključiti **Ponavljajuću naplatu**.
 
-1. U centru za administratore idite na stranicu **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. U centru za administratore **Billing**otvorite  >  stranicu**[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. Odaberite pretplatu za koju želite upravljati ponavljajućom naplatom.
 
@@ -33,4 +33,4 @@ Da biste upravljali mjesečnim ili godišnjim plaćanjem, možete uključiti ili
 
 5. Kliknite **Podnesi promjenu**.
 
-Dodatne informacije pronađite u članku [Isključivanje ili uključivanje ponavljajuće naplate](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Dodatne informacije pronađite u članku [Isključivanje ili uključivanje ponavljajuće naplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

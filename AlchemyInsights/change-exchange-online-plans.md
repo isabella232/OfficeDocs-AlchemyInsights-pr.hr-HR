@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002450"
 - "4766"
-ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 7762942632fe8480fa432f5326800e0aa57ab242
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706855"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44058708"
 ---
 # <a name="change-exchange-online-plans"></a>Promjena tarifa za Exchange Online
 
 Administratori moraju ručno promijeniti tarifu. Cjelokupne korake pronađite u članku [Ručna promjena okruženja Microsoft 365 za poslovne tarife](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 
-1. Kupite novu tarifu za pretplatu. U centru za administratore okruženja Microsoft 365 idite na **Naplata > [Kupnja servisa](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Da biste pronašli tarife za Exchange, najjednostavniji je način upotrebljavati okvir za pretraživanje.
+1. Kupite novu tarifu za pretplatu. U centru za administratore sustava Microsoft 365 **otvorite**  >  **[Usluge kupnje naplate](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Da biste pronašli tarife za Exchange, najjednostavniji je način upotrebljavati okvir za pretraživanje.
 
-2. Provjerite novu pretplatu i licence. U centru za administratore okruženja Microsoft 365 idite na **Naplata > [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Ako nova pretplata nije navedena ili nije aktivna, provjerite [ovdje](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
+2. Provjerite novu pretplatu i licence. U centru za administratore sustava Microsoft 365 **otvorite Odjeljak**  >  **[Naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Ako nova pretplata nije navedena ili nije aktivna, provjerite [ovdje](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan#the-upgrade-tab-is-empty).
 
-3. Ponovno dodijelite licence korisnicima. U centru za administratore okruženja Microsoft 365 idite na **Korisnici > [Aktivni korisnici](https://go.microsoft.com/fwlink/p/?linkid=834822)** i dodijelite licence.
+3. Ponovno dodijelite licence korisnicima. U centru za administratore sustava Microsoft **Users**365 idite na  >  **[Korisnici Aktivni korisnici](https://go.microsoft.com/fwlink/p/?linkid=834822)** i dodijelite licence.
 
-4. [Otkažite pretplate ili uklonite licence](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#step-5-cancel-subscriptions-or-remove-licenses-that-you-no-longer-need-optional) koje vam više nisu potrebne.
+4. [Otkažite pretplatu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) ili [uklonite licence](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) koje vam više nisu potrebne.

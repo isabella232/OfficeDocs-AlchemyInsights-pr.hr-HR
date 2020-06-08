@@ -11,13 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002319"
 - "4503"
-ms.openlocfilehash: 059655cfcf6ca013d08032ed73b31dd7c470d92b
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
-ms.translationtype: HT
+- "9002471"
+- "4818"
+ms.openlocfilehash: fbb496290d6e8a45cd339cc4c4c07906c35767f9
+ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231558"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44534721"
 ---
 # <a name="get-support-with-microsoft-365"></a>Traženje podrške uz Microsoft 365
 
-Da bismo pronašli prave resurse za vaš problem, potrebne su nam detaljnije informacije. Ponovno opišite problem i navedite konkretne nazive proizvoda, značajke ili pogreške te opet pošaljite upit.
+Da bismo pronašli prave resurse za vaš problem, potrebne su nam detaljnije informacije. Ponovno postavite problem i uključite određene nazive proizvoda, značajke ili pogreške i ponovno pošaljite upit za pretraživanje.
+

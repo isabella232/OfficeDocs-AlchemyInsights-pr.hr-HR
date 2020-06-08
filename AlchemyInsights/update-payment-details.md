@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 5d7ee20edb0a9d298b657c14d7a75034245427a8
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720057"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418172"
 ---
 # <a name="update-credit-card-information"></a>Ažuriranje podataka o kreditnoj kartici
 
@@ -40,4 +40,4 @@ ms.locfileid: "43720057"
 
 Ako naiđete na problem s učitavanjem stranice, pokušajte otvoriti web-stranicu u drugom pregledniku ili pokušajte otvoriti stranicu u privatnom prozoru preglednika, poput prozora sa značajkom InPrivate u pregledniku Microsoft Edge ili anonimnog prozora u pregledniku Google Chrome. 
 
-Dodatne informacije potražite u člancima [Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili bankovnog računa u okruženju Microsoft 365 za tvrtke](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) i [Otklanjanje poteškoća s kreditnim karticama i bankovnim računima](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Dodatne informacije [potražite u odjeljku Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 6084b3b48b262b36dbab8d5924e271ad98678793
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: bc7301a5538128fb1a3bab8e9c8bf1ee84e509c2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789631"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580037"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Instalacija klijentskih aplikacija sustava Office na PC ili Mac
 
@@ -24,9 +24,9 @@ Da biste instalirali klijentske aplikacije sustava Office, provjerite imate li p
 
 **Napomena**: [Office Home and Business](https://products.office.com/home-and-business) proizvod je iz kategorije [Office za kućnu upotrebu](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) te nije dio pretplate za tvrtke. Project Online Essentials ne obuhvaća računalnu verziju programa Project, pa nije potrebna instalacija. Korisnici tarife 1 za Visio mogu pristupati aplikaciji Visio na webu jer ta tarifa ne obuhvaća računalnu verziju programa Visio. Računalne verzije programa Project i Visio nisu dostupne na Macu.
 
-Ako imate pretplatu koja obuhvaća aplikacije sustava Office, nećete vidjeti mogućnost instalacije osim ako nemate [dodijeljenu licencu](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ako ste administrator sustava Office 365 odgovoran za dodjelu licenci, pročitajte članak [Dodjela licenci korisnicima](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Uz to, pomoću [postavki preuzimanja softvera sustava Office](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) možete odabrati hoće li korisnici moći instalirati aplikacije sustava Office na vlastite uređaje.
+Ako imate pretplatu koja sadrži aplikacije sustava Microsoft 365, nećete vidjeti mogućnost da je instalirate osim ako nemate [dodijeljenu licencu](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ako ste administrator sustava Office 365 odgovoran za dodjelu licenci, pročitajte članak [Dodjela licenci korisnicima](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Uz to, pomoću [postavki preuzimanja softvera sustava Office](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) možete odabrati hoće li korisnici moći instalirati aplikacije sustava Office na vlastite uređaje.
 
-**Napomena**: [izvješće o aktivaciji sustava Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) nudi vam prikaz korisnika koji su instalirali i aktivirali pretplatu na Office na barem jednom uređaju.
+**Napomena:** [izvješće o aktivaciji sustava Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) daje vam prikaz korisnika koji su instalirali i aktivirali svoje aplikacije sustava Microsoft 365 na najmanje jednom uređaju.
 
 Potom se pobrinite da svaki korisnik napravi sljedeće:
 

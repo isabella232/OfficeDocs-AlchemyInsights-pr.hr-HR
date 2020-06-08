@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
-ms.translationtype: HT
+ms.openlocfilehash: 986e625e4b7ec5615d2b19927749e5efc627f691
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160963"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225122"
 ---
 # <a name="your-payment-was-declined"></a>Vaše je plaćanje odbijeno
 
@@ -24,20 +24,31 @@ Microsoft će pokušati teretiti vašu karticu više puta tijekom 3 do 4 tjedna 
 
 **Važno**: ako ste dodali novu karticu te i dalje primate obavijest o odbijanju za staru kreditnu karticu, možda ćete morati povezati novu karticu s pretplatom.
 
-1. Idite na **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+**Zamjena načina plaćanja za sve stavke**
 
-2. Odaberite pretplatu koju želite platiti novom karticom ili bankovnim računom. U odjeljku **Naplata**, pokraj načina plaćanja, kliknite **Uredi**.
+1. U centru za administratore otvorite stranicu Računi **za naplatu**  >  **& plaćanja**  >  [Plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
-3. Kliknite **Promijeni** pokraj trenutačnog načina plaćanja.
+2. Odaberite redak načina plaćanja koji želite zamijeniti. Desno okno navodi sve profile naplate i pojedinačne pretplate koje koriste odabrani način plaćanja.
 
-4. S padajućeg popisa odaberite drugi način plaćanja ili dodajte novi način plaćanja.
+3. U desnom oknu odaberite **Zamijeni način plaćanja za sve stavke**.
 
-**Ažuriranje ili dodavanje novog načina plaćanja**
+4. Da biste koristili postojeći način plaćanja, s padajućeg popisa odaberite jedan, a zatim odaberite **Zamijeni**.
 
-1. Idite na stranicu **Naplata > Računi i plaćanja > [Načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+    > [!NOTE]
+    > Ako su pretplate povezane s profilom za naplatu, možete ih platiti samo kreditnom ili debitnom karticom. Ako imate bankovne račune navedene na stranici **Načini plaćanja,** oni nisu dostupni za odabir na padajućem popisu.
 
-2. Kliknite **Dodaj način plaćanja**, odaberite karticu ili bankovni račun koji želite ažurirati i kliknite **Uredi**.
+5. Da biste dodali novi način plaćanja, odaberite **Dodaj način plaćanja**.
 
-3. Ažurirajte podatke o načinu plaćanja (ime na kartici ili bankovnom računu, adresu za naplatu, telefonski broj ili datum isteka) i zatim kliknite **Spremi**.
+6. U oknu **Dodavanje načina plaćanja** unesite podatke o računu, a zatim odaberite **Spremi**. Morate koristiti način plaćanja iz iste zemlje kao i vaš klijent.
 
-4. Imajte na umu da trebate promijeniti način na koji plaćate za svoju pretplatu ili pretplate na ovaj novi način plaćanja. Dodatne informacije pronađite u članku [Dodavanje, ažuriranje ili uklanjanje načina plaćanja](https://go.microsoft.com/fwlink/?linkid=2118133). 
+7. Novi način plaćanja već je odabran na padajućem popisu. Odaberite **Zamijeni**.
+
+**Ažuriranje pojedinosti o načinu plaćanja**
+
+1. U centru za administratore otvorite stranicu Računi **za naplatu**  >  **& plaćanja**  >  [Plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+
+2. Odaberite redak načina plaćanja koji želite ažurirati. U desnom oknu odaberite **Uredi**.
+
+3. Ažurirajte podatke o načinu plaćanja, uključujući ime na kreditnoj ili debitnoj kartici, adresi za naplatu ili datumu isteka, a zatim odaberite **Spremi**.
+
+Dodatne informacije [potražite u odjeljku Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
