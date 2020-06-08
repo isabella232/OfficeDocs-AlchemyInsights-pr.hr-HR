@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 29864cd52c19a34887b52968a1a004473461dc84
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: a4d30f59410d897584fb3ef91273361d028c0034
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787938"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417308"
 ---
-# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="23098-102">Dodavanje kreditne kartice</span><span class="sxs-lookup"><span data-stu-id="23098-102">How do I add a credit card?</span></span>
+# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="d2f2f-102">Dodavanje kreditne kartice</span><span class="sxs-lookup"><span data-stu-id="d2f2f-102">How do I add a credit card?</span></span>
 
-1. <span data-ttu-id="23098-103">U centru za administratore sustava Microsoft 365 idite na stranicu **Naplata** \> [Načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="23098-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="d2f2f-103">U centru za administratore sustava Microsoft 365 idite na stranicu **Naplata** \> [Načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="d2f2f-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="23098-104">Kliknite **Dodavanje načina plaćanja**.</span><span class="sxs-lookup"><span data-stu-id="23098-104">Click **Add a payment method**.</span></span>
+2. <span data-ttu-id="d2f2f-104">Kliknite **Dodavanje načina plaćanja**.</span><span class="sxs-lookup"><span data-stu-id="d2f2f-104">Click **Add a payment method**.</span></span>
 
-3. <span data-ttu-id="23098-105">Na stranici **Načini plaćanja** na padajućem izborniku odaberite način plaćanja.</span><span class="sxs-lookup"><span data-stu-id="23098-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
+3. <span data-ttu-id="d2f2f-105">Na stranici **Načini plaćanja** na padajućem izborniku odaberite način plaćanja.</span><span class="sxs-lookup"><span data-stu-id="d2f2f-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
 
-4. <span data-ttu-id="23098-106">Unesite podatke za novu kreditnu karticu ili bankovni račun, a zatim odaberite **Spremi**.</span><span class="sxs-lookup"><span data-stu-id="23098-106">Enter the information for the new credit card or bank account, then click **Save**.</span></span>
+4. <span data-ttu-id="d2f2f-106">Unesite podatke za novu kreditnu karticu ili bankovni račun, a zatim odaberite **Spremi**.</span><span class="sxs-lookup"><span data-stu-id="d2f2f-106">Enter the information for the new credit card or bank account, then click **Save**.</span></span>
 
-<span data-ttu-id="23098-107">Dodatne informacije potražite u članku [Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili bankovnog računa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="23098-107">To learn more, see [Add, update, or remove a credit card or bank account](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="d2f2f-107">Dodatne informacije [potražite u odjeljku Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="d2f2f-107">To learn more, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
