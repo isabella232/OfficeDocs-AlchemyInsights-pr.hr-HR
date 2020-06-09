@@ -10,15 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: b56a676181ec551bc7943d5eea0c49cd279d9e37
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855714"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617959"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Pogreška: Pravila na ovom računalu ne podudaraju se
 
-To je poznati problem s programom Outlook Desktop. Tim programa Outlook implementirao je početni popravak u verziji 12228.20332 koji je objavljen 12/3/2019. Taj popravak nije riješio sva izvješća koja smo primili.
+Da biste vidjeli ažurirani status ovog poznatog problema, pogledajte [Pravila na ovom računalu ne odgovaraju pravilima na sustavu Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
 
-Da biste vidjeli ažurirani status ovog poznatog problema, pogledajte [pravila na ovom računalu ne odgovaraju pravilima u sustavu Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+Tim programa Outlook implementirao je popravak u međuverziji 12928.10000. škripac je već at Insider Brz i htijenje otiđite na Mjesec Chanel krajem Lipanj 2020. Nakon što ste fiksne graditi možete dobiti upit "Koja pravila želite zadržati" posljednji put. Odaberite Poslužitelj kada se to od vas zatraži, a zatim se vratite u Outlook i ponovno omogućite sva onemogućena pravila.
+
+Dok popravak je dostupan, koristite sljedeće zaobilazno rješenje:
+
+**Zaobilazno rješenje**: U nedavnim izvješćima došlo je do problema za one koji su stvorili samo klijentska pravila na radnoj površini programa Outlook. Ako nastavite s time, razmislite o brisanju pravila, a zatim stvorite i uredite pravila samo u programu OWA (Outlook Web App) dok se problem ne riješi.
+
+Ako pravila ne možete ručno izbrisati, možete pokrenuti naredbu programa Outlook kada pokrenete Outlook pokretanjem programa Outlook.exe /cleanrules. Time će se izbrisati pravila klijenta i poslužitelja. Izbrisat će sva pravila za sve račune u profilu programa Outlook. Ova naredba je dodatno dokumentirana u članku Command-line skretnice.
