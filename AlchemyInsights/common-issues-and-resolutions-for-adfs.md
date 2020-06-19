@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 583ea686ea119e4e8b9cc7201a92b84ce77fe30e
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580541"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797963"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Uobičajeni problemi i rješenja za ADFS
 
 Konfiguracija vanjske domene može se ažurirati u skladu s načinom opisanim u sljedećim člancima Microsoftove baze znanja.
+
+- [Istječe certifikat ADFS federacije](adfs-federation-certificate-expiring.md)
 
 - [2713898](https://support.microsoft.com/help/2713898) "Došlo je do problema s pristupom web-mjestu" pogreška iz AD FS kada se vanjski korisnik prijavi u Microsoft 365, Azure ili Intune.
 
