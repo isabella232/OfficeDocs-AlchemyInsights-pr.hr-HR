@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506147"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840897"
 ---
-# <a name="calendar-publishing-information"></a>Informacije o objavljivanju kalendara
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Omogućivanje zajedničkog korištenja kalendara pomoću centra za administratore sustava Microsoft 365
 
-- Administratori sustava Microsoft 365 mogu omogućiti ili onemogućiti objavljivanje kalendara i zajedničko korištenje kalendara za tvrtku ili ustanovu. Dodatne informacije potražite [u odjeljku Uključivanje objavljivanja kalendara da bi korisnici mogli dijeliti informacije](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) i [zajednički koristiti kalendare s vanjskim korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).
+1. U centru za administratore idite na **Settings**   >   **Postavke orgije postavki**.
+2. Na kartici **Servisi** odaberite **Kalendar**.
+3. Na stranici **Kalendar** koja će se otvoriti odaberite želite li dopustiti korisnicima zajedničko korištenje kalendara s osobama izvan vaše tvrtke ili ustanove koje imaju Microsoft 365 ili Exchange.
+4. Odaberite želite li anonimnim korisnicima (korisnicima bez vjerodajnica za prijavu) dopustiti pristup kalendarima putem pozivnice e-poštom.
+5. Odaberite vrstu kalendarskih informacija koje želite učiniti dostupnima korisnicima. Možete dopustiti sve informacije ili ih ograničiti samo na vrijeme ili samo vrijeme, predmet i lokaciju.
 
-- Korisnici programa Outlook mogu zajednički koristiti vlastite kalendare. Dodatne informacije potražite u [odjeljku Zajedničko korištenje kalendara programa Outlook s drugim osobama](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).
+Dodatne informacije: [Zajedničko korištenje kalendara s vanjskim korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
