@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506147"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840897"
 ---
-# <a name="calendar-publishing-information"></a><span data-ttu-id="96618-102">Informacije o objavljivanju kalendara</span><span class="sxs-lookup"><span data-stu-id="96618-102">Calendar publishing information</span></span>
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a><span data-ttu-id="d420f-102">Omogućivanje zajedničkog korištenja kalendara pomoću centra za administratore sustava Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="d420f-102">Enable calendar sharing using the Microsoft 365 admin center</span></span>
 
-- <span data-ttu-id="96618-103">Administratori sustava Microsoft 365 mogu omogućiti ili onemogućiti objavljivanje kalendara i zajedničko korištenje kalendara za tvrtku ili ustanovu.</span><span class="sxs-lookup"><span data-stu-id="96618-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="96618-104">Dodatne informacije potražite [u odjeljku Uključivanje objavljivanja kalendara da bi korisnici mogli dijeliti informacije](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) i [zajednički koristiti kalendare s vanjskim korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="96618-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span></span>
+1. <span data-ttu-id="d420f-103">U centru za administratore idite na **Settings**   >   **Postavke orgije postavki**.</span><span class="sxs-lookup"><span data-stu-id="d420f-103">In the admin center, go to  **Settings**  >  **Org Settings**.</span></span>
+2. <span data-ttu-id="d420f-104">Na kartici **Servisi** odaberite **Kalendar**.</span><span class="sxs-lookup"><span data-stu-id="d420f-104">On the  **Services**  tab, select  **Calendar**.</span></span>
+3. <span data-ttu-id="d420f-105">Na stranici **Kalendar** koja će se otvoriti odaberite želite li dopustiti korisnicima zajedničko korištenje kalendara s osobama izvan vaše tvrtke ili ustanove koje imaju Microsoft 365 ili Exchange.</span><span class="sxs-lookup"><span data-stu-id="d420f-105">On the  **Calendar**  page that opens, choose whether you want to let your users share their calendars with people outside of your organization who have Microsoft 365 or Exchange.</span></span>
+4. <span data-ttu-id="d420f-106">Odaberite želite li anonimnim korisnicima (korisnicima bez vjerodajnica za prijavu) dopustiti pristup kalendarima putem pozivnice e-poštom.</span><span class="sxs-lookup"><span data-stu-id="d420f-106">Choose whether you want to allow anonymous users (users without logon credentials) to access calendars via an email invitation.</span></span>
+5. <span data-ttu-id="d420f-107">Odaberite vrstu kalendarskih informacija koje želite učiniti dostupnima korisnicima.</span><span class="sxs-lookup"><span data-stu-id="d420f-107">Choose what type of calendar information to make available to users.</span></span> <span data-ttu-id="d420f-108">Možete dopustiti sve informacije ili ih ograničiti samo na vrijeme ili samo vrijeme, predmet i lokaciju.</span><span class="sxs-lookup"><span data-stu-id="d420f-108">You can allow all information, or limit it to time only or time, subject, and location only.</span></span>
 
-- <span data-ttu-id="96618-105">Korisnici programa Outlook mogu zajednički koristiti vlastite kalendare.</span><span class="sxs-lookup"><span data-stu-id="96618-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="96618-106">Dodatne informacije potražite u [odjeljku Zajedničko korištenje kalendara programa Outlook s drugim osobama](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span><span class="sxs-lookup"><span data-stu-id="96618-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>
+<span data-ttu-id="d420f-109">Dodatne informacije: [Zajedničko korištenje kalendara s vanjskim korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span><span class="sxs-lookup"><span data-stu-id="d420f-109">More Information: [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span></span>
