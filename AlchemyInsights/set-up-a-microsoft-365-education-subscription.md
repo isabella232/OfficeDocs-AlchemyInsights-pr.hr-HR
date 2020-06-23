@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
-ms.translationtype: HT
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915034"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840991"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Postavljanje pretplate na Microsoft 365 Education
 
@@ -24,6 +24,5 @@ Za vođene upute pogledajte[opisni audio videozapis](https://aka.ms/M365EduSetup
 
 **Više odličnih resursa**
 
-- Za pregled pročitajte članak [Postavljanje klijenta za Office 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
-- Pogledajte [Početak rada sa sustavom Microsoft 365 Education](https://docs.microsoft.com/education/) za IT administratore, razvojne inženjere i partnere. 
-- [Povežite račun trgovine Microsoft Store sa servisom Intune za obrazovne ustanove](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education). 
+- Pregled [potražite u članku Stvaranje računa klijenta sustava Office 365.](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)
+- Pogledajte [početak rada sa sustavom Microsoft 365 Education](https://docs.microsoft.com/education/) for IT administratori, razvojni inženjeri i partneri.
