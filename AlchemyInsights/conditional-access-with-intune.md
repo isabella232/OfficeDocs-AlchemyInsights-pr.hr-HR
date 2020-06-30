@@ -8,27 +8,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: c9c47d71b2da3840504d5b28c7c9e067b4c05fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
+ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706013"
+ms.lasthandoff: 06/30/2020
+ms.locfileid: "44931422"
 ---
-# <a name="conditional-access-with-intune"></a><span data-ttu-id="b1d0b-102">Uvjetni pristup s intune</span><span class="sxs-lookup"><span data-stu-id="b1d0b-102">Conditional Access with Intune</span></span>
+# <a name="conditional-access-with-intune"></a><span data-ttu-id="805a8-102">Uvjetni pristup s intune</span><span class="sxs-lookup"><span data-stu-id="805a8-102">Conditional Access with Intune</span></span>
 
-<span data-ttu-id="b1d0b-103">Korištenje **uvjetnog pristupa** s intuneom zahtijeva 3 koraka:</span><span class="sxs-lookup"><span data-stu-id="b1d0b-103">Using **Conditional Access** with Intune requires 3 steps:</span></span> 
-  
-- <span data-ttu-id="b1d0b-104">Stvorite **pravila uvjetnog pristupa** koja definiraju koji su resursi zaštićeni i koji su uvjeti potrebni za pristup tim resursima.</span><span class="sxs-lookup"><span data-stu-id="b1d0b-104">Create a **Conditional Access Policy** that defines what resources are being protected, and what conditions need to be met to access those resources.</span></span> <span data-ttu-id="b1d0b-105">Na primjer, uređaj mora biti sukladan prije pristupanja korporativnoj e-pošti.</span><span class="sxs-lookup"><span data-stu-id="b1d0b-105">For example, a device must be compliant before accessing corporate email.</span></span> 
-    
-- <span data-ttu-id="b1d0b-106">Stvorite **pravila usklađenosti** da biste definirali postavke koje se moraju ispuniti prije nego što se uređaj smatra sukladnim.</span><span class="sxs-lookup"><span data-stu-id="b1d0b-106">Create a **Compliance Policy** to define settings that must be met before the device is considered compliant.</span></span> <span data-ttu-id="b1d0b-107">Na primjer, uređaj mora imati pin od najmanje 6 znamenki prije nego što se smatra sukladnim.</span><span class="sxs-lookup"><span data-stu-id="b1d0b-107">For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span> 
-    
-- <span data-ttu-id="b1d0b-108">Osiguravanje **pravila usklađenosti** i **pravila uvjetnog pristupa** usmjerene su na željene grupe korisnika.</span><span class="sxs-lookup"><span data-stu-id="b1d0b-108">Ensuring both **Compliance Policies** and **Conditional Access Policies** are targeted to the desired groups of users.</span></span> <span data-ttu-id="b1d0b-109">To može zahtijevati stvaranje određenih grupa korisnika u servisu Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="b1d0b-109">This may require creating specific groups of users in Azure Active Directory.</span></span> 
-    
-<span data-ttu-id="b1d0b-110">Opširnije::</span><span class="sxs-lookup"><span data-stu-id="b1d0b-110">Read more:</span></span>
-  
-- [<span data-ttu-id="b1d0b-111">Najbolji primjeri iz prakse za uvjetni pristup</span><span class="sxs-lookup"><span data-stu-id="b1d0b-111">Conditional Access best practices</span></span>](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
-    
-- [<span data-ttu-id="b1d0b-112">Prvi koraci s uvjetnim pristupom</span><span class="sxs-lookup"><span data-stu-id="b1d0b-112">Getting started with Conditional Access </span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
-    
+<span data-ttu-id="805a8-103">Korištenje **uvjetnog pristupa** s intune zahtijeva 3 koraka:</span><span class="sxs-lookup"><span data-stu-id="805a8-103">Using  **Conditional Access**  with Intune requires 3 steps:</span></span>
 
+- <span data-ttu-id="805a8-104">Stvorite **pravila usklađenosti** ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) da biste definirali postavke koje se moraju ispuniti prije nego što se uređaj smatra sukladnim.</span><span class="sxs-lookup"><span data-stu-id="805a8-104">Create a  **Compliance Policy**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) to define settings that must be met before the device is considered compliant.</span></span> <span data-ttu-id="805a8-105">Na primjer, uređaj mora imati pribadaču od najmanje 6 znamenki prije nego što se smatra sukladnim.</span><span class="sxs-lookup"><span data-stu-id="805a8-105">For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span>
+- <span data-ttu-id="805a8-106">Stvorite **pravilo uvjetnog pristupa** koje definira koji su resursi zaštićeni i koji uvjeti moraju biti ispunjeni za pristup tim resursima.</span><span class="sxs-lookup"><span data-stu-id="805a8-106">Create a **Conditional Access Policy**  that defines what resources are being protected, and what conditions need to be met to access those resources.</span></span>  <span data-ttu-id="805a8-107">[Na primjer,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) uređaj mora biti sukladan prije pristupanja korporativnoj e-pošti.</span><span class="sxs-lookup"><span data-stu-id="805a8-107">[For example,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  a device must be compliant before accessing corporate email.</span></span>
+- <span data-ttu-id="805a8-108">Provjerite jesu li **pravila usklađenosti** i **pravila uvjetnog pristupa** usmjerena na željene grupe korisnika.</span><span class="sxs-lookup"><span data-stu-id="805a8-108">Ensure both **Compliance Policies**  and  **Conditional Access Policies**  are targeted to the desired groups of users.</span></span> <span data-ttu-id="805a8-109">To može zahtijevati stvaranje određenih grupa korisnika u servisu Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="805a8-109">This may require creating specific groups of users in Azure Active Directory.</span></span>
+
+<span data-ttu-id="805a8-110">**Korisni linkovi:**</span><span class="sxs-lookup"><span data-stu-id="805a8-110">**Helpful links:**</span></span>
+
+[<span data-ttu-id="805a8-111">Pregled usklađenosti uređaja</span><span class="sxs-lookup"><span data-stu-id="805a8-111">Device compliance overview</span></span>](https://docs.microsoft.com/intune/device-compliance-get-started)
+
+[<span data-ttu-id="805a8-112">Rješavanje problema CA</span><span class="sxs-lookup"><span data-stu-id="805a8-112">Troubleshooting CA</span></span>](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+
+[<span data-ttu-id="805a8-113">Pravila za otklanjanje poteškoća</span><span class="sxs-lookup"><span data-stu-id="805a8-113">Troubleshooting policy</span></span>](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+
+<span data-ttu-id="805a8-114">Da biste e-poštu (Exchange online) zaštitili od pristupa neusklađenih uređaja, oba dokumenta moraju se slijediti:</span><span class="sxs-lookup"><span data-stu-id="805a8-114">To protect Email (Exchange online) from access by noncompliant devices, both documents must be followed:</span></span>
+
+1. [<span data-ttu-id="805a8-115">Zaštita pristupa e-pošti s uređaja pomoću EAS-a</span><span class="sxs-lookup"><span data-stu-id="805a8-115">Protect email access from devices using EAS</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [<span data-ttu-id="805a8-116">Zaštita pristupa e-pošti s uređaja pomoću modernih klijenata za provjeru autentičnosti kao što je Outlook</span><span class="sxs-lookup"><span data-stu-id="805a8-116">Protect email access from devices using modern authentication clients like Outlook</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
