@@ -8,27 +8,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: c9c47d71b2da3840504d5b28c7c9e067b4c05fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
+ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706013"
+ms.lasthandoff: 06/30/2020
+ms.locfileid: "44931422"
 ---
 # <a name="conditional-access-with-intune"></a>Uvjetni pristup s intune
 
-Korištenje **uvjetnog pristupa** s intuneom zahtijeva 3 koraka: 
-  
-- Stvorite **pravila uvjetnog pristupa** koja definiraju koji su resursi zaštićeni i koji su uvjeti potrebni za pristup tim resursima. Na primjer, uređaj mora biti sukladan prije pristupanja korporativnoj e-pošti. 
-    
-- Stvorite **pravila usklađenosti** da biste definirali postavke koje se moraju ispuniti prije nego što se uređaj smatra sukladnim. Na primjer, uređaj mora imati pin od najmanje 6 znamenki prije nego što se smatra sukladnim. 
-    
-- Osiguravanje **pravila usklađenosti** i **pravila uvjetnog pristupa** usmjerene su na željene grupe korisnika. To može zahtijevati stvaranje određenih grupa korisnika u servisu Azure Active Directory. 
-    
-Opširnije::
-  
-- [Najbolji primjeri iz prakse za uvjetni pristup](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
-    
-- [Prvi koraci s uvjetnim pristupom](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
-    
+Korištenje **uvjetnog pristupa** s intune zahtijeva 3 koraka:
 
+- Stvorite **pravila usklađenosti** ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) da biste definirali postavke koje se moraju ispuniti prije nego što se uređaj smatra sukladnim. Na primjer, uređaj mora imati pribadaču od najmanje 6 znamenki prije nego što se smatra sukladnim.
+- Stvorite **pravilo uvjetnog pristupa** koje definira koji su resursi zaštićeni i koji uvjeti moraju biti ispunjeni za pristup tim resursima.  [Na primjer,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) uređaj mora biti sukladan prije pristupanja korporativnoj e-pošti.
+- Provjerite jesu li **pravila usklađenosti** i **pravila uvjetnog pristupa** usmjerena na željene grupe korisnika. To može zahtijevati stvaranje određenih grupa korisnika u servisu Azure Active Directory.
+
+**Korisni linkovi:**
+
+[Pregled usklađenosti uređaja](https://docs.microsoft.com/intune/device-compliance-get-started)
+
+[Rješavanje problema CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+
+[Pravila za otklanjanje poteškoća](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+
+Da biste e-poštu (Exchange online) zaštitili od pristupa neusklađenih uređaja, oba dokumenta moraju se slijediti:
+
+1. [Zaštita pristupa e-pošti s uređaja pomoću EAS-a](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [Zaštita pristupa e-pošti s uređaja pomoću modernih klijenata za provjeru autentičnosti kao što je Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
