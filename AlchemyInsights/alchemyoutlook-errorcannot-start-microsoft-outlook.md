@@ -1,5 +1,5 @@
 ---
-title: Pogreška programa Outlook Nije moguće pokrenuti Microsoft Outlook
+title: Alkemija - Outlook pogreška 'Nije moguće pokrenuti Microsoft Outlook'
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,17 +12,19 @@ ms.custom:
 - "457"
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: 9efe1eadbec5f8ee00c4450f26049b66f3ac99b3
-ms.sourcegitcommit: 36c7cc63f8a86e247993e6cd566afe57087435e4
+ms.openlocfilehash: f17ff5ccd11ca5769885f10a596cde85677ba5a3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44694815"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "36664528"
 ---
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a><span data-ttu-id="32504-102">Pogreška programa Outlook: Nije moguće pokrenuti Microsoft Outlook</span><span class="sxs-lookup"><span data-stu-id="32504-102">Outlook error: Cannot start Microsoft Outlook</span></span>
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a><span data-ttu-id="7d39c-102">Pogreška programa Outlook: "Nije moguće pokrenuti Microsoft Outlook"</span><span class="sxs-lookup"><span data-stu-id="7d39c-102">Outlook error: "Cannot start Microsoft Outlook"</span></span>
 
-<span data-ttu-id="32504-103">Imate li problema s pokretanjem programa Outlook 2016, Outlook 2013 ili Outlook 2010 ili primanjem "Nije moguće pokrenuti Microsoft Outlook.</span><span class="sxs-lookup"><span data-stu-id="32504-103">Are you having trouble starting Outlook 2016, Outlook 2013, or Outlook 2010, or receiving "Cannot start Microsoft Outlook.</span></span> <span data-ttu-id="32504-104">Nije moguće otvoriti poruke o pogrešci outlook prozora"?</span><span class="sxs-lookup"><span data-stu-id="32504-104">Cannot open the Outlook window" error messages?</span></span>
+<span data-ttu-id="7d39c-103">Imate li problema s pokretanjem programa Outlook 2016, Outlook 2013 ili Outlook 2010 ili primanjem "Nije moguće pokrenuti Microsoft Outlook.</span><span class="sxs-lookup"><span data-stu-id="7d39c-103">Are you having trouble starting Outlook 2016, Outlook 2013, or Outlook 2010, or receiving "Cannot start Microsoft Outlook.</span></span> <span data-ttu-id="7d39c-104">Nije moguće otvoriti poruke o pogrešci outlook prozora"?</span><span class="sxs-lookup"><span data-stu-id="7d39c-104">Cannot open the Outlook window" error messages?</span></span>
   
-<span data-ttu-id="32504-105">Najprije slijedite korake za otklanjanje poteškoća u [ovom članku](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) da biste riješili te probleme pri pokretanju.</span><span class="sxs-lookup"><span data-stu-id="32504-105">First, use the troubleshooting steps in [this article](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) to help resolve these startup issues.</span></span> 
+<span data-ttu-id="7d39c-105">Najprije slijedite korake za otklanjanje poteškoća u [ovom članku](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) da biste riješili te probleme pri pokretanju.</span><span class="sxs-lookup"><span data-stu-id="7d39c-105">First, use the troubleshooting steps in [this article](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) to help resolve these startup issues.</span></span> 
   
-<span data-ttu-id="32504-106">Alat [za naprednu dijagnostiku](https://aka.ms/SaRA-OutlookAdvDiagnostics) možete pokrenuti i na zahvaćenom računalu.</span><span class="sxs-lookup"><span data-stu-id="32504-106">You can also run the [Advanced Diagnostics tool](https://aka.ms/SaRA-OutlookAdvDiagnostics) on the affected machine.</span></span>
+<span data-ttu-id="7d39c-106">Alat [za naprednu dijagnostiku](https://aka.ms/SaRA-OutlookAdvDiagnostics) možete pokrenuti i na zahvaćenom računalu.</span><span class="sxs-lookup"><span data-stu-id="7d39c-106">You can also run the [Advanced Diagnostics tool](https://aka.ms/SaRA-OutlookAdvDiagnostics) on the affected machine.</span></span> 
+  
+
