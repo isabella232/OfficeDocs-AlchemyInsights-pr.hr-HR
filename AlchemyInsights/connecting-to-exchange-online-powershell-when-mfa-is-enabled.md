@@ -1,5 +1,5 @@
 ---
-title: 761 Povezivanje sa sustavom Exchange Online PowerShell kada je omogućen MFA
+title: 761 Povezivanje sa ljuskom PowerShell sustava Exchange Online kada je MFA omogućen
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705797"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205295"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Povezivanje sa sustavom Exchange Online PowerShell kada je omogućen MFA
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Povezivanje sa ljuskom PowerShell sustava Exchange Online kada je MFA omogućen
 
-Ako je na vašem računu omogućena višestruka provjera autentičnosti (MFA), slijedite ove upute da biste se povezali sa sustavom Exchange Online PowerShell: [Povežite se sa sustavom Exchange Online PowerShell pomoću višestruke provjere autentičnosti](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
-
-**Napomena**: Čak i ako ste se u prošlosti povezali sa sustavom Exchange Online PowerShell pomoću [uobičajenih uputa za povezivanje,](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)morate koristiti upute za vezu mfa nakon što je MFA omogućen za vaš račun.
+Ako je vaš račun omogućen za višestruku provjeru autentičnosti (MFA), morate slijediti ove upute da biste se povezali sa sustavom Exchange Online PowerShell: [koristite PowerShell sustava Exchange Online s modernom provjerom autentičnosti pomoću V2 modula](https://aka.ms/exops-docs). Molimo potražite MFA / Multi Factor Authentication upute na toj stranici.

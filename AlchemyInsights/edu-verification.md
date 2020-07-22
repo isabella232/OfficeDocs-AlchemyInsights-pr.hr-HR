@@ -11,17 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 7bb3a74137fd6c08165a882923087aac750c6fe4
-ms.sourcegitcommit: f573e83f6eddff471449c1c3f292ba23d139b972
+ms.openlocfilehash: 1889eb9b18f312da00196d575376960bc6b028fd
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44138750"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205259"
 ---
 # <a name="edu-verification"></a>Edu verifikacija
 
-Primit ćete poruku e-pošte kojom ćete saznati je li ispunjavanje uvjeta vaše tvrtke ili ustanove odobreno.
+U većini slučajeva zahtjevi za akademsku prihvatljivost obrađuju se u roku od 24 do 48 sati. Neki zahtjevi mogu zahtijevati temeljitiji pregled i može potrajati do 10 radnih dana za obradu. Nakon dovršetka poslat ćemo poruku e-pošte s statusom prihvatljivosti vaše škole.
 
-U nekim ćete slučajevima možda morati pričekati do 48 sati da se dns verifikacija dovrši. Možete kliknuti "Provjerit ću kasnije" i vratiti se kasnije i prijaviti se na portal sustava Office 365; zatim idite na ** [Centar za administratore](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/homepage) > Postavke** i kliknite [Domene](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Domains) da biste provjerili unos statusa za svoju domenu.
+**Važno je da se** Ako ste prije ulaska iz domene izašli iz čarobnjaka za [provjeru, možete nastaviti s čarobnjakom za akademsku provjeru](https://go.microsoft.com/fwlink/p/?linkid=2135255) u bilo kojem trenutku tijekom besplatnog probnog razdoblja.
 
-Kada budete odobreni, možete otići na karticu **[Kupnja servisa](https://go.microsoft.com/fwlink/p/?linkid=868433)** Microsoftova centra za administratore da biste kupili pretplate.
+Ako želite provjeriti status domene, idite u centar za [administratore sustava Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). Na početnoj stranici pomaknite se do dna i pronađite karticu **Naplata.** Kartica **Naplata** označava status postupka potvrde (odobren, na čekanju, odbijen ili dodaj domenu).
+
+Ako je vaš zahtjev odbijen, pogledajte [Moja škola nije prihvatljiva. Što sad da radim?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
