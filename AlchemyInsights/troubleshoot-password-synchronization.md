@@ -1,8 +1,8 @@
 ---
-title: Rješavanje problema sa sinkronizacijom lozinki
+title: Rješavanje problema sa sinkronizacijom lozinkom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,51 +13,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 54b5a033b7cbb99520425b31800364ed4a99a4e6
+ms.sourcegitcommit: 1d01b8b48eef2d5d10c375dcf802cd36e9d6bf61
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732502"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45387869"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Rješavanje problema sa sinkronizacijom lozinki
+# <a name="troubleshoot-password-synchronization"></a>Rješavanje problema sa sinkronizacijom lozinkom
 
-Da biste otklonili poteškoće kada se lozinke ne sinkroniziraju sa servisom Azure AD Connect verzije 1.1.614.0 ili novije:
-  
-1. Otvorite novu sesiju komponente Windows PowerShell na poslužitelju Azure AD Connect pomoću mogućnosti **Pokreni kao administrator.**
+Da biste otklonili poteškoće sa sinkronizacijom lozinkom, pokrenite ovaj zadatak za otklanjanje poteškoća s AAD Connectom da biste odredili zašto se lozinke ne sinkroniziraju. Da biste započeli, idite na [Upravljanje izravnom sinkronizacijom](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-2. Pokrenite **Set-ExecutionPolicy RemoteSigned** ili **Set-ExecutionPolicy neograničen**.
+1. Otvorite novu sesiju komponente Windows PowerShell na poslužitelju Azure AD Connect i odaberite mogućnost **Pokreni kao administrator.**
+
+2. Pokrenite Set-ExecutionPolicy RemoteSigned ili Set-ExecutionPolicy neograničeno.
 
 3. Pokrenite čarobnjak za Azure AD Connect.
 
-4. Idite na stranicu **Dodatni zadaci,** odaberite **Otklanjanje poteškoća**i kliknite **Dalje**.
+4. Idite na stranicu Dodatni zadaci > **Otklanjanje poteškoća**  >  **Sljedeće**.
 
-5. Na stranici Otklanjanje poteškoća kliknite **Pokreni da biste pokrenuli** izbornik za otklanjanje poteškoća u programu PowerShell.
+5. Odaberite **Pokreni** da biste otvorili izbornik za otklanjanje poteškoća sa ljuskom PowerShell.
 
-6. U glavnom izborniku odaberite **Otklanjanje poteškoća sa sinkronizacijom lozinki**.
+6. Odaberite **Otklanjanje poteškoća sa sinkronizacijom lozinke**.
 
-7. U podizborniku odaberite **Sinkronizacija lozinki uopće ne funkcionira**.
+    Problem je obično u tome što lozinka nije sinkronizirana za određeni korisnički račun.
 
-**Objašnjenje rezultata zadatka otklanjanja poteškoća**
-  
-Zadatak otklanjanja poteškoća izvodi sljedeće provjere:
-  
-- Provjerava je li značajka sinkronizacije lozinke omogućena za klijenta Azure AD-a.
+    **Bilješke** Sinkronizacija lozinkom ne uspijeva ako je posljednja uspješna sinkronizacija lozinke bila prije nekog vremena.
 
-- Provjerava je li poslužitelj Azure AD Connect u pripremnom načinu rada.
-
-- Za svaki postojeći lokalni konektor servisa Active Directory (koji odgovara postojećoj šumi servisa Active Directory):
-
-- 
-  - Provjerava je li omogućena značajka sinkronizacije lozinke.
-
-  - Traži događaje zapisnika zapisnika zapisnika sinkronizacije lozinkom u zapisnicima događaja aplikacije sustava Windows.
-
-  - Za svaku domenu servisa Active Directory pod lokalnim povezom servisa Active Directory:
-
-  - Provjerava je li domena dostupna s poslužitelja Azure AD Connect.
-
-  - Provjerava ima li računi servisa Active Directory Domain Services (AD DS) koje koristi lokalni poveznik servisa Active Directory ispravno korisničko ime, lozinku i dozvole potrebne za sinkronizaciju lozinki.
-
-Dodatne informacije o otklanjanju poteškoća pri sinkronizaciji lozinki [potražite u članku Otklanjanje poteškoća sa sinkronizacijom lozinke pomoću sinkronizacije usluge Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
-  
+Dodatna pomoć za otklanjanje poteškoća sa sinkronizacijom [lozinkom potražite u članku Otklanjanje poteškoća sa sinkronizacijom raspršilim lozinkom sa sinkronizacijom azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
