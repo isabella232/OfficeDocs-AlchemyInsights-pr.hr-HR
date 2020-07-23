@@ -1,8 +1,8 @@
 ---
-title: Rješavanje problema sa sinkronizacijom lozinki
+title: Rješavanje problema sa sinkronizacijom lozinkom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,51 +13,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 54b5a033b7cbb99520425b31800364ed4a99a4e6
+ms.sourcegitcommit: 1d01b8b48eef2d5d10c375dcf802cd36e9d6bf61
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732502"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45387869"
 ---
-# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="e5a8f-102">Rješavanje problema sa sinkronizacijom lozinki</span><span class="sxs-lookup"><span data-stu-id="e5a8f-102">Troubleshoot password synchronization</span></span>
+# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="c15e7-102">Rješavanje problema sa sinkronizacijom lozinkom</span><span class="sxs-lookup"><span data-stu-id="c15e7-102">Troubleshoot password synchronization</span></span>
 
-<span data-ttu-id="e5a8f-103">Da biste otklonili poteškoće kada se lozinke ne sinkroniziraju sa servisom Azure AD Connect verzije 1.1.614.0 ili novije:</span><span class="sxs-lookup"><span data-stu-id="e5a8f-103">To troubleshoot issues where no passwords are synchronized with Azure AD Connect version 1.1.614.0 or later:</span></span>
-  
-1. <span data-ttu-id="e5a8f-104">Otvorite novu sesiju komponente Windows PowerShell na poslužitelju Azure AD Connect pomoću mogućnosti **Pokreni kao administrator.**</span><span class="sxs-lookup"><span data-stu-id="e5a8f-104">Open a new Windows PowerShell session on your Azure AD Connect server with the **Run as Administrator** option.</span></span>
+<span data-ttu-id="c15e7-103">Da biste otklonili poteškoće sa sinkronizacijom lozinkom, pokrenite ovaj zadatak za otklanjanje poteškoća s AAD Connectom da biste odredili zašto se lozinke ne sinkroniziraju.</span><span class="sxs-lookup"><span data-stu-id="c15e7-103">To troubleshoot password synchronization issues, start by using this AAD Connect troubleshooting task to determine why passwords are not syncing.</span></span> <span data-ttu-id="c15e7-104">Da biste započeli, idite na [Upravljanje izravnom sinkronizacijom](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).</span><span class="sxs-lookup"><span data-stu-id="c15e7-104">To begin, go to [Manage direct sync](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).</span></span>  
 
-2. <span data-ttu-id="e5a8f-105">Pokrenite **Set-ExecutionPolicy RemoteSigned** ili **Set-ExecutionPolicy neograničen**.</span><span class="sxs-lookup"><span data-stu-id="e5a8f-105">Run **Set-ExecutionPolicy RemoteSigned** or **Set-ExecutionPolicy Unrestricted**.</span></span>
+1. <span data-ttu-id="c15e7-105">Otvorite novu sesiju komponente Windows PowerShell na poslužitelju Azure AD Connect i odaberite mogućnost **Pokreni kao administrator.**</span><span class="sxs-lookup"><span data-stu-id="c15e7-105">Open a new Windows PowerShell session on your Azure AD Connect server, and select the **Run as Administrator** option.</span></span>
 
-3. <span data-ttu-id="e5a8f-106">Pokrenite čarobnjak za Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="e5a8f-106">Start the Azure AD Connect wizard.</span></span>
+2. <span data-ttu-id="c15e7-106">Pokrenite Set-ExecutionPolicy RemoteSigned ili Set-ExecutionPolicy neograničeno.</span><span class="sxs-lookup"><span data-stu-id="c15e7-106">Run Set-ExecutionPolicy RemoteSigned or Set-ExecutionPolicy Unrestricted.</span></span>
 
-4. <span data-ttu-id="e5a8f-107">Idite na stranicu **Dodatni zadaci,** odaberite **Otklanjanje poteškoća**i kliknite **Dalje**.</span><span class="sxs-lookup"><span data-stu-id="e5a8f-107">Navigate to the **Additional Tasks** page, select **Troubleshoot**, and click **Next**.</span></span>
+3. <span data-ttu-id="c15e7-107">Pokrenite čarobnjak za Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="c15e7-107">Start the Azure AD Connect wizard.</span></span>
 
-5. <span data-ttu-id="e5a8f-108">Na stranici Otklanjanje poteškoća kliknite **Pokreni da biste pokrenuli** izbornik za otklanjanje poteškoća u programu PowerShell.</span><span class="sxs-lookup"><span data-stu-id="e5a8f-108">On the Troubleshooting page, click **Launch to start the troubleshooting** menu in PowerShell.</span></span>
+4. <span data-ttu-id="c15e7-108">Idite na stranicu Dodatni zadaci > **Otklanjanje poteškoća**  >  **Sljedeće**.</span><span class="sxs-lookup"><span data-stu-id="c15e7-108">Go to the Additional Tasks page > **Troubleshoot** > **Next**.</span></span>
 
-6. <span data-ttu-id="e5a8f-109">U glavnom izborniku odaberite **Otklanjanje poteškoća sa sinkronizacijom lozinki**.</span><span class="sxs-lookup"><span data-stu-id="e5a8f-109">In the main menu, select **Troubleshoot Password Synchronization**.</span></span>
+5. <span data-ttu-id="c15e7-109">Odaberite **Pokreni** da biste otvorili izbornik za otklanjanje poteškoća sa ljuskom PowerShell.</span><span class="sxs-lookup"><span data-stu-id="c15e7-109">Select **Launch** to open the PowerShell troubleshooting menu.</span></span>
 
-7. <span data-ttu-id="e5a8f-110">U podizborniku odaberite **Sinkronizacija lozinki uopće ne funkcionira**.</span><span class="sxs-lookup"><span data-stu-id="e5a8f-110">In the sub menu, select **Password Synchronization does not work at all**.</span></span>
+6. <span data-ttu-id="c15e7-110">Odaberite **Otklanjanje poteškoća sa sinkronizacijom lozinke**.</span><span class="sxs-lookup"><span data-stu-id="c15e7-110">Select **Troubleshoot Password Synchronization**.</span></span>
 
-<span data-ttu-id="e5a8f-111">**Objašnjenje rezultata zadatka otklanjanja poteškoća**</span><span class="sxs-lookup"><span data-stu-id="e5a8f-111">**Understand the results of the troubleshooting task**</span></span>
-  
-<span data-ttu-id="e5a8f-112">Zadatak otklanjanja poteškoća izvodi sljedeće provjere:</span><span class="sxs-lookup"><span data-stu-id="e5a8f-112">The troubleshooting task performs the following checks:</span></span>
-  
-- <span data-ttu-id="e5a8f-113">Provjerava je li značajka sinkronizacije lozinke omogućena za klijenta Azure AD-a.</span><span class="sxs-lookup"><span data-stu-id="e5a8f-113">Validates that the password synchronization feature is enabled for your Azure AD tenant.</span></span>
+    <span data-ttu-id="c15e7-111">Problem je obično u tome što lozinka nije sinkronizirana za određeni korisnički račun.</span><span class="sxs-lookup"><span data-stu-id="c15e7-111">The issue is usually that a password is not synchronized for a specific user account.</span></span>
 
-- <span data-ttu-id="e5a8f-114">Provjerava je li poslužitelj Azure AD Connect u pripremnom načinu rada.</span><span class="sxs-lookup"><span data-stu-id="e5a8f-114">Validates that the Azure AD Connect server is not in staging mode.</span></span>
+    <span data-ttu-id="c15e7-112">**Bilješke** Sinkronizacija lozinkom ne uspijeva ako je posljednja uspješna sinkronizacija lozinke bila prije nekog vremena.</span><span class="sxs-lookup"><span data-stu-id="c15e7-112">**Notes** Password synchronization fails if the last successful password sync was some time ago.</span></span>
 
-- <span data-ttu-id="e5a8f-115">Za svaki postojeći lokalni konektor servisa Active Directory (koji odgovara postojećoj šumi servisa Active Directory):</span><span class="sxs-lookup"><span data-stu-id="e5a8f-115">For each existing on-premises Active Directory connector (which corresponds to an existing Active Directory forest):</span></span>
-
-- 
-  - <span data-ttu-id="e5a8f-116">Provjerava je li omogućena značajka sinkronizacije lozinke.</span><span class="sxs-lookup"><span data-stu-id="e5a8f-116">Validates that the password synchronization feature is enabled.</span></span>
-
-  - <span data-ttu-id="e5a8f-117">Traži događaje zapisnika zapisnika zapisnika sinkronizacije lozinkom u zapisnicima događaja aplikacije sustava Windows.</span><span class="sxs-lookup"><span data-stu-id="e5a8f-117">Searches for password synchronization heartbeat events in the Windows Application Event logs.</span></span>
-
-  - <span data-ttu-id="e5a8f-118">Za svaku domenu servisa Active Directory pod lokalnim povezom servisa Active Directory:</span><span class="sxs-lookup"><span data-stu-id="e5a8f-118">For each Active Directory domain under the on-premises Active Directory connector:</span></span>
-
-  - <span data-ttu-id="e5a8f-119">Provjerava je li domena dostupna s poslužitelja Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="e5a8f-119">Validates that the domain is reachable from the Azure AD Connect server.</span></span>
-
-  - <span data-ttu-id="e5a8f-120">Provjerava ima li računi servisa Active Directory Domain Services (AD DS) koje koristi lokalni poveznik servisa Active Directory ispravno korisničko ime, lozinku i dozvole potrebne za sinkronizaciju lozinki.</span><span class="sxs-lookup"><span data-stu-id="e5a8f-120">Validates that the Active Directory Domain Services (AD DS) accounts used by the on-premises Active Directory connector has the correct username, password, and permissions required for password synchronization.</span></span>
-
-<span data-ttu-id="e5a8f-121">Dodatne informacije o otklanjanju poteškoća pri sinkronizaciji lozinki [potražite u članku Otklanjanje poteškoća sa sinkronizacijom lozinke pomoću sinkronizacije usluge Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span><span class="sxs-lookup"><span data-stu-id="e5a8f-121">For more help troubleshooting password sync, see [Troubleshoot password synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span></span>
-  
+<span data-ttu-id="c15e7-113">Dodatna pomoć za otklanjanje poteškoća sa sinkronizacijom [lozinkom potražite u članku Otklanjanje poteškoća sa sinkronizacijom raspršilim lozinkom sa sinkronizacijom azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).</span><span class="sxs-lookup"><span data-stu-id="c15e7-113">For more help troubleshooting password synchronization, see [Troubleshoot password hash synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).</span></span>
