@@ -2,8 +2,8 @@
 title: Kada se generira izvadak o naplati?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510384"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431209"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="bd9f2-102">Kada se generira obračunsko izvješće</span><span class="sxs-lookup"><span data-stu-id="bd9f2-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="ee951-102">Kada se generira obračunsko izvješće</span><span class="sxs-lookup"><span data-stu-id="ee951-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="bd9f2-103">Svaki mjesec primit ćete poruku e-pošte koja vas obavještava da je nova izjava o naplati dostupna u centru za administratore sustava Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="bd9f2-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="bd9f2-104">Faktura sadrži dvije stranice.</span><span class="sxs-lookup"><span data-stu-id="bd9f2-104">Your invoice contains two pages.</span></span> <span data-ttu-id="bd9f2-105">Stranica 1 je sažetak fakture i sadrži opće informacije o fakturi, nalogu, dospjelom iznosu, načinu plaćanja i načinu kontaktiranja podrške.</span><span class="sxs-lookup"><span data-stu-id="bd9f2-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="bd9f2-106">Stranica 2 sadrži pojedinosti o aktivnosti naplate za svaku pretplatu.</span><span class="sxs-lookup"><span data-stu-id="bd9f2-106">Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="ee951-103">Datum izvatka postavljen je na dan u mjesecu nakon izrade računa.</span><span class="sxs-lookup"><span data-stu-id="ee951-103">Your statement date is set to the day of month after your account was created.</span></span> <span data-ttu-id="ee951-104">Na primjer, ako ste račun izradili 20.</span><span class="sxs-lookup"><span data-stu-id="ee951-104">For example, if you created your account on the 20th of January, your statement date is set to the 21st for each subsequent month.</span></span>
+
+<span data-ttu-id="ee951-105">Dodatni troškovi koji se pojavljuju tijekom aktivnog ciklusa naplate uključeni su u fakturu za sljedeći mjesec.</span><span class="sxs-lookup"><span data-stu-id="ee951-105">Additional charges that occur during an active billing cycle are included in the invoice for the following month.</span></span> <span data-ttu-id="ee951-106">Datumi početka i završetka ciklusa naplate za svaku fakturu navedeni su u **sažetku naplate** fakture.</span><span class="sxs-lookup"><span data-stu-id="ee951-106">The billing cycle start and end dates for each invoice are listed in the **Billing Summary** of the invoice.</span></span>
+
+<span data-ttu-id="ee951-107">Plaćanja kreditnom karticom i/ili bankovnim računom (ako je primjenjivo) vrednuju se dan nakon **datuma fakture**.</span><span class="sxs-lookup"><span data-stu-id="ee951-107">Credit card and/or bank account (where applicable) payments are settled the day after the **Invoice Date**.</span></span>
   
-<span data-ttu-id="bd9f2-107">Dodatne informacije o konceptima naplate potražite [u odjeljku Objašnjenje fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="bd9f2-107">To learn more about billing concepts, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
+<span data-ttu-id="ee951-108">Dodatne informacije [potražite u odjeljku Objašnjenje fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="ee951-108">To learn more, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
