@@ -1,5 +1,5 @@
 ---
-title: Dodjela ili uklanjanje korisničkih licenci
+title: Dodjela i uklanjanje korisničkih licenci
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 95a2dea28c951fbec3c4818ceb48e7d4e5cbb0e3
+ms.sourcegitcommit: 409cb0b2f43dad077d812b3459cd39ad00c17754
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506363"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46603402"
 ---
-# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="4fb57-102">Dodjela ili uklanjanje korisničkih licenci</span><span class="sxs-lookup"><span data-stu-id="4fb57-102">Assign or remove users' licenses</span></span>
+# <a name="assign-or-remove-user-licenses"></a><span data-ttu-id="40442-102">Dodjela i uklanjanje korisničkih licenci</span><span class="sxs-lookup"><span data-stu-id="40442-102">Assign or remove user licenses</span></span>
 
-<span data-ttu-id="4fb57-103">Kao administrator možete prilagoditi licence korisnika prema potrebi.</span><span class="sxs-lookup"><span data-stu-id="4fb57-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="4fb57-104">U člancima u nastavku prikazat će se kako upravljati licencama korisnika, uključujući:</span><span class="sxs-lookup"><span data-stu-id="4fb57-104">The articles below will show you how to manage your users' licenses, including:</span></span>
+<span data-ttu-id="40442-103">Kao administrator možete po potrebi prilagoditi licence korisnika.</span><span class="sxs-lookup"><span data-stu-id="40442-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="40442-104">U ovim se člancima prikazuje kako upravljati korisničkim licencama:</span><span class="sxs-lookup"><span data-stu-id="40442-104">These articles show you how to manage your user licenses:</span></span>
   
-- [<span data-ttu-id="4fb57-105">Dodjela licenci korisnicima u sustavu Microsoft 365 za tvrtke</span><span class="sxs-lookup"><span data-stu-id="4fb57-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="40442-105">Dodjela licenci korisnicima u programu Microsoft 365 za tvrtke</span><span class="sxs-lookup"><span data-stu-id="40442-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
-- [<span data-ttu-id="4fb57-106">Poništavanje dodjele licenci od korisnika u programu Microsoft 365 za tvrtke</span><span class="sxs-lookup"><span data-stu-id="4fb57-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [<span data-ttu-id="40442-106">Poništavanje dodjele licenci korisnika u programu Microsoft 365 za tvrtke</span><span class="sxs-lookup"><span data-stu-id="40442-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 
-<span data-ttu-id="4fb57-107">Nisi odgovorio na tvoje pitanje?</span><span class="sxs-lookup"><span data-stu-id="4fb57-107">Didn't answer your question?</span></span> <span data-ttu-id="4fb57-108">Nema frke!</span><span class="sxs-lookup"><span data-stu-id="4fb57-108">No problem!</span></span> <span data-ttu-id="4fb57-109">Pomoću gumba "Potrebna pomoć" razgovarajte s inženjerom za podršku.</span><span class="sxs-lookup"><span data-stu-id="4fb57-109">Use the "Need help" button to talk to a support engineer.</span></span>
+<span data-ttu-id="40442-107">Niste odgovorili na pitanje?</span><span class="sxs-lookup"><span data-stu-id="40442-107">Didn't answer your question?</span></span> <span data-ttu-id="40442-108">Nema frke!</span><span class="sxs-lookup"><span data-stu-id="40442-108">No problem!</span></span> <span data-ttu-id="40442-109">Pomoću gumba "potrebna pomoć" možete razgovarati s inženjerom podrške.</span><span class="sxs-lookup"><span data-stu-id="40442-109">Use the "Need help" button to talk to a support engineer.</span></span>
