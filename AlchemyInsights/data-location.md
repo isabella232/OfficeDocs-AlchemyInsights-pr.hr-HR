@@ -1,5 +1,5 @@
 ---
-title: Lokacija podataka
+title: Mjesto podataka
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,27 +10,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 571c82d47bea7ca34a204ddd6fc89b7657808a23
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655274"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665490"
 ---
-# <a name="data-location"></a>Lokacija podataka
+# <a name="data-location"></a>Mjesto podataka
 
-Lokaciju klijenta možete vidjeti u centru za administratore ili povezivanjem sa sustavom Exchange Online putem komponente PowerShell.
+Mjesto svog stanara možete pogledati u centru za administratore tako da dođete do [stranice **profila tvrtke ili ustanove** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) i odaberete **mjesto podataka**.
 
-
-**Centar za administratore:**
-1. Prijavite se u centar za [administratore](https://admin.microsoft.com/Adminportal/Home).
-2. Odaberite**Profil organizacije** **postavki** > .
-3. U **odjeljku Lokacija podataka**odaberite **Prikaz pojedinosti**.
-
-
-**Powershell:**
-1. Povežite se sa sustavom Exchange Online pomoću komponente Windows PowerShell.
-2. Izvršite cmdlet [Get-OrganizationUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) da biste prikazali popis svojstava klijenta. 
-3. Pogledaj vlasništvo OrganizationId.
-
-Kada imate lokaciju podataka za EXO i SPO, možete odrediti lokaciju podataka za druge usluge koje možete koristiti iz [mjesta gdje se nalaze vaši podaci](https://products.office.com/where-is-your-data-located).
+Aplikacije na koje niste pretplaćeni potražite u članku [gdje se pohranjuju podaci o klijentu tvrtke Microsoft 365](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
