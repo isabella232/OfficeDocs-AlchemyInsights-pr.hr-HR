@@ -1,7 +1,7 @@
 ---
-title: Mogućnosti zajedničkog korištenja izgledaju slabo ili nisu dostupne
-ms.author: v-todmc
-author: todmccoy
+title: Mogućnosti zajedničkog korištenja prikazuju se kao zatamnjeni ili nisu dostupni
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: e4aebd8ffaa1169cb27dcf551f72ab7bc7b1210d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 905c8f103acdb1f57dd0a1dd941841622220e93a
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758566"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787385"
 ---
-# <a name="sharing-options-appear-dim-or-are-not-available"></a><span data-ttu-id="2ca5c-102">Mogućnosti zajedničkog korištenja pojavljuju se slabo ili nisu dostupne</span><span class="sxs-lookup"><span data-stu-id="2ca5c-102">Sharing Options Appear Dim or are Not Available</span></span>
+# <a name="sharing-options-appear-dim-or-are-not-available"></a><span data-ttu-id="0e4b7-102">Mogućnosti zajedničkog korištenja prikazuju se kao prigušeno ili nisu dostupne</span><span class="sxs-lookup"><span data-stu-id="0e4b7-102">Sharing Options Appear Dim or are Not Available</span></span>
 
-<span data-ttu-id="2ca5c-103">Ako neke mogućnosti zajedničkog korištenja ili nisu dostupne prilikom pokušaja zajedničkog korištenja sa sustava SharePoint Online ili Servisa OneDrive, pročitajte u članku [Mogućnosti zajedničkog korištenja zasivljene su prilikom zajedničkog korištenja sa servisa SharePoint Online ili OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span><span class="sxs-lookup"><span data-stu-id="2ca5c-103">If some sharing options or are not available when attempting to share from SharePoint Online or OneDrive, see [Sharing options are greyed out when sharing from SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span></span>
+<span data-ttu-id="0e4b7-103">Ako neke mogućnosti zajedničkog korištenja ili nisu dostupne prilikom pokušaja zajedničkog korištenja sa sustava SharePoint Online ili servisa OneDrive, pročitajte članak [mogućnosti zajedničkog korištenja u sustavu SharePoint Online ili OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span><span class="sxs-lookup"><span data-stu-id="0e4b7-103">If some sharing options or are not available when attempting to share from SharePoint Online or OneDrive, see [Sharing options are greyed out when sharing from SharePoint Online or OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive).</span></span>

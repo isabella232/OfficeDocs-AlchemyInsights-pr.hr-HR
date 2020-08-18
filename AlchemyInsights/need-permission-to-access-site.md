@@ -1,7 +1,7 @@
 ---
-title: Potrebna je dozvola za pristup web-mjestu
-ms.author: v-todmc
-author: todmccoy
+title: Potrebna vam je dozvola za pristup web-mjestu
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: b8043dfff5ac85566135753ce9f44855f81357fd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: dd736884922a299a10523a5aa6c17feed35b29fb
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761914"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787421"
 ---
-# <a name="you-need-permission-to-access-this-site"></a><span data-ttu-id="06007-102">Potrebna vam je dozvola za pristup ovom web-mjestu</span><span class="sxs-lookup"><span data-stu-id="06007-102">You Need Permission to Access This Site</span></span>
+# <a name="you-need-permission-to-access-this-site"></a><span data-ttu-id="2fc08-102">Potrebna vam je dozvola za pristup ovom web-mjestu</span><span class="sxs-lookup"><span data-stu-id="2fc08-102">You Need Permission to Access This Site</span></span>
 
-[<span data-ttu-id="06007-103">Pogreške "Pristup je odbijen", "Potrebna vam je dozvola za pristup ovom web-mjestu" ili "Korisnik nije pronađen u direktoriju" u sustavima SharePoint Online i OneDrive za tvrtke</span><span class="sxs-lookup"><span data-stu-id="06007-103">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+[<span data-ttu-id="2fc08-103">"Pristup je odbijen", "potrebna vam je dozvola za pristup ovom web-mjestu" ili "korisnik nije pronađen u imeniku" pogreške u sustavu SharePoint online i OneDrive za tvrtke</span><span class="sxs-lookup"><span data-stu-id="2fc08-103">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
