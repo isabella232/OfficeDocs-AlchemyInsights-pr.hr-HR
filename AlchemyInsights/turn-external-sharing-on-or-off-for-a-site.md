@@ -1,5 +1,5 @@
 ---
-title: Uključivanje i isključivanje vanjskog zajedničkog korištenja za web-mjesto
+title: Uključivanje i isključivanje vanjskog zajedničkog korištenja za web-mjesto sustava SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 733f470e606bb6bf4b4efbfa863b1258699fc311
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 501f41d458a863dc542520ccfbb7322913d4fdfc
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912922"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785729"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Uključivanje i isključivanje vanjskog zajedničkog korištenja za web-mjesto sustava SharePoint
 
 Za web-mjesto:
   
-1. U novom centru za administratore sustava SharePoint u lijevom oknu kliknite **web-mjesta**.
+1. U novom centru za administratore sustava SharePoint u desnom oknu kliknite **web-mjesta**.
     
-2. Odaberite web-mjesto ili web-mjesto, a zatim na vrpci kliknite **Zajedničko korištenje**.
+2. Odaberite web-mjesto ili web-mjesta, a zatim na vrpci kliknite **zajedničko korištenje**.
     
-Prema zadanim postavkama, nova web-mjesta koja korisnici stvaraju (oba timska web-mjesta koja pripadaju microsoft 365 grupama i komunikacijskim web-mjestima) imaju istu postavku zajedničkog korištenja kao i postavka na razini organizacije, osim ako postavka na razini organizacije dopušta zajedničko korištenje datoteka pomoću veza koje ne zahtijevaju prijavu. U tom slučaju web-mjesta omogućuju zajedničko korištenje s novim i postojećim vanjskim korisnicima koji se prijavljuju. Da biste promijenili postavku za određena web-mjesta, koristite novi centar za administratore sustava SharePoint.
+Prema zadanim postavkama, nova web-mjesta koja korisnici stvaraju (oba timska web-mjesta koja pripadaju grupama Microsoft 365 i komunikacijskih web-mjesta) imaju istu postavku zajedničkog korištenja kao i vašu postavku, osim ako postavka na razini tvrtke ili ustanove ne dopušta zajedničko korištenje datoteka pomoću veza koje ne zahtijevaju prijavu. U ovom slučaju web-mjesta omogućuju zajedničko korištenje s novim i postojećim vanjskim korisnicima koji se prijavljuju. Da biste promijenili postavku za određena web-mjesta, koristite novi centar za administratore sustava SharePoint.
   
 > [!NOTE]
-> Postavka vanjskog zajedničkog korištenja za bilo koje web-mjesto može biti restriktivnija od postavke na razini tvrtke ili ustanove, ali ne i popustljivija od postavke na razini organizacije. 
+> Postavka vanjskog zajedničkog korištenja za bilo koje web-mjesto može biti restriktivniji od postavke za cijelu tvrtku ili ustanovu, ali ne i više nego što je postavka u cijelom tvrtki ili ustanovi. 
   
 
