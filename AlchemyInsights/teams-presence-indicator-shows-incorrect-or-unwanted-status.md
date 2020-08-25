@@ -1,0 +1,31 @@
+---
+title: Pokazatelji prisutnosti timova ukazuju na neispravno ili neželjen status
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 08/20/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9003301"
+- "6205"
+ms.openlocfilehash: feccc165dd4cdaea4b4bec7b19b6e3909c5ab5c1
+ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
+ms.translationtype: MT
+ms.contentlocale: hr-HR
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46871624"
+---
+# <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Pokazatelji prisutnosti timova ukazuju na neispravno ili neželjen status
+
+Timovi automatski postavljaju status na temelju:
+
+- Aktivnost na računalu ili u timovima Mobile.
+- Postavke sastanaka i automatskih odgovora u programu Outlook.
+
+Dodatne informacije potražite u članku [prisutnost korisnika u timovima](https://docs.microsoft.com/microsoftteams/presence-admins).  
+
+Možete, međutim, postaviti status timova koji nadjačava ove postavke tako da odaberete postojeći status i odaberete neku drugu. Pojedinosti potražite u članku [Promjena statusa u timovima](https://support.microsoft.com/office/change-your-status-in-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e).
