@@ -2,7 +2,7 @@
 title: Podaci o fakturi i plaćanju
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 650a74eef9e2e2051c99e78b8ec1c7e8a35d3048
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c9716c4da16f085aabe5124a6ea36bd812fe7e6b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579965"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364759"
 ---
 # <a name="invoice-and-payment-information"></a>Podaci o fakturi i plaćanju
 
 **Plaćanja**
 
-Kada kupite pretplatu na Microsoft 365 za tvrtke izravno od Microsofta, možete platiti kreditnom ili debitnom karticom.  U nekim državama/regijama možete platiti i bankovnim računom.  Te načine plaćanja možete naučiti i otkloniti ih iz [odjeljka Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili drugog načina plaćanja za Microsoft 365 for Business](https://go.microsoft.com/fwlink/?linkid=2118133).  To uključuje rješavanje problema kada je vaša kreditna kartica odbijena i ažuriranje podataka o plaćanju.
+Kada kupite pretplatu na Microsoft 365 za tvrtke izravno od Microsofta, možete platiti kreditnom ili debitnom karticom.  U nekim državama/regijama možete platiti i bankovnim računom.  Možete naučiti upravljati tim načinima plaćanja pomoću [mogućnosti Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). To obuhvaća rješavanje problema kada vam je kreditna kartica odbijena i ažurira informacije o plaćanju.
 
 **Faktura/račun**
 
-Fakture možete pronaći i preuzeti na stranici ** [Naplatni > Računi & plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=848039) **  
+Možete pronaći i preuzeti svoje fakture na računima za **naplatu**  >  [&](https://go.microsoft.com/fwlink/p/?linkid=848039) stranici za plaćanje.  
 
-**Napomena**: Ako fakture nisu vidljive, možda ćete morati prilagoditi filtar datumskog raspona.  Prema zadanim postavkama prikazuju se posljednja 3 mjeseca faktura.
+**Pažnja**: ako nema vidljivih faktura, možda ćete morati prilagoditi filtar datumskog raspona.  Po zadanom se prikazuju Posljednja 3 mjeseca faktura.
 
-Fakture se kreiraju mjesečno ili godišnje, ovisno o učestalosti plaćanja odabranoj tijekom kupnje.  Ako plaćate godišnje, prilikom dodavanja ili uklanjanja licenci na pretplati možete dobiti račun na sredini razdoblja.
- 
-- Dodatne informacije [potražite u odjeljku Objašnjenje fakture za Microsoft 365 za tvrtke](https://go.microsoft.com/fwlink/?linkid=2119101).
+Fakture se stvaraju mjesečno ili godišnje, ovisno o frekvenciji za naplatu koju ste odabrali tijekom kupnje.  Ako plaćate godišnje, prilikom dodavanja ili uklanjanja licenci u pretplatu možete dobiti račun.
+
+- Dodatne informacije potražite u članku [razumijevanje fakture za Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

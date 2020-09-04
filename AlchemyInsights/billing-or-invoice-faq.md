@@ -14,21 +14,21 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: a3c7574de2cecdd69a30d4ca47c6f60eb5c81224
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: a8aaac45e7ea102ef34505c94644f5bd3feecbc8
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431173"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364615"
 ---
 # <a name="billing-or-invoice-faq"></a>Najčešća pitanja o naplati ili fakturi
 
 - Uplata se može **odbiti** zbog nekoliko razloga, uključujući istek roka valjanosti kreditne kartice. Za rješavanje tog problema pročitajte članak [Promjena načina plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
 - Ako je vaš račun **dospio**, upotrijebite značajku **Podmiri saldo ** da biste ponovno poslali uplatu. Za rješavanje tog problema pročitajte članak [Što ako je moje plaćanje dospjelo?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
-- I dalje vam se naplaćuju licence koje nisu dodijeljene korisnicima. Da biste spriječili nepotrebne troškove, uklonite licence da biste smanjili broj licenci. Pogledajte Dodavanje ili uklanjanje licenci iz [pretplate.](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)
+- I dalje se naplaćujete za licence koje nisu dodijeljene korisnicima. Da biste spriječili nepotrebne naknade, uklonite neiskorištene licence da biste smanjili broj licenci. Pročitajte članak [Dodavanje i uklanjanje licenci](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) iz pretplate.
 - Ako želite promijeniti **učestalost naplate** u mjesečnu ili godišnju, pročitajte članak [Promjena učestalosti naplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 - Ako vam je potrebna pomoć u vezi s računom, pročitajte članak [Objašnjenje fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
 - Ako vam je potrebna pomoć u vezi s **pregledavanjem** računa, pročitajte članak [Prikaz računa ili fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-- Ako želite promijeniti podatke za naplatu, pročitajte članak [Upravljanje profilom za naplatu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) ili [Promjena adrese za naplatu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+- Ako želite promijeniti podatke o naplati, pročitajte članak [Upravljanje profilom naplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) ili [Promjena adrese za naplatu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
-Dodatne informacije potražite [u odjeljku Objašnjenje fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Dodatne informacije potražite u članku [razumijevanje fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
