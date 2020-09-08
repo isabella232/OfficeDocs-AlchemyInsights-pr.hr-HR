@@ -1,5 +1,5 @@
 ---
-title: Microsoftova zaštita prijetnji
+title: Microsoftova zaštita prijetnje
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -9,19 +9,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 062dd51724ec6c36775f7f962241bac5807dd660
-ms.sourcegitcommit: ad8b990f0eb9274e68ef599e857ac6c452d3919a
+ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41277903"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406426"
 ---
-# <a name="microsoft-threat-protection"></a>Microsoftova zaštita prijetnji
+# <a name="microsoft-threat-protection"></a>Microsoftova zaštita prijetnje
 
-- [MTP pregled](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
+- [Pregled MTP-a](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
 - [Preduvjeti](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
-- [Preduvjeti licence](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [Kako omogućiti MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
-- [MTP otklanjanje poteškoća](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
+- [Preduvjeti za licenciranje](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
+- [Omogućivanje MTP-a](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [Otklanjanje poteškoća u MTP-u](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Kako provjeriti licenciranje: potrebno je dodijeliti ulogu administratora naplate ili globalne čitača u servisu Azure AD za prikaz licence. Idite u [centar za administraciju](https://admin.microsoft.com/) i prijeđite na **** > **licence** za naplatu da biste pogledali postojeće licence.
+Kako provjeriti licenciranje: u servisu Azure AD morate dodijeliti administratorsku naplatu ili ulogu globalne čitača da biste vidjeli licencu. Otvorite centar za [administratore](https://admin.microsoft.com/) i dođite do **Billing**  >  **licenci** za naplatu da biste prikazali postojeće licence.
