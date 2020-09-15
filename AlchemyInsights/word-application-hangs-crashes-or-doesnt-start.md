@@ -1,38 +1,39 @@
 ---
-title: Word – aplikacija se smrzne, ruši se ili se ne pokreće
+title: Word-Application objesiti, ruši se ili ne pokreće
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: e327df91f13cc2488e836f940a6f3a7915451558
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 2105984bd6a9b04762e7e9153120c8c394c0b599
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582623"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698818"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word se ruši ili ne reagira
 
-Česti pad sustava u programu Word može biti uzrokovan neispravnim dodatkom. Dodatke programa Word možete onemogućiti slijedeći ove upute:
+Česte nesreće u programu Word mogu prouzročiti neispravan dodatak. Dodatke programa Word možete onemogućiti tako da slijedite ove upute:
 
-1. Idite **File**na  >  **Dodaci mogućnosti**datoteka  >  **Add-ins**.
-2. Na popisu **Upravljanje** odaberite **COM dodaci**, a zatim **Idi**.
-3. U okviru **Dostupni dodaci poništite** potvrdni okvir pokraj dodatka koji želite onemogućiti, a zatim odaberite **U redu**.
+1. Idite na **File**  >  **Options**  >  **dodatke**mogućnosti datoteka.
+2. Na popisu **Upravljanje** odaberite **COM dodaci**, a zatim odaberite **Kreni**.
+3. U okviru **Dostupni dodaci** poništite potvrdni okvir uz dodatak koji želite onemogućiti, a zatim odaberite **u redu**.
 
 Ako se Word ne pokrene, pokušajte sljedeće:
 
-1.   Na radnoj površini sustava Windows zatvorite Outlook i pritisnite CTRL+ALT+DEL da biste otvorili Upravitelj zadataka. 
-2. Na kartici **Procesi,** ako su pokrenuti Procesi programa Word, odaberite ih i odaberite **Završi zadatak**. Također je preporučljivo da ponovno podizanje sustava za brisanje sve iz memorije.
+1.   Na stolnom računalu sa sustavom Windows Zatvori Outlook pa pritisnite CTRL + ALT + DEL da biste otvorili upravitelj zadataka. 
+2. Na kartici **procesi** ako su procesi programa Word pokrenut, odaberite ih, a zatim odaberite **Završi zadatak**. Preporučuje se i da ponovno pokrenete sustav da biste izbrisali sve iz memorije.
 
-    Ako se Word nastavi rušiti ili objesiti tijekom pokretanja, [pročitajte mogućnost Otvaranje aplikacija sustava Microsoft 365 u sigurnom načinu rada na Pc-ju sa sustavom Windows](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) da biste ga pokrenuli u sigurnom načinu rada.
+    Ako se Word nastavi sudarati ili objesiti tijekom lansiranja, pročitajte članak [Otvaranje aplikacija Microsoft 365 u sigurnom načinu rada na PC-ju sa sustavom Windows](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) da biste ga pokrenuli u sigurnom načinu rada.
 
-Ako i dalje imate problema, pogledajte sljedeće članke: 
-- [Prilikom pokretanja aplikacija sustava Office na PC-ju pojavljuje se pogreška "prestao je funkcionirati"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Popravci ili zaobilazna rješenja za nedavne probleme u programu Word za Windows](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)
+Ako i dalje nailazite na probleme, pročitajte sljedeće članke: 
+- [Kada pokrenem aplikacije sustava Office na PC-ju, pojavljuje se pogreška "zaustavljen rad"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [Popravci i zaobilazna rješenja za nedavne probleme u programu Word za Windows](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)

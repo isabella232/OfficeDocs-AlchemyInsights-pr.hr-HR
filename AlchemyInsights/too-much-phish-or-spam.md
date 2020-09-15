@@ -1,25 +1,26 @@
 ---
-title: 665 primate li previše Phish ili spam u svom poštanskom sandučiću?
+title: 665 primate li previše Phish ili neželjene pošte u poštanskom sandučiću?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
-ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
+ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911623"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700231"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Primate li previše Phish ili spam u svoj poštanski sandučić?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Primate li previše Phish ili spam u poštanskom sandučiću?
 
-Kao Microsoft 365 admin, najbolji način da se utvrdi zašto phishing ili spam poruka je isporučen uzorak Microsoftu u da [Explorer](https://protection.office.com/reportsubmission). Odmah ćete dobiti povratne informacije vezane uz filtriranje poruka i zašto postoje problemi.
+Kao administrator Microsoft 365, najbolji način za određivanje razloga isporuke krađe identiteta ili neželjene pošte jest slanje uzorka Microsoftu u [eksploreru](https://protection.office.com/reportsubmission)za podnošenje poruka. Odmah ćete dobiti povratne informacije vezane uz filtriranje poruka i zašto postoje problemi.
 
-Da biste ga pojednostavili, možete dopustiti korisnicima da izravno izvješćuju Microsoft putem [dodatka za prijavu poruka](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Da biste ga pojednostavili, korisnicima možete dopustiti izvješće izravno Microsoftu putem [dodatka izvješće o poruci](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-**Jesi li znao?**: sada možete slati uzorke izravno iz [praćenja poruka](https://protection.office.com/messagetrace) i u programu E5/ATP plan 2 klijenti mogu slati uzorke iz [Explorera prijetnji](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Jeste li znali?**: sada možete poslati uzorke izravno iz [praćenja poruke](https://protection.office.com/messagetrace) i E5/ATP tarife 2 korisnici mogu poslati uzorke iz [eksplorera za prijetnje](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
