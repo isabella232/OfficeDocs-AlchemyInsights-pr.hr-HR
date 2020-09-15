@@ -1,27 +1,28 @@
 ---
-title: Generiranje automatskih opisa i transkripta u programu Microsoft Stream
+title: Generiranje automatskih opisa i prijepisa u programu Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: 2be38095a627c03cdf85f4d00f31c61491198068
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42408956"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707775"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generiranje automatskih opisa i transkripta u programu Microsoft Stream
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Generiranje automatskih opisa i prijepisa u programu Microsoft Stream
 
-Stream može automatski generirati opise pomoću tehnologije automatskog prepoznavanja govora, a možete pregledati prozor za prekripciju za pomicanje da biste se jednostavno kretali i pratili uz izgovoreni sadržaj videozapisa.
+Strujanje može automatski generirati opise pomoću automatske tehnologije prepoznavanja govora, a možete i pregledavati prozor pomicanja transkripta da biste se jednostavno navigirali i pratili uz govorni sadržaj videozapisa.
 
-- [Generiranje automatskih opisa i transkripta za videozapise microsoft streama](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Generiranje automatskih opisa i transkript za videozapise programa Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Prikaz prozora za prekripciju pomicanja videozapisa u programu Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Prikaz pomicanja prijepisa u videozapisu u programu Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
