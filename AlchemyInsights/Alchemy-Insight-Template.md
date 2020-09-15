@@ -1,40 +1,41 @@
 ---
-title: rečeni kao ime datoteke je najbolji
+title: isto kao što je naziv datoteke najbolji
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
-ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
+ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/16/2020
-ms.locfileid: "44750962"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664126"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Obavezno Alkemija Zaglavlje H1, H2 ne rade."
-Najbolje prakse i smjernice za autorstvo alkemije:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Required"
+Najbolje prakse i smjernice za autorizaciju:
 
-1. **Nemojte gnijezditi Alkemijske uvide u mape**- to će slomiti strukturu URL-a. Istražujemo popravljanje ovoga.
-1. Datoteke u mapi **AlchemyInsights** trebale bi imati mala imena datoteka s crticama za razmake ex. ***kako-to- ovlastiti- sudska prijava- održavati se.***
-    1. U polje ms.custom uključite ID pravila ili ID kante s [portala Alkemije](https://alchemyportal.azurewebsites.net) partnera. Ex. ***ms.custom: 100021***
-1. Kao predložak koristite ostale metapodatke pri vrhu ove datoteke.
-1. Na [portalu Alkemijskih partnera](https://alchemyportal.azurewebsites.net)idite do odjeljka **Naslov uvida korisnika:** i upotrijebite je kao početnu točku za naslov H1 za uvid. 
+1. **Ne gnijezdite uvide u mapama u mapi**-to će prekinuti strukturu URL-a. Traћimo da popravimo ovo.
+1. Datoteke u mapi **alfihuspoznaje** trebale bi imati slova s malim slovima s crtima za Spaces ex. ***Kako-to-ovlastiti-spor-čekanje***.
+    1. [U polje](https://alchemyportal.azurewebsites.net) MS. Custom unesite ID pravila ili ID narudžbe. primjerice. ***MS. Custom: 100021***
+1. Koristite ostale metapodatke pri vrhu ove datoteke u obliku predloška.
+1. Na [portalu za partnere Alsimija](https://alchemyportal.azurewebsites.net)pomaknite se prema dolje do odjeljka **naslov korisničkog privida:** i koristite ga kao početnu točku za svoj H1 Title za uvid. 
     > [!NOTE]
-    > Alkemija Insights mora imati samo jedan H1 na vrhu ili će razbiti u proizvodnji. H2s ne čine bilo tako koristiti **podebljano** ili druge konvencije za označavanje zasebnih sekcija.
-1. Zatim ispunite tekst tijela pomoću nacrta materijala u odjeljku Customer Insights na stranici Pravilo alkemije
+    > Alimija uvide mora imati samo jedan H1 na vrhu ili će se probiti u proizvodnji. H2s ne prikazirajte tako da koristite **podebljano** ili druge konvencije da biste označili odvojene sekcije.
+1. Zatim unesite tekst tijela pomoću skice materijala u odjeljku statistika korisnika na stranici pravila Alfala
     1. Popisi s grafičkim oznakama su u redu
     1. Numerirani popisi previše
-    1. **Podebljano** i *kurziv* su-ok
-    1. Linkovi bi uvijek trebali biti **"linkovi na web"/vanjski** ili **duboke veze na elemente korisničkog sučelja,** a ne interne veze.
-    1. Slike trenutno nisu službeno podržane, ali su na planu.
+    1. **Podebljano** i *kurziv* su-u redu
+    1. Veze uvijek moraju biti **"veze na web"/vanjske** ili **duboke veze na elemente korisničkog sučelja**, a ne interne veze.
+    1. Slike trenutno nisu podržane, ali se nalaze na putokaz.
 
-A ovo je već malo predugo. Najbolja praksa je oko 400 znakova ---------------------------------
+I ovo je već već malo predugačko. Najbolja praksa iznosi oko 400 znakova---------------------------------
 
-Nakon što je vaš sadržaj spreman, povucite ga na živu granu. Zatim idite na [portal Alchemy Partner](https://alchemyportal.azurewebsites.net) i unesite naziv datoteke u polje URL-a. 
+Kada sadržaj bude spreman, povucite ga u Live Branch. Zatim otvorite [portal za partnere Alfimije](https://alchemyportal.azurewebsites.net) i unesite naziv datoteke u polje URL. 

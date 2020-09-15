@@ -1,26 +1,27 @@
 ---
-title: Nedavna izloženost podacima
+title: Nedavna ekspozicija podataka
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: 21d34bb8a1c2139cdc4ccbdda62a07c65b6b0a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724906"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693223"
 ---
-# <a name="recent-data-exposure"></a>Nedavna izloženost podacima
+# <a name="recent-data-exposure"></a>Nedavna ekspozicija podataka
 
-Microsoft je bio svjestan istraživača treće strane da je baza podataka u kojoj se nalazi redigirala microsoftova podrška dostupna bez provjere autentičnosti. Prosinca 31, 2019 Microsoft je osigurao bazu podataka.
+Microsoft je primijetio neki drugi istraživač da je baza podataka koja je hostirana za Microsoftove podrške dostupna bez provjere autentičnosti. 31. prosinca 2019, Microsoft je osigurao bazu podataka.
 
-Predani smo privatnosti i sigurnosti naših kupaca i poduzimamo mjere kako bismo spriječili buduća pojavljivanja ovog problema. Počeli smo primati obavijesti korisnicima čiji su podaci bili prisutni u ovoj redigirane baze podataka. Za više informacija, molimo idite na [Informacije o svjesnosti korisnika vezane uz nedavnu izloženost informacijama](https://aka.ms/privacyinfo).
+Predani smo zaštiti privatnosti i sigurnosti naših kupaca te poduzimamo akcije radi sprječavanja budućih pojava tog problema. Započeli smo s obavijestima kupcima čiji su podaci prisutni u ovoj redacted bazi podataka. Dodatne informacije potražite u članku [informacije o svijesti korisnika koje se odnose na nedavne ekspozicije informacija](https://aka.ms/privacyinfo).

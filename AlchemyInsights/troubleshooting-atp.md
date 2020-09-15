@@ -1,34 +1,35 @@
 ---
-title: Otklanjanje poteškoća sa sustavom Office 365 Advanced Threat Protection
+title: Otklanjanje poteškoća sa sustavom Office 365 Napredno zaštita od prijetnje
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512582"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658906"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Otklanjanje poteškoća sa sustavom Office 365 Advanced Threat Protection
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Otklanjanje poteškoća sa sustavom Office 365 Napredno zaštita od prijetnje
 
-- Primjećujete li kašnjenja u isporuci poruka? Koristite mogućnost [Dinamička isporuka](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) u pravilima o sigurnoj privici ATP-a. Time ćete izbjeći kašnjenja poruka dok štitite primatelje od zlonamjernih datoteka.
+- Primjećujete li kašnjenje u isporuci poruke? Pomoću mogućnosti [dinamičke isporuke](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) u pravilima programa ATP siguran privici. Time će se izbjeći kašnjenje poruka dok se primatelji štite od zlonamjernih datoteka.
 
-- Želite li Microsoftu prijaviti lažne pozitivne ili lažne negativne negativne učinke? Koristite ovu [vezu](https://www.microsoft.com/wdsi/filesubmission/) za slanje datoteka na analizu.
+- Želite li Microsoftu prijaviti netočne ili FALSE negative? Upotrijebite ovu [vezu](https://www.microsoft.com/wdsi/filesubmission/) da biste poslali datoteke za analizu.
 
-- Jeste li znali da možete omogućiti zaštitu sigurnih veza za internu e-poštu poslanu između primatelja unutar vaše tvrtke ili ustanove? Slijedite ove korake:
+- Jeste li znali da možete omogućiti sigurnu vezu za zaštitu interne e-pošte poslane među primateljima unutar tvrtke ili ustanove? Slijedite ove korake:
 
-  1. Idite [https://protection.office.com](https://protection.office.com) na globalni administratorski ili administratorski račun i prijavite se.
+  1. Idite na [https://protection.office.com](https://protection.office.com) i prijavite se pomoću računa globalnog administratora ili sigurnosnog administratora.
 
-  2. U lijevom navigacijskom oknu u **odjeljku Upravljanje prijetnjama**odaberite **Policy** \> **Sigurne veze**pravila .
+  2. U lijevoj navigacijskom oknu u odjeljku **Upravljanje prijetnjama**odaberite **Policy** \> **sigurne veze**za pravilnik.
 
-  3. U odjeljku **Pravila koja se odnose na cijelu organizaciju** odaberite pravilo i kliknite **Uredi**.
+  3. U **pravilima koja se odnose na cijelu tvrtku ili ustanovu** odaberite pravilo, a zatim kliknite **Uredi**.
 
-  4. U **odjeljku Postavke** **omogućite Primijeni sigurne veze na poruke poslane unutar organizacije**.
+  4. U odjeljku **Postavke**omogućite **primjenu sigurnih veza na poruke poslane unutar tvrtke ili ustanove**.

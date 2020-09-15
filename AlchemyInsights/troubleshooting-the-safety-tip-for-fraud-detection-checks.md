@@ -1,33 +1,33 @@
 ---
-title: Otklanjanje poteškoća sa sigurnosnim savjetom za provjere otkrivanja prijevara
+title: Otklanjanje poteškoća s sigurnosnim vrhom za provjeru otkrivanja prijevara
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 74913492a086de688067d588e95dd87e6946743b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e42b498070bf5d9bfc36110667da8cc0fd431524
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44504975"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658402"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Otklanjanje poteškoća sa sigurnosnim savjetom za provjere otkrivanja prijevara
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Otklanjanje poteškoća s sigurnosnim vrhom za provjeru otkrivanja prijevara
 
-Ako ste uzimajući sigurnost savjet taj kaže " pošiljatelj nije ispunilo proročanstvo naš prijevara otkrivanje ček i možda ne biti tko oni pojaviti se biti", onda pošiljatelj nije ispunilo proročanstvo to dobar uspijeh oba DKIM ili SPF sigurnost ček. Najbolji način za rješavanje je za pošiljatelja da se ovlastiti. Ako pošiljatelj šalje u vaše ime, morate ih ovlastiti dodavanjem IP adrese pošiljatelja u vaš SPF zapis.
+Ako dobivate sigurnosnu dojavu na kojoj piše: "pošiljatelj nije uspeo da otkrije provjeru prijevara i možda neće biti ono što izgleda", onda Pošiljatelj nije prošao ni DKIM ni SPF provjere autentičnosti. Najbolji način za rješavanje toga jest da se pošiljatelj autorizira. Ako pošiljatelj šalje u vaše ime, morate ih odobriti dodavanjem IP adrese pošiljatelja u SPF zapis.
   
-Dodatne informacije [potražite u odjeljku Otklanjanje poteškoća s crvenom (sumnjivom) sigurnosnom šašamca.](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/)
+Dodatne informacije potražite [u članku Otklanjanje poteškoća s crvenim (sumnjivim) sigurnosnim vrhom za otkrivanje prijevare](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) .
   
-Evo nekih drugih veza koje vam mogu pomoći:
+Evo još nekih veza koje mogu pomoći:
   
-- [Kako Microsoft koristi okvir pravila pošiljatelja (SPF) za sprječavanje zavaravanja](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
+- [Kako Microsoft koristi okvir pravilnik o pošiljatelju (SPF) da bi spriječio zavaravanje](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
 
 - [Postavljanje SPF-a radi sprječavanja zavaravanja](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)

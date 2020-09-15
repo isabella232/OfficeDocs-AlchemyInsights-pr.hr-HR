@@ -1,32 +1,33 @@
 ---
-title: 2589 Sprječavanje privitaka winmail.dat u porukama e-pošte vaše tvrtke ili ustanove
+title: 2589 onemogućivanje privitaka programa Winmail. dat u porukama e-pošte tvrtke ili ustanove
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: 5336d4087e0a7579b68d6d97073726d020c89b47
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f67c4146af419a590651c8e0673fd59fabd7eae7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666733"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693727"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Sprječavanje winmail.dat privitaka u porukama e-pošte tvrtke ili ustanove
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Onemogućivanje privitaka programa Winmail. dat u porukama e-pošte tvrtke ili ustanove
 
-Kao administrator pokušajte sljedeće:
+Kao administrator isprobajte sljedeće korake:
 
 1. Otvorite [centar za administratore sustava Exchange](https://outlook.office365.com/ecp/).
 
-2. Idite na **Tijek** > pošte**Udaljene domene**.
+2. Idite na **Mail flow**  >  **udaljene domene**za tijek pošte.
 
-3. Odaberite zadanu udaljenu domenu pod nazivom **Zadano**, a zatim kliknite **Uredi**.
+3. Odaberite zadanu udaljenu domenu koja se zove **zadano**, a zatim kliknite **Uredi**.
 
-4. U odjeljku **Koristi oblik obogaćenog teksta** odaberite **Nikad**.
+4. U odjeljku **Korištenje oblika obogaćenog teksta** odaberite **nikada**.
 
-Dodatne informacije [potražite u odjeljku Određivanje oblika poruke za udaljene domene](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+Dodatne informacije potražite u članku [određivanje oblika poruke za udaljene domene](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).

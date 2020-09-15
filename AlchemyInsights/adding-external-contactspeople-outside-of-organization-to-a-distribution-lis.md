@@ -1,10 +1,11 @@
 ---
-title: 718 dodavanje vanjskih kontakata/osoba izvan organizacije na popis raspodjele
+title: 718 dodavanje vanjskih kontakata/osoba izvan tvrtke ili ustanove na popis za raspodjelu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: 57f8b5859a5a91b9ce83d7ca8da5330ac73413f9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e9860a3c061b17a8b2fc87caa40ede0dd5277346
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766631"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663469"
 ---
-# <a name="add-external-email-addresses-to-a-distribution-group"></a>Dodavanje vanjskih adresa e-pošte grupi raspodjele
+# <a name="add-external-email-addresses-to-a-distribution-group"></a>Dodavanje vanjskih adresa e-pošte u grupu za raspodjelu
 
-Prvo, morate stvoriti kontakt u svojoj organizaciji za vanjsku adresu e-pošte. Zatim možete dodati kontakt grupi raspodjele. Dodatne informacije potražite u okviru [dodavanja vanjskih korisnika u grupu raspodjele?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).
+Najprije morate stvoriti kontakt u tvrtki ili ustanovi za vanjsku adresu e-pošte. Zatim možete dodati kontakt u grupu za raspodjelu. Dodatne informacije potražite u članku [Dodavanje vanjskih korisnika u grupu za raspodjelu?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).
 
-Ako želite da vanjski korisnici mogu slati poruke u grupu raspodjele, provjerite je li grupa konfigurirana za prihvaćanje pošte od vanjskih pošiljatelja. Dodatne informacije potražite u okviru [upravljanja dostavom](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).
+Ako želite da vanjski korisnici mogu slati poruke u grupu za raspodjelu, provjerite je li grupa konfigurirana tako da prihvaća poštu od vanjskih pošiljatelja. Dodatne informacije potražite u članku [Upravljanje isporučom](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).

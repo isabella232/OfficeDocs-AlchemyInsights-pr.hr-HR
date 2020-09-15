@@ -1,45 +1,46 @@
 ---
-title: Otklanjanje poteškoća s prijavom uređaja sa sustavom Windows u Microsoft Intune
+title: Otklanjanje poteškoća s upisivanjem uređaja sa sustavom Windows u programu Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 13dc77fd2a575fbd227a2a880438b78aaa2c3fb2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36665824"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658870"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Otklanjanje poteškoća s prijavom uređaja sa sustavom Windows u Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Otklanjanje poteškoća s upisivanjem uređaja sa sustavom Windows u programu Microsoft Intune
 
-Pregledajte resurse navedene u nastavku da biste odmah riješili problem.
+Pregledajte navedene resurse da biste sada riješili problem.
   
-Neke uobičajene poruke o pogreškama i koraci razlučivosti:
+Neke česte poruke o pogreškama i koraci za rješavanje:
   
- **Softver se ne može instalirati, 0x80cf4017:** Certifikat računa je istekao. Ponovno preuzmite softverski paket PC Klijent u Intune Admin Console. Dodatne informacije potražite u ovoj dokumentaciji.
+ **Softver se ne može instalirati, 0x80cf4017:** Potvrda računa je istekla. Ponovno preuzmite računalni programski paket PC-ja u konzoli za administratore. Dodatne informacije potražite u dokumentaciji.
   
  **Kod pogreške 0x801c0003:** Pogreška se može pojaviti u sljedećim scenarijima:
   
--  Korisnik ima više uređaja upisanih od ograničenja uređaja. Pregledajte te dokumente da biste [uklonili uređaj](https://docs.microsoft.com/intune/devices-wipe) ili [promijenili ograničenje uređaja](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  Korisnik ima više uključenih uređaja od ograničenja uređaja. Pregledajte ove dokumente da biste [uklonili uređaj](https://docs.microsoft.com/intune/devices-wipe) ili [promijenili ograničenje uređaja](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
 
--  "Korisnici se mogu pridružiti uređajima azure AD" postavljeno je na "ništa". Postavite ga na sve ili odaberite korisnike. Dodatne informacije potražite [u ovoj dokumentaciji.](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)
+-  "Korisnici se mogu pridružiti uređajima za Azure AD" postavljen je na "none". Postavite ga na sve ili odaberite korisnike. Dodatne informacije potražite u [dokumentaciji](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) .
 
--  Uređaj je već upisao drugi korisnik. Ako je to slučaj, uklonite uređaj s konzole Azure Intune ili ručno odete uređaj prije ponovnog pokušaja.
+-  Uređaj je već upisao neki drugi korisnik. Ako je to slučaj, uklonite uređaj iz konzole Azure Intune ili ručno isključite uređaj prije ponovnog pokušaja.
 
--  Uređaj je Windows 10 Home. Samo SE JSK-ovi za Windows 10 Pro, Education i Enterprise mogu pridružiti servisu Azure Active Directory.
+-  Uređaj je Windows 10 home. Samo Windows 10 Pro, Education i Enterprise SKUs mogu se pridružiti Azure Active direktoriju.
 
-Dodatni resursi koji olakšavaju rješavanje problema:
+Dodatni resursi koji će vam olakšati rješavanje problema:
   
--  [Koristite Intune Portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili uobičajene pogreške u prijavi. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune/help-desk-operators) za više detalja.
+-  Koristite [portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili česte neuspjehe upisa. Dodatne pojedinosti potražite u [ovom dokumentu](https://docs.microsoft.com/intune/help-desk-operators) .
 
--  Pregledajte popis uobičajenih pogrešaka koje sprječavaju prijavu i rješenja u svaki: Vodič za [otklanjanje poteškoća](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) i Dokument za [otklanjanje poteškoća](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Pregledajte ove dokumente za popis uobičajenih pogrešaka koje sprječavaju upis i rezolucije na svaki: upute za [Otklanjanje poteškoća](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) i [Otklanjanje poteškoća s liječnikom](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
 
-[Saznajte kako prijaviti uređaje sa sustavom Windows u Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[Naučite kako upisati uređaje sa sustavom Windows u programu Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
