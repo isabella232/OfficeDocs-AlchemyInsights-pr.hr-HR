@@ -1,30 +1,31 @@
 ---
-title: AntiSpam 5.4.1 DBEB catch-all
+title: AntiSpam
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: ad0f4c691a5e06306dbb408f4d66a4e00609e4d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707903"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717353"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Rješavanje problema s isporukom za šifru pogreške 550 5.4.1 Pristup releju je odbijen
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Rješavanje problema s isporučenjem za kôd pogreške 550 je odbijen pristup za prijenos
 
-Taj se problem pojavljuje [prilikom provjere je li adresa e-pošte valjana da biste spriječili povrat e-pošte](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) prilikom unosa Microsoftove mreže. Pokušajte sljedeće:
+Taj se problem pojavljuje kada [Provjerite je li adresa e-pošte valjana da biste spriječili bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) prilikom ulaska u Microsoftovu mrežu. Pokušajte sljedeće:
 
-1. Odredite je li problem specifičan za cijelu domenu ili jednu adresu e-pošte:
-    - Cijela domena: ponekad je potrebno sinkronizirati domenu; pokušajte [postaviti domenu na Interno, a zatim se vratite na mjerodavno](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Jedna adresa e-pošte: ponekad se adresa mora sinkronizirati; mjenjanje smtp proksiji adresa i tada mjenjanje Internet leđa može pomoć.
-2. Odredite je li problem specifičan za grupu ili javnu mapu. Za neke vrste objekata objekte će možda morati ručno stvoriti u servisu Azure Active Directory.
+1. Određivanje je li problem specifičan za cijelu domenu ili jednu adresu e-pošte:
+    - Cijela domena: ponekad se domena mora sinkronizirati; Pokušajte [postaviti domenu na interno, a zatim natrag na autoritativno](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
+    - Jedna adresa e-pošte: ponekad adresa mora biti sinkronizirana; promjenom SMTP Proxy adrese, a zatim promjenom natrag, može pomoći.
+2. Određivanje je li problem specifičan za grupu ili javnu mapu. Za neke vrste objekata objekti će se možda morati ručno stvoriti u servisu Azure Active Directory.
 
-Ako vam je potrebna dodatna pomoć, otvorite ulaznicu za podršku i navedite opseg problema (uključujući vrstu objekta na koji šaljete) kako bismo vam mogli pomoći bolje.
+Ako vam je potrebna dodatna pomoć, otvorite karticu za podršku i navedite djelokrug problema (uključujući vrstu objekta koji šaljete) da bismo vam mogli bolje pomoći.
