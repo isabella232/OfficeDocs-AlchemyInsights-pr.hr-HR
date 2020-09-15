@@ -1,10 +1,11 @@
 ---
-title: Aktiviranje ili ponovna aktivacija pretplate
+title: Aktivacija ili Ponovna aktivacija pretplate
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,30 +13,30 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 1f2bd2d602ac499358940a3ee5c788d725a8db5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418028"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698341"
 ---
-# <a name="activate-or-reactivate-a-subscription"></a>Aktiviranje ili ponovna aktivacija pretplate
+# <a name="activate-or-reactivate-a-subscription"></a>Aktivacija ili Ponovna aktivacija pretplate
 
 **Aktivacija pretplate**
 
 - Da biste korisnicima omogućili pristup servisu, dodijelite im licencu. Upute o dodjeli licenci pronađite u članku [Dodjeljivanje licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-- Ako vam je već dodijeljena licenca, možete pronaći aplikacije i preuzeti ih putem stranice [Moj račun](https://portal.office.com/account/#installs). Ova stranica sadrži popis aplikacija koje su vam dostupne za preuzimanje na temelju dodijeljenih licenci.
+- Ako vam je već dodijeljena licenca, možete pronaći aplikacije i preuzeti ih putem stranice [Moj račun](https://portal.office.com/account/#installs). Na ovoj se stranici prikazuje popis aplikacija dostupnih za preuzimanje na temelju dodijeljenih licenci.
 
-- Ako ste već preuzeli aplikacije sustava Office, možda ćete se morati prijaviti na aplikacije pomoću računa za posao ili školu. To možete učiniti u bilo kojoj aplikaciji sustava Office (Word, Excel itd.) klikom na **Datoteka > Račun** (pri dnu). U odjeljku Podaci o korisniku kliknite **Promijeni račun**. Dodatne informacije potražite u članku [Instalacija aplikacija sustava Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Ako ste već preuzeli aplikacije sustava Office, možda ćete se morati prijaviti u aplikacije pomoću računa za rad ili obrazovne ustanove. To možete učiniti u bilo kojoj aplikaciji sustava Office (Word, Excel itd.) klikom na **Datoteka > Račun** (pri dnu). U odjeljku Podaci o korisniku kliknite **Promijeni račun**. Dodatne informacije pročitajte u [odjeljku Instalacija aplikacija sustava Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Ponovna aktivacija pretplate**
 
-Ako vaša pretplata istekne, Microsoft ga je onemogućio ili ste je otkazali usred trajanja pretplate, možete je ponovno aktivirati u centru za administratore.
+Ako pretplata istekne, administrator je onemogućio Microsoft ili ste ga otkazali u sredini termina pretplate, možete je ponovno aktivirati u centru za administratore.
   
-1. U centru za administratore sustava Microsoft **Billing**365  >  otvorite stranicu[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. U centru za administratore sustava Microsoft 365 otvorite stranicu **naplata**  >  [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Odaberite pretplatu koju želite ponovno aktivirati, a zatim odaberite **Ponovno aktiviraj**. Ako kao dostupnu akciju ne vidite mogućnost **Ponovna aktivacija**, [nazovite podršku](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) da biste ponovno aktivirali pretplatu.
+2. Odaberite pretplatu koju želite ponovno aktivirati, a zatim **Ponovno aktiviraj**. Ako kao dostupnu akciju ne vidite mogućnost **Ponovna aktivacija**, [nazovite podršku](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) da biste ponovno aktivirali pretplatu.
 
 3. Unesite detalje za plaćanje. Ovdje također možete [ažurirati postojeće podatke o plaćanju](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
