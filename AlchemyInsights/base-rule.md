@@ -1,29 +1,30 @@
 ---
-title: Pravilo baze
+title: Osnovno pravilo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: f28ef015b6f8d890cf6d679a43c45720aedd9ab1
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549643"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686346"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a><span data-ttu-id="5ae99-102">Otklanjanje poteškoća s MDM nadležnošću u programu Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="5ae99-102">Troubleshoot issues with MDM authority in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a><span data-ttu-id="fbfae-102">Otklanjanje poteškoća s ovlaštenjem MDM-a u programu Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="fbfae-102">Troubleshoot issues with MDM authority in Microsoft Intune</span></span>
 
-<span data-ttu-id="5ae99-103">Evo nekih korisnih članaka o tome kako početi s Intune:</span><span class="sxs-lookup"><span data-stu-id="5ae99-103">Here are some helpful articles about getting started with Intune:</span></span>
+<span data-ttu-id="fbfae-103">Evo nekoliko korisnih članaka o početku rada s programom Intune:</span><span class="sxs-lookup"><span data-stu-id="fbfae-103">Here are some helpful articles about getting started with Intune:</span></span>
 
-- [<span data-ttu-id="5ae99-104">Što je Intune?</span><span class="sxs-lookup"><span data-stu-id="5ae99-104">What is Intune?</span></span>](https://docs.microsoft.com/intune/what-is-intune)
-- [<span data-ttu-id="5ae99-105">Kako postaviti Intune prvi put</span><span class="sxs-lookup"><span data-stu-id="5ae99-105">How to set up Intune for the first time</span></span>](https://docs.microsoft.com/intune/setup-steps)
-- [<span data-ttu-id="5ae99-106">Korištenje i navigaciju Intune</span><span class="sxs-lookup"><span data-stu-id="5ae99-106">Using and navigating Intune</span></span>](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+- [<span data-ttu-id="fbfae-104">Što je Intune?</span><span class="sxs-lookup"><span data-stu-id="fbfae-104">What is Intune?</span></span>](https://docs.microsoft.com/intune/what-is-intune)
+- [<span data-ttu-id="fbfae-105">Prvi put postavljanje Intune</span><span class="sxs-lookup"><span data-stu-id="fbfae-105">How to set up Intune for the first time</span></span>](https://docs.microsoft.com/intune/setup-steps)
+- [<span data-ttu-id="fbfae-106">Korištenje i navigacija Intune</span><span class="sxs-lookup"><span data-stu-id="fbfae-106">Using and navigating Intune</span></span>](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-<span data-ttu-id="5ae99-107">Ako imate problema sa svojim MDM nadležnošću, obratite se tome da [promijenite Intune MDM autoritet](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).</span><span class="sxs-lookup"><span data-stu-id="5ae99-107">If you are having issues with your MDM authority, refer to to [Change Intune MDM authority](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).</span></span>
+<span data-ttu-id="fbfae-107">Ako imate problema s ovlaštenjem MDM-a, pogledajte odjeljak [Promjena Intune MDM autoriteta](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).</span><span class="sxs-lookup"><span data-stu-id="fbfae-107">If you are having issues with your MDM authority, refer to to [Change Intune MDM authority](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).</span></span>

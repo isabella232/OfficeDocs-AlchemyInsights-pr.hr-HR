@@ -1,25 +1,26 @@
 ---
-title: Tvrtka Yammer upravljanje svim grupama poduzeća
+title: Upravljanje servisom Yammer za sve grupe tvrtki
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 30b258de51ff0140520cf05ca09e6b0a8b872f22
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36558033"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688830"
 ---
-# <a name="all-company-group"></a><span data-ttu-id="d2ff9-102">Sva grupa društava</span><span class="sxs-lookup"><span data-stu-id="d2ff9-102">All Company Group</span></span>
+# <a name="all-company-group"></a><span data-ttu-id="0495a-102">Sve grupe tvrtki</span><span class="sxs-lookup"><span data-stu-id="0495a-102">All Company Group</span></span>
 
-<span data-ttu-id="d2ff9-103">Grupa **svih tvrtki** automatski se kreira prilikom stvaranja mreže Yammer.</span><span class="sxs-lookup"><span data-stu-id="d2ff9-103">The **All Company** group is automatically created when you create a Yammer network.</span></span> <span data-ttu-id="d2ff9-104">To je zadana grupa sustava koja se ne može preimenovati ili izbrisati.</span><span class="sxs-lookup"><span data-stu-id="d2ff9-104">It is a default system group that cannot be renamed or deleted.</span></span> <span data-ttu-id="d2ff9-105">Svatko može knjižiti u grupu **svih tvrtki** , ali samo mrežni administratori tvrtke Yammer mogu objavljivati objave u grupi.</span><span class="sxs-lookup"><span data-stu-id="d2ff9-105">Everyone can post to the **All Company** group, but only Yammer network administrators can post announcements to the group.</span></span> <span data-ttu-id="d2ff9-106">Koristite **Grupiranje uvida**da biste prikazali informacije o angažmanu u grupi **svih poduzeća** .</span><span class="sxs-lookup"><span data-stu-id="d2ff9-106">Use **Group Insights**to view information about engagement in the **All Company** group.</span></span>
+<span data-ttu-id="0495a-103">Grupa **sve tvrtke** automatski se stvara prilikom stvaranja mreže servisa Yammer.</span><span class="sxs-lookup"><span data-stu-id="0495a-103">The **All Company** group is automatically created when you create a Yammer network.</span></span> <span data-ttu-id="0495a-104">To je zadana grupa sustava koja se ne može preimenovati ni izbrisati.</span><span class="sxs-lookup"><span data-stu-id="0495a-104">It is a default system group that cannot be renamed or deleted.</span></span> <span data-ttu-id="0495a-105">Svi mogu knjižiti u grupu **sve tvrtke** , ali samo administratori mrežnih servisa Yammer mogu objavljivati obavijesti grupi.</span><span class="sxs-lookup"><span data-stu-id="0495a-105">Everyone can post to the **All Company** group, but only Yammer network administrators can post announcements to the group.</span></span> <span data-ttu-id="0495a-106">Pomoću **uvida u grupu**pregledajte informacije o angažmanu u grupi **sve tvrtke** .</span><span class="sxs-lookup"><span data-stu-id="0495a-106">Use **Group Insights**to view information about engagement in the **All Company** group.</span></span>
 
-<span data-ttu-id="d2ff9-107">Dodatne informacije potražite u okviru [Upravljanje grupom u servisu Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span><span class="sxs-lookup"><span data-stu-id="d2ff9-107">For more information, see [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span></span>
+<span data-ttu-id="0495a-107">Dodatne informacije potražite u članku [Upravljanje grupom u servisu Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span><span class="sxs-lookup"><span data-stu-id="0495a-107">For more information, see [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span></span>
