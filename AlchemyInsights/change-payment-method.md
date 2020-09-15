@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,27 +14,27 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: cf12baf7a9b40b56549f0d3c63f7a6be8d8a7cb9
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154510"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681804"
 ---
 # <a name="change-payment-method"></a>Promjena načina plaćanja
 
-Način plaćanja možete promijeniti iz **centra za administratore sustava Microsoft 365**.
+Način plaćanja možete promijeniti u **centru za administratore sustava Microsoft 365**.
   
-1. U centru za administratore otvorite stranicu Računi **za naplatu**  >  **& plaćanja**  >  [Plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
-2. Odaberite redak načina plaćanja koji želite zamijeniti. Desno okno navodi sve profile naplate i pojedinačne pretplate koje koriste odabrani način plaćanja.
+1. U centru za administratore idite na stranicu računi za **naplatu**  >  **&** upute za  >  [Plaćanje](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+2. Odaberite redak načina plaćanja koji će se zamijeniti. U desnom oknu nalaze se svi profili za naplatu i pojedinačne pretplate koje koriste odabrani način plaćanja.
 3. U desnom oknu odaberite **Zamijeni način plaćanja za sve stavke**.
-4. Da biste koristili postojeći način plaćanja, s padajućeg popisa odaberite jedan, a zatim odaberite **Zamijeni**.
+4. Da biste koristili postojeći način plaćanja, na padajućem popisu odaberite jedan, a zatim **Zamijeni**.
     > [!NOTE]
-    > Ako su pretplate povezane s profilom za naplatu, možete ih platiti samo kreditnom ili debitnom karticom. Ako imate bankovne račune navedene na stranici **Načini plaćanja,** oni nisu dostupni za odabir na padajućem popisu.
+    > Ako imate pretplate povezane s profilom za naplatu, možete koristiti samo kreditnu ili debitnu karticu da biste ih platili. Ako imate bankovne račune navedene na stranici **načini plaćanja** , oni nisu dostupni za odabir na padajućem popisu.
 5. Da biste dodali novi način plaćanja, odaberite **Dodaj način plaćanja**.
-6. U oknu **Dodavanje načina plaćanja** unesite podatke o računu, a zatim odaberite **Spremi**. Morate koristiti način plaćanja iz iste zemlje kao i vaš klijent.
+6. U oknu **Dodavanje načina plaćanja** unesite podatke o računu, a zatim odaberite **Spremi**. Morate koristiti način plaćanja iz iste države kao i vaš stanar.
 7. Novi način plaćanja već je odabran na padajućem popisu. Odaberite **Zamijeni**.
 
-Dodatne informacije [potražite u odjeljku Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Dodatne informacije potražite u članku [Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Da biste saznali kako promijeniti plaćanje kreditnom karticom na plaćanje fakture, pogledajte [Promjena s kreditne kartice ili bankovnog računa na fakturu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
+Da biste doznali kako promijeniti plaćanje kreditnom karticom radi uplate na fakturu, pročitajte članak [Promjena s kreditne kartice ili bankovnog računa na fakturu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).

@@ -5,34 +5,35 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770883"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681252"
 ---
 # <a name="co-management"></a>Suupravljanje
 
-**Preduvjeti za migriranje iz config Manager Hybrid na Intune**
+**Preduvjeti za migraciju iz programa config Manager Hybrid u Intune**
 
 - Pregledajte [ovaj članak](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Dodati Intune licencu korisnicima](https://docs.microsoft.com/intune/licenses-assign).
-- Koristite [Edge preglednik](https://www.microsoft.com/windows/microsoft-edge) prilikom konfiguriranja suupravljanja.
+- [Dodajte licencu za Intune korisnicima](https://docs.microsoft.com/intune/licenses-assign).
+- Koristite [preglednik Edge](https://www.microsoft.com/windows/microsoft-edge) pri konfiguriranju suupravljanja.
 
-**Kako instalirati klijent config upravitelj na Intune-upravljani uređaji**
+**Kako instalirati klijent za konfiguriranje programa config na uređaje koje upravlja Intune**
 
-Pogledajte [Intune MDM-upravljane uređaje sa sustavom Windows](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Pročitajte članak [Intune MDM-upravlja uređajima sa sustavom Windows](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-**Što ako samo želim promijeniti MDM autoritet?**
+**Što ako samo želim promijeniti autoritet MDM-a?**
 
-MDM nadzorno tijelo može se promijeniti bez otvaranja slučaja potpore. Pregledajte sljedeću dokumentaciju kako biste pomogli u promjeni vašeg MDM tijela:
+MDM autoritet može se promijeniti bez otvaranja slučaja podrške. Pregledajte sljedeću dokumentaciju da biste pomogli u promjeni sustava MDM (autoritet):
 
-- [Promjena MDM nadzorno tijelo od upravitelja konfiguracije na Intune samostalnu](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Promjena MDM vlasti iz Intune samostalan u upravitelj konfiguracije](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [Promjena sustava MDM Authority iz Upravitelja konfiguracije radi samostalnog Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [Promjena sustava MDM Authority iz programa Intune standalone u upravitelj konfiguracije](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)

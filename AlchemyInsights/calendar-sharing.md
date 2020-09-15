@@ -1,10 +1,11 @@
 ---
-title: 611 Dijeljenje kalendara
+title: 611 zajedničko korištenje kalendara
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,16 +13,16 @@ ms.custom:
 - "611"
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: 1739621bedc408cfd13da7b194964f8441d6b245
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6061aaaf151d66817eff0a824f757defb238ca0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36665572"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684258"
 ---
 # <a name="calendar-sharing-in-outlook"></a>Zajedničko korištenje kalendara u programu Outlook
 
-Informacije o zajedničkom korištenju kalendara programa Outlook potražite u ovim člancima:
+Informacije o dijeljenjem kalendara programa Outlook potražite u sljedećim člancima:
   
 - [Zajedničko korištenje kalendara programa Outlook s drugim osobama](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
