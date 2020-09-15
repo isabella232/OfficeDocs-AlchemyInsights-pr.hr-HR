@@ -1,23 +1,24 @@
 ---
-title: Aktiviraj Microsoft obrasci
+title: Aktivacija Microsoftovih obrazaca
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2544"
 - "9000672"
-ms.openlocfilehash: 0a6c2e57e24cb57231ccaa2c7a3e329b3a555b79
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a93ba91178ac35c7ff73ee6a820b4e5d22fc5d50
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903966"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698549"
 ---
-# <a name="activate-microsoft-forms-for-an-organization"></a><span data-ttu-id="f5355-102">Aktiviraj Microsoft Forms za organizaciju</span><span class="sxs-lookup"><span data-stu-id="f5355-102">Activate Microsoft Forms for an organization</span></span>
+# <a name="activate-microsoft-forms-for-an-organization"></a><span data-ttu-id="6d74f-102">Aktivacija Microsoftovih obrazaca za tvrtku ili ustanovu</span><span class="sxs-lookup"><span data-stu-id="6d74f-102">Activate Microsoft Forms for an organization</span></span>
 
-<span data-ttu-id="f5355-103">Je admin možete uključiti Microsoft Forms ili isključiti za njihovu organizaciju.</span><span class="sxs-lookup"><span data-stu-id="f5355-103">An admin can turn Microsoft Forms on or off for their organization.</span></span> <span data-ttu-id="f5355-104">Naučite o [Provjeri stanje Azure CollabDBService i aktivacija licence](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) za vaše klijentske.</span><span class="sxs-lookup"><span data-stu-id="f5355-104">Learn about [checking license activation and the status of the Azure CollabDBService](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) for your tenant.</span></span>
+<span data-ttu-id="6d74f-103">Administrator može uključiti ili isključiti Microsoftove obrasce za svoju tvrtku ili ustanovu.</span><span class="sxs-lookup"><span data-stu-id="6d74f-103">An admin can turn Microsoft Forms on or off for their organization.</span></span> <span data-ttu-id="6d74f-104">Saznajte više o [provjeravanju aktivacije licenci i statusu servisa Azure CollabDBService](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) za svog korisnika.</span><span class="sxs-lookup"><span data-stu-id="6d74f-104">Learn about [checking license activation and the status of the Azure CollabDBService](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) for your tenant.</span></span>
