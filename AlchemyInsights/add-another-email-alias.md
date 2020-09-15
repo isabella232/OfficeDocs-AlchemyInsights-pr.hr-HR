@@ -6,34 +6,35 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 2ed387ad8506cfa33f63690d8034ff3df855a07d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502995"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688470"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Stvaranje ili dodavanje pseudonima e-pošte za korisnika
+# <a name="create-or-add-an-email-alias-for-a-user"></a>Stvaranje i dodavanje pseudonima za e-poštu za korisnika
 
-Trebate stvoriti pseudonim e-pošte za korisnika ili dodati dodatnu adresu e-pošte? Samo slijedite ove korake!
+Morate stvoriti pseudonim e-pošte za korisnika ili dodati dodatnu adresu e-pošte? Samo slijedite ove korake!
   
-1. U centru za administratore sustava Microsoft 365 otvorite stranicu [Korisnici](https://go.microsoft.com/fwlink/p/?linkid=834822) ili odaberite **Users** \> **Korisnici Aktivni korisnici**.
+1. U centru za administratore sustava Microsoft 365 otvorite stranicu [korisnici](https://go.microsoft.com/fwlink/p/?linkid=834822) ili odaberite **korisnici** \> **aktivnih korisnika**.
     
-2. Na stranici **Aktivni korisnici** odaberite ime osobe koju želite urediti. 
+2. Na stranici **aktivni korisnici** odaberite ime osobe koju želite urediti. 
     
-3. Na desnoj strani, u retku **Pseudonimi korisničkog imena / e-pošte** odaberite **Uredi**.
+3. Na desnoj strani u retku **username/poruke e-pošte** odaberite **Uređivanje**.
     
-4. U okvir **Pseudonim** upišite novu e-poštu, a zatim odaberite **Dodaj**. Ako ste pretplatu kupili od servisa GoDaddy ili drugog partnera, da biste novi pseudonim postavili kao primarni, morate otići na konzolu za upravljanje godaddy/partnerom. 
+4. U okvir **pseudonim** upišite novu poruku e-pošte, a zatim odaberite **Dodaj**. Ako ste pretplatu kupili od servisa GoDaddy ili nekog drugog partnera, da biste novi pseudonim postavili kao primarni, morate otići na konzolu za upravljanje programom GoDaddy/partner. 
     
-    **VAŽNO**: Ako se prikaže poruka o pogrešci " **Parametar se ne može pronaći koji odgovara nazivu parametra "EmailAddresses"** to znači da Microsoftu treba malo dulje da dovrši postavljanje klijenta ili prilagođenu domenu ako ste ga nedavno dodali. Postupak postavljanja može potrajati do 4 sata. Pričekajte neko vrijeme da bi postupak postavljanja stao na vrijeme, a zatim pokušajte ponovno. Ako se problem nastavi pojavljivati, nazovite podršku i oni će napraviti potpunu sinkronizaciju za vas.
+    **Važno**: ako vam se prikaže poruka o pogrešci "nije **moguće pronaći parametar koji odgovara nazivu parametra" e-pošte**", to znači da će Microsoft dovršiti postavljanje korisnika ili prilagođene domene ako ste ga nedavno dodali. Postupak postavljanja može potrajati i do 4 sata do dovršetka. Pričekajte neko vrijeme da postupak postavljanja završi, a zatim pokušajte ponovno. Ako se problem ne riješi, pozovite podršku, a oni će učiniti kompletnu sinkronizaciju za vas.
     
-    Obično je potrebno oko 30 minuta da novi pseudonim stupiti na snagu.
+    Za novi pseudonim obično traje približno 30 minuta.
     
-    **Dodatne informacije potražite u ovom članku:** [Dodavanje drugog pseudonima e-pošte za korisnika](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
+    Dodatne informacije potražite u **ovom članku:** [Dodavanje drugog pseudonima za e-poštu za korisnika](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
     
 
