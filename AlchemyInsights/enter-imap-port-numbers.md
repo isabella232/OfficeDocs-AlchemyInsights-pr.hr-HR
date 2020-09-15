@@ -1,31 +1,32 @@
 ---
-title: Unos brojeva IMAP priključaka
+title: Unos brojeva IMAP priključka
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: 8557902e9ea73892eab24c3073784abf29df0fa9
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278854"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709431"
 ---
-# <a name="enter-imap-port-numbers"></a>Unos brojeva IMAP priključaka
+# <a name="enter-imap-port-numbers"></a>Unos brojeva IMAP priključka
 
-Prijavite se putem zaslona za postavljanje unaprijed i dodajte pojedinosti priključka iza dvotočke u skladu s adresama dolaznog i odlaznog poslužitelja. (Te podatke možete dobiti od davatelja usluge e-pošte.) 
+Prijavite se putem zaslona za postavljanje programa Advance i dodajte podatke iz priključka iza debelog crijeva u retku s adresama dolazne i odlazne poslužitelje. (Ove pojedinosti možete dobiti od davatelja usluge e-pošte.) 
 
-Idite na **Postavke** > **Dodaj IMAP račun** > **** > i kliknite **Prikaži napredne postavke**; zatim unesite svoje podatke. 
+Idite na **Postavke**  >  **Dodaj račun**  >  **IMAP** > i kliknite **Prikaz naprednih postavki**, a zatim unesite detalje. 
 
-*Poslužitelj ulazne pošte*: imap.servername.com:000 (obično 993 ili 143) 
+*Poslužitelj dolazne pošte*: IMAP.servername.com:000 (obično 993 ili 143) 
 
-*Poslužitelj odlazne pošte*: smtp.servername.com:000 (obično 465 ili 25) 
+*Poslužitelj odlazne pošte*: SMTP.servername.com:000 (obično 465 ili 25) 
 
 Imajte na umu da je debelo crijevo važno. 
