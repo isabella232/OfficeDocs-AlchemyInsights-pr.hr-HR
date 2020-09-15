@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,30 +14,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 09de8ad5c7251822c7b3ad33bce991c6b4ca7883
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43943935"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714428"
 ---
 # <a name="change-your-billing-address"></a>Promjena adrese za naplatu
 
-Račun ili faktura sadrže tri adrese.
+Vaš račun ili faktura sadrži tri adrese.
 
 **Promjena adrese za naplatu za način plaćanja**
 
-1. U centru za administratore idite na **Načini [plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806)> naplate**.
+1. U centru za administratore idite na **naplatu > [načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 2. Odaberite kreditnu karticu ili bankovni račun koji želite promijeniti.
-3. Na stranici **Detalji o načinu plaćanja** kliknite **Uredi**.
-4. Ažurirajte adresu za naplatu, a zatim kliknite **Spremi > gotovo**.
+3. Na stranici **Detalji o načinu plaćanja** kliknite **Uređivanje**.
+4. Ažurirajte adresu za naplatu, a zatim kliknite **spremi > gotovo**.
 
-Dodatne informacije o promjenama adrese i obavijesti [potražite u odjeljku Promjena adresa za naplatu za Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Dodatne informacije o promjenama adrese i obavijesti potražite u članku [Promjena adresa za naplatu za Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
 **Promjena podataka o računu za naplatu**
 
-1. U centru za administratore idite na **Računi > [naplata .](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
-2. Odaberite **Uredi podatke o računu za naplatu**.
-3. Ažurirajte podatke o računu za naplatu, a zatim kliknite **Spremi > Gotovo**.
+1. U centru za administratore idite na **naplatu > [račune za naplatu](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Odaberite **Uređivanje podataka o računu za naplatu**.
+3. Ažurirajte podatke o računu za naplatu, a zatim kliknite **spremi > gotovo**.
 
-**Napomena**: Ne možete promijeniti državu/regiju. Ako je ovo polje potrebno promijeniti, morat ćete kupiti novog klijenta.
+**Pažnja**: ne možete promijeniti državu/regiju. Ako se ovo polje mora promijeniti, morat ćete kupiti novog stanara.
