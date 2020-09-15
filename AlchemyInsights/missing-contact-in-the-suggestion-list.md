@@ -1,27 +1,28 @@
 ---
-title: Nedostaje kontakt na popisu prijedloga prilikom sastavljanja pošte
+title: Propuštanje kontakta na popisu prijedloga tijekom skladanja pošte
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "1060"
-ms.openlocfilehash: 325bdc133c9a8458ad8a65b3d1ca2276a558bfbf
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+ms.openlocfilehash: 7a1b99ff336a50619c9560833c05785546634e27
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423330"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673957"
 ---
-# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a>Nedostaje kontakt na popisu prijedloga prilikom sastavljanja pošte
+# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a>Propuštanje kontakta na popisu prijedloga tijekom skladanja pošte
 
-1. Odaberite **Do:**, a zatim s popisa odaberite kontakt.
-2. Odaberite **Pošalji**.
+1. Odaberite **:**, a zatim na popisu odaberite kontakt.
+2. Odaberite **Send (Šalji**).
 
-    Kontakt se pojavljuje na popisu prijedloga.
+    Kontakt će se pojaviti na popisu prijedloga.

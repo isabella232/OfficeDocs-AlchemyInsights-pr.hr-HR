@@ -1,11 +1,12 @@
 ---
-title: 8000035 Ostavite Outlook.com beta
+title: 8000035 ostavite beta Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -18,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 97dd5e889cacfe73e0b81dcdee35f37dc12de9d7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762741"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676334"
 ---
 # <a name="the-new-outlookcom"></a>Novi Outlook.com
 
-Više nije moguće ostaviti Outlook.com beta verziju i vratiti se na klasičnu verziju Outlook.com.
+Više nije moguće ostaviti beta-Outlook.com i vratiti se na klasičnu verziju programa Outlook.com.
   
-Ako želite dati povratne informacije o novom Outlook.com, idite na [Forum UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Možete glasovati o idejama ili pitanjima koja želite vidjeti riješenima, a mi ćemo izravno odgovoriti na glavne komentare i prijedloge.
+Ako želite dati povratne informacije o novom Outlook.com, idite na [forum uservoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Možete glasati o idejama ili problemima koje želite pogledati, a mi ćemo izravno odgovoriti na gornje komentare i prijedloge.
   
 [Saznajte više o novom Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

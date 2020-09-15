@@ -1,25 +1,26 @@
 ---
-title: Pregled licenciranja za Microsoft Stream
+title: Pregled licenci za Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: d80f48ae5a791e30a85e23478424bc836b5da4e6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ed25e76647dfe59e9179fc05dccd9dc139ee639e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713926"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675326"
 ---
-# <a name="microsoft-stream-licensing-overview"></a>Pregled licenciranja za Microsoft Stream
+# <a name="microsoft-stream-licensing-overview"></a>Pregled licenci za Microsoft Stream
 
-Microsoft Stream je usluga u oblaku licencirana po korisnikovoj pretplati. Dostupan je kao dio pretplata na Microsoft 365 koji ispunjavaju uvjete. Informacije o svakoj vrsti pretplate potražite u članku Cijene sustava Microsoft 365.
+Microsoft Stream servis je u oblaku licenciran na temelju pretplate po korisniku. Dostupan je kao dio prihvatljivih pretplata na Microsoft 365. Informacije o svakoj vrsti pretplate potražite u članku Microsoft 365 cijene.
 
-- [Pregled licenciranja za Microsoft Stream](https://docs.microsoft.com/stream/license-overview)
+- [Pregled licenci za Microsoft Stream](https://docs.microsoft.com/stream/license-overview)
