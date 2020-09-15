@@ -1,30 +1,31 @@
 ---
-title: 1314 Uklanjanje dupliciranih objekata
+title: 1314 dupliciranje objekta za zbrinjavanje
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 138ba305b872e8c0508ba673fb59324672d14997
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c071e1a161cd2885b10d082f3c78eb5ac65b0b2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703959"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678568"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Duplicirane pogreške sinkronizacije objekata
+# <a name="duplicate-object-synchronization-errors"></a>Pogreške prilikom sinkronizacije duplikata objekta
 
-Ako tijekom sinkronizacije primite jednu od sljedećih pogrešaka:
+Ako tijekom sinkronizacije primite neku od sljedećih pogrešaka:
 
-- Sinkronizirani objekt s istom proxy adresom već postoji u imeniku Microsoft Online Services.
+- Sinkronizirani objekt s istom proxy adresom već postoji u direktoriju Microsoftova internetskih servisa.
 
 - Slična poruka za UserPrincipalName.
 
-Koristite novu Dijagnostiku AADConnect Health da biste riješili pogreške dupliciranih objekata. Dodatne informacije potražite u [odjeljku Dijagnosticiranje i uklanjanje dupliciranih pogrešaka pri sinkronizaciji atributa](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Pomoću nove dijagnostike servisa AADConnect riješite duplicirane pogreške u objektu. Dodatne informacije potražite u članku [dijagnosticiranje i korekcija dupliciranih pogrešaka pri sinkronizaciji atributa](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).

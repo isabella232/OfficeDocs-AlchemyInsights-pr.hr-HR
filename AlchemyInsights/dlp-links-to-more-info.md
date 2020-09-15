@@ -1,38 +1,38 @@
 ---
-title: Dodatne informacije o DLP problemima
+title: Dodatne informacije o problemima s DLP-om
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 62f0eeb4c058285158d012be3c1d54d09a7b8482
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507542"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679721"
 ---
-# <a name="information-about-dlp-issues"></a>Informacije o DLP pitanjima
+# <a name="information-about-dlp-issues"></a>Informacije o problemima s DLP-om
 
 **Važno**: Tijekom ovih neočekivanih vremena poduzimamo korake kako bismo osigurali da servisi SharePoint Online i OneDrive i dalje budu široko raspoloživi – dodatne informacije potražite u [Privremene prilagodbe značajke SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Informacije o politici DLP-a**
+**Informacije o pravilima DLP-a**
 
-Pomoću DLP pravila možete prepoznati, nadzirati i automatski zaštititi osjetljive podatke u sustavu Microsoft 365.
+Pomoću sustava DLP možete identificirati, nadzirati i automatski štititi osjetljive informacije u programu Microsoft 365.
 
-Molimo posjetite ove linkove za više informacija:
+Dodatne informacije potražite u sljedećim vezama:
 
-- [Pregled sprečavanja gubitka podataka](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
-- [Što traže vrste osjetljivih informacija](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
-- [Stvaranje prilagođene vrste osjetljivih informacija](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
-- [Slanje obavijesti e-poštom i prikaz savjeta o pravilima](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-- [Zaštita datoteka sustava SharePoint Online oznakama zadržavanja i DLP-om](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [DLP i Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
+- [Pregled prevencije gubitka podataka](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
+- [Koje vrste osjetljivih podataka traže](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- [Stvaranje prilagođene vrste osjetljivih podataka](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
+- [Slanje obavijesti e-poštom i prikaz savjeta o politici](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- [Zaštita datoteka sustava SharePoint Online s naljepnicama za zadržavanje i DLP-om](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP i Microsoftovi timovi](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Da biste testirali podatke s ugrađenom ili prilagođenom osjetljivom vrstom informacija, upotrijebite mogućnost **Vrsta testiranja** u odjeljku **Vrste osjetljivih podataka Klasifikacije**  >  **Sensitive info types**. Dodatne informacije potražite u [odjeljku Testiranje prilagođenih vrsta osjetljivih informacija](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Da biste testirali podatke pomoću ugrađene ili prilagođene vrste osjetljivih informacija, upotrijebite mogućnost **vrsta testa** u odjeljku **razvrstavanje**  >  **osjetljivih podataka**. Dodatne informacije potražite u članku [testiranje prilagođenih vrsta podataka koje se razlikuju](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).

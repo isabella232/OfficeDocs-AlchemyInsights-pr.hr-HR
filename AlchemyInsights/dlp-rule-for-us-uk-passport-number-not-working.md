@@ -1,49 +1,50 @@
 ---
-title: DLP pravilo za američki/britanski broj putovnice ne radi
+title: DLP pravilo za nas/broj putovnica u Velikoj Britaniji ne funkcionira
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 3d3b7dc2d9510376bc9eef6ec69b87ad7c681b05
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6c7191f380f264113e2042f2869d9767922b2cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507290"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679216"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problemi s DLP - Američki /Britanski brojevi putovnica
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problemi s brojem putovnica za DLP-US/UK
 
 **Važno**: Tijekom ovih neočekivanih vremena poduzimamo korake kako bismo osigurali da servisi SharePoint Online i OneDrive i dalje budu široko raspoloživi – dodatne informacije potražite u [Privremene prilagodbe značajke SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**DLP problemi s američkim /britanskim brojevima putovnica**
+**DLP problemi s brojem putovnica za US/UK**
 
-Imate li problema s **Sprječavanje gubitka podataka (DLP)** ne radi za sadržaj koji sadrži **američki / UK broj putovnice** kada koristite DLP osjetljive vrste informacija u O365? Ako je tako, provjerite sadrži li vaš sadržaj potrebne informacije o tome što pravila DLP-a traže kada se ocjenjuju.
+Imate li problema s **prevencijom gubitka podataka (DLP)** koji ne funkcionira za sadržaj koji sadrži **broj putovnice za US/UK** kada koristite DLP osjetljive informacije u programu O365? Ako je tako, provjerite sadrži li sadržaj potrebne informacije o tome što pravilnik programa DLP traži kada se procjenjuje.
   
-Na primjer, za politiku **broja putovnica SAD-a/Ujedinjene Kraljevine** konfigurirana s razinom pouzdanosti od 75 %, ocjenjuju se sljedeće i moraju se otkriti kako bi pravilo pokrenulo
+Primjerice, za pravilnik o **broju putovnica za US/UK** konfiguriran uz razinu pouzdanosti od 75%, procjenjuje se sljedeće i mora se otkriti da bi se pravilo pokrenulo
   
-- **[Oblik:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** Devet znamenki
+- **[Oblikovanje:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** Devet znamenki
 
 - **[Uzorak:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Devet uzastopnih znamenki
 
-- **[Kontrolni zbroj:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ne, nema Kontrolnog zbroja.
+- **[Potvrdni zbroj:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ne, ne postoji checksum
 
-- **[Definicija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** DLP politika je 75% sigurni da je otkrivena ova vrsta osjetljivih informacija ako, u blizini od 300 znakova:
+- **[Definicija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** DLP pravilo je 75% pouzdano da je otkrivena ta vrsta osjetljivih podataka ako je u neposrednoj blizini znakova od 300:
 
   - Funkcija Func_usa_uk_passport pronalazi sadržaj koji odgovara uzorku.
 
-  - Ključna riječ iz Keyword_passport.
+  - Pronađena je ključna riječ iz Keyword_passport.
 
-    Na primjer, sljedeći uzorak pokrenuo bi se za politiku **broja putovnice SAD-a/Ujedinjene Kraljevine:** Američki broj putovnice 123456789
+    Primjerice, sljedeći će se uzorak pokrenuti za pravilnik o **broju putovnica Sjedinjenih Američkih Država/UK** : Američka putovnica broj 123456789
 
-Dodatne informacije o tome što je potrebno za otkriveni broj putovnice u SAD-u/UK-u za vaš sadržaj potražite u sljedećem odjeljku u ovom članku: [Što vrste osjetljivih informacija traže broj putovnice SAD-a i Velike Britanije](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
+Dodatne informacije o tome što je potrebno za broj putovnica za US/UK da bi se otkrilo za vaš sadržaj potražite u sljedećem odjeljku u ovom članku: [što vrste osjetljivih informacija traže nas/broj putovnica Britanije](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
   
-Pomoću druge ugrađene vrste osjetljivih informacija pogledajte sljedeći članak za informacije o tome što je potrebno za druge vrste: [Što traže vrste osjetljivih informacija](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Korištenje različitih ugrađenih vrsta osjetljivih informacija potražite u sljedećem članku informacije o tome što je potrebno za druge vrste: [što vrste osjetljivih podataka traže](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

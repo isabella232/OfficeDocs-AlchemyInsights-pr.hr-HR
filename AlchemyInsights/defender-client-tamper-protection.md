@@ -1,32 +1,33 @@
 ---
-title: 'Zaštita klijenta '
+title: 'Zaštita klijenta za defenzator '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 909874d06e74e7df9c2eec9b47c89c25a30ac58c
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738491"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680496"
 ---
-# <a name="defender-tamper-protection"></a>Zaštita braniteljica 
+# <a name="defender-tamper-protection"></a>Obrambeni alat za zaštitu od zaštite 
 
-Uz zaštitu od Tamper, zlonamjerne aplikacije su spriječene poduzimati radnje kao što su ove:
+Uz zaštitu od zaštite zlonamjerne aplikacije sprječavaju poduzimanje akcija kao što su sljedeće:
 
-- Onemogućavanje zaštite od virusa i prijetnji
-- Onemogućavanje zaštite u stvarnom vremenu
+- Onemogućivanje zaštite virusa i ugroženosti
+- Onemogućivanje zaštite u stvarnom vremenu
 - Isključivanje praćenja ponašanja
-- Onemogućavanje AntiVirus (kao što je IOfficeAntivirus (IOAV))
-- Onemogućavanje zaštite isporučene u oblaku
-- Uklanjanje ažuriranja sigurnosnih obavještajnih podataka
+- Onemogućivanje antivirusnog programa (kao što je IOfficeAntivirus (IOAV))
+- Onemogućivanje zaštite u oblaku
+- Uklanjanje ažuriranja sigurnosne obavještajne službe
 
-Više detalja potražite u odjeljku [Zaštita sigurnosnih postavki pomoću zaštite od sigurnosti](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).
+Dodatne informacije potražite u članku Zaštita [sigurnosnih postavki pomoću zaštite za ometanje](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).

@@ -1,5 +1,5 @@
 ---
-title: Omogući provjeru autentičnosti s više faktora
+title: Omogućivanje Višečimbenika provjere autentičnosti
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703454"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678028"
 ---
-# <a name="enable-multi-factor-authentication"></a>Omogućivanje provjere autentičnosti s više faktora
+# <a name="enable-multi-factor-authentication"></a>Omogućivanje višestruke provjere autentičnosti
 
-Da biste omogućili provjeru autentičnosti s više faktora u centru za administratore sustava Microsoft 365:
+Da biste omogućili višestruko provjeru autentičnosti u centru za administratore sustava Microsoft 365, učinite sljedeće:
 
-1. Idite na stranicu \> **Aktivni** **korisnici.**
+1. Otvorite stranicu **korisnici** \> **aktivnih korisnika** .
     
-2. Pri vrhu stranice odaberite **Višestruka provjera autentičnosti**. 
+2. Pri vrhu stranice odaberite **višestruka provjera autentičnosti**. 
     
-3. Pronađite korisnika ili korisnike koje želite omogućiti za višestruku provjeru autentičnosti. Da biste vidjeli sve korisnike, možda ćete morati promijeniti filtar **statusa Multi-Factor Auth** pri vrhu.
+3. Pronađite korisnika ili korisnike kojima želite omogućiti višestruku provjeru autentičnosti. Da biste vidjeli sve korisnike, možda ćete morati promijeniti filtar **stanja s višestrukim čimbenikom** na vrhu.
     
 4. Potvrdite okvir pokraj korisnika koje želite omogućiti.
     
-5.  U desnom oknu s informacijama o korisniku u odjeljku **Brzi koraci**odaberite **Omogući**. 
+5.  U oknu s informacijama o pravom korisniku u odjeljku **Brzi koraci**odaberite **Omogući**. 
     
-6. U dijaloškom okviru koji će se otvoriti odaberite **omogući auth s više faktora**. 
+6. U dijaloškom okviru koji će se otvoriti odaberite **Omogući multi-Factor auth**. 
     
 
