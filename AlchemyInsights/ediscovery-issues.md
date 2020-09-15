@@ -1,37 +1,38 @@
 ---
-title: Pitanja predočavanja 1829
+title: 1829 – neotkrivanje – problemi
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: daed49214bd683c28d7947095ed6d4fd792cd0f3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507126"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710943"
 ---
-# <a name="ediscovery-issues"></a><span data-ttu-id="f3a94-102">Problemi s predočavanjem elektroničkih dokumenata</span><span class="sxs-lookup"><span data-stu-id="f3a94-102">eDiscovery issues</span></span>
+# <a name="ediscovery-issues"></a><span data-ttu-id="e7615-102">Problemi s pitanjima otkrivanja</span><span class="sxs-lookup"><span data-stu-id="e7615-102">eDiscovery issues</span></span>
 
-<span data-ttu-id="f3a94-103">Tražite mogućnosti predočavanja elektroničkih dokumenata?</span><span class="sxs-lookup"><span data-stu-id="f3a94-103">Looking for eDiscovery options?</span></span> <span data-ttu-id="f3a94-104">Uz ponovno dizajniranu navigaciju u centru za usklađenost & sigurnosti, mogućnosti predočavanja elektroničkih dokumenata možda su se već pomaknule.</span><span class="sxs-lookup"><span data-stu-id="f3a94-104">With the re-designed navigation in the Security & Compliance Center, your eDiscovery options may have moved already.</span></span>  <span data-ttu-id="f3a94-105">Mogućnosti predočavanja elektroničkih dokumenata možete pronaći na sljedećim mjestima u centru za usklađenost & sigurnosti na temelju onoga što pokušavate učiniti:</span><span class="sxs-lookup"><span data-stu-id="f3a94-105">You can find the eDiscovery options in the following locations in the Security & Compliance Center based on what you're trying to do:</span></span>
+<span data-ttu-id="e7615-103">Tražite mogućnosti otkrivanja više dokumenata?</span><span class="sxs-lookup"><span data-stu-id="e7615-103">Looking for eDiscovery options?</span></span> <span data-ttu-id="e7615-104">Ako ste ponovno dizajnirali navigaciju u centru za sigurnost & usklađenosti, moguće je da su se mogućnosti ponovnog otkrivanja već premještate.</span><span class="sxs-lookup"><span data-stu-id="e7615-104">With the re-designed navigation in the Security & Compliance Center, your eDiscovery options may have moved already.</span></span>  <span data-ttu-id="e7615-105">Možete pronaći mogućnosti otkrivanja i otkrića na sljedećim lokacijama u centru za sigurnost & usklađenosti na temelju onoga što pokušavate učiniti:</span><span class="sxs-lookup"><span data-stu-id="e7615-105">You can find the eDiscovery options in the following locations in the Security & Compliance Center based on what you're trying to do:</span></span>
 
-- <span data-ttu-id="f3a94-106">Traženje sadržaja potražite u tvrtki ili ustanovi za sadržaj u e-pošti, dokumentima, razgovorima programa Skype za tvrtke, a zatim izvoz podataka – idite na **pretraživanje > pretraživanje sadržaja**</span><span class="sxs-lookup"><span data-stu-id="f3a94-106">Use Content Search to search your organization for content in email, documents, Skype for Business conversations, and then export the data - Go to **Search > Content search**</span></span>
+- <span data-ttu-id="e7615-106">Koristite pretraživanje sadržaja da biste pretraživali tvrtku ili ustanovu za sadržaj u porukama e-pošte, dokumentima, Skypeu za tvrtke, a zatim izvezite podatke-idite na **pretraživanje > pretraživanja sadržaja**</span><span class="sxs-lookup"><span data-stu-id="e7615-106">Use Content Search to search your organization for content in email, documents, Skype for Business conversations, and then export the data - Go to **Search > Content search**</span></span>
 
-- <span data-ttu-id="f3a94-107">Stvaranje slučaja predočavanja elektroničkih dokumenata radi traženja sadržaja i mjesta sadržaja na čekanju - idite na **predočavanje elektroničkih dokumenata > predočavanje elektroničkih dokumenata**</span><span class="sxs-lookup"><span data-stu-id="f3a94-107">Create an eDiscovery case to search for content and place content locations on hold - Go to **eDiscovery > eDiscovery**</span></span>
+- <span data-ttu-id="e7615-107">Stvaranje slučaja razotkrivanja za pretraživanje sadržaja i postavljanje mjesta sadržaja na čekanju-idite na **>** razotkrivanja</span><span class="sxs-lookup"><span data-stu-id="e7615-107">Create an eDiscovery case to search for content and place content locations on hold - Go to **eDiscovery > eDiscovery**</span></span>
 
-- <span data-ttu-id="f3a94-108">Koristite novo rješenje za otkrivanje naprednih elektroničkih dokumenata s kraja na kraj za identifikaciju i komunikaciju s skrbnicima, očuvanje skrbničkih podataka relevantnih za slučaj, prikupljanje podataka i dodavanje u skup pregleda te smanjenje količine podataka primjenom analitike kako biste smanjili nepotrebne podatke i usredotočili se na ono što je najvažnije za slučaj - idite na **predočavanje elektroničkih dokumenata > Napredno predočavanje elektroničkih dokumenata**</span><span class="sxs-lookup"><span data-stu-id="f3a94-108">Use the new end-to-end Advanced eDiscovery solution to identify and communicate with custodians, preserve custodian data relevant to the case, collect data and add it to a review set, and reduce the volume of data by applying analytics to cull out unnecessary data and focus on what most relevant to the case -  Go to **eDiscovery > Advanced eDiscovery**</span></span>
+- <span data-ttu-id="e7615-108">Koristite novo krajnje rješenje za naprednu verziju za otkrivanje i komunikacijom, sačuvajte podatke o skrbnicima koji su bitni za slučaj, prikupite podatke i dodajte ga u skup pregleda te smanjite glasnoću podataka primjenom analitičke vrijednosti da biste izbjegli nepotrebne podatke i usredotočili se na ono što je najrelevantnije za slučaj – posjetite **> Advanced Idiscovery**</span><span class="sxs-lookup"><span data-stu-id="e7615-108">Use the new end-to-end Advanced eDiscovery solution to identify and communicate with custodians, preserve custodian data relevant to the case, collect data and add it to a review set, and reduce the volume of data by applying analytics to cull out unnecessary data and focus on what most relevant to the case -  Go to **eDiscovery > Advanced eDiscovery**</span></span>
 
-<span data-ttu-id="f3a94-109">Dodatne informacije potražite u članku:</span><span class="sxs-lookup"><span data-stu-id="f3a94-109">For more information, see:</span></span>
+<span data-ttu-id="e7615-109">Dodatne informacije potražite u članku:</span><span class="sxs-lookup"><span data-stu-id="e7615-109">For more information, see:</span></span>
 
-- [<span data-ttu-id="f3a94-110">Pretraživanje sadržaja</span><span class="sxs-lookup"><span data-stu-id="f3a94-110">Content Search</span></span>](https://docs.microsoft.com/microsoft-365/compliance/content-search)
+- [<span data-ttu-id="e7615-110">Pretraživanje sadržaja</span><span class="sxs-lookup"><span data-stu-id="e7615-110">Content Search</span></span>](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [<span data-ttu-id="f3a94-111">Slučajevi predočavanja elektroničkih dokumenata u centru za usklađenost sigurnosnih &</span><span class="sxs-lookup"><span data-stu-id="f3a94-111">eDiscovery cases in the Security & Compliance Center</span></span>](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [<span data-ttu-id="e7615-111">slučajevi otkrivanja i oporavka u centru za sigurnost &</span><span class="sxs-lookup"><span data-stu-id="e7615-111">eDiscovery cases in the Security & Compliance Center</span></span>](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [<span data-ttu-id="f3a94-112">Napredno rješenje za predočavanje elektroničkih dokumenata u sustavu Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f3a94-112">Advanced eDiscovery solution in Microsoft 365</span></span>](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [<span data-ttu-id="e7615-112">Napredno rješenje za Idiscovery u programu Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="e7615-112">Advanced eDiscovery solution in Microsoft 365</span></span>](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
