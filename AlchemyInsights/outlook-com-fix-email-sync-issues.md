@@ -1,29 +1,30 @@
 ---
-title: Rješavanje problema sOutlook.com sinkronizacijom e-pošte
+title: Rješavanje problema sa sinkroniziranjem e-pošte Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6f48a145-b258-4d47-ac7e-c4c3f76bd1c1
 ms.custom:
 - "8000048"
-ms.openlocfilehash: da438ebeb28dbe8419067b5a89143322d29889f6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f66e1365339d2a6939299b1fe05364a04ccea9af
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760260"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671819"
 ---
-# <a name="fix-outlookcom-email-sync-issues"></a>Rješavanje problema sOutlook.com sinkronizacijom e-pošte
+# <a name="fix-outlookcom-email-sync-issues"></a>Rješavanje problema sa sinkroniziranjem e-pošte Outlook.com
 
-Ako ne možete slati ili primati e-poštu, najprije provjerite [status usluge](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409).
+Ako ne možete slati ni primati e-poštu, najprije provjerite [status servisa](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409).
   
-Ako ne primate e-poštu od određenog pošiljatelja, kao što su poruke za ponovno postavljanje lozinke, najprije provjerite nije li pošiljatelj na [popisu blokiranih pošiljatelja i domena](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomains).
+Ako ne primate poruku e-pošte određenog pošiljatelja, kao što su poruke o ponovnom postavljanju lozinki, najprije provjerite nije li pošiljatelj na [popisu Blokirani pošiljatelji i domene](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomains).
   
-Ako pošiljatelj nije na popisu blokiranih pošiljatelja, morat ćete se obratiti pošiljatelju i obavijestiti ih da ne primate e-poštu na Outlook.com računu. Molimo pogledajte [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409)pošiljatelja u kojem mogu pronaći informacije o najboljim praksama, preporučenom otklanjanju poteškoća i vezi da biste se obratili timu za podršku Outlook.com pošiljatelja.
+Ako se pošiljatelj ne nalazi na popisu Blokirani pošiljatelji, morat ćete se obratiti pošiljatelju i obavijestiti ih o tome da ne primate e-poštu na računu za Outlook.com. Obratite se pošiljatelju [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409) , gdje možete pronaći informacije o najboljim praksama, preporučene otklanjanja poteškoća i vezu da biste se obratili timu za podršku za Outlook.com.
   
-Ako uopće ne primate e-poštu, [pročitajte članak Rješavanje problema s Outlook.com sinkronizacijom e-pošte](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+Ako uopće ne primate e-poštu, pročitajte članak [Rješavanje problema s sinkronizacijom e-pošte Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
