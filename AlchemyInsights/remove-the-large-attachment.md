@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,24 +14,24 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 382ce7702e4726457ec802d1eec658477505e44e
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44568963"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701671"
 ---
 # <a name="remove-the-large-attachment"></a>Uklanjanje velikog privitka
 
-1. U programu Outlook odaberite **Slanje / primanje**  >  **izvanmrežnog rada**. 
-2. U navigacijskom oknu odaberite **Izlazna pošta**. Odavde možete: 
+1. U programu Outlook odaberite **Šalji/primi**  >  **Izvanmrežni rad**. 
+2. U navigacijskom oknu odaberite **Izlazna pošta**. Odavde možete učiniti sljedeće: 
     - Izbrišite poruku (odaberite je, a zatim odaberite **Izbriši**).
-    - Povucite poruku u mapu Skice, dvokliknite da biste je otvorili i uklonite ga, a zatim odaberite **Izbriši**).
-3. Ako primite pogrešku koja kaže da Outlook pokušava prenijeti poruku, zatvorite Outlook. Možda će trebati nekoliko trenutaka da izađe. Ako se Outlook ne zatvori, pritisnite Ctrl+Alt+Delete i odaberite **Pokreni upravitelj zadataka**. U upravitelju zadataka odaberite karticu **Procesi,** pomaknite se prema dolje do programa outlook.exe i odaberite **Završi proces**.
-4. Nakon zatvaranja programa Outlook ponovno ga pokrenite i ponovite korake 2 i 3. 
-5. Nakon što uklonite privitak, kliknite **Pošalji / primaj**  >  **izvanmrežni rad** da biste nastavili raditi na mreži. 
+    - Odvucite poruku u mapu Skice, dvokliknite je da biste je otvorili, a zatim uklonite privitak odaberite ga, a zatim odaberite **Izbriši**).
+3. Ako vam se prikaže pogreška koja kaže da Outlook pokušava prenijeti poruku, zatvaranje programa Outlook. Izlaz može potrajati nekoliko trenutaka. Ako se Outlook ne zatvori, pritisnite CTRL + ALT + DELETE, a zatim **Pokreni upravitelj zadataka**. U upravitelju zadataka odaberite karticu **procesi** , pomaknite se prema dolje do outlook.exe, a zatim odaberite **završi postupak**.
+4. Kada se Outlook zatvori, ponovno ga pokrenite, a zatim ponovite korake 2 i 3. 
+5. Kada uklonite privitak, kliknite **Šalji/primi**  >  **Izvanmrežni rad** da biste nastavili raditi na internetu. 
 
-Poruke se također zaglave u izlaznoj pošti kada kliknete **Pošalji**, ali niste povezani. Kliknite **Pošalji /primi i** pogledajte gumb **Izvanmrežni rad.** Ako je plava, isključena si. Kliknite ga da biste se povezali (gumb postaje bijel) i kliknite **Pošalji sve**.
+Poruke se zaglavile i u izlaznoj pošti kada kliknete **Šalji**, ali niste povezani. Kliknite **Šalji/primi** , a zatim pogledajte gumb **Izvanmrežni rad** . Ako je plavo, isključeni ste. Kliknite ga da biste se povezali (gumb postaje bijel), a zatim kliknite **Šalji sve**.
  
- Za sve pojedinosti pogledajte:
-- [Videozapis: Slanje ili brisanje zaglavljenih poruka e-pošte](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+ Sve pojedinosti potražite u članku:
+- [Videozapis: slanje ili brisanje zaglavljene poruke e-pošte](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
