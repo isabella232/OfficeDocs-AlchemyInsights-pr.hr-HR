@@ -5,24 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d86bf9c-8158-40e2-a26f-cffe1ed856d1
-ms.openlocfilehash: 543cbd51120bc87675d82597673a681bc5fc53b3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 51835611492b70627ef8f563f98b2922ee1454f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715106"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712320"
 ---
-# <a name="discard-a-check-out-from-a-document-library"></a>Odbacivanje odjave iz biblioteke dokumenata
+# <a name="discard-a-check-out-from-a-document-library"></a>Odbacivanje odjavnice iz biblioteke dokumenata
 
 1. Desnom tipkom miša kliknite datoteku koju želite odbaciti odjavu.
     
-2. Kliknite **Više**, a zatim **Odbaci odjavu**. 
+2. Kliknite **više**, a zatim **Odbaci odjavu**. 
     
-3. U dijaloškom okviru kliknite **Odbaci odjavu** da biste poništili odjavu. 
+3. U dijaloškom okviru kliknite **Odbaci odjavu** da biste očistili odjavu. 
     
-Dodatna pitanja o prijavi i odjavi potražite u [odjeljku Najčešća pitanja o odjavi, prijavi i verzijama](https://go.microsoft.com/fwlink/?linkid=2018786).
+Dodatne informacije o prijavi i odjavljivanja potražite [u članku pitanja o odjavi, prijavi i verzijama](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

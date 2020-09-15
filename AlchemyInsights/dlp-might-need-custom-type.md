@@ -1,43 +1,43 @@
 ---
-title: DLP možda će trebati prilagođenu vrstu
+title: DLP možda treba prilagođenu vrstu
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 1ec8959a479f1a8f7bfcffb55f440e8c4ab435fb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507506"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712176"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>DLP možda će trebati prilagođenu vrstu
+# <a name="dlp-might-need-a-custom-type"></a>DLP možda treba prilagođenu vrstu
 
 **Važno**: Tijekom ovih neočekivanih vremena poduzimamo korake kako bismo osigurali da servisi SharePoint Online i OneDrive i dalje budu široko raspoloživi – dodatne informacije potražite u [Privremene prilagodbe značajke SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**DLP može zahtijevati prilagođenu vrstu informacija**
+**DLP može zahtijevati prilagođenu vrstu podataka**
 
-Pomoću pravila za sprječavanje gubitka podataka (DLP) možete identificirati i zaštititi osjetljive podatke u tvrtki ili ustanovi. U nekim ćete scenarijima možda morati stvoriti vlastitu prilagođenu vrstu **osjetljivih** informacija da biste zaštitili podatke tvrtke ili ustanove.
+Pomoću pravilnika o sprječavanju gubitka podataka (DLP-a) možete identificirati i zaštititi osjetljive podatke u tvrtki ili ustanovi. U nekim slučajevima možda ćete morati stvoriti vlastite **prilagođene** vrste osjetljivih podataka da biste zaštitili podatke tvrtke ili ustanove.
 
-Na primjer, vaša tvrtka ili ustanova možda će morati identificirati i zaštititi ID-ove zaposlenika ili druge podatke u nekom obliku određenom za vašu tvrtku ili ustanovu. Ako je tako, dodatne informacije potražite u sljedećim člancima.
+Tvrtka ili ustanova možda će, primjerice, morati identificirati i zaštititi ID-ove zaposlenika ili druge podatke u nekom obliku specifičnom za vašu tvrtku ili ustanovu. Ako je tako, dodatne informacije potražite u sljedećim člancima.
   
- **Prilagodba ugrađene vrste osjetljivih informacija**
+ **Prilagođavanje ugrađene vrste osjetljivih informacija**
   
-Ako bi ugrađena vrsta osjetljivih informacija zadovoljila vaše potrebe sa samo nekoliko ugađanja, možete [prilagoditi ugrađenu vrstu osjetljivih informacija](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Na primjer, možete dodati ili ukloniti ključne riječi ili dodati ili ukloniti popratne dokaze kao što su datum ili adresa.
+Ako bi ugrađena vrsta osjetljive informacije zadovoljile vaše potrebe samo s nekoliko ugađanje, možete [prilagoditi ugrađenu vrstu osjetljivih podataka](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Možete, primjerice, dodavati ili uklanjati ključne riječi ili dodavati ili uklanjati popratne dokaze, kao što su Datum ili adresa.
   
- **Stvaranje prilagođene vrste osjetljivih informacija**
+ **Stvaranje prilagođene vrste osjetljivih podataka**
   
-No ako trebate potpuno identificirati i zaštititi drugu vrstu osjetljivih informacija, možete [stvoriti prilagođenu osjetljivu vrstu informacija](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) u korisničkom sučelju centra za usklađenost & sigurnosti.
+No ako morate identificirati i zaštititi različitu vrstu osjetljivih podataka, možete [stvoriti prilagođenu vrstu osjetljivog podataka](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) u korisničkom sučelju centra za zaštitu & usklađenosti.
   
-**Stvaranje prilagođene vrste osjetljivih informacija u dodatku PowerShell centar sigurnosti & usklađenosti**
+**Stvaranje prilagođene vrste osjetljivih informacija u sigurnosnom & PowerShell centra za usklađenost**
 
-Konačno, ako korisničko & ne nudi sve potrebne mogućnosti, možete [stvoriti prilagođenu vrstu osjetljivih informacija u sigurnosnoj & PowerShell centra za usklađenost](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Počevši od XML datoteke možete koristiti svaku dostupnu mogućnost.
+Na kraju, ako korisničko sučelje ne sadrži sve potrebne mogućnosti, možete [stvoriti prilagođenu vrstu osjetljivog podataka u sigurnosnom & PowerShell centra za usklađenost](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Pokretanjem XML datoteke možete koristiti svaku dostupnu mogućnost.
