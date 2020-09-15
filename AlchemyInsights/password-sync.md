@@ -1,5 +1,5 @@
 ---
-title: Kako provjeriti status sinkronizacije lozinkom
+title: Provjera statusa sinkronizacije lozinke
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765585"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665638"
 ---
-# <a name="enable-password-sync"></a>Omogući sinkronizaciju lozinkom
+# <a name="enable-password-sync"></a>Omogućivanje sinkronizacije lozinki
 
-1.  Na početnoj stranici centra za administratore sustava Microsoft 365 odaberite **Status dirinje.** 
+1.  Na početnoj stranici centra za administratore sustava Microsoft 365 odaberite **status Dirsync** . 
     
-     *Naizmjence možete otići na **korisnike aktivnih** \> **korisnika**, a na stranici Aktivni korisnici odaberite **Sinkronizacija više** \> **imenika.*** 
+     *Alternativno, možete otići do **korisnika** \> **aktivnih korisnika**, a na stranici aktivni korisnici odaberite **više** \> **sinkronizacije direktorija.*** 
     
-2. U oknu Sinkronizacija direktorija odaberite **Idi na DirSync upravljanje**. 
+2. U oknu sinkronizacija direktorija odaberite **Kreni na upravljanje DirSync**. 
     
-3. Sada ćete vidjeti svoj status i unijeti izmjene:
+3. Sada ćete vidjeti svoj status i unijeti promjene:
     
-    **Omogućena sinkronizacija lozinke:** (True ili False). Određuje jeste li omogućili sinkronizaciju lozinkom između lokalnog i klijenta. 
+    **Omogućena je sinkronizacija lozinke:** (TRUE ili FALSE). Određuje je li omogućeno sinkronizaciju lozinke između lokalnih i stanara. 
     
-    **Posljednja sinkronizacija lozinkom:** (zadnji put sinkronizacija lozinkom pokrenuta). Prikazat će se upozorenje i veza na alat za otklanjanje poteškoća ako je posljednja sinkronizacija bila prije više od tri dana. 
+    **Posljednja sinkronizacija lozinke:** (zadnji put sinkronizacija lozinke) Time će se prikazati upozorenje i veza na alat za otklanjanje poteškoća ako je zadnja sinkronizacija bila prije više od tri dana. 
     
 

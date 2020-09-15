@@ -1,27 +1,28 @@
 ---
-title: Nedostaje bilježnice
+title: Nema bilježnice
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: 8556f2a7398792d39e82b554435649ba69fa59e5
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800244"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667150"
 ---
-# <a name="recover-missing-notebook"></a>Oporavi nedostaje bilježnice
+# <a name="recover-missing-notebook"></a>Oporavljanje bilježnice koja nema
 
-Ako slučajno izbrisane bilježnicu na OneDrive, možete je oporaviti slijedeći korake u [Vraćanje izbrisane datoteke ili mape u OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+Ako je bilježnica na servisu OneDrive slučajno izbrisana, možete je oporaviti slijedeći korake u odjeljku [Vraćanje izbrisanih datoteka ili mapa na servisu OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-Možete oporaviti bilježnicu na izbrisane OneDrive unutar 30 dana po zadanom po followings korake u [Vraćanje izbrisanih OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+Bilježnicu možete oporaviti na izbrisanom servisu OneDrive u roku od 30 dana po zadanom slijedeći korake u odjeljku [Vraćanje izbrisanog servisa OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-OneNote možda koristi drugi račun nego li očekujete. Ako imate rad ili račun pod uvjetom školi uz osobni račun Microsoft, ćete morati dodati drugi račun da biste vidjeli sve bilježnice (pogledajte upute za [Dodavanje računa u programu OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+OneNote možda koristi neki drugi račun nego što očekujete. Ako imate račun na poslu ili u školi uz vaš osobni Microsoftov račun, morat ćete dodati i drugi račun da biste prikazali sve bilježnice (pogledajte upute za [Dodavanje računa u programu OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).

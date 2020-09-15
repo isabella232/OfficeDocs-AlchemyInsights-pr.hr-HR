@@ -1,39 +1,40 @@
 ---
-title: Otklanjanje poteškoća s prijavom iOS uređaja u Microsoft Intune
+title: Otklanjanje poteškoća s upisivanjem uređaja sa sustavom iOS u programu Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 664c18daca5d8e0ad4a88f41db3ff0dbced606e5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7d3e0049258a77016250c8a657c8fbcaf8d65212
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43736150"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669240"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Otklanjanje poteškoća s prijavom iOS uređaja u Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Otklanjanje poteškoća s upisivanjem uređaja sa sustavom iOS u programu Microsoft Intune
 
-Pregledajte dolje navedene resurse da biste riješili problem. 
+Pregledajte navedene resurse da biste sada riješili problem. 
   
-Neke uobičajene poruke o pogreškama i koraci rješenja:
+Neke česte poruke o pogreškama i koraci za rješavanje:
   
-- **Dosegnuta je gornja granica uređaja** Korisnik ima više uređaja prijavljenih od ograničenja uređaja. Pregledajte te dokumente da biste [uklonili uređaj](https://docs.microsoft.com/intune/devices-wipe) ili [promijenili ograničenje uređaja](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+- **Stigao je poklopac uređaja** Korisnik ima više uključenih uređaja od ograničenja uređaja. Pregledajte ove dokumente da biste [uklonili uređaj](https://docs.microsoft.com/intune/devices-wipe) ili [promijenili ograničenje uređaja](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-- **Ova usluga nije podržana. Nema pravila za prijavu:** Appleovu uslugu obavještavanja o pushu (APNS) potrebno je konfigurirati ili obnoviti. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) za upute o tome kako to učiniti. 
+- **Ovaj servis nije podržan. Nema pravilnika o upisu:** servis Apple push notifikacije (APN-ovi) mora biti konfiguriran ili obnovljen. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) radi uputa o tome kako to učiniti. 
     
-- **Vrsta licence korisnika nije valjana ili korisničko ime nije prepoznato:** Korisniku treba dodijeliti Intune ili EMS licencu. Pregledajte te dokumente da biste dodijelili licencu putem: [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) ili Portal [azure](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Vrsta korisničke licence nije valjana ili korisničko ime nije prepoznalo:** Korisniku je potrebno dodijeliti licencu za Intune ili EMS. Pregledajte ove dokumente da biste dodijelili licencu putem: [centar za administratore sustava Office](https://docs.microsoft.com/intune/licenses-assign) ili [portal Azure](https://docs.microsoft.com/azure/active-directory/license-users-groups).
     
-Dodatni resursi koji će vam pomoći u rješavanju problema:
+Dodatni resursi koji će vam olakšati rješavanje problema:
   
-1. Koristite [Intune Portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili uobičajene pogreške pri upisu. Dodatne informacije potražite [u ovom dokumentu.](https://docs.microsoft.com/intune/help-desk-operators) 
+1. Koristite [portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili česte neuspjehe upisa. Dodatne pojedinosti potražite u [ovom dokumentu](https://docs.microsoft.com/intune/help-desk-operators) . 
     
-2. Pregledajte te dokumente za popis uobičajenih pogrešaka koje sprječavaju prijavu i rješenja za svaku: [Vodič za otklanjanje poteškoća](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) i Otklanjanje poteškoća [.](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+2. Pregledajte ove dokumente za popis uobičajenih pogrešaka koje sprječavaju upis i rezolucije na svaki: upute za [Otklanjanje poteškoća](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) i [Otklanjanje poteškoća s liječnikom](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-3. [Saznajte kako prijaviti iOS uređaje u microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
+3. Upute [za upis uređaja sa sustavom iOS u programu Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
     
 
