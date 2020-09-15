@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,29 +14,29 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: c28c8b10cae72550fe7fe8ebf6cebc3635d28459
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44289554"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801869"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Ispis na obje strane papira (obostrani ispis)
 
-**Može li pisač biti obostrani ispis?**
+**Je li moj pisač sposoban za obostrani ispis?**
 
-Sažetak ili priručnik značajke pisača trebao bi vam reći je li moguće ispisivati na obje strane papira, također poznatom kao "obostrani ispis". Ako imate Microsoft Office, drugi način da saznate jest otvaranje aplikacije sustava Office kao što su Word ili Excel, odlazak u **File > Print**( Na primjer: 
+Sažetak ili priručnik programa pisača trebao bi vam reći je li moguće ispisivati na obje strane papira, poznatom i kao "duplex Printing". Ako imate Microsoft Office, još jedan način da saznate je da otvorite aplikaciju sustava Office, primjerice Word ili Excel, prikazat će se **datoteka > ispis**, da biste bili sigurni da je odabran odgovarajući pisač i tražite mogućnost u odjeljku Postavke. Na primjer: 
 
 ![Postavke pisača](media/print-settings.png)
 
-**Obostrani ispis u sustavu Microsoft Office**
+**Dvostrani ispis u sustavu Microsoft Office**
 
-Ako pisač može ispisivati na obje strane, kada otvorite **Opciju File > Print** u aplikaciji Office, vidjet ćete opciju "Ispis na obje strane", kao što je prikazano u gornjem primjeru.  Odaberite željenu vrstu obostranog ispisa (okrenite se na dugi rub ili okrenite na kratki rub) i kliknite **Ispis** da biste pokrenuli ispis.
+Ako je pisač sposoban ispisivati na obje strane, kada otvorite **datoteku > ispis** u aplikaciji sustava Office, prikazat će se mogućnost "ispis na obje strane", kao što je prikazano u gornjem primjeru.  Odaberite vrstu obostranog ispisa koji želite (flip na dugom rubu ili flip na kratkom rubu), a zatim kliknite **Ispis** da biste pokrenuli ispis.
 
-**Obostrani ispis iz bilo koje aplikacije**
+**Duplex ispis iz bilo koje aplikacije**
 
-U mnogim aplikacijama kada ispisujete vidjet ćete opći dijaloški okvir ispisa koji izgleda ovako: 
+U mnogim aplikacijama kada ispisujete prikazat će se opći dijaloški okvir Ispis koji izgleda ovako: 
 
 ![Dijaloški okvir Ispis](media/print-dialog.png)
 
-Provjerite je li odabran odgovarajući pisač, a zatim kliknite **Postavke** da biste otvorili prozor postavki pisača. Ako pisač može obostrani ispis, u tom prozoru prikazat će se mogućnost omogućivanja za trenutni zadatak ispisa.
+Provjerite je li odabran odgovarajući pisač, a zatim kliknite **Postavke** da biste otvorili prozor preferenci pisača. Ako je pisač sposoban za obostrani ispis, mogućnost omogućivanja tog tekućeg zadatka ispisa prikazat će se u tom prozoru.

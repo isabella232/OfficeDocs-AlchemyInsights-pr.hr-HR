@@ -1,30 +1,31 @@
 ---
-title: Problem s usmjerivačem ispisa riješen je
+title: Problem s spoolerom pri ispisu je riješen
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 53b1c9a8efa3cc978af8b602c8ed90430042186a
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088287"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801833"
 ---
-# <a name="print-spooler-issue-is-resolved"></a>Problem s usmjerivačem ispisa riješen je
+# <a name="print-spooler-issue-is-resolved"></a>Problem s spoolerom pri ispisu je riješen
 
-Ako je vaš uređaj ažuriran pomoću značajke Windows **10 OS Build 19041.329**, možda ste primijetili problem zbog kojeg se određeni pisači ne ispisuju. Usmjerivač ispisa može baciti pogrešku ili se neočekivano zatvoriti prilikom pokušaja ispisa, a izlaz ne dolazi s zahvaćenog pisača. Ovaj je problem riješen u međuverziji **OS-a 19041.331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
+Ako je vaš uređaj ažuriran sa sustavom Windows 10  **OS međuverzija 19041,329**, možda ste primijetili problem u kojem neki pisači ne mogu ispisati. Usmjerivač ispisa mogao bi slučajno baciti pogrešku ili se neočekivano zatvarati prilikom pokušaja ispisa, a izlaz ne dolazi s izvještačenog pisača. Taj je problem riješen u sustavu OS međuverzija  **19041,331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
 
-**Istraga koja je u tijeku**
+**Istraživanje u tijeku**
 
-Datoteka servisa podsustava lokalne sigurnosne ovlasti (LSASS)** (Isass.exe**) možda neće uspjeti na nekim uređajima s porukom o pogrešci "Kritični sistemski proces, C:\WINDOWS\system32\Isass.exe, nije uspio s kodom stanja c0000008. Aparat se sada mora ponovno pokrenuti".  **Microsoft radi na rješenju i pružit će ažuriranje u nadolazećem izdanju.**
+Datoteka lokalnog sigurnosnog autoriteta podsustava (LSASS) (**Isass.exe**) može pogriješiti na nekim uređajima s porukom o pogrešci "kritični Sistemski proces, C:\WINDOWS\system32\Isass.exe, nije uspio s kodom statusa c0000008. Stroj se sada mora ponovno pokrenuti ".  **Microsoft radi na rezoluciji i osigurat će ažuriranje u predstojećem izdanju.**
 
-Dodatne informacije potražite u [poznatim problemima verzije 2004 sustava Windows 10](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).
+Dodatne informacije potražite u odjeljku  [poznati problemi u sustavu Windows 10 verzije 2004](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).

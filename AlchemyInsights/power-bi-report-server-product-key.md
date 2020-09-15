@@ -1,29 +1,30 @@
 ---
-title: Ključ proizvoda za napajanje Dvosmjerno izvješće poslužitelja
+title: Ključ proizvoda za izvješće poslužitelja Power BI
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: dc4418ed53bfc9e40eae8936f1b135b71ad57934
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753490"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801941"
 ---
-# <a name="power-bi-report-server-product-key"></a>Ključ proizvoda za napajanje Dvosmjerno izvješće poslužitelja
+# <a name="power-bi-report-server-product-key"></a>Ključ proizvoda za izvješće poslužitelja Power BI
 
-Ako ste kupili Premium Dvosmjerno napajanja, unutar kartice **Premium postavke** napajanja Dvosmjerno administratorskog portala imate pristup ključ proizvoda napajanja Dvosmjerno izvješće poslužitelja. To je dostupna samo za globalnu administratori ili korisnicima dodijeliti ulogu administratora servisa Dvosmjerno napajanja.
+Ako ste kupili Power BI Premium, na kartici **Premium Settings** na portalu za administratore dodatka Power bi imate pristup ključu proizvoda Power bi za izvješće poslužitelja. Ovo je dostupno samo za globalne administratore ili korisnike koji su dodijelili ulogu administratora servisa Power BI.
 
-Odabirom **ključ napajanja Dvosmjerno izvješće poslužitelja** prikazuje dijaloški okvir koji sadrži ključ proizvoda. Možete ga kopirati i koristiti s instalacijom.
+Odabirom **ključa poslužitelja izvješća dodatka Power bi** prikazat će se dijaloški okvir koji sadrži ključ proizvoda. Možete je kopirati i koristiti uz instalaciju.
 
-Ako imate sporazum SQL Server Enterprise Južne Amerike, možete dobiti ključ proizvoda iz [Glasnoće licenciranje servisni centar](https://www.microsoft.com/Licensing/servicecenter/).
+Ako imate ugovor SA sustavom SQL Server Enterprise SA, možete nabaviti ključ proizvoda iz [servisnog centra za količinsko licenciranje](https://www.microsoft.com/Licensing/servicecenter/).
 
-Dodatne informacije:https://docs.microsoft.com/power-bi/report-server/install-report-server
+Dodatne informacije: https://docs.microsoft.com/power-bi/report-server/install-report-server

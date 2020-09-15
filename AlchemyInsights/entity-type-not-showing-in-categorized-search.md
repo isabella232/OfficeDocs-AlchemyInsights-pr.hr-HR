@@ -1,24 +1,25 @@
 ---
-title: Vrsta entiteta ne prikazuje se u kategoriziranim rezultatima pretraživanja ili relevantnosti u objedinjenom sučelju sustava Dynamics 365
+title: Vrsta entiteta koja se ne prikazuje u rezultatima pretraživanja kategorizirane ili relevantnosti u sustavu Dynamics 365 Unified Interface
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: 5a96797ef03659bc6cab665f170dee9a9c62872f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703274"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709323"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Vrsta entiteta ne prikazuje se u rezultatima pretraživanja
+# <a name="entity-type-not-showing-in-search-results"></a>Vrsta entiteta koja se ne prikazuje u rezultatima pretraživanja
 
-Da bi se vrsta entiteta prikazala u kategoriziranom pretraživanju ili pretraživanju po važnosti u objedinjenom sučelju sustava Dynamics 365, ona se mora najprije dodati modulu aplikacije.
+Da bi se vrsta entiteta prikazivao u kategoriziranom pretraživanju i značajnosti pretraživanja u jedinstvenom sučelju Dynamics 365, mora se najprije dodati u modul aplikacija.
 
-Napomena: prilikom traženja privitaka u pretraživanju po važnosti entitet privitka mora se dodati modulu aplikacije iako je nadređeni zapis ono što se prikazuje u rezultatima.
+Pažnja: kada tražite privitke u pretraživanju relevantnosti, entitet privitka mora biti dodan u modul aplikacija iako je nadređeni zapis prikazano u rezultatima.

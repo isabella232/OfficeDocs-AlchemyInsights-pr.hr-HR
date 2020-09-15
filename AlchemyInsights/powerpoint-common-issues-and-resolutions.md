@@ -1,35 +1,36 @@
 ---
-title: Uobičajeni problemi i rješenja programa PowerPoint
+title: Česti problemi i rezolucije programa PowerPoint
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "3776"
-ms.openlocfilehash: 6562dfcbbf41014cdf1ae93424616d8ab1288082
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0fb5912194d7f07615b62e9dce979fa775cef1a7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "43955517"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721142"
 ---
-# <a name="powerpoint-common-issues-and-resolutions"></a>Uobičajeni problemi i rješenja programa PowerPoint
+# <a name="powerpoint-common-issues-and-resolutions"></a>Česti problemi i rezolucije programa PowerPoint
 
-Evo nekoliko često traženih tema u programu PowerPoint:
+Evo nekoliko često zatraženih tema u programu PowerPoint:
 
-1. [PowerPoint ne reagira, smrzava se ili se zamrzava.](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d)
+1. [PowerPoint ne reagira, visi ili se zamrzava](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d).
 
 2. [PowerPoint ne može umetnuti videozapis iz odabrane datoteke](https://support.office.com/article/PowerPoint-cannot-insert-a-video-from-the-selected-file-acd46430-9e0c-4dca-9484-19cf0afdde7c).
 
-3. **Videozapisi**: [Umetnite videodatoteku s računala](https://support.office.com/article/insert-and-play-a-video-file-from-your-computer-f3fcbd3e-5f86-4320-8aea-31bff480ed02), [umetnite videozapis s YouTubea](https://support.office.com/article/Insert-a-video-from-YouTube-or-another-site-8340ec69-4cee-4fe1-ab96-4849154bc6db)te [formate video i audiodatoteka podržanih u programu PowerPoint](https://support.office.com/article/video-and-audio-file-formats-supported-in-powerpoint-d8b12450-26db-4c7b-a5c1-593d3418fb59).
+3. **Videozapisi**: [Umetanje videodatoteke s računala](https://support.office.com/article/insert-and-play-a-video-file-from-your-computer-f3fcbd3e-5f86-4320-8aea-31bff480ed02), [Umetanje videozapisa s servisa YouTube](https://support.office.com/article/Insert-a-video-from-YouTube-or-another-site-8340ec69-4cee-4fe1-ab96-4849154bc6db)i [videodatoteka i audiodatoteka u programu PowerPoint](https://support.office.com/article/video-and-audio-file-formats-supported-in-powerpoint-d8b12450-26db-4c7b-a5c1-593d3418fb59).
 
-4. **Ispis**: Za najbolje primjere iz prakse i probleme povezane s ispisom pregledajte informacije u [odjeljku Ispis slajdova i bilješki](https://support.office.com/article/Print-your-PowerPoint-slides-handouts-or-notes-194d4320-aa03-478b-9300-df25f0d15dc4)programa PowerPoint . 
+4. **Ispis**: za najbolje prakse i probleme vezane uz ispis pregledajte informacije u odjeljku [Ispis slajdova i bilježaka programa PowerPoint](https://support.office.com/article/Print-your-PowerPoint-slides-handouts-or-notes-194d4320-aa03-478b-9300-df25f0d15dc4). 
 
-5. **Fontovi**: Da biste zajednički koristili fontove s prezentacijama, [pročitajte članak Ugradi fontove u programu Word ili PowerPoint](https://support.office.com/article/Embed-fonts-in-Word-or-PowerPoint-cb3982aa-ea76-4323-b008-86670f222dbc).
+5. **Fontovi**: da biste zajednički koristili fontove s prezentacijama, pročitajte [Umetanje fontova u programu Word ili PowerPoint](https://support.office.com/article/Embed-fonts-in-Word-or-PowerPoint-cb3982aa-ea76-4323-b008-86670f222dbc).
 
-6. **Značajke:** [usporedite značajke programa PowerPoint](https://support.office.com/article/Compare-PowerPoint-features-on-different-platforms-90986850-227c-4b25-938e-1c5838166b8b#bm11) na platformama sa sustavom Windows, Mac, web i mobile.
+6. **Značajke**: [usporedite značajke programa PowerPoint](https://support.office.com/article/Compare-PowerPoint-features-on-different-platforms-90986850-227c-4b25-938e-1c5838166b8b#bm11) na svim uređajima sa sustavom Windows, Mac, web i mobilnim platformama.

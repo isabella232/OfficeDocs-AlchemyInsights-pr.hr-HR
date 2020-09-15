@@ -1,24 +1,25 @@
 ---
-title: 'Pogreška 404: Datoteka nije pronađena'
+title: 'Pogreška 404: datoteka nije pronađena'
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1406ad5b0cef0bb2b35308177ec476e309876a55
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3d8e0d855e1e5fe702d468c0a4075a6f3264e67c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506874"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709215"
 ---
-# <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Pogreška 404: Datoteka nije pronađena u sustavima SharePoint ili OneDrive
+# <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Pogreška 404: datoteka nije pronađena u sustavu SharePoint ili na servisu OneDrive
 
-**Pogreška 404: Datoteka nije pronađena** prima se kada korisnici pokušavaju pristupiti web-mjestu ili datoteci u sustavu SharePoint ili OneDrive. To često uzrokuje preimenovanje, premještanje ili brisanje web-mjesta ili datoteke ili grupe.
-Korisnik htijenje iskustvo greška našto pokus to pristup korijen položaj skupljanje i Internet je izbrisati.
+**Pogreška 404: datoteka nije pronađena** primljena je kada korisnici pokušaju pristupiti web-mjestu ili datoteci u sustavu SharePoint ili na servisu OneDrive. To se često događa zbog web-mjesta ili datoteke ili grupe koje se preimenuju, premještaju ili brišu.
+Prilikom pokušaja pristupanja korijenskoj zbirci web-mjesta korisnici će doživjeti pogrešku i izbrisana je.
 
-Sljedeće može pomoći u rješavanju ovog problema:
-- [Prikaz i vraćanje izbrisanih web-mjesta u novom centru za administratore sustava SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): za moderna web-mjesta (komunikacija, povezana grupa ili druga web-mjesta) koja postoje u novom pretpregledu centra za administratore.
-- [Vraćanje stavki u košu za smeće sharepoint web-mjesta](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): Da biste riješili datoteku (ili drugu stavku) koja je preimenovana, premještena ili izbrisana idite na web-mjesto sustava SharePoint ili OneDrive i pregledajte koš za smeće iz sadržaja web-mjesta.
-- [Pretraživanje zapisnika nadzora u sigurnosnom &amp; Centar za usklađenost](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance): Pretražite zapisnik nadzora (ako je zapisivanje omogućeno) ako i dalje ne možete pronaći stavku.
+U nastavku je moguće pomoći pri rješavanju tog problema:
+- [Prikaz i vraćanje izbrisanih web-mjesta u novom centru za administratore sustava SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): za moderna web-mjesta (komunikacija, grupno povezana ili druga web-mjesta) koja postoje u novom pretpregledu centra za administratore.
+- [Vraćanje stavki u koš za smeće web-mjesta sustava SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): da biste riješili datoteku (ili neku drugu stavku) koja je preimenovana, premještena ili izbrisana, otvorite web-mjesto sustava SharePoint ili OneDrive i prikažite koš za smeće iz sadržaja web-mjesta.
+- [Pretraživanje zapisnika nadzora u sigurnosnoj &amp; Centar za usklađenost](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance): pretraživanje zapisnika nadzora (ako je omogućeno zapisivanje) Ako još uvijek ne možete pronaći stavku.
