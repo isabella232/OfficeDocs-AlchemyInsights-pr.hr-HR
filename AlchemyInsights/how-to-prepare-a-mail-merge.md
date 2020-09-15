@@ -1,26 +1,27 @@
 ---
-title: Kako pripremiti cirkularno pismo
+title: Priprema cirkularnog pisma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3041"
 - "9000588"
-ms.openlocfilehash: 8dcbd1f9284af80d6b0b896ed74a45999dbd27a2
-ms.sourcegitcommit: 8004ee243b5c68ff9532224a2e6c69dda0abbd0b
+ms.openlocfilehash: cdb839c13edac4df1da3208930dd6c8f6814897c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37441263"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703761"
 ---
-# <a name="how-to-prepare-a-mail-merge"></a>Kako pripremiti cirkularno pismo
+# <a name="how-to-prepare-a-mail-merge"></a>Priprema cirkularnog pisma
 
-Za informacije o cirkularnim pismima na različitim platformama slijedite upute u [upotrebi cirkularnih pisama za masovno e-poštu, slova, naljepnice i omotnice](https://support.office.com/article/use-mail-merge-for-bulk-email-letters-labels-and-envelopes-f488ed5b-b849-4c11-9cff-932c49474705).
+Informacije o cirkularnim pismima na drugim platformama slijedite upute u [odjeljku Korištenje cirkularnih pisama za masovne poruke e-pošte, slova, naljepnice i omotnice](https://support.office.com/article/use-mail-merge-for-bulk-email-letters-labels-and-envelopes-f488ed5b-b849-4c11-9cff-932c49474705).
  
-Dodatne informacije o korištenju programa Excel za cirkularno pismo potražite u nastavku [pripreme podatkovnog izvora programa Excel za cirkularna](https://support.office.com/article/prepare-your-excel-data-source-for-a-word-mail-merge-2d802b6b-a3a3-43e5-bb76-2cac7c68673e) pisma i [Cirkularna pisma pomoću Excelove proračunske tablice](https://support.office.com/article/Mail-merge-using-an-Excel-spreadsheet-858c7d7f-5cc0-4ba1-9a7b-0a948fa3d7d3).
+Dodatne informacije o korištenju programa Excel za cirkularna pisma potražite u članku [priprema izvora podataka programa Excel za cirkularna](https://support.office.com/article/prepare-your-excel-data-source-for-a-word-mail-merge-2d802b6b-a3a3-43e5-bb76-2cac7c68673e) pisma i [Cirkularna pisma pomoću proračunske tablice programa Excel](https://support.office.com/article/Mail-merge-using-an-Excel-spreadsheet-858c7d7f-5cc0-4ba1-9a7b-0a948fa3d7d3).
  
