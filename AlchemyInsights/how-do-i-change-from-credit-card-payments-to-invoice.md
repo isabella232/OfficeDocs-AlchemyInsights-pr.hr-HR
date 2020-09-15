@@ -1,11 +1,12 @@
 ---
-title: Kako promijeniti plaćanje kreditnom karticom na fakturu?
+title: Kako promijeniti iz plaćanja kreditnim karticama u fakturu?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,30 +14,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 9b9008dca74e6aa8e6a05010361359a078dbd590
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4004ce468accad778e52b61bbab7e6c5dd1b13dd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44498927"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704967"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kako promijeniti plaćanje kreditnom karticom na fakturu?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kako promijeniti iz plaćanja kreditnim karticama u fakturu?
 
 > [!NOTE]
-> Mogućnost plaćanja fakturom dostupna je samo ako vaša pretplata košta određeni iznos (što se razlikuje ovisno o lokaciji usluge). Za veća plaćanja fakture možda će biti potrebna kreditna provjera. Dodatne informacije potražite u [odjeljku Plaćanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+> Mogućnost plaćanja računom dostupna je samo ako vaša pretplata košta više od određenog iznosa (koja se razlikuje od mjesta servisa). Kreditna provjera može biti potrebna za veće uplate na fakturi. Dodatne informacije potražite u članku [Plaćanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
 
-1. U centru za administratore **Billing**otvorite  >  stranicu[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. U centru za administratore otvorite stranicu **naplata**  >  [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Pronađite pretplatu koju želite promijeniti. U **odjeljku Naplata**pokraj načina plaćanja odaberite **Uredi**.
+2. Pronađite pretplatu koju želite promijeniti. U odjeljku **naplata**uz način plaćanja odaberite **Uređivanje**.
 
-3. Pored postojećeg načina plaćanja odaberite **Promijeni**.
+3. Uz postojeći način plaćanja odaberite **Promijeni**.
 
-4. Na padajućem izborniku odaberite **Faktura ili bankovni prijenos**.
+4. Na padajućem izborniku odaberite **faktura ili prijenos žice**.
 
-5. Unesite svoje ime, adresu i telefonski broj. Možete dodati i POŠTANSKI BROJ koji će se prikazati na fakturi.
+5. Unesite svoje ime, adresu i telefonski broj. Možete i dodati poštanski broj za prikaz na fakturi.
 
 6. Kada završite, odaberite **Spremi**.
 
 7. Provjerite je li odabrani način plaćanja ispravan, a zatim odaberite **Spremi**.
 
-Dodatne informacije [potražite u odjeljku Promjena načina plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Dodatne informacije potražite u članku [Promjena načina plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
