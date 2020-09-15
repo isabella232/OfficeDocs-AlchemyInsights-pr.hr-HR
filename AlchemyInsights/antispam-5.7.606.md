@@ -1,25 +1,26 @@
 ---
-title: Antispam - 5.7.23
+title: Antispam-5.7.23
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7b3a322c8241f24d30d36cfd1a4440737466b58f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44232321"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717281"
 ---
-# <a name="banned-sending-ip"></a>Zabranjeno slanje IP-a
+# <a name="banned-sending-ip"></a>Zabranjen slanje IP-a
 
-Prilikom slanja primatelju sustava Office 365 pošiljatelj može doživjeti ovu pogrešku. Pošiljatelj mora posjetiti [portal za razgraničenost IP-a za Office 365](https://sender.office.com/) i navesti adresu e-pošte i IP adresu koju treba delistirati. Ako ne prime poruku e-pošte za potvrdu s portala, neka provjere mapu neželjene pošte i/ili pokušaju s drugom adresom e-pošte. 
+Prilikom slanja primatelju sustava Office 365 pošiljatelj može doživjeti tu pogrešku. Pošiljatelj mora posjetiti [web-portal Office 365 anti-spam IP delist](https://sender.office.com/) i dodijeliti adresu e-pošte i IP adresu koju je potrebno poništiti. Ako ne prime e-poštu za potvrdu s portala, potvrdite mapu spam i/ili pokušajte s nekom drugom adresom e-pošte. 
 
-- Detaljne upute potražite [u odjeljku Uklanjanje popisa blokiranih pošiljatelja pomoću portala za uklanjanje.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide)
+- Detaljne upute potražite u članku [Korištenje portala za poništavanje popisa da biste se uklonili s popisa blokirani pošiljatelji](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).
