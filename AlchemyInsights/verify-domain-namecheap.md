@@ -1,26 +1,27 @@
 ---
-title: Potvrda domene pomoću servisa Namecheap
+title: Potvrda domene s imenima jeftinim
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 046a64632c4708ddd48730e00b13da13880ae365
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c3544cfd0c1a5ca975a40959a1afbc8446a7f07c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721706"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689262"
 ---
-# <a name="verify-your-domain-with-namecheap"></a><span data-ttu-id="d0ce9-102">Potvrda domene pomoću servisa Namecheap</span><span class="sxs-lookup"><span data-stu-id="d0ce9-102">Verify your domain with Namecheap</span></span>
+# <a name="verify-your-domain-with-namecheap"></a><span data-ttu-id="26981-102">Potvrda domene s imenima jeftinim</span><span class="sxs-lookup"><span data-stu-id="26981-102">Verify your domain with Namecheap</span></span>
 
-<span data-ttu-id="d0ce9-103">Da biste potvrdili domenu, morat ćete dodati TXT zapis u registrar domena da biste provjerili jeste li vlasnik domene.</span><span class="sxs-lookup"><span data-stu-id="d0ce9-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="26981-103">Da biste potvrdili svoju domenu, u registraru domene morate dodati TXT zapis da biste potvrdili da ste vlasnik domene.</span><span class="sxs-lookup"><span data-stu-id="26981-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="d0ce9-104">Najprije slijedite čarobnjak za [dodavanje domene](https://portal.office.com/adminportal/home#/Domains) tako da odaberete **Domene postavki** \> **Domains**, a zatim **Dodaj domenu**.</span><span class="sxs-lookup"><span data-stu-id="d0ce9-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="26981-104">Najprije slijedite čarobnjak za [Dodavanje domena](https://portal.office.com/adminportal/home#/Domains) odabirom **Settings** \> **domena**postavke, a zatim **dodajte domenu**.</span><span class="sxs-lookup"><span data-stu-id="26981-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="d0ce9-105">Detaljne upute [potražite u članku Stvaranje DNS zapisa na adresi Namecheap za Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap)</span><span class="sxs-lookup"><span data-stu-id="d0ce9-105">See [Create DNS records at Namecheap for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) for step-by-step instructions.</span></span>
+<span data-ttu-id="26981-105">Pročitajte članak [Stvaranje DNS zapisa kod naziva jeftinog za Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) za detaljne upute.</span><span class="sxs-lookup"><span data-stu-id="26981-105">See [Create DNS records at Namecheap for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) for step-by-step instructions.</span></span>

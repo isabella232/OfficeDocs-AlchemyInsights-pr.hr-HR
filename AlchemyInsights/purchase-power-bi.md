@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: a8bdf15609c74c28626f0c2aa4e7c8fd1ad66f89
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: 10fde333750415d17f42d75475b16dc802fd024c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44282633"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693331"
 ---
-# <a name="purchase-power-bi"></a><span data-ttu-id="4d6f1-102">Kupnja dodatka Power BI</span><span class="sxs-lookup"><span data-stu-id="4d6f1-102">Purchase Power BI</span></span>
+# <a name="purchase-power-bi"></a><span data-ttu-id="04382-102">Kupnja dodatka Power BI</span><span class="sxs-lookup"><span data-stu-id="04382-102">Purchase Power BI</span></span>
 
-<span data-ttu-id="4d6f1-103">Power BI možete kupiti u centru za **administratore sustava Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="4d6f1-103">Power BI can be purchased in the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="04382-103">Power BI se može kupiti u **centru za administratore sustava Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="04382-103">Power BI can be purchased in the **Microsoft 365 admin center**.</span></span>
 
-1. <span data-ttu-id="4d6f1-104">Otvorite stranicu \*\*> [Kupnja naplate.](https://go.microsoft.com/fwlink/p/?linkid=868433) \*\*</span><span class="sxs-lookup"><span data-stu-id="4d6f1-104">Go to the **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.</span></span>
+1. <span data-ttu-id="04382-104">Idite na stranicu \*\*naplata > [nabave servisa](https://go.microsoft.com/fwlink/p/?linkid=868433) \*\* .</span><span class="sxs-lookup"><span data-stu-id="04382-104">Go to the **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)** page.</span></span>
 
-2. <span data-ttu-id="4d6f1-105">Pomoću okvira za pretraživanje pretražujte na "Power BI".</span><span class="sxs-lookup"><span data-stu-id="4d6f1-105">Use the Search box to search on "Power BI".</span></span>
+2. <span data-ttu-id="04382-105">Pomoću okvira za pretraživanje potražite u odjeljku "Power BI".</span><span class="sxs-lookup"><span data-stu-id="04382-105">Use the Search box to search on "Power BI".</span></span>
 
-3. <span data-ttu-id="4d6f1-106">Odaberite tarifu za Power BI koju želite kupiti.</span><span class="sxs-lookup"><span data-stu-id="4d6f1-106">Select the Power BI plan you want to purchase.</span></span>
+3. <span data-ttu-id="04382-106">Odaberite plan dodatka Power BI koji želite kupiti.</span><span class="sxs-lookup"><span data-stu-id="04382-106">Select the Power BI plan you want to purchase.</span></span>
 
-4. <span data-ttu-id="4d6f1-107">Odaberite broj korisnika koji će koristiti Power BI.</span><span class="sxs-lookup"><span data-stu-id="4d6f1-107">Select the number of users who will use Power BI.</span></span>
+4. <span data-ttu-id="04382-107">Odaberite broj korisnika koji će koristiti Power BI.</span><span class="sxs-lookup"><span data-stu-id="04382-107">Select the number of users who will use Power BI.</span></span>
 
-<span data-ttu-id="4d6f1-108">Da biste dodijelili licence korisnicima, [pročitajte u članku Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="4d6f1-108">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span></span>
+<span data-ttu-id="04382-108">Da biste korisnicima dodijelili licence, pročitajte članak [Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="04382-108">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span></span>
 
-<span data-ttu-id="4d6f1-109">Da biste kupili dodatne licence ili uklonili postojeće, pročitajte članak [Dodavanje/uklanjanje licenci za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span><span class="sxs-lookup"><span data-stu-id="4d6f1-109">To buy more or remove licenses, see [Add/Remove Licenses for subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
+<span data-ttu-id="04382-109">Da biste kupili dodatne licence ili uklonili postojeće, pročitajte članak [Dodavanje/uklanjanje licenci za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span><span class="sxs-lookup"><span data-stu-id="04382-109">To buy more or remove licenses, see [Add/Remove Licenses for subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
