@@ -5,28 +5,29 @@ author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 7c2ae754c86a3502092b622c55d18f3f4006bf8b
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 570284765f32212b4ef2062db5b70f427b28c121
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582227"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692035"
 ---
 # <a name="restore-a-deleted-site"></a>Vraćanje izbrisanog web-mjesta
 
-Kada administrator izbriše Web-mjesto sustava SharePoint, on se nalazi u košu za smeće zbirke web-mjesta, gdje se čuva 93 dana prije trajnog brisanja. Da biste vratili web-mjesto:
+Kada administrator izbriše web-mjesto sustava SharePoint, ona će se smjestiti u koš za smeće zbirke web-mjesta, gdje se čuva za 93 dana prije nego što ga trajno izbrišete. Da biste vratili web-mjesto, učinite sljedeće:
   
-1. U novom centru za administratore sustava SharePoint na vrpci kliknite **Koš za smeće.** 
+1. U novom centru za administratore sustava SharePoint kliknite **Koš za** smeće na vrpci. 
     
 2. Potvrdite okvir pokraj zbirke web-mjesta koju želite vratiti.
     
 3. Kliknite **Vrati izbrisane stavke**.
     
-Da biste vratili izbrisano komunikacijsko web-mjesto, možete koristiti novi centar za administratore sustava SharePoint. U suprotnom morate koristiti Microsoft PowerShell. Da biste vratili web-mjesto koje pripada grupi Microsoft 365, morate vratiti grupu u centru za administratore sustava Exchange. Grupe se mogu vratiti 30 dana nakon brisanja.
+Da biste vratili izbrisano web-mjesto za komunikaciju, možete koristiti novi centar za administratore sustava SharePoint. U suprotnom morate koristiti Microsoft PowerShell. Da biste vratili web-mjesto koje pripada grupi Microsoft 365, morate vratiti grupu u centar za administratore sustava Exchange. Grupe se mogu vratiti 30 dana nakon brisanja.
   
 
