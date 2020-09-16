@@ -1,33 +1,34 @@
 ---
-title: Microsoft Forms catchall
+title: Microsoftovi obrasci catchall
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2549"
 - "9000672"
-ms.openlocfilehash: 0d8a36727eb7146d3582bf0258408cb8a0871a58
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: eac1aea5cbd0117db0555ff6b4578d7242072d11
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698518"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724931"
 ---
-# <a name="get-information-about-microsoft-forms"></a>Informacije o microsoft formsu
+# <a name="get-information-about-microsoft-forms"></a>Dohvaćanje informacija o Microsoftovim obrascima
 
-Za konkretne informacije o Microsoft Formsu kratko preformulirajte pitanje da biste opisali problem, uključujući pogreške, značajke koje koristite itd. 
+Za konkretne informacije o Microsoftovim obrascima ukratko ponovno formulirajte pitanje da biste opisali problem, uključujući pogreške, značajke koje koristite itd. 
 
 Evo nekoliko dodatnih resursa:
 
-- [Provjera aktivacije licence i statusa azure CollabDBService za klijenta](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43)
-- [Zajedničko korištenje kviza ili obrasca u Microsoft Formsu](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
-- [Upravljanje mogućnošću zajedničkog korištenja obrazaca izvana](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?#PickTab=Configure)
-- [Brisanje obrasca ili oporavak izbrisanog obrasca](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0)
-- [Rezultati ispisa u obliku sažetka odgovora](https://support.office.com/article/Print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc)
-- [Premještanje upitnika, kviza ili ankete u grupu](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
-- [Prijenos vlasništva nad obrascem drugom korisniku](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
+- [Provjera licencne aktivacije i status servisa Azure CollabDBService za svog korisnika](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43)
+- [Zajedničko korištenje testa ili obrasca u programu Microsoft Forms](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
+- [Upravljanje mogućnošću zajedničkog korištenja obrazaca](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?#PickTab=Configure)
+- [Brisanje obrasca ili Oporavak izbrisanog obrasca](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0)
+- [Ispis rezultata u obliku sažetka odgovora](https://support.office.com/article/Print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc)
+- [Premještanje ankete, testa ili ankete u grupu](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
+- [Prijenos vlasništva nad obrascem na drugog korisnika](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
