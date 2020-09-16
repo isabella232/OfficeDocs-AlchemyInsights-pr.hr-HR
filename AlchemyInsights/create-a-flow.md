@@ -1,29 +1,30 @@
 ---
-title: Stvaranje tijeka
+title: Stvaranje toka
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 280169200893921fa550264cceca5f5980937536
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 38c62c3554b00233e9520e107b2f8a1cc1956b7b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715552"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732851"
 ---
-# <a name="microsoft-flow"></a><span data-ttu-id="ecf95-102">Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="ecf95-102">Microsoft Flow</span></span>
+# <a name="microsoft-flow"></a><span data-ttu-id="111be-102">Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="111be-102">Microsoft Flow</span></span>
 
-<span data-ttu-id="ecf95-103">Microsoft Flow pomaže vam automatizirati uobičajene zadatke.</span><span class="sxs-lookup"><span data-stu-id="ecf95-103">Microsoft Flow helps you automate common tasks.</span></span> <span data-ttu-id="ecf95-104">Koristite ga za postavljanje tijekova rada za popise i biblioteke.</span><span class="sxs-lookup"><span data-stu-id="ecf95-104">Use it to set up workflows for lists and libraries.</span></span> <span data-ttu-id="ecf95-105">Da biste saznali kako dodati tijek popisu ili biblioteci na web-mjestu SharePoint Online ili OneDrive, [pročitajte članak Stvaranje tijeka](https://go.microsoft.com/fwlink/?linkid=869408).</span><span class="sxs-lookup"><span data-stu-id="ecf95-105">To learn how to add a flow to a list or library in SharePoint Online or OneDrive, see [Create a flow](https://go.microsoft.com/fwlink/?linkid=869408).</span></span>
+<span data-ttu-id="111be-103">Microsoft Flow olakšava automatiziranje običnih zadataka.</span><span class="sxs-lookup"><span data-stu-id="111be-103">Microsoft Flow helps you automate common tasks.</span></span> <span data-ttu-id="111be-104">Koristite ga da biste postavili tijekove rada za popise i biblioteke.</span><span class="sxs-lookup"><span data-stu-id="111be-104">Use it to set up workflows for lists and libraries.</span></span> <span data-ttu-id="111be-105">Informacije o dodavanju toka na popis ili u biblioteku u sustavu SharePoint Online ili na servisu OneDrive potražite u članku [Stvaranje toka](https://go.microsoft.com/fwlink/?linkid=869408).</span><span class="sxs-lookup"><span data-stu-id="111be-105">To learn how to add a flow to a list or library in SharePoint Online or OneDrive, see [Create a flow](https://go.microsoft.com/fwlink/?linkid=869408).</span></span>
   
-[<span data-ttu-id="ecf95-106">Videozapisi o programu Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="ecf95-106">Videos about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=864641)
+[<span data-ttu-id="111be-106">Videozapisi o programu Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="111be-106">Videos about Microsoft Flow</span></span>](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[<span data-ttu-id="ecf95-107">Web-mjesto aplikacije Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="ecf95-107">Microsoft Flow website</span></span>](https://go.microsoft.com/fwlink/?linkid=864642)
+[<span data-ttu-id="111be-107">Web-mjesto sustava Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="111be-107">Microsoft Flow website</span></span>](https://go.microsoft.com/fwlink/?linkid=864642)
   
 
