@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: bf86d0f3f01221211b7759a0f874ef9c6758a276
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 429dfe3d66fb37a62e2355084cd30c5e4fe16e71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508152"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757328"
 ---
 # <a name="canceling-your-subscription"></a>Otkazivanje pretplate?
 
-Žao nam je što odlazite, ali ako želite otkazati pretplatu, evo vaših mogućnosti:
+Žao nam je što odlazite, ali ako želite otkazati pretplatu, evo mogućnosti:
   
-- Ako ste probni kupac, nema ništa otkazati. Probne pretplate istječu automatski, osim ako ne navedete način plaćanja.
+- Ako ste probna mušterija, nema ništa za otkazivanje. Probne pretplate automatski će isteći ako ne navedete način plaćanja.
 
-- Ako imate manje od 25 dodijeljenih licenci, pretplatu možete otkazati na internetu. Otvorite **Billing** \> stranicu **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)** U odjeljku **Akcije & postavki** odaberite **Odustani od pretplate**.
+- Ako imate manje od 25 dodijeljenih licenci, možete otkazati pretplatu na internetu. Idite na stranicu **naplata** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** . U odjeljku **postavke & akcije** odaberite Odustani od **pretplate**.
 
-- Ako imate više od 25 dodijeljenih licenci, možete ukloniti korisnike dok ne budete imali manje od 25 licenci.
+- Ako imate više od 25 dodijeljenih licenci, možete ukloniti korisnike dok ne budete imali manje od 25.
   
-**Povrat novca: svi prorated krediti bit će vam vraćeni u sljedećem ciklusu naplate.** 
+**Povrat novca: u sljedećem ciklusu naplate prikazat će vam se svaki prorećeni kredit.** 
 
-**Napomena:** Ako ne vidite opciju otkazivanja, kliknite pretplatu da biste vidjeli pojedinosti i trebali biste vidjeti **mogućnost Otkazivanje pretplate** u **odjeljku Postavke & Akcije**. 
+**Pažnja**: ako vam se ne prikazuje mogućnost otkaza, kliknite pretplatu da biste pogledali detalje i trebali biste vidjeti mogućnost **Odustani od pretplate** u **postavkama & akcije**. 
 
-Dodatne informacije [potražite u odjeljku Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Dodatne informacije potražite u članku [otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

@@ -1,41 +1,42 @@
 ---
-title: 2681 simulator napada u sustavu Microsoft 365
+title: 2681 simulator napada u programu Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506730"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47759211"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Simulator napada u sustavu Microsoft 365
+# <a name="attack-simulator-in-microsoft-365"></a>Simulator napada u programu Microsoft 365
 
-- Nedostaje li vam simulator napada? Za simulator napada potreban je **Office 365 Advanced Threat Protection Plan 2 (ATP Plan 2)** ili **Office 365 Enterprise E5**. Simulator napada **nije** obuhvaćen office 365 Advanced Threat Protection Plan 1 (ATP Plan 1), Office 365 Enterprise E3 ili bilo koje Aplikacije microsoft 365 za tvrtke pretplate.
+- Jeste li propustili Attack simulator? Simulator napada zahtijeva **office 365 napredni plan zaštite prijetnje 2 (ATP plan 2)** ili **Office 365 Enterprise E5**. Simulator napada nije **uključen u** Office 365 napredni plan zaštite prijetnje 1 (ATP tarifa 1), Office 365 Enterprise E3 ili bilo koje Microsoftove pretplate za tvrtke Microsoft 365.
 
-- Račun koji koristite za pokretanje simuliranih napada zahtijeva globalne administratorske dozvole ili administratorske dozvole za sigurnost i višestruku provjeru autentičnosti (MFA). Dodatne informacije o zahtjevima attack simulatora potražite [u ovoj temi](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Račun koji koristite za pokretanje simuliranih napada zahtijeva globalne dozvole za administratore ili bezbednosne administratore te multi-Factor provjeru autentičnosti (MFA). Dodatne informacije o preduvjetima za simulator napada potražite u [ovoj temi](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
-- Važne stvari koje treba znati o **Brute Force Lozinka** napad simulacije:
+- Važne informacije o **brutalnosti napada lozinka** za napade:
 
-  - Ako ciljni račun ima omogućen MFA i lozinka je ispravno pogodila, račun se neće prikazati kao ugrožen (drugi faktor provjere autentičnosti će biti nepotpun).
+  - Ako je ciljni račun omogućen za MFA, a lozinka je ispravno pogađala, račun se neće prikazati kao kompromitiran (drugi faktor provjere autentičnosti bit će nepotpun).
 
-  - Datoteka lozinke ne može biti veća od 10 MB. Upotrijebite jednu lozinku po retku i uključite prazan redak (prijevoz povratak) nakon zadnje lozinke na popisu.
+  - Datoteka lozinke ne može biti veća od 10 MB. Koristite jednu lozinku po retku i uvrstite prazni redak (povrat u prijevozu) nakon posljednje lozinke na popisu.
 
-- Važne stvari koje treba znati o **Spear Phishing** priložiti simulacije:
+- Važne informacije koje se odnose na **krađu identiteta** priložite simulacije:
 
-  - Po dizajnu ne možete navesti prilagođenu vrijednost za URL poslužitelja za **prijavu za phishing**.
+  - Prema dizajnu ne možete pružiti prilagođenu vrijednost za **URL poslužitelja za prijavu krađe identiteta**.
 
-  - Ako primatelj koristi [dodatak Omogući poruku izvješća](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) da bi prijavio poruku kao krađu identiteta, možda nećete primiti upozorenja za poruku (jer je to simulirani napad).
+  - Ako primatelj koristi dodatak za [poruku izvješća](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) da bi prijavio poruku kao krađu identiteta, možda nećete primati upozorenja za poruku (jer je to simulirani napad).
 
-- Izvješća: nakon dovršetka simuliranog napada možete kliknuti **Detalji napada** da biste vidjeli izvješće.
+- Izvješća: nakon dovršetka simuliranog napada možete kliknuti **Detalji o napadu** da biste vidjeli izvješće.
 
-- Detaljne upute i nove značajke u aplikaciji Attack Simulator potražite u [odjeljku Simulator napada u sustavu Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Detaljne upute i nove značajke u simulatoru Attack potražite [u članku simulator napada u programu Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
