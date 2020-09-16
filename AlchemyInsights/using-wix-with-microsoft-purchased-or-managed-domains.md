@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/05/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: f6845c56f05e9cef11362ce601a974b73a154c9a
-ms.sourcegitcommit: 28a319e482e6a8644e87726e1b0e599819df52d0
+ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "46629388"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664738"
 ---
 # <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Korištenje Wix web-mjesta s Microsoftovim kupljenim ili upravljanim domenama
 
@@ -29,4 +30,4 @@ Pojedinosti potražite u članku:
 
 - Ako odaberete promjenu poslužitelja naziva u Wix, morate stvoriti DNS zapise u programu Wix za Microsoft. Dodatne informacije potražite u članku [Stvaranje DNS zapisa u programu Wix za Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
 
-- Ako je vaša domena kupljena od Microsofta, poslužitelji naziva ne mogu se promijeniti. Ako morate promijeniti poslužitelje naziva, Microsoftova kupljena domena mora se prenijeti na drugog davatelja usluge hostiranja nakon 60 dana. Dodatne informacije potražite u članku [Najčešća pitanja o domenama](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+- Ako je vaša domena kupljena od Microsofta, poslužitelji naziva ne mogu se promijeniti. Ako morate promijeniti poslužitelje naziva, Microsoftova kupljena domena mora se prenijeti na drugog davatelja usluge hostiranja nakon 60 dana. Dodatne informacije potražite u članku [prijenos domene iz Microsofta u drugi domaćin](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).

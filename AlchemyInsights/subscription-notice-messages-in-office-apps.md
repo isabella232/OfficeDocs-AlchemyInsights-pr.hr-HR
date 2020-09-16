@@ -1,24 +1,25 @@
 ---
-title: Poruke obavijesti o pretplati u aplikacijama Microsoft 365
+title: Poruke o obavijesti o pretplati u aplikacijama Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 1e70dc0f8b4ba420c09936cf440d619ccebd2c20
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 964059ea464ac9d796731e943cb1d814743524a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582299"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659230"
 ---
-# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Poruke obavijesti o pretplati u aplikacijama Microsoft 365
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Poruke o obavijesti o pretplati u aplikacijama Microsoft 365
 
 - Ako je sustav Office bio unaprijed instaliran na vašem novom uređaju, pomoć za aktivaciju sustava Office na novom uređaju pronađite u članku [Aktivacija sustava Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e).
 
