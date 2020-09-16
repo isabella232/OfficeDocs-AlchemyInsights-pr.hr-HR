@@ -5,31 +5,32 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 13b8371f8e8c4afa54f7b33eadbf2f42db6b5eca
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9c879512c5fbdfafe6162490cafacd0f409792db
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711083"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755641"
 ---
 # <a name="information-about-gdpr"></a>Informacije o GDPR-u
 
-- Početak rada s [portalom pouzdanosti servisa.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- Početak rada s [portala za pouzdanost servisa.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
-- Za sve što se odnosi na **Ugovor o obradi podataka** (DPA), pregledajte:
+- Za bilo što vezano uz **ugovor o obradi podataka** (DPA), pregledajte sljedeće:
 
   - [Resursi za zaštitu podataka](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
-  - [Revizijska izvješća](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - [Izvješća o reviziji](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Informacije o **zahtjevima za ispitanika** (DSR) - otkrijte, pristupite, ispravite, ograničite, izbrišite, izvoz je [ovdje.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Informacije o **zahtjevima za predmetom podataka** (dosr-u) – Otkrij, pristupi, ispravi, ograniči, Izbriši, izvoz je [ovdje.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Informacije o **obavijesti o kršenju podataka** [su ovdje.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- Informacije o **obavijesti o narušavanju podataka** nalaze se [ovdje.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
-- Informacije o **lokacijama podataka** [su ovdje.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Informacije o **lokacijama podataka** nalaze se [ovdje.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
