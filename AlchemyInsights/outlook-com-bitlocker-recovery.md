@@ -1,26 +1,27 @@
 ---
-title: Outlook.com Oporavak značajke BitLocker
+title: Outlook.com BitLocker oporavak
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: 39aa462e69d2636ee560504070d95e989c3cb0fb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681888"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753719"
 ---
-# <a name="bitlocker-recovery"></a>Oporavak značajke BitLocker
+# <a name="bitlocker-recovery"></a>BitLocker oporavak
 
-Idite na [Uređaji](https://account.microsoft.com/devices/recoverykey) da biste vidjeli bitlocker ključeve oporavka.
+Idite na [uređaje](https://account.microsoft.com/devices/recoverykey) da biste pogledali BitLocker ključeve oporavka.
 
-Dodatne informacije potražite [u članku Pronalaženje bitlocker ključa](https://support.microsoft.com/help/4026181) za oporavak.
+Dodatne informacije potražite u članku [Traženje ključa oporavka](https://support.microsoft.com/help/4026181)   za BitLocker.
