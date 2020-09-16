@@ -4,47 +4,48 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: bdd9d9fc1c0cd51d78a02a50a7c4aba4672c3482
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fdcc6d81411e231ba18ad296508fef6c4ca648b3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495619"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727199"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Omogućivanje vanjskog zajedničkog korištenja u sustavu SharePoint Online
 
-Ako vaša tvrtka ili ustanova obavlja posao koji uključuje zajedničko korištenje dokumenata ili izravnu suradnju s dobavljačima, klijentima ili klijentima, možete koristiti [vanjske značajke zajedničkog korištenja sustava SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) za zajedničko korištenje sadržaja s osobama izvan tvrtke ili ustanove.
+Ako vaša tvrtka ili ustanova izvršava rad koji uključuje zajedničko korištenje dokumenata ili izravno surađivanje s dobavljačima, klijentima ili kupcima, možete koristiti [vanjske značajke zajedničkog korištenja sustava SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) da biste omogućili zajedničko korištenje sadržaja s osobama izvan tvrtke ili ustanove.
 
-Za više informacija o vanjskom dijeljenju (gosti) molimo posjetite linkove ispod.
+Dodatne informacije o vanjskom dijeljenjem (gostima) potražite u odjeljku poveznice u nastavku.
 
 - [Što je vanjski korisnik?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [Što se događa kada zajednički koristim web-mjesto ili dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Što se događa prilikom zajedničkog korištenja web-mjesta ili dokumenta?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
 - [Uključivanje i isključivanje vanjskog zajedničkog korištenja za SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
 - [Uključivanje i isključivanje vanjskog zajedničkog korištenja za web-mjesto](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Upravljanje pristupom gostu u grupama sustava Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups)
+- [Upravljanje pristupom gosta u grupama sustava Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups)
 
-- [Korištenje ekstranet rješenja za ekstranet tvrtke (B2B) u sustavu Sharepoint Online](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Korištenje sustava SharePoint Online kao poslovno-poslovno (B2B) rješenje za ekstranet](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [Datoteke ili mapa sustava SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Zajedničko korištenje datoteka ili mapa sustava SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Prekid zajedničkog korištenja datoteka ili mapa sa sustavom OneDrive ili Sustava SharePoint ili promjena dozvola](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Prestanak zajedničkog korištenja servisa OneDrive ili SharePoint datoteka ili mapa ili promjena dozvola](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [Brisanje vanjskog korisnika](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-**Primanje pogreške s vanjskim korisnikom (gost)?**
+**Primate li pogrešku s vanjskim korisnikom (gost)?**
 
-Provjerite linkove ispod. 
+Provjerite veze u nastavku. 
 
-- [Pogreške u zajedničkom korištenju sustava OSE u sustavu Sharepoint ili OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Pogreške pri podjeli OSE u sustavu SharePoint ili na servisu OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [Poruka o pogrešci kada vanjski korisnik prihvati pozivnicu za SharePoint Online pomoću drugog računa](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Poruka o pogrešci kada vanjski korisnik prihvati pozivnicu u sustavu SharePoint Online pomoću drugog računa](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Pristup je odbijen zajedničkoj mapi](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
+- [Zabranjen je pristup zajedničkoj mapi](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
