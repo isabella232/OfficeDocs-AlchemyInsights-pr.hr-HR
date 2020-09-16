@@ -1,29 +1,30 @@
 ---
-title: Uključivanje aplikacija na radnu površinu
+title: Stavljanje aplikacija na stolno računalo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 6c94c840ce9460bdf72aba23ef6444d18a44977d
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278855"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768239"
 ---
-# <a name="put-apps-on-the-desktop"></a><span data-ttu-id="12927-102">Uključivanje aplikacija na radnu površinu</span><span class="sxs-lookup"><span data-stu-id="12927-102">Put apps on the desktop</span></span>
+# <a name="put-apps-on-the-desktop"></a><span data-ttu-id="2cdfe-102">Stavljanje aplikacija na stolno računalo</span><span class="sxs-lookup"><span data-stu-id="2cdfe-102">Put apps on the desktop</span></span>
 
-<span data-ttu-id="12927-103">Potražite aplikaciju na izborniku **Start** i zgrabite ikonu aplikacije držeći lijevu tipku miša i pomicanjem ikone na radnu površinu.</span><span class="sxs-lookup"><span data-stu-id="12927-103">Search for the app in the **Start** menu, and grab the app icon by holding down the left mouse button and moving the icon to the desktop.</span></span>
+<span data-ttu-id="2cdfe-103">Potražite aplikaciju na izborniku **Start** i iskoristite ikonu aplikacije tako da držite lijevu tipku miša i premještate ikonu na stolno računalo.</span><span class="sxs-lookup"><span data-stu-id="2cdfe-103">Search for the app in the **Start** menu, and grab the app icon by holding down the left mouse button and moving the icon to the desktop.</span></span>
 
-<span data-ttu-id="12927-104">Možete pritisnuti **i tipku Windows + R,** a zatim upišite ovu naredbu:</span><span class="sxs-lookup"><span data-stu-id="12927-104">You may also press the **Windows key + R** and then type in this command:</span></span>
+<span data-ttu-id="2cdfe-104">Možete i pritisnuti tipku sa **sustavom Windows + R** , a zatim upisati ovu naredbu:</span><span class="sxs-lookup"><span data-stu-id="2cdfe-104">You may also press the **Windows key + R** and then type in this command:</span></span>
 
 `shell:appsfolder`
 
-<span data-ttu-id="12927-105">Otvorit će se mapa **Aplikacije** u **eksploreru za datoteke**.</span><span class="sxs-lookup"><span data-stu-id="12927-105">This will open the **Applications** folder in **File Explorer**.</span></span> <span data-ttu-id="12927-106">Sada možete povući i ispustite ikonu aplikacije na radnu površinu.</span><span class="sxs-lookup"><span data-stu-id="12927-106">You may now drag and drop the app icon to the desktop.</span></span>
+<span data-ttu-id="2cdfe-105">Time će se otvoriti mapa **aplikacije** u **eksploreru za datoteke**.</span><span class="sxs-lookup"><span data-stu-id="2cdfe-105">This will open the **Applications** folder in **File Explorer**.</span></span> <span data-ttu-id="2cdfe-106">Ikonu aplikacije sada možete odvući i odbaciti na radnu površinu.</span><span class="sxs-lookup"><span data-stu-id="2cdfe-106">You may now drag and drop the app icon to the desktop.</span></span>
