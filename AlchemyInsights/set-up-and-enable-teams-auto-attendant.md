@@ -1,29 +1,30 @@
 ---
-title: Postavljanje i Omogućivanje automatskih timova
+title: Postavljanje i Omogućivanje govornog automata za timove
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: e55239d6a06e6e590066e5e5bd66579d111f5b89
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344160"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801104"
 ---
-# <a name="set-up-a-cloud-auto-attendant"></a>Postavljanje automatskog pratiteljstva u oblaku
+# <a name="set-up-a-cloud-auto-attendant"></a>Postavljanje govornog automata u oblaku
 
-Automatski službenici trenutačno imaju posebne preduvjete za licenciranje. Pogledajte [što su automehaničar u oblaku?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) da biste saznali više o stvaranju i postavljanju timova za automatsko osoblje. 
+Automatski polaznici trenutno imaju određene preduvjete za licenciranje. Pročitajte članak [što su automati u oblaku?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) da biste saznali više o stvaranju i postavljanju timova za automatske polaznike. 
 
-Dodatne informacije potražite u sljedećem članku:
+Dodatne informacije potražite u članku:
 
-- [Postavljanje automatskog pratiteljstva u oblaku](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) s Microsoftovim timovima. 
-- [Stvorite red čekanja u oblaku](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) pomoću programa Microsoft Teams. 
-- [Odgovorite automatsko polaznik i poziv u red čekanja poziva izravno iz timova](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
+- [Postavite govorni automat u oblaku](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) s Microsoftovim timovima. 
+- [Stvaranje reda čekanja u oblaku](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) uz Microsoftove timove. 
+- [Odgovaranje na govorni automat i poziv u red čekanja poziva izravno iz timova](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 

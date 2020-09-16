@@ -1,41 +1,41 @@
 ---
-title: Oznake osjetljivosti koje se ne pojavljuju
+title: Oznake osjetljivosti se ne prikazuju
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581007"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801176"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Oznake osjetljivosti koje se ne pojavljuju
+# <a name="sensitivity-labels-not-appearing"></a>Oznake osjetljivosti se ne prikazuju
 
-Oznake osjetljivosti omogućuju vam razvrstavanje i zaštitu osjetljivog sadržaja. Mogu se stvoriti u centru za usklađenost sustava Microsoft 365, centru za sigurnost sustava Microsoft 365 ili centru za sigurnost sustava Microsoft 365 & u odjeljku Oznake > osjetljivosti. Dodatne informacije o ovoj značajki [potražite u odjeljku Pregled oznaka osjetljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Oznake osjetljivosti omogućuju vam klasificiranje i zaštita osjetljivog sadržaja. Mogu se stvoriti u centru za usklađenost sustava Microsoft 365, Microsoft 365 Security Center ili Microsoft 365 Security & centar za usklađenost u odjeljku klasifikacija > oznake osjetljivosti. Dodatne informacije o toj značajci potražite u članku [Pregled naljepnica s osjetljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Ako ste konfigurirali oznake osjetljivosti, ali se ne pojavljuju u aplikacijama sustava Microsoft 365, provjerite sljedeće:
+Ako ste konfigurirali naljepnice osjetljivosti, ali se ne prikazuju u aplikacijama Microsoft 365, provjerite sljedeće:
 
-- Provjerite je li oznaka osjetljivosti [objavljena](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) korisnicima i grupama koje želite.
+- Provjerite je li natpis osjetljivosti [objavljen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) korisnicima i grupama koje želite.
 
-- Provjerite koristi li korisnik aplikaciju koja podržava oznake osjetljivosti – pogledajte [oznake osjetljivosti u dokumentu](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
+- Potvrdite da korisnik koristi aplikaciju koja podržava naljepnice s osjetljivosti – pogledajte [natpise osjetljivosti u dokumentu](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
-- Ako [migrirate oznake azure information protection](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), imajte na umu ovdje [navedena](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)razmatranja .
+- Ako [migrirate oznake zaštite informacija o Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), budite svjesni razmatranja navedenih [ovdje](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
-- Podrška za sprječavanje gubitka podataka (DLP): Trenutno se samo oznake zadržavanja mogu koristiti kao uvjet u pravilima DLP-a.  Podrška za oznake osjetljivosti u DLP pravilima još nije dostupna, ali radimo na tome.
+- Podrška za prevencija gubitka podataka (DLP): trenutno se samo oznake zadržavanja mogu koristiti kao uvjet u pravilima programa DLP.  Podrška za naljepnice osjetljivosti u pravilima programa DLP još nije dostupna, ali radimo na tome.
 
-- Kada je šifriranje omogućeno na naljepnici osjetljivosti, možete odabrati bilo:
-    - Dodijeli dozvole sada
-    - Dopusti korisnicima dodjelu dozvola
+- Kada je omogućeno šifriranje na naljepnici osjetljivosti, možete odabrati sljedeće:
+    - Dodjela dozvola odmah
+    - Dopusti korisnicima dodjeljivanje dozvola
 
 
-Dodatne informacije o mogućim problemima [potražite u odjeljku Poznati problemi s oznakama osjetljivosti](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Dodatne informacije o mogućim pitanjima potražite u članku [poznati problemi s naljepnicama osjetljivosti](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
