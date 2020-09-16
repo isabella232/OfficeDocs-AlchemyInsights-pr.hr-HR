@@ -1,24 +1,25 @@
 ---
-title: Povezivanje powershell skripti sa sustavom Exchange Online
+title: Povezivanje skripti komponente PowerShell sa sustavom Exchange Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6069"
 - "3500011"
-ms.openlocfilehash: 34301e62a25e11c5d4c353166f8208ef74245dfa
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: 3a8383a57bc1267311daf03c78841070cca8fb8f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423315"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748056"
 ---
-# <a name="connecting-powershell-scripts-to-exchange-online"></a><span data-ttu-id="5c17b-102">Povezivanje powershell skripti sa sustavom Exchange Online</span><span class="sxs-lookup"><span data-stu-id="5c17b-102">Connecting PowerShell scripts to Exchange Online</span></span>
+# <a name="connecting-powershell-scripts-to-exchange-online"></a><span data-ttu-id="3c030-102">Povezivanje skripti komponente PowerShell sa sustavom Exchange Online</span><span class="sxs-lookup"><span data-stu-id="3c030-102">Connecting PowerShell scripts to Exchange Online</span></span>
 
-<span data-ttu-id="5c17b-103">Osnovna provjera autentičnosti u sustavu Exchange Online bit će zastarjela, a put naprijed je povezivanje pomoću provjere autentičnosti utemeljene na certifikatu za skripte i zadatke bez nadzora.</span><span class="sxs-lookup"><span data-stu-id="5c17b-103">Basic Authentication in Exchange Online is going to be deprecated, and the way forward is to connect by using certificate-based authentication for scripts and unattended tasks.</span></span> <span data-ttu-id="5c17b-104">Dodatne informacije [potražite u odjeljku Provjera autentičnosti samo za aplikacije za skripte bez nadzora u modulu EXO V2](https://docs.microsoft.com/powershell/exchange/app-only-auth-powershell-v2).</span><span class="sxs-lookup"><span data-stu-id="5c17b-104">To learn more, see [App-only authentication for unattended scripts in the EXO V2 module](https://docs.microsoft.com/powershell/exchange/app-only-auth-powershell-v2).</span></span>
+<span data-ttu-id="3c030-103">Osnovna provjera autentičnosti u sustavu Exchange Online bit će zastario, a način prosljeđivanja jest povezivanje pomoću provjere autentičnosti utemeljenih na certifikatu za skripte i zadatke bez nadzora.</span><span class="sxs-lookup"><span data-stu-id="3c030-103">Basic Authentication in Exchange Online is going to be deprecated, and the way forward is to connect by using certificate-based authentication for scripts and unattended tasks.</span></span> <span data-ttu-id="3c030-104">Dodatne informacije potražite u članku [Provjera autentičnosti samo za aplikacije za skripte bez nadzora u modulu EXO v2](https://docs.microsoft.com/powershell/exchange/app-only-auth-powershell-v2).</span><span class="sxs-lookup"><span data-stu-id="3c030-104">To learn more, see [App-only authentication for unattended scripts in the EXO V2 module](https://docs.microsoft.com/powershell/exchange/app-only-auth-powershell-v2).</span></span>

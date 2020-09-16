@@ -1,23 +1,24 @@
 ---
-title: Kvaliteta poziva ili odbačeni pozivi
+title: Kvaliteta poziva ili odbačene pozive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000675"
 - "5987"
-ms.openlocfilehash: cc4750b204d70ce7284a94a045633791f416fbbc
-ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
+ms.openlocfilehash: b5bd7544dd219b32d563c0c375de70122297fb47
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/30/2020
-ms.locfileid: "44932053"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734399"
 ---
-# <a name="call-quality-or-dropped-calls"></a><span data-ttu-id="ed8e8-102">Kvaliteta poziva ili odbačeni pozivi</span><span class="sxs-lookup"><span data-stu-id="ed8e8-102">Call Quality or Dropped Calls</span></span>
+# <a name="call-quality-or-dropped-calls"></a><span data-ttu-id="17cf2-102">Kvaliteta poziva ili odbačene pozive</span><span class="sxs-lookup"><span data-stu-id="17cf2-102">Call Quality or Dropped Calls</span></span>
 
-<span data-ttu-id="ed8e8-103">Ako imate problema s kvalitetom poziva kao što su loši audiopozivi ili ispušteni pozivi, pogledajte: [otklonite poteškoće s kvalitetom poziva pomoću analitike poziva](https://docs.microsoft.com/microsoftteams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics)</span><span class="sxs-lookup"><span data-stu-id="ed8e8-103">If you're experiencing Call Quality issues like poor audio or dropped calls, please reference: [Troubleshoot call quality problems using Call Analytics](https://docs.microsoft.com/microsoftteams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics)</span></span>
+<span data-ttu-id="17cf2-103">Ako nailazite na probleme s kvalitetom poziva kao što su loši audiozapisi ili odbačene pozive, molimo referenca: [Otklanjanje poteškoća s kvalitetom poziva pomoću analitike poziva](https://docs.microsoft.com/microsoftteams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics)</span><span class="sxs-lookup"><span data-stu-id="17cf2-103">If you're experiencing Call Quality issues like poor audio or dropped calls, please reference: [Troubleshoot call quality problems using Call Analytics](https://docs.microsoft.com/microsoftteams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics)</span></span>
