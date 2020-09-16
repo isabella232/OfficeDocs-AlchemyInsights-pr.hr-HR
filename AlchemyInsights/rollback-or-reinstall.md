@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2584"
 - "9000691"
-ms.openlocfilehash: a8b30eeb61b20283efbcc5968dbf36aef45f36e8
-ms.sourcegitcommit: 2572c4e5a981d5f3f556835061c568cfd08b78da
+ms.openlocfilehash: 43c3c97d95b271c51283fcd492597de0eccd8799
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "41969298"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727703"
 ---
-# <a name="reinstall-or-roll-back-office"></a><span data-ttu-id="aec1b-102">Ponovna instalacija ili vraćanje sustava Office</span><span class="sxs-lookup"><span data-stu-id="aec1b-102">Reinstall or roll back Office</span></span>
+# <a name="reinstall-or-roll-back-office"></a><span data-ttu-id="8c825-102">Ponovna instalacija ili vraćanje sustava Office</span><span class="sxs-lookup"><span data-stu-id="8c825-102">Reinstall or roll back Office</span></span>
 
-<span data-ttu-id="aec1b-103">Ako imate općenite probleme s programom Excel ili imate određeni problem s programom Excel nakon nedavnog ažuriranja paketa Office, možda ćete moći riješiti problem ponovnim instalacijama sustava Office ili vraćanjem na prethodnu verziju sustava Office.</span><span class="sxs-lookup"><span data-stu-id="aec1b-103">If you are experiencing general problems with Excel or are experiencing a specific problem with Excel after a recent update to the Office suite, you may be able to resolve the problem by performing a reinstall of Office or going back to the previous version of Office.</span></span>
+<span data-ttu-id="8c825-103">Ako nailazite na općenite probleme s programom Excel ili nailazite na određeni problem s programom Excel nakon nedavnog ažuriranja u paketu sustava Office, možda ćete moći riješiti problem tako da izvršite ponovnu instalaciju sustava Office ili da se vratite na prethodnu verziju sustava Office.</span><span class="sxs-lookup"><span data-stu-id="8c825-103">If you are experiencing general problems with Excel or are experiencing a specific problem with Excel after a recent update to the Office suite, you may be able to resolve the problem by performing a reinstall of Office or going back to the previous version of Office.</span></span>
 
-<span data-ttu-id="aec1b-104">Da biste **izvršili ponovnu instalaciju** sustava Office, pregledajte [Preuzimanje i instalacija ili ponovna instalacija sustava Office 365 ili Office 2019 na PC ili Mac](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).</span><span class="sxs-lookup"><span data-stu-id="aec1b-104">To perform a **reinstall** of Office, review [Download and install or reinstall Office 365 or Office 2019 on a PC or Mac](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).</span></span>
+<span data-ttu-id="8c825-104">Da biste izvršili **ponovnu instalaciju** sustava Office, pregledajte [Preuzimanje i instalacija ili ponovna instalacija sustava Office 365 ili Office 2019 na PC ili Mac](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).</span><span class="sxs-lookup"><span data-stu-id="8c825-104">To perform a **reinstall** of Office, review [Download and install or reinstall Office 365 or Office 2019 on a PC or Mac](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).</span></span>
 
-<span data-ttu-id="aec1b-105">Da biste izvršili **vraćanje sustava** Office, [pregledajte kako se vratiti na stariju verziju sustava Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic).</span><span class="sxs-lookup"><span data-stu-id="aec1b-105">To perform a **rollback** of Office, review [How to revert to an earlier version of Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic).</span></span> 
+<span data-ttu-id="8c825-105">Da biste izvršili **Vraćanje** sustava Office, pročitajte članak [kako se vratiti na stariju verziju sustava Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic).</span><span class="sxs-lookup"><span data-stu-id="8c825-105">To perform a **rollback** of Office, review [How to revert to an earlier version of Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic).</span></span> 
