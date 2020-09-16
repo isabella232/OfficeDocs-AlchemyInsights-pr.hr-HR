@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: 1c3074df1e21e078c0058109a39c23b74b83e876
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: ac9b3b6155713e95d11c2aeab600ad686a5abb20
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225352"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681972"
 ---
 # <a name="change-screen-brightness-in-windows-10"></a>Promjena svjetline zaslona u sustavu Windows 10
 
-Ako je vaš Windows 10 noviji od verzije 1903, u akcijskom centru nalazi se **klizač svjetline.** Da biste otvorili akcijski centar, kliknite gumb **Obavijesti** na desnoj strani programske trake ili pritisnite **Windows home + A** na tipkovnici.
+Ako je vaš Windows 10 noviji od verzije 1903, u akcijskom centru sadrži **klizač svjetlinu** . Da biste otvorili akcijski centar, kliknite gumb **obavijesti** na krajnjem desnom dijelu programske trake ili pritisnite **Windows Home + A** na tipkovnici.
 
-![Klizač svjetline](media/brightness-slider.png)
+![Klizač svjetlinu](media/brightness-slider.png)
 
-Ako je vaš Windows 10 starija verzija, klizač svjetline možete pronaći tako da **[odete](ms-settings:display?activationSource=GetHelp)** na Postavke > Sustav > Zaslon .
+Ako je vaš Windows 10 starija verzija, klizač svjetlinu možete pronaći tako da otvorite **[postavke > prikaz sustava >](ms-settings:display?activationSource=GetHelp)**.
 
 **Napomene**:
 
-- Možda nećete vidjeti klizač Promjena svjetline ugrađenog zaslona na stolnim PC-jevima s vanjskim monitorom. Da biste promijenili svjetlinu vanjskog monitora, koristite kontrole na monitoru.
-- Ako nemate stolno računalo, a klizač se ne prikazuje ili ne funkcionira, pokušajte ažurirati upravljački program za prikaz. U okvir pretraživanja na programskoj traci upišite **Upravitelj uređaja**, a zatim s popisa rezultata odaberite **Upravitelj uređaja.** U **upravitelju uređaja**odaberite **Prilagodnici za prikaz**, a zatim odaberite prilagodnik za prikaz. Pritisnite i držite (ili kliknite desnom tipkom miša) naziv grafičkog prilagodnika i kliknite **Ažuriraj upravljački program**; zatim slijedite upute.
+- Možda nećete vidjeti svjetlinu promjene za ugrađeni klizač za prikaz na stolnim računalima s vanjskim monitorom. Da biste promijenili svjetlinu vanjskog monitora, upotrijebite kontrole na monitoru.
+- Ako nemate stolno računalo, a klizač se ne prikazuje ili ne funkcionira, pokušajte ažurirati upravljački program za prikaz. U okvir za pretraživanje na programskoj traci upišite **Upravitelj uređaja**, a zatim na popisu rezultata odaberite **Upravitelj uređaja** . U **upravitelju uređaja**odaberite **prilagodnici prikaza**, a zatim odaberite prilagodnik za prikaz. Pritisnite i držite (ili kliknite desnom tipkom miša) naziv zaslonskog prilagodnika, a zatim kliknite **Ažuriraj upravljački program**; zatim slijedite upute.

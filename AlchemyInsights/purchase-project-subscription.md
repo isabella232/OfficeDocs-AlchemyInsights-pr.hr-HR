@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "4708"
-ms.openlocfilehash: c33d696ef4993f7c4ce304e2e7209c3860299275
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 7d2739006249ee64209ee2ad39f996daf25968d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062780"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693295"
 ---
 # <a name="purchase-project-subscription"></a>Kupnja pretplate na projekt
 
-Administratori pretplatu na Project za svoju tvrtku ili ustanovu mogu kupiti iz centra za **administratore sustava Microsoft 365**.
+Administratori mogu kupiti pretplatu na projekt za svoju tvrtku ili ustanovu iz **centra za administratore sustava Microsoft 365**.
 
-1. Otvorite **Billing**  >  stranicu**[Usluge kupnje](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** naplate da biste pregledali dostupne pretplate za kupnju za svoju tvrtku ili ustanovu.
+1. Idite na stranicu **Billing**  >  **[nabave servisa](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** za naplatu da biste prikazali dostupne pretplate na kupnju za vašu tvrtku ili ustanovu.
 
 2. Pronađite projektne planove pretraživanjem na „Projekt”.
 

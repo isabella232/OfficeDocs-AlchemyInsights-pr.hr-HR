@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: ac31864495ebd398f094c27b59787033069c1433
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44840991"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701063"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Postavljanje pretplate na Microsoft 365 Education
 
@@ -24,5 +25,5 @@ Za vođene upute pogledajte[opisni audio videozapis](https://aka.ms/M365EduSetup
 
 **Više odličnih resursa**
 
-- Pregled [potražite u članku Stvaranje računa klijenta sustava Office 365.](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)
-- Pogledajte [početak rada sa sustavom Microsoft 365 Education](https://docs.microsoft.com/education/) for IT administratori, razvojni inženjeri i partneri.
+- Pročitajte članak [Stvaranje klijentskog računa sustava Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) za pregled.
+- Pročitajte članak [početak rada s programom Microsoft 365 Education](https://docs.microsoft.com/education/) za IT administratore, programere i partnere.

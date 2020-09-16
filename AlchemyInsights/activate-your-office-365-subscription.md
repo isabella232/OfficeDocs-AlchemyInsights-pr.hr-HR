@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 10d57dea43a08dcdec334b7c8e37dce05e6460fc
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 226eaa73b3934e266c1f53f73752ec142fdecdf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417992"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698053"
 ---
 # <a name="activate-your-subscription"></a>Aktivacija pretplate
 
@@ -32,7 +33,7 @@ ms.locfileid: "44417992"
 
 Ako je vaša pretplata istekla, ako ju je onemogućio Microsoft ili ako ste je pak otkazali tijekom trajanja pretplate, možete je ponovno aktivirati u centru za administratore sustava Microsoft 365.
 
-- U centru za administratore sustava Microsoft **Billing**365  >  otvorite stranicu**[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+- U centru za administratore sustava Microsoft 365 otvorite stranicu **naplata**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 - Odaberite pretplatu koju želite ponovno aktivirati, a zatim kliknite **Ponovno aktiviraj**. Ako kao dostupnu akciju ne vidite mogućnost **Ponovna aktivacija**, [nazovite podršku](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) da biste ponovno aktivirali pretplatu.
 

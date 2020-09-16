@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 33ee85c305aa9daae0028ad2c0c79a003f9dc017
-ms.sourcegitcommit: 505a576cc0e2b20f8ea5ce0a2f26763a11463918
+ms.openlocfilehash: 47a8b8207a81bb4f22f1d739c963e5a9d468394e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44492990"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692611"
 ---
 # <a name="replace-the-sharepoint-root-site"></a>Zamjena korijenskog web-mjesta sustava SharePoint
-Ako želite modernizirati root site s postojećim web-lokacijom ili jednostavno želite imati drugo web-mjesto na razini korijenskog web-mjesta, možete zamijeniti (zamijeniti) web-lokacije.
+Ako tražite modernizaciju korijenskog web-mjesta s postojećim web-mjestom ili jednostavno želite imati drugo web-mjesto na razini korijenskog web-mjesta, možete odabrati zamjenu (swap) web-mjesta.
 
-1. Pomoću novog centra za administratore sustava SharePoint idite na [Aktivna web-mjesta](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
+1. Pomoću novog centra za administratore sustava SharePoint idite na [aktivna web-mjesta](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
 2. Odaberite korijensko web-mjesto koje želite zamijeniti.
 3. Odaberite **Zamijeni web-mjesto**.
-4. Navedite URL postojećeg web-mjesta kojim želite zamijeniti. **Napomena:** Bit ćete obaviješteni ako se stranica može koristiti kao zamjenska korijenska stranica.
+4. Navedite URL postojećeg web-mjesta za zamjenu. **Upozorenje:** Bit ćete obaviješteni ako se web-mjesto može koristiti kao zamjenski korijensko web-mjesto.
 
-Dodatne informacije o preduvjetima [potražite u odjeljku Modernizacija korijenskog web-mjesta](https://docs.microsoft.com/sharepoint/modern-root-site).
+Dodatne informacije o preduvjetima potražite u članku [modernizaciju korijenskog web-mjesta](https://docs.microsoft.com/sharepoint/modern-root-site).

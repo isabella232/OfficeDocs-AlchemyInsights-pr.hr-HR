@@ -5,41 +5,42 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002956"
 - "5658"
-ms.openlocfilehash: 152066c0953c0f4aa25875025021f8773cd87341
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: c1df53e9ab0c34065b7bed32ecad3be673f07033
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44268877"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682853"
 ---
 # <a name="change-my-microsoft-account-information"></a>Promjena podataka o Microsoftovu računu
 
-Idite [https://account.microsoft.com](https://account.microsoft.com/) na i prijavite se ako je potrebno. To će vas odvesti na nadzornu ploču računa.  
+Idite na [https://account.microsoft.com](https://account.microsoft.com/) i prijavite se ako je potrebno. To će vas odvesti na nadzornu ploču računa.  
 
-**Uređivanje mog imena i osobnih podataka**
+**Uređivanje imena i osobnih podataka**
 
-1. Na nadzornoj ploči računa pokraj slike i naziva računa kliknite **Dodatne akcije > Uređivanje profila**.
-2. Na stranici **Uređivanje profila** koristite navedene veze da biste promijenili sliku profila, naziv, datum rođenja, lokaciju i postavke jezika prikaza. Obratite pozornost na veze na profile xbox ili Skype računa na kojima možete promijeniti pojedinosti specifične za te račune.
+1. Na nadzornoj ploči računa uz svoju sliku i naziv računa kliknite **Dodatne akcije > Uređivanje profila**.
+2. Na stranici **Uređivanje profila** koristite veze koje su navedene da biste promijenili sliku profila, naziv, Datum rođenja, mjesto i jezičnu postavku za prikaz. Obratite pozornost na veze na profile računa za Xbox ili Skype, gdje možete promijeniti pojedinosti specifične za te račune.
 
 **Upravljanje adresama e-pošte i telefonskim brojevima**
 
-Microsoftov račun ima jednu ili više adresa e-pošte ili telefonskih brojeva koji su s njim povezani kao "pseudonimi". Da biste upravljali ovim sadržajima:
+Microsoftov račun sadrži jednu ili više adresa e-pošte ili telefonske brojeve povezane s njom kao "pseudonima". Da biste upravljali ovim sljedećim člancima:
 
-1. Na nadzornoj ploči računa pokraj slike i naziva računa kliknite **Dodatne akcije > Uređivanje profila**.
-2. Na stranici **Uređivanje profila** kliknite **Upravljanje načinom prijave u Microsoft**. 
-3. Vidjet ćete popis pseudonima računa i možete upravljati popisom, uključujući dodavanje i brisanje adresa e-pošte i telefonskih brojeva. Ovdje možete odabrati i pseudonime koji se mogu koristiti za prijavu na račun, a koji se pseudonim smatra "primarnim", koji će se prikazati na uređajima sa sustavom Windows 10.
+1. Na nadzornoj ploči računa uz svoju sliku i naziv računa kliknite **Dodatne akcije > Uređivanje profila**.
+2. Na stranici **Uređivanje profila** kliknite **upravljanje načinom prijave u Microsoft**. 
+3. Prikazat će vam se popis pseudonima računa, a možete i upravljati popisom, uključujući dodavanje i brisanje adresa e-pošte i telefonskih brojeva. Ovdje možete odabrati i koje pseudonima možete koristiti za prijavu na račun, a pseudonim se smatra "primarnim", koji će se prikazivati na uređajima sa sustavom Windows 10.
 
-**Upravljanje načinima plaćanja, kao i naziv i adresa za naplatu** 
+**Upravljanje načinima plaćanja, kao i imena i adrese za naplatu** 
 
-1. Na nadzornoj ploči računa pokraj slike i naziva računa kliknite **Dodatne akcije > Uređivanje profila**.
-2. U **odjeljku Plaćanje & naplate** kliknite **Upravljanje**.
+1. Na nadzornoj ploči računa uz svoju sliku i naziv računa kliknite **Dodatne akcije > Uređivanje profila**.
+2. U odjeljku **plaćanje & naplata** kliknite **Upravljanje**.
 
-    ![Upravljanje plaćanjem i naplatom](media/manage-account.png)
+    ![Upravljanje plaćanjem i naplaćivanje](media/manage-account.png)
 
-3. Ovdje možete dodavati, uređivati i uklanjati načine plaćanja i njihove povezane adrese za naplatu. 
+3. Ovdje možete dodavati, uređivati i uklanjati načine plaćanja i njihove pridružene adrese za naplatu. 

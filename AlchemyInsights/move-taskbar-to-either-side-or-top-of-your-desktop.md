@@ -1,29 +1,30 @@
 ---
-title: Premještanje programske trake na bilo koju ili gornju stranu radne površine
+title: Premještanje programske trake na bilo koju stranu ili vrh radne površine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002939"
 - "5632"
-ms.openlocfilehash: aacc48daecf55eecc5f37dc1efff1a4e337b8b4d
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: d0f34d67a8b3f6101a2db8bbe7d07624bf264aa3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225358"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702787"
 ---
-# <a name="move-the-taskbar-to-either-side-or-the-top-of-your-desktop"></a>Premještanje programske trake na bilo koju ili gornju stranu radne površine
+# <a name="move-the-taskbar-to-either-side-or-the-top-of-your-desktop"></a>Premještanje programske trake na bilo koju stranu ili vrh radne površine
 
-Najprije potvrdite da je programska traka otključana. Da biste saznali je li vaša otključana, desnom tipkom miša kliknite prazan prostor na programskoj traci i provjerite ima li pokraj **programske trake kvačicu zaključavanje.** Ako postoji kvačica, programska traka je zaključana i ne može se premjestiti. Klikom **na Zaključaj programsku traku** jednom ćete je otključati i ukloniti kvačicu.
+Najprije provjerite je li programska traka otključana. Da biste saznali je li vaš otključan, desnom tipkom miša kliknite prazan razmak na programskoj traci i provjerite **je li na programskoj traci** uz nju zaključana kvačica. Ako je potvrđeno, programska je traka zaključana i nije je moguće premjestiti. Klikom **na Zaključaj programsku traku** jednom će se otključati i ukloniti kvačicu.
 
-Ako imate više monitora koji prikazuju programsku traku, vidjet ćete **Zaključaj sve programske trake**.
+Ako imate više monitora koji prikazuju programsku traku, prikazat će se **zaključavanje svih traka zadataka**.
 
-![Zaključavanje svih programskih traka](media/lock-all-taskbars.png)
+![Zaključavanje svih traka zadataka](media/lock-all-taskbars.png)
 
-Kada se programska traka otključa, možete pritisnuti i držati prazan prostor na programskoj traci i povući ga na željeno mjesto na zaslonu. To možete učiniti i tako da desnom tipkom miša kliknete prazan prostor na programskoj traci i idite na ** [postavke programske trake](ms-settings:taskbar?activationSource=GetHelp) > lokaciju programske trake na zaslonu**.
+Kada se programska traka otključa, možete pritisnuti i držati prazan razmak na programskoj traci i odvući ga na željeno mjesto na zaslonu. To možete učiniti i tako da desnom tipkom miša kliknete na prazno mjesto na programskoj traci i odete na ** [Postavke programske trake](ms-settings:taskbar?activationSource=GetHelp) > na zaslonu**.

@@ -1,27 +1,28 @@
 ---
-title: Povezivanje s programom Project Online
+title: Povezivanje s programom Project online
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2661"
 - "9000697"
-ms.openlocfilehash: 3eff2e886c4bbb72e3023fe2728d3aaa4c4a800e
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 6970369c37b3772f28c5a98405836643d233464d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45438870"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681035"
 ---
-# <a name="connect-to-project-online"></a>Povezivanje s programom Project Online
+# <a name="connect-to-project-online"></a>Povezivanje s programom Project online
 
-Na project online možete se povezati pomoću:
+Možete se povezati s programom Project online pomoću:
 
-- Project Online Desktop klijent za povezivanje s programom Project Online u okruženju sustava Office 365. Dodatne informacije potražite [u odjeljku Povezivanje s programom Project Online pomoću klijenta za stolna računala project online](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client).  
-- Servis Power BI da biste otključali uvid u web-aplikaciju Project Web App da biste lakše upravljali projektima, portfeljima i resursima. Dodatne informacije potražite [u odjeljku Povezivanje s web-aplikacijom Project Web App pomoću servisa Power BI](https://docs.microsoft.com/power-bi/service-connect-to-project-online).  
+- Klijent programa Project online za stolna računala za povezivanje s programom Project online u okruženju sustava Office 365. Dodatne informacije potražite u članku [Povezivanje s programom Project online pomoću klijenta Project online za stolna računala](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client).  
+- Servis Power BI za otključavanje uvida iz web-aplikacije Projecta za upravljanje projektima, portfeljima i resursima. Dodatne informacije potražite u članku [Povezivanje s programom Project Web App uz Power bi](https://docs.microsoft.com/power-bi/service-connect-to-project-online).  
