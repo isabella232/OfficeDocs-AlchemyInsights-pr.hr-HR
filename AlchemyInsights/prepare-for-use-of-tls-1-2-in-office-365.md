@@ -5,24 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
 ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: a81786b5fab6a039d4771739000a8f841871dad7
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 3e1e19c6198cade36930e16445250254e2e50f5e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579605"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693950"
 ---
-# <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a><span data-ttu-id="c44a6-102">Priprema za upotrebu protokola TLS 1.2 u okruženju Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="c44a6-102">Prepare for use of TLS 1.2 in Microsoft 365</span></span>
+# <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a><span data-ttu-id="9451e-102">Priprema za upotrebu protokola TLS 1.2 u okruženju Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="9451e-102">Prepare for use of TLS 1.2 in Microsoft 365</span></span>
 
-<span data-ttu-id="c44a6-103">Od 31. listopada 2018. Microsoft 365 nastavit će s prijelazom na TLS 1.2.</span><span class="sxs-lookup"><span data-stu-id="c44a6-103">As of October 31st, 2018, Microsoft 365 will continue transitioning to TLS 1.2.</span></span> <span data-ttu-id="c44a6-104">To znači da Microsoft više neće rješavati probleme koji se pronađu na klijentima, uređajima ili servisima koji se sa sustavom Microsoft 365 povezuju putem protokola TLS 1.0 i 1.1.</span><span class="sxs-lookup"><span data-stu-id="c44a6-104">This means that Microsoft will not fix new issues that are found in clients, devices, or services that connect to Microsoft 365 by using TLS 1.0 and 1.1.</span></span> <span data-ttu-id="c44a6-105">**Ovaj ne mea Microsoft 365 htijenje blokovi TLS 1.0 i 1.1 povezivanje.**</span><span class="sxs-lookup"><span data-stu-id="c44a6-105">**This does not mea Microsoft 365 will block TLS 1.0 and 1.1 connections.**</span></span> <span data-ttu-id="c44a6-106">Datum konačnog ukidanja bit će utvrđen na temelju upotrebe i trenutnog stanja sigurnosti naslijeđenih protokola TLS.</span><span class="sxs-lookup"><span data-stu-id="c44a6-106">The eventual deprecation date will be determined by customer usage and the current state of legacy TLS security.</span></span> <span data-ttu-id="c44a6-107">Nakon donošenja odluke, obavijest o ukidanju objavit ćemo šest mjeseci unaprijed, osim ako uočimo problem koji ugrožava sigurnost. U tom ćemo slučaju morati djelovati prije isteka tih šest mjeseci da bismo zaštitili korisnike koji koriste naše usluge.</span><span class="sxs-lookup"><span data-stu-id="c44a6-107">After a decision is made, there will be an announcement six months in advance unless we become aware of a known compromise, in which case we may have to act in less than six months to protect customers who use the services.</span></span>
+<span data-ttu-id="9451e-103">Od 31. listopada 2018. Microsoft 365 nastavit će s prijelazom na TLS 1.2.</span><span class="sxs-lookup"><span data-stu-id="9451e-103">As of October 31st, 2018, Microsoft 365 will continue transitioning to TLS 1.2.</span></span> <span data-ttu-id="9451e-104">To znači da Microsoft više neće rješavati probleme koji se pronađu na klijentima, uređajima ili servisima koji se sa sustavom Microsoft 365 povezuju putem protokola TLS 1.0 i 1.1.</span><span class="sxs-lookup"><span data-stu-id="9451e-104">This means that Microsoft will not fix new issues that are found in clients, devices, or services that connect to Microsoft 365 by using TLS 1.0 and 1.1.</span></span> <span data-ttu-id="9451e-105">**To ne znači da će Microsoft 365 blokirati TLS 1,0 i 1,1 veza.**</span><span class="sxs-lookup"><span data-stu-id="9451e-105">**This does not mea Microsoft 365 will block TLS 1.0 and 1.1 connections.**</span></span> <span data-ttu-id="9451e-106">Datum konačnog ukidanja bit će utvrđen na temelju upotrebe i trenutnog stanja sigurnosti naslijeđenih protokola TLS.</span><span class="sxs-lookup"><span data-stu-id="9451e-106">The eventual deprecation date will be determined by customer usage and the current state of legacy TLS security.</span></span> <span data-ttu-id="9451e-107">Nakon donošenja odluke, obavijest o ukidanju objavit ćemo šest mjeseci unaprijed, osim ako uočimo problem koji ugrožava sigurnost. U tom ćemo slučaju morati djelovati prije isteka tih šest mjeseci da bismo zaštitili korisnike koji koriste naše usluge.</span><span class="sxs-lookup"><span data-stu-id="9451e-107">After a decision is made, there will be an announcement six months in advance unless we become aware of a known compromise, in which case we may have to act in less than six months to protect customers who use the services.</span></span>
   
-<span data-ttu-id="c44a6-108">Preporučujemo da na svim poslužiteljima i klijentima koji se povezuju s okruženjem Microsoft 365 što prije omogućite TLS 1.2.</span><span class="sxs-lookup"><span data-stu-id="c44a6-108">It is strongly suggested that any servers and clients connecting with Microsoft 365 need to enable TLS 1.2 as soon as possible.</span></span>
+<span data-ttu-id="9451e-108">Preporučujemo da na svim poslužiteljima i klijentima koji se povezuju s okruženjem Microsoft 365 što prije omogućite TLS 1.2.</span><span class="sxs-lookup"><span data-stu-id="9451e-108">It is strongly suggested that any servers and clients connecting with Microsoft 365 need to enable TLS 1.2 as soon as possible.</span></span>
   
-<span data-ttu-id="c44a6-109">Dodatne informacije pogledajte u članku [Priprema za TLS 1.2 u okruženju Microsoft 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="c44a6-109">For more information see [Preparing for TLS 1.2 in Microsoft 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span></span>
+<span data-ttu-id="9451e-109">Dodatne informacije pogledajte u članku [Priprema za TLS 1.2 u okruženju Microsoft 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="9451e-109">For more information see [Preparing for TLS 1.2 in Microsoft 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)</span></span>
   
