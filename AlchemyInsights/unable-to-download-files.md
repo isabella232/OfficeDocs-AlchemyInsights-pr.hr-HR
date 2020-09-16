@@ -1,34 +1,35 @@
 ---
-title: Preuzimanje datoteka nije moguće
+title: Nije moguće preuzeti datoteke
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5731"
-ms.openlocfilehash: 4a66a419535de7c91c166ece94d62cce507f39e2
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 02fb52dbfa8fa47d04a317601fc7a7b1402836bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45438888"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669167"
 ---
-# <a name="unable-to-download-files"></a>Preuzimanje datoteka nije moguće
+# <a name="unable-to-download-files"></a>Nije moguće preuzeti datoteke
 
-- Preuzimanja su podložna ovim ograničenjima: Ograničenje veličine pojedinačne datoteke: 10GB; ukupno zip veličina datoteke granica: 20GB; ukupan broj ograničenja datoteka: 10.000; granica veličine mape: 200 datoteka.
-- Datoteke ili mape koje sadrže oznaku s oznakom (#) u nazivu datoteke ili mape ne mogu se dodati u .zip datoteke.  
+- Preuzimanja podliježu sljedećim ograničenjima: ograničenje veličine pojedinačne datoteke: 10GB; Ukupno ograničenje veličine zip datoteke: 20GB; Ukupan broj ograničenja datoteka: 10.000; ograničenje veličine mape: 200 datoteka.
+- Datoteke ili mape koje sadrže oznake (#) u nazivu datoteke ili mape ne mogu se dodati u. zip datoteke.  
     
-- Bilježnice programa OneNote ne možete preuzeti. Ako preuzmete mapu koja sadrži bilježnicu programa OneNote, .zip datoteka sadrži poruku o pogrešci u obliku .txt datoteke.  
+- Ne možete preuzimati bilježnice programa OneNote. Ako preuzmete mapu koja sadrži bilježnicu programa OneNote,. zip datoteka sadrži poruku o pogrešci u obliku. txt datoteke.  
     
-- Datoteke ne možete preuzeti izravno iz **zajedničkog** prikaza. Otvorite datoteku i spremite kopiju na mjesto po vašem izboru.  
+- Datoteke ne možete preuzimati izravno iz **zajedničkog**  prikaza. Otvorite datoteku i spremite kopiju na mjesto koje ste odabrali.  
     
-- Na servisu OneDrive za tvrtke ne možete koristiti Internet Explorer za preuzimanje mapa ili više datoteka. Pomoću preglednika Microsoft Edge ili Google Chrome preuzimajte mape ili više datoteka.  
+- Na servisu OneDrive za tvrtke ne možete koristiti Internet Explorer za preuzimanje mapa ili više datoteka. Upotrijebite Microsoft Edge ili Google Chrome da biste preuzeli mape ili više datoteka.  
     
-- Gumb **Preuzmi** ponekad nestaje ako osvježite web-stranicu dok pregledavate mapu. Da biste to zaobišli, možete se pojaviti jednu razinu u direktoriju mapa i vratiti se ili zatvoriti tu karticu u pregledniku i ponovno navigirati do mape.  
+- Gumb **Preuzmi** ponekad nestaje ako osvježavate web-stranicu tijekom pregledavanja mape. Da biste to zaobišli, možete se prijeći na jednu razinu u direktoriju mapa i vratiti se ili ga ponovno postaviti u pregledniku i ponovno prijeći na mapu.  
     
-Dodatne informacije potražite u [odjeljku Preuzimanje datoteka i mapa sa servisa OneDrive ili sustava SharePoint](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).
+Dodatne informacije potražite u članku [Preuzimanje datoteka i mapa sa servisa OneDrive ili u sustavu SharePoint](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).

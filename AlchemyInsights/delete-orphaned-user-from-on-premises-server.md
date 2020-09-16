@@ -1,38 +1,39 @@
 ---
-title: Brisanje sirotišnog korisnika s lokalnog poslužitelja
+title: Brisanje korisnika koji su napušteni s lokalnog poslužitelja
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1725"
 - "9000179"
-ms.openlocfilehash: 7927c0684d2f5289f92506d7d05d5b1a3b43b658
-ms.sourcegitcommit: b0b050a83db28566b68e3ec09810c6b94280008e
+ms.openlocfilehash: 537ae7edebfa5a4ab71c2141d549d732ed4f883f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45197822"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680127"
 ---
-# <a name="delete-orphaned-user-from-on-premises-server"></a>Brisanje sirotišnog korisnika s lokalnog poslužitelja
+# <a name="delete-orphaned-user-from-on-premises-server"></a>Brisanje korisnika koji su napušteni s lokalnog poslužitelja
 
-Da biste uklonili napuštenog korisnika, slijedite ove korake:
+Da biste uklonili siroog korisnika, slijedite ove korake:
 
-1. Prisilno sinkronizacija direktorija slijedeći upute u odjeljku [Što je hibridni identitet servisa Azure Active Directory?](https://technet.microsoft.com/library/jj151771.aspx#bkmk_synchronizedirectories).
+1. Prisilno Sinkroniziranje direktorija slijedite upute u odjeljku [što je hibridni identitet sa servisom Azure Active Directory?](https://technet.microsoft.com/library/jj151771.aspx#bkmk_synchronizedirectories).
 
-2. Da biste provjerili sinkronizaciju direktorija, pročitajte [što je hibridni identitet servisa Azure Active Directory?](https://technet.microsoft.com/library/jj151797.aspx).
+2. Da biste potvrdili sinkronizaciju direktorija, pročitajte članak [što je hibridni identitet sa servisom Azure Active Directory?](https://technet.microsoft.com/library/jj151797.aspx).
 
-3. Ako sinkronizacija ispravno funkcionira, ali brisanje objekta servisa Active Directory ne propagira Azure AD, ručno uklonite napušteni objekt pomoću jednog od sljedećih cmdleta Azure Active Directory Module za Windows PowerShell:
+3. Ako sinkronizira funkcionira ispravno, no Brisanje objekta servisa Active Directory ne prenosi se na Azure AD, ručno uklonite napušteni objekt pomoću jednog od sljedećih modula za Azure Active Directory za Windows PowerShell za cmdlete:
 
-    Ukloni-MsolKontakt  
-    Ukloni-MsolGroup  
-    Ukloni-MsolUser
+    Uklanjanje-MsolContact  
+    Uklanjanje-MsolGroup  
+    Uklanjanje-MsolUser
 
-    Na primjer, da biste uklonili john.smith@contoso.com za napušteni korisnički ID, izvorno stvoren pomoću sinkronizacije direktorija, pokrenite cmdlet:
+    Da biste, primjerice, uklonili john.smith@contoso.com ID korisnika, izvorno stvoren pomoću sinkronizacije direktorija, pokrenite cmdlet:
 
-    Maknuti-MsolUser – UserPrincipalName John.Smith@Contoso.com
+    Uklanjanje-MsolUser – UserPrincipalName John.Smith@Contoso.com

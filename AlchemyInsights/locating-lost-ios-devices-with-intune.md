@@ -1,58 +1,59 @@
 ---
-title: Pronalaženje izgubljenih iOS uređaja s intune
+title: Pronalaženje izgubljenih uređaja sa sustavom iOS pomoću aplikacije Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1283"
 - "6700008"
-ms.openlocfilehash: faaea65c7edc345bb676d2fb266e20f85ba2cbe5
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
+ms.openlocfilehash: 70f12328813a312631c67cd72cc75559ed2eca1b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45438906"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675148"
 ---
-# <a name="locating-lost-ios-devices-with-intune"></a>Pronalaženje izgubljenih iOS uređaja s intune
+# <a name="locating-lost-ios-devices-with-intune"></a>Pronalaženje izgubljenih uređaja sa sustavom iOS pomoću aplikacije Intune
 
-Omogućivanje izgubljenog načina rada na iOS uređaju administratoru omogućuje prikaz poruke i telefonskog broja za kontakt na zaključanom zaslonu.
+Omogućivanje Izgubljenog načina rada na uređaju sa sustavom iOS administrator ima poruku i telefonski broj kontakta koji se prikazuje na zaključanom zaslonu.
 
-Nakon što je omogućen izgubljeni način rada, administrator može koristiti akciju Pronađi uređaj za identifikaciju fizičke lokacije uređaja.
+Nakon omogućivanja izgubljenog načina rada administrator može identificirati fizičku lokaciju uređaja pomoću akcije pronađite uređaj.
 
-Akcija Pronađi uređaj u aplikaciji Intune radi s uređajima sa sustavom iOS kako bi se prikazala lokacija određenog uređaja na karti.
+Akcija pronađite uređaj u programu Intune radi s uređajima sa sustavom iOS da bi se prikazalo mjesto određenog uređaja na karti.
 
-Za korištenje ove akcije potreban je iOS uređaj:
+Pomoću ove akcije potreban je uređaj sa sustavom iOS:
 
 - Nadzirani način rada
-- Način izgubljenog
+- Izgubljeni način rada
 
-Dodatne informacije [potražite u odjeljku Omogućivanje izgubljenog načina rada na iOS/iPadOS uređajima s intune](https://docs.microsoft.com/intune/device-lost-mode) i [pronalaženje izgubljenih ili ukradenih iOS/iPadOS uređaja s intune](https://docs.microsoft.com/intune/device-locate).
+Dodatne informacije potražite u članku [omogućivanje Izgubljenog načina rada na uređajima sa sustavom iOS/ipados pomoću aplikacije Intune](https://docs.microsoft.com/intune/device-lost-mode) i [pronalaženje izgubljenih ili ukradenih uređaja sa sustavom iOS/Ipados pomoću aplikacije Intune](https://docs.microsoft.com/intune/device-locate).
 
 **Najčešća pitanja**
 
-P: Izdao sam udaljenu akciju za uklanjanje podataka tvrtke s uređaja, a sada je zapela u stanju na čekanju.
+P: izdala sam daljinsku akciju za uklanjanje podataka tvrtke s uređaja, a sada je zaglavljena u stanju neriješenog.
 
-O: Da bi se daljinsko dovršavanje uspješno dovršilo, ciljani uređaj mora biti na mreži i zdrav. U sljedećim situacijama udaljena akcija ostaje u stanju na čekanju 30 dana ili dok uređaj ne potvrdi naredbu:
+O: da bi se daljinska akcija uspješno dovršena, ciljani uređaj mora biti online i zdrav. U sljedećim situacijama daljinska akcija ostaje u stanju neriješenog tijekom 30 dana ili dok uređaj ne potvrdi naredbu:
 
-- Kada uređaj nema
-- Kada uređaj izgubi status upravljanja intune
+- Kada uređaj nema povezivost
+- Kada uređaj izgubi status upravljanja pomoću aplikacije Intune
 
-Ako mislite da se uređaj više ne prijavljuje i da neće moći ukloniti podatke tvrtke, odaberite Izbriši. Brisanjem se uklanja zapis uređaja tako da se više ne pojavljuje na popisu Intune uređaja. Ako uređaj ponovno postane aktivan, korisnik će ga morati ponovno prijaviti.
+Ako mislite da se uređaj više ne prijavljuje i da neće moći ukloniti podatke tvrtke, odaberite Izbriši. Brisanjem se uklanja zapis uređaja tako da se više ne prikazuje na popisu Intune na uređajima. Ako uređaj ponovno postane aktivan, njezin će ga korisnik morati ponovno prijaviti.
 
-P: Zašto određene udaljene radnje nisu dostupne za korištenje?
+P: zašto određene udaljene akcije nisu dostupne za korištenje?
 
-O: Ne podržavaju sve platforme sve akcije udaljenog uređaja. Sljedeće udaljene radnje specifične su za platformu, tako da su dostupne samo za navedene platforme.
+O: nisu sve platforme podržavaju sve akcije udaljenog uređaja. Sljedeće udaljene akcije specifične su za platformu, pa su dostupne samo za navedene platforme.
 
-- Zaobilaženje zaključavanja aktivacije (samo iOS)
-- Novi početak (samo windows)
-- Način izgubljenog načina rada (samo iOS)
-- Pronalaženje uređaja (samo iOS)
-- Ponovno pokretanje (samo windows)
+- Zaobilaženje aktivacije za aktivaciju (samo sa sustavom iOS)
+- Novi Start (samo u sustavu Windows)
+- Izgubljeni način rada (samo sa sustavom iOS)
+- Pronađite uređaj (samo za iOS)
+- Ponovno pokretanje (samo u sustavu Windows)
 
-Dodatne pojedinosti o svakoj radnji [potražite u odjeljku Dostupne radnje uređaja](https://docs.microsoft.com/intune/device-management#available-device-actions).
+Dodatne informacije o svakoj akciji potražite u članku [dostupne akcije uređaja](https://docs.microsoft.com/intune/device-management#available-device-actions).

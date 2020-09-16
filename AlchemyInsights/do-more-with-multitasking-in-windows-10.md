@@ -1,35 +1,36 @@
 ---
-title: Učinite više zadataka u sustavu Windows 10
+title: Učinite više s multitpitom u sustavu Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: 8d8e73f4d9c5466badae1688981b8a968f6b010a
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: 3efdd790d40dcf76b9815bcc63c150db9ab9a177
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44268871"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679108"
 ---
-# <a name="do-more-with-multitasking-in-windows-10"></a>Učinite više zadataka u sustavu Windows 10
+# <a name="do-more-with-multitasking-in-windows-10"></a>Učinite više s multitpitom u sustavu Windows 10
 
-Da biste vidjeli ili se prebacili između aplikacija: na programskoj traci možete kliknuti gumb **Prikaz zadatka** ili pritisnuti **Tipku Alt-Tab** na tipkovnici. Gumb Prikaz zadataka izgleda ovako:
+Da biste pogledali ili prešli između aplikacija: možete kliknuti gumb **Prikaz zadatka** na programskoj traci ili pritisnuti **Alt-Tab** na tipkovnici. Gumb Prikaz zadatka izgleda ovako:
 
-![Gumb prikaza zadatka](media/task-view.png)
+![Gumb Prikaz zadatka](media/task-view.png)
 
-Da biste jednostavno rasporedili dvije aplikacije jedna uz drugu, upotrijebite pomoć za poravnanje: zgrabite vrh prozora aplikacije i povucite je na jednu stranu da biste je "ugrizali" na tu polovicu zaslona. Zatim odaberite drugu aplikaciju i automatski će se uvući na svoje mjesto u drugoj polovici zaslona.
+Da bi se dvije aplikacije jednostavno raspoređivali međusobno, upotrijebite pomoć za poravnanje: zgrabite vrh prozora aplikacije i odvucite je na jednu stranu u "poravnanje" do te polovice zaslona. Zatim odaberite neku drugu aplikaciju i ona će se automatski poravnavati na mjesto u drugoj polovici zaslona.
 
-**Da biste stvorili različite virtualne radne površine za dom i posao:**
+**Da biste stvorili različita Virtualna stolna računala za kućnu i radnu**površinu:
 
 1. Kliknite gumb **Prikaz zadatka** na programskoj traci ili pritisnite **Alt-Tab** na tipkovnici.
-2. Kliknite **+ Nova radna površina** (nalazi se u gornjem lijevom kutu zaslona dok je u prikazu zadatka).
+2. Kliknite **+ nova radna površina** (koja se nalazi u gornjem desnom kutu zaslona dok ste u prikazu zadatka).
 3. Otvorite aplikacije koje želite koristiti. 
 
-Vratite se u **prikaz zadataka** da biste vidjeli radne površine i prebacili se između njih.
+Vratite se u **Prikaz zadatka** da biste vidjeli radne površine i prebacili se između njih.

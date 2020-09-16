@@ -1,32 +1,33 @@
 ---
-title: Uključivanje programa Microsoft Defender ATP
+title: Vodič za Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 3b07ef940b225b9c8d382292f3ac1aba0c1ebb22
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141370"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673417"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>Uključivanje programa Microsoft Defender ATP
+# <a name="onboarding-microsoft-defender-atp"></a>Vodič za Microsoft Defender ATP
 
-Za resurse za uključivanje u microsoft Defender ATP za Windows 10, Windows poslužitelje i Mac i Linux strojeve pogledajte: 
+Upute za resurse na platformi Microsoft Defender ATP za Windows 10, Windows Servers i Mac i Linux strojevi potražite u članku: 
 
-- **Strojevi za Windows 10** Ovisno o poslovnim zahtjevima, možete odabrati neku od mogućnosti za uključivanje uređaja sa sustavom Windows 10. Dodatne informacije [potražite u odjeljku Alati i metode za uključivanje u vozila za uređaje sa sustavom Windows 10](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
+- **Strojevi za Windows 10** Ovisno o poslovnim zahtjevima, možete odabrati neku od mogućnosti na računalu na kojem je instaliran sustav Windows 10. Dodatne informacije potražite u članku [Alati i postupci za ukrcaj na uređaje sa sustavom Windows 10](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
 
-- **Windows poslužitelji** Da biste uključili ATP programa Microsoft Defender za svoju verziju sustava Windows Server, pročitajte članku [Onboard poslužitelji servisa Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
+- **Poslužitelji sustava Windows** Na platformi Microsoft Defender ATP za svoju verziju sustava Windows Server potražite [u članku serveri na brodu na servisu Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
 
-- **Krajnje točke koje nisu u sustavu Windows**  Prije nego što utečete u sustav koji nije Windows, morate ispunjavati sistemske preduvjete za [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) ili [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).
+- **Krajnje točke koje nisu Windows**  Prije nego što unesete sustav koji nije Windows, morate ispuniti sistemske preduvjete za [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) i [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).
 
-    Nakon što potvrdite sistemske preduvjete, pročitajte odjeljak [Uređaji koji nisu windows uređaji](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).
+    Kada potvrdite sistemske preduvjete, pročitajte članak na [uređajima koji nisu u sustavu Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).

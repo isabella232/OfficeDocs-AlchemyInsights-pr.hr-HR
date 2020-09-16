@@ -1,29 +1,30 @@
 ---
-title: Problemi s onboarding strojevima
+title: Problemi s uređajima za ukrcavanje
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141320"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676874"
 ---
-# <a name="issues-with-onboarding-machines"></a>Problemi s onboarding strojevima
+# <a name="issues-with-onboarding-machines"></a>Problemi s uređajima za ukrcavanje
 
-Možda imate problema s onboarding strojevima za MDATP uslugu. Ako možete pristupiti računalu krajnjeg korisnika, slijedite ove korake:
+Možda imate problema s uređajima za ukrcavanje na servisu MDATP. Ako možete pristupiti stroju krajnjeg korisnika, slijedite ove korake:
 
-1. Preuzmite dijagnostički alat [za analizu povezivosti klijenta.](https://aka.ms/mdatpanalyzer)
-2. Ekstrakt i trčanje MDATPAnalyzer.cmd.
-3. Pronađite dijagnostički zapisnik u mapi pod nazivom MDATPClientAnalyzerResult, istu mapu u kojoj se preuzima alat Analizator.
-4. Pregledajte datoteku zapisnika, MDATPClientAnalyzer.txt, da biste pronašli probleme s postavkama povezivanja ili postavki internetskog proxyja.
+1. Preuzmite dijagnostički alat za [analizu povezivanja s klijentom](https://aka.ms/mdatpanalyzer) .
+2. Ekstrakt i trčanje MDATPAnalyzer. cmd.
+3. Pronađite Dijagnostički zapisnik u mapi Mdatpclientanalyzer, istoj mapi u kojoj je preuzeta alat za analizu.
+4. Pregledajte datoteku zapisnika, MDATPClientAnalyzer.txt i potražite probleme s postavkama internetske veze.

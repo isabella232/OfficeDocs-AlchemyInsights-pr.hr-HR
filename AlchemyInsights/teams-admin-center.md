@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354080"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670356"
 ---
 # <a name="teams-admin-center"></a>Centar za administratore aplikacije Teams
 
@@ -31,5 +32,5 @@ Ako se u centru za administratore aplikacije Teams ne prikazuju korisnici, provj
 
 - Jeste li tijekom zadnja 24 sata stvarali korisnike ili dodjeljivali licence? Pričekajte barem 24 sata prije nego što prijavite problem službi za podršku.
 - Provjerite jeste li dodijelili odgovarajuće licence?
-- Ako imate lokalni Active Directory, provjerite je li [vrijednost msRTCSIP-PrimaryUserAddress ili SIP adrese u polju ProxyAddresses u lokalnom servisu Active Directory jedinstvena, a oblik odgovara](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip: Korisničko**ime** korisnika iz [centra za administratore sustava Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Ako namjeravate zadržati implementaciju servisa Skype za poslovne poslužitelje i korisnicima koji su lokalno i na mreži: slijedite **"Postavljanje hibridnog sustava sa servisima i skypeom za tvrtke online"** na upravljačkoj ploči servisa Skype za poslovne poslužitelje i premjestite korisnike na mreži.
+- Ako imate postojeći internetski direktorij, provjerite je li [vrijednost servisa msRTCSIP-PrimaryUserAddress ili SIP adresa u polju Proxyadrese u lokalnom aktivnom direktoriju jedinstvena, a oblikovanje odgovara](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP-u:**korisničko ime** korisnika iz [centra za administratore sustava Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Ako namjeravate zadržati implementaciju servisa Skype za tvrtke, a korisnici se nalaze na lokalnoj kartici i na internetu: slijedite gumb **"postavljanje hibridnih timova i Skypea za tvrtke online"** na upravljačkoj ploči servisa Skype za tvrtke i premještanje korisnika na internetu.

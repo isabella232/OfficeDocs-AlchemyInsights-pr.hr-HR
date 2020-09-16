@@ -1,26 +1,27 @@
 ---
-title: Licenca koja nedostaje ili nestaje iz centra za administratore
+title: Licenca koja nema ili nestaje iz centra za administratore
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003038"
 - "5800"
-ms.openlocfilehash: 90c6a9bf73148fbd91573972f8d64f5f63af5164
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 847d5b223c94e7ce74ed30083dc72835a3190ebe
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707647"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676370"
 ---
-# <a name="license-missing-or-disappears-from-the-admin-center"></a>Licenca koja nedostaje ili nestaje iz centra za administratore
+# <a name="license-missing-or-disappears-from-the-admin-center"></a>Licenca koja nema ili nestaje iz centra za administratore
 
 
-Ako su licence nestale, provjerite nije li vaša pretplata istekla. Da biste provjerili datum **Billing**isteka, idite na   >   **[Naplata proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.  
+Ako su vaše licence nestale, provjerite nije li vaša pretplata istekla. Da biste provjerili Datum isteka, idite na **naplatu**   >   **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.  
 
-Ovisno o prikazu, datum isteka pojavit će se na krajnjem desnom stupcu s oznakom **Datum** ili u **odjeljku Naplata** pojedinosti o pretplati pokraj stavke **Istječe .**
+Ovisno o prikazu, Datum isteka prikazat će se u krajnjem desnom stupcu s oznakom  **Datum**  ili u  **odjeljku naplata**  u detaljima o pretplati uz mogućnost  **istječe**.
