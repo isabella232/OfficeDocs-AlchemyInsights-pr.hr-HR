@@ -1,30 +1,31 @@
 ---
-title: 9000215 Outlook.com pretplate
+title: Pretplate na 9000215 Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 8968b278cb5e99c5ce6cae9c79e441546deb58ec
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 758359c9c5907f2167666e9755a59dedee764a95
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722296"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722591"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Pretplate i otkazivanje pretplate
+# <a name="subscriptions-and-unsubscribing"></a>Pretplate i Poništavanje pretplate
 
-Ako želite prestati primati biltene ili promocije, postoje dva načina na koje možete otkazati pretplatu u Outlook.com:
+Ako želite prekinuti primanje biltena ili promocija, možete otkazati pretplatu na dva načina na Outlook.com:
 
-1. U pristigloj pošti odaberite bilten ili promotivnu e-poštu. Pri vrhu okna za čitanje odaberite **Otkazivanje pretplate**.
-2. Otvorite [postavke pretplate Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Postavke** > **Prikaži sve postavke** > programa Outlook**Pretplate na****e-poštu** > ) i odaberite **Otkazivanje pretplate**.
+1. U ulaznoj pošti odaberite newsletter ili promotivnu e-poštu. Pri vrhu okna za čitanje Odaberite **Poništi pretplatu**.
+2. Otvorite [postavke pretplate na Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Postavke**  >  **Prikažite sve**  >  pretplate na**e-poštu**postavke programa Outlook  >  **Subscriptions**), a zatim odaberite **Otkaži pretplatu**.
 
-Bilješke:
+Bilješke
 
-- Trenutno ne mogu svi korisnici imati koristi od ove značajke.
-- Ta će se značajka prikazati samo ako ste primili poruku e-pošte tvrtke koja šalje pretplaćenu e-poštu.
+- Trenutno ne mogu svi korisnici imati koristi od te značajke.
+- Ovu značajku prikazat će vam se samo ako ste primili poruku e-pošte tvrtke koja šalje pretplaćene poruke e-pošte.
