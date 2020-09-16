@@ -1,27 +1,28 @@
 ---
-title: Outlook.com kopiranje
+title: Outlook.com Kopiraj lijepljenje
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1920"
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 8628a5dfe0b9e1d82bd7a43173221f6c1c107cbb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4dc1944b85da3367947ce01ec45b004abda045e3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760476"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752243"
 ---
 # <a name="copy-and-paste-in-outlookcom"></a>Kopiranje i lijepljenje u Outlook.com
 
-U Outlook.com nema gumba za kopiranje ili lijepljenje, ali možete koristiti tipkovne prečace:
+Ne postoje gumbi za kopiranje ili lijepljenje u programu Outlook.com, ali možete koristiti tipkovne prečace:
 
-**Na pc-ju:** CTRL+C za kopiranje, CTRL+X za izreziavanje i CTRL+V za lijepljenje.
+**Na PC-ju:** CTRL + C da biste kopirali, CTRL + X da biste izrezali i CTRL + V da biste zalijepili.
 
-**Na Macračunalu:** CMD + C za kopiranje, CMD + X za rezanje, i CMD + V za lijepljenje.
+**Na Macu:** CMD + C da biste kopirali, CMD + X za rezanje i CMD + V da biste zalijepili.
