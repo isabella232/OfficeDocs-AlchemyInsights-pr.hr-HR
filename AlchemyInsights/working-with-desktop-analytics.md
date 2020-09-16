@@ -1,28 +1,29 @@
 ---
-title: Kako zatvoriti korisnički račun za desktop Analytics
+title: Zatvaranje računa za radnu površinu analitiku
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771099"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725615"
 ---
-# <a name="working-with-desktop-analytics"></a>Rad s analitikom radne površine
+# <a name="working-with-desktop-analytics"></a>Rad sa analitikom za stolna računala
 
-Čini se da se pitate o analitici desktop. Možda ćemo biti u mogućnosti pomoći s preciznijim odgovorom ako preformulirati svoje pitanje.
+Čini se da se raspitujete o analitiku za stolna računala. Ako ponovno formulirajte pitanje, možda ćemo vam moći pomoći uz precizniji odgovor.
 
-- [Što je desktop Analytics?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [Kako postaviti analitiku radne površine](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Što je analitika za stolna računala?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Postavljanje analitičkih podataka za stolna računala](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [Najčešća pitanja](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Otklanjanje poteškoća s analitikom radne površine](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Otklanjanje poteškoća s analitikom za radnu površinu](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

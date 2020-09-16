@@ -1,23 +1,24 @@
 ---
-title: Mape programa Outlook Mobile novim redoslijedom
+title: Mobilne mape programa Outlook u novom redoslijedu
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: de48e5d22eb9ea8a43250d8a497c34ab242a29e3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764828"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772218"
 ---
-# <a name="my-folders-are-in-a-new-order"></a>Moje mape su u novom redoslijedu
+# <a name="my-folders-are-in-a-new-order"></a>Moje se mape nalaze u novom redoslijedu
 
-Uz dodatak omiljenih mapa i grupa u Outlook za iOS i Android, možda ćete primijetiti da su vaše mape u novom redoslijedu. Ako imate favorite, pri vrhu bočne trake vidjet ćete odjeljak favorita. Favorite možete dodati pomoću ikone olovke pri vrhu bočne trake. To će zadržati sve vaše najvažnije mape i grupe na vrhu gdje možete lako pristupiti njima.
+Uz dodavanje omiljenih mapa i grupa u Outlook za iOS i Android, primijetit ćete da se mape nalaze u novom redoslijedu. Ako imate favorite, prikazat će se odjeljak Favoriti pri vrhu bočne trake. Favorite možete dodati pomoću ikone olovke pri vrhu bočne trake. Time ćete na vrhu zadržati sve najvažnije mape i grupe na kojima im možete jednostavno pristupiti.

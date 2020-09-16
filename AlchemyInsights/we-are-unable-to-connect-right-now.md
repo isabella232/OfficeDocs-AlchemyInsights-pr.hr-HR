@@ -1,39 +1,40 @@
 ---
-title: Aktivacija Issue - Nismo u mogućnosti to povezivanje odmah
+title: Problem s aktivacijom – trenutno se ne možemo povezati
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 24fe9910d1715b4f5f7d8d06b1d1344d4b8675bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581867"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725975"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Popravljanje poruke aplikacije Microsoft 365 "Trenutno se ne možemo povezati"
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Rješavanje aplikacija Microsoft 365 "trenutno se ne možemo povezati" s porukom
 
 Ako primite ovu poruku, pokušajte sljedeće:
 
-1. Provjerite postavke vatrozida, antivirusnog softvera i proxy poslužitelja da biste potvrdili da ne blokiraju pristup internetu aplikacijama sustava Microsoft 365. Pogledajte [Microsoftove URL-ove i raspone IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Provjerite vatrozid, antivirusni softver i postavke proxy poslužitelja da biste potvrdili da ne blokiraju pristup internetu u aplikacije Microsoft 365. Pročitajte članak [Microsoftovi URL-ovi i rasponi IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Idite na **Pokreni**  >  **,** a zatim upišite **services.msc**. Provjerite jesu li pokrenuti sljedeći servisi:
-    - Automatsko postavljanje uređaja povezanih s mrežom
-    - Usluga mrežnog popisa
+2. Idite na **početak**  >  **pokretanja**, a zatim upišite **Services. msc**. Provjerite jesu li svi sljedeći servisi pokrenuti:
+    - Automatsko postavljanje mrežnih povezanih uređaja
+    - Servis mrežnog popisa
     - Svijest o mrežnom mjestu
-    - Zapisnik događaja sustava Windows
+    - Zapisnik događaja u sustavu Windows
 
-Ako jedan od tih servisa nije pokrenut, pokušajte ga pokrenuti. Ako imate problema s pokretanjem servisa, pokrenite sljedeću naredbu otvaranjem naredbenog retka s povišenim dozvolama:
+Ako jedan od tih servisa nije pokrenut, pokušajte ga pokrenuti. Ako imate problema s pokretanjem servisa, pokrenite sljedeću naredbu otvaranjem naredbenog upita s dodatnim dozvolama:
 
-**sfc / scannow**
+**sfc/scannow**
 
-Nakon što ova naredba završi, ponovo pokrenite računalo.
+Kada naredba završi, ponovno pokrenite računalo.
 
-Detaljne informacije potražite u [odjeljku "Nažalost, ne možemo se povezati s vašim računom. Pokušajte ponovno kasnije" pogreška kada aktivirate Office iz Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Detaljne informacije potražite u članku ["Žao nam je, ne možemo se povezati s vašim računom. Pokušajte ponovno kasnije "pogreška prilikom aktivacije sustava Office iz programa Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
