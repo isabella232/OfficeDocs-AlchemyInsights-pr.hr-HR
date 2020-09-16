@@ -1,31 +1,32 @@
 ---
-title: Za javnu mapu migracije batch sa StatusOm CompletedWithErrors
+title: Grupa za migraciju javnih mapa sa stanjem dovršenapogreške
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: 739e9d91f90e4c0374814d199e4372eb5625553a
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158591"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744105"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Za javnu mapu migracije batch sa StatusOm CompletedWithErrors
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Grupa za migraciju javnih mapa sa stanjem dovršenapogreške
 
-Da biste dovršili seriju, preskočite velike/loše artikle, slijedite ove korake: 
-1. Odobrite preskočene artikle na seriji migracije:
+Slijedite sljedeće korake da biste dovršili seriju, preskakanjem velikih/loših stavki: 
+1. Odobravanje preskočenih stavki u grupi migracije:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. Koristite sljedeću naredbu da biste odobrili preskočene stavke na zahtjevima za migraciju koji su "Sinkronizirani", ali nisu dovršeni:
+2. Pomoću sljedeće naredbe odobrite preskočene stavke o zahtjevima za migraciju koji su "sinkronizirani", ali nisu završeni:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. Serija migracija i zahtjevi trebali bi se nastaviti i dovršiti za nekoliko minuta.
+3. Grupa za migraciju i zahtjeve trebali bi se nastaviti i dovršiti za nekoliko minuta.
 
