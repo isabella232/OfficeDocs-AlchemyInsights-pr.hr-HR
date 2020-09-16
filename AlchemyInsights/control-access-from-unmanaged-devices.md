@@ -1,25 +1,26 @@
 ---
-title: Upravljanje pristupom s neupravljanih uređaja
+title: Upravljanje pristupom iz neupravljanih uređaja
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5711"
-ms.openlocfilehash: 3a354f432c7742ba829759edb83ae66bb1326939
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: db9a9338d02a566dd1552347d946fa5180ff6de0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44357433"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47747804"
 ---
-# <a name="control-access-from-unmanaged-devices"></a>Upravljanje pristupom s neupravljanih uređaja
+# <a name="control-access-from-unmanaged-devices"></a>Upravljanje pristupom iz neupravljanih uređaja
 
-Kao sharepoint ili globalni administrator u sustavu Microsoft 365 možete blokirati ili ograničiti pristup sadržaju sustava SharePoint i OneDrive s neupravljanih uređaja.
+Kao SharePoint ili globalni administrator u programu Microsoft 365, možete blokirati ili ograničiti pristup sadržaju sustava SharePoint i servisu OneDrive iz neupravljanih uređaja.
 
-- [Upravljanje pristupom s neupravljanih uređaja](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Upravljanje pristupom iz neupravljanih uređaja](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)

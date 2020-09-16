@@ -1,10 +1,11 @@
 ---
-title: Pošiljatelj ograničen za slanje previše neželjene pošte
+title: Pošiljatelj ograničen zbog slanja previše neželjene pošte
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,14 +13,14 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 23d09bd34ad13bdfce3259afcafb14222920f95f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a99a0b648ad7bf5217be390113af1351ff329399
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511896"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740034"
 ---
-# <a name="account-is-restricted-for-sending-too-much-spam"></a>Račun je ograničen za slanje previše neželjene pošte
+# <a name="account-is-restricted-for-sending-too-much-spam"></a>Ograničen je račun za slanje previše neželjene pošte
 
 Ako jedan od vaših korisnika ima ograničenja u slanju e-pošte, kao administrator možete [deblokirati račun sami](https://protection.office.com/?hash=/restrictedusers) **bez otvaranja slučaja podrške**. Korisnik će moći slati e-poštu u roku od sat vremena nakon uklanjanja ograničenja.
 

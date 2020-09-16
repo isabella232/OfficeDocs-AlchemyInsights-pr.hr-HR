@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 65b56ad1fbcce98fac42becc9fc4f060c17e9e5f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a056a9bf006b2400b94ee52444ab83e71b232348
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44063285"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737549"
 ---
 # <a name="subscription-no-longer-active"></a>Pretplata više nije aktivna
 
@@ -24,11 +25,11 @@ Ako se prilikom otvaranja [Microsoftove aplikacije pojavi obavijest o pretplati]
 
 **Ponovna aktivacija pretplate**
 
-1. U centru za administratore **Billing**otvorite  >  stranicu**[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. U centru za administratore otvorite stranicu **naplata**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Odaberite pretplatu koju želite ponovno aktivirati.
 
-3. U odjeljku **Naplata** kliknite **Odmah ponovo aktiviraj**.  Ako se nalazite u prikazu **Kartice,** kliknite elipsu između **imena** i **raspoložive količine** i odaberite **Ponovno aktiviraj** s izbornika.
+3. U odjeljku **Naplata** kliknite **Odmah ponovo aktiviraj**.  Ako se nalazite u prikazu **kartice** , kliknite trotočku između **naziva** i **dostupne količine** , a zatim na izborniku odaberite **Ponovno aktiviraj** .
 
 **Napomena**: ako ne vidite pretplatu koju tražite, možda trebate prilagoditi filtar **Status pretplate** pri vrhu stranice na **Sve**.
 

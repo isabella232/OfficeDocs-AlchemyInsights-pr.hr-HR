@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 875026fe11d3745b587131cf0dd40a28fa005dc5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580145"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744618"
 ---
 # <a name="unable-to-activate-office"></a>Nije moguće aktivirati Office
 
 - Provjerite je li status vaše pretplate istekao.
-- Provjerite imate li pretplatu koja klijentskim licencama, kao što je Office 365 Business ili Business Premium, omogućuje pretplatu i [provjerite je li korisniku dodijeljena licenca](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Provjerite imate li pretplatu koja omogućuje klijentske licence, kao što je Office 365 Business ili Business Premium te [Provjerite je li korisnik dodijelio licencu](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
 - Provjerite je li se korisnik prijavljuje u Office s pomoću istog računa na koji je dodijeljena licenca.
 - Da biste saznali postoje li poznati problemi sa servisom, pogledajte članak [Stranica o stanju servisa za Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
-- Provjerite vatrozid, protuvirusni softver i postavke proxyja da biste potvrdili da ne blokiraju pristup internetskim aplikacijama sustava Microsoft 365. Pogledajte [URL-ovi i rasponi IP adresa za Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "URL-ovi i rasponi IP adresa za Office 365").
+- Provjerite vatrozid, antivirusni softver i postavke proxy poslužitelja da biste potvrdili da ne blokiraju pristup aplikacijama programa Microsoft 365 na Internet. Pogledajte [URL-ovi i rasponi IP adresa za Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "URL-ovi i rasponi IP adresa za Office 365").
 
 Primijenite sljedeće radnje uklanjanja poteškoća:
 

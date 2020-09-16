@@ -1,38 +1,39 @@
 ---
-title: Datoteke i videozapisi na web-mjestu Yammer
+title: Datoteke i videozapisi u servisu Yammer
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/15/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6040"
 - "9003112"
-ms.openlocfilehash: e34e522f777d6228d8732ac88b5cfd2f5d1c3bdf
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: c5f2b7f6ac4686bc9ef81c38525994d032a57f78
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45148187"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745194"
 ---
-# <a name="files-and-videos-in-yammer"></a>Datoteke i videozapisi na web-mjestu Yammer
+# <a name="files-and-videos-in-yammer"></a>Datoteke i videozapisi u servisu Yammer
 
-Datoteke se mogu priložiti porukama na yammeru ili prenijeti izravno u grupe. Korisničko iskustvo malo se razlikuje između klasičnog i novog servisa Yammer, ali datoteke se prenose na ista mjesta. Dodatne informacije potražite u [odjeljku Prilaganje datoteke ili slike poruci servisa Yammer](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),  
+Datoteke se mogu priložiti porukama u servisu Yammer ili izravno prenijeti na grupe. Korisničko se iskustvo neznatno razlikuje između klasičnih i novih servisa Yammer, no datoteke se prenose na ista mjesta. Dodatne informacije potražite u članku [prilaganje datoteke ili slike poruci servisa Yammer](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf)  
 
-Kada korisnici naiđe na probleme, pokušajte prenijeti prijenos iz drugog preglednika ili uređaja. Koristite najbržu mrežnu vezu i najnoviji dostupni preglednik. Pomoću novog prozora preglednika za ponovno potpisivanje možete osigurati da su dostupni ispravni Azure AD tokeni.
+Kada korisnici osjete probleme, isprobajte prijenos iz drugog preglednika ili uređaja. Koristite najbržu mrežnu vezu i najnoviji dostupni preglednik. Da biste se ponovno prijavili pomoću svježeg prozora preglednika, možete provjeriti jesu li dostupni ispravni tokeni Azure za oglase.
 
-Prijenos videozapisa na Yammer zahtijeva prijenos i kodiranje. Dodatne informacije [potražite u odjeljku Videoteka u sustavu Yammer za prijenos i kodiranje zasebno](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25). Ovisno o veličini videozapisa, kodiranje može potrajati. Razmislite o prijenosu videozapisa koje dijelite na servisu Microsoft 365 pomoću [programa Microsoft Stream.](https://docs.microsoft.com/stream/overview)
+Prijenosi videozapisa na Yammer zahtijevaju prijenos i kodiranje. Dodatne informacije potražite [u člancima videopostove u prijenosu servisa Yammer i Šifriraj odvojeno](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25). Ovisno o veličini videozapisa, kodiranje može potrajati. Razmislite o korištenju [programa Microsoft Stream](https://docs.microsoft.com/stream/overview) za prijenos videozapisa koje zajednički koristite u sustavu Microsoft 365.
 
-**Ograničavanje prijenosa datoteka i slika**
+**Ograničavanje učitavanja datoteka i slika**
 
-Yammer omogućuje prijenos svih vrsta datoteka prema zadanim postavkama. Administratori mogu promijeniti postavke da bi blokirali prijenos datoteka na Yammer. Dodatne informacije potražite u [odjeljku Ograničavanje prijenosa datoteka i ograničavanja formata datoteka](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats). Povezana postavka dostupna je za ograničavanje GIF-ova na yammeru. Dodatne informacije [potražite u odjeljku Dopuštanje Tenor GIF-ova u porukama](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).
+Yammer omogućuje učitavanje svih vrsta datoteka po zadanom. Administratori mogu promijeniti postavke da bi blokirali prijenos datoteka na Yammer. Dodatne informacije potražite u članku [ograničavanje osoba koje mogu prenositi datoteke i ograničiti formate datoteka](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats). Vezana je postavka dostupna za ograničavanje GIF-ova u servisu Yammer. Dodatne informacije potražite u članku [Omogućivanje servisa tenor GIF-ovi u porukama](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).
 
-**Pohrana datoteka servisa Yammer**
+**Pohrana datoteka u servisu Yammer**
 
-Yammer je integriran sa sustavom Microsoft 365 i koristi SharePoint Online za prijenos datoteka. Dodatne informacije potražite u [odjeljku Pregled pohrane datoteka servisa Yammer](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage). 
+Yammer je integriran s Microsoftovim 365 i koristi SharePoint Online za prijenos datoteka. Dodatne informacije potražite u članku [Pregled pohrane datoteka u servisu Yammer](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage). 
 
-Za najbolji doživljaj migracije datoteka u SharePoint Online savjetujemo konfiguriranje mreže servisa Yammer za izvorni način rada. Dodatne informacije potražite u [odjeljku Pregled načina rada nativnom načinu rada](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode). 
+Da biste najbolje doživjeli Migriranje datoteka u SharePoint Online, savjetujemo vam da konfigurirate mrežu servisa Yammer za izvorni način rada. Dodatne informacije potražite u članku [Pregled izvornog načina rada](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode). 

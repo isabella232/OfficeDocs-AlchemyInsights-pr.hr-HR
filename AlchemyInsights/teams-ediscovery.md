@@ -1,23 +1,24 @@
 ---
-title: Predočavanje elektroničkih dokumenata timova
+title: Istraživanje timova
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002981"
 - "5702"
-ms.openlocfilehash: 1648a9287a8ce5464ea8396f2499592bf10d9089
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 699fe660bb1d103b3ae5181ddb2265991c1a691c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357459"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736747"
 ---
-# <a name="teams-ediscovery"></a>Predočavanje elektroničkih dokumenata timova
+# <a name="teams-ediscovery"></a>Istraživanje timova
 
-Više o predočavanje e- ova za Teams možete saznati [ovdje](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).
+[Ovdje](https://docs.microsoft.com/microsoftteams/ediscovery-investigation)možete pronaći dodatne informacije o timovima.
