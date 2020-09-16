@@ -1,35 +1,36 @@
 ---
-title: Više aktivnih sesija u isti poštanski sandučić
+title: Više aktivnih sesija s istim poštanskim sandučićem
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1836"
 - "9000248"
-ms.openlocfilehash: d2fd3f20346012baed21efd4900ca4cf73391d91
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: f4ae5c5afef9972ad4ffe74144d702ed58b2f437
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45438802"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769715"
 ---
-# <a name="multiple-active-sessions-to-the-same-mailbox"></a>Više aktivnih sesija u isti poštanski sandučić
+# <a name="multiple-active-sessions-to-the-same-mailbox"></a>Više aktivnih sesija s istim poštanskim sandučićem
 
-Da biste upravljali korištenjem resursa sustava Exchange, poštanski sandučić ima "proračun".
+Da biste kontrolirali korištenje resursa sustava Exchange, poštanski sandučić sadrži "proračun".
 
-Iznimku iznad proračuna mogu pokrenuti, ali nije ograničena na sljedeće okolnosti:
+Iznimku nad budžetom može pokrenuti, ali nije ograničen na sljedeće okolnosti:
 
-- Nekoliko kartica preglednika otvara se unutar iste sesije web-aplikacije Outlook Web App.
+- U istoj sesiji programa Outlook Web App otvaraju se nekoliko kartica preglednika.
 
-- Nekoliko aktivnih sesija web-aplikacije Outlook Web App u isti poštanski sandučić.
+- Malo aktivnih sesija web-aplikacije Outlook na istom poštanskom sandučiću.
 
-- Nekoliko drugih klijentskih aplikacija (Outlook, Outlook Mobile, klijentska aplikacija treće strane) istovremeno pristupa poštanskom sandučiću.
+- Neke druge klijentske aplikacije (Outlook, Outlook Mobile, klijentska aplikacija trećih strana) istodobno pristupaju poštanskom sandučiću.
 
-- Dugotrajne operacije, kao što je izvršavanje zahtjeva za pretraživanje, izvode se iz druge aktivne sesije poštanskog sandučića.
+- Dugoročne operacije, kao što je izvršavanje zahtjeva za pretraživanje, izvode se iz drugog aktivnog sastanka poštanskog sandučića.
 

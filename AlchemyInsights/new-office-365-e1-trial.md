@@ -5,31 +5,32 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: ad4af2c0cb1a4e2186df89bcfc35d0ea0de3bbb3
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 76c7c64bce8149a4a4a981ec97776b897e51b862
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558888"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769499"
 ---
 # <a name="new-office-365-e1-trial"></a>Nova probna verzija sustava Office 365 E1
 
-Nov in Ožujak 2020, slobodan 6- mjesec [Usluga 365 E1 Sudska istraga,](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license)uključujući Microsoft Stine, je zatim raspoloživ. Da biste saznali što je dostupno uz licencu E1, pročitajte [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software).
+Novo u ožujku 2020, besplatna 6-mjesečna [probna verzija sustava Office 365 E1](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license), uključujući Microsoftove timove, sada je dostupna. Da biste saznali što je dostupno pomoću licence E1, pročitajte [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software).
 
-**Tko ispunjava uvjete?**
+**Tko je podoban?**
 
-Ova ponuda namijenjena je korisnicima kojima upravlja predstavnik Microsoftova računa. To je za tvrtke ili ustanove koje u prošlosti nisu aktivirale druge probne verzije sustava Office 365 E1. Nakon što upotrijebite promotivni kod e1 probnog razdoblja, ne možete ga ponovno koristiti niti možete aktivirati drugi kod e1 probnog razdoblja. U tim slučajevima zaposlenici mogu aktivirati [licencu za istraživanje timova](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
+Ova ponuda namijenjena je korisnicima kojima upravlja predstavnik Microsoftova računa. To je za tvrtke ili ustanove koje nisu aktivirali nijedna druga suđenja za Office 365 E1 u prošlosti. Kada koristite broj probnog promo-a za E1, ne možete ga ponovno koristiti, niti možete aktivirati još jedan probni kod za E1. U tim slučajevima zaposlenici mogu aktivirati [Eksploracijsku licencu za timove](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
 
 **Tko nije podoban?**
 
-- Ova ponuda nije dostupna za korisnike GCC-a, GCC-a, Visoke, DoD-a ili EDU-a. Radimo na GCC verziji E1 Trial - to će biti dostupan uskoro.
+- Ova ponuda nije dostupna za GCC, GCC High, DoD ili EDU kupce. Radimo na verziji servisa GCC na ispitivanju E1 – uskoro će biti dostupna.
 
- - KORISNICI EDU-a trebali bi koristiti besplatnu licencu za Office 365 A1.
+ - Klijenti za EDU trebali bi koristiti besplatnu licencu za Office 365 a1.
 
-Ne propustite sve naše smjernice za [podršku udaljenim radnicima u aplikaciji Teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+Ne propustite sve naše smjernice za [podršku udaljenim radnicima s timovima](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
