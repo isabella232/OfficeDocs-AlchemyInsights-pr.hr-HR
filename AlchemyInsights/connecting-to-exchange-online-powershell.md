@@ -1,11 +1,12 @@
 ---
-title: 760 Povezivanje sa sustavom Exchange Online PowerShell
+title: 760 spajanje na PowerShell sustava Exchange Online
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "760"
 - "3500011"
 ms.assetid: 0f9e4dc5-1e06-4941-860b-4474a6f63247
-ms.openlocfilehash: 8fd927e33544ddae4283af00c7e09738d4bab778
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: b6990956eae6d83d6b6e0cef964b9d77330ca87b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205223"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748020"
 ---
-# <a name="connect-to-exchange-online-powershell"></a>Povezivanje sa sustavom Exchange Online PowerShell
+# <a name="connect-to-exchange-online-powershell"></a>Spojite se na PowerShell sustava Exchange Online
 
-Da biste koristili PowerShell u sustavu Exchange Online, [pročitajte uvjete za korištenje komponente Exchange Online PowerShell s modernom provjerom autentičnosti pomoću modula V2](https://aka.ms/exops-docs).
+Da biste u sustavu Exchange Online koristili PowerShell, pročitajte članak [Korištenje komponente Exchange Online PowerShell uz modernu provjeru autentičnosti pomoću v2 modula](https://aka.ms/exops-docs).

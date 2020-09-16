@@ -5,30 +5,31 @@ author: msdmaguire
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7c6cd03163dba1b0b64e2f6dbe3abac747065645
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715352"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746679"
 ---
 # <a name="creating-public-folders"></a>Stvaranje javnih mapa
 
-Da bi korisnici mogli koristiti javne mape, morat ćete stvoriti barem jedan poštanski sandučić javne mape. Da biste stvorili:
+Da bi korisnici mogli koristiti javne mape, morat ćete stvoriti najmanje jedan poštanski sandučić javne mape. Stvaranje:
   
-1. U centru za administratore sustava Microsoft 365 idite na **Administratorski** \> centri **Exchange**.
+1. U centru za administratore sustava Microsoft 365 otvorite odjeljak **administrator centara za administratore** \> **Exchange**.
 
-2. Idite do **poštanskih sandučića** \> **javnih mapa javnih mapa**, a zatim kliknite **Dodaj**.
+2. Idite na **Public folders** \> **poštanske sandučiće javnih**mapa, a zatim kliknite **Dodaj**.
 
-3. U **poštanskom sandučiću javne mape**navedite naziv poštanskog sandučića javne mape.
+3. U **poštanskom sandučiću javne mape**Navedite naziv poštanskog sandučića javne mape.
 
 4. Kliknite **Spremi**.
 
-Nakon stvaranja poštanskog sandučića možete početi stvarati pojedinačne mape ili korisnicima reći da [počnu stvarati i koristiti javne mape u programu Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Kada stvorite poštanski sandučić, možete početi stvarati pojedinačne mape ili korisnicima reći da [počnu stvarati i koristiti javne mape u programu Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   
