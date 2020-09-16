@@ -1,25 +1,26 @@
 ---
-title: Onemogućivanje pristupa servisa Yammer
+title: Onemogućivanje pristupa servisu Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 297b4665fcce0821dd2dea7f4412724943ca6862
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 088b3abf4b46b4a3f0424bae1d5549c6ab50963b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715224"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730547"
 ---
-# <a name="disable-access-to-yammer"></a>Onemogućivanje pristupa usluzi Yammer
+# <a name="disable-access-to-yammer"></a>Onemogućivanje pristupa servisu Yammer
 
-Rješenje za onemogućivanje pristupa servisa Yammer jest blokiranje i poništavanje dodjele licenci za Yammer za korisnike u tvrtki ili ustanovi. Dodatne informacije potražite u sljedećem članku.
+Rješenje za onemogućivanje pristupa servisom Yammer jest blokiranje i poništavanje dodjele licenci za Yammer za korisnike u tvrtki ili ustanovi. Dodatne informacije potražite u sljedećem članku.
   
 - [Isključivanje pristupa servisa Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)
