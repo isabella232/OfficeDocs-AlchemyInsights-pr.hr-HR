@@ -1,11 +1,12 @@
 ---
-title: Previše dozvola?
+title: Previše licenci?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,23 +14,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: da82082b92d23ef12de0318372ed9e873ec63ad1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510456"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736019"
 ---
-# <a name="too-many-licenses"></a>Previše dozvola?
+# <a name="too-many-licenses"></a>Previše licenci?
 
-Ako mislite da ste se naplaćuje za previše licenci, to je obično zbog kupnje više licenci onda vam je potrebno.
+Ako mislite da vam se naplaćuje previše licenci, to je obično zbog kupnje dodatnih licenci, a onda vam je potrebna.
   
-**Smanjite broj kupljenih licenci**
+**Smanjivanje broja kupljenih licenci**
   
-1. U centru za administratore **Billing** otvorite \> stranicu **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. U centru za administratore otvorite stranicu **naplata** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Pronađite pretplatu s koje želite ukloniti licence, a zatim odaberite **Dodaj/ukloni licence**.
+2. Pronađite pretplatu iz koje želite ukloniti licence, a zatim odaberite **Dodaj/Ukloni licence**.
 
-3. U okvir **Ukupne licence** unesite ukupan broj licenci koje su vam potrebne za ovu pretplatu, a zatim odaberite **Pošalji promjenu**. Na primjer, ako imate 110 licenci i želite ukloniti 5, unesite 105.
+3. U okvir **Ukupno licenci** unesite ukupan broj licenci koje su vam potrebne za ovu pretplatu, a zatim odaberite **Pošalji promjenu**. Ako, primjerice, imate 110 licenci i želite ih ukloniti 5, unesite 105.
 
-Dodatne informacije [potražite u odjeljku Uklanjanje licenci iz pretplate na Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Dodatne informacije potražite u članku [Uklanjanje licenci iz pretplate na microsoftovu 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

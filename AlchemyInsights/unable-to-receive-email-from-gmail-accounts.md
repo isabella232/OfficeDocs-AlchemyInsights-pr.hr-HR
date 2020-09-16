@@ -1,33 +1,34 @@
 ---
-title: Nije moguće primati e-poštu s Gmail računa
+title: Nije moguće primati e-poštu s računa za Gmail
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: dd3ebda3f835edd9f15fee096476273ad4249baf
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558929"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735443"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Nije moguće primati e-poštu s Gmail računa
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Nije moguće primati e-poštu s računa za Gmail
 
-**Pitanje**
+**PROBLEM**
 
-Svjesni smo da neki korisnici možda neće moći primati e-poštu s Gmail računa. Istražujemo mogući problem.
+Svjesni smo da neki korisnici možda neće moći primati e-poštu s računa za Gmail. Istražujemo mogući problem.
 
-**Workaround**
+**WORKAROUND**
 
-Provjerite jeste li slučajno blokirali domenu Gmaila prilikom blokiranja jednog korisnika Gmaila.
+Provjerite niste li slučajno blokirali domenu servisa Gmail prilikom blokiranja jednog korisnika servisa Gmail.
 
 1. Otvorite [popis blokiranih pošiljatelja](https://go.microsoft.com/fwlink/?linkid=2121010).
 
-2. Ako Gmail.com nalazi na popisu, kliknite ikonu smeća pokraj unosa i pritisnite **Spremi**.
+2. Ako je Gmail.com na popisu, kliknite ikonu za smeće pokraj stavke unos pa pritisnite **Spremi**.
