@@ -5,43 +5,44 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1f325eb7afb1e88457296e8187f8ba6dff2ebfe0
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588273"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719945"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>Prijava u Windows 10 bez korištenja lozinke
 
-Da biste izbjegli unos lozinke pri pokretanju sustava Windows, preporučujemo da koristite jednu od mogućnosti sigurne prijave u sustav Windows Hello, kao što su PIN, prepoznavanje lica ili otisak prsta, ako su dostupne. Ako zaista želite onemogućiti sigurnu prijavu, pogledajte upute "Automatska prijava u Windows 10" u nastavku.
+Da biste izbjegli unos lozinke pri pokretanju sustava Windows, preporučujemo vam da koristite neku od mogućnosti za prijavu u Windows Hello, kao što su PIN, prepoznavanje lica ili otisak prsta, ako je dostupan. Ako zaista želite onemogućiti sigurnu prijavu, pročitajte upute u nastavku: "automatsko prijavljivanje u Windows 10".
 
-**Sigurne mogućnosti značajke Windows Hello za lozinku računa**
+**Sigurni Windows Hello alternative za lozinku računa**
 
-Idite na **Postavke > Računi > Mogućnosti prijave** (ili kliknite [ovdje](ms-settings:signinoptions?activationSource=GetHelp)). Bit će navedene dostupne mogućnosti prijave. Na primjer:
+Idite na **postavke > računi > mogućnosti prijave** (ili kliknite [ovdje](ms-settings:signinoptions?activationSource=GetHelp)). Dostupne mogućnosti prijave prikazat će se na popisu. Na primjer:
 
-![Opcije prijave.](media/sign-in-options.png)
+![Mogućnosti prijave](media/sign-in-options.png)
 
-Kliknite ili dodirnite jednu od mogućnosti da biste je konfigurirali. Sljedeći put kada pokrenete ili otključate sustav Windows moći ćete koristiti novu mogućnost umjesto lozinke. 
+Kliknite ili dodirnite neku od mogućnosti da biste je konfigurirali. Kada sljedeći put pokrenete ili otključate Windows, moći ćete koristiti novu mogućnost umjesto lozinke. 
 
-**Automatska prijava u Windows 10**
+**Automatsko prijavljivanje u Windows 10**
 
-**Napomena:** Automatska prijava prikladna je, ali predstavlja sigurnosni rizik, osobito ako je vašem PC-ju dostupno više osoba. 
+**Pažnja**: automatsko prijavljivanje povoljno je, ali predstavlja sigurnosni rizik, osobito ako je na PC-ju dostupan više osoba. 
 
 1. Kliknite ili dodirnite gumb **Start** na programskoj traci.
 
-2. Tip **netplwiz** i pogodak Ulaziti ključ to OpenBSD Korisnik Računi Windows.
+2. Upišite **netplwiz** i pritisnite tipku ENTER da biste otvorili prozor korisnički računi.
 
-3. U **odjeljku Korisnički računi**kliknite račun na koji se želite automatski prijaviti prilikom pokretanja sustava Windows.
+3. Na **korisničkim računima**kliknite račun na koji se želite automatski prijaviti prilikom pokretanja sustava Windows.
 
-4. Koji se ne da nadzirati " korisnik morati ulaziti korisničko ime i lozinka korištenje ovaj računalo" ček.
+4. Poništite potvrdni okvir "korisnici moraju unositi korisničko ime i lozinku da bi koristili ovo računalo".
 
-    ![Korisnici moraju unijeti opciju korisničkog imena i lozinke.](media/users-must-enter-username.png)
+    ![Korisnici moraju unijeti mogućnost korisničko ime i lozinku.](media/users-must-enter-username.png)
 
-5. Kliknite **U redu**. Od vas će se tražiti da unesete i potvrdite lozinku za odabrani račun. Kliknite **U redu** da biste završili. Sljedeći put kada se Sustav Windows 10 pokrene, automatski će se prijaviti na odabrani račun.
+5. Kliknite **U redu**. Od vas će se zatražiti da unesete i potvrdite lozinku za odabrani račun. Kliknite **u redu** da biste završili. Kada se sljedeći put pokrene Windows 10, on će se automatski prijaviti na odabrani račun.
