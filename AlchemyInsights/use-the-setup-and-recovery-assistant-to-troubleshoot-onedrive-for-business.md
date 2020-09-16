@@ -6,24 +6,25 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 84711d6ae14e7ff845a50143a4378ef65d9587ca
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c687718de8ca78e1e1b896adc08368248fe4e0df
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710615"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749326"
 ---
-# <a name="fix-onedrive-sync-problems"></a>Rješavanje problema sa sinkronizacijom sa servisom OneDrive
+# <a name="fix-onedrive-sync-problems"></a>Rješavanje problema sa sinkronizacijom servisa OneDrive
 
-Aplikacija Pomoćnik za podršku i oporavak može vam pomoći u prepoznavanju i rješavanju uobičajenih problema sa sinkroniziranjem datoteka na servisu OneDrive. 
+Aplikacija pomoćnik za podršku i oporavak može vam pomoći u otkrivanju i rješavanju običnih problema prilikom sinkronizacije datoteka sa servisa OneDrive. 
   
-[Preuzmite pomoćnik za podršku i oporavak](https://aka.ms/sara), prijavite se pomoću računa tvrtke ili obrazovne ustanove i slijedite upute u aplikaciji da biste otklonili poteškoće sa servisom OneDrive za tvrtke. 
+[Preuzmite pomoćnik za podršku i oporavak](https://aka.ms/sara), prijavite se pomoću računa tvrtke ili obrazovne ustanove, a zatim slijedite upute u aplikaciji da biste otklonili poteškoće sa servisom OneDrive za tvrtke. 
   
-[Dodatne korake za otklanjanje poteškoća](https://go.microsoft.com/fwlink/?linkid=872097)
+[Dodatni koraci za otklanjanje poteškoća](https://go.microsoft.com/fwlink/?linkid=872097)
   
 

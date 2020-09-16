@@ -1,23 +1,24 @@
 ---
-title: Nije moguće dodati privitak obrascu koji se okrenut prema izvanu
+title: Nije moguće dodati privitak u obrazac okrenut izvana
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 80736dc1e6ee5e18dbec0ddb816fbf0e5f34c588
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44846864"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749398"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Nije moguće dodati privitak obrascu koji se okrenut prema izvanu
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Nije moguće dodati privitak u obrazac okrenut izvana
 
-Ako pokušavate dodati privitak vanjskom upitniku Microsoft Forms, ta značajka još nije dostupna. Da biste pratili status tog zahtjeva za značajkom, idite na [ovaj unos Značajke UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)i dodajte svoj glas.
+Ako pokušavate dodati privitak u vanjsko istraživanje programa Microsoft Forms, ta značajka još nije dostupna. Da biste pratili status tog zahtjeva za značajku, prijeđite na [ovaj korisnički Voice unos](https://go.microsoft.com/fwlink/?linkid=2133069)i dodajte glasovanje.
