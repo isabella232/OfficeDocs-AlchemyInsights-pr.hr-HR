@@ -4,31 +4,32 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 85f29fabe3189fe248696155208b56d4901ab6de
-ms.sourcegitcommit: b5370f0fc8da1e7e5ac960cb622a21612a9c86be
+ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/29/2020
-ms.locfileid: "42341125"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770759"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Pretraživanje radi indeksiranja sadržaja i indeksiranje sadržaja u sustavu SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Pretraživanje sadržaja i indeksiranje u sustavu SharePoint Online
 
-Sadržaj se mora pretražiti radi indeksiranja i dodati u indeks pretraživanja da bi korisnici pronašli ono što traže u sustavu SharePoint Online.
+Sadržaj mora biti pretražen radi indeksiranja i dodan u indeks pretraživanja da bi korisnici pronašli ono što pretražuju u sustavu SharePoint online.
 
-- Provjerite može li se sadržaj pronaći [tako da sadržaj web-mjesta bude čitljiv.](https://docs.microsoft.com/sharepoint/make-site-content-searchable)
+- Provjerite može li se sadržaj pronaći tako da [sadržaj web-mjesta bude pretraživan](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Kada ste promijenili upravljano svojstvo ili kada ste promijenili mapiranje svojstava pretraženih radi indeksiranja i upravljanih svojstava, web-mjesto se mora ponovno pretražiti radi indeksiranja prije nego što se promjene odraze u indeksu pretraživanja.
+- Kada promijenite upravljano svojstvo ili kada promijenite mapiranje pretraživanja i upravljanih svojstava, web-mjesto mora biti ponovno pretraženo radi indeksiranja prije nego što se promjene odražavaju u indeksu pretraživanja.
 
-- Dodatne informacije potražite [u odjeljku Ručno traženje pretraživanja radi indeksiranja i ponovno indeksiranje web-mjesta, biblioteke ili popisa](https://docs.microsoft.com/sharepoint/crawl-site-content).
+- Dodatne informacije potražite u članku [Ručna pretraživanje radi indeksiranja i ponovno indeksiranje web-mjesta, biblioteke ili popisa](https://docs.microsoft.com/sharepoint/crawl-site-content).
 
-- Pričekajte najmanje 24 sata nakon ručnog traženja pretraživanja radi indeksiranja i potpunog ponovnog indeksa da biste vidjeli imate li još uvijek problem.
+- Pričekajte najmanje 24 sata nakon ručnog traženja pretraživanja radi indeksiranja i potpunog ponovnog indeksa da biste vidjeli ako i dalje nailazite na problem.
 
-- Ako je prošlo više od 24 sata od kada ste pokrenuli pretraživanje radi indeksiranja i potpuni ponovni indeks, prijavite slučaj podrške. U mnogim slučajevima, već radimo na rješenju. Molimo Vas da nam najmanje 24 sata za dovršetak rješenja.
+- Ako je prošlo više od 24 sata otkad ste inicirali pretraživanje radi indeksiranja i puna ponovnog indeksa, prijavite slučaj podrške. U mnogim slučajevima već radimo na rješenju. Dodajte nam najmanje 24 sata da biste dovršili rješenje.
 
-**Važno**: Ako je web-mjesto, dokument (biblioteka) ili popis izbrisan i još uvijek se prikazuje u rezultatima pretraživanja, korisnici bi trebali primiti **datoteku error 404 nije pronađena** kada mu pokušavaju pristupiti. To pitanje trebalo bi zabilježiti kao slučaj potpore za daljnju istragu.
+**Važno**: ako je web-mjesto, dokument (biblioteka) ili popis izbrisan pa se i dalje prikazuje u rezultatima pretraživanja, korisnici bi trebali primiti poruku **o pogrešci 404 koja nije pronađena** prilikom pokušaja pristupa. Taj se problem mora prijaviti kao slučaj podrške za daljnju istragu.
 
 
 
