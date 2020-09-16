@@ -1,37 +1,38 @@
 ---
-title: Brisanje privatnog kanala za timove
+title: Brisanje privatnog kanala timova
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3781"
 - "9001223"
-ms.openlocfilehash: 2ee998f0c70973645c273a2a6609af2420a4f74b
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 56021a335c64810700913cf08519b95f24a7a17d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45438837"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730907"
 ---
-# <a name="delete-a-teams-private-channel"></a>Brisanje privatnog kanala za timove
+# <a name="delete-a-teams-private-channel"></a>Brisanje privatnog kanala timova
 
-Microsoft je svjestan problema prilikom brisanja privatnog kanala teams ako su za temeljno web-mjesto sustava SharePoint omogućena pravila zadržavanja sustava SharePoint sustava SharePoint. Microsoft radi na popravku. U međuvremenu, možete koristiti sljedeća zaobilazna rješenja za brisanje privatnog kanala.
+Microsoft je svjestan problema s brisanjem privatnog kanala timova ako su pravila zadržavanja sustava SharePoint omogućena za web-mjesto sustava SharePoint u podlozi. Microsoft radi na ispravcima. U međuvremenu možete izbrisati privatni kanal pomoću sljedećih zaobilaznih rješenja.
 
-**Izuzmite zbirku tima/web-mjesta iz pravila zadržavanja sustava Sharepoint.**
+**Izuzimanje tima/zbirke web-mjesta iz pravilnika o zadržavanju sustava SharePoint.**
 
-1. Idite na portal za administratore sustava Office 365 i odaberite **Prikaži sve** u lijevom navigacijskom oknu.
-2. U **odjeljku Centri za administratore**idite na Pravila o **Security & Compliance**  >  **sprječavanju gubitka podataka o**sigurnosti &  >  **Policy**usklađenosti .
-3. Prepoznajte sva pravila koja se primjenjuju na web-mjesta sustava SharePoint i izmijenite pravila tako da Sharepoint web-mjesto tima koji sadrži privatni kanal nije uključeno u pravila zadržavanja.
-4. Spremite pravila.
-    Postavke pravila mogu potrajati do 24 sata.
-    Nakon isključivanja web-mjesta možete izbrisati privatni kanal.  
+1. Idite na portal za administratore sustava Office 365, a zatim odaberite **Prikaz svih** u lijevoj navigacijskom oknu.
+2. U odjeljku **centri za administratore**idite na **Sigurnosno &**  >  pravilnik o**sprječavanju gubitka podataka**  >  **Policy**.
+3. Odredite pravila koja se odnose na web-mjesta sustava SharePoint i izmijenite pravilo tako da web-mjesto sustava SharePoint za tim koji sadrži privatni kanal nije obuhvaćeno Pravilnikom o zadržavanju.
+4. Spremanje pravilnika.
+    Postavke pravilnika mogu potrajati i do 24 sata.
+    Kada je web-mjesto isključeno, možete izbrisati privatni kanal.  
     
-***Možda ćete*** moći izbrisati privatni kanal pomoću servisa Microsoft Teams na Android uređaju. 
+***Možda*** ćete moći izbrisati privatni kanal pomoću Microsoftovih timova na uređaju sa sustavom Android. 
 
-Povezane informacije sustava SharePoint [potražite u odjeljku Brisanje stavki u sustavima SharePoint Online ili OneDrive za tvrtke](https://docs.microsoft.com/alchemyinsights/retention-policy-ediscovery-hold).
+Za srodne informacije sustava SharePoint pročitajte članak [nije moguće izbrisati stavke u sustavu SharePoint Online ni na servisu OneDrive za tvrtke](https://docs.microsoft.com/alchemyinsights/retention-policy-ediscovery-hold).

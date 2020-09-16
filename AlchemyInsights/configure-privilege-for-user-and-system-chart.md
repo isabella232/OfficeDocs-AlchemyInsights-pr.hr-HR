@@ -1,36 +1,37 @@
 ---
-title: Konfiguriranje ovlasti za korisnički i sistemski grafikon
+title: Konfiguracija privilegija za korisnički i sistemski grafikon
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002928"
 - "5607"
-ms.openlocfilehash: 447051b0e48d000e54ea2e9956571d999e4d7798
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: 4d8518242b98d580c2a88d6dc3c00e5a1096e2a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44203808"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713482"
 ---
-# <a name="configure-privilege-for-user-and-system-chart"></a>Konfiguriranje ovlasti za korisnički i sistemski grafikon
+# <a name="configure-privilege-for-user-and-system-chart"></a>Konfiguracija privilegija za korisnički i sistemski grafikon
 
-**Simptom**: Nema privilegije čitanja za grafikon.
+**Simptom**: nema privilegija za čitanje za grafikon.
 
-**Uzrok**: Nema dovoljno privilegija ili ne sadrži potrebne pogreške privilegija.
+**Uzrok**: nedovoljno privilegija ili ne sadrži potrebne privilegije pogreške.
 
-**Rješenje**: Konfiguriranje ovlasti za grafikon
+**Rješenje**: Konfiguriranje privilegija za grafikon
 
 **Koraci**:
 
-1. Idite na **Postavke -> Prilagodba -> Prilagodite sigurnosne uloge sustava i >**.
+1. Idite na **Postavke-> customization-> prilagodite sigurnosne uloge sustava >**.
 
 2. Dvokliknite ulogu.
 
-    - Konfiguracija ovlasti korisničkog grafikona nalazi se na **kartici Jezgreni zapisi.**
-    - Konfiguracija ovlasti sistemskog grafikona nalazi se na kartici **Prilagodba.**
+    - Konfiguracija privilegija korisničkog grafikona nalazi se na kartici **temeljni zapisi** .
+    - Konfiguracija privilegija sistemskih grafikona nalazi se na kartici **Prilagodba** .

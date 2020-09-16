@@ -1,24 +1,25 @@
 ---
-title: Obavijest o isteniši pretplati u aplikacijama microsoft 365
+title: Obavijest o isteku pretplate u aplikacijama Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: be5fece97854e4967133f74cfb51728dab853b5f
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: b13d5befc85295f625d1af0680407af885b28039
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576696"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719405"
 ---
-# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Obavijest "Pretplata je istekla" u aplikacijama microsoft 365
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Obavijest "pretplata je istekla" u aplikacijama Microsoft 365
 
 - Da biste saznali postoje li poznati problemi sa servisom, pogledajte članak [Stranica o stanju servisa](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

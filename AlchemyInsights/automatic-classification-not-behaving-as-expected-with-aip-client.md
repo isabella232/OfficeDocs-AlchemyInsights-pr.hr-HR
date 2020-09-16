@@ -1,45 +1,46 @@
 ---
-title: Automatsko razvrstavanje ne ponaša prema očekivanjima s AIP klijentom
+title: Automatska klasifikacija ne ponaša se kao što je očekivano s klijentom za AIP
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 8c79ab50e7ddbda0cf61eb9a95279f6c42cc515c
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: d7a2246d78cbd6c4ab40c2a4e5a21807933b619a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581187"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715193"
 ---
-# <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Automatsko razvrstavanje ne ponaša prema očekivanjima s AIP klijentom
+# <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Automatska klasifikacija ne ponaša se kao što je očekivano s klijentom za AIP
 
-Automatsko razvrstavanje koje se ne ponaša prema očekivanjima, koristite sljedeće preporučene smjernice:
+Automatska klasifikacija ne ponaša se kao što je očekivano, upotrijebite sljedeće preporučene smjernice:
 
-1. Ako imate problema s automatskim označavanjem, [pročitajte članak Konfiguriranje uvjeta za automatsku i preporučenu klasifikaciju za zaštitu informacija za Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) i [Što traže vrste osjetljivih informacija](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
-2. Provjerite koristite li pravila s opsegom koja nisu ispravno konfigurirana: [Konfiguriranje pravila zaštite podataka za Azure za određene korisnike pomoću pravila s opsegom](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
-3. Ako automatsko označavanje ne funkcionira za Outlook prilikom prilaganja označenog dokumenta, provjerite nije li `DRMEncryptProperty` definirano kao što je ovdje opisano: [Postavke registra IRM-a za sigurnost](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
-4. Ako ste [koristili ugrađene vrste informacija](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) za pravila zaštite podataka za Azure, provjerite odgovara li sadržaj očekivanom obliku.
-5. Provjerite je li oznaka prikladno konfigurirana za **automatsko** ili **preporučeno**. **(Automatsko** označavanje dostupno je za sve aplikacije sustava Microsoft 365, dok je **preporučeno** dostupno za sve aplikacije sustava Microsoft 365 osim za Outlook.)
-6. Ne možete koristiti automatsku klasifikaciju za dokumente i poruke e-pošte koje su prethodno ručno označene ili prethodno automatski označene višom klasifikacijom.  Dodatne informacije [potražite u odjeljku Kako se primjenjuju automatske ili preporučene oznake](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
-7. Ako i dalje imate problema, prikupite zapisnike klijenata za zaštitu podataka usluge Azure i priložite izvezene zapisnike na kartu za podršku. Da biste izvezli zapisnike zaštite podataka usluge Azure:
-    - Otvorite dokument sustava Office ili stvorite novu e-poštu u programu Outlook.
-    - Kliknite **Zaštiti/osjetljivost**  >  **Pomoć i povratne informacije**.
-    - Kliknite **Izvoz zapisnika**.
-    - Spremite zapisnike na svoj izbor lokacije i priložite ih zahtjevu za uslugom.
+1. Ako imate problema s automatskim označavanju, pročitajte članak [kako konfigurirati uvjete za automatsku i preporučenu klasifikaciju za zaštitu informacija za Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) i [koje vrste osjetljivih podataka traže](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+2. Provjerite koristite li pravila koja nisu ispravno konfigurirana: [kako konfigurirati pravilnik o zaštiti podataka za Azure za određene korisnike pomoću pravilnika u opsegu](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+3. Ako automatsko označavanje ne funkcionira u programu Outlook prilikom prilaganja označenom dokumentu, provjerite `DRMEncryptProperty` nije li navedeno ovdje: [postavke registra IRM-a za sigurnost](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
+4. Ako ste koristili [ugrađene vrste podataka](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) za pravilnik o zaštiti informacija za Azure, provjerite odgovara li vaš sadržaj očekivanom obliku.
+5. Provjerite je li naljepnica na odgovarajući način konfigurirana za **Automatsko** ili **preporučeno**. (**Automatsko** označavanje dostupno je za sve aplikacije sustava Microsoft 365, a **preporučeno** je dostupno za sve aplikacije sustava Microsoft 365, osim za Outlook.)
+6. Ne možete koristiti automatsku klasifikaciju za dokumente i e-poštu koji su prethodno bili ručno označeni ili prethodno automatski označeni višim klasifikaciji.  Dodatne informacije potražite u članku: [kako se primjenjuju automatske ili preporučene naljepnice](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
+7. Ako i dalje nailazite na probleme, prikupite zapisnike o zaštiti podataka za Azure i priložite izvezene zapisnike na karticu za podršku. Da biste izvezli zapisnike o zaštiti informacija o Azuru:
+    - Otvaranje dokumenta sustava Office ili stvaranje nove poruke e-pošte u programu Outlook.
+    - Kliknite **zaštiti/osjetljivosti**  >  **pomoći i povratnih informacija**.
+    - Kliknite **Izvezi zapisnike**.
+    - Spremite zapisnike na odabir mjesta i priložite ih na zahtjev za uslugu.
 
-Dodatne informacije potražite u odjeljku:
+Dodatne informacije potražite u članku:
 
-- [Konfiguriranje uvjeta za automatsku i preporučenu klasifikaciju za zaštitu informacija azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
-- [Upute za uobičajene scenarije koji koriste Azure information protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)
-- [Pregled dokumentacije o zaštiti podataka za Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Pregled pretplata i značajki azure information protection](https://azure.microsoft.com/pricing/details/information-protection)
-- [Zahtjevi za zaštitu informacija azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Vodič za brzi početak zaštite informacija za Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Preuzimanje klijenta za zaštitu podataka za Azure](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Konfiguriranje uvjeta za automatsku i preporučenu klasifikaciju za zaštitu informacija za Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
+- [Vodiči za zajednički scenariji koji koriste zaštitu informacija za Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)
+- [Pregledajte dokumentaciju o zaštiti informacija za Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Pregled pretplate i značajki za Azure za zaštitu informacija](https://azure.microsoft.com/pricing/details/information-protection)
+- [Preduvjeti za zaštitu informacija o Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Vodič za brzi početak za zaštitu informacija za Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Preuzimanje klijenta za zaštitu informacija za Azure](https://www.microsoft.com/download/details.aspx?id=53018)

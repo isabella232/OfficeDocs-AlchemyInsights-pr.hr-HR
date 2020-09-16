@@ -1,29 +1,30 @@
 ---
-title: Edu verifikacija
+title: Provjera servisa EDU
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 1889eb9b18f312da00196d575376960bc6b028fd
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: 309575a86155d416d587ee034fb7efe2c807e3f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205259"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710331"
 ---
-# <a name="edu-verification"></a>Edu verifikacija
+# <a name="edu-verification"></a>Provjera servisa EDU
 
-U većini slučajeva zahtjevi za akademsku prihvatljivost obrađuju se u roku od 24 do 48 sati. Neki zahtjevi mogu zahtijevati temeljitiji pregled i može potrajati do 10 radnih dana za obradu. Nakon dovršetka poslat ćemo poruku e-pošte s statusom prihvatljivosti vaše škole.
+U većini slučajeva akademska podobnost zahtjeva obrađuju se u roku od 24-48 sati. Za neke će zahtjeve možda biti potrebna temeljitija pregled i može potrajati do 10 poslovnih dana. Kada završite, poslat ćemo vam poruku e-pošte s statusom prihvatljivosti vaše škole.
 
-**Važno je da se** Ako ste prije ulaska iz domene izašli iz čarobnjaka za [provjeru, možete nastaviti s čarobnjakom za akademsku provjeru](https://go.microsoft.com/fwlink/p/?linkid=2135255) u bilo kojem trenutku tijekom besplatnog probnog razdoblja.
+**Važno** Ako ste već izašli iz čarobnjaka za provjeru valjanosti prije unosa domene, možete [nastaviti s čarobnjakom za akademsku provjeru](https://go.microsoft.com/fwlink/p/?linkid=2135255) u bilo kojem trenutku tijekom besplatnog postupka.
 
-Ako želite provjeriti status domene, idite u centar za [administratore sustava Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). Na početnoj stranici pomaknite se do dna i pronađite karticu **Naplata.** Kartica **Naplata** označava status postupka potvrde (odobren, na čekanju, odbijen ili dodaj domenu).
+Ako želite provjeriti status domene, otvorite [centar za administratore sustava Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). Na početnoj stranici pomaknite se do dna i pronađite karticu za **naplatu** . Kartica za **naplatu** označava status postupka provjere valjanosti (odobreno, neodlučeno, odbijeno ili Dodavanje domene).
 
-Ako je vaš zahtjev odbijen, pogledajte [Moja škola nije prihvatljiva. Što sad da radim?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
+Ako vam se zahtjev odbije, pročitajte članak [moja škola nije prihvatljiva. Što učiniti sada?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)

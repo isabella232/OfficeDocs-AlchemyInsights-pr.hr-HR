@@ -6,30 +6,31 @@ manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: 2485374a9cd7082698245af913d0e2463b03b809
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141377"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724571"
 ---
 # <a name="microsoft-lists"></a>Microsoftovi popisi
 
-Microsoft pokreće prvu fazu Microsoftovih popisa, aplikacije Microsoft 365. Microsoft Lists središnje je mjesto za prikaz svih popisa i upravljanje njima.  
+Microsoft pokreće prvu fazu Microsoftovih popisa, aplikaciju Microsoft 365. Microsoftovi popisi središnje su mjesto za prikaz svih popisa i upravljanje njima.  
   
-**Vrijeme**  
+**Tempiranje**  
 
-- Ciljano izdanje za omogućene organizacije krajem srpnja 2020.
-- Puštanje svim organizacijama do sredine listopada 2020.
+- Odjavlja je započela za ustanove omogućene za ciljano izdanje.
+- Oslobađanje svim organizacijama do sredine listopada 2020.
 
-Svaki korisnik s licencom sustava SharePoint može pristupiti ikoni Popisi i početi koristiti Microsoftove popise. Administratori trenutno ne mogu isključiti tu značajku.
+Bilo koji korisnik s licencom sustava SharePoint može pristupiti ikonama popisa i početi koristiti Microsoftove popise. Administratori trenutno ne mogu isključiti značajku.
  
-U pokretaču aplikacija sustava Microsoft 365 odaberite ikonu Popisi. Pokrenite popis od nule ili pomoću unaprijed ugrađenih predložaka. Osim toga, možete stvoriti nove popise s postojećih popisa ili uvozom podataka programa Excel za stvaranje popisa. Prikažite omiljene i nedavne popise, uključujući popise koje posjedujete ili koje ste zajednički koristili. Možete stvoriti osobne popise i popise timova.  
+U pokretaču aplikacija Microsoft 365 odaberite ikonu popisi. Započinjati popis iz početka ili s unaprijed ugrađenim predlošcima. Osim toga, možete stvoriti nove popise s postojećih popisa ili uvozom podataka programa Excel radi stvaranja popisa. Prikaz omiljenih i nedavnih popisa, uključujući popise koje posjedujete ili koje se zajednički koriste s vama. Možete stvoriti i osobne popise i popise timova.  
 
-Dodatne informacije potražite u [odjeljku Microsoftovi popisi](https://aka.ms/microsoftlists).
+Dodatne informacije potražite u [članku Microsoftovi popisi](https://aka.ms/microsoftlists).

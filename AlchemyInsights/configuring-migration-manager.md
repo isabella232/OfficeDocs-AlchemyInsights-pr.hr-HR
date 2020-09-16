@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5670"
-ms.openlocfilehash: 1eadc595e3f2ec65f8438df04e48513fbcd1706a
-ms.sourcegitcommit: ed65b545ea3abf05fdc71a5167aaaab033063209
+ms.openlocfilehash: b1410bc3da3b1fea6f76f4063f906ca7f6329546
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44250289"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713555"
 ---
 # <a name="configuring-migration-manager"></a>Konfiguriranje upravitelja migracije
 
-Upravitelj migracija centralizira upravljanje migracijama velikih datoteka konfiguriranjem jednog ili više računala ili virtualnih računala (VMs) kao migracije "agenti". Dodatne informacije potražite u sljedećim člancima:
+Upravitelj migracije centralizira upravljanje velikim migracijama zajedničkog korištenja datoteka tako da konfigurirate jedno ili više računala ili virtualnih strojeva (VMs) kao migracije "Agents". Dodatne informacije potražite u sljedećim člancima:
 
 - [Postavite klijente upravitelja migracije](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
 

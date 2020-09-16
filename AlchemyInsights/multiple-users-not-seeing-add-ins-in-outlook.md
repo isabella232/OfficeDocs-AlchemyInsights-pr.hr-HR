@@ -6,21 +6,22 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 18d3fa535a88af18d8c4b02a5371d0a81c8d28c0
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: a0c272f40044795754ed8630e88e00ed14ea6ad7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197771"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729863"
 ---
 # <a name="multiple-users-not-seeing-add-ins-in-outlook"></a>Više korisnika koji ne vide dodatke u programu Outlook
 
-Ako testirate dodatke programa Outlook i ništa se ne prikazuje, kao prvi korak za otklanjanje poteškoća, upotrijebite cmdlet **Get-OrganizationConfig** PowerShell da biste upitali parametar _AppsForOfficeEnabled._ Ako upit vraća vrijednost **False**, postavite ovaj parametar na **True** pomoću cmdleta **Set-OrganizationConfig,** tako da se dodaci pojavljuju prema očekivanjima.
+Ako isprobate dodatke programa Outlook, a nijedna se ne prikaže, kao prvi korak otklanjanja poteškoća, pomoću cmdleta **Get-OrganizationConfig** PowerShell zatražite upit za parametar _Appsforofficeenabled_ . Ako upit vraća vrijednost **False**, postavite ovaj parametar na **True** pomoću cmdleta **set-OrganizationConfig** , pa se dodaci prikazuju kao što je očekivano.
 
-Ne preporučujemo da parametar _AppsForOfficeEnabled_ postavljen na **False**. Vrijednost **False** nadjačava sve gore navedene postavke uloge administrativne i korisničke uloge i sprječava bilo koje nove aplikacije da budu aktivirane od strane bilo kojeg korisnika u tvrtki ili ustanovi.
+Ne preporučujemo da parametar _Appsforofficeenabled_ bude postavljen na **False**. Vrijednost **lažnih** prekoračenja svih navedenih postavki administrativne i korisničke uloge i onemogućuje aktiviranje novih aplikacija od strane bilo kojeg korisnika u tvrtki ili ustanovi.
 
-Dodatne informacije [potražite u odjeljku Određivanje administratora i korisnika koji mogu instalirati dodatke za Outlook i upravljati njima](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins#user-roles).
+Dodatne informacije potražite u članku [određivanje administratora i korisnika koji mogu instalirati dodatke za Outlook i upravljati njima](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins#user-roles).

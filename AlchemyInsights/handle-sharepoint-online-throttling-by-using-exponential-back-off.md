@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: dcd169fdf9a9aef155c909af4e60752cbfebdf7a
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: c57040a7e7f3b083088ea82af261e61579b5a759
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357415"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705975"
 ---
 # <a name="handle-sharepoint-online-throttling-by-using-exponential-back-off"></a>Rukovanje ograničavanjem sustava SharePoint Online korištenjem eksponencijalnog udaljavanja 
 
-Kada se u sustavu SharePoint Online ugušite, tehnika eksponencijalnog isključivanja čeka postupno dulje vrijeme prije ponovnog pokušaja ugušenog koda.
+Kada se u sustavu SharePoint Online dobije ograničenja, eksponencijalna metoda ponovnog isključivanja očekuje postupno duži vremenski period prije nego što se ponovno pokuša vratiti kod koji je bio prigušeno.
 
 - [Rukovanje ograničavanjem sustava SharePoint Online korištenjem eksponencijalnog udaljavanja ](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)

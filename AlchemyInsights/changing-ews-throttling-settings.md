@@ -1,10 +1,11 @@
 ---
-title: Promjena postavki ograničavanja EWS-a
+title: Promjena postavki ograničenja za IWS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,13 +13,15 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 4b4be7041ce432b52c61578b3e4d7d49106763bc
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 9accb3cb9d5d6e2eeed6e76452f3f1cff4f563f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44492994"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714131"
 ---
-# <a name="changing-ews-throttling-settings"></a>Promjena postavki ograničavanja EWS-a
+# <a name="changing-ews-throttling-settings"></a>Promjena postavki ograničenja za IWS
 
-Pokrenite naš automatizirani test koji će vam omogućiti izmjenu EWS pravila ograničavanja tijekom trajanja migracije.
+Pokrenite naš automatizirani test koji će vam dopustiti promjenu pravilnika o ograničavanju EWS-a za trajanje migracije.
+
+Napominjemo da promjene pravilnika za EWS ograničavanja ne utječu na sljedeće vrste migracije (pomoću Microsoftova alata): hibridno, rezanje/organizirano (RPC/HTTP), IMAP, G suite, javna mapa ili PST uvoz servisa.
