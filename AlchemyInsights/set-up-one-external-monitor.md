@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: b9ec34f420092d5ca46137739a848cf413253a6b
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738386"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773884"
 ---
 # <a name="set-up-one-monitor"></a>Postavljanje jednog monitora
 
-**Provjera postavki projekta PC-ja**
+**Provjera postavki projekta na PC-ju**
 
-1. Otvorite postavke projekta pritiskom na sljedeće tipke u isto vrijeme: tipka Windows (gumb Start s logotipom sustava Windows) + P.
-2. Odaberite **duplikat**, **proširite**ili **drugi zaslon**, ovisno o vašim željama.
+1. Otvorite postavke projekta pritiskom na sljedeće tipke u isto vrijeme: ključ sustava Windows (gumb Start logotipa sustava Windows) + P.
+2. Odaberite **Dupliciranje**, **proširivanje**ili **samo drugi zaslon**, ovisno o vašim preferencama.
 
-**Napomena:** Ako PC ima samo jedan priključak za prikaz (kao što je HDMI ili VGA), trebat će vam priključna stanica ili USB prilagodnik za postavljanje više monitora.
+**Upozorenje:** Ako na PC-ju postoji samo jedan priključak za prikaz (primjerice HDMI ili VGA), trebat će vam stanica za spajanje ili USB prilagodnik da biste postavili više monitora.
 
-Također, ako možete postaviti jedan monitor, ali ne više, vaš PC možda nije kompatibilan s višestrukim monitorima. Dodatne informacije potražite u izvornim dokumentima PC-ja.
+Ako možete postaviti i jedan monitor, ali ne i više, PC možda nije kompatibilan s više monitora. Dodatne informacije potražite u izvornom dokumentu PC-ja.

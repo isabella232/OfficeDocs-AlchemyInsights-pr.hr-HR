@@ -5,36 +5,37 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1dd3268044d1859b2648486717b41f7941d135b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44063213"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773479"
 ---
 # <a name="subscription-status"></a>Status pretplate
 
-Status pretplate možete pronaći na stranici **Vaši proizvodi** centra za administratore sustava Microsoft 365.
+Status pretplate može se pronaći na stranici **vaši proizvodi** u centru za administratore sustava Microsoft 365.
 
-1. Idite **Billing**na  >  **[Naplata vaših proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Idite na **naplatu**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Ako postoji problem sa statusom bilo koje pretplate, pokraj pretplate vidjet ćete crvenu ikonu upozorenja ili status "istekla" ili "onemogućeno" u odjeljku Naplata pojedinosti pretplate.
+2. Ako postoji problem s stanjem bilo koje pretplate, prikazat će se crvena ikona upozorenja uz pretplatu ili status "isteklog" ili "onemogućeno" u odjeljku naplata u detaljima o pretplati.
 
-3. Ako želite ponovno aktivirati istekla ili onemogućena pretplata, kliknite **Ponovno aktiviraj sada**.
+3. Ako želite ponovno aktivirati isteklu ili onemogućene pretplate, kliknite **Ponovno aktiviraj sada**.
 
-**Isteka**
+**Datum isteka**
 
-1. Idite **Billing**na  >  **[Naplata vaših proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Idite na **naplatu**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Ovisno o prikazu, datum isteka pojavit će se na krajnjem desnom stupcu s oznakom **Datum** ili u odjeljku **Naplata** pojedinosti o pretplati pokraj stavke **Istječe .**
+2. Ovisno o prikazu, Datum isteka prikazat će se u krajnjem desnom stupcu s oznakom **Datum** ili u odjeljku **naplata** u detaljima o pretplati uz mogućnost **istječe**.
 
 **Licence**
 
-Broj kupljenih i u upotrebi naveden je pretplatom na stranici **Vaši proizvodi.**
+Broj kupljenih licenci i korištenje naveden je putem pretplate na stranici **vaši proizvodi** .
 

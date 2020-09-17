@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 0359163206ef9ddf0bac7b0ee4b44ed3a016f918
-ms.sourcegitcommit: 4c64a8974c87fa69babaf920b0895f0c17c2d346
+ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42415344"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772795"
 ---
 # <a name="keyboard-settings-in-windows-10"></a>Postavke tipkovnice u sustavu Windows 10
 
-**Postavke tipke**
+**Postavke vrste**
 
-Da biste promijenili postavke sustava Windows povezane s provjerom pravopisa, automatskim ispravljanjem, prijedlozima i drugim aspektima hardvera i dodirne tipkovnice, idite na **Postavke > uređaji > tipkanje**. 
+Da biste promijenili postavke sustava Windows vezane uz provjeru pravopisa, automatskog ispravka, prijedloga i drugih aspekata hardverske i dodirne tipkovnice, otvorite **postavke > uređajima > tipkanjem**. 
 
 **Postavke jezika i tipkovnice**
 
-Da biste promijenili postavke povezane s tipkovnicom ili načinom unosa za jezik sustava Windows, idite na **Postavke > vrijeme & jezik > jezik**. Odaberite jezike na popisu **Preferirani jezici** i kliknite **Mogućnosti** da biste dodali/uklonili tipkovnice ili metode unosa (IME-ovi).
+Da biste promijenili postavke koje se odnose na tipkovnicu ili način unosa koji će se koristiti za jezik sustava Windows, otvorite **postavke > vrijeme & jezik > jezik**. Odaberite jezici na popisu **preferirani jezici** , a zatim kliknite **mogućnosti** da biste dodali/uklonili tipkovnice ili načine unosa (imesi).
