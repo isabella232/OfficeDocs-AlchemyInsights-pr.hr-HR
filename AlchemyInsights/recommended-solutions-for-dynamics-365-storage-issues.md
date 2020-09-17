@@ -1,29 +1,30 @@
 ---
-title: Preporučujemo rješenja za probleme s Pohranama sustava Dynamics 365
+title: Preporučujemo rješenja za probleme s pohranom Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: c3d1ce1f0da0710772456baeb63ba2cf1b834fcc
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36509858"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799160"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a><span data-ttu-id="b002e-102">Preporučujemo rješenja za probleme s pohranama sustava Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="b002e-102">Recommend solutions for Dynamics 365 storage issues</span></span>
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a><span data-ttu-id="96757-102">Preporučujemo rješenja za probleme s pohranom Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="96757-102">Recommend solutions for Dynamics 365 storage issues</span></span>
 
-* <span data-ttu-id="b002e-103">Kao globalni administrator, pogledajte razgradnju spremišta prema okolišu, prvih 10 stolova i još mnogo toga</span><span class="sxs-lookup"><span data-stu-id="b002e-103">As a global administrator, view storage breakdown by environment, top 10 tables, and more</span></span>
+* <span data-ttu-id="96757-103">Kao globalni administrator Prikažite prostor za pohranu prema okolišu, prvih 10 tablica i još mnogo toga.</span><span class="sxs-lookup"><span data-stu-id="96757-103">As a global administrator, view storage breakdown by environment, top 10 tables, and more</span></span>
 
-* [<span data-ttu-id="b002e-104">Pitanja o naplati i pretplatama za pohranu</span><span class="sxs-lookup"><span data-stu-id="b002e-104">Storage billing and subscription questions</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [<span data-ttu-id="96757-104">Pitanja o naplati i pretplatama za pohranu</span><span class="sxs-lookup"><span data-stu-id="96757-104">Storage billing and subscription questions</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [<span data-ttu-id="b002e-105">Vodič za određivanje cijena i licenciranje sustava Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="b002e-105">Dynamics 365 pricing and licensing guide</span></span>](https://dynamics.microsoft.com/pricing/)
+* [<span data-ttu-id="96757-105">Dinamika 365 cijena i vodič za licenciranje</span><span class="sxs-lookup"><span data-stu-id="96757-105">Dynamics 365 pricing and licensing guide</span></span>](https://dynamics.microsoft.com/pricing/)
 
-* [<span data-ttu-id="b002e-106">Kako kupiti više prostora za pohranu</span><span class="sxs-lookup"><span data-stu-id="b002e-106">How to purchase more storage</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [<span data-ttu-id="96757-106">Kupnja više prostora za pohranu</span><span class="sxs-lookup"><span data-stu-id="96757-106">How to purchase more storage</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [<span data-ttu-id="b002e-107">Kako osloboditi skladištenje</span><span class="sxs-lookup"><span data-stu-id="b002e-107">How to free up storage</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [<span data-ttu-id="96757-107">Oslobađanje prostora za pohranu</span><span class="sxs-lookup"><span data-stu-id="96757-107">How to free up storage</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

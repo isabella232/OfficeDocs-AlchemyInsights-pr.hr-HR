@@ -1,27 +1,28 @@
 ---
-title: Outlook.com ne mogu primati kodove za provjeru
+title: Outlook.com ne može primati šifre za provjeru valjanosti
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1005"
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760800"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799520"
 ---
-# <a name="cant-get-verification-codes"></a><span data-ttu-id="4da39-102">Nije moguće dobiti kodove za potvrdu</span><span class="sxs-lookup"><span data-stu-id="4da39-102">Can't get verification codes</span></span>
+# <a name="cant-get-verification-codes"></a><span data-ttu-id="5941a-102">Ne mogu se nabaviti kodovi za provjeru</span><span class="sxs-lookup"><span data-stu-id="5941a-102">Can't get verification codes</span></span>
 
-<span data-ttu-id="4da39-103">Ako ne možete pristupiti zamjenskoj e-pošti ili telefonskom broju, otvorite stranicu [Osnove sigurnosti Microsoftova](https://account.microsoft.com/security) računa, odaberite **Nemam ništa od toga** na stranici za prijavu i slijedite upute za zamjenu sigurnosnih podataka.</span><span class="sxs-lookup"><span data-stu-id="4da39-103">If you can't access your alternate email or phone number, go to your Microsoft account [Security basics](https://account.microsoft.com/security) page, select **I don't have any of these** on the sign-in page, and follow the instructions to replace your security info.</span></span>
+<span data-ttu-id="5941a-103">Ako ne možete pristupiti alternativnoj e-pošti ili telefonskom broju, otvorite stranicu s [sigurnosnim osnovama](https://account.microsoft.com/security) za Microsoftov račun, odaberite **nemam ništa od toga** na stranici za prijavu, a zatim slijedite upute da biste zamijenili sigurnosne podatke.</span><span class="sxs-lookup"><span data-stu-id="5941a-103">If you can't access your alternate email or phone number, go to your Microsoft account [Security basics](https://account.microsoft.com/security) page, select **I don't have any of these** on the sign-in page, and follow the instructions to replace your security info.</span></span>
 
-<span data-ttu-id="4da39-104">*Napomena:* Aplikacija [Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) ne zahtijeva internetsku vezu da bi vam pružila kontrolni kôd.</span><span class="sxs-lookup"><span data-stu-id="4da39-104">*Note:* The [Microsoft Authenticator app](https://go.microsoft.com/fwlink/?linkid=2016117) does not require an internet connection to provide you with a verification code.</span></span>
+<span data-ttu-id="5941a-104">*Upozorenje:* Za [aplikaciju Microsoft autentifikator](https://go.microsoft.com/fwlink/?linkid=2016117) nije potrebna internetska veza da bi vam osigurao kod za provjeru valjanosti.</span><span class="sxs-lookup"><span data-stu-id="5941a-104">*Note:* The [Microsoft Authenticator app](https://go.microsoft.com/fwlink/?linkid=2016117) does not require an internet connection to provide you with a verification code.</span></span>
 
-<span data-ttu-id="4da39-105">Da biste saznali više, pročitajte [sigurnosne podatke o Microsoftovu računu i kontrolne kodove](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="4da39-105">To learn more, read [Microsoft account security info and verification codes](https://support.microsoft.com/help/12428/).</span></span>
+<span data-ttu-id="5941a-105">Da biste saznali više, pročitajte [sigurnosne podatke za Microsoftov račun i kodove za provjeru](https://support.microsoft.com/help/12428/).</span><span class="sxs-lookup"><span data-stu-id="5941a-105">To learn more, read [Microsoft account security info and verification codes](https://support.microsoft.com/help/12428/).</span></span>
