@@ -6,6 +6,7 @@ manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b9e333fb229f0a8c1717e11829232dca80b591d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707179"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796100"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migracija u SharePoint online putem upravitelja migracije
 
-Upravitelj migracije koji se nalazi u modernom centru za administratore sustava SharePoint vodi vas kroz postavljanje klijenata i stvaranje zadataka. Možete odrediti globalne postavke ili postavke razine zadatka, pregledati sve dovršeni napredak zadatka i preuzeti skupna izvješća sažetka i izvješća na razini zadatka.
+Upravitelj migracije koji se nalazi u modernom centru za administratore sustava SharePoint vodi vas kroz postavljanje klijenata i stvaranje zadataka. Možete navesti globalne ili postavke razine zadatka, pregledavati napredak svih zadataka i preuzeti zbirne sažetke i izvješća na razini zadatka.
 
 * [Krenite s upraviteljem migracije](https://docs.microsoft.com/sharepointmigration/mm-get-started)
 * [Postavite klijente upravitelja migracije](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)

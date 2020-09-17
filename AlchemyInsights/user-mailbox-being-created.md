@@ -1,24 +1,25 @@
 ---
-title: Stvara se korisnički poštanski sandučić
-ms.author: v-crytho
+title: Stvoren je korisnički poštanski sandučić
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6ad981b2-cb62-4495-b852-88df10299fe3
-ms.openlocfilehash: fdf420291f805c29d7277f2511b21fd7213ff326
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 45cf6841641a75ea1d8ca8442c68a7fe778c37c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710543"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795011"
 ---
 # <a name="your-users-mailbox-is-being-created"></a>Stvara se poštanski sandučić vašeg korisnika
 
-Može potrajati i do sat vremena prije spremanja novog poštanskog sandučića.
+Može potrajati i do sat vremena prije nego što novi poštanski sandučić bude spreman za korištenje.
   
-Ako se korisnikov poštanski sandučić "priprema" više od sat vremena, pokušajte deletirati i ponovno stvoriti korisnika ili upotrijebiti opciju "Nazovimo vas" da biste razgovarali s inženjerom za podršku.
+Ako je korisnikov poštanski sandučić "priprema" više od jednog sata, možete pokušati izbrisati i ponovno stvoriti korisnika ili koristiti mogućnost "Nazovimo vas" da biste razgovarali s inženjerom podrške.
   
 
