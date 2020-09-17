@@ -1,25 +1,26 @@
 ---
-title: Kako omogućiti korisnicima servisa Skype za tvrtke komunikaciju s korisnicima servisa Skype
+title: Kako korisnicima Skypea za tvrtke dopustiti komunikaciju s korisnicima programa Skype
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: 63e94a9aa365dd83cf96c0abb55c1ff6dba769ff
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 6702f64f70f752667167b41e79c510367f95bfb7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316700"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781923"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>Neka korisnici servisa Skype za tvrtke dodaju kontakte servisa Skype
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>Dopusti korisnicima Skypea za tvrtke da dodaju kontakte iz Skypea
 
-Uz Skype za tvrtke, vaši korisnici mogu tražiti i IM s svima koji koriste Skype, besplatna aplikacija! Ovaj članak objašnjava što trebate učiniti da bi mogli dodavati Skype kontakte.
+Ako koristite Skype za tvrtke, korisnici mogu pretraživati i izravne poruke s svima koji koriste Skype, besplatnom aplikacijom! U ovom se članku objašnjava što je potrebno učiniti da bi se mogli dodavati kontakti sa Skypea.
 
-[Neka korisnici servisa Skype za tvrtke dodaju kontakte servisa Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[Dopusti korisnicima Skypea za tvrtke da dodaju kontakte iz Skypea](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

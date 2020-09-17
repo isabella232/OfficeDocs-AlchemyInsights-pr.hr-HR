@@ -1,31 +1,32 @@
 ---
-title: Kako spremiti Outlookove kontakte u svoju aplikaciju za kontakte sa sustavom iOS?
+title: Kako spremiti kontakte programa Outlook u aplikaciju kontakti sa sustavom iOS?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 822045496ad5efcc7610fd8a316b8bcd7b38a79f
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 2c787d41bd0c9226d35665f9394226e089049eb2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627766"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781779"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Kako spremiti Outlookove kontakte u svoju aplikaciju za kontakte sa sustavom iOS?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Kako spremiti kontakte programa Outlook u aplikaciju kontakti sa sustavom iOS?
 
-Da biste spremili Outlookove kontakte u izvorni adresar:
+Da biste spremili kontakte programa Outlook u izvorni adresar, učinite sljedeće:
  
-1. Idite na **Postavke** > uređaja**i potvrdite** da je **Zadani račun** postavljen na **iCloud**. Imajte na umu da je ova postavka dostupna samo ako je na uređaj dodan više od jednog računa. Ako nema računa povezan s uređajem, Outlook kontakti će se spremiti lokalno, ali neće biti sinkronizirani s drugim uređajima.
+1. Idite na **kontakte postavke uređaja**  >  **Contacts** i potvrdite da je **Zadani račun** postavljen na **iCloud**. Imajte na vidu da je ta postavka dostupna samo ako imate više od jednog računa koji ste dodali na uređaj. Ako ne postoji račun povezan s uređajem, vaši će se kontakti programa Outlook spremiti lokalno, ali se neće sinkronizirati s drugim uređajima.
  
-2. Otvorite Outlook za iOS i u lijevoj navigaciji odaberite opremu za postavke, odaberite **Odaberite svoj račun**i uključite gumb **Spremi kontakte** .
+2. Otvorite Outlook za iOS, a zatim u lijevoj navigaciji odaberite zupčanik za postavke, odaberite **Odaberite svoj račun**, a zatim uključite uključivanje u **Spremanje kontakata** .
  
-Spremljeni kontakti dodat će se pod kontaktima na vašem iCloud računu. Ti će se kontakti sinkronizirati sa svim uređajima koji su prijavljeni s istim iCloud računom. Imajte na umu da u isto vrijeme možete izvoziti kontakte samo s jednog uređaja.
+Spremljeni kontakti dodat će se u odjeljku kontakti na vašem iCloud računu. Ti će se kontakti sinkronizirati s svim uređajima koji su prijavljeni pomoću istog iCloud računa. Imajte na sebi da možete izvoziti samo kontakte s jednog uređaja istodobno.
  
-Ako korisnik ima uključen kontakt-izvoz, oba iPad i iPhone jedan će morati biti onemogućen kako bi izbjegli sukobi. Duplikati mogu trajati 24 sata da bi se uskladili.
+Ako korisnik ima uključen kontakt – izvoz, i njihov iPad i iPhone moraju biti onemogućeni da bi izbjegli sukobe. Duplikate mogu potrajati 24 sata da bi se ponovno pomirili.
