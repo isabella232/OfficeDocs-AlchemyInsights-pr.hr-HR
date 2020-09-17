@@ -1,11 +1,12 @@
 ---
-title: Outlook.com status uvijek prikazuje kao dostupan
+title: Status Outlook.com uvijek se prikaže kao dostupno
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: da4b014f39c03439e204cbc9eaab2764d663ae7f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743445"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776997"
 ---
-# <a name="my-status-always-shows-as-available"></a>Moj status uvijek prikazuje kao dostupan
+# <a name="my-status-always-shows-as-available"></a>Moj se status uvijek prikazuje kao dostupan
 
-Svaki put kada se prijavite na Outlook.com status računa vratit će se na Dostupno. Status možete spriječiti da se ne odjavite iz Outlook.com. Da biste ostali prijavljeni prilikom zatvaranja preglednika, odaberite okvir **Zadrži me prijavljenim** na stranici za prijavu Outlook.com.
+Svaki put kada se prijavite u Outlook.com, status računa bit će ponovno dostupan. Možete onemogućiti promjenu statusa tako da se ne odjavljujete iz Outlook.com. Da biste ostali prijavljeni prilikom zatvaranja preglednika, potvrdite okvir **Zadrži me** na stranici za prijavu na Outlook.com.
