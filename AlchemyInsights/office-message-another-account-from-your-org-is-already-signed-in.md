@@ -1,24 +1,25 @@
 ---
-title: Poruka aplikacija microsoft 365 – nažalost, već je prijavljen drugi račun tvrtke ili ustanove
+title: Poruka aplikacija Microsoft 365 – Žao nam je, još jedan račun iz vaše tvrtke ili ustanove već je potpisan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 60a51c2a45e76391b132b92bb03059864bffb2ed
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576912"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802805"
 ---
-# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Poruka aplikacija microsoft 365 – nažalost, već je prijavljen drugi račun tvrtke ili ustanove
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Poruka aplikacija Microsoft 365 – Žao nam je, još jedan račun iz vaše tvrtke ili ustanove već je potpisan
 
 Da biste ispravili tu pogrešku, pokušajte sljedeće:
 
