@@ -1,36 +1,36 @@
 ---
-title: Microsoft Teams-pristup gostima
+title: Microsoftovi timovi – pristup gostu
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: 6fe5b4e1d1ef844292ccb92ff9dd792f22e47c60
-ms.sourcegitcommit: 3f825fedaf220d6c3883cdac4c56279fbaa95eec
+ms.openlocfilehash: da9ecca062bd5f1dcc169657483ba53eb201def0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019090"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798368"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft Teams-pristup gostima
+# <a name="microsoft-teams---guest-access"></a>Microsoftovi timovi – pristup gostu
 
-Ako vam je potrebna pomoć u komunikaciji s korisnicima izvan vaše organizacije u timovima, morate odlučiti želite li koristiti [privatni pristup ili vanjski pristup (Federacija)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)ili možete koristiti oboje.
+Ako vam je potrebna pomoć u komunikaciji s korisnicima izvan tvrtke ili ustanove u timovima, morate odlučiti želite li koristiti [pristup gostu ili vanjski pristup (Federaciju)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)ili možete koristiti oba.
 
-Obavezno [Pregledajte razlike](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) kako biste razumjeli značajke dostupne za svaki.  Na primjer, vanjski pristup (Federacija) omogućuje 1:1 komunikacije, kao što su chat i prisutnost.  Međutim, vanjski korisnici ne mogu sudjelovati u suradnji timova.  Ako želite da se vanjski korisnik pridruži i sudjeluje u programu Teams Channel, razgovori ili dijeljenje datoteka, morat ćete uključiti pristup za gosta.
+Obavezno [Pregledajte razlike](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) da biste razumjeli značajke koje su dostupne za svaku od njih.  Na primjer, vanjski pristup (Federacija) dopušta 1:1 komunikacija, kao što su čavrljanje i prisutnost.  Udruženim korisnicima nije moguće sudjelovati u suradnji timova.  Ako želite da se vanjski korisnik pridruži i sudjeluje u razgovorima s timovima ili zajednički koristi datoteke, morat ćete uključiti pristup gostu.
 
-**1. opcija: uključite pristup za gosta**   
-U centru za administraciju timova idite na [Postavke organizacije Wide > pristup gostima](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) i uključite "Dopusti pristup gosta u timovima".  Za stanara sa svim drugim zadanim postavkama, to bi trebalo biti sve što trebate učiniti.  Da biste prilagodili konfiguraciju privatnog pristupa, provjerite jeste li slijedili sve korake u programu za [pristup popisu gostiju](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Nakon što ste potpuno završili, morat ćete [pričekati do 24 sata](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) kako bi postavke stupile na snagu.
+**Prva mogućnost: uključivanje pristupa gostu**   
+U centru za administratore timova idite na web-mjesta [org Wide postavke > pristup gostu](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) i uključite "Dopusti gostu pristup u timovima".  Za zakupca sa svim ostalim zadanim postavkama to bi trebalo biti sve što trebate učiniti.  Da biste prilagodili konfiguraciju pristupa gostu, obavezno slijedite sve korake u [kontrolnom popisu pristup gostu](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Kada završite s potpunim, morat ćete [čekati do 24 sata](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) da postavke stupite na utjecaj.
 
-Ako ste sigurni da ste dovršili sve korake u kontrolnom popisu, a prošlo je više od 24 sata, samo naprijed i pokušajte [dodati gosta u svoj tim](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Ako ste sigurni da ste dovršili sve korake na popisu, a prošlo je više od 24 sata, nastavite i pokušajte [dodati gosta u svoj tim](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-Dodatne informacije, uključujući videozapise u programu Microsoft Teams, potražite [u članku pristup gostima](https://docs.microsoft.com/microsoftteams/guest-access).
+Dodatne informacije, uključujući videozapise s načinom na koji se prikazuje, potražite [u članku pristup gostu u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**2. opcija: Uključi vanjski pristup (Federacija)** Ako želite uključiti i vanjski pristup (Federacija), u centru za administratore timova idite u [Postavke org-wide > eksterni pristup](https://admin.teams.microsoft.com/company-wide-settings/external-communications) i uključite "korisnici mogu komunicirati sa servisa Skype za poslovne i timove korisnike", a zatim slijedite sve korake u [Neka vaši timovi korisnici chat i komunicirati s korisnicima u drugoj organizaciji](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+Druga **mogućnost: uključivanje vanjskog pristupa (Federacija)** Ako želite uključiti i vanjski pristup (Federacija), u centru za administratore timova idite na [Postavke sustava > vanjski pristup](https://admin.teams.microsoft.com/company-wide-settings/external-communications) , a zatim uključite "korisnici mogu komunicirati s korisnicima Skypea za tvrtke i timove", a zatim slijedite sve korake u odjeljku [Dopusti korisnicima da čavrljamo i komunicirajte s korisnicima u drugoj tvrtki ili ustanovi](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
 
 

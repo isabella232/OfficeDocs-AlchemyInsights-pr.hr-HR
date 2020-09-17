@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 3b515e18296f5a50ce64b7811c870b35e0e65d63
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738456"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797180"
 ---
 # <a name="turn-off-audio-enhancement"></a>Isključivanje poboljšanja zvuka
 
 Slijedite ove korake:
 
-1. Idite na **Start**, unesite **zvuk**, a zatim kliknite **Upravljačka ploča zvuka** ili **promijenite zvukove sustava** s popisa rezultata.
+1. Idite na **Start**, unesite **zvuk**, a zatim odaberite **Upravljačka ploča za zvuk** ili **promijenite zvukove sustava** s popisa rezultata.
 
-2. Na kartici **reprodukcije** desnom tipkom miša kliknite (ili dodirnite i držite) zadani uređaj i odaberite **Svojstva**.
+2. Na kartici **Reprodukcija** desnom tipkom miša kliknite (ili dodirnite i držite) zadani uređaj, a zatim odaberite **Svojstva**.
 
-3. Na kartici **poboljšanja** odaberite potvrdni okvir **Onemogući sve zvučne efekte** i pokušajte reproducirati audiouređaj. Ako to ne uspije, odaberite **Odustani** i na kartici **Reprodukcija** odaberite neki drugi zadani uređaj (ako ga imate), potvrdite okvir **Onemogući sve zvučne efekte** i pokušajte ponovno reproducirati zvuk. Učinite to za svaki zadani uređaj.
+3. Na kartici **poboljšanja** odaberite potvrdni okvir **Onemogući sve zvučne efekte** i pokušajte reproducirajte audiouređaj. Ako to ne uspije, odaberite **Odustani** , a zatim na kartici **Reprodukcija** odaberite neki drugi zadani uređaj (ako ga imate), potvrdite okvir **Onemogući sve zvučne efekte** , a zatim ponovno pokušajte reproducirati audiozapis. Učinite to za svaki zadani uređaj.
