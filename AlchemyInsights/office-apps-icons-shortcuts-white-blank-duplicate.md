@@ -1,25 +1,26 @@
 ---
-title: Ikone/prečaci aplikacija microsoft 365 bijele, prazne ili duplicirane
+title: Ikone/prečaci za Microsoft 365, bijeli, prazni ili duplikati
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 817cedde2aa6bcd5f6bc2609d150a782ba085771
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 57112a1fe9e407d1f95c26fac86c0ae0b60d98d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581115"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802913"
 ---
-# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a><span data-ttu-id="adee2-102">Ikone ili prečaci aplikacija sustava Office bijelci su, prazni ili duplicirani</span><span class="sxs-lookup"><span data-stu-id="adee2-102">Office app icons or shortcuts are white, blank, or duplicate</span></span>
+# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a><span data-ttu-id="e2468-102">Ikone ili prečaci aplikacije sustava Office bijeli su, prazni ili duplicirani</span><span class="sxs-lookup"><span data-stu-id="e2468-102">Office app icons or shortcuts are white, blank, or duplicate</span></span>
 
-<span data-ttu-id="adee2-103">Ako ikone aplikacija sustava Office izgledaju prazno ili bijelo, pokušajte [popraviti aplikaciju sustava Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="adee2-103">If Office app icons appear blank or white, try [Repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span> <span data-ttu-id="adee2-104">Da biste uklonili dvostruke ikone aplikacija sustava Office, pročitajte okvir [Office prečaci ostaju nakon deinstalacije sustava Office](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span><span class="sxs-lookup"><span data-stu-id="adee2-104">To remove duplicate Office app icons, see [Office shortcuts remain after Office uninstall](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span></span>
+<span data-ttu-id="e2468-103">Ako ikone aplikacija sustava Office izgledaju prazno ili bijelo, pokušajte [popraviti aplikaciju sustava Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="e2468-103">If Office app icons appear blank or white, try [Repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span> <span data-ttu-id="e2468-104">Da biste uklonili dvostruke ikone aplikacije sustava Office, pročitajte članak [Prečaci sustava Office ostaju nakon deinstalacije sustava Office](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span><span class="sxs-lookup"><span data-stu-id="e2468-104">To remove duplicate Office app icons, see [Office shortcuts remain after Office uninstall](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span></span>
 
-<span data-ttu-id="adee2-105">Dodatne informacije potražite u odjeljku [Ikone sustava Office prazne nakon instalacije sustava Office iz trgovine Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span><span class="sxs-lookup"><span data-stu-id="adee2-105">For more information, see [Office icons are blank after installing Office from the Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span></span>
+<span data-ttu-id="e2468-105">Dodatne informacije potražite u članku [ikone sustava Office prazne su nakon instalacije sustava Office iz Microsoftove trgovine](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span><span class="sxs-lookup"><span data-stu-id="e2468-105">For more information, see [Office icons are blank after installing Office from the Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span></span>
