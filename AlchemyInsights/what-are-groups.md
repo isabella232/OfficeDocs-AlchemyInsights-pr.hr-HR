@@ -5,19 +5,20 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001110"
 - "3071"
-ms.openlocfilehash: 1679f1b0452314395c5067b326f6b753f9baa84e
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 857af422c77fbb719c120951314d21160f0fa1b7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912142"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807327"
 ---
 # <a name="what-are-groups"></a>Što su grupe?
 
-Grupe za Microsoft 365 omogućuju vam da odaberete skup osoba s kojima želite surađivati i jednostavno postavite zbirku resursa za dijeljenje tih osoba. Ne morate se brinuti o ručnom dodjeljivanju dozvola svim tim resursima jer im dodavanje članova u grupu automatski daje dozvole koje su im potrebne za alate koje vaša grupa pruža. Osim toga, grupe su novo i poboljšano iskustvo za ono što smo koristili za korištenje popisa za raspodjelu ili zajedničkih poštanskih sandučića za napraviti.  Dodatne informacije [potražite u članku Microsoft 365 Groups.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) 
+Grupe programa Microsoft 365 omogućuju vam da odaberete skup osoba s kojima želite surađivati te da jednostavno postavite zbirku resursa koje će te osobe zajednički koristiti. Ne morate brinuti o ručno dodjeljivanju dozvola svim tim resursima, jer dodavanje članova u grupu automatski daje im dozvole koje su im potrebne za alate koje nudi vaša grupa. Osim toga, grupe su novo i poboljšano iskustvo za ono što smo koristili za korištenje popisa za raspodjelu ili zajedničke poštanske sandučiće.  Dodatne informacije potražite [u članku Saznajte više o microsoftovim 365 grupama](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) . 
