@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802805"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236009"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Poruka aplikacija Microsoft 365 – Žao nam je, još jedan račun iz vaše tvrtke ili ustanove već je potpisan
 
@@ -32,6 +32,8 @@ Da biste ispravili tu pogrešku, pokušajte sljedeće:
 - Da biste dodali ili povezali svoj račun, kliknite ikonu **+**. Unesite vjerodajnice i pričekajte završetak procesa.
 
 - Ako je potrebno, pokrenite aplikaciju Office i ponovno se prijavite. 
+
+**Savjet** Na uređajima sa sustavom Windows možemo dijagnosticirati i automatski riješiti nekoliko običnih problema s prijavom u Office. Preuzmite i pokrenite  **[Microsoftov pomoćnik za podršku i oporavak](https://aka.ms/SaRA-OfficeSignInScenario)** da biste koristili naš automatizirani alat.
 
 Ako se problem ne riješi, pokušajte sljedeći korak: 
 

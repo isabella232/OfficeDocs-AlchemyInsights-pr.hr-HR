@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676982"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236117"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problemi s prijavom u aplikacije Microsoft 365
 
@@ -25,6 +25,8 @@ Da biste riješili probleme s prijavom u aplikacijama Microsoft 365, isprobajte 
 
 - Upute za Windows potražite [u članku preporuke o rješavanju običnih problema s prijavom](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Za Mac pročitajte članak  [ne možete se prijaviti u aplikaciju Office 2016 za Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Savjet** Na uređajima sa sustavom Windows možemo dijagnosticirati i automatski riješiti nekoliko običnih problema s prijavom u Office. Preuzmite i pokrenite  **[Microsoftov pomoćnik za podršku i oporavak](https://aka.ms/SaRA-OfficeSignInScenario)** da biste koristili naš automatizirani alat.
 
 **Upozorenje:**  **Nije preporučljivo**onemogućiti modernu provjeru autentičnosti (Adal) ili upravljanje web-računom (WAM) radi ispravljanja problema s prijavom ili aktivacijom. Ako se pojave pogreške tijekom povezivanja sa sustavom Microsoft 365 pomoću sustava Office 2013, provjerite jeste li [omogućili modernu provjeru autentičnosti](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  za klijenta sustava Office.
 
