@@ -2,7 +2,7 @@
 title: Otkazivanje dodatka Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: 5619b1866041d248de7d13d0e2edaa84208a5ba0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82fe905756030970241d0be48e5fb2d37e8386cc
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683466"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287166"
 ---
 # <a name="cancel-power-bi"></a>Otkazivanje dodatka Power BI
 
-Power BI se može poništiti u **centru za administratore sustava Microsoft 365**.  
+Power BI se može poništiti u centru za administratore sustava Microsoft 365.
 
-1. Idite na stranicu **naplata > [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
-
-2. Pronađite tarifu Power BI za otkazivanje.
-
-3. Kliknite **Odustani od pretplate**.
+1. U centru za administratore idite na stranicu **naplata > [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+2. Na kartici **proizvodi** Pronađite pretplatu koju želite otkazati. Odaberite **Dodatne akcije** (tri točkice), a zatim **poništite pretplatu**.
+3. U oknu **otkazivanje pretplate** odaberite razlog zbog kojeg otkazujete. Ako želite, navedite povratne informacije.
+4. Odaberite **Spremi**.
 
 **Povrat novca: u sljedećem ciklusu naplate prikazat će vam se svaki prorećeni kredit.**
 
-**Pažnja**: ako vam se ne prikazuje mogućnost otkaza, kliknite pretplatu da biste pogledali detalje i trebali biste vidjeti mogućnost **Odustani od pretplate** u **postavkama & akcije**.
+> [!NOTE]
+> Ako ne vidite mogućnost otkaza, odaberite pretplatu da biste pregledali stranicu s pojedinostima. U odjeljku **postavke pretplate i plaćanja** odaberite Odustani od **pretplate**.
 
 Dodatne informacije potražite u članku [otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

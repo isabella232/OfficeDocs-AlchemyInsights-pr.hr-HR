@@ -1,8 +1,8 @@
 ---
 title: Napredno upravljanje licencom za zaštitu od prijetnje
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715373"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287094"
 ---
 # <a name="advanced-threat-protection-license-management"></a>Napredno upravljanje licencom za zaštitu od prijetnje
 
 Upravljanje licencama za Office 365 Advance (ATP) može se dovršiti u  **centru za administratore sustava Microsoft 365**.
 
-- Da biste kupili Office 365 za zaštitu od pretnje, otvorite servis za **naplatu naplate**  >  [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433), odaberite stranicu s **dodacima** iz **drugih kategorija koje bi vas mogle zanimati**, odaberite napredni plan zaštite prijetnje koju želite kupiti, a zatim odaberite broj korisnika koji će koristiti naprednu zaštitu od prijetnje. Dodatne informacije potražite u članku [Kupnja pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Da biste dodijelili licenciranje za Office 365 Advance za zaštitu, idite na licence za **naplatu**  >  **Licenses**. Dodatne informacije potražite u članku  [Dodjela licenci](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
-- Da biste dodali/uklonili licence sustava Office 365 za zaštitu od pretnje, idite na **naplatu**  >  **proizvoda**, pronađite pretplatu na koju želite dodati ili ukloniti licence, a zatim odaberite **Dodaj/Ukloni licence**.  
-- Dodatne informacije potražite u članku [Dodavanje i uklanjanje licenci s licence](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)za poslovnu pretplatu.
+- Kupnja sustava Office 365 za zaštitu od pretnje:
+    1. Idite na **Billing**  >  [Usluge nabave](https://go.microsoft.com/fwlink/p/?linkid=868433)za naplatu.
+    2. Pri dnu stranice odaberite **Dodaci**.
+    3. Na stranici **Kupnja Services** odaberite napredni plan zaštite prijetnje koju želite kupiti, unesite broj korisnika kojima je potrebna licenca, a zatim odaberite **odjava odmah**. Dodatne informacije potražite u članku [Kupnja dodatka](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+- Da biste dodijelili licenciranje za Office 365 Advance za zaštitu, idite na licence za **naplatu**  >  **Licenses**. Dodatne informacije potražite u članku [dodjeljivanje licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Da biste dodali ili uklonili licence iz sustava Office 365 za zaštitu od pretnje, idite na **naplatu**  >  **proizvoda**. Odaberite pretplatu koju želite ažurirati, a zatim odaberite **Kupnja licenci** ili ***Ukloni licence**. Dodatne informacije potražite u članku [Kupnja i uklanjanje licenci za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

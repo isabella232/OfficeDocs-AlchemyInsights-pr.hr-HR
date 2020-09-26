@@ -2,7 +2,7 @@
 title: Informacije o pretplati
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,29 +14,25 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: dcf016e451cf1d88484578b9bc250fdf2ee11624
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f328c870d2fcd8093c2fd10bb26ca0326ddf2ccd
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737585"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286986"
 ---
 # <a name="subscription-information"></a>Informacije o pretplati
 
-Da biste saznali više o pretplatama koje posjedujete, otvorite stranicu **naplata** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+Da biste saznali više o pretplatama koje posjedujete, otvorite stranicu **naplata** \> [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
   
-Ključni podaci o svakoj pretplati:
+U tablici su prikazani sljedeći ključni podaci o svakoj pretplati:
   
-- Status svakog
-
-- Kupljene licence
-
+- Naziv proizvoda
 - Dodijeljene licence
-
-- Ponavljajući status naplate
-
-- Ravnotežu
-
+- Kupljene licence
+- Status
+- Datum obnove ili isteka
 - Način plaćanja
-
-- Sljedeća naplata ili Datum isteka
+- Račun za naplatu (ako je primjenjivo)
+ 
+Da biste dodali ili uklonili stupce, odaberite **Odaberi stupce**.
