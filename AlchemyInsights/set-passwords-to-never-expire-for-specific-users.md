@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
+ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795560"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295598"
 ---
 # <a name="set-passwords-to-never-expire"></a>Postavljanje lozinki da nikad ne istekne
 
-Da biste postavili sve lozinke koje nikada ne isteču, u centru za administratore sustava Microsoft 365 otvorite stranicu **Postavke**  >  [zaštite &amp; privatnosti](https://portal.office.com/adminportal/home#/settings/security) . Odaberite **Uređivanje** pokraj **pravilnika za lozinku**i okrenite klizač na **uključeno**.
+Da biste postavili sve lozinke koje nikada ne isteču, u centru za administratore sustava Microsoft 365 **Idite na**  >  **Postavke programa org > [Sigurnost i tajnost](https://portal.office.com/adminportal/home#/settings/security)  >  [pravilnika o isteku lozinke](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) ** i poništite provjeru "postavljanje korisničkih lozinki da istekne nakon broja dana".
   
-Detaljnije informacije potražite u članku: 
+Detaljnije informacije potražite u članku:
 
 - [Postavljanje pravilnika o isteku lozinke za svoju tvrtku ili ustanovu.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
