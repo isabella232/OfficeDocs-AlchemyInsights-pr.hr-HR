@@ -12,15 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 3ad5dfd1d1514ddf0e7d221e92d082b2868809c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9003770"
+- "6709"
+ms.openlocfilehash: babdff75b53c4a5cab0ae7697369304319d105af
+ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717173"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48366384"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a><span data-ttu-id="096f1-102">Pravila za konfiguriranje aplikacija za Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="096f1-102">App Configuration policies for Microsoft Intune</span></span>
+# <a name="app-configuration-policies-for-microsoft-intune"></a><span data-ttu-id="88b1d-102">Pravila za konfiguriranje aplikacija za Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="88b1d-102">App Configuration policies for Microsoft Intune</span></span>
 
-<span data-ttu-id="096f1-103">Pravila za konfiguriranje aplikacija u programu Microsoft Intune sadrže postavke konfiguracije za aplikacije sa sustavom iOS ili Android.</span><span class="sxs-lookup"><span data-stu-id="096f1-103">App configuration policies in Microsoft Intune provide configuration settings for iOS or Android applications.</span></span> <span data-ttu-id="096f1-104">Te postavke konfiguracije omogućuju prilagodbu aplikacije.</span><span class="sxs-lookup"><span data-stu-id="096f1-104">These configuration settings allow an app to be customized.</span></span> <span data-ttu-id="096f1-105">Podrška za konfiguracijsku politiku ograničena je verzijama operacijskog sustava i aplikacijama.</span><span class="sxs-lookup"><span data-stu-id="096f1-105">Configuration policy support is limited by operating system versions and applications.</span></span>
+<span data-ttu-id="88b1d-103">Pravila za konfiguriranje aplikacija u programu Microsoft Intune koriste se za pružanje postavki konfiguracije za iOS ili Android aplikacije..</span><span class="sxs-lookup"><span data-stu-id="88b1d-103">App configuration policies in Microsoft Intune are used to provide configuration settings for iOS or Android applications..</span></span> <span data-ttu-id="88b1d-104">Te postavke konfiguracije omogućuju prilagodbu aplikacije.</span><span class="sxs-lookup"><span data-stu-id="88b1d-104">These configuration settings allow an app to be customized.</span></span> <span data-ttu-id="88b1d-105">Imajte na umu da postoje ograničenja koja se odnose na verzije operacijskog sustava i koje aplikacije podržavaju korištenje pravilnika o konfiguraciji.</span><span class="sxs-lookup"><span data-stu-id="88b1d-105">Be aware that there are limitations in respect of which operating system versions and which applications support the use of configuration policies.</span></span>
 
-<span data-ttu-id="096f1-106">Dodatne informacije potražite u članku [pravila za konfiguriranje aplikacija za Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).</span><span class="sxs-lookup"><span data-stu-id="096f1-106">For more details, see [App configuration policies for Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).</span></span>
+<span data-ttu-id="88b1d-106">Pojedinosti potražite u sljedećim dokumentima</span><span class="sxs-lookup"><span data-stu-id="88b1d-106">Please review the following documentation for details</span></span>
+
+[<span data-ttu-id="88b1d-107">Pravila za konfiguriranje aplikacija za Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="88b1d-107">App configuration policies for Microsoft Intune</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[<span data-ttu-id="88b1d-108">Dodavanje pravila za konfiguriranje aplikacija za upravljanim uređajima sa sustavom iOS</span><span class="sxs-lookup"><span data-stu-id="88b1d-108">Add app configuration policies for managed iOS devices</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[<span data-ttu-id="88b1d-109">Dodavanje pravila za konfiguriranje aplikacija za upravljanih uređaja sa sustavom Android</span><span class="sxs-lookup"><span data-stu-id="88b1d-109">Add app configuration policies for managed Android devices</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[<span data-ttu-id="88b1d-110">Dodavanje pravila za konfiguriranje aplikacija za upravljane aplikacije bez upisa uređaja</span><span class="sxs-lookup"><span data-stu-id="88b1d-110">Add app configuration policies for managed apps without device enrollment</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)
