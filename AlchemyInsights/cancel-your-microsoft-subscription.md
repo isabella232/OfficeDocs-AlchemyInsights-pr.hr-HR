@@ -1,8 +1,8 @@
 ---
 title: Otkazivanje Microsoftove pretplate
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683250"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416469"
 ---
-# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="8130c-102">Otkazivanje Microsoftove pretplate</span><span class="sxs-lookup"><span data-stu-id="8130c-102">Cancel your Microsoft subscription</span></span>
+# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="6b7b0-102">Otkazivanje Microsoftove pretplate</span><span class="sxs-lookup"><span data-stu-id="6b7b0-102">Cancel your Microsoft subscription</span></span>
 
-1. <span data-ttu-id="8130c-103">Idite na [Servisi i pretplate](https://account.microsoft.com/services/) i prijavite se s Microsoftovim računom koji ste koristili tijekom kupnje pretplate.</span><span class="sxs-lookup"><span data-stu-id="8130c-103">Go to [Services & subscriptions](https://account.microsoft.com/services/), and sign in with the Microsoft account you used when purchasing your subscription.</span></span>
+<span data-ttu-id="6b7b0-103">Administratori mogu otkazati pretplatu za svoju tvrtku ili ustanovu u centru za administratore sustava Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="6b7b0-103">Admins can cancel the subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-2. <span data-ttu-id="8130c-104">Pronađite svoju pretplatu i kliknite **Upravljaj**.</span><span class="sxs-lookup"><span data-stu-id="8130c-104">Find your subscription and click **Manage**.</span></span> <span data-ttu-id="8130c-105">Ako vam se prikaže **Uključivanje ponavljajuće naplate** umjesto **Upravljaj**, preskočite na odjeljak Otklanjanje poteškoća; u suprotnom prijeđite na 3. korak.</span><span class="sxs-lookup"><span data-stu-id="8130c-105">If you see **Turn on recurring billing** instead of **Manage**, skip to the Troubleshooting section;  otherwise proceed to step 3.</span></span>
+1. <span data-ttu-id="6b7b0-104">Idite na stranicu **naplata** \> [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="6b7b0-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="6b7b0-105">Na kartici **proizvodi** Pronađite pretplatu koju želite otkazati.</span><span class="sxs-lookup"><span data-stu-id="6b7b0-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="6b7b0-106">Odaberite **Dodatne akcije** (tri točkice), a zatim **poništite pretplatu**.</span><span class="sxs-lookup"><span data-stu-id="6b7b0-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="6b7b0-107">U oknu **otkazivanje pretplate** odaberite razlog zbog kojeg otkazujete.</span><span class="sxs-lookup"><span data-stu-id="6b7b0-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="6b7b0-108">Ako želite, navedite povratne informacije.</span><span class="sxs-lookup"><span data-stu-id="6b7b0-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="6b7b0-109">Odaberite **Spremi**.</span><span class="sxs-lookup"><span data-stu-id="6b7b0-109">Select **Save**.</span></span>
 
-3. <span data-ttu-id="8130c-106">Na sljedećoj stranici kliknite **Otkaži** ili **Nadogradi ili otkaži Cancel**, ovisno o vrsti pretplate.</span><span class="sxs-lookup"><span data-stu-id="8130c-106">On the next page, click **Cancel** or **Upgrade or Cancel**, depending on your subscription type.</span></span>
-
-4. <span data-ttu-id="8130c-107">Da biste nastavili s otkazivanjem, slijedite upute na stranici.</span><span class="sxs-lookup"><span data-stu-id="8130c-107">Follow the instructions on the page to proceed with cancellation.</span></span>
+<span data-ttu-id="6b7b0-110">**Povrat novca:** Bilo koji proregirani kredit bit će vam vraćen unutar sljedećeg ciklusa naplate.</span><span class="sxs-lookup"><span data-stu-id="6b7b0-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
