@@ -1,8 +1,8 @@
 ---
 title: Pretplata više nije aktivna
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: a056a9bf006b2400b94ee52444ab83e71b232348
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59db84b9068843333ee28f47b9e69cf8b805b184
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737549"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489305"
 ---
 # <a name="subscription-no-longer-active"></a>Pretplata više nije aktivna
 
-Ako se prilikom otvaranja [Microsoftove aplikacije pojavi obavijest o pretplati](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB), vjerojatno ćete morati ponovo aktivirati pretplatu.
+Ako se [pojavi obavijest o pretplati](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) kada se otvori aplikacija Microsoft, vjerojatno ćete morati ponovno aktivirati pretplatu.
 
 **Ponovna aktivacija pretplate**
 
-1. U centru za administratore otvorite stranicu **naplata**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. U centru za administratore otvorite stranicu **naplata**  >  [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Na kartici **proizvodi** Pronađite pretplatu koju želite ponovno aktivirati. Odaberite **Dodatne akcije** (tri točkice), a zatim **Ponovno aktiviraj ovu pretplatu**.
+3. U oknu **Ponovna aktivacija ove pretplate** odaberite način plaćanja na padajućem popisu ili odaberite **Dodaj način plaćanja**.
+4. Odaberite **Spremi**.
 
-2. Odaberite pretplatu koju želite ponovno aktivirati.
-
-3. U odjeljku **Naplata** kliknite **Odmah ponovo aktiviraj**.  Ako se nalazite u prikazu **kartice** , kliknite trotočku između **naziva** i **dostupne količine** , a zatim na izborniku odaberite **Ponovno aktiviraj** .
-
-**Napomena**: ako ne vidite pretplatu koju tražite, možda trebate prilagoditi filtar **Status pretplate** pri vrhu stranice na **Sve**.
-
-4. Potvrdite detalje za plaćanje da biste ažurirali postojeće podatke o plaćanju. Kada završite s unosom načina plaćanja, odaberite **Ponovo aktiviraj**.
-
-Dodatne informacije pronađite u članku [Ponovno aktiviranje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Da biste saznali više o starim koracima pogledajte [Ponovno aktiviraj pretplatu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

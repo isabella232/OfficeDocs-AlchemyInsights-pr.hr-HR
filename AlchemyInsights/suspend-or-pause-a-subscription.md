@@ -1,8 +1,8 @@
 ---
 title: Obustavljanje ili pauziranje pretplate
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: f04c1a88a0c21d164fb687af1ecd2546a89601f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800132"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488945"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Obustavljanje ili pauziranje pretplate
 
-Da biste privremeno suspendirali ili pauzirali pretplatu, možete otkazati pretplatu iz **centra za administratore sustava Microsoft 365**.
+Da biste privremeno suspendirali ili pauzirali pretplatu, možete otkazati pretplatu u centru za administratore sustava Microsoft 365.
 
-1. Idite na **naplatu > [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. U centru za administratore otvorite stranicu **naplata**  >  [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Na kartici **proizvodi** Pronađite pretplatu koju želite otkazati. Odaberite **Dodatne akcije** (tri točkice), a zatim **poništite pretplatu**.
+3. Status pretplate prikazuje se kao **onemogućeno** i prikazuje datum otkazivanja pretplate. Pretplata ostaje u onemogućenom stanju za 90 dana, a smanjuje funkcionalnost dok se ne izbriše ili [ponovno aktivira](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-2. Pronađite pretplatu koju želite otkazati, a zatim u odjeljku **postavke & akcije**kliknite **Odustani od pretplate**.
-
-3. Vaša će se pretplata sada prikazivati u onemogućenom stanju za 90 dana, a imat će smanjene funkcionalnosti dok se ne izbriše ili [ponovno aktivira](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide).
-
-Dodatne informacije potražite u članku [što se događa kada otkazujete pretplatu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription) i [spremite podatke](https://go.microsoft.com/fwlink/p/?linkid=842054).
+Dodatne informacije potražite u članku [što se događa kada otkazujete pretplatu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) i [spremite podatke](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
