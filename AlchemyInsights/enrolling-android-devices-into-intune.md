@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784299"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791250"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Umetanje uređaja sa sustavom Android u Intune
 
-Intune podržava upis na sljedećim uređajima sa sustavom Android:
-- Samsung Knox i zebra
-- Poslovni profil tvrtke Android
-- Namijenjen Android Enterprise
-- Android Enterprise u potpunosti je upravljano
+Ako želite migrirati korisnike iz upisa administratora uređaja za Android na Android Enterprise, pregledajte: [Premještanje uređaja sa sustavom Android s administratorom uređaja radi upravljanja profilom](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Prije postavljanja upisa za uređaje sa sustavom Android [Pregledajte unaprijed obavezne uvjete] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
+Intune podržava upis na sljedećim uređajima sa sustavom Android:  
 
-Informacije o otklanjanju poteškoća s upisom uređaja općenito i nekim pogreškama prilikom upisa u Android potražite [u članku Otklanjanje poteškoća s uvrštenjem uređaja u programu Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+- [Samsung Knox, zebra, administrator uređaja](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Poslovni profil tvrtke Android](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Namijenjen Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise u potpunosti je upravljano](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Možete i koristiti sadržaj s [opisom oštrice za otklanjanje poteškoća s otklanjanjem pogrešaka](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) da biste utvrdili koje probleme s upisom korisnici doživljava.
+Prije postavljanja upisa za uređaje sa sustavom Android [Pregledajte unaprijed obavezne uvjete](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
+Informacije o otklanjanju poteškoća s upisom uređaja općenito i nekim pogreškama prilikom upisa u Android potražite [u članku Otklanjanje poteškoća s uvrštenjem uređaja u programu Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-
-
-
+Možete i koristiti sadržaj s opisom oštrice za otklanjanje poteškoća s otklanjanjem pogrešaka da biste utvrdili koje probleme s upisom korisnici doživljava.
