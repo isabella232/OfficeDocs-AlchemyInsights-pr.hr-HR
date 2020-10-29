@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća sa sustavom Office 365 Napredno zaštita od prijetnje
+title: Otklanjanje poteškoća s programom Microsoft Defender za Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658906"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801435"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Otklanjanje poteškoća sa sustavom Office 365 Napredno zaštita od prijetnje
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Otklanjanje poteškoća s programom Microsoft Defender za Office 365
 
 - Primjećujete li kašnjenje u isporuci poruke? Pomoću mogućnosti [dinamičke isporuke](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) u pravilima programa ATP siguran privici. Time će se izbjeći kašnjenje poruka dok se primatelji štite od zlonamjernih datoteka.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658906"
 
   1. Idite na [https://protection.office.com](https://protection.office.com) i prijavite se pomoću računa globalnog administratora ili sigurnosnog administratora.
 
-  2. U lijevoj navigacijskom oknu u odjeljku **Upravljanje prijetnjama**odaberite **Policy** \> **sigurne veze**za pravilnik.
+  2. U lijevoj navigacijskom oknu u odjeljku **Upravljanje prijetnjama** odaberite **Policy** \> **sigurne veze** za pravilnik.
 
-  3. U **pravilima koja se odnose na cijelu tvrtku ili ustanovu** odaberite pravilo, a zatim kliknite **Uredi**.
+  3. U **pravilima koja se odnose na cijelu tvrtku ili ustanovu** odaberite pravilo, a zatim kliknite **Uredi** .
 
-  4. U odjeljku **Postavke**omogućite **primjenu sigurnih veza na poruke poslane unutar tvrtke ili ustanove**.
+  4. U odjeljku **Postavke** omogućite **primjenu sigurnih veza na poruke poslane unutar tvrtke ili ustanove** .

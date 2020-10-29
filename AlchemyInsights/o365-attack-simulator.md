@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759211"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801543"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Simulator napada u programu Microsoft 365
 
-- Jeste li propustili Attack simulator? Simulator napada zahtijeva **office 365 napredni plan zaštite prijetnje 2 (ATP plan 2)** ili **Office 365 Enterprise E5**. Simulator napada nije **uključen u** Office 365 napredni plan zaštite prijetnje 1 (ATP tarifa 1), Office 365 Enterprise E3 ili bilo koje Microsoftove pretplate za tvrtke Microsoft 365.
+- Jeste li propustili Attack simulator? Simulator napada zahtijeva **Microsoft Defender za office 365 tarifu 2 (ATP plan 2)** ili **Office 365 Enterprise E5** . Simulator napada nije **sadržan** u programu Microsoft Defender za Office 365 tarifu 1 (ATP plan 1), Office 365 Enterprise E3 ili bilo koje Microsoftove pretplate za tvrtke Microsoft 365.
 
 - Račun koji koristite za pokretanje simuliranih napada zahtijeva globalne dozvole za administratore ili bezbednosne administratore te multi-Factor provjeru autentičnosti (MFA). Dodatne informacije o preduvjetima za simulator napada potražite u [ovoj temi](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759211"
 
 - Važne informacije koje se odnose na **krađu identiteta** priložite simulacije:
 
-  - Prema dizajnu ne možete pružiti prilagođenu vrijednost za **URL poslužitelja za prijavu krađe identiteta**.
+  - Prema dizajnu ne možete pružiti prilagođenu vrijednost za **URL poslužitelja za prijavu krađe identiteta** .
 
   - Ako primatelj koristi dodatak za [poruku izvješća](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) da bi prijavio poruku kao krađu identiteta, možda nećete primati upozorenja za poruku (jer je to simulirani napad).
 
