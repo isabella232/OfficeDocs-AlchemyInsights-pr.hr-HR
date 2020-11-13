@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674930"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019539"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Eksploratorno iskustvo Microsoftova timova
 
-Eksploratorno iskustvo Microsoftova timova omogućuje korisnicima u vašoj tvrtki ili ustanovi koji imaju Azure Active Directory (AAD) i nisu licencirani za timove da pokrenu eksploracijski doživljaj timova. Administratori mogu uključiti ili isključiti tu značajku za korisnike u svojoj tvrtki ili ustanovi. (Starije testiranje Microsoftova komercijalnog oblaka sada se naziva Eksploracijski doživljaj timova.)
-
-Eksploratorno iskustvo Microsoftova timova dostupno je bez dodatnog troška do sljedeće godišnjice ili obnove u siječnju 2021 ili nakon toga. U tom trenutku krajnji korisnici na licenci za Microsoft Exploratory Experience morat će se premjestiti na plaćenu licencu koja obuhvaća timove.
-
-Dodatne informacije potražite [u članku vođenje Microsoftove licence za Eksploriranje timova](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Što je [istraživački tim](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Eksploratorno iskustvo Microsoftova timova omogućuje korisnicima u vašoj tvrtki ili ustanovi koji nisu licencirani za timove da pokrenu eksploracijski doživljaj timova. Dodatne informacije potražite [u članku što je u Eksploratnim iskustvima timova](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Kada će moja licenca isteći](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Eksplorarno iskustvo programa Microsoft timovi dostupno je bez dodatnog troška do sljedećeg aranžmana ili nakon obnove ili nakon siječnja 2021.
+- Kao administrator možete [nadograditi korisnike u eksploratnoj](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) licenci za timove kupnjom pretplate koja obuhvaća timove, uklanjanjem pretplate na eksploraciju timova od korisnika i dodjeljivanjem novokupljene licence.
+- Dodatne informacije potražite u članku [Upravljanje istraživačkoj licenci za timove.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
