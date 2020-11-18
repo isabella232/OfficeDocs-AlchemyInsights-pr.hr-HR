@@ -14,15 +14,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 4b6ce603b4c47014f8a99a479da55dca3ecc264c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfe51559421c94cda4d3aa53c9baf5265af57224
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718325"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348693"
 ---
 # <a name="all-subscriptions-are-active"></a>Sve su pretplate aktivne
 
-Pretplate su aktivne. To se može provjeriti tako da odete na stranicu **naplata** \> [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) . Pretplate se naručuju prema statusu, s aktivnim pretplatama pri vrhu. Dodatne informacije, kao što su broj licenci i način plaćanja, mogu se vidjeti odabirom pretplate.
+Pretplate su aktivne. To se može provjeriti tako da odete na stranicu **naplata** \> [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) . Pretplate su navedene na kartici **proizvodi** , a status svake pretplate prikazuje se u stupcu **status pretplate** . Da biste saznali više, odaberite pretplatu da biste pogledali stranicu Detalji o pretplati.
   
 Ako tražite uklanjanje aktivnih pretplata ili zatvaranje računa, pročitajte članak [Zatvaranje računa](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).
