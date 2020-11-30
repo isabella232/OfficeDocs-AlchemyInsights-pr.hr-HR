@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947404"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477440"
 ---
 # <a name="lists-app-in-teams"></a>Aplikacija popisi u timovima
 
@@ -27,10 +27,6 @@ Aplikacija popisi u Microsoftovim timovima prikazuje popise na web-mjestima tima
 Popis je unaprijed instaliran za sve korisnike timova i dostupan je izravno u galeriji kartica svakog tima i kanala.
 
 Administratori timova mogu kontrolirati dostupnost aplikacije pomoću pravilnika za dozvole programa Microsoft timovi. Dodatne informacije potražite u članku [Upravljanje pravilima dozvola za aplikacije u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
-
-**Timing:** Početkom rujna i završetka do sredine listopada 2020  
-
-**Odjavu:** Razina tvrtke ili ustanove  
 
 **Vrsta kontrole:**  Upravljanje timovima za administratore  
 
