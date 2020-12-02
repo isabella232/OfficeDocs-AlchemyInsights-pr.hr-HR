@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733283"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529010"
 ---
 # <a name="contact-the-sales-team"></a>Obratite se prodajnom timu
 
-Pomoću poveznika programa Microsoft Graph vaša tvrtka ili ustanova može indeksirati podatke drugih proizvođača da bi se prikazivali u Microsoftovim rezultatima pretraživanja.
+Postoji nekoliko načina za kontaktiranje prodajnog tima za Microsoft 365.
 
-- [Poveznici putem Microsofta](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Poveznici naših partnera](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Dodatne informacije potražite u članku [Pregled poveznika programa Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- Koristite obrazac  [Kontaktirajte nas](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  da bi vam se javio prodajni stručnjak za Microsoft 365.
+- Da biste se obratili stručnjaku za količinsko licenciranje Enterprise sporazuma, počnite s portala  [servisnog centra za količinsko licenciranje](https://go.microsoft.com/fwlink/p/?LinkId=329762) .
