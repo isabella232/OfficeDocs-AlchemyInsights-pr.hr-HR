@@ -10,15 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: ff3b802c91afd762e33c488258fe365fb8584882
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd053bbff803caaa35a56ed49cecef37b9ac7f17
+ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769283"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49668470"
 ---
 # <a name="ose-sharing-errors"></a>Pogreške pri podjeli OSE-a
-
-U članku se obuhvaćaju pogreške na koje možete naići prilikom zajedničkog korištenja datoteka ili mapa iz sustava SharePoint Online ili servisa OneDrive za tvrtke u programu Microsoft 365. Da biste riješili te pogreške, morate biti globalni administrator sustava ili SharePoint u tvrtki ili ustanovi. Ako niste administrator, obratite se službi za pomoć i dajte im svoj kod pogreške.
 
 Da biste saznali više o šiframa pogrešaka u sustavu OSE, pročitajte članak [zajedničko korištenje pogrešaka u sustavu SharePoint i OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

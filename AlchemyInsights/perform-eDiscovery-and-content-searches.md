@@ -14,25 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5ed9e19f590029267368f8d4dcce7e1a85283a26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
+ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721438"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49668506"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Izvođenje pretraživanja sadržaja i pretraživanja prilikom otkrivanja
 
-Pomoću alata za pretraživanje sadržaja u centru za sigurnost & uskladite brzo pronađite e-poštu u poštanskom sandučiću sustava Exchange, dokumentima na web-mjestima sustava SharePoint i računu na servisu OneDrive i razgovorima o razmjeni izravnih poruka u Skypeu za tvrtke. Možete i koristiti alat za pretraživanje sadržaja da biste potražili e-poštu, dokumente i razgovore za razmjenu izravnih poruka u programima Microsoft 365 za suradnju, kao što su Microsoftovi timovi i grupe programa Microsoft 365.
-
-**Izvođenje pretraživanja sadržaja**
+**Da biste izvršili pretraživanje sadržaja, učinite** sljedeće:
 
 1. Idite u [centar za sigurnost &](https://protection.office.com) i prijavite se.
 2. Kliknite **pretraživanje > pretraživanja sadržaja**.
 3. Kliknite **novo pretraživanje** da biste stvorili novo pretraživanje.
-4. Unesite potrebne uvjete pretraživanja, uključujući ključne riječi i mjesta sadržaja.  
+4. Unesite potrebne uvjete pretraživanja, uključujući ključne riječi i mjesta sadržaja.
 5. Kliknite **spremi & Pokreni** da biste dodijelili naziv pretraživanju, pokrenuli ga, a zatim pretpregledali rezultate.
+
+> [!NOTE]
+> U **centru za usklađenost M365** u odjeljku **rješenja** odaberite Proširi **idiscovery** i odaberite željeni alat za otkrivanje.
 
 Detaljne upute o pretraživanju sadržaja, izvozu rezultata i stvaranju slučajeva razotkrivanja za držanje podataka potražite u članku [Pretraživanje sadržaja](https://docs.microsoft.com/microsoft-365/compliance/content-search) i [slučajevi razotkrivanja](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Saznajte više o pretraživanju sadržaja pregledom [zahtjeva i ograničenja](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) i  [istraživanja djelomično indeksiranih stavki](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) i drugih rezultata da biste bili svjesni.
+**Dodatne informacije**:
+
+- Dodatne informacije o alatima za otkrivanje programa Microsoft 365 potražite u članku [idiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Saznajte više o dozvolama, preduvjetima i ograničenjima potrebnih za obavljanje pretraživanja putem e-otkrivanja iz [dozvola potrebnih za pretraživanja](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) i [ograničenja](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)za e-otkrivanje.
+- Ako otklanjate poteškoće s pitanjima otkrivanja, pročitajte članak [otkrivanje otklanjanja poteškoća s običnim pitanjima](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) i [istraživanje djelomično indeksiranih stavki](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
