@@ -12,23 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 693b051eb5f63a9b2eea8bce9321bbf435811269
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89bd5daa05a2466ee58b1686657e234d3c695490
+ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740178"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49676334"
 ---
 # <a name="self-service-password-reset-sspr"></a>Samostalno ponovno postavljanje lozinke (SSPR)
 
-- Kliknite ovdje za [Omogućivanje korisnicima da sami ponovno postavljaju svoje lozinke](https://admin.microsoft.com/Adminportal/Home#/featureexplorer/security/Sspr).  SSPR je prema zadanim postavkama omogućen za administratore.
+- [Planiranje implementacije izvorne postavke samoservisiranja lozinke](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
-- Kliknite ovdje da biste [registrirali podatke za kontakt za SSPR](https://go.microsoft.com/fwlink/?linkid=849451).
+    ili
+- [Registrirajte svoje podatke za kontakt sa sustavom sspr](https://go.microsoft.com/fwlink/?linkid=849451) (sspr je omogućen prema zadanim postavkama za administratore)
 
-Dodatne informacije:
+    Dodatne informacije potražite u članku:
 
-Osnovne postavke za SSPR – [Omogućivanje korisnicima da sami ponovno postavljaju svoje lozinke](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords?view=o365-worldwide).
+    Osnovne postavke za SSPR – [Omogućivanje korisnicima da sami ponovno postavljaju svoje lozinke](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords).
 
-[Najčešća pitanja o SSPR-u](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
+    [Najčešća pitanja o SSPR-u](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
 
-[Otklanjanje poteškoća sa SSPR-om](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
+    [Otklanjanje poteškoća sa SSPR-om](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
