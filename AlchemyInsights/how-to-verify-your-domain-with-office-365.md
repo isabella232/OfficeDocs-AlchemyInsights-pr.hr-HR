@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815525"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683858"
 ---
 # <a name="how-to-verify-your-domain"></a>Provjera domene
 
-Da biste potvrdili domenu, slijedite [Čarobnjak za dodavanje domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)ili ručno otvorite domene za **Postavljanje**  >  **Domains**  >  **dodajte domenu**.
+Da biste potvrdili domenu, slijedite [Čarobnjak za dodavanje domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)ili ručno otvorite domene za **Postavljanje**  >    >  **dodajte domenu**.
 
 Dodatne informacije o DNS promjenama koje su potrebne za provjeru domene potražite u uputama u odjeljku [Dodavanje DNS zapisa za povezivanje domene](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
