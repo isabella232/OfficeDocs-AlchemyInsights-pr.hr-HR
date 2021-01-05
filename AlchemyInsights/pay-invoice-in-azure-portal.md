@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714703"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755611"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Plaćanje fakture na portalu Azure-preporučeni koraci
+
+Na temelju vašeg opisa problema, pronašli smo rješenje za vas. Većina je korisnika mogla samostalno riješiti svoj problem nakon praćenja naše dokumentacije.
 
 Da biste platili fakture na portalu Azure, morate biti administrator računa za naplatu. Administrator računa za naplatu korisnik je koji se izvorno prijavio za račun Microsoftova ugovora o kupcu. 
 
 Da biste platili fakturu na portalu Azure, učinite sljedeće: 
 
 1. Prijavite se na [portal Azure](https://portal.azure.com/).
-1. Pretraživanje za **Upravljanje troškovima + naplata**.
+1. Potražite **Upravljanje troškovima + naplata**.
 1. U levom oknu u odjeljku **naplata** kliknite **fakture**.
 1. Ako je bilo koji od vaših faktura dospijeva ili dospijeće do kraja, prikazat će se veza s plavom **plaćom sada** za tu fakturu. Kliknite **plati odmah**.
 1. U novom sječivu kliknite **Odaberite način plaćanja** da biste odabrali postojeću kreditnu karticu ili dodali novi.

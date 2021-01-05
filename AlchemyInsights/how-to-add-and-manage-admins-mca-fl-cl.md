@@ -1,5 +1,5 @@
 ---
-title: Dodavanje i upravljanje administratorima-MCA FL/CL
+title: Dodavanje administratori i upravljanje njima
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49691961"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755431"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Dodavanje i upravljanje administratorima-MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Dodavanje administratori i upravljanje njima
+
+Na temelju vašeg opisa problema, pronašli smo rješenje za vas. Većina je korisnika mogla samostalno riješiti svoj problem nakon praćenja naše dokumentacije.
 
 Da biste upravljali računom za naplatu za Microsoftov ugovor o kupcu (MCA), možete koristiti razne uloge uz željenu razinu programa Access. Te su uloge osim ugrađenih uloga servisa Azure koje vam pomažu pri kontroli resursa.
 

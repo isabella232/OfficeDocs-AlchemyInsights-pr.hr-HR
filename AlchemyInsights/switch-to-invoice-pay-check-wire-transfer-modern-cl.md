@@ -1,5 +1,5 @@
 ---
-title: Prebacivanje na fakturu Pay (provjera/prijenos žice) – moderni CL
+title: Prijelaz na plaćanje po fakturi (provjera/prijenos žice)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706547"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755447"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Prebacivanje na fakturu Pay (provjera/prijenos žice) – moderni CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Prijelaz na plaćanje po fakturi (provjera/prijenos žice)
+
+Na temelju vašeg opisa problema, pronašli smo rješenje za vas. Većina je korisnika mogla samostalno riješiti svoj problem nakon praćenja naše dokumentacije.
 
 Ako se prebacite na plaćanje po fakturi, to znači da ćete platiti račun u roku od 30 dana od datuma fakture. Da biste postali podobni za plaćanje pretplate na Azure putem fakture, pošaljite zahtjev podršci za Azure. Nakon odobravanja zahtjeva možete prebaciti pretplatu na fakturu Pay na portalu Azure.
 
