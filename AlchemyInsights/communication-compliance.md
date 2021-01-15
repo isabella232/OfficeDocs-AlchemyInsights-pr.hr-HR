@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 33f15f34b93e60d86c0ce185345f40fd0d3809f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713843"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875116"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Usklađenost komunikacija u programu Microsoft 365
 
@@ -42,3 +42,6 @@ Preduvjeti za licenciranje: korisnici koji nadziru komunikacijske politike moraj
 - Pretplata na Office 365 Enterprise E5
 
 Ako nemate ništa od navedenog i želite isprobati usklađenost s komunikacijom, **[prijavite se za probnu verziju sustava Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+
+> [!NOTE]
+> Ako se poruke e-pošte u potpunosti obrađuju u pravilu, može potrajati i do 24 sata. Komunikacija u Microsoftovim timovima, Yammeru i platformama trećih strana može potrajati do 48 sati da bi u potpunosti procesiranja u pravilu.
