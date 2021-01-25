@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 90655fea0b8a7debabdd986bf0f89244d509e8d9
+ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784539"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "49951817"
 ---
 # <a name="set-up-insider-risk-management"></a>Upravljanje rizikom u programu Microsoft Insider
 
-Pomoću pravilnika za upravljanje rizikom za sudionike programa Insider možete identificirati rizične aktivnosti i upravljačke alate kako biste djelovali na temelju upozorenja u vezi s rizicima u svojoj tvrtki ili ustanovi. Prije početka rada s upravljanjem rizikom za sudionike programa Insider potvrdite svoju **pretplatu na Microsoft 365**. Da biste pristupili upravljanju rizikom za sudionike programa Insider i koristili ga, vaša tvrtka ili ustanova **mora** imati jednu od ovih pretplata:
+Da biste pristupili upravljanju rizikom za sudionike programa Insider i koristili ga, vaša tvrtka ili ustanova **mora** imati jednu od ovih pretplata:
 
 - Pretplata na **Microsoft 365 E5**.
 
@@ -28,16 +29,10 @@ Pomoću pravilnika za upravljanje rizikom za sudionike programa Insider možete 
 
 Ako nemate postojeću tarifu za **Microsoft 365 E5** i želite isprobati upravljanje rizikom za sudionike programa Insider, možete dodati Microsoft 365 postojećoj pretplati ili se registrirati za probnu verziju sustava Microsoft 365 Enterprise E5.
 
-Osnovni koraci za korištenje upravljanja rizikom za sudionike programa Insider obuhvaćaju sljedeće:
-
-1. Omogućite dozvole za upravljanje rizikom za sudionike programa Insider.
-
-2. Omogućite zapisnik nadzora.
-
-3. Konfigurirajte preduvjete za predložak (nije obavezno).
-
-4. Konfigurirajte postavke rizika za sudionike programa Insider.
-
-5. Stvorite pravilnik za upravljanje rizikom za sudionike programa Insider.
+> [!SAVJETI]
+- > Upotreba predloška „Curenje podataka”: provjerite jeste li konfigurirali barem jedan pravilnik DLP-a.
+- > Administrator ne vidi upozorenja: provjerite je li korisnik dodijeljen bilo kojoj od sljedećih grupa:
+    - >**Analitičari za upravljanje internim rizicima**
+    - >**Istražitelji za upravljanje internim rizicima**
 
 Dodatne informacije o načinu na koji vam pravilnici za rizike namijenjeni sudionicima programa Insider mogu olakšati upravljanje rizikom u vašoj tvrtki ili ustanovi potražite u članku [Upravljanje rizikom za sudionike programa Insider u sustavu Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
