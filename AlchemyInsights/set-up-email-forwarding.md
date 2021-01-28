@@ -13,16 +13,16 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
+ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49847592"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50037177"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Provjera postavki prosljeđivanja e-pošte za poštanski sandučić
 
-Prvo, prosljeđivanje e-pošte mora biti omogućeno na razini korisnika. Ako ste postavili prosljeđivanje e-pošte na poštanskom sandučiću, ali ne funkcionira, pročitajte odjeljak [Upravljanje automatskim vanjskim prosljeđivanjem e-pošte u programu Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+Prvo, prosljeđivanje e-pošte mora biti omogućeno na razini korisnika. Ako ste postavili prosljeđivanje e-pošte na poštanskom sandučiću, no ne funkcionira (prikazat će vam se pogreška **"550 5.7.520 Access je odbijen, vaša tvrtka ili ustanova ne dopušta vanjsko prosljeđivanje"**) Pročitajte odjeljak [kontrola automatskog prosljeđivanja e-pošte u programu Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
 
 Jednostavno je potvrditi postavke prosljeđivanja e-pošte na poštanskom sandučiću! Samo slijedite ove korake.
   
