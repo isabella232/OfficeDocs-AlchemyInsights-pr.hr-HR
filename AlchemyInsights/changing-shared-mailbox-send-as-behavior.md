@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 6bb54112e775068e567b8cd22313189222287202
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2cc1d4139fb017da2e483ca5cbb7ed14a44f65a
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793642"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075853"
 ---
 # <a name="changing-shared-mailbox-send-as-behavior"></a>Promjena ponašanja slanja za zajednički poštanski sandučić
 
 Poruke poslane iz zajedničkog poštanskog sandučića po zadanom se ne spremaju u mapu poslane stavke u zajedničkom poštanskom sandučiću. Umjesto toga, spremaju se u mapu poslane stavke osobe koja je poslala poruku.
   
-Ako želite da svi članovi vide poslanu poruku e-pošte, u centru za administratore sustava Microsoft 365 uredite zajedničke pojedinosti poštanskog sandučića i odaberite Uredi **poslane stavke** \> **Edit**.
+Ako želite da svi članovi vide poslanu poruku e-pošte, u centru za administratore sustava Microsoft 365 uredite zajedničke pojedinosti poštanskog sandučića i odaberite Uredi **poslane stavke** \> .
   
-Da biste pročitali više, pročitajte članak [stvaranje zajedničkog poštanskog sandučića](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Da biste pročitali više, pročitajte članak [Konfiguriranje postavki zajedničkog poštanskog sandučića](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies).
   
