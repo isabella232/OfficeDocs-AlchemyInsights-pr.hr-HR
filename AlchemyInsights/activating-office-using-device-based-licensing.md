@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697873"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094029"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>Aktivacija sustava Office pomoću licenciranja utemeljenog na uređaju
 
-> [!NOTE]
-> Aktivacija sustava Office na [temelju uređaja](https://aka.ms/officedba) za američke obrazovne korisnike sada je depreduva. Preporučujemo organizacijama da planiraju nove aplikacije za Microsoft 365 za edukaciju (Device) za korisnike za obrazovne ustanove.
+Licenciranje utemeljeno na uređaju za aplikacije Microsoft 365 za Enterprise dostupno je samo kao licenca za neke komercijalne kupce i neke obrazovne korisnike. Detaljne informacije potražite u člancima: [licenciranje utemeljeno na uređaju za aplikacije Microsoft 365 za Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing)
 
-Da biste aktivirali Office pomoću licenciranja utemeljenog na uređaju, morate imati licencu za dodatak Microsoft 365 za edukaciju (Device) koja je dostupna samo za korisnike za obrazovne ustanove i dostupna je samo putem upisa za edukacijske rješenja (EES-ovi). Pogledajte [preduvjete za korištenje licenciranja na temelju uređaja za Microsoft 365 za Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Da biste aktivirali aplikacije Microsoft 365 za Enterprise pomoću licenciranja na uređaju, pročitajte sljedeće:
 
-
-Detaljne informacije o postavljanju potražite u članku:
-
+- [Preduvjeti za korištenje licenciranja za aplikacije Microsoft 365 za Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 - [Koraci za konfiguriranje licenciranja utemeljenog na uređaju za aplikacije Microsoft 365 za Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Upravljanje licencama za uređaje](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
-Upute za otklanjanje poteškoća potražite u članku [Otklanjanje poteškoća s licencama za aplikacije Microsoft 365 za Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+Upute za otklanjanje poteškoća potražite u članku [Otklanjanje poteškoća s licencama za aplikacije Microsoft 365 za Enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+> [!NOTE]
+> Ako su aplikacije programa Microsoft 365 već instalirane i aktivirane pomoću korisničke licence za pretplatu ili zajedničko korištenje računala, morat ćete ponovno postaviti stanje licence na uređaju prije nego što se prebacite na licenciranje utemeljenu na uređaju. Da biste ponovno postavili stanje aktivacije, pročitajte članak [ponovno postavljanje aplikacija Microsoft 365 za stanje aktivacije tvrtke](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
