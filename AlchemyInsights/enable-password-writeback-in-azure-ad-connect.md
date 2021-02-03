@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560432"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093347"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Omogućivanje lozinke za nepotvrđenim u servisu Azure ad Connect
 
@@ -43,4 +43,4 @@ Ako je u servisu Azure ad Connect omogućeno lozinka nepotvrđenim, konfiguriraj
 Dodatne informacije potražite u članku [Omogućivanje izvorne lozinke za samoposluživanje u servisu Azure Active Directory ponovno postavljanje programa nepotvrđenim u lokalno okruženje](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Ako administrator ponovno postavi korisnikovu lozinku na portalu Azure, ako je taj korisnik sinkroniziran ili je postavljen za lozinku, lozinka će biti napisana natrag na lokalno. Ova funkcionalnost trenutno nije podržana na portalu za administratore sustava Office.
+>  Ako administrator ponovno postavi korisnikovu lozinku na portalu Azure, ako je taj korisnik sinkroniziran ili je postavljen za lozinku, lozinka će biti napisana natrag na lokalno. Za tu je funkcionalnost potrebna licenca za Azure Premium (P1 ili P2) i trenutno nije podržana na portalu za administratore sustava Office.
