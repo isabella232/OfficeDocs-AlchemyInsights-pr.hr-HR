@@ -8,18 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681804"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152370"
 ---
 # <a name="change-payment-method"></a>Promjena načina plaćanja
 
@@ -35,6 +34,6 @@ Način plaćanja možete promijeniti u **centru za administratore sustava Micros
 6. U oknu **Dodavanje načina plaćanja** unesite podatke o računu, a zatim odaberite **Spremi**. Morate koristiti način plaćanja iz iste države kao i vaš stanar.
 7. Novi način plaćanja već je odabran na padajućem popisu. Odaberite **Zamijeni**.
 
-Dodatne informacije potražite u članku [Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Informacije o dodavanju, ažuriranju, zamjeni ili brisanju načina plaćanja potražite u članku [Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Da biste doznali kako promijeniti plaćanje kreditnom karticom radi uplate na fakturu, pročitajte članak [Promjena s kreditne kartice ili bankovnog računa na fakturu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
+Upute za promjenu između načina plaćanja potražite [u članku plaćanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
