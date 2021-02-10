@@ -2,43 +2,39 @@
 title: Mogućnosti plaćanja
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce
 - "1639"
 - "9000134"
-ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: b85e96d98e9dead8609cfdc3dfb95552df550af0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: 1ddff99967b62a151711a4c978f5fe35b2a99008
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510204"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152478"
 ---
-# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Mogućnosti plaćanja za pretplate na Microsoft 365 za tvrtke
+# <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Mogućnosti plaćanja pretplate na Microsoft 365 za tvrtke
   
-Kreditna kartica, bankovni račun (izravno terećenje) i faktura (plaća se čekom ili elektroničkim prijenosom sredstava) sve su mogućnosti plaćanja za Microsoft 365 za poslovne pretplate.
+Kreditna kartica, debitna kartica, bankovni račun (izravno terećenje) i faktura (plaćanje čekom ili elektroničkim prijenosom sredstava (EFT)), sve su mogućnosti plaćanja pretplate na Microsoft 365 za tvrtke.
   
-**Plaćanje kreditnom karticom ili prijenosom s bankovnog računa**
+**Plaćanje kreditnom ili debitnom karticom ili prijenosom s bankovnog računa**
   
-Prilikom plaćanja kreditnom karticom ili prijenosom s bankovnog računa automatski će vam se naplatiti pretplata na dan nakon datuma fakture, do kraja razdoblja pretplate. [Načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) možete upravljati kad god je to potrebno. Možete i odabrati [primanje kopije izvješća o naplati kao privitak e-pošte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
-  
-Ako je vaša kreditna kartica odbijena ili je došla do dospijeća, možete odabrati opciju **Podmiri saldo** na **Billing** \> **[stranici Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-  
+Pretplatu možete platiti kreditnom ili debitnom karticom ili pak putem bankovnog računa. Kada plaćate jednim od ovih načina plaćanja, nastavljamo naplaćivati prema tom načinu plaćanja sve dok pretplata ne istekne, ili bude otkazana. Možete [upravljati ovim načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) kad god to trebate. Možete i odabrati [primanje kopije izvješća o naplati kao privitak e-pošte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
+
+Ako je vaša kreditna kartica odbijena ili je plaćanje dospjelo, a vi ste osobno dodali način plaćanja koji ima dospjeli iznos, za plaćanje možete upotrijebiti **Poravnanje salda**. Način plaćanja koji upotrebljavate za plaćanje dospjelog iznosa postaje novi način plaćanja za sve pretplate koje su upotrebljavale odbijeni način plaćanja. Dodatne informacije potražite u odjeljku [Što ako imam nepodmireni iznos?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+
 **Plaćanje nakon ispostave fakture (plaćanje čekom ili elektroničkim prijenosom sredstava)**
   
 Ako vaša pretplata premašuje određeni iznos (taj se iznos razlikuje ovisno o mjestu usluge), postoji mogućnost plaćanja po fakturi prijenosom s bankovnog računa ili čekom. Za veća plaćanja nakon primitka računa možda će biti potrebna provjera kreditne sposobnosti. Ako je potrebna provjera kredita, o tome ćete biti obaviješteni kad kupite pretplatu. Ako ste pristali da vas se kontaktira, dobit ćete poruku e-pošte s dodatnim informacijama o prijavi za provjeru kredita. Provjere kreditnih kartica obično se dovrše u roku od dva radna dana.
-  
-Ako pretplatu plaćate nakon ispostave fakture, primit ćete poruku e-pošte koja vas obavještava da je izvješće o naplati spremno za prikaz. Ta poruka e-pošte ne sadrži izvješće o naplati. No, možete i odabrati [primanje kopije izvješća o naplati kao privitak e-pošte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email). Izvješće o naplati sadrži pojedinosti o načinima plaćanja. Ako prilikom kupnje pretplate unesete broj narudžbenice, broj se prikazuje na izvješću o naplati. Informacije o pristupanju izvješćima o naplati potražite u odjeljku [Prikaz računa ili fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-  
-**Promjena načina plaćanja**
-  
-Ako želite promijeniti način plaćanja trenutne pretplate, slijedite [ovdje](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method) navedene upute.
+
+Ako pretplatu plaćate nakon ispostave fakture, primit ćete poruku e-pošte kad izvješće o naplati bude spremno za prikaz. Ta poruka e-pošte ne sadrži izvješće o naplati. Međutim, možete odabrati [primanje kopije izvješća o naplati kao privitak e-pošte](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). Izvješće o naplati sadrži pojedinosti o načinima plaćanja i kamo ga poslati. Ako prilikom kupnje pretplate unesete broj narudžbenice, broj se prikazuje na izvješću o naplati. Informacije o pristupanju izvješćima o naplati potražite u odjeljku [Prikaz računa ili fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
 **Dodatne informacije**
   
-[Plaćanje pretplate na Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+[Kako platiti pretplatu na Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
