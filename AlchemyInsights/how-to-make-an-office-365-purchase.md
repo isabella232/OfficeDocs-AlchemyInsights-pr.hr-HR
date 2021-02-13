@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287130"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232359"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Stvaranje kupovine Microsoftove 365
 
 Pretplatu na Microsoft 365 možete kupiti u centru za administratore.
   
-- Da biste kupili plan, otvorite **Billing** \> stranicu [nabave servisa](https://go.microsoft.com/fwlink/p/?linkid=868433) za naplatu.
-- Da biste kupili dodatne licence, otvorite stranicu **naplata** \> [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) . Odaberite pretplatu koju želite promijeniti, a zatim odaberite **Kupnja licenci** ili **Uklanjanje licenci**.
+- Da biste kupili plan, otvorite  \> stranicu **[nabave servisa](https://go.microsoft.com/fwlink/p/?linkid=868433)** za naplatu.
+- Da biste kupili dodatne licence, otvorite stranicu **naplata** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Odaberite pretplatu koju želite promijeniti, a zatim odaberite **Kupnja licenci**. \
+**Pogledajte videozapis** u kojem je prikazano kako to učiniti: [Kupnja novih licenci](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Dodatne informacije potražite u članku [Kupnja licenci za pretplatu na Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Dodatne informacije potražite u članku [Kupnja i uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Otklanjanje poteškoća**
 

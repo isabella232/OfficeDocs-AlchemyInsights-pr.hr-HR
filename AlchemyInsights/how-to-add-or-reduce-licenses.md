@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "319"
 - "1500007"
-ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 6b4e488ee10345955f41c7a7a9d4851b670898b9
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307262"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232431"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Dodavanje i uklanjanje licenci za pretplatu
 
-Slijede upute za dodavanje i uklanjanje licenci.
-  
+**Pogledajte videozapis** u kojem je prikazano kako to učiniti: [Kupnja novih licenci](https://go.microsoft.com/fwlink/p/?linkid=2154857) ili [uklanjanje postojećih licenci](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+
 1. U centru za administratore otvorite stranicu **naplata**  >  [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 2. Na kartici **proizvodi** Pronađite pretplatu za koju želite kupiti ili ukloniti licence. Odaberite **Dodatne akcije** (tri točkice), a zatim odaberite **Kupnja licenci**.
 3. Ako želite smanjiti broj licenci, pri vrhu okna **Kupnja licenci** odaberite **Ukloni licence**.
@@ -34,6 +33,6 @@ Informacije o dodjeljivanja licenci potražite [u članku dodjela licenci korisn
 
 **Resursa**
   
-- [Kupnja i uklanjanje licenci za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Kupnja i uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 - [Otkazivanje Microsoftova 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 - [Isprobajte ili kupite pretplatu na Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
