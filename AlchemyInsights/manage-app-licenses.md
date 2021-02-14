@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
+ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232395"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50237560"
 ---
 # <a name="manage-app-licenses"></a>Upravljanje licencama za aplikacije
 
 ## <a name="to-change-license-quantity"></a>Promjena količine licence
+
+**Pogledajte videozapis** u kojem je prikazano kako to učiniti: [Kupnja novih licenci](https://go.microsoft.com/fwlink/p/?linkid=2154857) ili [uklanjanje postojećih licenci](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
 1. Idite na stranicu **naplata**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 2. Na kartici **proizvodi** u odjeljku **aplikacije** Pronađite aplikaciju kojoj želite upravljati. Odaberite **Dodatne akcije** (tri točkice), a zatim odaberite **Kupnja licenci**.
