@@ -1,0 +1,39 @@
+---
+title: Dodavanje globalnog potpisa tvrtke ili izjave o odricanju odgovornosti za sve korisnike
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 12/18/2020
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "1200009"
+- "7310"
+ms.openlocfilehash: ab0d3fc80b41b9017a6917817270438644f770b8
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.translationtype: MT
+ms.contentlocale: hr-HR
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50243266"
+---
+# <a name="add-a-global-company-signature-or-disclaimer-for-all-users"></a>Dodavanje globalnog potpisa tvrtke ili izjave o odricanju odgovornosti za sve korisnike
+
+Savjet: potpis u programu org – Wide naziva se i odricanju odgovornosti, bez obzira na to što sadrži.
+
+1. U centru za administratore odaberite **Exchange centri za administratore**  >  .
+2. U odjeljku tijek pošte odaberite **pravila**.
+3. Kliknite **+** ikonu (Dodaj) pa odaberite **Primijeni odricanja**.
+4. Dodijelite pravilo ime.
+5. U odjeljku Primijeni ovo pravilo odaberite **Primijeni na sve poruke**.
+6. U odjeljku učinite sljedeće ostavite odabranu **izjavu o odricanju odgovornosti** .
+7. Kliknite **Unesi tekst** , a zatim upišite odricanje.
+8. Kliknite **Odaberi jedan**, odaberite **Zamotajte** kao mogućnost povlačenje, a zatim kliknite **u redu**. To znači da ako se odricanje ne može dodati zbog šifriranja ili neke druge postavke e-pošte, ona će biti zamotana u omotnicu poruke.
+9. Prepustite **ovo pravilo reviziji** s odabranom razinom težine. Zatim odaberite niska, Srednja ili visoka koja će se koristiti u zapisniku poruke.
+10. Odaberite **nametanje** da biste odmah uključili odricanje od odgovornosti, osim ako ga želite najprije testirati.
+11. Odaberite **Dodatne mogućnosti** za uvrštavanje dodatnih uvjeta i iznimki.
+12. Kada završite, kliknite **Spremi**.
+13. Potrebna vam je dodatna pomoć? [Pogledajte videozapis o stvaranju odricanja ili Pročitajte cijeli članak.](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72?wt.mc_id=Chat_GlobalSignature)
