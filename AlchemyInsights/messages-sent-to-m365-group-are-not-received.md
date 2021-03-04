@@ -1,27 +1,32 @@
 ---
-title: Svi članovi ne primaju poruke poslane grupi Microsoft 365
+title: Poruke poslane u grupu okruženja Microsoft 365 ne primaju svi članovi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: 2c98841aaa278c1bc18b3ec9007240b1e856f41e
-ms.sourcegitcommit: 743a9e4967993c5463272240280c22e27a8dc5b6
-ms.translationtype: MT
+ms.openlocfilehash: 39a4f8115a4742947b3e6394396be5ce3b01e772
+ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45051485"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50430675"
 ---
-# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a><span data-ttu-id="ddc9c-102">Svi članovi ne primaju poruke poslane grupi microsoft 365</span><span class="sxs-lookup"><span data-stu-id="ddc9c-102">Messages sent to a Microsoft 365 group are not received by all members</span></span>
+# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a><span data-ttu-id="eab7b-102">Poruke poslane u grupu okruženja Microsoft 365 ne primaju svi članovi</span><span class="sxs-lookup"><span data-stu-id="eab7b-102">Messages sent to a Microsoft 365 group are not received by all members</span></span>
 
-<span data-ttu-id="ddc9c-103">Provjerite jesu li svi članovi grupe pretplaćeni za primanje e-poruka.</span><span class="sxs-lookup"><span data-stu-id="ddc9c-103">Make sure that all group members have subscribed to receive the emails.</span></span> <span data-ttu-id="ddc9c-104">Pogledajte [Praćenje grupe u programu Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span><span class="sxs-lookup"><span data-stu-id="ddc9c-104">See [Follow a group in Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span></span>  
+<span data-ttu-id="eab7b-103">Provjerite jesu li se svi članovi grupe pretplatili na primanje poruka e-pošte.</span><span class="sxs-lookup"><span data-stu-id="eab7b-103">Make sure that all group members have subscribed to receive the emails.</span></span> <span data-ttu-id="eab7b-104">Pogledajte [Praćenje grupe u programu Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span><span class="sxs-lookup"><span data-stu-id="eab7b-104">See [Follow a group in Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span></span>  
 
-<span data-ttu-id="ddc9c-105">Da biste provjerili status poruke članova koji su se pretplatili na grupne poruke e-pošte, pokrenite sljedeću naredbu na [EXO PowerShell:](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps)</span><span class="sxs-lookup"><span data-stu-id="ddc9c-105">To check the message status of members who have subscribed to group emails, run the following command on [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps):</span></span>
+<span data-ttu-id="eab7b-105">Da biste provjerili status poruka članova koji su se pretplatili na poruke e-pošte grupe, pokrenite sljedeću naredbu u sustavu [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span><span class="sxs-lookup"><span data-stu-id="eab7b-105">To check the message status of members who have subscribed to group emails, run the following command on [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span></span>
 
 `Get-UnifiedGroup <GroupName> | Get-UnifiedGroupLinks -LinkType Subscribers`
+
+<span data-ttu-id="eab7b-106">Koristite se sljedećom naredbom sustava EXO PowerShell da biste konfigurirali da svi članovi grupe u svoju mapu ulazne pošte primaju poruke e-pošte poslane u grupu okruženja Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="eab7b-106">Use the following EXO PowerShell command to configure all group members to receive emails sent to Microsoft 365 group in their inbox:</span></span>
+
+`$Group = "Address of [Microsoft 365 Groups]"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
