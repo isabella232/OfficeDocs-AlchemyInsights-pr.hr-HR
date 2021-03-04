@@ -1,27 +1,32 @@
 ---
-title: Svi članovi ne primaju poruke poslane grupi Microsoft 365
+title: Poruke poslane u grupu okruženja Microsoft 365 ne primaju svi članovi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: 2c98841aaa278c1bc18b3ec9007240b1e856f41e
-ms.sourcegitcommit: 743a9e4967993c5463272240280c22e27a8dc5b6
-ms.translationtype: MT
+ms.openlocfilehash: 39a4f8115a4742947b3e6394396be5ce3b01e772
+ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45051485"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50430675"
 ---
-# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>Svi članovi ne primaju poruke poslane grupi microsoft 365
+# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>Poruke poslane u grupu okruženja Microsoft 365 ne primaju svi članovi
 
-Provjerite jesu li svi članovi grupe pretplaćeni za primanje e-poruka. Pogledajte [Praćenje grupe u programu Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).  
+Provjerite jesu li se svi članovi grupe pretplatili na primanje poruka e-pošte. Pogledajte [Praćenje grupe u programu Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).  
 
-Da biste provjerili status poruke članova koji su se pretplatili na grupne poruke e-pošte, pokrenite sljedeću naredbu na [EXO PowerShell:](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps)
+Da biste provjerili status poruka članova koji su se pretplatili na poruke e-pošte grupe, pokrenite sljedeću naredbu u sustavu [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):
 
 `Get-UnifiedGroup <GroupName> | Get-UnifiedGroupLinks -LinkType Subscribers`
+
+Koristite se sljedećom naredbom sustava EXO PowerShell da biste konfigurirali da svi članovi grupe u svoju mapu ulazne pošte primaju poruke e-pošte poslane u grupu okruženja Microsoft 365:
+
+`$Group = "Address of [Microsoft 365 Groups]"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
