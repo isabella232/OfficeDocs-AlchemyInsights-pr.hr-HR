@@ -1,8 +1,8 @@
 ---
 title: Kupnja programa Microsoft Defender za Office 365
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801139"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469798"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Kupnja programa Microsoft Defender za Office 365
 
-Microsoft Defender za Office 365 (ATP) sadržan je u određenim pretplatama, kao što su Microsoft 365 E5, Office 365 E5, Office 365 a5 i Microsoft 365 Business Premium. Ako vaša pretplata ne sadrži Office 365 ATP, možete kupiti [ATP tarifu 1ili ATP plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kao dodatak određenoj pretplati. Kupnja u centru za administratore sustava Microsoft 365:
+Microsoft Defender za Office 365 sadržan je u određenim pretplatama, kao što su Microsoft 365 E5, Office 365 E5, Office 365 a5 i Microsoft 365 Business Premium. Ako vaša pretplata ne sadrži Microsoft Defender za Office 365, možete kupiti [Microsoft Defender za office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kao dodatak određenoj pretplati. Kupnja u centru za administratore sustava Microsoft 365:
 
-1. Idite na **Billing**   >   [Usluge nabave](https://go.microsoft.com/fwlink/p/?linkid=868433)za naplatu.
-2. Odaberite stranicu s **dodacima**  iz **drugih kategorija koje bi vas mogle zanimati.**
-3. Odaberite napredni plan zaštite prijetnje koju želite kupiti. Tu možete odabrati i plan za probnu verziju.
-4. Odaberite broj korisnika koji će koristiti naprednu zaštitu od prijetnje.
+1. U centru za administratore otvorite   >  stranicu[nabave servisa](https://go.microsoft.com/fwlink/p/?linkid=868433) za naplatu.
+2. Pri dnu stranice **kupljene usluge** u odjeljku **Dodaci** Pronađite dodatak Microsoft Defender za Office 365, a zatim odaberite **Pojedinosti**.
+3. Na stranici Detalji o proizvodu odaberite **Kupnja**.
+4. Ako je potrebno, ispunite sve druge informacije o narudžbi. Te informacije mogu uključivati odabir pretplate za koju je dodatak namijenjen i broj korisnika koji će ga koristiti. Kada završite, odaberite **odjavu odmah**.
+5. Ako je potrebno, pregledajte informacije o narudžbi i cijenama, a zatim odaberite **dalje**.
+6. Odaberite način plaćanja ili dodajte novu, a zatim odaberite **mjesto Order**  >  **Idite na Home admin**.
 
 Da biste korisnicima dodijelili licence, pročitajte članak [Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 
-Da biste kupili dodatne licence ili uklonili postojeće, pročitajte članak [Dodavanje/uklanjanje licenci za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Informacije o kupnji i uklanjanju licenci potražite u članku [Kupnja ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

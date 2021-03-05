@@ -1,8 +1,8 @@
 ---
 title: Najčešća pitanja o pretplati za tvrtke
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -20,23 +20,24 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 4bcb865a0a54e8d9693314ae3bf14fe0d0ac27cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 80191be73c91faa9fe0fce12eed4c9a6f9ab8507
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685158"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468998"
 ---
 # <a name="business-subscription-faq"></a>Najčešća pitanja o pretplati za tvrtke
 
 - Da biste vidjeli mogućnosti sustava Microsoft 365 za tvrtke, pročitajte članak [Usporedba tarifa za tvrtke](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2). Za dodatne informacije obratite se službi prodaje na tel. 1-855-270-0615.
-- Da biste **kupili** tarifu, idite na **Naplata > [Kupnja usluga](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Odaberite tarifu i broj korisnika. Dodatne informacije potražite u članku [Kupnja pretplate](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- U vezi s **promjenom tarife** pročitajte članak [Ručna promjena tarifa za Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Za **dodjeljivanje korisničkih** licenci idite na **Naplata > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Dodatne informacije potražite u članku [Dodjeljivanje licenci](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Da biste **dodali/uklonili licence**, idite na **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)** te odaberite **Dodaj/ukloni licence**. Dodatne informacije potražite u članku [Dodavanje/uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Da biste **otkazali** licence, idite na **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)**, odaberite **Postavke i akcije**, a zatim kliknite **Otkaži pretplatu**. Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Da biste **kupili** tarifu, idite na **Naplata > [Kupnja usluga](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Odaberite tarifu i broj korisnika. Dodatne informacije potražite u članku [Kupnja druge pretplate](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Da biste **promijenili planove**, pročitajte članak [Nadogradnja na neki drugi plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Da biste korisnicima **dodijelili** licence, otvorite **> [licenci](https://go.microsoft.com/fwlink/p/?linkid=842264)za naplatu**. Dodatne informacije potražite u članku [Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Da biste **kupili ili uklonili** licence, idite na **naplatu > [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Dodatne informacije potražite u članku [Kupnja i uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Da biste **odustali** od pretplate, idite na **naplatu > [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**, odaberite pretplatu, a zatim u odjeljku **postavke pretplate i plaćanja** odaberite Odustani od **pretplate**. Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Da biste **aktivirali** pretplatu, pročitajte članak [Aktivacija pretplate](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Da biste **ponovno aktivirali isteklu pretplatu**, pročitajte članak [Ponovna aktivacija pretplate](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Da biste **produljili probno razdoblje**, pročitajte članak [Produljenje probnog razdoblja](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Da biste **ponovno aktivirali** pretplatu, pročitajte članak [Ponovna aktivacija pretplate](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Da biste  **proširili** probnu verziju, pročitajte članak [proširenje suđenja](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Dodatne informacije pronađite u članku [Upravljanje licencama za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Dodatne informacije potražite u članku [Kupnja i uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

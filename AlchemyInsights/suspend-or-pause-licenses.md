@@ -12,14 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+- commerce
+ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488909"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469998"
 ---
 # <a name="suspend-or-pause-licenses"></a>Obustavljanje i pauziranje licenci
+
+**Pogledajte videozapis** u kojem je prikazano kako to učiniti: [uklanjanje postojećih licenci](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
 Da biste privremeno suspendirali ili pauzirali upotrebu licence, možete ukloniti licence iz centra za administratore sustava Microsoft 365, a zatim ih ponovno dodati kasnije.
 
@@ -29,4 +32,4 @@ Da biste privremeno suspendirali ili pauzirali upotrebu licence, možete uklonit
 4. Na stranici Detalji o pretplati odaberite **Ukloni licence**.
 5. U oknu **Uklanjanje licenci** u okvir **Ukupni dozvola** unesite ukupan broj licenci koje želite za ovu pretplatu, a zatim odaberite **Spremi**. Ako, primjerice, imate 100 licenci i želite obustaviti ili zaustaviti 25, unesite 75 kao ukupnu licencu za pretplatu.
 
-Dodatne informacije pronađite u članku [Upravljanje licencama za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Dodatne informacije potražite u članku [Kupnja i uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

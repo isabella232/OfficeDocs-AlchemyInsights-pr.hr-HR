@@ -2,36 +2,35 @@
 title: Kupnja dodatka Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: 10fde333750415d17f42d75475b16dc802fd024c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693331"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469618"
 ---
 # <a name="purchase-power-bi"></a>Kupnja dodatka Power BI
 
 Power BI se može kupiti u **centru za administratore sustava Microsoft 365**.
 
-1. Idite na stranicu **naplata > [nabave servisa](https://go.microsoft.com/fwlink/p/?linkid=868433) ** .
+1. Idite na stranicu **naplata > [nabave servisa](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
+2. Pomoću okvira za pretraživanje potražite "Power BI".
+3. Odaberite tarifu dodatka Power BI koju želite kupiti, odaberite **Pojedinosti**, a zatim odaberite **kupi**.
+4. Unesite broj licenci koje su vam potrebne i odaberite želite li platiti svakog mjeseca ili za cijelu godinu. Odaberite želite li automatski dodijeliti licence svima koji trenutno nemaju licencu. Zatim odaberite **odjava odmah**.
+5. Pregledajte informacije o cijenama, a zatim odaberite **dalje**.
+6. Navedite podatke o plaćanju, a zatim odaberite **mjesto Order**  >  **otiđite na administratorsku početnu** stranicu.
 
-2. Pomoću okvira za pretraživanje potražite u odjeljku "Power BI".
+Da biste korisnicima dodijelili licence, pročitajte članak [Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-3. Odaberite plan dodatka Power BI koji želite kupiti.
-
-4. Odaberite broj korisnika koji će koristiti Power BI.
-
-Da biste korisnicima dodijelili licence, pročitajte članak [Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-
-Da biste kupili dodatne licence ili uklonili postojeće, pročitajte članak [Dodavanje/uklanjanje licenci za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Da biste kupili više ili uklonili licence, pročitajte članak [Kupnja i uklanjanje licenci za poslovnu pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

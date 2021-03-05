@@ -1,8 +1,8 @@
 ---
 title: Najčešća pitanja o sustavu Microsoft 365 A5
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002872"
 - "5425"
-ms.openlocfilehash: 1d43b144cc9d9b8b26c7db8ebd09430e79a988ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: ec5e0fa7c7656704995f2c04a5cf12076e1eb4fd
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743420"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469916"
 ---
 # <a name="microsoft-365-a5-faq"></a>Najčešća pitanja o sustavu Microsoft 365 A5
 
 - Da biste usporedili tarife za Microsoft 365 Education A1, A3, A5, pogledajte tarife[Za učenike](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) i [Za nastavnike, nastavno osoblje i zaposlenike](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr2).
-- Da biste **kupili** A5, idite na **Naplata > [Kupnja usluga](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Upotrijebite okvir za pretraživanje kako biste pretražili „A5”, odabrali tarifu i broj korisnika. Dodatne informacije potražite u članku [Kupnja pretplate](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
-- U vezi s **promjenom tarife** pročitajte članak [Ručna promjena tarifa za Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Da biste **dodijelili** korisničke licence za A5, idite na**Naplata > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Dodatne informacije potražite u članku [Dodjeljivanje licenci](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Da biste **dodali/uklonili** licence za A5, idite na **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)** te kliknite na **Dodaj/ukloni licence**. Dodatne informacije potražite u članku [Dodavanje/uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Da biste **otkazali** licence za A5, idite na **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)**, odaberite **Postavke i akcije**, a zatim kliknite na **Otkaži pretplatu**. Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
-- Informacije o **aktivaciji** pretplate na A5 pročitajte u članku [Aktivacija pretplate](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Informacije o **ponovnoj aktivaciji** pretplate na A5 pročitajte u članku [Ponovna aktivacija pretplate](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Informacije o produljenju probnog razdoblja za A5 pronađite u članku [Produljenje probnog razdoblja](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Da biste **kupili** A5, idite na **Naplata > [Kupnja usluga](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Pomoću okvira za pretraživanje potražite "a3", a zatim odaberite plan i broj korisnika. [Kupite drugu pretplatu](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Da biste **promijenili planove**, pročitajte članak [Nadogradnja na neki drugi plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Da biste korisnicima **dodijelili** a5 licence, otvorite **> [licenci](https://go.microsoft.com/fwlink/p/?linkid=842264)za naplatu**. Dodatne informacije potražite u članku [Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Da biste **kupili ili uklonili** veze sa programom a5, idite na **naplatu > [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Dodatne informacije potražite u članku [Kupnja i uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Da biste **odustali** od pretplate na a5, idite na **naplatu > [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**, odaberite pretplatu, a zatim u odjeljku **postavke pretplate i plaćanja** odaberite Odustani od **pretplate**. Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Da biste **aktivirali** pretplatu na a5, pročitajte članak [Aktivacija pretplate](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
+- Da biste **ponovno aktivirali** pretplatu na a5, pročitajte članak [Ponovna aktivacija pretplate](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Da biste  **proširili** postupak a5, pročitajte članak [proširenje suđenja](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Dodatne informacije pronađite u članku [Upravljanje licencama za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-
+Dodatne informacije potražite u članku [Kupnja i uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
