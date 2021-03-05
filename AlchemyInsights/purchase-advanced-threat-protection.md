@@ -1,8 +1,8 @@
 ---
 title: Kupnja programa Microsoft Defender za Office 365
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801139"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469798"
 ---
-# <a name="purchase-microsoft-defender-for-office-365"></a><span data-ttu-id="3cab2-102">Kupnja programa Microsoft Defender za Office 365</span><span class="sxs-lookup"><span data-stu-id="3cab2-102">Purchase Microsoft Defender for Office 365</span></span>
+# <a name="purchase-microsoft-defender-for-office-365"></a><span data-ttu-id="2eea1-102">Kupnja programa Microsoft Defender za Office 365</span><span class="sxs-lookup"><span data-stu-id="2eea1-102">Purchase Microsoft Defender for Office 365</span></span>
 
-<span data-ttu-id="3cab2-103">Microsoft Defender za Office 365 (ATP) sadržan je u određenim pretplatama, kao što su Microsoft 365 E5, Office 365 E5, Office 365 a5 i Microsoft 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="3cab2-103">Microsoft Defender for Office 365 (ATP) is included in certain subscriptions, such as Microsoft 365 E5, Office 365 E5, Office 365 A5, and Microsoft 365 Business Premium.</span></span> <span data-ttu-id="3cab2-104">Ako vaša pretplata ne sadrži Office 365 ATP, možete kupiti [ATP tarifu 1ili ATP plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kao dodatak određenoj pretplati.</span><span class="sxs-lookup"><span data-stu-id="3cab2-104">If your subscription does not include Office 365 ATP, you can purchase [ATP Plan 1or ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) as an add-on to certain subscription.</span></span> <span data-ttu-id="3cab2-105">Kupnja u centru za administratore sustava Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="3cab2-105">To purchase in the Microsoft 365 admin center:</span></span>
+<span data-ttu-id="2eea1-103">Microsoft Defender za Office 365 sadržan je u određenim pretplatama, kao što su Microsoft 365 E5, Office 365 E5, Office 365 a5 i Microsoft 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="2eea1-103">Microsoft Defender for Office 365 is included in certain subscriptions, such as Microsoft 365 E5, Office 365 E5, Office 365 A5, and Microsoft 365 Business Premium.</span></span> <span data-ttu-id="2eea1-104">Ako vaša pretplata ne sadrži Microsoft Defender za Office 365, možete kupiti [Microsoft Defender za office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kao dodatak određenoj pretplati.</span><span class="sxs-lookup"><span data-stu-id="2eea1-104">If your subscription does not include Microsoft Defender for Office 365, you can buy [Microsoft Defender for Office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) as an add-on to certain subscription.</span></span> <span data-ttu-id="2eea1-105">Kupnja u centru za administratore sustava Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="2eea1-105">To purchase in the Microsoft 365 admin center:</span></span>
 
-1. <span data-ttu-id="3cab2-106">Idite na **Billing**   >   [Usluge nabave](https://go.microsoft.com/fwlink/p/?linkid=868433)za naplatu.</span><span class="sxs-lookup"><span data-stu-id="3cab2-106">Go to  **Billing**  >  [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>
-2. <span data-ttu-id="3cab2-107">Odaberite stranicu s **dodacima**  iz **drugih kategorija koje bi vas mogle zanimati.**</span><span class="sxs-lookup"><span data-stu-id="3cab2-107">Select **Add-ons**  page from **Other categories that might interest you.**</span></span>
-3. <span data-ttu-id="3cab2-108">Odaberite napredni plan zaštite prijetnje koju želite kupiti.</span><span class="sxs-lookup"><span data-stu-id="3cab2-108">Select the Advanced Threat Protection plan you want to purchase.</span></span> <span data-ttu-id="3cab2-109">Tu možete odabrati i plan za probnu verziju.</span><span class="sxs-lookup"><span data-stu-id="3cab2-109">You may select a Trial plan there as well.</span></span>
-4. <span data-ttu-id="3cab2-110">Odaberite broj korisnika koji će koristiti naprednu zaštitu od prijetnje.</span><span class="sxs-lookup"><span data-stu-id="3cab2-110">Select the number of users who will use Advanced Threat Protection.</span></span>
+1. <span data-ttu-id="2eea1-106">U centru za administratore otvorite   >  stranicu[nabave servisa](https://go.microsoft.com/fwlink/p/?linkid=868433) za naplatu.</span><span class="sxs-lookup"><span data-stu-id="2eea1-106">In the admin center, go to the **Billing** > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+2. <span data-ttu-id="2eea1-107">Pri dnu stranice **kupljene usluge** u odjeljku **Dodaci** Pronađite dodatak Microsoft Defender za Office 365, a zatim odaberite **Pojedinosti**.</span><span class="sxs-lookup"><span data-stu-id="2eea1-107">At the bottom of the **Purchase services** page, in the **Add-ons** section, find the Microsoft Defender for Office 365 add-on, and select **Details**.</span></span>
+3. <span data-ttu-id="2eea1-108">Na stranici Detalji o proizvodu odaberite **Kupnja**.</span><span class="sxs-lookup"><span data-stu-id="2eea1-108">On the product details page, select **Buy**.</span></span>
+4. <span data-ttu-id="2eea1-109">Ako je potrebno, ispunite sve druge informacije o narudžbi.</span><span class="sxs-lookup"><span data-stu-id="2eea1-109">If needed, complete any other order information.</span></span> <span data-ttu-id="2eea1-110">Te informacije mogu uključivati odabir pretplate za koju je dodatak namijenjen i broj korisnika koji će ga koristiti.</span><span class="sxs-lookup"><span data-stu-id="2eea1-110">This information might include selecting the subscription the add-on is for and the number of users who will use it.</span></span> <span data-ttu-id="2eea1-111">Kada završite, odaberite **odjavu odmah**.</span><span class="sxs-lookup"><span data-stu-id="2eea1-111">When you’re finished, select **Check out now**.</span></span>
+5. <span data-ttu-id="2eea1-112">Ako je potrebno, pregledajte informacije o narudžbi i cijenama, a zatim odaberite **dalje**.</span><span class="sxs-lookup"><span data-stu-id="2eea1-112">If needed, review the order and pricing information, then select **Next**.</span></span>
+6. <span data-ttu-id="2eea1-113">Odaberite način plaćanja ili dodajte novu, a zatim odaberite **mjesto Order**  >  **Idite na Home admin**.</span><span class="sxs-lookup"><span data-stu-id="2eea1-113">Choose a payment method, or add a new one, then select **Place order** > **Go to Admin Home**.</span></span>
 
-<span data-ttu-id="3cab2-111">Da biste korisnicima dodijelili licence, pročitajte članak [Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="3cab2-111">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span></span>
+<span data-ttu-id="2eea1-114">Da biste korisnicima dodijelili licence, pročitajte članak [Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="2eea1-114">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span></span>
 
-<span data-ttu-id="3cab2-112">Da biste kupili dodatne licence ili uklonili postojeće, pročitajte članak [Dodavanje/uklanjanje licenci za pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span><span class="sxs-lookup"><span data-stu-id="3cab2-112">To buy more or remove licenses, see [Add/Remove Licenses for subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
+<span data-ttu-id="2eea1-115">Informacije o kupnji i uklanjanju licenci potražite u članku [Kupnja ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).</span><span class="sxs-lookup"><span data-stu-id="2eea1-115">To buy more or remove licenses, see [Buy or remove Licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).</span></span>
