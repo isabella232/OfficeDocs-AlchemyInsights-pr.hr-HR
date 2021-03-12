@@ -12,12 +12,12 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: 13dc77fd2a575fbd227a2a880438b78aaa2c3fb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 88105671ef6dc34553a265937bf1fb3463353963
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658870"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708882"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Otklanjanje poteškoća s upisivanjem uređaja sa sustavom Windows u programu Microsoft Intune
 
@@ -41,6 +41,6 @@ Dodatni resursi koji će vam olakšati rješavanje problema:
   
 -  Koristite [portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili česte neuspjehe upisa. Dodatne pojedinosti potražite u [ovom dokumentu](https://docs.microsoft.com/intune/help-desk-operators) .
 
--  Pregledajte ove dokumente za popis uobičajenih pogrešaka koje sprječavaju upis i rezolucije na svaki: upute za [Otklanjanje poteškoća](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) i [Otklanjanje poteškoća s liječnikom](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Pregledajte ove dokumente za popis uobičajenih pogrešaka koje sprječavaju upis i rezolucije na svaki: upute za [Otklanjanje poteškoća](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) i [Otklanjanje poteškoća s liječnikom](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
 
 [Naučite kako upisati uređaje sa sustavom Windows u programu Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).

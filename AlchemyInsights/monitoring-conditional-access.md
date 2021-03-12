@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: 0687875a3714067e774872d02630564858d71d1b
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366420"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708666"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Praćenje uvjetnog pristupa za Exchange
 
@@ -27,7 +27,7 @@ Korisnici usmjereni na uvjetni pristup primit će obavijest e-poštom ako ne zad
 - Na portalu Azure idite na Intune > usklađenosti uređaja. U odjeljku Upravljanje kliknite pravila. Na popisu pravilnika o usklađenosti provjerite je li profil dodijeljen vašem korisničkom uređaju. Ako nijedan profil nije dodijeljen, zatim Intune neće moći potvrditi status usklađenosti uređaja.
 - Uredite korisnički zadatak uvjetnog pristupa.
 
-1. Na portalu Azure idite na umetanje **Intune**  >  pravilnika o**uvjetnom pristupu**  >  **Policies**.
+1. Na portalu Azure idite na umetanje   >  pravilnika o **uvjetnom pristupu**  >  .
 2. Na popisu odaberite pravilo.
 3. Kliknite Korisnici i grupe.
 4. Da biste neku određenu politiku usmjerili na nekoga, dodajte ih na popis uvrštavanje. Da biste bili sigurni da je osoba izostavljena iz pravilnika, dodajte ih na popis za izuzimanje.
@@ -38,8 +38,8 @@ Korisne veze:
 
 [Otklanjanje poteškoća sa com](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Pravilnik o otklanjanju poteškoća](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Pravilnik o otklanjanju poteškoća](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
 [Praćenje usklađivanja uređaja](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Pažnja: ovi su koraci korisni samo u otklanjanju poteškoća s uvjetnim pristupom značajke Azure Active Directory. Moguće je i karantensku napravu koja blokira pristup e-pošti putem pravilnika sustava Exchange. Dodatne informacije o upravljanju uređajima sustava Exchange možete pronaći [ovdje](<https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141>).
+Pažnja: ovi su koraci korisni samo u otklanjanju poteškoća s uvjetnim pristupom značajke Azure Active Directory. Moguće je i karantensku napravu koja blokira pristup e-pošti putem pravilnika sustava Exchange. Dodatne informacije o upravljanju uređajima sustava Exchange možete pronaći [ovdje] ( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .

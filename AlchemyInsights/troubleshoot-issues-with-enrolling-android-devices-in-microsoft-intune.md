@@ -13,12 +13,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689946"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708990"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Otklanjanje poteškoća s upisivanjem uređaja sa sustavom Android u programu Microsoft Intune
 
@@ -34,7 +34,7 @@ Neki Česti problemi i koraci sanacije:
 
 2. Ažurirajte uređaj na Android 6,0 ili noviji.
 
-3. Onemogućite Samsung Smart Manager da upravlja putem portala Intune Company. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) da biste saznali više o tim pitanjima i rezolucijama.
+3. Onemogućite Samsung Smart Manager da upravlja putem portala Intune Company. Pregledajte [ovaj dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) da biste saznali više o tim pitanjima i rezolucijama.
 
  **Vrsta korisničke licence nije valjana** ili **korisničko ime nije prepoznata pogreška:** korisniku je potrebno dodijeliti licencu za Intune ili EMS. Pregledajte ove dokumente da biste dodijelili licencu putem: centar za administratore sustava Office ili portal Azure.
   
@@ -42,6 +42,6 @@ Dodatni resursi koji će vam olakšati rješavanje problema:
   
 1. Koristite [portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili česte neuspjehe upisa. Dodatne pojedinosti potražite u [ovom dokumentu](https://docs.microsoft.com/intune/help-desk-operators) .
 
-2. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) radi popisa uobičajenih pogrešaka koji sprječavaju upis i rezolucije na svaki od njih.
+2. Pregledajte [ovaj dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) radi popisa uobičajenih pogrešaka koji sprječavaju upis i rezolucije na svaki od njih.
 
 3. Upute [za upis uređaja sa sustavom Android u programu Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).
