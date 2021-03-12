@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: 94d8eec4f10e3df5ccdd891b7ae12c97bbb4d594
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd03c7549cf7669f79a84ba7227239b8e6e73103
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724391"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707622"
 ---
 # <a name="compromised-email-accounts"></a>Kompromitirani računi e-pošte
 
 Postoji nekoliko koraka koje možete poduzeti da biste povećali sigurnost u tvrtki ili ustanovi:
 
-- **Omogućivanje višestruke provjere autentičnosti (MFA)**: ako je račun kompromitiran, vraćanje izvorne lozinke i omogućivanje višestruke provjere autentičnosti dobar je način da se pobrinete da se to više ne dogodi. Ako se kompromitirani račun koristio za slanje neželjene e-pošte, slanje e-pošte s njega vjerojatno je blokirano (čak i nakon što poduzmete odgovarajuće korake da biste ga zaštitili). Upute za uklanjanje korisnika s popisa blokiranih računa potražite u [ovoj temi](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx).
+- **Omogućivanje višestruke provjere autentičnosti (MFA)**: ako je račun kompromitiran, vraćanje izvorne lozinke i omogućivanje višestruke provjere autentičnosti dobar je način da se pobrinete da se to više ne dogodi. Ako se kompromitirani račun koristio za slanje neželjene e-pošte, slanje e-pošte s njega vjerojatno je blokirano (čak i nakon što poduzmete odgovarajuće korake da biste ga zaštitili). Da biste korisnika uklonili s popisa blokiranja, pročitajte članak [Korištenje portala za poništavanje popisa da biste se uklonili s popisa blokirani pošiljatelji](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis).
 
 - **Pokretanje alata za razinu sigurnosti sustava Office 365**: alat za razinu sigurnosti provodi detaljnu analizu sigurnosnih postavki u tvrtki ili ustanovi i daje preporuke za povećavanje razine sigurnosti.
 
