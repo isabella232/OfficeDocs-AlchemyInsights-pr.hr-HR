@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794326"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704598"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Upravljanje pravilima sastanka u Microsoftovim timovima
 
@@ -30,6 +30,6 @@ Dodatne informacije o pravilima sastanka potražite u sljedećim resursima:
 - Da biste saznali više o stvaranju pravilnika, promjenama i dodjeljivanju korisnika u pravilnik, pročitajte članak [Upravljanje pravilima sastanka u timovima](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
 - Da biste promijenili politiku pomoću cmdleta u komponenti PowerShell, pročitajte članak [Prikaz aplikacije PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Da biste koristili pravila sastanka za timove, morate koristiti module za sastanke u programu [Skype za tvrtke](https://www.microsoft.com/download/details.aspx?id=39366) . 
+    - Da biste koristili pravila sastanka za timove, morate koristiti module za sastanke u programu [Skype za tvrtke](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) . 
     - Dodatne informacije potražite u [dokumentaciji za cmdlete *-csteamsmeetingpolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) .
 

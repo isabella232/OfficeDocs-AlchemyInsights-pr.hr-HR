@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236081"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704922"
 ---
 # <a name="unable-to-activate-office"></a>Nije moguće aktivirati Office
 
 - Provjerite je li status vaše pretplate istekao.
-- Provjerite imate li pretplatu koja omogućuje klijentske licence, kao što je Office 365 Business ili Business Premium te [Provjerite je li korisnik dodijelio licencu](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Provjerite imate li pretplatu koja omogućuje klijentske licence, kao što je Office 365 Business ili Business Premium te [Provjerite je li korisnik dodijelio licencu](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Provjerite je li se korisnik prijavljuje u Office s pomoću istog računa na koji je dodijeljena licenca.
 - Da biste saznali postoje li poznati problemi sa servisom, pogledajte članak [Stranica o stanju servisa za Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 - Provjerite vatrozid, antivirusni softver i postavke proxy poslužitelja da biste potvrdili da ne blokiraju pristup aplikacijama programa Microsoft 365 na Internet. Pogledajte [URL-ovi i rasponi IP adresa za Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "URL-ovi i rasponi IP adresa za Office 365").
