@@ -14,19 +14,19 @@ ms.custom:
 - "3173"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 7820c37d503baba8b8433b647576b194ce002905
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc2d8c874b1b8ef850deea6816835dbab237fbeb
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797756"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708234"
 ---
-# <a name="restore-deleted-files-or-folders-in-sharepoint"></a><span data-ttu-id="ca0f2-102">Vraćanje izbrisanih datoteka ili mapa u sustavu SharePoint</span><span class="sxs-lookup"><span data-stu-id="ca0f2-102">Restore deleted files or folders in SharePoint</span></span>
+# <a name="restore-deleted-files-or-folders-in-sharepoint"></a><span data-ttu-id="80619-102">Vraćanje izbrisanih datoteka ili mapa u sustavu SharePoint</span><span class="sxs-lookup"><span data-stu-id="80619-102">Restore deleted files or folders in SharePoint</span></span>
 
-<span data-ttu-id="ca0f2-103">Ako slučajno izbrišete datoteku ili mapu u sustavu SharePoint, možda ćete je kasnije moći oporaviti iz koša za smeće.</span><span class="sxs-lookup"><span data-stu-id="ca0f2-103">If you accidentally delete a file or folder in SharePoint, you may be able to recover it later from the recycle bin.</span></span>
+<span data-ttu-id="80619-103">Ako slučajno izbrišete datoteku ili mapu u sustavu SharePoint, možda ćete je kasnije moći oporaviti iz koša za smeće.</span><span class="sxs-lookup"><span data-stu-id="80619-103">If you accidentally delete a file or folder in SharePoint, you may be able to recover it later from the recycle bin.</span></span>
 
-* [<span data-ttu-id="ca0f2-104">Vraćanje izbrisanih datoteka ili mapa u sustavu SharePoint</span><span class="sxs-lookup"><span data-stu-id="ca0f2-104">Restore deleted files or folders in SharePoint</span></span>](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+* [<span data-ttu-id="80619-104">Vraćanje izbrisanih datoteka ili mapa u sustavu SharePoint</span><span class="sxs-lookup"><span data-stu-id="80619-104">Restore deleted files or folders in SharePoint</span></span>](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
-<span data-ttu-id="ca0f2-105">Ako se mnogo datoteka sustava SharePoint izbriše, prebriše, ošteti ili inficira zlonamjernim softverom, možete vratiti cijelu biblioteku sustava SharePoint u prethodno vrijeme.</span><span class="sxs-lookup"><span data-stu-id="ca0f2-105">If lots of your SharePoint files get deleted, overwritten, corrupted, or infected by malware, you can restore your entire SharePoint library to a previous time.</span></span>
+<span data-ttu-id="80619-105">Ako se mnogo datoteka sustava SharePoint izbriše, prebriše, ošteti ili inficira zlonamjernim softverom, možete vratiti cijelu biblioteku sustava SharePoint u prethodno vrijeme.</span><span class="sxs-lookup"><span data-stu-id="80619-105">If lots of your SharePoint files get deleted, overwritten, corrupted, or infected by malware, you can restore your entire SharePoint library to a previous time.</span></span>
 
-* [<span data-ttu-id="ca0f2-106">Vraćanje biblioteke dokumenata</span><span class="sxs-lookup"><span data-stu-id="ca0f2-106">Restore a document library</span></span>](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+* [<span data-ttu-id="80619-106">Vraćanje biblioteke dokumenata</span><span class="sxs-lookup"><span data-stu-id="80619-106">Restore a document library</span></span>](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
