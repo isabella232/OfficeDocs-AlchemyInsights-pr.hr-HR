@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667834"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708342"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Instalacija klijentskih aplikacija sustava Office na PC ili Mac
 
 Da biste instalirali klijentske aplikacije sustava Office, provjerite imate li pretplatu na Office 365 ili Microsoft 365 koja [obuhvaća klijentske aplikacije sustava Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), kao što je npr. Microsoft 365 Business Standard, Microsoft 365 Apps za tvrtke ili Microsoft 365 Apps za velike tvrtke.
 
-**Napomena**: [Office Home and Business](https://products.office.com/home-and-business) proizvod je iz kategorije [Office za kućnu upotrebu](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) te nije dio pretplate za tvrtke. Project Online Essentials ne obuhvaća računalnu verziju programa Project, pa nije potrebna instalacija. Korisnici tarife 1 za Visio mogu pristupati aplikaciji Visio na webu jer ta tarifa ne obuhvaća računalnu verziju programa Visio. Računalne verzije programa Project i Visio nisu dostupne na Macu.
+**Napomena**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) proizvod je iz kategorije [Office za kućnu upotrebu](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) te nije dio pretplate za tvrtke. Project Online Essentials ne obuhvaća računalnu verziju programa Project, pa nije potrebna instalacija. Korisnici tarife 1 za Visio mogu pristupati aplikaciji Visio na webu jer ta tarifa ne obuhvaća računalnu verziju programa Visio. Računalne verzije programa Project i Visio nisu dostupne na Macu.
 
 Ako imate pretplatu koja sadrži aplikacije Microsoft 365, nećete vidjeti mogućnost instalacije ako nemate [dodijeljenu licencu](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ako ste administrator sustava Office 365 odgovoran za dodjelu licenci, pročitajte članak [Dodjela licenci korisnicima](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Uz to, pomoću [postavki preuzimanja softvera sustava Office](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) možete odabrati hoće li korisnici moći instalirati aplikacije sustava Office na vlastite uređaje.
 
