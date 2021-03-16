@@ -1,10 +1,11 @@
 ---
-title: Neprimjetni problemi s prijavom u SSO
-ms.author: v-jmathew
-author: v-jmathew
-manager: scotv
-ms.audience: Admin
+title: Otklanjanje poteškoća s Neometanjem jedinstvenog korisničkog prijavnog pitanja (SSO)
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+audience: Admin
 ms.topic: article
+ms.date: 03/16/2021
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
@@ -12,37 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7811"
-ms.openlocfilehash: 347ef8f8176583f2a7c15fa82435eeb118b58c39
-ms.sourcegitcommit: 67c873fa6e23ec39a826d60ac830969073bf79e1
+ms.openlocfilehash: 6b892cc9803c6b0ead40b8fdda2cf881614f976f
+ms.sourcegitcommit: 0acb849a211b3ae6378ae47c9574a73994981db6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935093"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50828683"
 ---
-# <a name="seamless-sso-user-sign-in-issues"></a>Neprimjetni problemi s prijavom u SSO
+# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Otklanjanje poteškoća s Neometanjem jedinstvenog korisničkog prijavnog pitanja (SSO)
 
-Kada korisnik potvrdi autentičnost, preglednik će predmemorirati korisničke vjerodajnice da bi se u istom pregledniku aplikacija automatski prijavila s istim računom. To može otežati drugom korisniku ili jednom korisniku da se prijavljuje na više računa na jednom uređaju. Da biste riješili ovaj: 1. Pokušajte se prijaviti u neki drugi preglednik. 2. Poništite predmemoriranje i/ili kolačiće preglednika, a zatim se pokušajte ponovno prijaviti.
+Da biste riješili bešavne pojedinačne probleme s prijavom (SSO), upotrijebite sljedeće preporučene resurse:
 
-Ako i dalje nailazite na probleme s prijavom, preporučujemo sljedeće da dijagnosticirajte i automatizirati korake sanacije:
+- [Neočekivan pristanak pri prijavi u aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
+- [Neočekivana pogreška prilikom izvođenja pristanka na aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
+- [Otklanjanje poteškoća s prijavom u aplikaciju iz servisa Azure AD moje aplikacije](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
+- [Na stranici aplikacije prikazuje se poruka o pogrešci nakon što se korisnik prijavi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
+- [Problemi s prijavom u Microsoftovu aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
+- [Problemi prilikom prijave na pojedinačne aplikacije koje se temelje na jednom servisu](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
 
-1. Instalirajte [proširenje preglednika moje aplikacije](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-extension-problem-installing) da biste pomogli servisu Azure Active Directory (Azure AD) da osiguraju bolju dijagnozu i rezolucije prilikom korištenja iskustva s testiranjem na portalu Azure.
-2. Reproducirat će se pogreška pomoću iskustva testiranja na stranici za konfiguraciju aplikacija na portalu Azure. Dodatne informacije potražite u članku [Primjena pojedinačnih prijava u programu debug SAML](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-v1-debug-saml-sso-issues).
-3. Ako koristite iskustvo testiranja na portalu Azure uz proširenje preglednika moje aplikacije, možete **preskočiti četvrti korak**.
-4. Da biste otvorili stranicu s jedinstvenom prijavom na SAML-u:
-    - Otvorite [portal Azure](https://portal.azure.com/) i prijavite se kao **globalni administrator** ili **koadministrator**.
-    - Otvorite **datotečni nastavak Azure Active Directory** tako da odaberete **sve servise** pri vrhu glavnog navigacijskih izbornika na lijevoj strani.
-    - U okvir za pretraživanje filtra upišite "Azure Active Directory" i odaberite stavku **Azure Active Directory** .
-    - Odaberite **Enterprise Applications** iz navigacijskog izbornika Azure Active Directory na lijevoj strani.
-    - Odaberite **sve aplikacije** da biste prikazali popis svih aplikacija. Ako ne vidite aplikaciju koju želite ovdje prikazati, pomoću kontrole **filtriranja** pri vrhu **popisa sve aplikacije** postavite mogućnost **Prikaži** na **sve aplikacije**.
-    - Odaberite aplikaciju koju želite konfigurirati za jedinstvenu prijavu.
-    - Kada se aplikacija učitava, odaberite **jedinstvenu prijavu** na navigacijskom izborniku aplikacije na lijevoj strani.
-    - Kliknite **SSO na temelju saml-** a.
-5. Na temelju pogreške Saznajte više o preporučenim koracima koje treba slijediti potražite [u članku problemi prilikom prijave na pojedinačne aplikacije koje se temelje na jednom prijavom na SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#application-not-found-in-directory).
-6. Da biste otklonili poteškoće s drugim korisničkim znakovima, obratite se sljedećim smjernicama:
-    - [Single Sign-On SAML protokol](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
-    - [Otklanjanje poteškoća s prijavom pomoću izvješća servisa Azure Active Directory](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-troubleshoot-sign-in-errors)
-    - [Neočekivan upit za pristanak](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt)
-    - [Pogreška korisničkog pristanka](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
-    - [Problemi s prijavom iz mojih aplikacija](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
-    - [Pogreška na stranici za prijavu u aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
-    - [Problem prilikom prijave u Microsoftovu aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft)
+Da biste unijeli zahtjeve za značajku ili postavljajte tehnička pitanja o Bešavnu SSO, pročitajte članak [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).
+
