@@ -5,42 +5,43 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: dbc199781dbac03d6c93aa95ace5270622ae987e
-ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
-ms.translationtype: MT
+ms.openlocfilehash: b15939c264a39687b4d93874553e5af7b3f7fe8d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44264342"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686310"
 ---
 # <a name="battery-wont-charge"></a>Baterija se neće puniti
 
-Najprije provjerite jesu li veze sigurne. Preporučujemo da koristite samo originalno Microsoftovo ili Microsoftovo napajanje.
+Najprije provjerite jesu li priključci sigurni. Svakako preporučujemo da upotrebljavate samo originalno Microsoftovo napajanje ili napajanje koje je licencirao Microsoft.
 
-Drugo, pokušajte isključiti Surface i napuniti najmanje 30 minuta. Zatim ga ponovno uključite da biste vidjeli je li to riješilo problem.
+Zatim pokušajte isključiti uređaj Surface i punite ga najmanje 30 minuta. Zatim ga ponovo uključite i provjerite je li se problem time otklonio.
 
-**Priključeno, ali ne i punjenje**
+**Uređaj je priključen, no ne puni se**
 
-Ako se ikona baterije na programskoj traci prikazuje **Uključeno, a ne punjenje**, to znači da Surface prepoznaje napajanje, ali ne puni bateriju. Surface se može isključiti kada ga isključite iz utičnice. Probati ovaj:
+Ako ikona baterije na programskoj traci pokazuje **Uređaj je priključen, no ne puni se**, to znači da uređaj Surface prepoznaje napajanje, no njegova se baterija ne puni. Uređaj Surface možda će se uključiti kada ga odspojite. Isprobajte ovo:
 
-1. Priključite Surface.
-2. Odaberite okvir za pretraživanje na programskoj traci, upišite **upravitelj uređaja**, a zatim s popisa rezultata odaberite **Upravitelj uređaja.**
-3. Kliknite strelicu pokraj **kategorije Baterije.**
-4. Dvaput dodirnite ili dvokliknite **Microsoft Surface ACPI-compliant Control Method Battery**, odaberite karticu Upravljački **program,** a zatim kliknite **Deinstaliraj > U redu**.
-5. Odaberite računalo pri vrhu svih kategorija, odaberite izbornik **Akcija,** a zatim kliknite **Potraži promjene hardvera**.
-6. Ostavite Surface priključenim.
+1. Priključite uređaj Surface.
+2. Odaberite okvir za pretraživanje na programskoj traci, unesite **upravitelj uređaja** i zatim odaberite **Upravitelj uređaja** s popisa rezultata.
+3. Kliknite strelicu pokraj kategorije **Baterije**.
+4. Dvaput dodirnite ili dvaput kliknite **Metoda kontrole baterije za Microsoft Surface u skladu s ACPI-jem**, odaberite karticu **Upravljački program** i kliknite **Deinstalacija > U redu**.
+5. Odaberite računalo pri vrhu svih kategorija, odaberite izbornik **Radnje** i zatim kliknite **Provjeri postoje li hardverske promjene**.
+6. Pobrinite se da uređaj Surface ostane priključen.
 
-Nakon što uklonite upravljački program za bateriju, instalirajte ažuriranja za Surface i Windows. Pojedinosti [potražite u članku Ažuriranje firmvera za Surface i sustava Windows 10.](https://support.microsoft.com/help/4023505) Provjeri bateriju. Ako i dalje ima problema, pročitajte način [Prisilno isključivanje i ponovno pokretanje uređaja Surface](https://support.microsoft.com/help/4036280/surface-force-a-shut-down-and-restart-your-surface).
+Nakon što uklonite upravljački program baterije, instalirajte ažuriranja za uređaj Surface i sustav Windows. Dodatne pojedinosti potražite u članku [Ažuriranje firmvera uređaja Surface i sustava Windows 10](https://support.microsoft.com/help/4023505). Provjerite bateriju. Ako i dalje dolazi do problema, pročitajte članak [Prisilno isključivanje i ponovno pokretanje uređaja Surface](https://support.microsoft.com/help/4036280/surface-force-a-shut-down-and-restart-your-surface).
 
-**Dodatne informacije o otklanjanju poteškoća**
+**Više informacija za otklanjanje poteškoća**
 
-LED svjetlo treba biti uključeno kada je priključak napajanja priključen u Surface. Ako je isključen, treperi ili treperi bijelo, provjerite [Što učiniti ako napajanje uređaja Surface ili punjač ne radi](https://support.microsoft.com/help/4484763/surface-fix-issues-with-your-power-supply). 
+LED žaruljica morala bi biti uključena kada je strujni poveznik priključen u uređaj Surface. Ako je isključena, treperi ili naizmjenično svijetli bijelom bojom, pročitajte članak [Što učiniti kada napajanje ili punjač za uređaj Surface ne funkcionira](https://support.microsoft.com/help/4484763/surface-fix-issues-with-your-power-supply). 
 
-Ako imate problema s uređajem Surface Book, provjerite je li zaslon u potpunosti priključen na tipkovnicu. Ako se i dalje ne puni, uklonite zaslon i očistite priključke gumicom za olovkom. Možda ćete htjeti očistiti igle na dugom, uskom dijelu punjača koji priključite na Surface i provjerite jesu li pribadače suhe.
+Ako imate problema s uređajem Surface Book, provjerite je li zaslon u potpunosti priključen na tipkovnicu. Ako se i dalje neće puniti, uklonite zaslon i očistite poveznike gumicom za brisanje. Također, možda biste morali očistiti i zatike na dugačkom, uskom dijelu punjača koji se priključuje u uređaj Surface te provjeriti jesu li zatici suhi.
 
-Da biste vidjeli više načina otklanjanja poteškoća s baterijom, provjerite [da se baterija uređaja Surface ne puni ili surface neće raditi na bateriji](https://support.microsoft.com/help/4023536/surface-surface-battery-wont-charge).
+Ako želite vidjeti više načina za otklanjanje poteškoća s baterijama, pročitajte članak [Baterija uređaja Surface neće se puniti ili uređaj Surface neće raditi na bateriju](https://support.microsoft.com/help/4023536/surface-surface-battery-wont-charge).
