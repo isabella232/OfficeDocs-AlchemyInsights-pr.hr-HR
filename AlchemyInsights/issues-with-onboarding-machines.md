@@ -1,5 +1,5 @@
 ---
-title: Problemi s uređajima za ukrcavanje
+title: Problemi s uređajima za ukrcavanje u Microsoft Defender za krajnje točke
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676874"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901559"
 ---
-# <a name="issues-with-onboarding-machines"></a>Problemi s uređajima za ukrcavanje
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Problemi s uređajima za ukrcavanje u Microsoft Defender za krajnje točke
 
-Možda imate problema s uređajima za ukrcavanje na servisu MDATP. Ako možete pristupiti stroju krajnjeg korisnika, slijedite ove korake:
+Možda imate problema s uređajima za ukrcavanje na servisu MDE. Ako možete pristupiti stroju krajnjeg korisnika, slijedite ove korake:
 
-1. Preuzmite dijagnostički alat za [analizu povezivanja s klijentom](https://aka.ms/mdatpanalyzer) .
-2. Ekstrakt i trčanje MDATPAnalyzer. cmd.
-3. Pronađite Dijagnostički zapisnik u mapi Mdatpclientanalyzer, istoj mapi u kojoj je preuzeta alat za analizu.
-4. Pregledajte datoteku zapisnika, MDATPClientAnalyzer.txt i potražite probleme s postavkama internetske veze.
+1. Preuzmite najnoviju verziju pretpregleda dijagnostičkog alata [MDE Client Analyzer](https://aka.ms/betamdeanalyzer) .
+2. Desnom tipkom miša kliknite **Mdeclientanalyzer. cmd** , a zatim odaberite "Pokreni kao administrator".
+3. Slijedite sve smjernice predložene u **MDEClientAnalyzer.htm**.
+4. Da biste dobili više verbose zapisnika, pregledajte kreirani podmapu pod nazivom **Mdeclientanalyzerresult**.
+5. Ako je potrebno dodatno navođenje, obratite se [Microsoftovoj branitelju za podršku za krajnje točke](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) i navedite MDEClientAnalyzerResult.zip datoteku za analizu.
