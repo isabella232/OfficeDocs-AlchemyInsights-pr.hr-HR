@@ -2,7 +2,7 @@
 title: Kako instalirati Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,19 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 7f61ff7eb02371790ecb335841244eddb2bcbb2e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: d2e11c59f3b47095e272a5c27446e584ed90c879
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707730"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200629"
 ---
 # <a name="how-to-install-office"></a>Kako instalirati Office
 
-Da biste instalirali klijentske aplikacije sustava Office, provjerite imate li poslovnu pretplatu kao što su Microsoft 365 Business Premium, aplikacije za tvrtke okruženja Microsoft 365 ili Microsoft 365 Education.
+Da biste instalirali klijentske aplikacije sustava Office, provjerite imate li poslovnu pretplatu kao što su Microsoft 365 Business Standard, aplikacije za tvrtke okruženja Microsoft 365 ili Office 365 Education.
   
-*NAPOMENA: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) proizvod je sustava [Office za kućnu upotrebu](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) te nije dio poslovne pretplate. Posebne upute za Visio ili Project potražite u člancima [Instalacija programa Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ili [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
+> [!NOTE]
+> [Office Home and Business](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) proizvod je iz kategorije [Office za kućnu upotrebu](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) te nije dio pretplate za tvrtke. Posebne upute za program Visio ili Project potražite u člancima [Instalacija programa Visio](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) ili [Instalacija programa Project](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).
 
 Stvorite korisničke račune i dodajte domenu. Provjerite ima li korisnik [dodijeljenu licencu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
