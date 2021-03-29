@@ -1,5 +1,5 @@
 ---
-title: Pravila grupe u pregledniku Microsoft Edge
+title: Pravilnik grupe u pregledniku Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,14 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003841"
+- "9004632"
 - "6890"
-ms.openlocfilehash: 7752d3f5d1a567b4b9e61818ad80599ef5cda056
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8362"
+ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583225"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403339"
 ---
-# <a name="group-policies-in-microsoft-edge"></a>Pravila grupe u pregledniku Microsoft Edge
+# <a name="group-policies-in-microsoft-edge"></a>Pravilnik grupe u pregledniku Microsoft Edge
 
-Koristite [pravila grupe](https://go.microsoft.com/fwlink/?linkid=2134623) dostupne u pregledniku Microsoft Edge (verzija 77 ili novija) da biste odredili kako će se preglednik pokrenuti u vašoj tvrtki ili ustanovi.
+Pomoću [pravilnika grupe dostupnih](https://go.microsoft.com/fwlink/?linkid=2134623) u pregledniku Microsoft Edge (verzija 77 ili novijoj) odredite kako se preglednik izvodi u vašoj tvrtki ili ustanovi.

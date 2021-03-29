@@ -1,9 +1,9 @@
 ---
-title: Što učiniti kada je račun sjeckan
+title: Što učiniti kada je račun hakiran
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 50451a32b4e798f3e2fd8ddebe573ef3435a4c71
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9c6bab9545136cf6bf26ae41c3776d6f7892a81f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481157"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402411"
 ---
-# <a name="what-to-do-when-an-account-is-hacked"></a>Što učiniti kada je račun sjeckan
+# <a name="what-to-do-when-an-account-is-hacked"></a>Što učiniti kada je račun hakiran
 
-Ako mislite da je korisnički račun sjeckan, učinite sljedeće:
+Ako mislite da je korisnički račun hakiran, učinite sljedeće:
 
-1. *Odmah* [ponovno postavite korisnikovu lozinku](https://go.microsoft.com/fwlink/?linkid=2103704) . Nemojte slati novu lozinku putem e-pošte korisniku.
-1. [Uklonite sve sumnjive adrese za prosljeđivanje](https://go.microsoft.com/fwlink/?linkid=2103705) postavljene na poštanskom sandučiću.
-1. [Uklonite sva pravila prosljeđivanja](https://go.microsoft.com/fwlink/?linkid=2103706) postavljena na poštanskom sandučiću.
-1. Ako je korisnik blokiran slanjem e-pošte, potvrdite da njihov račun nije kompromitiran, a zatim ih uklonite s [stranice s ograničenim korisnicima](https://go.microsoft.com/fwlink/?linkid=2103706).
+1. [Odmah ponovno postavite korisnikov](https://go.microsoft.com/fwlink/?linkid=2103704) *lozinku*. Ne šalji novu lozinku putem e-pošte korisniku.
+1. [Uklonite sve sumnjive adrese za prosljeđivanje postavljene](https://go.microsoft.com/fwlink/?linkid=2103705) u poštanskom sandučiću.
+1. [Uklonite sva pravila prosljeđivanja postavljena](https://go.microsoft.com/fwlink/?linkid=2103706) u poštanskom sandučiću.
+1. Ako je korisniku blokirano slanje e-pošte, provjerite nije li mu račun ugrožen, a zatim ga uklonite sa stranice [Ograničeni korisnici](https://go.microsoft.com/fwlink/?linkid=2103706).
 1. Uklonite korisnički račun iz bilo koje [grupe administrativnih uloga](https://go.microsoft.com/fwlink/?linkid=2092294).

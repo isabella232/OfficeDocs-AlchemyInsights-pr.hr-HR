@@ -1,9 +1,9 @@
 ---
-title: O upozorenjima za sastavljanje
+title: O upozorenjima o ugradi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 54f09d8aebcf5e10eaad7f19ec5138c9167962b4
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: bcafc8ef052e824093f29e16ffc16f68e6d4e667
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481233"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403627"
 ---
 # <a name="about-built-in-alerts"></a>O ugrađenim upozorenjima
 
-Microsoft 365 sadrži nekoliko ugrađenih upozorenja radi zaštite sustava. Evo nekih informacija o njima:
+Microsoft 365 sadrži nekoliko ugrađenih upozorenja za zaštitu sustava. Evo nekih informacija o njima:
 
-- Ugrađeno upozorenje poruka je e-pošte koja se šalje globalnom administratore iz *Office365Alerts@microsoft.com*. Redak predmeta predstavlja upozorenje o niskom ozbiljnosti: <name of alert policy> .
-- Te se poruke e-pošte s upozorenjima šalju kada netko učini nešto sumnjivo. Primjerice, pravila ulazne pošte stvaraju se tako da prosljeđuju ili preusmjeravaju e-poštu, dozvole se dodjeljuju u poštanskom sandučiću, datoteke se zajednički koriste ili brišu iz sustava SharePoint ili postoje neaktivnosti ili kašnjenja e-pošte.
-- Microsoft nikada ne traži korisničku lozinku, sigurnosne podatke ni da bi ponovno ovjerio korisnika u poruci e-pošte za upozorenje. Takve poruke e-pošte nisu od Microsofta; To su e-pošta za krađu identiteta.
-- Popis svih ugrađenih pravilnika upozorenja potražite u članku [zadane pravila upozorenja](https://go.microsoft.com/fwlink/?linkid=2103170).
+- Ugrađeno upozorenje poruka je e-pošte poslana globalnom administratoru *iz Office365Alerts@microsoft.com*. Redak predmeta upozorenje je niske ozbiljnosti: <name of alert policy> .
+- Poruke e-pošte s upozorenjem šalju vam se kada netko čini nešto sumnjivo. Stvaraju se, primjerice, pravila ulazne pošte koja prosljeđuju ili preusmjeravaju e-poštu, dozvole se dodjeljuju poštanskom sandučiću, datoteke se zajednički koriste ili masovno brišu iz sustava SharePoint ili postoje aktivnosti predočavanja elektroničkih dokumenata ili kašnjenja e-pošte.
+- Microsoft nikad ne traži korisničku lozinku, sigurnosne detalje ni da ponovno provjeri autentičnost korisnika u poruci e-pošte s upozorenjem. Takve poruke e-pošte nisu od Microsofta; poruke e-pošte za krađu identiteta.
+- Popis svih ugrađenih pravilnika upozorenja pogledajte u odjeljku [Zadani pravilniki upozorenja](https://go.microsoft.com/fwlink/?linkid=2103170).

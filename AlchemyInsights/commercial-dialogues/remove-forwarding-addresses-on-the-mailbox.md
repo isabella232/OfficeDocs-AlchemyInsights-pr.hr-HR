@@ -1,9 +1,9 @@
 ---
-title: Uklanjanje adresa za prosljeđivanje na poštanskom sandučiću
+title: Uklanjanje adresa za prosljeđivanje u poštanskom sandučiću
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3b44ae0a981ad851ea368b3aff194ec061ae6648
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 52c205714bcb82cb50d22211ecb0b77c22569a9d
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481169"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403159"
 ---
-# <a name="remove-forwarding-addresses-on-the-mailbox"></a>Uklanjanje adresa za prosljeđivanje na poštanskom sandučiću
+# <a name="remove-forwarding-addresses-on-the-mailbox"></a>Uklanjanje adresa za prosljeđivanje u poštanskom sandučiću
 
-Ponekad hakeri prosljeđuju poruke e-pošte korisnika sami sebi dodavanjem adrese za prosljeđivanje u poštanski sandučić. Slijede upute za provjeru prosljeđivanja adresa i njihovo uklanjanje:
+Hakeri katkad prosljeđuju poruke e-pošte korisnicima tako da u poštanski sandučić dodaju adresu za prosljeđivanje. Evo kako provjeriti ima li adresa za prosljeđivanje i ukloniti ih:
 
-1. Odaberite **korisnike**  >  **[aktivnih korisnika](https://go.microsoft.com/fwlink/p/?linkid=834822)**.
-1. Odaberite korisnika čiji je račun ugrožen. U bočici koja se prikazuje proširite **postavke pošte** , a zatim kliknite **Uredi** za **Prosljeđivanje e-pošte**.
+1. Odaberite **Korisnici**  >  **[Aktivni korisnici](https://go.microsoft.com/fwlink/p/?linkid=834822)**.
+1. Odaberite korisnika čiji je račun ugrožen. U brošuri koja će se prikazati proširite **Odjeljak Postavke** pošte pa kliknite Uređivanje **za prosljeđivanje** **e-pošte**.
 1. Uklonite sve adrese za prosljeđivanje.

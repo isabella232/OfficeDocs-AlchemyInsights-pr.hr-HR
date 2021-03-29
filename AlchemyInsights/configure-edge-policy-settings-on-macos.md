@@ -1,5 +1,5 @@
 ---
-title: Konfiguriranje postavki pravilnika za Microsoft Edge pomoću JAMF-a za macOS
+title: Konfiguriranje postavki pravilnika preglednika Microsoft Edge u sustavu macOS pomoću servisa Jamf
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,16 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003852"
+- "9004632"
 - "6901"
-ms.openlocfilehash: 7874ce15417958cfe2e3b2ff068b3eb7241e6812
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8360"
+ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677120"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403447"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Konfiguriranje postavki pravilnika za Microsoft Edge pomoću JAMF-a za macOS
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Konfiguriranje postavki pravilnika preglednika Microsoft Edge u sustavu macOS pomoću servisa Jamf
 
-Da biste konfigurirali Microsoft Edge (stabilni kanal 81 ili noviji) na Macosu, upotrijebite datoteku manifesta pravilnika za Microsoft Edge na aplikaciji JAMF Pro 10,19.
+Da biste konfigurirali Microsoft Edge (stabilni kanal 81 ili noviji) u sustavu macOS, koristite datoteku manifesta pravilnika preglednika Microsoft Edge na servisu Jamf Pro 10.19.
 
-Dodatne informacije potražite u članku [Konfiguriranje postavki pravilnika za Microsoft Edge na servisu macOS uz JAMF](https://go.microsoft.com/fwlink/?linkid=2134761).
+Dodatne informacije potražite u članku Konfiguriranje [postavki pravilnika preglednika Microsoft Edge u sustavu macOS uz Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).

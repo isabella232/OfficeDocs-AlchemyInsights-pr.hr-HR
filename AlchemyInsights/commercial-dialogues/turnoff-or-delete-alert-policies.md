@@ -1,9 +1,9 @@
 ---
-title: Isključivanje ili brisanje pravilnika upozorenja
+title: Isključivanje i brisanje pravilnika upozorenja
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: a7aee94d3242a30de36b7d08a22995b1c357f708
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a1ea801c002b69193a156b81785e94619b2c05bd
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481156"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403483"
 ---
-# <a name="turn-off-or-delete-alert-policies"></a>Isključivanje ili brisanje pravilnika upozorenja
+# <a name="turn-off-or-delete-alert-policies"></a>Isključivanje i brisanje pravilnika upozorenja
 
 Evo kako to učiniti:
 
-1. Otvorite centar za [sigurnost & sustava Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Odaberite   >  [pravila upozorenja](https://go.microsoft.com/fwlink/?linkid=2103208)o upozorenjima.
-1. Ako je to prilagođeno pravilo, odaberite je na popisu, a zatim odaberite **Izbriši pravilnik**. Možete omogućiti, onemogućiti ili izbrisati više prilagođenih pravila odjednom tako da odaberete više od jednog s popisa.
+1. Idite na [centar za sigurnost i usklađenost sustava Office 365 & usklađenosti](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Odaberite **Pravila upozorenja**  >  [upozorenja](https://go.microsoft.com/fwlink/?linkid=2103208).
+1. Ako je to prilagođeni pravilnik, odaberite ga s popisa, a zatim odaberite **Izbriši pravilnik.** Više prilagođenih pravilnika možete omogućiti, onemogućiti ili izbrisati odjednom odabirom više pravila s popisa.
 
 > [!NOTE]
-> Ako se radi o pravilniku sustava, ne možete je izbrisati, no možete ga omogućiti ili onemogućiti, a zatim stvoriti novi pravilnik koji odgovara vašim potrebama.
+> Ako je to pravilnik sustava, ne možete ga izbrisati, ali ga možete omogućiti ili onemogućiti, a zatim stvoriti novi pravilnik koji odgovara vašim potrebama.
