@@ -1,0 +1,37 @@
+---
+title: Api Dozvole i proces pristanka
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004345"
+- "9200"
+ms.openlocfilehash: 23fed786e7b33adf0b6c76fc71a7e69f2cfcceb7
+ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.translationtype: MT
+ms.contentlocale: hr-HR
+ms.lasthandoff: 03/26/2021
+ms.locfileid: "51404317"
+---
+# <a name="api-permissions-and-consent-process"></a><span data-ttu-id="dea38-102">Api Dozvole i proces pristanka</span><span class="sxs-lookup"><span data-stu-id="dea38-102">API Permissions and Consent Process</span></span>
+
+<span data-ttu-id="dea38-103">Da bi vaša aplikacija pristupala podacima u aplikaciji Microsoft Graph, korisnik ili administrator moraju mu dodijeliti odgovarajuće dozvole putem postupka pristanka.</span><span class="sxs-lookup"><span data-stu-id="dea38-103">For your app to access data in Microsoft Graph, the user or administrator must grant it the correct permissions via a consent process.</span></span> <span data-ttu-id="dea38-104">[Referenca dozvola za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) sadrži popis dozvola povezanih sa svakim glavnim skupom API-ja za Microsoft Graph.</span><span class="sxs-lookup"><span data-stu-id="dea38-104">[Microsoft Graph permissions reference](https://docs.microsoft.com/graph/permissions-reference) lists the permissions associated with each major set of Microsoft Graph APIs.</span></span> <span data-ttu-id="dea38-105">Sadrži i smjernice za korištenje dozvola.</span><span class="sxs-lookup"><span data-stu-id="dea38-105">It also provides guidance about how to use the permissions.</span></span>
+
+<span data-ttu-id="dea38-106">**Postavljanje ili ažuriranje upravitelja servisa**</span><span class="sxs-lookup"><span data-stu-id="dea38-106">**Set up or update service principal**</span></span>
+
+- <span data-ttu-id="dea38-107">[Stvaranje servisaprincipal](https://docs.microsoft.com/graph/api/serviceprincipal-post-serviceprincipals) – u ovom se članku prikazuje stvaranje novog objekta servisaPrincipal.</span><span class="sxs-lookup"><span data-stu-id="dea38-107">[Create serviceprincipal](https://docs.microsoft.com/graph/api/serviceprincipal-post-serviceprincipals) - This article shows you how to create a new servicePrincipal object.</span></span>
+- <span data-ttu-id="dea38-108">[Stvorite aplikaciju Azure AD &](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) glavnicu servisa na portalu – u ovom se članku pokazuje kako stvoriti novu aplikaciju Azure Active Directory (Azure AD) i upravitelja servisa koji se mogu koristiti s kontrolom pristupa utemeljenom na ulogama.</span><span class="sxs-lookup"><span data-stu-id="dea38-108">[Create an Azure AD app & service principal in the portal](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) - This article shows you how to create a new Azure Active Directory (Azure AD) application and service principal that can be used with the role-based access control.</span></span>
+- <span data-ttu-id="dea38-109">[Aplikacije &](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) upravitelji servisa na servisu Azure AD – u ovom se članku opisuju registracija aplikacija, objekti aplikacije i upravitelji servisa na servisu Azure Active Directory: što su oni, kako se koriste i kako su međusobno povezani.</span><span class="sxs-lookup"><span data-stu-id="dea38-109">[Apps & service principals in Azure AD](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) - This article describes application registration, application objects, and service principals in Azure Active Directory: what they are, how they are used, and how they are related to each other.</span></span>
+
+<span data-ttu-id="dea38-110">**Dodavanje i ažuriranje registracije aplikacije te pristanak administratora**</span><span class="sxs-lookup"><span data-stu-id="dea38-110">**Add or update app registration and provide admin consent**</span></span>
+
+- <span data-ttu-id="dea38-111">[Stvaranje registracije aplikacije](https://docs.microsoft.com/graph/api/application-post-applications) – u ovom se članku prikazuje kako stvoriti novi objekt aplikacije.</span><span class="sxs-lookup"><span data-stu-id="dea38-111">[Create an app registration](https://docs.microsoft.com/graph/api/application-post-applications) - This article shows you how to create a new application object.</span></span>
+- <span data-ttu-id="dea38-112">[Ažuriranje registracije aplikacije – dozvole za API](https://docs.microsoft.com/graph/api/application-update) – u ovom se članku pokazuje kako ažurirati svojstva objekta aplikacije.</span><span class="sxs-lookup"><span data-stu-id="dea38-112">[Update an app registration - API permissions](https://docs.microsoft.com/graph/api/application-update) - This article shows you how to update the properties of an application object.</span></span>
+- <span data-ttu-id="dea38-113">[Dajte pristanak administratora](https://docs.microsoft.com/graph/security-authorization#grant-permissions-to-an-application) – za pristanak i pristanak administratora općenito, od administratora zahtijevamo da izričito odobri pristanak.</span><span class="sxs-lookup"><span data-stu-id="dea38-113">[Provide admin consent](https://docs.microsoft.com/graph/security-authorization#grant-permissions-to-an-application) - For admin consent and consent in general, we require that an admin explicitly grants consent.</span></span>
+- <span data-ttu-id="dea38-114">[RBAC (beta)](https://docs.microsoft.com/graph/api/resources/rbacapplicationmultiple) – spremnik za upravljanje ulogama za definicije objedinjenih uloga i zadatke uloga za davatelje usluga sustava Microsoft 365 RBAC koji podržavaju više upravitelja i višestruke opsege u jednom zadatku uloga.</span><span class="sxs-lookup"><span data-stu-id="dea38-114">[RBAC (beta)](https://docs.microsoft.com/graph/api/resources/rbacapplicationmultiple) - Role management container for unified role definitions and role assignments for Microsoft 365 RBAC providers that support multiple principals and multiple scopes in a single role assignment.</span></span> <span data-ttu-id="dea38-115">To se razlikuje od *vrste resursa rbacApplication.*</span><span class="sxs-lookup"><span data-stu-id="dea38-115">This is different from *rbacApplication* resource type.</span></span> <span data-ttu-id="dea38-116">Microsoft Intune primjer je takvog davatelja usluge RBAC.</span><span class="sxs-lookup"><span data-stu-id="dea38-116">Microsoft Intune is an example of such a RBAC provider.</span></span> <span data-ttu-id="dea38-117">Zadatak uloge u programu Intune može imati polje upravitelja i polje grupa opsega.</span><span class="sxs-lookup"><span data-stu-id="dea38-117">A role assignment in Intune can have an array of principals and an array of scope groups.</span></span> <span data-ttu-id="dea38-118">**To je beta verzija, što znači da je još u razvoju i ne preporučuje se za korištenje u proizvodnji.**</span><span class="sxs-lookup"><span data-stu-id="dea38-118">**This is in beta, meaning that it is still in development and not recommended for use in production.**</span></span>
