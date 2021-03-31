@@ -1,5 +1,5 @@
 ---
-title: Preuzimanje i instalacija sustava Microsoft za rad
+title: Kako preuzeti i instalirati aplikaciju Microsoft To Do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 83fdaa7a1e181f8429f57fbb9e6ad20642c74d79
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: c17c2db421d3210de01e402da502a9951fdefeb7
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823002"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401935"
 ---
-# <a name="how-to-download-and-install-microsoft-to-do"></a>Preuzimanje i instalacija sustava Microsoft za rad
+# <a name="how-to-download-and-install-microsoft-to-do"></a>Kako preuzeti i instalirati aplikaciju Microsoft To Do
 
-Aplikacija Microsoft to učiniti za aplikacije Win32, iOS, Android i Mac može se preuzeti iz odgovarajuće trgovine.
+Aplikacija Microsoft To Do za aplikacije za sustave Win32, iOS, Android i Mac može se preuzeti iz odgovarajuće trgovine Store.
 
-Ako imate ograničen pristup spremištu za svog stanara, pročitajte članak o [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) izvanmrežnom instaleru
+Ako ste ograničili pristup trgovini Store za klijenta, izvanmrežni instalacijski program potražite na [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps)
 
-Da biste preuzeli aplikaciju iz trgovine pomoću računa za **rad** , aplikacija mora biti objavljena u **privatnu trgovinu** vaše tvrtke. Dodatne informacije potražite u odjeljku [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)
+Da biste aplikaciju preuzeli iz trgovine Store s pomoću računa **dobivenog na poslu**, aplikacija mora biti objavljena u **privatnoj trgovini** vaše tvrtke ili ustanove. Dodatne informacije potražite u sljedećim člancima:[https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)

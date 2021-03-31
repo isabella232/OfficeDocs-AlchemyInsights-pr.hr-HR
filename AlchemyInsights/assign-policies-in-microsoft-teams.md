@@ -1,5 +1,5 @@
 ---
-title: Dodjela pravilnika u Microsoftovim timovima
+title: Dodjela pravilnika na servisu Microsoft Teams
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -11,17 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9466"
 - "9000730"
-ms.openlocfilehash: 9d413804c26dd6940060316394b1df6ff8e2b06b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+- "9000734"
+- "9466"
+- "10006"
+ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035065"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401791"
 ---
-# <a name="assign-policies-in-microsoft-teams"></a>Dodjela pravilnika u Microsoftovim timovima
+# <a name="assign-policies-in-microsoft-teams"></a>Dodjela pravilnika na servisu Microsoft Teams
 
-- Da biste jednostavno upravljali pravilima u vašoj tvrtki ili ustanovi, timovi nude nekoliko načina za dodjeljivanje pravilnika korisnicima. Izravno korisnicima dodijelite pravilo, pojedinačno ili pri skali pomoću skupne dodjele ili grupi u kojoj su korisnici članovi.  Trenutno je dodjela pravilnika grupama pomoću centra za administratore programa Microsoft klubovi dostupna samo za određene vrste pravilnika. 
-- Korisnik ima jedno učinkovito pravilo za svaku vrstu pravilnika. Da biste pregledali redoslijed kojim se pravila primjenjuju na korisnike, pročitajte članak [koje pravilo ima prednost?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
-- Dodatne informacije potražite u članku [dodjeljivanje pravilnika korisnicima u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/assign-policies).
+- Da biste jednostavno upravljali pravilnikom u tvrtki ili ustanovi, Teams korisnicima nudi nekoliko načina dodjele pravilnika. Dodijelite pravilnik izravno korisnicima, pojedinačno ili skalirano putem dodjele grupe, ili grupi koje su korisnici članovi.  Dodjela pravilnika grupama s pomoću centra za administratore servisa Microsoft Teams trenutačno je dostupna samo za određene vrste pravilnika. 
+- Korisnik ima jedan učinkovit pravilnik za svaku vrstu pravilnika. Da biste pregledali redoslijed kojim se pravila primjenjuju na korisnike, pogledajte [koji pravilnik ima prednost?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
+- Dodatne informacije potražite u članku [Dodjela pravilnika korisnicima na servisu Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
