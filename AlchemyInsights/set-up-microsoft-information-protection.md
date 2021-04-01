@@ -1,5 +1,5 @@
 ---
-title: Postavljanje Microsoftove informacijske zaštite
+title: Postavljanje zaštite Microsoft Information Protection
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
-ms.translationtype: MT
+- "9254"
+- "9000181"
+ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677057"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440921"
 ---
-# <a name="set-up-microsoft-information-protection"></a>Postavljanje Microsoftove informacijske zaštite
+# <a name="set-up-microsoft-information-protection"></a>Postavljanje zaštite Microsoft Information Protection
 
-Potražite pregled mogućnosti koje možete primijeniti na strategiju zaštite podataka da biste mogli biti sigurni da su vaše osjetljive informacije zaštićene. Koristite četiri faze životnog ciklusa u kojem možete otkrivati, klasificirati, štititi i nadzirati osjetljive podatke. Vodič za postavljanje servisa "Microsoft Information Protection" nudi smjernice za dovršetak svake faze.
+Steknite pregled nad mogućnosti koje možete primijeniti na strategiju zaštite podataka da biste mogli biti sigurni da su osjetljivi podaci zaštićeni. Koristite četverofazni pristup životnom ciklusu u kojem otkrivate, klasificirate, štitite i pratite osjetljive podatke. [Vodič za postavljanje značajke Microsoft Information Protection](https://go.microsoft.com/fwlink/?linkid=2146619) nudi smjernice za dovršetak svake od tih faza.
