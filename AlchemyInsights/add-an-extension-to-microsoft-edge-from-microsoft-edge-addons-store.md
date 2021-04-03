@@ -1,5 +1,5 @@
 ---
-title: Dodavanje proširenja u Microsoft Edge iz trgovine dodatka Microsoft Edge
+title: Dodavanje proširenja u Microsoft Edge iz trgovine Dodataka za Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003858"
 - "6919"
-ms.openlocfilehash: 18c7a6a8e397744a114c4bb91df6c45416d9af87
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8310"
+- "9004621"
+ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677132"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51504988"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a><span data-ttu-id="7a693-102">Dodavanje proširenja u Microsoft Edge iz trgovine dodatka Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="7a693-102">Add an extension to Microsoft Edge from the Microsoft Edge Add-ons Store</span></span>
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a><span data-ttu-id="cb049-102">Dodavanje proširenja u Microsoft Edge iz trgovine Dodataka za Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="cb049-102">Add an extension to Microsoft Edge from the Microsoft Edge Add-ons Store</span></span>
 
-<span data-ttu-id="7a693-103">Da biste u Microsoft Edge dodali produžetak iz trgovine dodatka Microsoft Edge, učinite sljedeće:</span><span class="sxs-lookup"><span data-stu-id="7a693-103">To add an extension to Microsoft Edge from the Microsoft Edge Add-ons store:</span></span>
+<span data-ttu-id="cb049-103">Da biste dodali proširenje u Microsoft Edge iz trgovine Dodaci preglednika Microsoft Edge:</span><span class="sxs-lookup"><span data-stu-id="cb049-103">To add an extension to Microsoft Edge from the Microsoft Edge Add-ons store:</span></span>
 
-- <span data-ttu-id="7a693-104">Otvorite Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="7a693-104">Open Microsoft Edge.</span></span>
-- <span data-ttu-id="7a693-105">Odaberite **... > ekstenzije > [dohvaćanje proširenja za Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span><span class="sxs-lookup"><span data-stu-id="7a693-105">Select **... > Extensions > [Get extensions for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span></span>
-- <span data-ttu-id="7a693-106">Odaberite proširenje koje želite dodati, a zatim odaberite **Dohvati**.</span><span class="sxs-lookup"><span data-stu-id="7a693-106">Select the extension you would like to add, and then select **Get**.</span></span>
-- <span data-ttu-id="7a693-107">U dijaloškom okviru za potvrdu pažljivo pregledajte promjene koje može izvršiti proširenje, a zatim odaberite **Dodaj ekstenziju**.</span><span class="sxs-lookup"><span data-stu-id="7a693-107">In the confirmation dialog box, carefully review the modifications that the extension might make, and select **Add extension**.</span></span>
+- <span data-ttu-id="cb049-104">Otvorite Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="cb049-104">Open Microsoft Edge.</span></span>
+- <span data-ttu-id="cb049-105">Odaberite **... > proširenja > Nabavite [proširenja za Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span><span class="sxs-lookup"><span data-stu-id="cb049-105">Select **... > Extensions > [Get extensions for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.</span></span>
+- <span data-ttu-id="cb049-106">Odaberite proširenje koje želite dodati, a zatim Odaberite **Nabavite**.</span><span class="sxs-lookup"><span data-stu-id="cb049-106">Select the extension you would like to add, and then select **Get**.</span></span>
+- <span data-ttu-id="cb049-107">U dijaloškom okviru za potvrdu pažljivo pregledajte izmjene koje bi proširenje moglo napraviti, a zatim odaberite **Dodaj proširenje**.</span><span class="sxs-lookup"><span data-stu-id="cb049-107">In the confirmation dialog box, carefully review the modifications that the extension might make, and select **Add extension**.</span></span>
 
-<span data-ttu-id="7a693-108">Nakon toga ćete dobiti potvrdu da je dodatak dodan.</span><span class="sxs-lookup"><span data-stu-id="7a693-108">You will then get a confirmation that the extension has been added.</span></span>
+<span data-ttu-id="cb049-108">Nakon toga ćete dobiti potvrdu da je proširenje dodano.</span><span class="sxs-lookup"><span data-stu-id="cb049-108">You will then get a confirmation that the extension has been added.</span></span>

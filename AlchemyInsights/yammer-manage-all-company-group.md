@@ -1,5 +1,5 @@
 ---
-title: Upravljanje servisom Yammer za sve grupe tvrtki
+title: Yammer Manage All Company Group
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688830"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505420"
 ---
-# <a name="all-company-group"></a><span data-ttu-id="0495a-102">Sve grupe tvrtki</span><span class="sxs-lookup"><span data-stu-id="0495a-102">All Company Group</span></span>
+# <a name="all-company-group"></a><span data-ttu-id="e53ac-102">Sve grupe tvrtki</span><span class="sxs-lookup"><span data-stu-id="e53ac-102">All Company Group</span></span>
 
-<span data-ttu-id="0495a-103">Grupa **sve tvrtke** automatski se stvara prilikom stvaranja mreže servisa Yammer.</span><span class="sxs-lookup"><span data-stu-id="0495a-103">The **All Company** group is automatically created when you create a Yammer network.</span></span> <span data-ttu-id="0495a-104">To je zadana grupa sustava koja se ne može preimenovati ni izbrisati.</span><span class="sxs-lookup"><span data-stu-id="0495a-104">It is a default system group that cannot be renamed or deleted.</span></span> <span data-ttu-id="0495a-105">Svi mogu knjižiti u grupu **sve tvrtke** , ali samo administratori mrežnih servisa Yammer mogu objavljivati obavijesti grupi.</span><span class="sxs-lookup"><span data-stu-id="0495a-105">Everyone can post to the **All Company** group, but only Yammer network administrators can post announcements to the group.</span></span> <span data-ttu-id="0495a-106">Pomoću **uvida u grupu**pregledajte informacije o angažmanu u grupi **sve tvrtke** .</span><span class="sxs-lookup"><span data-stu-id="0495a-106">Use **Group Insights**to view information about engagement in the **All Company** group.</span></span>
+<span data-ttu-id="e53ac-103">Zajednica svih tvrtki sada podržava slične mogućnosti kao i druge zajednice na servisu Yammer.</span><span class="sxs-lookup"><span data-stu-id="e53ac-103">The All Company community now supports similar capabilities to other communities in Yammer.</span></span> <span data-ttu-id="e53ac-104">To obuhvaća mogućnosti kao što su naslovnice fotografija i imenovanja.</span><span class="sxs-lookup"><span data-stu-id="e53ac-104">This includes options such as cover photos and naming.</span></span> <span data-ttu-id="e53ac-105">Moguće je i ograničiti sve objave tvrtke na servisu Yammer.</span><span class="sxs-lookup"><span data-stu-id="e53ac-105">It's also possible to restrict All Company posts in Yammer.</span></span> <span data-ttu-id="e53ac-106">Dodatne informacije potražite u članku [Sva tvrtka sada funkcionira kao i druge zajednice servisa Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).</span><span class="sxs-lookup"><span data-stu-id="e53ac-106">For more information, see [All Company now works like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).</span></span>
 
-<span data-ttu-id="0495a-107">Dodatne informacije potražite u članku [Upravljanje grupom u servisu Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span><span class="sxs-lookup"><span data-stu-id="0495a-107">For more information, see [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span></span>
+## <a name="common-issues-and-solutions"></a><span data-ttu-id="e53ac-107">Uobičajeni problemi i rješenja</span><span class="sxs-lookup"><span data-stu-id="e53ac-107">Common issues and solutions</span></span>
+
+- <span data-ttu-id="e53ac-108">Sva ograničenja prilagodbe ili objavljivanja tvrtke nisu dostupna mrežnim administratorima.</span><span class="sxs-lookup"><span data-stu-id="e53ac-108">All Company customization or posting restriction is not available to network admins.</span></span> <span data-ttu-id="e53ac-109">Otvorite zahtjev za uslugu da biste omogućili modernu grupu Sve tvrtke.</span><span class="sxs-lookup"><span data-stu-id="e53ac-109">Open a service request to enable the modern All Company group.</span></span>
+
+- <span data-ttu-id="e53ac-110">Uvidi u zajednicu ne prikazuju stare podatke.</span><span class="sxs-lookup"><span data-stu-id="e53ac-110">Community Insights doesn't show old data.</span></span> <span data-ttu-id="e53ac-111">Sada kada je All Company stvarna zajednica, prethodni se podaci za mrežu ne prikazuju.</span><span class="sxs-lookup"><span data-stu-id="e53ac-111">Now that All Company is a real community, the previous data for the network is not shown.</span></span>
+
+- <span data-ttu-id="e53ac-112">Čini se da je sva tvrtka izbrisana.</span><span class="sxs-lookup"><span data-stu-id="e53ac-112">All Company seems to be deleted.</span></span> <span data-ttu-id="e53ac-113">Kada je zajednica povezana s grupom sustava Microsoft 365, ta se grupa može izbrisati.</span><span class="sxs-lookup"><span data-stu-id="e53ac-113">When the community is connected to an Microsoft 365 group, that group can be deleted.</span></span> <span data-ttu-id="e53ac-114">Grupa Microsoft 365 mora se vratiti na klijentu.</span><span class="sxs-lookup"><span data-stu-id="e53ac-114">The Microsoft 365 group must be restored in the tenant.</span></span>
+
