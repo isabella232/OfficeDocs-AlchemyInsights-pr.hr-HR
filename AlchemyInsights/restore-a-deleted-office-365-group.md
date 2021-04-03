@@ -1,5 +1,5 @@
 ---
-title: Vraćanje izbrisane grupe Microsoft 365
+title: Vraćanje izbrisane grupe sustava Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774694"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505674"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>Vraćanje izbrisane grupe Microsoft 365
+# <a name="restore-a-deleted-microsoft-365-group"></a>Vraćanje izbrisane grupe sustava Microsoft 365
 
-Izbrisane grupe zadržavaju se 30 dana. Da biste vratili izbrisanu grupu, učinite sljedeće:
-  
-1. U [centru za administratore sustava Exchange](https://outlook.office365.com/ecp/)odaberite **Primatelji** u levom oknu, a zatim odaberite **grupe**. Ako je grupa izbrisana prije manje od 30 dana, ona će se pojaviti na popisu, a stupac STATUS će popis izbrisati.
+Izbrisanu grupu sustava Microsoft 365 ili Microsoft Teams možete vratiti u roku od 30 dana od brisanja.
 
-2. Odaberite grupu, a zatim kliknite **Vrati** na naredbenoj traci ili kliknite vezu "kliknite ovdje da biste vratili" u oknu s detaljima.
+1. Da biste se prijavili u centar za administratore sustava Microsoft 365 i na popisu izbrisanih grupa i timova, idite u centar za administratore sustava [Microsoft 365](https://aka.ms/RestoreDeletedGroup).
 
-Dodatne informacije ili upute za vraćanje grupa pomoću komponente PowerShell potražite [u članku vraćanje izbrisane grupe Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802).
-  
+    **Napomena:** Prijavite se pomoću računa dodijeljenog administratoru klijenta ili administratoru grupe.
+
+1. Odaberite izbrisanu grupu microsoft 365/Teams koju želite vratiti i kliknite **vrati grupu**.
+
+    Ako grupu nije moguće vratiti zbog smtp adrese koja je u sukobu, pomoću sljedeće naredbe pronađite objekt koji uzrokuje sukob i uklonite SMTP adresu:
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Napomena:** U nekim slučajevima može potrajati i do 24 sata da se grupa i svi njezini podaci vrate.
+
+    Dodatne informacije ili upute za vraćanje grupa pomoću komponente PowerShell potražite u članku [Vraćanje izbrisane grupe sustava Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802).

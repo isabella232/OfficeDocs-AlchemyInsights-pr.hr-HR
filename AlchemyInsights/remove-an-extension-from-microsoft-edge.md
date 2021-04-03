@@ -1,5 +1,5 @@
 ---
-title: Uklanjanje proširenja iz programa Microsoft Edge
+title: Uklanjanje proširenja iz preglednika Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003881"
 - "6936"
-ms.openlocfilehash: d0fda273317a2f2437f8808cbf29d9a9788df225
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8311"
+- "9004621"
+ms.openlocfilehash: 1c8cfa9e871957de647b19b3ef6746740886d2fb
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677134"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51504952"
 ---
-# <a name="remove-an-extension-from-microsoft-edge"></a>Uklanjanje proširenja iz programa Microsoft Edge
+# <a name="remove-an-extension-from-microsoft-edge"></a>Uklanjanje proširenja iz preglednika Microsoft Edge
 
-Da biste uklonili ekstenziju iz programa Microsoft Edge, učinite sljedeće:
+Uklanjanje proširenja iz preglednika Microsoft Edge:
 
 1. Otvorite Microsoft Edge.
-2. Odaberite **... > ekstenzije**.
-3. Na stranici **instalirani nastavci** Pronađite proširenje koje želite ukloniti, a zatim odaberite **Ukloni** pokraj nje.
+2. Odaberite **... > proširenja**.
+3. Na **stranici Instalirana** proširenja pronađite proširenje koje želite ukloniti, a zatim pokraj njega **odaberite** Ukloni.
 4. U dijaloškom okviru za potvrdu odaberite **Ukloni**.
