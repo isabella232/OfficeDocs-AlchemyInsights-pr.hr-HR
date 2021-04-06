@@ -12,48 +12,50 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9771"
+- "9774"
+- "9005390"
 - "9005403"
-ms.openlocfilehash: 3838f3db3bc5f54bcb1a2558484056f3194b76e1
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035217"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505348"
 ---
 # <a name="free-up-drive-space-in-windows-10"></a>Oslobađanje prostora na disku u sustavu Windows 10
 
-Postoje dvije mogućnosti za oslobađanje prostora na disku u sustavu Windows:
+Evo dvije mogućnosti za oslobađanje prostora na disku u sustavu Windows:
 
-- Oslobodite prostora na disku u sustavu Windows 10.
-- Oslobodite prostor za ažuriranja sustava Windows 10 s vanjskim uređajem za pohranu.
+- Oslobađanje prostora na disku u sustavu Windows 10.
+- Oslobodite prostor za ažuriranja sustava Windows 10 pomoću vanjskog uređaja za pohranu.
 
-Ako i dalje imate nisko diskovni razmak nakon korištenja značajke čišćenja diska, moguće je da se mapa TEMP brzo ispunjava pomoću datoteka aplikacije (. Appx) koju koristi Microsoft Store. Da biste riješili taj problem, ponovno postavite trgovinu, poništite predmemoriranje pohrane, a zatim pokrenite alat za otklanjanje poteškoća sa servisom Windows Update. Provjerite je li Microsoft Store zatvoren prije nastavka ovih koraka.
+Ako nakon čišćenja diska i dalje imate malo prostora na disku, moguće je da se vaša privremena mapa brzo puni aplikacijskim datotekama (.appx) koje upotrebljava Microsoft Store. Za rješavanje ovog problema ponovo postavite Store, očistite njegovu predmemoriju te pokrenite alat za otklanjanje poteškoća sustava Windows Update. Provjerite je li Microsoft Store zatvoren prije nego što nastavite s ovim koracima.
 
-**Prvi korak: ponovno postavljanje Microsoftove trgovine**
+**Korak 1: Ponovo postavite Microsoft Store**
 
-**Notes** Time se trajno brišu podaci o aplikaciji na uređaju, uključujući vaše preference i pojedinosti o prijavi.
+**Napomena** Ovo trajno briše podatke aplikacije na uređaju, uključujući vaše preferencije i pojedinosti o prijavi.
 
-1. Odaberite **Započni**  >  **Postavke**  >  **aplikacija za aplikacije**  >  **& značajki**.
+1. Odaberite **Start** > **Postavke** > **Aplikacije** > **Aplikacije & značajke**.
 
 1. Na popisu aplikacija pronađite i odaberite Microsoft Store.
 
 1. Odaberite **Dodatne mogućnosti**.
 
-1. Pomaknite se prema dolje pa odaberite **ponovno postavi**, a zatim **potvrdite ponovno postavi**.
+1. Pomaknite se prema dolje i odaberite **Ponovo postavi**, a zatim **Potvrdi ponovno postavljanje**.
 
-**Drugi korak: poništite predmemoriranje Microsoftove trgovine**
+**Korak 2: očisti predmemoriju aplikacije Microsoft Store**
 
-1. Pritisnite tipku s logotipom sustava Windows + R da biste otvorili dijaloški okvir Pokreni.
+1. Pritisnite tipku s logotipom sustava Windows i slovo R da biste otvorili dijaloški okvir Pokreni.
 
-1. Upišite wsreset.exe i odaberite **u redu**.
+1. Upišite wsreset.exe i odaberite **U redu**.
 
-1. Otvorit će se prazan prozor naredbenog upita. Nakon približno 10 sekundi prozor će se zatvoriti, a trgovina će se automatski otvoriti.
+1. Otvara se prazan prozor naredbenog retka. Nakon otprilike 10 sekundi, prozor se zatvara i Store se automatski otvara.
 
-**Treći korak: ponovno postavljanje servisa Windows Update**
+**Korak 3: ponovo postavite Windows Update**
 
-1. Odaberite **Započni**  >    >  **Ažuriranje postavki & sigurnosnim**  >  **otklanjanjem poteškoća**.
+1. Odaberite **Start** > **Postavke** > **Ažuriranje & Sigurnost** > **Otklanjanje poteškoća**.
 
-1. Pomaknite se prema dolje pa na popisu odaberite **Windows Update** , a zatim **Pokrenite alat za otklanjanje poteškoća**.
+1. Pomaknite se prema dolje i odaberite **Windows Update** s popisa, i odaberite **Pokreni alat za otklanjanje poteškoća**.
 
-1. Ponovno pokrenite računalo i provjerite jeste li još uvijek doživjeli problem.
+1. Ponovo pokrenite računalo i provjerite pojavljuje li se i dalje problem.
 
