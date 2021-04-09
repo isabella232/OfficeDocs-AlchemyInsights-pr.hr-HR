@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50692892"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645159"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Problemi prilikom instalacije ažuriranja sustava Exchange Server
 
-Prije instalacije ažuriranja sustava Exchange Server potražite u odjeljku "najbolje prakse" u članku [Nadogradnja sustava Exchange na najnovije Kumulativno ažuriranje](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Posebno je važno instalirati ažuriranja pomoću povišenog CMD upita (osim ako se ažuriranja ne instaliraju putem servisa Microsoft Update). To se odnosi i na kumulativna i bezbednosna ažuriranja!
+Ako morate ažurirati na najnovije kumulativno ažuriranje (CU) za Exchange Server, možete koristiti detaljne korake za ažuriranje iz trenutne cu na ciljni [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) cu.
 
-Ako vam se prikaže pogreška prilikom instalacije sigurnosnih ažuriranja ili nakon instalacije ažuriranja, pročitajte [članak o otklanjanju poteškoća s neuspjelih instalacija](https://aka.ms/exupdatefaq).
+Ako postoje pogreške tijekom ili nakon instalacije ažuriranja sustava Exchange Server, pogledajte odjeljak "Najbolje prakse" članka [Nadogradnja sustava Exchange na najnovije kumulativno ažuriranje](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Vrlo je važno instalirati sigurnosna ažuriranja pomoću povećanog UPITA ZA CMD (ako ažuriranja nisu instalirana putem servisa Microsoft Update).
+
+Ako se prilikom instalacije sigurnosnih ažuriranja ili nakon instalacije ažuriranja vide pogreške, pogledajte popravak [neuspjelih instalacija kumulativnih i sigurnosnih ažuriranja sustava Exchange](https://aka.ms/exupdatefaq).
