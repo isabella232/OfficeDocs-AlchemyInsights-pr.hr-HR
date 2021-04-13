@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737009"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692386"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Česti problemi u aplikaciji Teams za korisnike u obrazovnim ustanovama
 
@@ -46,7 +46,7 @@ Ako vam je potrebna pomoć pri implementaciji timova za podršku daljinskom uče
     6. U centru za administratore sustava Skype za tvrtke kliknite **Audiokonferencije**, a zatim **Korisnici**.
     7. Odaberite odgovarajućeg korisnika i potvrdite da korisnik ima zadani broj uz plaćanje.
 
-    Za dodatne informacije pogledajte [Tarife za pozivanje](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili nazovite tim za Microsoft Commerce Billing naplatu radi pomoći oko pitanja u vezi s licenciranjem.
+    Dodatne informacije potražite u odjeljku [Tarife za pozivanje](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) aplikacije Microsoft Teams ili nazovite tim za naplatu za Microsoft Commerce da biste saznali više o pitanjima povezanima s licenciranjem.
 
     Dodatni resursi
 

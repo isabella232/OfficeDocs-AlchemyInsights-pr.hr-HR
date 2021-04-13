@@ -1,5 +1,5 @@
 ---
-title: Početak korištenja programa Microsoft Edge
+title: Početak korištenja preglednika Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677123"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692746"
 ---
-# <a name="start-using-microsoft-edge"></a>Početak korištenja programa Microsoft Edge
+# <a name="start-using-microsoft-edge"></a>Početak korištenja preglednika Microsoft Edge
 
-Microsoft je oslobodio novi Microsoft Edge, što je sljedeća generacija web-preglednika. Izgrađena je na sustavu krom open-source Foundation i optimizirana je za rad s Microsoftovim proizvodima, kao što su SharePoint i OneDrive.
+Microsoft je objavio novi Microsoft Edge, koji je sljedeća generacija web-preglednika. Izgrađen je na puderu otvorenog koda Chromium i optimiziran je za rad s Microsoftovim proizvodima, kao što su SharePoint i OneDrive.
 
-Ako nailazite na probleme sa sustavom Google Chrome, Mozilla Firefox ili safarijem, preporučujemo da koristite Microsoft Edge.
+Ako nailazite na probleme s preglednikom Google Chrome, Mozilla Firefox ili Safari, preporučujemo da koristite Microsoft Edge.
 
-Ako ste administrator velike tvrtke ili ustanove, možete započeti pomoću našeg [vodiča za postavljanje sustava Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142423) .
+Ako ste administrator velike tvrtke ili ustanove, za početak koristite naš vodič za postavljanje preglednika [Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142423)
 
-Da biste istodobno preuzeli Microsoft Edge na jednom uređaju, otvorite odjeljak [Uvod u novi Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).
+Da biste preuzeli Microsoft Edge na jedan po jedan uređaj, idite [na Uvod u novi Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).
