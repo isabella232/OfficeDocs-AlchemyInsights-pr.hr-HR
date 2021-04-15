@@ -1,8 +1,8 @@
 ---
-title: Prijenos videozapisa na Microsoft Stream
+title: Prijenos videozapisa u Microsoft Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: 95db3ee93cdd615d94facfad9b18ce1fb122e725
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 77a172462eef60c88c45e5ef0b6eb48f3b0af60a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811848"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782467"
 ---
-# <a name="upload-a-video-to-microsoft-stream"></a>Prijenos videozapisa na Microsoft Stream
+# <a name="upload-a-video-to-microsoft-stream"></a>Prijenos videozapisa u Microsoft Stream
 
-Prijenos videozapisa pomoću programa Microsoft Stream jednostavan je i to bilo tko može učiniti.
+Prijenos videozapisa pomoću servisa Microsoft Stream jednostavan je i svatko to može učiniti.
 
 - [Prijenos videozapisa](https://docs.microsoft.com/stream/portal-upload-video)

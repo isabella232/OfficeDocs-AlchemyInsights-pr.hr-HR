@@ -1,8 +1,8 @@
 ---
-title: Odjava iz timova radi rješavanja pogreške prilikom učitavanja
+title: Odjavite se iz aplikacije Teams da biste riješili pogrešku u učitavanju bloka
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002922"
 - "5592"
-ms.openlocfilehash: c78ab298471b490ec3a0fa1ac3411545de8602eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51ba8ef206340c8edb63a905d87ce6ac6355d503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661876"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786913"
 ---
-# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Odjava iz timova radi rješavanja pogreške prilikom učitavanja
+# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Odjavite se iz aplikacije Teams da biste riješili pogrešku u učitavanju bloka
 
-Ako vam se prikaže pogreška "**učitavanje bloka xxx nije uspjelo**" prilikom pristupanja kartici datoteke u timovima, pokušajte se odjaviti iz timova, a zatim se ponovno prijavite da biste riješili pogrešku.
+Ako vam se prikazuje pogreška **"Učitavanje bloka xxx nije** uspjelo" prilikom pristupanja kartici datoteka u aplikaciji Teams, pokušajte se odusućivati iz timova, a zatim se ponovno prijaviti da biste riješili pogrešku.
 
-- Da biste razumjeli kako se odjaviti iz timova, pročitajte članak [odjava iz timova](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487).
+- Upute za odjavu iz aplikacije Teams pogledajte u članku [Odjava iz aplikacije Teams](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487).

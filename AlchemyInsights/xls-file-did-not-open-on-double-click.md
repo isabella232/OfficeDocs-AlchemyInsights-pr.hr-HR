@@ -1,8 +1,8 @@
 ---
-title: XLS datoteka se nije otvorila na dvoklikom
+title: XLS datoteka nije se otvorila dvoklikom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796316"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770587"
 ---
 # <a name="excel-file-doesnt-open"></a>Datoteka programa Excel ne otvara se
 
-Isprobajte jedan od sljedećih prijedloga:
+Isprobajte jedan od ovih prijedloga:
 
-**Odabir programa Excel kao zadanog**
+**Odaberite Excel kao zadanu**
 
-* Desnom tipkom miša kliknite radni list, odaberite **Otvori pomoću**, a zatim odaberite **Excel**
+* Desnom tipkom miša kliknite radni list, **odaberite Otvori pomoću**, a zatim odaberite **Excel**
 
 **Pokretanje brzog popravka**
 
-1. Otvorite **upravljačku ploču > programe > programe i značajke**.
+1. Idite **na Control Panel > Programs > Programs and Features (Programi i značajke**).
 
-2. Odaberite proizvod sustava Office koji želite popraviti, a zatim odaberite **Promijeni**.
+2. Odaberite proizvod sustava Office koji želite popraviti, a zatim **Promijeni**.
 
-3. Odaberite mogućnost **brzo popravak** , a zatim **Popravi**.
+3. Odaberite **mogućnost Brzi popravak,** a zatim **Popravak**.
 
 **Deinstalacija verzija sustava Office koje ne koristite**
 
-1. Otvorite **upravljačku ploču > deinstalirajte program**, a zatim odaberite verziju sustava Office koju želite ukloniti.
+1. Idite **na Control Panel > Deinstaliranje programa**, a zatim odaberite verziju sustava Office koju želite ukloniti.
 
 2. Kliknite **Deinstaliraj**.
 
 3. Ponovno pokrenite računalo.
 
-**Pokretanje alata za otklanjanje poteškoća radi postavljanja datotečnih nastavaka sustava Office za otvaranje u sustavu Office**
+**Pokrenite ovaj alat za otklanjanje poteškoća da biste postavili datotečne nastavke sustava Office na otvaranje u sustavu Office**
 
 1. Pokrenite ovaj alat za otklanjanje poteškoća: https://aka.ms/diag_officefile .
 
-2. Ovisno o pregledniku, **otvorite** ili **Spremite** alat za otklanjanje poteškoća na radnu površinu, a zatim ga **Pokrenite** .
+2. Ovisno o pregledniku, **otvorite ili** **spremite alat za** otklanjanje poteškoća na radnu površinu, a zatim ga **pokrenite.**

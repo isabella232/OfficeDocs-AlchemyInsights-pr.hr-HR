@@ -1,8 +1,8 @@
 ---
-title: 'Pogreška: pravila na ovom računalu ne podudaraju se'
+title: 'Pogreška: pravila na ovom računalu ne odgovaraju'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: c2feb6da651d8b3eb7af6a057335b28d26f9e7f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c46eb856baafbef9bc3b7fa34a0258ef16923fb8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690955"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782944"
 ---
-# <a name="error-the-rules-on-this-computer-do-not-match"></a>Pogreška: pravila na ovom računalu ne podudaraju se
+# <a name="error-the-rules-on-this-computer-do-not-match"></a>Pogreška: pravila na ovom računalu ne odgovaraju
 
-Da biste vidjeli ažurirani status tog poznatog problema, pročitajte članak [pravila na ovom računalu ne podudaraju se s pravilima u sustavu Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+Da biste vidjeli ažurirani status tog poznatog problema, [pogledajte članak Pravila na ovom računalu ne](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0) odgovaraju pravilima u sustavu Microsoft Exchange
 
-Tim za Outlook implementirao je popravak u Međuaplikaciji 12928,10000. Popravak je već brzo uključen u Insider i bit će na mjesečnom kanalu krajem lipnja 2020. Kada završite s ispravnom izgradnjom, možda ćete dobiti upit "koja pravila želite zadržati" posljednji put. Kada se to od vas zatraži, odaberite poslužitelj, a zatim se vratite u Outlook i ponovno omogućite onemogućena pravila.
+Tim za Outlook implementiran je popravak u međuverziji 12928.10000. Popravak se već nalazi u programu Insider Fast i krajem lipnja 2020. idite na Mjesečni kanal. Kada popravite međuverziju, možda će vam se po posljednji put pojaviti upit "Koja pravila želite zadržati". Kada se to od vas zatraži, odaberite Poslužitelj, a zatim se vratite u Outlook i ponovno omogućite sva onemogućena pravila.
 
 Dok popravak ne bude dostupan, upotrijebite sljedeće zaobilazno rješenje:
 
-**Zaobilazno rješenje**: u nedavnim izvješćima došlo je do problema za one koji su stvorili samo klijentska pravila u radnoj površini programa Outlook. Ako i dalje pokrenete problem, razmotrite brisanje pravila, a zatim stvaranje i uređivanje pravila samo u aplikaciji OWA (Outlook Web App) dok se problem ne riješi.
+**Zaobilazno** rješenje: u nedavnim izvješćima pojavio se problem za one koji su stvorili samo klijentska pravila u programu Outlook za stolna računala. Ako naiđete na problem, razmislite o brisanju pravila, a zatim pravila stvarajte i uređujte samo u aplikaciji OWA (Outlook Web App) dok se problem ne riješi.
 
-Ako ne možete ručno izbrisati pravila, možete pokrenuti naredbu programa Outlook prilikom pokretanja programa Outlook pokretanjem Outlook.exe/cleanrules. Time ćete izbrisati i pravila klijenta i poslužitelja. Izbrisat će sva pravila za sve račune u profilu programa Outlook. Ta je naredba dodatno dokumentirana u članku prekidača naredbenog retka.
+Ako ne možete ručno izbrisati pravila, prilikom pokretanja programa Outlook možete pokrenuti naredbu programa Outlook pokretanjem Outlook.exe /cleanrules. Time ćete izbrisati i pravila klijenta i poslužitelja. Izbrisat će sva pravila za sve račune u profilu programa Outlook. Ta je naredba dodatno dokumentirana u članku s prebacivanjem naredbenog retka.
 

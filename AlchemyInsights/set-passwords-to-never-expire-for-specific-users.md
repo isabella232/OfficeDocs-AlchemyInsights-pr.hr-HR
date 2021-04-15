@@ -1,8 +1,8 @@
 ---
-title: Postavljanje SPF
+title: Postavljanje SPF-a
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,22 +15,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
-ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
+ms.openlocfilehash: 85f6c9c722b0b3a89802dfb256505ff5b746788f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295598"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51788983"
 ---
-# <a name="set-passwords-to-never-expire"></a>Postavljanje lozinki da nikad ne istekne
+# <a name="set-passwords-to-never-expire"></a>Postavljanje lozinki da nikad ne istječe
 
-Da biste postavili sve lozinke koje nikada ne isteču, u centru za administratore sustava Microsoft 365 **Idite na**  >  **Postavke programa org > [Sigurnost i tajnost](https://portal.office.com/adminportal/home#/settings/security)  >  [pravilnika o isteku lozinke](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) ** i poništite provjeru "postavljanje korisničkih lozinki da istekne nakon broja dana".
+Da biste postavili da sve lozinke nikad ne istječu, u centru za administratore sustava Microsoft 365 otvorite postavke Postavke postavke tvrtke ili ustanove > Pravilnik o isteku lozinke za zaštitu privatnosti i ponovno potvrdite "Postavljanje korisničkih lozinki da istječe nakon nekoliko  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** dana".
   
-Detaljnije informacije potražite u članku:
+Detaljnije informacije potražite u sljedećem članku:
 
-- [Postavljanje pravilnika o isteku lozinke za svoju tvrtku ili ustanovu.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [Postavite pravilnik o isteku lozinke za svoju organizaciju.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [Postavljanje lozinke koja nikada ne istječe za određene korisnike](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+- [Postavljanje lozinke da nikad ne istječe za određene korisnike](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [Lozinka mora zadovoljiti preduvjete složenosti](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [Lozinka mora zadovoljavati zahtjeve složenosti](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   

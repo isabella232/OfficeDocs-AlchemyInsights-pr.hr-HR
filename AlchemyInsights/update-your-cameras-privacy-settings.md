@@ -1,8 +1,8 @@
 ---
-title: Ažuriranje postavki zaštite privatnosti fotoaparata
+title: Ažuriranje postavki zaštite privatnosti kamere
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: b4731cb8abc7cc8b146a752940fa954138ddb188
-ms.sourcegitcommit: 56e0cd81b44ae8fe7a63810a043a452f407e87d6
+ms.openlocfilehash: e9ee56355bf77f18b0e078e8536525f8c51f17aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48274714"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782647"
 ---
-# <a name="update-your-cameras-privacy-settings"></a>Ažuriranje postavki zaštite privatnosti fotoaparata
+# <a name="update-your-cameras-privacy-settings"></a>Ažuriranje postavki zaštite privatnosti kamere
 
-Ovaj kod pogreške znači da postavke zaštite privatnosti na kameri utječu na aplikaciju. Da biste ažurirali postavke zaštite privatnosti fotoaparata, slijedite ove korake:
+Taj kod pogreške znači da postavke zaštite privatnosti kamere utječu na aplikaciju. Slijedite ove korake da biste ažurirali postavke zaštite privatnosti kamere:
 
-- Otvorite **gumb Start > postavke > privatnost > kamere**.
-- U odjeljku **Dopusti pristup kameri na ovom uređaju**odaberite **Promijeni**. Provjerite je li prekidač **uključen.**
-- Zatim u odjeljku **Dopusti aplikacijama pristup kameri**provjerite je li **uključen.**
-- Zatim u odjeljku **Odaberite koje aplikacije mogu pristupati kameri**provjerite je li uključena i prekidač uz željenu aplikaciju.
+- Otvorite **gumb Start > Postavke > Zaštita privatnosti > kamera**.
+- U **odjeljku Dopusti pristup kameri na ovom uređaju** odaberite **Promijeni**. Provjerite je li prekidač **uključen**.
+- Zatim u **odjeljku Dopusti aplikacijama pristup kameri** provjerite je li prekidač **uključen**.
+- Zatim u **odjeljku Odaberite aplikacije** koje mogu pristupiti kameri provjerite je li uključen i prekidač pokraj željene aplikacije.
