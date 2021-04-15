@@ -2,7 +2,7 @@
 title: Postavljanje pretplate na Microsoft 365 Education
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: ac31864495ebd398f094c27b59787033069c1433
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 778a44b5da04db56304e866e502801e382e84363
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701063"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787453"
 ---
-# <a name="set-up-a-microsoft-365-education-subscription"></a><span data-ttu-id="f36d0-102">Postavljanje pretplate na Microsoft 365 Education</span><span class="sxs-lookup"><span data-stu-id="f36d0-102">Set up a Microsoft 365 Education subscription</span></span>
+# <a name="set-up-a-microsoft-365-education-subscription"></a><span data-ttu-id="a0d2a-102">Postavljanje pretplate na Microsoft 365 Education</span><span class="sxs-lookup"><span data-stu-id="a0d2a-102">Set up a Microsoft 365 Education subscription</span></span>
 
-<span data-ttu-id="f36d0-103">Za vođene upute pogledajte[opisni audio videozapis](https://aka.ms/M365EduSetup) cjelokupnog procesa postavljanja sustava Education.</span><span class="sxs-lookup"><span data-stu-id="f36d0-103">For a guided walk-through, please watch a [descriptive audio video](https://aka.ms/M365EduSetup) of the entire Education set up process.</span></span>
+<span data-ttu-id="a0d2a-103">Za vođene upute pogledajte[opisni audio videozapis](https://aka.ms/M365EduSetup) cjelokupnog procesa postavljanja sustava Education.</span><span class="sxs-lookup"><span data-stu-id="a0d2a-103">For a guided walk-through, please watch a [descriptive audio video](https://aka.ms/M365EduSetup) of the entire Education set up process.</span></span>
 
-<span data-ttu-id="f36d0-104">**Više odličnih resursa**</span><span class="sxs-lookup"><span data-stu-id="f36d0-104">**More great resources**</span></span>
+<span data-ttu-id="a0d2a-104">**Više odličnih resursa**</span><span class="sxs-lookup"><span data-stu-id="a0d2a-104">**More great resources**</span></span>
 
-- <span data-ttu-id="f36d0-105">Pročitajte članak [Stvaranje klijentskog računa sustava Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) za pregled.</span><span class="sxs-lookup"><span data-stu-id="f36d0-105">See [Create your Office 365 tenant account](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) for an overview.</span></span>
-- <span data-ttu-id="f36d0-106">Pročitajte članak [početak rada s programom Microsoft 365 Education](https://docs.microsoft.com/education/) za IT administratore, programere i partnere.</span><span class="sxs-lookup"><span data-stu-id="f36d0-106">See [getting started with Microsoft 365 Education](https://docs.microsoft.com/education/) for IT Admins, Developers, and Partners.</span></span>
+- <span data-ttu-id="a0d2a-105">Pregled pogledajte u članku Stvaranje računa klijenta za [Office 365.](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)</span><span class="sxs-lookup"><span data-stu-id="a0d2a-105">See [Create your Office 365 tenant account](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) for an overview.</span></span>
+- <span data-ttu-id="a0d2a-106">Pogledajte [početak rada s programom Microsoft 365 Education za](https://docs.microsoft.com/education/) IT administratore, razvojne inženjere i partnere.</span><span class="sxs-lookup"><span data-stu-id="a0d2a-106">See [getting started with Microsoft 365 Education](https://docs.microsoft.com/education/) for IT Admins, Developers, and Partners.</span></span>
