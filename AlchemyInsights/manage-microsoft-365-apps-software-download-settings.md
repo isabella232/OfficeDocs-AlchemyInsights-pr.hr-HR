@@ -1,8 +1,8 @@
 ---
-title: Upravljanje postavkama preuzimanja softvera za Microsoft 365 Apps
+title: Upravljanje postavkama preuzimanja softvera za aplikacije okruženja Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "5733"
-ms.openlocfilehash: 87dc342f9d4cb8081d35bd93827d05f7598418f9
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
-ms.translationtype: MT
+ms.openlocfilehash: 7ca7e8a979acdb09765095f0ae6ab61ef9a43b3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "50713430"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803248"
 ---
-# <a name="manage-office-installation-options"></a>Upravljanje mogućnostima instalacije sustava Office
+# <a name="manage-office-installation-options"></a>Upravljanje mogućnostima za instalaciju sustava Office
 
-Kao administrator sustava Office 365 možete kontrolirati koji softver sustava Office korisnici mogu preuzimati i instalirati iz sustava Office 365. Dodatne informacije potražite u članku [Upravljanje mogućnostima instalacije sustava Office u centru za administratore tvrtke Microsoft 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365).
+Kao administrator sustava Office 365, možete odrediti koji softver sustava Office korisnici mogu preuzeti i instalirati iz sustava Office 365. Dodatne informacije potražite u članku [Upravljanje mogućnostima za instalaciju sustava Office u Centru za administratore okruženja Microsoft 365](https://docs.microsoft.com/deployoffice/manage-software-download-settings-office-365).

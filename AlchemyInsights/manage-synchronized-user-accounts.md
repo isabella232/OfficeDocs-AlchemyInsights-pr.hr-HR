@@ -2,7 +2,7 @@
 title: Upravljanje sinkroniziranim korisničkim računima
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 7566ad9a9591735a704649fd2599c75aef2895b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe2857043434fd4b0b5723123b1fae908cd66ee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777811"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802879"
 ---
 # <a name="manage-synchronized-user-accounts"></a>Upravljanje sinkroniziranim korisničkim računima
 
-Obično koristite centar za administratore sustava Microsoft 365 da biste dodali i promijenili korisničke račune. Međutim, ne možete ga koristiti ako je omogućena sikronizacija direktorija ili SSO. Umjesto toga upravljate korisnicima pomoću komponente Windows PowerShell kao što je opisano u [odjeljku Konfiguriranje korisničkih računa uz Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ). 
+Obično pomoću centra za administratore sustava Microsoft 365 dodajete i mijenjate korisničke račune. No ne možete ga koristiti ako je omogućena sychronizacija direktorija ili SSO. Umjesto toga upravljajte korisnicima pomoću komponente Windows PowerShell na način opisan u članku [Konfiguriranje svojstava korisničkog računa pomoću komponente Office 365 PowerShell.](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ) 
   
 

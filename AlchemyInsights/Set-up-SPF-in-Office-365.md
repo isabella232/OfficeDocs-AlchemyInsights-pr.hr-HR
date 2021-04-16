@@ -2,25 +2,25 @@
 title: Postavljanje SPF-a u sustavu Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 8b77871b7ae2706ca2d493f4a53f27d151d8bf77
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 11a972bf7f3c13c2fc67a79439873f587e4a9f15
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44501339"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804337"
 ---
-# <a name="set-passwords-to-never-expire"></a>Postavljanje lozinki da nikada ne isteknu 
+# <a name="set-passwords-to-never-expire"></a>Postavljanje lozinki da nikad ne istječe 
 
-Da biste postavili da sve lozinke nikada ne isteknu, u centru za administratore sustava Microsoft 365 **otvorite**  >  stranicu Zaštita[ &amp; sigurnosti](https://portal.office.com/adminportal/home#/settings/security) postavki. Odaberite **Uredi** pokraj **pravila o lozinki**i okrenite klizač na **Uključeno**.
+Da biste postavili da sve lozinke nikad ne istječu, u centru za administratore sustava Microsoft 365 otvorite stranicu **Zaštita**  >  [privatnosti sigurnosti &amp; postavki.](https://portal.office.com/adminportal/home#/settings/security) Odaberite **Uređivanje** pokraj **odjeljka Pravilnik o lozinki**, a zatim klizač postavite na **Uključi**.
   
-Detaljnije informacije potražite [u članku: Postavljanje pravila isteka lozinke za svoju tvrtku ili ustanovu.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+Detaljnije informacije potražite u članku Postavljanje [pravilnika o isteku lozinke za svoju organizaciju.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-[Postavljanje lozinke za nikada ne istječe za određene korisnike](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+[Postavljanje lozinke da nikad ne istječe za određene korisnike](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
   
