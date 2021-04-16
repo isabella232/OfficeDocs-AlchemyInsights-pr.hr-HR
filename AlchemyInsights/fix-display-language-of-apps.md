@@ -1,8 +1,8 @@
 ---
-title: Ispravljanje jezika prikaza aplikacija
+title: Rješavanje problema s jezikom prikaza aplikacija
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001477"
 - "3508"
-ms.openlocfilehash: afe98f78654ba84a33f1bc3de0cf97bd22ccdb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55b2ef2b47ce2451133341f7a58d7d3f3e114bfe
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730079"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812852"
 ---
-# <a name="fix-the-display-language-of-apps"></a><span data-ttu-id="e4b53-102">Ispravljanje jezika prikaza aplikacija</span><span class="sxs-lookup"><span data-stu-id="e4b53-102">Fix the display language of apps</span></span>
+# <a name="fix-the-display-language-of-apps"></a><span data-ttu-id="bb4f4-102">Rješavanje problema s jezikom prikaza aplikacija</span><span class="sxs-lookup"><span data-stu-id="bb4f4-102">Fix the display language of apps</span></span>
 
-<span data-ttu-id="e4b53-103">Kada promijenite jezik prikaza u sustavu Windows 10, neke aplikacije i dalje mogu koristiti prethodni jezik kada ih otvorite.</span><span class="sxs-lookup"><span data-stu-id="e4b53-103">After you change the display language in Windows 10, some apps may still use the previous language when you open them.</span></span> <span data-ttu-id="e4b53-104">To se događa zato što se nove verzije aplikacija za taj jezik moraju preuzeti iz trgovine.</span><span class="sxs-lookup"><span data-stu-id="e4b53-104">This happens because new versions of the apps for that language must be downloaded from the Store.</span></span> <span data-ttu-id="e4b53-105">Da biste riješili taj problem, možete pričekati automatsko ažuriranje ili možete ručno instalirati ažuriranu verziju aplikacija.</span><span class="sxs-lookup"><span data-stu-id="e4b53-105">To fix this problem, you can either wait for the automatic update, or you can manually install the updated version of the apps.</span></span>
+<span data-ttu-id="bb4f4-103">Kada promijenite jezik prikaza u sustavu Windows 10, neke aplikacije i dalje mogu koristiti prethodni jezik kada ih otvorite.</span><span class="sxs-lookup"><span data-stu-id="bb4f4-103">After you change the display language in Windows 10, some apps may still use the previous language when you open them.</span></span> <span data-ttu-id="bb4f4-104">To se događa jer se nove verzije aplikacija za taj jezik moraju preuzeti iz trgovine Store.</span><span class="sxs-lookup"><span data-stu-id="bb4f4-104">This happens because new versions of the apps for that language must be downloaded from the Store.</span></span> <span data-ttu-id="bb4f4-105">Da biste riješili taj problem, možete pričekati automatsko ažuriranje ili ručno instalirati ažuriranu verziju aplikacija.</span><span class="sxs-lookup"><span data-stu-id="bb4f4-105">To fix this problem, you can either wait for the automatic update, or you can manually install the updated version of the apps.</span></span>
 
-<span data-ttu-id="e4b53-106">Da biste ručno instalirali ažuriranje, otvorite **Microsoft Store** , a zatim kliknite **preuzimanja i ažuriranja** u gornjem desnom kutu.</span><span class="sxs-lookup"><span data-stu-id="e4b53-106">To manually install the update, open **Microsoft Store** and click **Downloads and updates** in the top right corner.</span></span> <span data-ttu-id="e4b53-107">Zatim kliknite **Dohvati ažuriranja**.</span><span class="sxs-lookup"><span data-stu-id="e4b53-107">Then click **Get updates**.</span></span> <span data-ttu-id="e4b53-108">Ako se jezik ne mijenja nakon dovršetka ažuriranja, pokušajte ponovno pokrenuti PC.</span><span class="sxs-lookup"><span data-stu-id="e4b53-108">If the language is not changed after the update is complete, try restarting your PC.</span></span>
+<span data-ttu-id="bb4f4-106">Da biste ručno instalirali ažuriranje, **otvorite Microsoft Store,** a **zatim u gornjem** desnom kutu kliknite Preuzimanja i ažuriranja.</span><span class="sxs-lookup"><span data-stu-id="bb4f4-106">To manually install the update, open **Microsoft Store** and click **Downloads and updates** in the top right corner.</span></span> <span data-ttu-id="bb4f4-107">Zatim kliknite **Preusmj.**</span><span class="sxs-lookup"><span data-stu-id="bb4f4-107">Then click **Get updates**.</span></span> <span data-ttu-id="bb4f4-108">Ako se jezik ne promijeni nakon dovršavanja ažuriranja, pokušajte ponovno pokrenuti PC.</span><span class="sxs-lookup"><span data-stu-id="bb4f4-108">If the language is not changed after the update is complete, try restarting your PC.</span></span>
 
-![Dohvaćanje ažuriranja.](media/get-updates.png)
+![Nabavite ažuriranja.](media/get-updates.png)
 
-<span data-ttu-id="e4b53-110">Da biste pročitali više o postavkama jezika unosa i prikaza, pročitajte članak [Upravljanje postavkama jezika za unos i prikaz u sustavu Windows 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).</span><span class="sxs-lookup"><span data-stu-id="e4b53-110">To read more about input and display language settings, see [Manage your input and display language settings in Windows 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).</span></span>
+<span data-ttu-id="bb4f4-110">Dodatne informacije o postavkama jezika unosa i prikaza potražite u članku Upravljanje postavkama [jezika unosa i prikaza u sustavu Windows 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).</span><span class="sxs-lookup"><span data-stu-id="bb4f4-110">To read more about input and display language settings, see [Manage your input and display language settings in Windows 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).</span></span>

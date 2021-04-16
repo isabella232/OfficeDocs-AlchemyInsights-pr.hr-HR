@@ -1,8 +1,8 @@
 ---
-title: Pronalaženje stranice koja prikazuje moje kontakte
+title: Pronalaženje stranice na koju se prikazuju moji kontakti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff3fca5a12c08314388fdb494c598c3e03d5db8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745266"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812978"
 ---
-# <a name="find-the-page-that-shows-my-contacts"></a><span data-ttu-id="c5755-102">Pronalaženje stranice koja prikazuje moje kontakte</span><span class="sxs-lookup"><span data-stu-id="c5755-102">Find the page that shows my contacts</span></span>
+# <a name="find-the-page-that-shows-my-contacts"></a><span data-ttu-id="7efb1-102">Pronalaženje stranice na koju se prikazuju moji kontakti</span><span class="sxs-lookup"><span data-stu-id="7efb1-102">Find the page that shows my contacts</span></span>
 
-<span data-ttu-id="c5755-103">Kontakte možete pretraživati na isti način kao i traženje poruka e-pošte.</span><span class="sxs-lookup"><span data-stu-id="c5755-103">You can search for your contacts in the same way as you search for your emails.</span></span>
+<span data-ttu-id="7efb1-103">Kontakte možete pretraživati na isti način kao i kada tražite poruke e-pošte.</span><span class="sxs-lookup"><span data-stu-id="7efb1-103">You can search for your contacts in the same way as you search for your emails.</span></span>
  
-<span data-ttu-id="c5755-104">Dodirnite ikonu povećanje pretraživanja, a zatim u okvir pri vrhu zaslona upišite zahtjev za pretraživanje kontakata.</span><span class="sxs-lookup"><span data-stu-id="c5755-104">Tap the magnifying glass search icon, then type your contact search request into the box at the top of your screen.</span></span> <span data-ttu-id="c5755-105">(**Prosavjet**: možete dvaput dodirnuti povećalo da biste fokusirali okvir za pretraživanje.) Rezultati će se prikazivati u odjeljku kontakti.</span><span class="sxs-lookup"><span data-stu-id="c5755-105">(**Protip**: You can double-tap on the magnifying glass to bring focus to the search box.) Your results will appear in the Contacts section.</span></span>
+<span data-ttu-id="7efb1-104">Dodirnite ikonu pretraživanja povećala, a zatim u okvir pri vrhu zaslona upišite zahtjev za pretraživanje kontakta.</span><span class="sxs-lookup"><span data-stu-id="7efb1-104">Tap the magnifying glass search icon, then type your contact search request into the box at the top of your screen.</span></span> <span data-ttu-id="7efb1-105">(**Protip**: Možete dvaput dodirnuti povećalo da biste se usredotočili na okvir za pretraživanje.) Rezultati će se prikazati u odjeljku Kontakti.</span><span class="sxs-lookup"><span data-stu-id="7efb1-105">(**Protip**: You can double-tap on the magnifying glass to bring focus to the search box.) Your results will appear in the Contacts section.</span></span>
