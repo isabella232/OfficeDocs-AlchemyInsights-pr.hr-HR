@@ -2,7 +2,7 @@
 title: Oporavak izbrisanih stavki iz centra za administratore sustava Exchange
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: f231cbb27d0fc50c10ee8189ba02538abe300aec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693115"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809719"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>Oporavak izbrisanih stavki iz centra za administratore sustava Exchange
 
-U pojednostavnjenom i [ažuriranom iskustvu upravljanja poštanskim sandučićima](https://admin.exchange.microsoft.com/#/mailboxes)u centru za administratore sustava Exchange (EAC) možete odabrati određeni poštanski sandučić korisnika i oporaviti stavke.
+U sklopu pojednostavljenog i [ažuriranog upravljanja poštanskim](https://admin.exchange.microsoft.com/#/mailboxes)sandučićem u centru za administratore sustava Exchange (EAC) možete odabrati određeni poštanski sandučić korisnika i oporaviti stavke.
 
-1. U odjeljku **Primatelji**odaberite **poštanske sandučiće** .
-2. Odaberite korisnika s kojeg želite oporaviti poruke e-pošte.
+1. Odaberite **poštanske sandučiće** u **odjeljku Primatelji**.
+2. Odaberite korisnika od koji želite oporaviti poruke e-pošte.
 3. Odaberite **oporavi izbrisane stavke**.
-    - Možda ćete morati pogledati u odjeljku **... više** padajućeg popisa da biste vidjeli **Oporavak izbrisanih stavki**.
-4. Korisniku odaberite mogućnosti filtriranja da biste pronašli stavke koje morate oporaviti.
+    - Možda ćete morati pogledati ispod **... više padajućeg** izbornika da biste vidjeli oporavak **izbrisanih stavki.**
+4. Korisnicima pronađite mogućnosti filtra da biste pronašli stavke koje morate oporaviti.

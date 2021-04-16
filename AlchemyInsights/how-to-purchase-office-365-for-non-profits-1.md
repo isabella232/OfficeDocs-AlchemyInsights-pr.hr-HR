@@ -1,8 +1,8 @@
 ---
-title: 'Microsoft 365 za neprofitne organizacije '
+title: 'Microsoft 365 za neprofitne ustanove – odobren '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779800"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810656"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 za neprofitne organizacije
+# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 za neprofitne ustanove – odobren
 
-Vaš status kao Microsoftova ovlaštena neprofitna tvrtka odobrila je. Kupnju možete dovršiti iz centra za administratore sustava Microsoft 365.
+Odobren je vaš status microsoftove kvalificirane neprofitne organizacije. Kupnju možete dovršiti u centru za administratore sustava Microsoft 365.
 
-1. U centru za administratore otvorite **Billing** \> stranicu [nabave servisa](https://go.microsoft.com/fwlink/p/?linkid=868433) za naplatu.
+1. U centru za administratore  idite na stranicu \> [Servisi za kupnju naplate.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Odaberite s popisa u odjeljku **neprofitabilne tarife**.
+2. Odaberite s popisa u **odjeljku Neprofitne tarife**.
 
-3. Postavite pokazivač miša na pretplatu koju želite kupiti, a zatim odaberite **Kupi odmah**.
+3. Postavite pokazivač miša iznad pretplate koju želite kupiti, a zatim odaberite **Kupite odmah**.
 
-Dodatne informacije potražite u člancima [Microsoft 365 Resources za neprofitne organizacije](https://www.microsoft.com/nonprofits/microsoft-365) ili [Prodaja kontakata](https://www.microsoft.com/nonprofits/contact-us).
+Dodatne informacije potražite u članku [Resursi za Microsoft 365 za neprofitne](https://www.microsoft.com/nonprofits/microsoft-365) ustanove ili prodaja [kontakata](https://www.microsoft.com/nonprofits/contact-us).

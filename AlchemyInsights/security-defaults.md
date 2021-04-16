@@ -1,8 +1,8 @@
 ---
-title: Postavke sigurnosti
+title: Zadane sigurnosne postavke
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740322"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809179"
 ---
-# <a name="security-defaults"></a>Postavke sigurnosti
+# <a name="security-defaults"></a>Zadane sigurnosne postavke
 
-Informacije o sigurnosnim zadanim postavkama potražite u odjeljku [što su zadane postavke sigurnosti?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Informacije o zadanim postavkama sigurnosti potražite u odjeljku [Što su zadane sigurnosne postavke?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Postavke sigurnosti u servisu Azure Active Directory (Azure AD) olakšavaju sigurnost i pomažu u zaštiti tvrtke ili ustanove. Sigurnosne zadane postavke sadrže unaprijed konfigurirane sigurnosnu postavku za česte napade.
+Zadane sigurnosne postavke na servisu Azure Active Directory (Azure AD) olakšavaju zaštitu i zaštitu tvrtke ili ustanove. Zadane sigurnosne postavke sadrže unaprijed konfigurirane sigurnosne postavke za uobičajene napade.
 
-Microsoft čini sigurnosne zadane postavke dostupnim svima. Cilj je osigurati da sve ustanove imaju osnovnu razinu sigurnosti omogućenu bez dodatnog troška. Uključite sigurnosne postavke na portalu Azure.
+Microsoft svima čini sigurnosne zadane postavke dostupnima. Cilj je osigurati da sve tvrtke ili ustanove imaju osnovnu razinu sigurnosti omogućenu bez dodatnih troškova. Na portalu Azure uključit ćete zadane sigurnosne postavke.

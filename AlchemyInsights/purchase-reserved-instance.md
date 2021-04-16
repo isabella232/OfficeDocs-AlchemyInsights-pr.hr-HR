@@ -1,8 +1,8 @@
 ---
-title: Rezervirane instance nabave
+title: Instanca rezervirana za kupnju
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 59b34a323e28c16869a97b10a16091de7b80ad43
-ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
-ms.translationtype: MT
+ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48741352"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809899"
 ---
 # <a name="questions-before-purchase"></a>Pitanja prije kupnje
 
-**Kako se primjenjuje popust na rezervaciju na postojeće resurse?**  
-Naknada za rezervaciju automatski se primjenjuje na postojeće resurse koji odgovaraju SKU, regiji i opsegu rezervacije. U resurs nema označavanja rezervacije. [uči više](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
+**Kako se popust na rezervacije primjenjuje na postojeće resurse?**  
+Pogodnost rezervacije automatski se odnosi na postojeće resurse koji odgovaraju SKU-u rezervacije, regiji i opsegu. Nema označavanja rezervacije na resursu. [Saznajte više](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
 
-**Koju veličinu VM trebam kupiti?**  
-Pročitajte ovaj članak: [Odredite veličinu prave VM prije kupnje](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+**Koju veličinu VM-a trebam kupiti?**  
+Pročitajte ovaj članak: [Utvrdite pravu veličinu VM-a prije kupnje](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**Pitanja o kupnji SQL rezerviranog kapaciteta**  
-Pročitajte ovaj članak: [Kupnja rezerviranog kapaciteta SQL baze podataka](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
+**Pitanja o tome kako kupiti SQL rezervirani kapacitet?**  
+Pročitajte ovaj članak: [Kupite rezervirani kapacitet SQL baze podataka](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
-**Ja sam u indirektnom eklijentu, trebam li svog partnera kupiti?**  
-Ne, možete kupiti RI ako ste vlasnik na kartici EA.
+**Nalazim se u neizravnom kupcu EA, trebam li partnera za kupnju?**  
+Ne, možete kupiti RI ako ste vlasnik EA pretplate.
 
-**Da li RI Kupnja oduzima od monetarne predanosti?**  
-Da. Ako nemate dovoljno monetarne predanosti, dobit ćete fakturu za predobnu vrijednost za iznos koji premašuje dostupnu monetarnu predanost.
+**Odbija li se RI kupnja od novčane obveze?**  
+Da. Ako nemate dovoljno novčane obveze, dobit ćete fakturu s viškom za iznos koji premašuje dostupnu novčanu obvezu.
 
-**Kako se rezervirana instanca primjenjuje na Windows VMs ili na moj SQL IP troškove?**  
-Popust rezervirane instance primjenjuje se samo na korištenje u izračunu. Troškove IP-a i SQL-a u sustavu Windows naplaćivat će se odvojeno i nećete dobiti popust za RI. [Softverske troškove koji nisu obuhvaćeni pomoću servisa Azure pridržana VM instance](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Kako se rezervirana instanca primjenjuje na Windows VM-ove ili na moje SQL IP troškove?**  
+Popust na rezerviranu instancu primjenjuje se samo na upotrebu računala. Windows IP ili SQL IP troškovi naplaćuju se odvojeno i ne ostvaruju RI popust. [Troškovi softvera koji nisu uključeni u instance Azure Reserved VM-a ](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
-**Kupnja rezervirane instance za naplatu**  
+**Naplata instance rezervirane za kupnju**  
       
-Kupnja rezervirane instance naplaćuje se načinu plaćanja vezan uz pretplatu koju odaberete u vrijeme kupnje. Vrsta pretplate mora biti korporacijski ugovor (broj ponude: MS-AZR-0017P), Pay-It-You-Go (broj ponude: MS-AZR-0003P), Microsoftov ugovor o klijentu ili CSP.
+Kupnja rezervirane instance naplaćuje se načinom plaćanja vezanim uz pretplatu koju odaberete u trenutku kupnje. Vrsta pretplate mora biti Enterprise Agreement (broj ponude: MS-AZR-0017P), plaćanje prema potrošnji (broj ponude: MS-AZR-0003P), Microsoftov ugovor s klijentom ili CSP.
 
--   Za pretplatu na Enterprise, naknade se odbijaju od iznosa novčane obveze za upis ili se naplaćuju kao prestar
--   Za pretplatu na plaćanje-kao-te-go naknade se naplaćuju na kreditnu karticu ili način plaćanja na fakturi na pretplati.
+-   Za pretplatu na razini korporacije, troškovi se odbijaju od salda novčanih obveza upisa ili se naplaćuju kao višak
+-   Za pretplatu plaćanja prema potrošnji, troškovi se naplaćuju s kreditne kartice ili putem načina plaćanja računa na pretplatu
 
-**Kupite tarifu za uslugu:**
+**Kupite plan usluga:**
 
--   [Pretpay za rezerviran kapacitet za Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Prepay za SQL bazu podataka izračunali resurse s kapacitetom baze podataka Azure SQL](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Prepay za virtualne strojeve s servisu Azure pridržana VM instance](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Plaćanje unaprijed za rezervirani kapacitet Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Plaćanje unaprijed za proračunske resurse SQL baze podataka s rezerviranim kapacitetom baze podataka sustava Azure SQL](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Plaćanje unaprijed za virtualna računala pomoću Azure rezerviranih instanci VM-a](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Kupite softverski plan:**
+**Kupite ponudu softvera:**
 
--   [Prepay za programe crvenog šešira iz rezervacija servisa Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Pretplate za SUSE softverske tarife iz rezervacija za Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Plaćanje unaprijed za ponude softvera Red Hat s rezervacija platforme Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Plaćanje unaprijed za ponude softvera SUSE s rezervacija platforme Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)

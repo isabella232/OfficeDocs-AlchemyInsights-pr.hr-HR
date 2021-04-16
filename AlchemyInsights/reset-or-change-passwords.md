@@ -1,8 +1,8 @@
 ---
-title: Ponovno postavljanje ili promjena lozinki
+title: Ponovno postavljanje i promjena lozinki
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692143"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810188"
 ---
-# <a name="reset-or-change-passwords"></a>Ponovno postavljanje ili promjena lozinki
+# <a name="reset-or-change-passwords"></a>Ponovno postavljanje i promjena lozinki
 
-Korisnik može promijeniti vlastitu lozinku iz sigurnosti **mog računa**  >  [& privatnost](https://portal.office.com/account/#security).
+Korisnik može promijeniti vlastitu lozinku iz mogućnosti **Sigurnost mog računa**&  >  [privatnosti](https://portal.office.com/account/#security).
   
-Ako je korisnik zaboravio lozinku, administrator može ponovno postaviti lozinku **tako da bude korisnik**  >  [aktivnih korisnika](https://portal.office.com/adminportal/home#/users), odabere korisnika, a zatim **ponovno Postavi lozinku**.
+Ako je korisnik zaboravio lozinku, administrator može ponovno postaviti lozinku tako da ode na Korisnici Aktivni korisnici , odaberite korisnika, a  >  [](https://portal.office.com/adminportal/home#/users)zatim ponovno **postavi lozinku**.
   
-[Kliknite ovdje da biste naučili više](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)ili da bi korisnici mogli ponovno postaviti vlastite zaboravljena lozinke.
+[Kliknite ovdje da biste saznali više](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)ili da biste korisnicima dopustili ponovno postavljanje vlastitih zaboravljenih lozinki.

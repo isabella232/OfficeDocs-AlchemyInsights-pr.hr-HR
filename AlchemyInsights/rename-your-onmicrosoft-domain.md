@@ -1,8 +1,8 @@
 ---
-title: Preimenovanje domene u Microsoftu
+title: Preimenovanje domene onmicrosoft
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701311"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810224"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Preimenovanje domene onmicrosoft.com
+# <a name="rename-your-onmicrosoftcom-domain"></a>Preimenovanje onmicrosoft.com domene
 
- **Nakon prijave ne možete promijeniti naziv domene na servisu naMicrosoft.** Ako je, primjerice, Početna domena koju ste odabrali bila  *fourthcoffee.onmicrosoft.com*, ne možete je promijeniti u  *fabrikam.onmicrosoft.com*. Da biste koristili neku drugu domenu onmicrosoft.com, morat ćete započeti novu pretplatu uz Microsoft 365.
+ **Nakon registracije ne možete preimenovati domenu onmicrosoft.** Na primjer, ako je početna domena  *koju ste fourthcoffee.onmicrosoft.com*, ne možete je promijeniti tako da bude  *fabrikam.onmicrosoft.com*. Da biste koristili drugu onmicrosoft.com domenu, morate započeti novu pretplatu pomoću sustava Microsoft 365.
   
-Ako želite koristiti prilagođenu domenu kao što je  *contoso.com*  , možete [dodati neku koju posjedujete](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) ili [kupiti od Microsofta](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
+Ako želite koristiti prilagođenu domenu kao što [](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) *je contoso.com* , možete je dodati ili kupiti [od Microsofta](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
   

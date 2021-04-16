@@ -2,7 +2,7 @@
 title: Vraćanje izbrisanog obrasca
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 6923c15c3cce90c98ae79181e978fba273ab6059
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48018accc23a504c34b5469c198d6f29929d25c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662416"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809467"
 ---
 # <a name="restore-a-deleted-form"></a>Vraćanje izbrisanog obrasca
 
-Ako ste slučajno izbrisali obrazac u programu Microsoft Forms, možete ga oporaviti. Prijavite se u Microsoft Forms kao vlasnik izbrisanog obrasca. Odaberite **Koš za smeće**, a zatim odaberite obrazac koji želite oporaviti, a zatim odaberite **Vrati**. Kada se vrati, odaberite strelicu **natrag na moju stranicu obrasci** .
+Ako ste obrazac u aplikaciji Microsoft Forms izbrisali slučajno, možete ga oporaviti. Prijavite se u Microsoft Forms kao vlasnik izbrisanog obrasca. Odaberite koš za smeće , a zatim odaberite obrazac koji želite oporaviti pa **odaberite** **Vrati**. Kada se vratite, odaberite **strelicu Natrag na stranicu Obrasci.**
 
-Može ga oporaviti samo vlasnik obrasca. Ako je račun vlasnika obrasca onemogućen ili uklonjen iz zakupca, samo globalni administrator može oporaviti obrazac. Globalni administrator mora imati licencu za obrasce da bi mogao izvršiti vraćanje. Možete vratiti samo obrasce stvorene u roku od 30 dana od korisničkog računa koji se onemogućuju ili uklanjaju iz stanara.
+Samo ga vlasnik obrasca može oporaviti. Ako je račun vlasnika obrasca onemogućen ili uklonjen s klijenta, samo globalni administrator može oporaviti obrazac. Globalni administrator mora imati licencu za Forms da bi izvršio vraćanje. Moguće je vratiti samo obrasce stvorene u roku od 30 dana od onemogućiva ili uklonjenog korisničkog računa s klijenta.
 
-Ako ste globalni administrator gosta i želite oporaviti obrazac iz računa koji je izbrisan ili onemogućen, zamijenite [adresu e-pošte] pomoću adrese e-pošte izbrisanog ili onemogućenog korisnika na sljedećem URL-u: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [Adresa e-pošte]** , primjerice, ako je vaša adresa e-pošte JohnDoe@contoso.com, URL će biti: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
+Ako ste globalni administrator klijenta i želite oporaviti obrazac s izbrisanog ili onemogućenog računa, zamijenite [adresu e-pošte] adresom e-pošte izbrisanog ili onemogućenog korisnika na sljedećem URL-u: **https://forms.office.com/Pages/delegatepage.aspx?originalowner= [adresa** e-pošte] Primjerice, ako je adresa e-pošte johndoe@contoso.com, URL bi bio: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Kada pristupite korisnikovim izbrisanim obrascima, odaberite obrazac koji želite premjestiti, a zatim odaberite **Dodatne akcije obrasca**  >  **Move**.
+Kada imate pristup izbrisanim obrascima korisnika, odaberite obrazac koji želite premjestiti, a zatim **odaberite** Više akcije  >  **obrasca Premjesti**.
 
-Ako želite oporaviti obrazac u kojem je izbrisan, a korisnik je uklonjen iz tvrtke ili ustanove, globalni administrator može odabrati oporavak korisnika, ponovno postaviti lozinku za tog korisnika, a zatim prilikom prijave kao tog korisnika pristupiti obrascu da biste ga premjestili na drugog aktivnog korisnika. 
+Ako želite oporaviti obrazac na kojem je izbrisan i korisnik je uklonjen iz tvrtke ili ustanove, globalni administrator može odabrati oporavak korisnika, ponovno postaviti lozinku za tog korisnika, a zatim, dok je prijavljen kao taj korisnik, pristupiti obrascu da biste je premjestili drugom aktivnom korisniku. 
