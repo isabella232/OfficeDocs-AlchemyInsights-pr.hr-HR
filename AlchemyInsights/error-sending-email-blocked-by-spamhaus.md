@@ -2,7 +2,7 @@
 title: Pogreška prilikom slanja e-pošte koju je blokirao SpamHaus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +14,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: a0c2f4be0b2d8ba6fd3dadbdf306e6ce623ad380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b5ac1df0b6a07a475345235a8b4b555d6881147
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783795"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813716"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="ea7d1-102">Pogreška prilikom slanja e-pošte: klijentsko glavno računalo blokirano pomoću spamhaus</span><span class="sxs-lookup"><span data-stu-id="ea7d1-102">Error sending email: Client host blocked using Spamhaus</span></span>
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="1e24f-102">Pogreška prilikom slanja e-pošte: glavno računalo klijenta je blokirano pomoću aplikacije Spamhaus</span><span class="sxs-lookup"><span data-stu-id="1e24f-102">Error sending email: Client host blocked using Spamhaus</span></span>
 
-<span data-ttu-id="ea7d1-103">IP adresa koja je poslala poruku nalazi se na popisu blokova u vlasništvu servisa [spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245).</span><span class="sxs-lookup"><span data-stu-id="ea7d1-103">The IP address that sent the message is on a block list owned by [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245).</span></span> <span data-ttu-id="ea7d1-104">Razlozi zbog kojih je spamhaus blokirao obuhvaćaju ugroћene račune, kompromitirani strojevi koji zajednički koriste javnu IP adresu i pravila davatelja internetskih usluga (ISP-a).</span><span class="sxs-lookup"><span data-stu-id="ea7d1-104">Reasons for being blocked by Spamhaus include compromised accounts, compromised machines sharing a public IP address, and Internet Service Provider (ISP) policies.</span></span> <span data-ttu-id="ea7d1-105">Mogući su popravci:</span><span class="sxs-lookup"><span data-stu-id="ea7d1-105">Possible fixes are:</span></span>
+<span data-ttu-id="1e24f-103">IP adresa koja je poslala poruku nalazi se na popisu blokiranih adresa u vlasništvu tvrtke [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245).</span><span class="sxs-lookup"><span data-stu-id="1e24f-103">The IP address that sent the message is on a block list owned by [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245).</span></span> <span data-ttu-id="1e24f-104">Razlozi blokiranja servisa Spamhaus obuhvaćaju ugrožene račune, ugrožena računala koja zajednički dijele javnu IP adresu i pravilnike davatelja internetskih usluga (ISP-a).</span><span class="sxs-lookup"><span data-stu-id="1e24f-104">Reasons for being blocked by Spamhaus include compromised accounts, compromised machines sharing a public IP address, and Internet Service Provider (ISP) policies.</span></span> <span data-ttu-id="1e24f-105">Mogući popravci su:</span><span class="sxs-lookup"><span data-stu-id="1e24f-105">Possible fixes are:</span></span>
   
-- <span data-ttu-id="ea7d1-106">Da biste blokirali ulazne poruke na kojima kontrolirate izvorni poslužitelj e-pošte, morate odrediti uzrok i ukloniti blok s web-mjesta spamhaus.</span><span class="sxs-lookup"><span data-stu-id="ea7d1-106">For blocked inbound messages where you control the source email server, you need to determine the cause and remove the block from the Spamhaus website.</span></span>
+- <span data-ttu-id="1e24f-106">Za blokirane dolazne poruke na kojima upravljate izvornim poslužiteljem e-pošte morate utvrditi uzrok i ukloniti blok s web-mjesta Servisa Spamhaus.</span><span class="sxs-lookup"><span data-stu-id="1e24f-106">For blocked inbound messages where you control the source email server, you need to determine the cause and remove the block from the Spamhaus website.</span></span>
 
-- <span data-ttu-id="ea7d1-107">Da biste blokirali ulazne poruke u kojima adresa izvornog IP-a pripada nekome drugome, vlasnik adrese mora ukloniti blok s web-mjesta spamhaus.</span><span class="sxs-lookup"><span data-stu-id="ea7d1-107">For blocked inbound messages where the source IP address belongs to someone else, the address owner needs to remove the block from the Spamhaus website.</span></span> <span data-ttu-id="ea7d1-108">Ako je IP adresa na popisu poljski blok (PBL), vlasnik može dodijeliti neku drugu statičnu IP adresu ili ukloniti adresu iz PBL-a.</span><span class="sxs-lookup"><span data-stu-id="ea7d1-108">If the IP address is on the Policy Block List (PBL), the owner can assign a different static IP address or remove the address from the PBL.</span></span>
+- <span data-ttu-id="1e24f-107">Za blokirane dolazne poruke u kojima izvorna IP adresa pripada nekome drugome vlasnik adrese mora ukloniti blok s web-mjesta Spamhaus.</span><span class="sxs-lookup"><span data-stu-id="1e24f-107">For blocked inbound messages where the source IP address belongs to someone else, the address owner needs to remove the block from the Spamhaus website.</span></span> <span data-ttu-id="1e24f-108">Ako se IP adresa nalazi na popisu blokiranih pravilnika (PBL), vlasnik može dodijeliti drugu statičnu IP adresu ili ukloniti adresu iz PBL-a.</span><span class="sxs-lookup"><span data-stu-id="1e24f-108">If the IP address is on the Policy Block List (PBL), the owner can assign a different static IP address or remove the address from the PBL.</span></span>
 
-- <span data-ttu-id="ea7d1-109">Ako ste blokirali odlazne poruke iz domene povezane s Microsoftom, možete primiti ovu pogrešku ako su poruke preusmjerene putem servisa trećih strana.</span><span class="sxs-lookup"><span data-stu-id="ea7d1-109">For blocked outbound messages from your domain connected to Microsoft, you can receive this error if the messages are routed through a 3rd party service.</span></span> <span data-ttu-id="ea7d1-110">Možete koristiti alat za traženje funkcije WHOIS da biste pronašli vlasnika blokiranih IP adresa.</span><span class="sxs-lookup"><span data-stu-id="ea7d1-110">You can use a WHOIS lookup tool to find the blocked IP address owner.</span></span>
+- <span data-ttu-id="1e24f-109">Za blokirane odlazne poruke s vaše domene povezane s Microsoftom, tu pogrešku možete primiti ako se poruke usmjeravaju putem servisa treće strane.</span><span class="sxs-lookup"><span data-stu-id="1e24f-109">For blocked outbound messages from your domain connected to Microsoft, you can receive this error if the messages are routed through a 3rd party service.</span></span> <span data-ttu-id="1e24f-110">Da biste pronašli blokiranog vlasnika IP adrese, pomoću alata za pretraživanje WHOIS-a možete pronaći blokiranog vlasnika IP adrese.</span><span class="sxs-lookup"><span data-stu-id="1e24f-110">You can use a WHOIS lookup tool to find the blocked IP address owner.</span></span>

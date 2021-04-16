@@ -1,8 +1,8 @@
 ---
-title: Datum isteka tima i grupe u podlozi se ne podudaraju
+title: Datum isteka tima i temeljne grupe ne podudaraju se
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 77a10d87cf725339058408ff82b3e58c0736edfd
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364563"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813428"
 ---
-# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a><span data-ttu-id="5921d-102">Datum isteka tima i grupe u podlozi se ne podudaraju</span><span class="sxs-lookup"><span data-stu-id="5921d-102">Expiration date of team and underlying group don't match</span></span>
+# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a><span data-ttu-id="e086d-102">Datum isteka tima i temeljne grupe ne podudaraju se</span><span class="sxs-lookup"><span data-stu-id="e086d-102">Expiration date of team and underlying group don't match</span></span>
 
-<span data-ttu-id="5921d-103">Kada se tim obnovi, grupa koja se ponovno podupire tim obnavlja se prvi.</span><span class="sxs-lookup"><span data-stu-id="5921d-103">Before a team is renewed, the group that backs the team is renewed first.</span></span> <span data-ttu-id="5921d-104">Kao dio obnove, novi Datum isteka postavljen je na grupu za budući datum.</span><span class="sxs-lookup"><span data-stu-id="5921d-104">As part of renewal, a new expiry date is set on the group for a future date.</span></span> <span data-ttu-id="5921d-105">Ovaj novi Datum možda nije odmah vidljiv u timovima.</span><span class="sxs-lookup"><span data-stu-id="5921d-105">This new date may not be immediately visible in Teams.</span></span> <span data-ttu-id="5921d-106">Sinkroniziranje može potrajati i do 24 sata. Ako vam se prikazuje nepodudarnost između datuma isteka za tim i njegove temeljne grupe, pričekajte 24 sata prije nego što zatražite daljnju podršku.</span><span class="sxs-lookup"><span data-stu-id="5921d-106">It can take up to 24 hours to sync. If you see a discrepancy between the expiry date for a team and its underlying group, wait 24 hours before seeking further support.</span></span>  
+<span data-ttu-id="e086d-103">Prije obnove tima, grupa koja će vratiti tim prvo će se obnoviti.</span><span class="sxs-lookup"><span data-stu-id="e086d-103">Before a team is renewed, the group that backs the team is renewed first.</span></span> <span data-ttu-id="e086d-104">U sklopu obnove, novi datum isteka postavljen je na grupu za budući datum.</span><span class="sxs-lookup"><span data-stu-id="e086d-104">As part of renewal, a new expiry date is set on the group for a future date.</span></span> <span data-ttu-id="e086d-105">Taj novi datum možda neće biti odmah vidljiv u aplikaciji Teams.</span><span class="sxs-lookup"><span data-stu-id="e086d-105">This new date may not be immediately visible in Teams.</span></span> <span data-ttu-id="e086d-106">Sinkronizacija može potrajati i do 24 sata. Ako vidite nepodudarnost između datuma isteka za tim i njezinu temeljnu grupu, pričekajte 24 sata prije traženja dodatne podrške.</span><span class="sxs-lookup"><span data-stu-id="e086d-106">It can take up to 24 hours to sync. If you see a discrepancy between the expiry date for a team and its underlying group, wait 24 hours before seeking further support.</span></span>  
 
-<span data-ttu-id="5921d-107">Dodatne informacije potražite [u članku istekom i obnavljanju tima u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  .</span><span class="sxs-lookup"><span data-stu-id="5921d-107">See [Team expiration and renewal in Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  for more information.</span></span>
+<span data-ttu-id="e086d-107">Dodatne informacije potražite u članku Isteka i obnove tima u [aplikaciji Microsoft Teams.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)</span><span class="sxs-lookup"><span data-stu-id="e086d-107">See [Team expiration and renewal in Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  for more information.</span></span>
