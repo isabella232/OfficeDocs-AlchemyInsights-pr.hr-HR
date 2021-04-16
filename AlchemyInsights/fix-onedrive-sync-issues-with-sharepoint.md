@@ -1,8 +1,8 @@
 ---
-title: Rješavanje problema sa sinkronizacijom servisa OneDrive u sustavu SharePoint
+title: Rješavanje problema sa sinkronizacijom servisa OneDrive sa sustavom SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5800003"
 - "5724"
-ms.openlocfilehash: d24494f5fd778d16dea583b91b99148c606d8adc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 7b9b496534fbff77776c935d401d49208b0355b8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713312"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812744"
 ---
-# <a name="fix-onedrive-sync-issues-with-sharepoint"></a>Rješavanje problema sa sinkronizacijom servisa OneDrive u sustavu SharePoint
+# <a name="fix-onedrive-sync-issues-with-sharepoint"></a>Rješavanje problema sa sinkronizacijom servisa OneDrive sa sustavom SharePoint
 
-Ako se OneDrive ne sinkronizira sa sustavom SharePoint na način na koji vi i vaši korisnici očekujete, potražite otklanjanje poteškoća s [sinkronizacijom sustava SharePoint Online](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US) .
+Ako se OneDrive ne sinkronizira sa sustavom SharePoint onako kako vi ili vaši korisnici očekujete, rješenje potražite u članku [Rješavanje problema sa sinkroniziranjem sustava SharePoint Online](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US).

@@ -2,7 +2,7 @@
 title: Pribavljanje novih servisnih brojeva za Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5140"
-ms.openlocfilehash: c777669405ac9d4ba4b4b5afbd15345b65aedd72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90cc994398de0b53d3501cb9d95c860ad6b397d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707487"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812240"
 ---
 # <a name="get-new-service-numbers-for-teams"></a>Pribavljanje novih servisnih brojeva za Teams
 
@@ -28,7 +28,7 @@ U centru za administratore aplikacije Microsoft Teams:
 3. Na stranici **Mjesto i količina**:
 
     - U odjeljku **Država ili regija** odaberite državu ili regiju.
-    - U odjeljku **Vrsta broja**odaberite željenu vrstu servisnog broja.
+    - U odjeljku **Vrsta broja** odaberite željenu vrstu servisnog broja.
     - U odjeljku **Mjesto** odaberite mjesto. Ako trebate stvoriti novo mjesto, kliknite **Dodaj mjesto**.
     - U odjeljku **Pozivni broj područja** odaberite pozivni broj područja.
     - U odjeljku **Količina** unesite količinu brojeva koje želite za svoju tvrtku ili ustanovu i kliknite **Dalje** da biste odabrali svoje brojeve.

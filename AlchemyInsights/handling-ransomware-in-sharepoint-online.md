@@ -1,8 +1,8 @@
 ---
-title: Upravljanje obradom ransomware u sustavu SharePoint Online
+title: Rukovanje ucjenjivanim softverom u sustavu SharePoint Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: e9e69d846af13cd7260822a30fbbbfd7b1fb773a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8f7385a8f371fa24b3e0efdd02dd6c305b4920e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705867"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811736"
 ---
-# <a name="handling-ransomware-in-sharepoint-online"></a>Upravljanje obradom ransomware u sustavu SharePoint Online
+# <a name="handling-ransomware-in-sharepoint-online"></a>Rukovanje ucjenjivanim softverom u sustavu SharePoint Online
 
-Ransomware je zlonamjerni softver koji blokira pristup različitim stavkama na računalu i zahteva otkupninu od vas da bi kreator oslobodio bravu koju su nametnuli.
-- [Upravljanje obradom ransomware u sustavu SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/security/handling-ransomware-in-sharepoint-online)
+Ransomware je zlonamjerni softver koji blokira pristup raznim stavkama na računalu i zahtijeva otkupninu od vas da bi kreator oslobodio zaključavanje koje su nametnute.
+- [Rukovanje ucjenjivanim softverom u sustavu SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/security/handling-ransomware-in-sharepoint-online)

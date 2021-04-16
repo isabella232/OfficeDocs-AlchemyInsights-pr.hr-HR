@@ -1,8 +1,8 @@
 ---
-title: Popravak Bluetooth pisača
+title: Rješavanje problema s Bluetooth pisačem
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: bd419ca63d659167d7deccf34ce303ce29775099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26df4eca68b4e14bde56fc5015239ec0810beb0a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744906"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812888"
 ---
-# <a name="fix-bluetooth-printer-connection-issues"></a>Rješavanje problema s povezivanjem Bluetooth pisača
+# <a name="fix-bluetooth-printer-connection-issues"></a>Rješavanje problema s vezom za Bluetooth pisač
 
-Isprobajte ove korake za otklanjanje poteškoća da bi Bluetooth pisač ponovno radio:
+Isprobajte ove korake za otklanjanje poteškoća da bi Bluetooth pisač ponovno funkcionirao:
 
 
-1. Provjerite je li Bluetooth uključen:
-    1. Odaberite **Pokreni**  >  **Postavke**  >  **Devices**  >  **Bluetooth uređaja & drugim uređajima**.
-    2. **Uključite Bluetooth uključivanje.**
-2. Pokrenite alat za otklanjanje poteškoća s Bluetooth-om. <br>
-    Odaberite **Start**, upišite **Otklanjanje poteškoća s postavkama**, a zatim odaberite mogućnost **Otklanjanje poteškoća s postavkama** . Na izborniku odaberite **Bluetooth** , a zatim **Pokrenite alat za otklanjanje poteškoća**.
+1. Provjerite je li Uključen Bluetooth:
+    1. Odaberite **Start**  >  **Settings**  >  **Devices**  >  **Bluetooth & drugim uređajima**.
+    2. Uključite Prekidač za Bluetooth **.**
+2. Pokrenite alat za otklanjanje poteškoća s Tehnologijom Bluetooth. <br>
+    Odaberite **Start**, **upišite postavke otklanjanja** poteškoća, a zatim **odaberite mogućnost Otklanjanje poteškoća s postavkama.** Na **izborniku** odaberite Bluetooth i **Pokreni alat za otklanjanje poteškoća**.
 
 Ako to ne uspije, pokušajte ukloniti i ponovno instalirati Bluetooth pisač:
 
 1. Uklonite pisač u odjeljku Postavke:
-    1. Odaberite **Pokreni**  >  **Postavke**  >  **uređaja**  >  **Pisači & skenera**.
-    2. U odjeljku **pisači & skeneri**odaberite pisač koji otklanjate poteškoće. Odaberite **Ukloni uređaj**. Slijedite upute da biste potpuno uklonili pisač.
-2. Uklonite neki drugi softver proizvođača pisača:
-    1. Odaberite **Pokreni**  >  **Settings**  >  **aplikacije**za postavke.
-    2. U odjeljku **aplikacije & značajke**pomaknite se da biste pronašli bilo koji softver instaliran iz proizvođača pisača (PRIMJERICE HP, Canon ili Epson).
+    1. Odaberite   >  **Pokreni postavke**  >  **Uređaji**  >  **Pisači & skeneri**.
+    2. U **odjeljku Pisači & skeneri odaberite** pisač koji otklanjate poteškoća. Odaberite **Ukloni uređaj**. Slijedite upute da biste potpuno uklonili pisač.
+2. Uklonite softver proizvođača pisača drugih proizvođača:
+    1. Odaberite Start Settings Apps **(Pokreni**  >    >  **aplikacije postavki).**
+    2. U **odjeljku & značajke pomaknite** se da biste pronašli softver instaliran od proizvođača pisača (kao što su HP, Canon ili Epson).
 3. Isključite i ponovno pokrenite pisač.
    1. Isključite pisač i izvucite njegov napajački kabel. Pričekajte 30 sekundi. 
    2. Ponovno priključite i uključite pisač.
-4. Ponovno instalirajte pisač u odjeljku Postavke:
-    1. Odaberite **Pokreni**  >  **Postavke**  >  **uređaja**  >  **Pisači & skenera**.
-    2. Pri vrhu zaslona odaberite vezu **Dodavanje pisača ili skenera** , a zatim slijedite upute da biste ponovno instalirali pisač.
+4. Ponovna instalacija pisača u odjeljku Postavke:
+    1. Odaberite   >  **Pokreni postavke**  >  **Uređaji**  >  **Pisači & skeneri**.
+    2. Odaberite **vezu Dodaj pisač ili skener** pri vrhu zaslona i slijedite upute da biste ponovno instalirali pisač.

@@ -2,7 +2,7 @@
 title: Ispravak – Trenutačno vam nije dodijeljena licenca za Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: cf7bb0209d07ec5ccf3f06c395ca170c8d7381e3
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 2117e6bf5b8c39216d273e5970ca8cbe6ac8ec62
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704850"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812600"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Ispravak – „Trenutačno vam nije dodijeljena licenca za Office“
 
@@ -25,7 +25,7 @@ Da biste instalirali klijentske aplikacije sustava Office, provjerite imate li p
 
 **Napomena**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) proizvod je iz kategorije [Office za kućnu upotrebu](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) te nije dio pretplate za tvrtke. Project Online Essentials ne obuhvaća računalnu verziju programa Project, pa nije potrebna instalacija. Korisnici tarife 1 za Visio mogu pristupati programu Visio na webu jer tarifa ne obuhvaća računalnu verziju programa Visio. Računalne verzije programa Project i Visio nisu dostupne na Macu.
 
-Ako imate pretplatu koja sadrži aplikacije Microsoft 365, nećete vidjeti mogućnost instalacije ako nemate [dodijeljenu licencu](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ako ste administrator sustava Office 365 odgovoran za dodjelu licenci, pročitajte članak [Dodjela licenci korisnicima](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Ako imate pretplatu koja obuhvaća aplikacije sustava Microsoft 365, nećete vidjeti mogućnost instalacije osim ako nemate [dodijeljenu licencu](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ako ste administrator sustava Office 365 odgovoran za dodjelu licenci, pročitajte članak [Dodjela licenci korisnicima](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 Pobrinite se za to da svaki korisnik napravi sljedeće:
 

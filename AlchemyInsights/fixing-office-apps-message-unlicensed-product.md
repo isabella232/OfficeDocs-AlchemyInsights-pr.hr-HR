@@ -2,7 +2,7 @@
 title: Nije moguće aktivirati Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9771a3244c5507312d43156525095fb9eaf7fa20
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704922"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812564"
 ---
 # <a name="unable-to-activate-office"></a>Nije moguće aktivirati Office
 
 - Provjerite je li status vaše pretplate istekao.
-- Provjerite imate li pretplatu koja omogućuje klijentske licence, kao što je Office 365 Business ili Business Premium te [Provjerite je li korisnik dodijelio licencu](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Provjerite imate li pretplatu koja omogućuje klijentske licence, kao što su Office 365 Business ili Business Premium, i provjerite je li [korisniku dodijeljena licenca.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
 - Provjerite je li se korisnik prijavljuje u Office s pomoću istog računa na koji je dodijeljena licenca.
 - Da biste saznali postoje li poznati problemi sa servisom, pogledajte članak [Stranica o stanju servisa za Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
-- Provjerite vatrozid, antivirusni softver i postavke proxy poslužitelja da biste potvrdili da ne blokiraju pristup aplikacijama programa Microsoft 365 na Internet. Pogledajte [URL-ovi i rasponi IP adresa za Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "URL-ovi i rasponi IP adresa za Office 365").
+- Provjerite vatrozid, antivirusni softver i postavke proxyja da biste potvrdili da ne blokiraju pristup internetu aplikacijama sustava Microsoft 365. Pogledajte [URL-ovi i rasponi IP adresa za Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "URL-ovi i rasponi IP adresa za Office 365").
 
-**Savjet** Na uređajima sa sustavom Windows možemo dijagnosticirati i automatski riješiti nekoliko običnih problema s prijavom u Office. Preuzmite i pokrenite  **[Microsoftov pomoćnik za podršku i oporavak](https://aka.ms/SaRA-OfficeSignInScenario)** da biste koristili naš automatizirani alat.
+**Savjet** Na računalima sa sustavom Windows možemo dijagnosticirati i automatski riješiti nekoliko uobičajenih problema s prijavama u Office. Preuzmite i pokrenite  **[Microsoftov pomoćnik za podršku i oporavak](https://aka.ms/SaRA-OfficeSignInScenario)** da biste koristili naš automatizirani alat.
 
 Primijenite sljedeće radnje uklanjanja poteškoća:
 

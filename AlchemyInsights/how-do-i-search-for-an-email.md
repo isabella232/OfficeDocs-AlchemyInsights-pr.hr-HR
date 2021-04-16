@@ -2,7 +2,7 @@
 title: Kako potražiti poruku e-pošte?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: ca787699c55d377784d269651b19b39b4345acee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781671"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811088"
 ---
 # <a name="how-do-i-search-for-an-email"></a>Kako potražiti poruku e-pošte?
 
-Možete potražiti poruku e-pošte tako da pogledate kontakt koji vam je poslao poruku e-pošte ili tražite ključnu riječ sadržanu u poruci e-pošte.
+Poruku e-pošte možete potražiti tako da potražite kontakt koji vam je poslao poruku e-pošte ili potražite ključnu riječ sadržanu u poruci e-pošte.
 
-Dodirnite povećalo na donjoj navigacijskoj traci. Zatim upišite zahtjev za pretraživanje u okvir pri vrhu zaslona. 
+Dodirnite povećalo na donjoj navigacijskoj traci. Zatim u okvir pri vrhu zaslona upišite zahtjev za pretraživanje. 
 
-**Savjet:** Možete dvaput dodirnuti povećalo da biste fokusirali okvir za pretraživanje. Rezultati će se prikazivati prilikom upisa zahtjeva. 
+**Savjet:** Da biste fokus usmjerili na okvir za pretraživanje, dvaput dodirnite povećalo. Rezultati će se prikazivati dok upisate zahtjev. 

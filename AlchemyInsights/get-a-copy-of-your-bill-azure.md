@@ -1,8 +1,8 @@
 ---
-title: Potrebna vam je kopija računa ili upotrebe
+title: Potrebna vam je kopija računa ili korištenja
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 5ec935ddd9e273561886831e60c98ae1a542f9da
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808248"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812359"
 ---
-# <a name="get-a-copy-of-your-bill-or-usage"></a>Dohvaćanje kopije računa ili upotrebe
+# <a name="get-a-copy-of-your-bill-or-usage"></a>Nabavite kopiju računa ili korištenja
 
-**Preuzimanje fakture Azure (. PDF)**
+**Preuzimanje fakture za Azure (.pdf)**
 
-1. Odaberite pretplatu na [stranici pretplate](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) na portalu Azure kao [korisnika s pristupom fakturama,](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) a zatim odaberite **fakture**
-2. Kliknite **Preuzmi fakturu** da biste pogledali kopiju PDF fakture. Ako kaže da **nije dostupno** , pročitajte članak [Zašto ne vidim fakturu za posljednje razdoblje naplate?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Možete i pregledavati svakodnevnu upotrebu tako da kliknete razdoblje naplate da biste nabavili PDF s računom i kopiju detaljne dnevne upotrebe datoteke (. CSV): [dohvaćanje podataka o fakturi i korištenju](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. Odaberite pretplatu na [stranici Pretplate na portalu](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Azure kao [korisnika s pristupom fakturama, a zatim](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) odaberite **Fakture**
+2. Kliknite **Preuzmi fakturu** da biste pogledali kopiju PDF fakture. Ako piše **Nije dostupno**, pogledajte odjeljak Zašto ne vidim [fakturu za zadnje razdoblje naplate?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Dnevno korištenje možete pogledati i klikom na razdoblje naplate Da biste dobili PDF fakture i kopiju detaljne datoteke dnevnog korištenja (. CSV: pristup [podacima o fakturi i korištenju](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Dohvaćanje fakture u poruci e-pošte (. PDF)**
+**Preuzimanje fakture e-poštom (.pdf)**
 
-1. Odaberite pretplatu na [stranici pretplate](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade). Kliknite **fakture** pa **pošaljite e-poštom moj račun**
-2. Kliknite **Uključivanje** i prihvaćanje uvjeta. Morat ćete se uključiti u svaku pretplatu koju posjedujete. Pažnja: ako ne dobijete poruku e-pošte nakon praćenja koraka, provjerite je li vaša adresa e-pošte ispravna u [postavkama komunikacije na profilu](https://account.windowsazure.com/profile)
-3. [Azure fakture e-poštom izravno u ulaznu poštu](https://azure.microsoft.com/blog/azure-email-invoices/)
+1. Odaberite pretplatu na [stranici Pretplate](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade). Kliknite **Fakture, a zatim** Pošalji **e-poštu na moju fakturu**
+2. Kliknite **uključite se** i prihvatite uvjete. Morat ćete se uključiti za svaku pretplatu koju posjedujete. Napomena: ako nakon sljedećih koraka ne slijedite korake, provjerite je li vaša adresa e-pošte točna u [preferencama komunikacije na profilu](https://account.windowsazure.com/profile)
+3. [Fakture servisa Azure poslane e-poštom izravno u ulaznu poštu](https://azure.microsoft.com/blog/azure-email-invoices/)
 
-**Svakodnevno korištenje:**  
+**Razumijevanje dnevnog korištenja:**  
  [Razumijevanje računa za Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Upravljanje troškovima:** [sprečavanje neočekivanih troškova pomoću servisa Azure za naplatu i upravljanje troškovima](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Upravljanje troškovima: sprječavanje** [neočekivanih troškova uz naplatu i upravljanje troškovima na servisu Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Microsoftov ugovor o klijentu (MCA)** :
+**Microsoftov korisnički ugovor (MCA):**
 
-Naučite  [Kako provjeriti pristup Microsoftovu ugovoru o klijentu?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
-Ako imate [Microsoftov ugovor o klijentu](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), možete preuzeti korištenje na [portalu Azure](https://portal.azure.com/)
+Saznajte  [kako provjeriti pristup Microsoftovu ugovoru o klijentu?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
+Ako imate Microsoftov korisnički ugovor , [možete](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)preuzeti korištenje na [portalu Azure](https://portal.azure.com/)
 
-**Dohvaćanje faktura Microsoftova ugovora o klijentu u poruci e-pošte** :
+**Nabavite fakture Microsoftova ugovora o klijentima e-poštom:**
 
-Ako imate Microsoftov ugovor o klijentu, možete se uključiti da biste dobili fakturu u poruci e-pošte. Svi vlasnici profila za naplatu, suradnici, čitatelji i menadžeri faktura dobit će fakturu putem e-pošte. Čitatelji ne mogu ažurirati preferencu fakture e-pošte
+Ako imate Microsoftov korisnički ugovor, možete se uključiti u primanje fakture u poruci e-pošte. Svi vlasnici profila za naplatu, suradnici, čitatelji i upravitelji fakturama fakturu će dobiti e-poštom. Čitatelji ne mogu ažurirati preferencije fakture e-pošte
 
-- Potražite **Upravljanje troškovima + naplata** . Odaberite **Profil naplate** . U odjeljku Postavke odaberite **Svojstva**
-- U odjeljku faktura e-pošte odaberite **Ažuriraj pretferencu fakture e-pošte** . Odaberite uključivanje u nju. Kliknite **Ažuriraj**
+- Potražite **Upravljanje troškovima + naplata**. Odaberite profil **za naplatu**. U odjeljku Postavke odaberite **Svojstva**
+- U odjeljku Faktura e-pošte **odaberite Ažuriraj preferencije fakture e-pošte**. Odaberite uključite se. Kliknite **Ažuriraj**
 
-**Enterprise ugovor (EA)**
+**Enterprise Agreement (EA)**
 
-Da biste pregledali i preuzeli podatke o korištenju kao e-kupac, morate biti administrator tvrtke, vlasnik računa ili administrator odjela s omogućenim pravilom prikaz troškova.
+Da biste podatke o korištenju pregledali i preuzeli kao EA klijenta, morate biti administrator za velike tvrtke, vlasnik računa ili administrator odjela s omogućenim pravilnikom o troškovima prikaza.
 
-- Prijavite se na portal Azure. Potražite **Upravljanje troškovima + naplata** . Odabir profila za naplatu
-- Odaberite korištenje + naknade. Za mjesec koji želite preuzeti odaberite Preuzmi
+- Prijavite se na portal Azure. Potražite **Upravljanje troškovima + naplata**. Odabir profila za naplatu
+- Odaberite Korištenje + troškovi. Za mjesec koji želite preuzeti odaberite Preuzmi
 
 **Pretplata na MOSP Azure**  
-[Preuzimanje fakture za pretplatu na MOSP Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
+[Preuzimanje fakture pretplate na MOSP Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
 
 **Otklanjanje poteškoća: nije moguće vidjeti fakturu za posljednje razdoblje naplate?**
 
-Neki od mogućih razloga zbog kojih možda nećete vidjeti fakturu:
+Neki od mogućih razloga zbog kojih možda ne vidite fakturu:
 
-- Imate mjesečni kreditni iznos s pretplatom koju niste premašili ili imate besplatnu probnu verziju. Faktura se generira samo kada dugujete novac
+- Uz pretplatu imate mjesečni iznos kredita koji niste prekoračili ili imate besplatnu probnu verziju. Faktura se generira samo kada dugujete novac
 - To je manje od 30 dana od dana kada ste se pretplatili na Azure
-- Faktura još nije generirana. Čekanje na kraj razdoblja naplate
-- Ako niste administrator računa, starije fakture možda vam neće biti dostupne na **umu** : Microsoft ne nudi nikakva izvješća o korištenju ili podatke o potrošnji za Azure CSP kupce. Podaci o korištenju centra za partnere su suočeni s partnerom
-- Dodatne informacije o AIO-u (Azure u otvorenoj) naplati i uporabi: [Azure in Open](https://azure.microsoft.com/offers/ms-azr-0111p/)
+- Faktura još nije generirana. Pričekajte do kraja razdoblja naplate
+- Ako niste administrator računa, starije fakture možda vam neće biti dostupne **Napomena:** Microsoft ne pruža izvješća o korištenju ni podatke o potrošnji korisnicima servisa Azure CSP. Podaci o korištenju centra za partnere usmjereni su na partnere
+- Saznajte više o naplati i korištenju servisa AIO (Azure na otvorenom): [Azure na otvorenom](https://azure.microsoft.com/offers/ms-azr-0111p/)
 
 **Preporučeni dokumenti**
 
-- [Zašto ne možete vidjeti fakturu?](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-- [Zahtjev/preuzimanje/prikaz računa za naplatu i podatke o korištenju Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Upute za e-poštu za Azure izravno u ulaznu poštu](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Razumijevanje detaljnih troškova korištenja](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
-- [Razumijevanje pojmova na fakturi](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Razumijevanje fakture Azure CSP](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Zašto možda ne vidite fakturu?](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- [Zahtjev/preuzimanje/prikaz fakture za naplatu i podataka o korištenju na servisu Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Slanje faktura servisa Azure e-poštom izravno u ulaznu poštu](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Objašnjenje detaljnih troškova korištenja](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
+- [Razumijevanje uvjeta na fakturi](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Razumijevanje CSP fakture za Azure](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)

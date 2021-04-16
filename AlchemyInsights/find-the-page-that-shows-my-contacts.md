@@ -1,8 +1,8 @@
 ---
-title: Pronalaženje stranice koja prikazuje moje kontakte
+title: Pronalaženje stranice na koju se prikazuju moji kontakti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff3fca5a12c08314388fdb494c598c3e03d5db8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745266"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812978"
 ---
-# <a name="find-the-page-that-shows-my-contacts"></a>Pronalaženje stranice koja prikazuje moje kontakte
+# <a name="find-the-page-that-shows-my-contacts"></a>Pronalaženje stranice na koju se prikazuju moji kontakti
 
-Kontakte možete pretraživati na isti način kao i traženje poruka e-pošte.
+Kontakte možete pretraživati na isti način kao i kada tražite poruke e-pošte.
  
-Dodirnite ikonu povećanje pretraživanja, a zatim u okvir pri vrhu zaslona upišite zahtjev za pretraživanje kontakata. (**Prosavjet**: možete dvaput dodirnuti povećalo da biste fokusirali okvir za pretraživanje.) Rezultati će se prikazivati u odjeljku kontakti.
+Dodirnite ikonu pretraživanja povećala, a zatim u okvir pri vrhu zaslona upišite zahtjev za pretraživanje kontakta. (**Protip**: Možete dvaput dodirnuti povećalo da biste se usredotočili na okvir za pretraživanje.) Rezultati će se prikazati u odjeljku Kontakti.

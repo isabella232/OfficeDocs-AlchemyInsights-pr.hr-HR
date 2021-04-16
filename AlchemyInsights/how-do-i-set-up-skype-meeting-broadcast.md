@@ -1,8 +1,8 @@
 ---
-title: Kako postaviti emitiranje Skype sastanka
+title: Postavljanje emitiranja Skype sastanka
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781455"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811016"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Nije moguće pokrenuti emitiranje Skype sastanka ili uključivanje u njega?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Ne možete pokrenuti emitiranje skype sastanka ili se uključiti u sastanak programa Skype?
 
-Ako imate poteškoća s pokretanjem ili uključivanjem emitiranja Skype sastanka kao člana tima za događaj (producent sastanka), provjerite jeste li dvaput provjerili konfiguraciju. Emitiranje Skypea za sastanak zahtijeva neke ručne korake za postavljanje. Slijedite korake u ovom članku da biste bili sigurni da je portal mreža i Skypea za tvrtke online pravilno konfiguriran i da zahvaćeni korisnik ne blokira sukobljenu licencu:
+Ako naiđete na poteškoće prilikom pokretanja emitiranja skype sastanka ili pridruživanja emitiranju u obliku člana tima događaja (producent sastanka), provjerite svoju konfiguraciju. Emitiranje Skype sastanka zahtijeva neke ručne korake postavljanja. Slijedite korake u ovom članku da biste bili sigurni da su mreža i portal Skypea za tvrtke online pravilno konfigurirani te da zahvaćeni korisnik nije blokiran sukobljenim licencom:
 
 [Postavljanje mreže za emitiranje Skype sastanka](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

@@ -1,8 +1,8 @@
 ---
-title: Pomoć u razumijevanju poreza na dodanu vrijednost (PDV)
+title: Pomoć pri razumijevanju poreza na dodanu vrijednost (PDV)
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7222f1e9b53504f34f5136c815c1dff8e2d2e7cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705478"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811628"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Pomoć u razumijevanju poreza na dodanu vrijednost (PDV)
+# <a name="help-understanding-value-added-tax-vat"></a>Pomoć pri razumijevanju poreza na dodanu vrijednost (PDV)
 
-Ako se nalazite u državi koja koristi vrijednost poreza na dodanu (PDV), kao što je Velika Britanija, Microsoft fakturiranje izračunava PDV za vas i primjenjuje iznos na vaše fakture.
+Ako se u državi koja koristi porez na dodanu vrijednost (PDV), kao što je Velika Britanija, Microsoft Invoicing izračunava PDV za vas i primjenjuje iznos na fakture.
   
-Zbog poreznih razloga morate navesti i porezni broj u postavkama za fakturiranje.
+Iz poreznih razloga morate navesti i svoj porezni broj u postavkama za fakturiranje.
   
-Ne možete dodavati ili uklanjati stope PDV-a, ali možete promijeniti zadanu stopu PDV-a u postavkama. Fakturiranje po zadanom koristi servis za provjeru poreznih brojeva PDV-a, no preporučujemo da pročitate izjave o [odricanju odgovornosti](https://go.microsoft.com/fwlink/?LinkID=841741) koju objavljuje Europska komisija. Ako odaberete Onemogućivanje servisa, morate provjeriti sve porezne brojeve.
+Ne možete dodavati ni uklanjati stope PDV-a, ali možete promijeniti zadanu stopu PDV-a u odjeljku Postavke. Invoicing po zadanom koristi servis za provjeru registracijskih brojeva za PDV, ali preporučujemo da pročitate izjava o odricanju odgovornosti za [VIES](https://go.microsoft.com/fwlink/?LinkID=841741) koju je objavila europska komisija. Ako odlučite onemogućiti servis, morate potvrditi sve registracijske brojeve za PDV.

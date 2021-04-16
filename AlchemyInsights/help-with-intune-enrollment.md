@@ -1,8 +1,8 @@
 ---
-title: Pomoć za Intune upis
+title: Pomoć za prijavu u Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 516ec77ac29b17509f39bc03cbea8fb7a5a8adbb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705183"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811556"
 ---
-# <a name="help-with-intune-enrollment"></a>Pomoć za Intune upis
+# <a name="help-with-intune-enrollment"></a>Pomoć za prijavu u Intune
 
 
-- [Saznajte više o uvrštavanju uređaja s programom Intune](https://docs.microsoft.com/intune/device-enrollment)
+- [Saznajte više o registraciji uređaja pomoću uređaja Intune](https://docs.microsoft.com/intune/device-enrollment)
 
-- [Postavljanje upisa uređaja sa sustavom iOS pomoću servisa Intune](https://docs.microsoft.com/intune/ios-enroll)
+- [Postavljanje registracije uređaja sa sustavom iOS pomoću aplikacije Intune](https://docs.microsoft.com/intune/ios-enroll)
 
-- [Postavljanje upisa uređaja sa sustavom Android pomoću aplikacije Intune](https://docs.microsoft.com/intune/android-enroll)
+- [Postavljanje registracije uređaja sa sustavom Android pomoću aplikacije Intune](https://docs.microsoft.com/intune/android-enroll)
 
-- [Postavljanje uvrštenja uređaja u sustavu Windows uz Intune](https://docs.microsoft.com/intune/windows-enroll)
+- [Postavljanje registracije uređaja sa sustavom Windows pomoću aplikacije Intune](https://docs.microsoft.com/intune/windows-enroll)
 
-**Otklanjanje poteškoća s uvrštenjem uređaja**
+**Otklanjanje poteškoća s registracijom uređaja**
 
-1. Koristite portal za otklanjanje poteškoća da biste dijagnosticirali i riješili česte neuspjehe upisa. Dodatne pojedinosti potražite u [ovom](https://docs.microsoft.com/intune/help-desk-operators) dokumentu.
+1. Pomoću portala za otklanjanje poteškoća sa servisom Intune dijagnosticirajte i riješite uobičajene pogreške prilikom prijave. Pregledajte [ovaj](https://docs.microsoft.com/intune/help-desk-operators) dokument da biste saznali više.
 
-2. Pregledajte ove dokumente za popis uobičajenih pogrešaka koje sprječavaju upis i rezolucije na svaki: upute za [Otklanjanje poteškoća](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) i [Otklanjanje poteškoća s liječnikom](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Pregledajte ove dokumente da biste pregledali popis uobičajenih pogrešaka koje sprječavaju prijavu i rješenja za svaku od njih: vodič za otklanjanje [poteškoća i dokument](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) za otklanjanje [poteškoća.](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)

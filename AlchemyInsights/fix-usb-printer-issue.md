@@ -2,7 +2,7 @@
 title: Rješavanje problema s USB pisačem
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677487"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812708"
 ---
-# <a name="fix-usb-printer-connection-issues"></a>Rješavanje problema s povezivanjem USB pisača
+# <a name="fix-usb-printer-connection-issues"></a>Rješavanje problema s povezivanjem s USB pisačem
 
-Isprobajte ove **korake za otklanjanje poteškoća** da bi vaš USB pisač ponovno radio:
+Isprobajte **sljedeće korake za otklanjanje** poteškoća da bi USB pisač ponovno funkcionirao:
 
 1. Isključite pisač i isključite USB kabel s PC-ja i pisača.
-2. Pregledajte kabel da biste bili sigurni da nema oštećenja.
+2. Provjerite je li kabel oštećen.
 3. Ponovno priključite kabel na PC i pisač.
 
-Ako to ne uspije, pokušajte **ukloniti i ponovno instalirati USB pisač**:
+Ako to ne uspije, pokušajte ukloniti **i ponovno instalirati USB pisač:**
 
 1. Uklonite pisač u odjeljku Postavke:
     1. Isključite USB kabel pisača s PC-ja.
-    2. Odaberite **Pokreni**  >  **Postavke**  >  **uređaja**  >  **Pisači & skenera**.
-    3. U odjeljku **pisači & skeneri**odaberite pisač koji otklanjate poteškoće. Odaberite **Ukloni uređaj**. Slijedite upute da biste potpuno uklonili pisač.
-2. Uklonite neki drugi softver proizvođača pisača:
-    1. Odaberite **Pokreni**  >  **Settings**  >  **aplikacije**za postavke.
-    2. U odjeljku **aplikacije & značajke**pomaknite se da biste pronašli bilo koji softver instaliran iz proizvođača pisača (PRIMJERICE HP, Canon ili Epson).
-    3. Odaberite softver, a zatim odaberite **Deinstaliraj**.
+    2. Odaberite   >  **Pokreni postavke**  >  **Uređaji**  >  **Pisači & skeneri**.
+    3. U **odjeljku Pisači & skeneri odaberite** pisač koji otklanjate poteškoća. Odaberite **Ukloni uređaj**. Slijedite upute da biste potpuno uklonili pisač.
+2. Uklonite softver proizvođača pisača drugih proizvođača:
+    1. Odaberite Start Settings Apps **(Pokreni**  >    >  **aplikacije postavki).**
+    2. U **odjeljku & značajke pomaknite** se da biste pronašli softver instaliran od proizvođača pisača (kao što su HP, Canon ili Epson).
+    3. Odaberite softver i odaberite **Deinstaliraj**.
 3. Isključite i ponovno pokrenite pisač.<br>
     1. Isključite pisač i izvucite njegov napajački kabel. Pričekajte 30 sekundi. Ponovno priključite pisač.
-    2. Ponovno priključite USB kabel pisača na PC. PC bi trebao automatski registrirati da je vaš uređaj priključen.
+    2. Ponovno priključite USB kabel pisača na PC. PC bi se trebao automatski registrirati da je uređaj priključen.
 4. Pokušajte ponovno ispisati.

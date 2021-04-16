@@ -1,8 +1,8 @@
 ---
-title: Pronalaženje adrese e-pošte za kanal timova
+title: Pronalaženje adrese e-pošte za kanal aplikacije Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5580"
-ms.openlocfilehash: 285c49b51c5bcddd71ccd199e16bb109f0809487
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0a146728b6bd2d57bd299c7f17993a82d7ccef9e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730295"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812960"
 ---
-# <a name="find-the-email-address-for-a-teams-channel"></a>Pronalaženje adrese e-pošte za kanal timova
+# <a name="find-the-email-address-for-a-teams-channel"></a>Pronalaženje adrese e-pošte za kanal aplikacije Teams
 
-Ako želite poslati poruku e-pošte u kanal u timovima, upotrijebite adresu e-pošte kanala. Kada je poruka e-pošte dio kanala, svatko može odgovoriti na nju radi pokretanja razgovora.
+Ako želite poslati poruku e-pošte kanalu u aplikaciji Teams, upotrijebite adresu e-pošte kanala. Kada poruka e-pošte dio kanala, svatko na njega može odgovoriti da bi započeli razgovor.
 
-Napomena: ako vam se ne prikazuje mogućnost **Dohvati adresu e-pošte** , provjerite je li integracija timova e-pošte omogućena tako da učinite sljedeće: timovi za **administratore**u programu > **org Wide Settings** > **timovi** > **e-pošte integracija**
+Napomena: ako ne vidite  mogućnost Primaj adresu e-pošte, provjerite je li integracija e-pošte aplikacije Teams omogućena tako da ode na: **Teams admin center** Org > **wide Settings** Teams Settings Teams >  > **integracija e-pošte**
 
-Da biste pronašli adresu e-pošte, otvorite naziv kanala, a zatim kliknite **Dodatne mogućnosti > dohvaćanje adrese e-pošte**.
+Da biste pronašli adresu e-pošte, idite na naziv kanala i kliknite **Dodatne mogućnosti > e-pošte**.
 
-Dodatne informacije potražite u članku [Slanje poruke e-pošte kanalu u timovima](https://support.office.com/article/send-an-email-to-a-channel-in-teams-d91db004-d9d7-4a47-82e6-fb1b16dfd51e).
+Dodatne informacije potražite u članku [Slanje e-pošte kanalu u aplikaciji Teams](https://support.office.com/article/send-an-email-to-a-channel-in-teams-d91db004-d9d7-4a47-82e6-fb1b16dfd51e).
 
-Administratori mogu upravljati u centru za administratore timova mogu li korisnici poslati e-poštu u kanale u timovima. Saznajte više o upravljanju [integracijom e-pošte](https://docs.microsoft.com/microsoftteams/enable-features-office-365#email-integration).
+Administratori mogu u centru za administratore aplikacije Teams upravljati mogu li korisnici slati e-poštu kanalu u aplikaciji Teams. Dodatne informacije o upravljanju integracijom [e-pošte](https://docs.microsoft.com/microsoftteams/enable-features-office-365#email-integration)
