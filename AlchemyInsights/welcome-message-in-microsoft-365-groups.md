@@ -2,7 +2,7 @@
 title: Poruka dobrodošlice u grupama sustava Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5685"
-ms.openlocfilehash: de16ca6021441bf6cb781106b7f3da8eed86b0f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c46ba1b2c2c94e21d7c76e45df1d416ba423faf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725831"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806398"
 ---
 # <a name="welcome-message-in-microsoft-365-groups"></a>Poruka dobrodošlice u grupama sustava Microsoft 365
 
-Novi korisnici koji se pridruže grupi Microsoft 365 primit će e-poštu dobrodošlice ako je svojstvo "UnifiedGroupWelcomeMessageEnabled" istinito.
+Novi korisnici koji se pridruže grupi Microsoft 365 primit će poruku e-pošte dobrodošlice ako je svojstvo "UnifiedGroupWelcomeMessageEnabled" true.
 
-U slučaju da želite onemogućiti poruku dobrodošlice, upotrijebite sljedeću naredbu [Exo PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps) :
+Ako želite onemogućiti poruku dobrodošlice, koristite sljedeću [naredbu EXO PowerShell:](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps)
 
 `
 Set-UnifiedGroup <groupname> -UnifiedGroupWelcomeMessageEnabled:$False
