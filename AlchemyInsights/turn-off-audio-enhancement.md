@@ -2,7 +2,7 @@
 title: Isključivanje poboljšanja zvuka
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ef63ec3a2358fc1c1aedfe1e280c46b3d0eb029
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797180"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808747"
 ---
 # <a name="turn-off-audio-enhancement"></a>Isključivanje poboljšanja zvuka
 
 Slijedite ove korake:
 
-1. Idite na **Start**, unesite **zvuk**, a zatim odaberite **Upravljačka ploča za zvuk** ili **promijenite zvukove sustava** s popisa rezultata.
+1. Idite **na Start**, **unesite Zvuk** pa **odaberite Upravljačka ploča** zvuka ili Promjena **sistemskih** zvukova s popisa rezultata.
 
-2. Na kartici **Reprodukcija** desnom tipkom miša kliknite (ili dodirnite i držite) zadani uređaj, a zatim odaberite **Svojstva**.
+2. Na kartici **Reprodukcija** desnom tipkom miša kliknite (ili dodirnite i držite) zadani uređaj pa odaberite **Svojstva**.
 
-3. Na kartici **poboljšanja** odaberite potvrdni okvir **Onemogući sve zvučne efekte** i pokušajte reproducirajte audiouređaj. Ako to ne uspije, odaberite **Odustani** , a zatim na kartici **Reprodukcija** odaberite neki drugi zadani uređaj (ako ga imate), potvrdite okvir **Onemogući sve zvučne efekte** , a zatim ponovno pokušajte reproducirati audiozapis. Učinite to za svaki zadani uređaj.
+3. Na kartici **Poboljšanja** potvrdite okvir Onemogući **sve zvučne** efekte i pokušajte reproducirati audiouređaj. Ako to ne uspije, odaberite **Odustani,** a zatim na kartici Reprodukcija odaberite drugi zadani uređaj (ako ga imate), potvrdite okvir Onemogući sve zvučne **efekte** pa ponovno pokušajte reproducirati zvuk.  To učinite za svaki zadani uređaj.
