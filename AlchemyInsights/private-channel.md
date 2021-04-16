@@ -2,7 +2,7 @@
 title: Privatni kanal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6812bd789e0769118cf940418e8edeae8a1c2355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801797"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790396"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Privatni kanali u Microsoftovim timovima
+# <a name="private-channels-in-microsoft-teams"></a>Privatni kanali u aplikaciji Microsoft Teams
 
-Privatni kanali u Microsoftovim timovima stvaraju fokusirane prostore za suradnju unutar timova. Kanalu mogu pristupati samo oni korisnici iz tima koji su vlasnici ili članovi tog privatnog kanala. Kao članovi privatnog kanala mogu se dodati svi, uključujući goste, pod uvjetom da su već članovi tima.
+Privatni kanali u aplikaciji Microsoft Teams stvaraju fokusirane prostore za suradnju unutar timova. Kanalu mogu pristupati samo oni korisnici iz tima koji su vlasnici ili članovi tog privatnog kanala. Kao članovi privatnog kanala mogu se dodati svi, uključujući goste, pod uvjetom da su već članovi tima.
 
-Da biste doznali više, počnite s [privatnim kanalima u Microsoftovim timovima](https://docs.microsoft.com/MicrosoftTeams/private-channels). To obuhvaća informacije kao što su [privatno stvaranje kanala, članstvo](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) i [web-mjesta sustava SharePoint na privatnom kanalu](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+Da biste saznali više, započnite s privatnim [kanalima u aplikaciji Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/private-channels) To obuhvaća informacije kao što su [stvaranje privatnog kanala te članstvo i](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) privatna [web-mjesta sustava SharePoint](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-**Treba li vam novi vlasnik tima?**
+**Trebate novog vlasnika tima?**
 
-Ako vaš privatni vlasnik kanala napusti vašu tvrtku ili ustanovu ili je uklanja iz grupe, član privatnog kanala automatski će se promicati kao vlasnik privatnog kanala.
+Ako vlasnik privatnog kanala napusti vašu organizaciju ili je uklonjen iz grupe, član privatnog kanala automatski će biti vlasnik privatnog kanala.
 
-Administratori mogu vidjeti i [Upravljanje životnim ciklusom privatnih kanala u Microsoftovim timovima](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) da biste saznali više o pravilima za upravljanje osobama koje mogu stvarati privatne kanale, kao i načine na koje možete pomoći pri izradi upita za e-otkrivanje ili pravne funkcije.
+Administratori mogu vidjeti i upravljanje životnim ciklusom privatnih kanala u aplikaciji [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) da biste saznali više o pravilima za upravljanje tko može stvarati privatne kanale, kao i načine za stvaranje upita za eDiscovery ili pravna čuvanja.
