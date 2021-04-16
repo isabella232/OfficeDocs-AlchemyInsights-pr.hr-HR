@@ -1,8 +1,8 @@
 ---
-title: Samoservisna Kupnja komponente PowerShell
+title: Samostalna kupnja komponente PowerShell
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739962"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797713"
 ---
-# <a name="self-service-purchase-of-powershell"></a>Samoservisna Kupnja komponente PowerShell
+# <a name="self-service-purchase-of-powershell"></a>Samostalna kupnja komponente PowerShell
 
-Da biste koristili modul MSCommerce PowerShell, morate ga instalirati na uređaj sa sustavom Windows 10 s TLS 1,2 (potrebne su lokalne administratorske dozvole).  Uvezite i povežite se s modulom MSCommerce.  Kada se od vas zatraži prijava, morat ćete koristiti vjerodajnice globalne ili administratorske uloge.  
+Da biste koristili modul MSCommerce PowerShell, morate ga instalirati na uređaj sa sustavom Windows 10 s TLS 1.2 (potrebne su dozvole lokalnog administratora).  Uvoz i povezivanje s modulom MSCommerce.  Kada se od vas zatraži da se prijavite, morat ćete koristiti vjerodajnice za ulogu globalnog ili administratora za naplatu.  
 
-Ako nemate TLS 1,2, možda će se prilikom pokušaja ažuriranja pravilnika pojaviti sljedeća pogreška:
+Ako nemate TLS 1.2, možda ćete primiti sljedeću pogrešku prilikom pokušaja primanja ili ažuriranja pravilnika:
 
-*ErrorMessage – veza u podlozi je zatvorena: došlo je do neočekivane pogreške na slanju*.
+*ErrorMessage -The underlying connection was closed: An unexpected error occurred on a send*.
 
 
 
