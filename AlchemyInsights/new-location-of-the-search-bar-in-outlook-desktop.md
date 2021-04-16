@@ -1,8 +1,8 @@
 ---
-title: Novo mjesto trake za pretraživanje u radnoj površini programa Outlook
+title: Novo mjesto trake za pretraživanje u programu Outlook za stolna računala
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800005"
 - "5620"
-ms.openlocfilehash: 920b5cd73b366e1bf656cd7090814ceb6beb3b8f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 25c97e81eff5daf75d22072353af319c237ced66
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803165"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791836"
 ---
-# <a name="new-location-of-the-search-bar-in-outlook-desktop"></a>Novo mjesto trake za pretraživanje u radnoj površini programa Outlook
+# <a name="new-location-of-the-search-bar-in-outlook-desktop"></a>Novo mjesto trake za pretraživanje u programu Outlook za stolna računala
 
-Okvir za pretraživanje radne površine programa Outlook preselio se na naslovnu traku da bi bio dosljedan s drugim aplikacijama sustava Office. Ovaj novi dom za pretraživanje ostavit će čišći popis poruka na kojem ćete imati prostora da biste prilagodili dodatne poruke.
+Okvir za pretraživanje programa Outlook za stolna računala premjestio se na naslovnu traku da bi bio dosljedan s drugim aplikacijama sustava Office. Ova nova početna stranica za pretraživanje ostavlja čišći popis poruka na kojem ćete imati prostora za odgovaranje dodatnim porukama.
 - [Saznajte više](https://support.microsoft.com/en-us/office/96fee452-80cd-492d-a35c-5c37584b416b).
