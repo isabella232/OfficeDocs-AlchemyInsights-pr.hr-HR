@@ -1,8 +1,8 @@
 ---
-title: Korištenje mogućnosti otključavanja otisaka prstiju u sustavu Windows 10
+title: Mogućnost otključavanja otiskom prsta u sustavu Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795236"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796669"
 ---
-# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Korištenje mogućnosti otključavanja otisaka prstiju u sustavu Windows 10
+# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Mogućnost otključavanja otiskom prsta u sustavu Windows 10
 
 **Omogućivanje otiska prsta u sustavu Windows Hello**
 
-Da biste otključali Windows 10 pomoću otiska prsta, morate postaviti otisak prsta u sustavu Windows Hello dodavanjem (ostavljajući Windows da sazna da prepozna) barem jedan prst. 
+Da biste otključali Windows 10 pomoću otiska prsta, morate postaviti otisak prsta značajke Windows Hello tako da dodate (ostavljajući sustavu Windows da nauči prepoznati) barem jedan prst. 
 
-1. Idite na **postavke > računi > mogućnosti prijave** (ili kliknite [ovdje](ms-settings:signinoptions?activationSource=GetHelp)). Dostupne mogućnosti prijave prikazat će se na popisu. Na primjer:
+1. Otvorite **Postavke > računi > mogućnosti prijave** (ili kliknite [ovdje).](ms-settings:signinoptions?activationSource=GetHelp) Na popisu će biti dostupne mogućnosti prijave. Na primjer:
 
-    ![Mogućnosti prijave](media/sign-in-options.png)
+    ![Mogućnosti prijave.](media/sign-in-options.png)
 
-2. Kliknite ili dodirnite **otisak prsta u sustavu Windows Hello**, a zatim kliknite **Postavi**. U prozoru Postavljanje sustava Windows Hello kliknite **početak rada**. Senzor otiska prsta aktivirat će se i od vas će se zatražiti da postavite prst na senzor:
+2. Kliknite ili dodirnite **Otisak prsta značajke Windows Hello**, a zatim **Postavi**. U prozoru za postavljanje značajke Windows Hello **kliknite Početak rada**. Aktivirat će se senzor otiska prsta i od vas će se tražiti da postavite prst na senzor:
 
-   ![Senzor otisaka prstiju.](media/fingerprint-sensor.png)
+   ![Senzor otiska prsta.](media/fingerprint-sensor.png)
 
-3. Slijedite upute koje će vas upitati da opetovano skenirate prst. Kada ovo završite, imat ćete mogućnost dodavanja drugih prstiju koje želite koristiti za prijavu. Kada se sljedeći put prijavite u Windows 10, imat ćete mogućnost korištenja otiska prsta da biste to učinili.
+3. Slijedite upute koje će od vas tražiti da više puta skenirate prst. Kada to završite, možete dodati i druge prste koje biste mogli koristiti za prijavu. Kada se sljedeći put prijavite u Windows 10, za to ćete imati mogućnost korištenja otiska prsta.
 
-**Otisak prsta u sustavu Windows Hello nije dostupan kao mogućnost prijave**
+**Windows Hello Fingerprint not available as a sign-in option**
 
-Ako se otisci zaslona u sustavu Windows Hello ne prikazuju kao mogućnost u **mogućnostima prijave**, znači da Windows nije svjestan bilo kojeg čitača otisaka prstiju koji je priključen na PC ili da pravilnik sustava sprječava njegovo korištenje (ako na PC-ju upravlja vaše radno mjesto). Otklanjanje poteškoća: 
+Ako se u mogućnostima prijave ne prikazuje otisak prsta u sustavu Windows Hello **,** to znači da Windows nije upoznat s čitačem otisaka prstiju/skenerom priloženim na PC-ju ili da pravilnik sustava sprječava njegovo korištenje (ako, primjerice, računalom upravlja vaše radno mjesto). Da biste otklonili poteškoće: 
 
-1. Odaberite gumb **Start** na programskoj traci i potražite **upravitelja uređaja**.
+1. Odaberite **gumb Start** na programskoj traci i potražite Upravitelj **uređaja**.
 
-2. Kliknite ili dodirnite da biste otvorili **Upravitelj uređaja**.
+2. Kliknite ili dodirnite da biste **otvorili Upravitelj uređaja**.
 
-3. U upravitelju uređaja proširite Biometrijski uređaji tako da kliknete njegov Chevron.
+3. U upravitelju uređaja proširite Biometrijske uređaje klikom na ševron.
 
-   ![Biometrijskih uređaja.](media/biometric-devices.png)
+   ![Biometrijski uređaji.](media/biometric-devices.png)
 
-4. Skener otisaka prstiju trebao bi biti naveden kao biometrijski uređaj, kao što je sinaptički WBDI Scanner:
+4. Skener otiska prsta trebao bi biti naveden kao biometrijski uređaj, kao što je synaptics WBDI skener:
 
-   ![Biometrijskih uređaja.](media/biometric-devices-expanded.png)
+   ![Biometrijski uređaji.](media/biometric-devices-expanded.png)
 
-5. Ako vam se ne prikaže skener otisaka prstiju, a skener je integriran na PC, otvorite web-mjesto proizvođača PC-ja. U odjeljku tehnička podrška za PC model potražite upravljački program za Windows 10 za skener koji možete instalirati.
+5. Ako se skener otiska prsta ne prikazuje, a skener je integriran u PC, idite na web-mjesto proizvođača PC-ja. U odjeljku tehničke podrške za model PC-ja potražite upravljački program za Windows 10 za skener koji možete instalirati.
 
-6. Ako je skener odvojen od PC-ja (priključen putem USB-a), otvorite web-mjesto proizvođača skenera da biste pronašli i instalirali upravljački program za uređaj sa sustavom Windows 10 za model skenera koji imate.
+6. Ako je skener odvojen od PC-ja (priložen putem USB-a), idite na web-mjesto proizvođača skenera da biste pronašli i instalirali softver za upravljačke programe uređaja sa sustavom Windows 10 za model skenera koji imate.
