@@ -1,8 +1,8 @@
 ---
-title: alat za izvoz u programu Idiscovery
+title: Alat za izvoz elektroničkih predočavanja elektroničkih elektroničkih podataka
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,20 +15,20 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277947"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814580"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nije moguće instalirati ili pokrenuti alat za izvoz programa Idiscovery?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Ne možete instalirati ili pokrenuti alat za izvoz predočavanja elektroničkih podataka?
 
-Ako ne možete instalirati ili pokrenuti alat za izvoz programa Idiscovery da biste preuzeli rezultate pretraživanja, provjerite sljedeće:
+Ako ne možete instalirati ili pokrenuti alat za izvoz e-otkrivanja da biste preuzeli rezultate pretraživanja, provjerite sljedeće:
   
-- Računalo koje koristite ispunjava te preduvjete:
+- Računalo koje koristite zadovoljava sljedeće preduvjete:
 
-  - 32 ili 64-bitne verzije sustava Windows 7 i novije verzije
+  - 32-bitne ili 64-bitne verzije sustava Windows 7 i novije verzije
 
   - Microsoft .NET Framework 4.7
 
@@ -42,10 +42,10 @@ Ako ne možete instalirati ili pokrenuti alat za izvoz programa Idiscovery da bi
 
     Drugi preglednici, kao što su Google Chrome i Mozilla Firefox, nisu podržani.
 
-- Vaša tvrtka ili ustanova može se povezati s krajnjom točkom u servisu Azure, što je ** \* . blob.Core.Windows.net** (zamjenski znak predstavlja jedinstveni identifikator za vaš rad na izvozu).
+- Vaša tvrtka ili ustanova može se povezati s krajnjom tonom na servisu Azure, **\* a to je .blob.core.windows.net** (zamjenski znak predstavlja jedinstveni identifikator za posao izvoza).
 
-- U centru za sigurnost sustava Microsoft 365 dodeljen vam je izvoznu ulogu &amp; . Ta je uloga prema zadanim postavkama dodijeljena samo grupi uloga upravitelja programa isdiscovery. Pročitajte članak [Dodjela dozvola za otkrivanje iotkrivanja](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Uloga Izvoz dodijeljena vam je u centru za sigurnosnu usklađenost sustava Microsoft 365. &amp; Ta se uloga po zadanom dodjeljuje samo grupi uloga upravitelja predočavanja elektroničkih elektroničkih obveza. Pogledajte [dodjela dozvola za predočavanje elektroničkih datoteka](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
-Dodatne informacije potražite u članku [Izvoz rezultata pretraživanja sadržaja](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Dodatne informacije potražite u članku Izvoz [rezultata pretraživanja sadržaja](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 
-Ako izvozite više od 100K poštanskih sandučića, morat ćete koristiti sljedeću PowerShell da biste preuzeli rezultate izvoza:  [Izvoz rezultata iz više od 100k poštanskih sandučića](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Ako izvozite više od 100 K poštanskih sandučića, morat ćete koristiti sljedeću ljusku Powershell da biste preuzeli rezultate izvoza: izvoz rezultata iz više  [od 100K poštanskih sandučića](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).

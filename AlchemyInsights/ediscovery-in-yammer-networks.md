@@ -1,8 +1,8 @@
 ---
-title: Otkriće u mrežama servisa Yammer
+title: Predočavanje elektroničkih elektroničkih podataka u mrežama servisa Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710908"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814472"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>Otkriće u mrežama servisa Yammer
+# <a name="ediscovery-in-yammer-networks"></a>Predočavanje elektroničkih elektroničkih podataka u mrežama servisa Yammer
 
-Sada možete obavljati pretraživanja e-otkrivanja za sadržaj servisa Yammer.  Izvršavanje pretraživanja putem programa Idiscovery ili izvoz u sadržaju servisa Yammer potrebno je sljedeće:
+Sada možete izvršiti pretraživanje elektroničkih predočavanja sadržaja servisa Yammer.  Za izvođenje pretraživanja ili izvoza elektroničkih elektroničkih podataka na sadržaj servisa Yammer potrebno je sljedeće:
 
-1. Prvo morate migrirati mrežu servisa Yammer Enterprise u izvorni način rada da bi se poruke servisa Yammer i datoteke mogle otkriti. **Pažnja: Ako ste novi klijent od siječnja 2020, a mreža servisa Yammer već je u izvornom načinu rada, vaši su podaci sada vidljivi pomoću programa eDiscovery**.
+1. Najprije morate migrirati mrežu za Yammer Enterprise u nativni način rada da bi se poruke i datoteke servisa Yammer učinile vidljivima. Napomena: ako ste novi korisnik od **9. siječnja 2020., a mreža servisa Yammer** već je u nativnom načinu rada, vaši se podaci sada mogu otkriti uz eDiscovery .
 
-2. Ako želite izaći iz korisnika, prilikom izlaska iz sustava Exchange u programu Yammer bit će dostupne mogućnosti korištenja alata za poravnanje autohtonog načina rada, a migraciju u izvornom načinu rada za Yammar u zakupcu.
+2. Kada zatvorite korisnike, eDiscovery za Yammer bit će dostupan kada se objavi alat za poravnanje nativnog načina rada, a migracija Nativnog načina završi za Yammer na klijentu.
 
-Dodatne informacije o:
+Dodatne informacije o sljedećem:
 
-- Izvorni način rada u servisu Yammer potražite u članku: [Pregled izvornog načina rada](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- Otkriće u mrežama servisa Yammer potražite u članku: [Pregled programa idiscovery u mrežama servisa Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- Otkrivanje u programu Microsoft 365 potražite [u članku idiscovery u programu microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Native Mode in Yammer, see: [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- EDiscovery in Yammer Networks, see: [Overview of eDiscovery in Yammer networks](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- EDiscovery in Microsoft 365, pogledajte [eDiscovery in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

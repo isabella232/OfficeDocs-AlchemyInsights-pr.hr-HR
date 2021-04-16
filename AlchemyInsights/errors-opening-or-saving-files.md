@@ -1,8 +1,8 @@
 ---
-title: Pogreške prilikom otvaranja i spremanja datoteka
+title: Pogreške prilikom otvaranja ili spremanja datoteka
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: ce9e160272d96f40a6ba30b1527bde1aed1b8d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 827db0139d2793a5e4d850aeb5463dab272e4d64
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783579"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813608"
 ---
-# <a name="resolve-errors-opening-or-saving-word-files"></a>Rješavanje pogrešaka prilikom otvaranja ili spremanja datoteka programa Word
+# <a name="resolve-errors-opening-or-saving-word-files"></a>Razrješavanje pogrešaka prilikom otvaranja ili spremanja datoteka programa Word
 
-Ako nailazite na probleme prilikom otvaranja ili spremanja dokumenata programa Word, isprobajte sljedeće:
+Ako imate problema s otvaranjem ili spremanjem dokumenata programa Word, pokušajte sljedeće:
 
-- [Instalirajte ažuriranja sustava Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Popis najnovijih ažuriranja sustava Office potražite u članku [najnovija ažuriranja](https://docs.microsoft.com/officeupdates/office-updates-msi).
+- [Instalirajte ažuriranja sustava Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Popis najnovijih ažuriranja sustava Office pogledajte u [odjeljku Najnovija ažuriranja](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Otklanjanje poteškoća s oštećenim dokumentima u programu Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Popravak aplikacije sustava Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Ako dokument sadrži evidentirane promjene, pomoću prijedloga u programu [Word usporavaju ili prestaju reagirati ako postoje prevelike evidentirane promjene ili komentari](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) da biste riješili problem.
+- Ako dokument sadrži evidentirane promjene, koristite prijedloge u programu Word usporava ili prestaje reagirati ako postoje prekomjerno [evidentirane promjene ili komentari da](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) biste riješili problem.
 
-Ako je došlo do pogreške kao što je jedno od sljedećeg, upotrijebite [poruku o pogrešci u programu Office kada je datoteka blokirana postavkama pravilnika registra](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
+Ako ste primili pogrešku kao što je nešto od sljedećeg, koristite prijedloge u poruci o pogrešci u sustavu Office kada je datoteka [blokirana postavkama pravilnika registra:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
 
-- Pokušavate otvoriti datoteku koja je blokirana postavkama pravilnika registra.
-- Pokušavate otvoriti vrstu datoteke **\<File Type\>** koja je blokirana postavkama blokiranja datoteka u centru za pouzdanost.
-- Pokušavate otvoriti datoteku koja je stvorena u starijoj verziji sustava Microsoft Office. Ta je vrsta datoteke blokirana iz otvaranja u ovoj verziji pomoću postavke pravilnika registra.
+- Pokušavate otvoriti datoteku blokiranu postavkom pravilnika registra.
+- Pokušavate otvoriti vrstu datoteke koju su blokirali postavke **\<File Type\>** blokiranja datoteka u centru za pouzdanost.
+- Pokušavate otvoriti datoteku stvorenu u starijoj verziji sustava Microsoft Office. Postavka pravilnika registra blokira otvaranje te vrste datoteke u ovoj verziji.
 - Pokušavate spremiti datoteku blokiranu postavkom pravilnika registra.
-- Pokušavate spremiti vrstu datoteke koja je blokirala postavke blokiranja datoteka u centru za pouzdanost.
+- Pokušavate spremiti vrstu datoteke koju su blokirali postavke blokiranja datoteka u centru za pouzdanost.
 
-Ako nailazite na probleme prilikom otvaranja datoteka sustava Office iz biblioteka dokumenata sustava SharePoint ili servisa OneDrive, isprobajte sljedeće:
+Ako imate problema s otvaranjem datoteka sustava Office iz biblioteka dokumenata sustava SharePoint ili servisa OneDrive, pokušajte sljedeće:
 
-- Potvrdite ograničenja datoteka u [nazivima datoteka i vrstama datoteka na servisu OneDrive, OneDrive za tvrtke i u sustavu SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) da biste bili sigurni da je datoteka podržana. 
-- [Izbrišite cache dokumenta sustava Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
+- Provjerite ograničenja datoteka u nazivima datoteka i vrstama datoteka koji nisu valjani na [servisima OneDrive, OneDrive za](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa) tvrtke i u sustavu SharePoint da biste bili sigurni da je datoteka podržana. 
+- [Izbrišite predmemoriju dokumenata sustava Office](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d
 ). 
 
-Dodatne informacije potražite u članku [Rješavanje problema s otvaranjem dokumenata u bibliotekama sustava SharePoint](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536).
+Dodatne informacije potražite u članku Rješavanje [problema s otvaranjem dokumenata u bibliotekama sustava SharePoint](https://support.office.com/article/31329fa1-4ad0-47fc-95d8-bb0c5b12a536).

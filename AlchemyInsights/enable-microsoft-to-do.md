@@ -1,8 +1,8 @@
 ---
-title: Omogući Microsoft to-do
+title: Omogućivanje servisa Microsoft To-Do
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: ba45cd308114037a0090aa218c7764442b0d81d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516ad0ccadd74eee7e00353d7439eebc6d88718f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709863"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814094"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Omogućivanje sustava Microsoft to-do
+# <a name="how-to-enable-microsoft-to-do"></a>Omogućivanje servisa Microsoft To-Do
 
-Da biste mogli koristiti Microsoft to-do, administrator mora omogućiti aplikaciju na svakom korisničkom računu. Otvorite stranicu [ &amp; Dodaci za servise](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) na stranici postavke administratora sustava Microsoft 365 da biste omogućili to-do za svakog korisnika.
+Da biste koristili Microsoft To-Do, administrator mora omogućiti aplikaciju na računu svakog korisnika. Otvorite stranicu [Dodaci &amp; za servise na](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) stranici s postavkama administratora sustava Microsoft 365 da biste To-Do za svakog korisnika.
   
-Microsoft to-do koristi značajke u sustavu Exchange Online da bi sinkronizirale i pohranili stavke korisnika. Da biste mogli koristiti Microsoft to-do, korisnik mora imati valjani poštanski sandučić sustava Exchange Online.
+Microsoft To-Do koristi značajke u sustavu Exchange Online za sinkronizaciju i pohranu korisničkih stavki. Da biste koristili Microsoft To-Do, korisniku je potreban valjan poštanski sandučić sustava Exchange Online.
   
-Dodatne informacije potražite [u članku administracija Microsoft to-do pretpregleda](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+Dodatne informacije potražite u članku [Administracija sustava Microsoft To-Do Pretpregled](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **Pažnja**: ako se prilikom pokušaja prijave prikaže pogreška 501 [https://todo.microsoft.com](https://todo.microsoft.com) , pokušajte [https://to-do.microsoft.com](https://to-do.microsoft.com) .
+ **Napomena**: ako vam se prilikom pokušaja prijave prikazuje pogreška 501 [https://todo.microsoft.com](https://todo.microsoft.com) , pokušajte [https://to-do.microsoft.com](https://to-do.microsoft.com) .
   
 

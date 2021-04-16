@@ -2,7 +2,7 @@
 title: DNS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5625"
-ms.openlocfilehash: 4d7965ecd23afb899a3b5bc46ce22acddc1cd40f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c94173a4b13be2d3fb0b05d4ec03365c00137b79
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679180"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814986"
 ---
 # <a name="dns"></a>DNS
 
 - [Stvaranje DNS zapisa kod bilo kojeg davatelja usluge hostiranja DNS-a](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider?view=o365-worldwide)
-- [Otklanjanje poteškoća s DNS-om, domenama, web-mjestom i pitanjima](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide)
+- [Otklanjanje poteškoća s DNS-om, domenama, web-mjestom i e-poštom](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide)
 
-U suprotnom pokušajte ponovno Formulirajući problem ili pročitajte [Najčešća pitanja o domenama](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide).
+U suprotnom pokušajte preformuliranje problema ili pogledajte [najčešća pitanja o domenama](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide).

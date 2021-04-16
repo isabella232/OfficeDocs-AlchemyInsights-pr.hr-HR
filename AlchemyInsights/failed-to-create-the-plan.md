@@ -2,7 +2,7 @@
 title: Stvaranje plana nije uspjelo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3157"
 - "9000727"
-ms.openlocfilehash: a5090d6d74a3e8f1cdaf52f54d420ccc7c90c107
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b5a2a88a82d837ae953f88866cf778fd74a2b6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782607"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813212"
 ---
-# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Pogreška "nije uspjelo stvaranje plana" prilikom pokušaja stvaranja kartice planer u Microsoftovim timovima
+# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Pogreška "Stvaranje plana nije uspjelo" prilikom pokušaja stvaranja kartice Planner u aplikaciji Microsoft Teams
 
-Ako vam se prilikom pokušaja stvaranja kartice planer u Microsoftovim timovima prikazuje pogreška "nije uspjelo stvaranje plana", provjerite je li administrator član grupe tako da slijedite ove korake:
+Ako se prilikom stvaranja kartice Planner u aplikaciji Microsoft Teams prikazuje pogreška "Nije uspjelo stvoriti plan", provjerite je li administrator član grupe slijedeći ove korake:
 
-1. U centru za administratore idite na **grupe**  >  [grupa](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). 
-2. Odaberite grupu, a zatim na kartici **Članovi** odaberite **Prikaz svih članova i upravljanje njima**.
-3. Dodajte člana, a zatim odaberite **Spremi**.
+1. U centru za administratore idite na **Grupe**  >  [grupa](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). 
+2. Odaberite grupu, a zatim na kartici **Članovi odaberite** Prikaži **sve članove i upravljajte njima**.
+3. Dodajte člana i odaberite **Spremi**.

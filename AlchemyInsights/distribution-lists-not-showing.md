@@ -2,7 +2,7 @@
 title: Popisi za raspodjelu koji se ne prikazuju
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
-ms.openlocfilehash: 7e681274bb58ac2f64a923999504f22074dd2c52
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74fc4adc75492e3b8728ac3d5ac009e096db746d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711960"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815022"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>Grupa za raspodjelu ne prikazuje se na popisu grupe
+# <a name="distribution-group-not-showing-in-groups-list"></a>Grupa za raspodjelu koja se ne prikazuje na popisu Grupe
 
-U centru za administratore sustava Exchange može potrajati i do 60 minuta prije no što se novi popis za raspodjelu pojavi.
+Da bi se novi popis za raspodjelu pojavio u centru za administratore sustava Exchange, može potrajati i do 60 minuta.
   
-Ako želite dodati članove ili odmah unijeti druge izmjene, koristite značajku grupe u [centru za administratore sustava Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Ako želite odmah dodati članove ili ih urediti, upotrijebite značajku Grupe u centru za [administratore sustava Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 

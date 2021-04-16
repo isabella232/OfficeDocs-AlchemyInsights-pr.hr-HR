@@ -1,36 +1,37 @@
 ---
-title: Šifriranje datoteka ili mape u sustavu Windows 10
+title: Šifriranje datoteka ili mapa u sustavu Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002954"
 - "5656"
-ms.openlocfilehash: 50366ce2300cba6fecc03f7ebadee4c8189339ce
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
-ms.translationtype: MT
+ms.openlocfilehash: 38d6b480973eb5536880856f92f18802eed9db08
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44268859"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813896"
 ---
-# <a name="encrypt-files-or-folder-in-windows-10"></a>Šifriranje datoteka ili mape u sustavu Windows 10
+# <a name="encrypt-files-or-folder-in-windows-10"></a>Šifriranje datoteka ili mapa u sustavu Windows 10
 
-Cijeli disk možete šifrirati pomoću značajke BitLocker, ali šifrirati samo pojedinačne datoteke ili mape (i njihov sadržaj):
+Možete šifrirati cijeli disk uz BitLocker, no da biste šifrirali samo pojedinačne datoteke ili mape (i njihov sadržaj):
 
-1. U **eksploreru za datoteke**odaberite datoteke/mape koje želite šifrirati. U ovom primjeru odabrane su dvije datoteke:
+1. U **Eksploreru za datoteke**, odaberite datoteke/mape koje želite šifrirati. U ovom su primjeru odabrane dvije datoteke:
 
-    ![Odabir datoteka ili mapa za šifriranje](media/select-for-encrypting.png)
+    ![Odaberite datoteke ili mape za šifriranje.](media/select-for-encrypting.png)
 
-2. Desnom tipkom miša kliknite odabrane datoteke, a zatim kliknite **Svojstva**.
+2. Desnom tipkom miša kliknite odabranu datoteku, a zatim kliknite **Svojstva**.
 
-3. U prozoru **Svojstva** kliknite **Dodatno**.
+3. U prozoru **Svojstva** kliknite **Napredno**.
 
-4. U prozoru **Napredna svojstva** potvrdite okvir **Šifriraj sadržaj da biste zaštitili podatke:**
+4. U prozoru **Napredna svojstva** označite potvrdni okvir **Šifriraj sadržaj u sigurne podatke**:
 
     ![Šifriraj sadržaj](media/encrypt-contents.png)
 

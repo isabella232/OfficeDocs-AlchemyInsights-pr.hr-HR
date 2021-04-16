@@ -1,8 +1,8 @@
 ---
-title: Datum isteka tima i grupe u podlozi se ne podudaraju
+title: Datum isteka tima i temeljne grupe ne podudaraju se
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 77a10d87cf725339058408ff82b3e58c0736edfd
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364563"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813428"
 ---
-# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Datum isteka tima i grupe u podlozi se ne podudaraju
+# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Datum isteka tima i temeljne grupe ne podudaraju se
 
-Kada se tim obnovi, grupa koja se ponovno podupire tim obnavlja se prvi. Kao dio obnove, novi Datum isteka postavljen je na grupu za budući datum. Ovaj novi Datum možda nije odmah vidljiv u timovima. Sinkroniziranje može potrajati i do 24 sata. Ako vam se prikazuje nepodudarnost između datuma isteka za tim i njegove temeljne grupe, pričekajte 24 sata prije nego što zatražite daljnju podršku.  
+Prije obnove tima, grupa koja će vratiti tim prvo će se obnoviti. U sklopu obnove, novi datum isteka postavljen je na grupu za budući datum. Taj novi datum možda neće biti odmah vidljiv u aplikaciji Teams. Sinkronizacija može potrajati i do 24 sata. Ako vidite nepodudarnost između datuma isteka za tim i njezinu temeljnu grupu, pričekajte 24 sata prije traženja dodatne podrške.  
 
-Dodatne informacije potražite [u članku istekom i obnavljanju tima u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  .
+Dodatne informacije potražite u članku Isteka i obnove tima u [aplikaciji Microsoft Teams.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)
