@@ -1,8 +1,8 @@
 ---
-title: Nadogradnja timova za odlaganje
+title: Odgađanje nadogradnje aplikacije Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: abbf696b1554743bda188704272bfd85fe6f94e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741763"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801223"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Kako odgoditi nadogradnju timova tvrtke Microsoft
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Odgađanje nadogradnje aplikacije Microsoft-driven Teams
 
-**Važno**: možemo vam pomoći da ovo popravimo za vas pomoću dijagnostičke podrške, ali izgleda da ne koristite novi centar za administratore. Da biste koristili novi centar za administratore, gurnite preklopni gumb u gornjem desnom kutu koji kaže da je **novi centar za administratore** desno. Pomoću novog centra za administratore kliknite **potrebna pomoć?** widget, upišite "odgoda timova za nadogradnju", a zatim slijedite upute da biste pokrenuli dijagnostiku.
+**Važno**: To vam možemo pomoći riješiti pomoću dijagnostičke podrške, ali čini se da ne koristite Novi centar za administratore. Da biste koristili novi centar za administratore, pomaknite prekidač u gornjem desnom desnoj tipki u koji piše **novi centar za administratore** desno. Pomoću novog centra za administratore kliknite widget Potrebna **vam je pomoć?** upišite "Odgodi nadogradnju aplikacije Teams", a zatim slijedite upute za pokretanje dijagnostike.
 
-Ako ste primili komunikaciju o Microsoftovoj automatiziranoj nadogradnji iz Skypea za tvrtke u Microsoftove timove i želite odgoditi automatiziranu nadogradnju na kasniji datum, globalni administrator može se prijaviti na [portal za administratore timova](https://admin.teams.microsoft.com/dashboard) i nakon odabira gumba oporavak **stanja** u odjeljku Nadogradnja Microsoftovih timova odaberite gumb **odlaži** . Da biste vidjeli novi Datum automatske nadogradnje svog stanara u Microsoftove timove, osvježite stranicu portala za administratore timova.
+Ako ste primili komunikaciju o microsoftovoj automatiziranoj nadogradnji sa servisa Skype za tvrtke na Microsoft Teams i želite odgoditi automatiziranu nadogradnju na kasniji datum, globalni administrator može se prijaviti na portal administratora aplikacije [Teams,](https://admin.teams.microsoft.com/dashboard) a nakon odabira **gumba Status** osvježavanja u odjeljku Nadogradnja aplikacije Microsoft Teams odaberite gumb **Odgodi.** Da biste vidjeli novi datum automatske nadogradnje klijenta na Microsoft Teams, osvježite stranicu portala Za administratore aplikacije Teams.
 
-**Upozorenje:** Gumb **Postpone** bit će dostupan samo ako ste u centru za poruke primili obavijest o automatiziranoj nadogradnji. 
+**Napomena:** Gumb **Odgodi** bit će dostupan samo ako ste primili obavijest centra za poruke o automatiziranoj nadogradnji. 
 
-Globalni administratori mogu pokrenuti i [dohvaćanje-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) da biste saznali više o svom trenutnim statusom nadogradnje.
+Globalni administratori mogu pokrenuti i [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) da bi saznali više o trenutnom statusu nadogradnje.
