@@ -1,8 +1,8 @@
 ---
-title: 'Microsoft 365 za neprofitne organizacije '
+title: 'Microsoft 365 za neprofitne ustanove – odobren '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779800"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810656"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a><span data-ttu-id="6b271-102">Microsoft 365 za neprofitne organizacije</span><span class="sxs-lookup"><span data-stu-id="6b271-102">Microsoft 365 for nonprofits - approved</span></span>
+# <a name="microsoft-365-for-nonprofits---approved"></a><span data-ttu-id="99292-102">Microsoft 365 za neprofitne ustanove – odobren</span><span class="sxs-lookup"><span data-stu-id="99292-102">Microsoft 365 for nonprofits - approved</span></span>
 
-<span data-ttu-id="6b271-103">Vaš status kao Microsoftova ovlaštena neprofitna tvrtka odobrila je.</span><span class="sxs-lookup"><span data-stu-id="6b271-103">Your status as a Microsoft Qualified Nonprofit Organization has been approved.</span></span> <span data-ttu-id="6b271-104">Kupnju možete dovršiti iz centra za administratore sustava Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="6b271-104">You can complete the purchase from the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="99292-103">Odobren je vaš status microsoftove kvalificirane neprofitne organizacije.</span><span class="sxs-lookup"><span data-stu-id="99292-103">Your status as a Microsoft Qualified Nonprofit Organization has been approved.</span></span> <span data-ttu-id="99292-104">Kupnju možete dovršiti u centru za administratore sustava Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="99292-104">You can complete the purchase from the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="6b271-105">U centru za administratore otvorite **Billing** \> stranicu [nabave servisa](https://go.microsoft.com/fwlink/p/?linkid=868433) za naplatu.</span><span class="sxs-lookup"><span data-stu-id="6b271-105">In the admin center, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+1. <span data-ttu-id="99292-105">U centru za administratore  idite na stranicu \> [Servisi za kupnju naplate.](https://go.microsoft.com/fwlink/p/?linkid=868433)</span><span class="sxs-lookup"><span data-stu-id="99292-105">In the admin center, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-2. <span data-ttu-id="6b271-106">Odaberite s popisa u odjeljku **neprofitabilne tarife**.</span><span class="sxs-lookup"><span data-stu-id="6b271-106">Choose from the list under **NonProfits Plans**.</span></span>
+2. <span data-ttu-id="99292-106">Odaberite s popisa u **odjeljku Neprofitne tarife**.</span><span class="sxs-lookup"><span data-stu-id="99292-106">Choose from the list under **NonProfits Plans**.</span></span>
 
-3. <span data-ttu-id="6b271-107">Postavite pokazivač miša na pretplatu koju želite kupiti, a zatim odaberite **Kupi odmah**.</span><span class="sxs-lookup"><span data-stu-id="6b271-107">Hover over the subscription that you want to purchase, and choose **Buy Now**.</span></span>
+3. <span data-ttu-id="99292-107">Postavite pokazivač miša iznad pretplate koju želite kupiti, a zatim odaberite **Kupite odmah**.</span><span class="sxs-lookup"><span data-stu-id="99292-107">Hover over the subscription that you want to purchase, and choose **Buy Now**.</span></span>
 
-<span data-ttu-id="6b271-108">Dodatne informacije potražite u člancima [Microsoft 365 Resources za neprofitne organizacije](https://www.microsoft.com/nonprofits/microsoft-365) ili [Prodaja kontakata](https://www.microsoft.com/nonprofits/contact-us).</span><span class="sxs-lookup"><span data-stu-id="6b271-108">For more info, see [Microsoft 365 resources for nonprofits](https://www.microsoft.com/nonprofits/microsoft-365) or [contact sales](https://www.microsoft.com/nonprofits/contact-us).</span></span>
+<span data-ttu-id="99292-108">Dodatne informacije potražite u članku [Resursi za Microsoft 365 za neprofitne](https://www.microsoft.com/nonprofits/microsoft-365) ustanove ili prodaja [kontakata](https://www.microsoft.com/nonprofits/contact-us).</span><span class="sxs-lookup"><span data-stu-id="99292-108">For more info, see [Microsoft 365 resources for nonprofits](https://www.microsoft.com/nonprofits/microsoft-365) or [contact sales](https://www.microsoft.com/nonprofits/contact-us).</span></span>

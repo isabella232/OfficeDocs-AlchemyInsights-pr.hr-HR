@@ -1,8 +1,8 @@
 ---
-title: Microsoft 365 za neprofitne organizacije-odbijena
+title: Microsoft 365 za neprofitne ustanove – odbijen
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: 78389468129cf4529b7073f9e325872dedf7cb33
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b785243902b3e0ccbba14164ca6f19ab754beb9e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779763"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810692"
 ---
-# <a name="microsoft-365-for-nonprofits---declined"></a><span data-ttu-id="3ffe4-102">Microsoft 365 za neprofitne organizacije-odbijena</span><span class="sxs-lookup"><span data-stu-id="3ffe4-102">Microsoft 365 for nonprofits - declined</span></span>
+# <a name="microsoft-365-for-nonprofits---declined"></a><span data-ttu-id="bbdf5-102">Microsoft 365 za neprofitne ustanove – odbijen</span><span class="sxs-lookup"><span data-stu-id="bbdf5-102">Microsoft 365 for nonprofits - declined</span></span>
 
-<span data-ttu-id="3ffe4-103">Pregledali smo vaš zahtjev i utvrdili da ova tvrtka ili ustanova nije prihvatljiva kao Microsoft kvalificiran neprofitna tvrtka ili ustanova.</span><span class="sxs-lookup"><span data-stu-id="3ffe4-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="bbdf5-103">Pregledali smo vaš zahtjev i utvrdili da ta tvrtka ili ustanova ne ispunjava uvjete za Microsoftovu kvalificiranu neprofitnu organizaciju.</span><span class="sxs-lookup"><span data-stu-id="bbdf5-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="3ffe4-104">Da biste komercijalno kupili Office 365, pročitajte [dostupne ponude](https://portal.office.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="3ffe4-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="bbdf5-104">Da biste komercijalno kupili Office 365, pročitajte [dostupne ponude.](https://portal.office.com/AdminPortal/Home)</span><span class="sxs-lookup"><span data-stu-id="bbdf5-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>

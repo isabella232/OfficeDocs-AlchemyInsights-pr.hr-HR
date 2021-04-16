@@ -2,7 +2,7 @@
 title: Vraćanje izbrisanih web-mjesta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000210"
 - "4836"
-ms.openlocfilehash: 352977a82fea6628bf3de0d81e75a8ccc3fb1628
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eca087369f8cf879a27d713da3e8e190aaf34eb9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701055"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809395"
 ---
-# <a name="restore-deleted-sites"></a><span data-ttu-id="f98d0-102">Vraćanje izbrisanih web-mjesta</span><span class="sxs-lookup"><span data-stu-id="f98d0-102">Restore deleted sites</span></span>
+# <a name="restore-deleted-sites"></a><span data-ttu-id="739d8-102">Vraćanje izbrisanih web-mjesta</span><span class="sxs-lookup"><span data-stu-id="739d8-102">Restore deleted sites</span></span>
 
-<span data-ttu-id="f98d0-103">Izbrisana web-mjesta čuvaju se 93 dana.</span><span class="sxs-lookup"><span data-stu-id="f98d0-103">Deleted sites are retained for 93 days.</span></span> <span data-ttu-id="f98d0-104">Nakon 93 dana, web-mjesta i sav njihov sadržaj i postavke bit će trajno izbrisani, uključujući popise, biblioteke, stranice i sva web-podmjesta.</span><span class="sxs-lookup"><span data-stu-id="f98d0-104">After 93 days, sites and all their content and settings are permanently deleted, including lists, libraries, pages, and any subsites.</span></span>
+<span data-ttu-id="739d8-103">Izbrisana web-mjesta čuvaju se 93 dana.</span><span class="sxs-lookup"><span data-stu-id="739d8-103">Deleted sites are retained for 93 days.</span></span> <span data-ttu-id="739d8-104">Nakon 93 dana, web-mjesta i sav njihov sadržaj i postavke bit će trajno izbrisani, uključujući popise, biblioteke, stranice i sva web-podmjesta.</span><span class="sxs-lookup"><span data-stu-id="739d8-104">After 93 days, sites and all their content and settings are permanently deleted, including lists, libraries, pages, and any subsites.</span></span>
 
-- <span data-ttu-id="f98d0-105">Dodatne informacije potražite u članku [Vraćanje izbrisanih web-mjesta](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).</span><span class="sxs-lookup"><span data-stu-id="f98d0-105">For more info, see [Restore deleted sites](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).</span></span>
+- <span data-ttu-id="739d8-105">Dodatne informacije potražite u članku [Vraćanje izbrisanih web-mjesta](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).</span><span class="sxs-lookup"><span data-stu-id="739d8-105">For more info, see [Restore deleted sites](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).</span></span>
