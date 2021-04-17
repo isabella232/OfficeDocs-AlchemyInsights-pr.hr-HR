@@ -1,8 +1,8 @@
 ---
-title: Identificiranja svog ID-a stanara
+title: Prepoznavanje ID-a klijenta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: 7b41f44e251fa1668c6fc5073a432681fc9265a7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b64e3ea72265e99f843ef47b37a29c85738009aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668266"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834039"
 ---
-# <a name="identify-your-tenant-id"></a>Identificiranja svog ID-a stanara
+# <a name="identify-your-tenant-id"></a>Prepoznavanje ID-a klijenta
 
-Pronađite ID tvrtke ili ustanove tvrtke Microsoft 365 u centru za administratore Azure.
+Pronađite ID tvrtke ili ustanove za Microsoft 365 (ID klijenta) u centru za administratore sustava Azure.
 
-1. Na [stranici svojstva](https://aka.ms/AzurePropertiesPage)otvorite okvir **ID direktorija** .
+1. Na [stranici Svojstva](https://aka.ms/AzurePropertiesPage)idite na **okvir ID direktorija.**
 
 2. Po potrebi kopirajte ID.
 
-Dodatne informacije potražite u članku [Pronalaženje ID-a tvrtke ili ustanove tvrtke Microsoft 365](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id).
+Dodatne informacije potražite u članku Pronalaženje ID-a tvrtke ili ustanove za [Microsoft 365](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id).

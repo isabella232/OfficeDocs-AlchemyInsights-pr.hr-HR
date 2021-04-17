@@ -1,8 +1,8 @@
 ---
-title: 'Servisa Yammer – upravljanje Microsoftovim 365 grupama '
+title: 'Yammer – upravljanje grupama sustava Microsoft 365 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 543972a81a8958951e31d63a632283d07c06de4c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb5959f74793ce146d326d2ddc32c359daecc3ba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668879"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834075"
 ---
-# <a name="manage-microsoft-365-groups-in-yammer"></a>Upravljanje grupama sustava Microsoft 365 u servisu Yammer
+# <a name="manage-microsoft-365-groups-in-yammer"></a>Upravljanje grupama sustava Microsoft 365 na servisu Yammer
 
-Evo nekoliko odgovora na Najčešći problem s grupama Microsoft 365 u servisu Yammer.
+Evo nekih odgovora na najčešće probleme s grupama sustava Microsoft 365 na servisu Yammer.
 
-* **Grupe Microsoft 365** zajednički su radni prostor za e-poštu, razgovore, datoteke i događaje na kojima članovi grupe mogu surađivati. Pomoću servisa Yammer grupe Microsoft 365 imaju mnoge prednosti u odnosu na grupe servisa Yammer koje nisu povezane. Možete, primjerice, stvarati i ugostiti događaje uživo, vratiti izbrisane grupe, koristiti dinamičku člansku grupu, automatsku arhivu i pristupati zajedničkim resursima kao što su SharePoint, OneNote i Planner.
+* **Grupe sustava Microsoft 365** zajednički su radni prostor za e-poštu, razgovore, datoteke i događaje na kojima članovi grupe mogu surađivati. Uz Yammer grupe sustava Microsoft 365 imaju brojne prednosti u odnosu na grupe servisa Yammer koje nisu povezane. Možete, primjerice, stvarati i hostirati događaje uživo, vraćati izbrisane grupe, koristiti dinamično članstvo u grupi, automatsku arhivu i pristupati zajedničkim resursima kao što su Sharepoint, OneNote i Planner.
 
-* Možete reći je li grupa servisa Yammer povezana s grupama Microsoft 365 kada u desnoj navigaciji grupe prikazuje odjeljak **resursi sustava Office 365** (SharePoint, OneNote, Planner). Ako resursi nisu dostupni, provjerite sljedeće.
+* Možete odrediti je li grupa servisa Yammer povezana s grupama sustava Microsoft 365 kada vidite odjeljak Resursi sustava **Office 365** (Sharepoint, OneNote, Planner) u desnom navigacijskom oknu grupe. Ako resursi nisu dostupni, provjerite sljedeće.
 
-  1. Mreža servisa Yammer mora biti u 1 zakupcu: 1 Mrežna konfiguracija. Da biste potvrdili da ste u konfiguraciji sustava 1:1, upotrijebite **alat za migraciju mreže** kao što je opisano u [mrežnim migracijama – konsolidirate više mreža servisa Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. Mreža servisa Yammer mora biti u mrežnoj konfiguraciji 1 klijenta:1. da biste provjerili nalazite li se u konfiguraciji 1:1, upotrijebite alat **za** mrežnu migraciju kao što je opisano u odjeljku Mrežna migracija [– konsolidacija većeg broja mreža servisa Yammer.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
-  2. Pronađite **mrežni administrator, sigurnosnu postavku**i provjerite primjenjuje li se **identitet sustava Office 365** za korisnike servisa Yammer.
+  2. Pronađite mrežni **administrator, sigurnosnu postavku** i provjerite primjenjuje li se identitet sustava **Office 365** za korisnike servisa Yammer.
 
-Dodatne informacije o grupama Microsoft 365 i Yammeru potražite u odjeljku [Yammer i microsoft 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Informacije o upravljanju grupom potražite [u članku Upravljanje grupom u servisu Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Dodatne informacije o grupama sustava Microsoft 365 i servisu Yammer potražite u članku [Yammer i Grupe sustava Microsoft 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Informacije o upravljanju grupom potražite u članku Upravljanje [grupom na servisu Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

@@ -2,7 +2,7 @@
 title: Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "3569"
-ms.openlocfilehash: 81e34a10b1fa2a3fa9c08b796bab751bd91602bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a7fd32f2891be499e4bd764f193b6d1d6b7e9f3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674858"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833859"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream poslovno je Videoservis u kojem korisnici u vašoj tvrtki ili ustanovi mogu sigurno prenositi, pregledavati i zajednički koristiti videozapise. 
+Microsoft Stream je servis Enterprise Video na kojem osobe u vašoj tvrtki ili ustanovi mogu sigurno prenositi, pregledavati i zajednički koristiti videozapise. 
 
-Dodatne informacije potražite u članku:
+Dodatne informacije potražite u sljedećim člancima:
 
 - [Što je Microsoft Stream?](https://docs.microsoft.com/stream/overview)
-- [Prijelaz u programu Office 365 video u Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
-- [Strujanje ažuriranja servisa](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
+- [Prijelaz sustava Office 365 Video na Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [Ažuriranja servisa strujanje](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
 - [Grupe i kanali u programu Microsoft Stream](https://docs.microsoft.com/stream/groups-channels-organization)
 - [Događaji uživo u programu Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
 - [Zajedničko korištenje videozapisa u programu Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)

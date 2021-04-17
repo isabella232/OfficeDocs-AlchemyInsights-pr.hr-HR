@@ -1,29 +1,30 @@
 ---
-title: Rješavanje problema s provjerom
+title: Otklanjanje poteškoća s provjerom valjanosti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002657"
 - "5619"
-ms.openlocfilehash: bc987ed2dae64df3341ed1526ef7c070b27b783d
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
-ms.translationtype: MT
+ms.openlocfilehash: 601aff799a0116fb5d86e8adb746964ab9645a16
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44236398"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834867"
 ---
-# <a name="troubleshoot-verification-issues"></a>Rješavanje problema s provjerom
+# <a name="troubleshoot-verification-issues"></a>Otklanjanje poteškoća s provjerom valjanosti
 
-Ako se prilikom otvaranja aplikacije sustava Microsoft 365 pojavi obavijest o pretplati, [ovdje](https://support.office.com/article/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) možete slijediti korake za otklanjanje poteškoća da biste zaustavili obavijesti.
+Ako se prilikom otvaranja aplikacije sustava Microsoft 365 prikaže obavijest o pretplati, slijedite [ovdje navedene](https://support.office.com/article/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) korake za otklanjanje poteškoća da biste ukinuli obavijesti.
 
-**Primjer:** Možda ćete vidjeti žutu traku upozorenja na vrhu aplikacije: **Nije moguće provjeriti pretplatu**.
+**Primjer**: možda ćete vidjeti žutu traku upozorenja pri vrhu aplikacije: **Nije moguće provjeriti valjanost pretplate**.
 
-**Problem**: Iako ne morate biti na mreži u svakom trenutku da biste koristili Office, morate se povremeno povezati s internetom da bi Office mogao provjeriti je li vaša pretplata još uvijek aktivna. Ako Office ne može dulje vrijeme provjeravati status pretplate (obično oko 30 dana), prikazat će se poruka "Nije moguće provjeriti pretplatu", a Office će na kraju prijeći u način rada smanjene funkcionalnosti.
+**Problem**: iako ne morate biti stalno povezani s internetom da biste koristili Office, morate se povremeno povezivati kako bi Office provjerio je li vaša pretplata još uvijek aktivna. Ako Office dulje vrijeme (obično oko 30 dana) ne može provjeriti status vaše pretplate, prikazat će se poruka "Nije moguće provjeriti valjanost pretplate", a Office će se naposljetku prebaciti u način rada sa smanjenom funkcionalnošću.
 
-**Razlučivost**: Ponovno se povežite s internetom, a zatim kliknite **Pokušaj ponovno**.
+**Rješenje**: ponovno se povežite s internetom i kliknite **Pokušaj ponovno**.

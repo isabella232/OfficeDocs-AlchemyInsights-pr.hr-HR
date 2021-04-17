@@ -1,8 +1,8 @@
 ---
-title: Eksploratorno iskustvo Microsoftova timova
+title: Eksploratorno iskustvo aplikacije Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 1402f0f0e65fcc4201e65f2a8d1c3b09c12a0023
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: ed076b37010c9946838acbf2a2d641200b9ed5c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50480711"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833787"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Eksploratorno iskustvo Microsoftova timova
+# <a name="microsoft-teams-exploratory-experience"></a>Eksploratorno iskustvo aplikacije Microsoft Teams
 
-- Što je [istraživački tim](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Eksploratorno iskustvo Microsoftova timova omogućuje korisnicima u vašoj tvrtki ili ustanovi koji nisu licencirani za timove da pokrenu eksploracijski doživljaj timova. Dodatne informacije potražite [u članku što je u Eksploratnim iskustvima timova](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
-- [Koliko dugo traje Eksploracijski doživljaj timova?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Eksploratorno iskustvo Microsoftova timova dostupno je bez dodatnog troška za 12 mjeseci (od početnog korisničkog prijave) i dodatnih 30 dana mirovanja.
-- Kao administrator možete [nadograditi korisnike u eksploratnoj](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) licenci za timove kupnjom pretplate koja obuhvaća timove, uklanjanjem pretplate na eksploraciju timova od korisnika i dodjeljivanjem novokupljene licence.
-- Dodatne informacije potražite u članku [Upravljanje istraživačkoj licenci za timove](https://docs.microsoft.com/microsoftteams/teams-exploratory).
+- Što je [teams exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Eksploratorno iskustvo aplikacije Microsoft Teams korisnicima u vašoj tvrtki ili ustanovi koji nisu licencirani za Teams omogućuje pokretanje istraživačkog iskustva aplikacije Teams. Dodatne informacije potražite u članku Iskustvo istraživanja u aplikaciji [Teams.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
+- [Koliko dugo traje eksploratorno iskustvo aplikacije Teams?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Eksploratorno sučelje aplikacije Microsoft Teams dostupno je bez dodatnih troškova za 12 mjeseci (od početne prijave korisnika) i dodatnih 30 dana odgode.
+- Kao administrator možete nadograditi korisnike iz licence [Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) kupnjom pretplate koja obuhvaća Teams, uklanjanjem istraživačke pretplate na Teams od korisnika i dodjelom novo kupljene licence.
+- Dodatne informacije potražite u članku [Upravljanje licencom Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory).

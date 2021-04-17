@@ -1,8 +1,8 @@
 ---
-title: Otklanjanje poteškoća s e-poštom
+title: Otklanjanje poteškoća s događajima iz poruke e-pošte
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658726"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834831"
 ---
-# <a name="troubleshooting-events-from-email"></a>Otklanjanje poteškoća s e-poštom
+# <a name="troubleshooting-events-from-email"></a>Otklanjanje poteškoća s događajima iz poruke e-pošte
 
-1. Provjera je li značajka omogućena za poštanski sandučić: **dohvaćanje-EventsFromEmailConfiguration – Identity <mailbox> **
+1. Provjera je li značajka omogućena za poštanski sandučić: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Zatim pogledajte "događaji iz poruka e-pošte" **Export-Mailboxdijagnostički zapisnici <mailbox> -komponenta timeprofile**
+2. Zatim pogledajte zapisnike "Događaji iz **e-pošte" Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. U zapisnicima "događaji iz e-pošte" Pronađite aplikaciju InternetMessageId koja odgovara stavci u poštanskom sandučiću.  
+3. U zapisnicima "Događaji iz e-pošte" pronađite InternetMessageId koji odgovara stavci u poštanskom sandučiću.  
 
-4. Rezultat pouzdanosti određuje je li stavka dodana ili nije. Događaji će se dodati samo ako je TrustScore = "pouzdan".
+4. TrustScore određuje je li stavka dodana ili nije. Događaji će se dodati samo ako je TrustScore = "Pouzdano".
 
-Funkcija TrustScore određuje se pomoću funkcija SPF, depet ili DeMarka, koje se nalaze u zaglavlju poruke.
+TrustScore određuje SPF, Dkim ili Dmarc svojstva koja se nalaze u zaglavlju poruke.
 
-Da biste pogledali ta svojstva, učinite sljedeće:
+Da biste pogledali ova svojstva:
 
 **Outlook za stolna računala**
 
 - Otvaranje stavke
-- Svojstva datoteka->-> Internetska zaglavlja
+- Svojstva datoteka -> -> Internet Headers
 
 ili
 
 **MFCMapi**
 
-- Navigacija do stavke u ulaznoj pošti
+- Prelazak na stavku u ulaznoj pošti
 - Potražite PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Ta se svojstva određuju i snimaju tijekom transporta i proizvodnog postupka. Da biste dodatno otklanjanja poteškoća, možda ćete morati pratiti podršku za transport o neuspjehom u programu SPF, DKIM i. ili DMARC.
+Ta se svojstva određuju i bilježe tijekom prijenosa i usmjeravanja. Da biste dodatno otkloniti poteškoće, možda ćete morati nastaviti s podrškom za transport o pogreškama u SPF-u, DKIM-u i.ili DMARC-u.

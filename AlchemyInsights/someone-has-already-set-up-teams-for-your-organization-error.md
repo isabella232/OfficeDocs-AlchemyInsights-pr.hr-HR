@@ -1,29 +1,30 @@
 ---
-title: Netko je već postavio pogreške u timovima za vašu tvrtku ili ustanovu
+title: Pogreška uzrokovana time što je netko već postavio Teams za vašu tvrtku ili ustanovu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002343"
 - "5063"
-ms.openlocfilehash: 0aa2d68e737faba8b8558a1581e25bdb14e5a9ff
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: MT
+ms.openlocfilehash: a22b8d7a64645b57eb813fb2cfc7c45cc90f556a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44282581"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835299"
 ---
-# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>Pogreška "Netko je već postavio aplikacije Teams za vašu tvrtku ili ustanovu"
+# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>Pogreška “Netko je već postavio Teams za vašu tvrtku ili ustanovu“
 
-Ako vam se u aplikaciji Teams prikazuje pogreška "Netko je već postavio teams za vašu tvrtku ili ustanovu", to može biti zbog:
+Ako vam se u aplikaciji Teams prikazuje pogreška "Netko je već postavio Teams za vašu tvrtku ili ustanovu", razlog tome može biti sljedeće:
 
-1. Netko vam je već postavio timove. Provjerite pozivnicu za svoju e-poštu ili se pokušajte prijaviti u Aplikacije Teams u privatnom/anonimnom web-pregledniku s vjerodajnicama domene na web-mjestu [https://teams.microsoft.com](https://teams.microsoft.com) .
+1. Netko je već postavio Teams za vas. U e-pošti potražite pozivnicu ili se pokušajte prijaviti u Teams u privatnom/anonimnom načinu rada u web-pregledniku pomoću domenskih vjerodajnica na adresi [https://teams.microsoft.com](https://teams.microsoft.com).
 
-2. Pokušavate se registrirati s adresom e-pošte koja je povezana i s poslovnim i osobnim računom. Na primjer, Contoso.com se koristi i za vaš Microsoftov račun usluge (Live ID) i za vaš poslovni račun (Active Directory). Ako je to slučaj, pokušajte stvoriti Teams u novom prozoru privatnog/anonimnog preglednika i odaberite verziju "Posao ili škola" za prijavu umjesto osobnog. Ako to ne uspije, morat ćete ih prekinuti da biste ispravno izradili besplatan račun za Teams. Da biste to učinili, slijedite korake u odjeljku "Želim koristiti drugu adresu ili telefonski broj za prijavu" na stranici, [Promijenite adresu e-pošte ili telefonski broj za Microsoftov račun](https://support.microsoft.com/help/12407).
+2. Pokušavate se prijaviti pomoću adrese e-pošte koja je vezana i uz poslovni i uz osobni račun. Primjerice, Contoso.com koristi se i za vaš račun za Microsoftove servise (Live ID) i za vaš poslovni račun (Active Directory). U tom slučaju pokušajte stvoriti Teams u novom privatnom/anonimnom prozoru preglednika i odabrati verziju prijave "Posao ili obrazovna ustanova" umjesto osobne. Ako to ne uspije, morat ćete prekinuli vezu s tim računima da biste pravilno stvorili besplatan račun za Teams. Da bi to bilo moguće, slijedite korake u odjeljku "Želim za prijavu koristiti drugu adresu ili telefonski broj za prijavu" na stranici [Promijenite adresu e-pošte ili telefonski broj za svoj Microsoftov račun](https://support.microsoft.com/help/12407).
 
-3. Pokušavate se prijaviti trenutnu poslovnu adresu besplatnom klijentu. Ako je to slučaj, očekuje se da će to ovdje propasti i morat ćete koristiti klijenta tvrtke ili ustanove s ovom adresom. Možete stvoriti besplatan račun za Teams s osobnom e-mail adresom za bilo koju osobnu upotrebu [ovdje](https://products.office.com/microsoft-teams/group-chat-software).
+3. Pokušavate prijaviti svoju trenutnu poslovnu adresu na besplatni klijent. U tom se slučaju očekuje da taj pokušaj ne uspije, a s tom ćete adresom morati koristiti klijent svoje tvrtke ili ustanove. Besplatan račun za Teams s osobnom adresom e-pošte za sve oblike osobne upotrebe možete stvoriti [ovdje](https://products.office.com/microsoft-teams/group-chat-software).

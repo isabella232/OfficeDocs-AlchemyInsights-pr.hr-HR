@@ -1,8 +1,8 @@
 ---
-title: Popravljanje aplikacija Microsoft 365 Žao nam je, ali imamo poruku o privremenim problemima s poslužiteljem
+title: Rješavanje problema s aplikacijom Microsoft 365 Nažalost, imamo poruku o privremenim problemima s poslužiteljem
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: e00504d318efdea4968ddf98b3ce9591f8993e38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758237"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835263"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Rješavanje aplikacija Microsoft 365 "Nažalost, imamo problema s privremenim poslužiteljem"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Popravljanje aplikacije Microsoft 365 "Nažalost, imamo privremene probleme s poslužiteljem"
 
 Ako primite ovu poruku, pokušajte sljedeće:
 
-1. Provjerite vatrozid, antivirusni softver i postavke proxy poslužitelja da biste potvrdili da ne blokiraju pristup internetu u aplikacije Microsoft 365. Pročitajte članak [URL-ovi i rasponi IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Provjerite postavke vatrozida, antivirusnog softvera i proxyja da biste potvrdili da ne blokiraju pristup internetu aplikacijama Microsoft 365. Pogledajte [URL-ove i raspone IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Idite na **početak**  >  **pokretanja**, a zatim upišite **Services. msc**. Provjerite jesu li svi sljedeći servisi pokrenuti:
-    - Automatsko postavljanje mrežnih povezanih uređaja
-    - Servis mrežnog popisa
-    - Svijest o mrežnom mjestu
+2. Idite na **Pokreni**  >  **pokreni**, a zatim upišite **services.msc**. Provjerite jesu li svi sljedeći servisi pokrenuti:
+    - Automatsko postavljanje mrežnih uređaja
+    - Servis za mrežni popis
+    - Svijesti o mrežnom mjestu
     - Zapisnik događaja u sustavu Windows
 
-Ako jedan od tih servisa nije pokrenut, pokušajte ga pokrenuti. Ako imate problema s pokretanjem servisa, pokrenite sljedeću naredbu otvaranjem naredbenog upita s dodatnim dozvolama:
+Ako neki od tih servisa nije pokrenut, pokušajte ga pokrenuti. Ako imate problema s pokretanjem servisa, pokrenite sljedeću naredbu tako da otvorite naredbeni redak s dodatnim dozvolama:
 
-**sfc/scannow**
+**sfc /scannow**
 
-Kada naredba završi, ponovno pokrenite računalo.
+Kada ova naredba završi, ponovno pokrenite računalo.
 
-Detaljne informacije potražite u članku ["Žao nam je, ne možemo se povezati s vašim računom. Pokušajte ponovno kasnije "pogreška prilikom aktivacije](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Detaljne informacije potražite u članku ["Nažalost, ne možemo se povezati s vašim računom. Kada aktivirate, pokušajte ponovno kasnije".](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

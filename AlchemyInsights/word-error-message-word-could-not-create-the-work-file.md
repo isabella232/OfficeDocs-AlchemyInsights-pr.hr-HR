@@ -1,8 +1,8 @@
 ---
-title: 'Word – poruka o pogrešci: Word nije mogao stvoriti radnu datoteku'
+title: 'Word – poruka o pogrešci: Word nije mogao stvoriti radne datoteke'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "3185"
-ms.openlocfilehash: 0a84bcc8be84f89df7f110de03f7b34b46a8b60a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ab35941bb7e423b4ee53e31765b1d30ef0fde03
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657484"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834147"
 ---
-# <a name="resolve-the-word-could-not-create-the-work-file-error-message"></a>Rješavanje poruke o pogrešci "Word nije mogao stvoriti radnu datoteku"
+# <a name="resolve-the-word-could-not-create-the-work-file-error-message"></a>Razrješavanje poruke o pogrešci "Word nije mogao stvoriti datoteku"
 
-Da biste riješili tu pogrešku, pročitajte članak [poruka o pogrešci "Word nije mogao stvoriti datoteku s radom" prilikom spremanja dokumenta u programu Microsoft Word](https://docs.microsoft.com/office/troubleshoot/word/word-could-not-create-the-work-file).
+Da biste ispravili tu pogrešku, prilikom spremanja dokumenta u programu Microsoft Word pogledajte poruku o pogrešci "Word nije mogao [stvoriti radne datoteke".](https://docs.microsoft.com/office/troubleshoot/word/word-could-not-create-the-work-file)
 
-Ako nailazite na probleme prilikom otvaranja dokumenata programa Word, isprobajte sljedeće:
+Ako imate problema s otvaranjem dokumenata programa Word, pokušajte sljedeće:
 
-- [Instalirajte ažuriranja sustava Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Popis najnovijih ažuriranja sustava Office potražite u članku [najnovija ažuriranja](https://docs.microsoft.com/officeupdates/office-updates-msi).
+- [Instalirajte ažuriranja sustava Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Popis najnovijih ažuriranja sustava Office pogledajte u [odjeljku Najnovija ažuriranja](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Otklanjanje poteškoća s oštećenim dokumentima u programu Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Popravak aplikacije sustava Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
