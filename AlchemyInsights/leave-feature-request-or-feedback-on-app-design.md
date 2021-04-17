@@ -1,8 +1,8 @@
 ---
-title: Dopust zahtjev za značajkom ili povratne informacije o dizajnu aplikacija
+title: Slanje zahtjeva za značajku ili povratnih informacija o dizajnu aplikacije
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676514"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836523"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Dopust zahtjev za značajkom ili povratne informacije o dizajnu aplikacija
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Slanje zahtjeva za značajku ili povratnih informacija o dizajnu aplikacije
 
-Cijenimo što zajednički koristite svoje misli dok radimo na programu Outlook. *Uservoice* je forum na kojem možete ostaviti povratne informacije i glasovati o idejama drugih osoba.  
+Cijenimo što dijelite svoje misli dok nastavljamo raditi na programu Outlook. *UserVoice* je forum na kojem možete ostaviti povratne informacije i glasati o idejama drugih korisnika.  
 
-Da biste nam ostavili ideju: 
+Da biste nam na ostavljali ideju: 
 
-**Postavke > pomoći & povratnim informacijama > sugeriraju značajku > objavi ideju** 
+**Postavke > pomoć & povratne > Predložite značajku > Objavite ideju** 
 
-**Želite li prikazati svoje ime i poruke e-pošte?**
+**Zanima li vas kako se vaše ime/e-pošta prikazuje?**
 
-Kada dodate komentar na postojeći zahtjev za značajku, aplikacija će automatski ispunjavati vaše ime ili adresu e-pošte s primarnog računa postavljenih u aplikaciji. Da biste odabrali naziv koji se prikazuje, morate poslati **novi** zahtjev za značajku. 
+Kada dodate komentar postojećem zahtjevu za značajku, aplikacija će automatski popuniti vaše ime ili adresu e-pošte s primarnog računa postavljenog u aplikaciji. Da biste odabrali naziv koji će se prikazati, morate poslati **zahtjev za značajku NOVO.** 
 
-Podnošenje zahtjeva jednostavan je postupak u tri koraka. Na trećoj i konačnoj stranici prikazat će se redak za adresu e-pošte (obavezno) i redak za svoje ime. Ovdje možete odabrati kako će se vaše ime prikazivati ili možete poslati ideju anonimno. 
+Slanje zahtjeva jednostavan je postupak u tri koraka. Na trećoj i konačnoj stranici vidjet ćete redak za adresu e-pošte (obavezno) i redak za svoje ime. Ovdje možete odabrati kako će se vaše ime prikazivati ili možete anonimno poslati ideju. 
 
-**Upozorenje:** Možda ćete morati promijeniti i adresu e-pošte koja se automatski popunjava na ovoj stranici. Ako je vaš naziv postavljen na određeni način unutar postavki klijenta za e-poštu, promjene slanja povratne informacije u anonimno mogu se nadjačati po vašim postavkama. 
+**Napomena:** Možda ćete morati promijeniti i adresu e-pošte koja se automatski popunjava na ovoj stranici. Ako je vaše ime postavljeno na određeni način u postavkama klijenta za e-poštu, postavke mogu nadjačati promjene slanja povratnih informacija u anonimne. 

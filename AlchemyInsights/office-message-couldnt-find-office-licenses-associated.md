@@ -1,8 +1,8 @@
 ---
-title: Poruka aplikacija Microsoft 365 – nije moguće pronaći pridružene licence za Office
+title: Poruka o aplikacijama sustava Microsoft 365 – nije bilo pridruženih licenci za Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802769"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836199"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Poruka aplikacija Microsoft 365 – nije moguće pronaći pridružene licence za Office
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Poruka o aplikacijama sustava Microsoft 365 – nije bilo pridruženih licenci za Office
 
 Da biste ispravili tu pogrešku, pokušajte sljedeće:
 
@@ -39,10 +39,10 @@ Ako se problem ne riješi, pokušajte sljedeće korake:
 
 - Resetirajte stanje aktivacije sustava Office. Pročitajte članak [Resetiranje aplikacija sustava Microsoft 365 za stanje aktivacije za velike tvrtke](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Provjera vatrozida, antivirusnog softvera i postavki proxyja radi potvrđivanje da ne blokiraju pristup aplikacijama programa Microsoft 365 na Internet. 
+- Provjerite postavke vatrozida, antivirusnog softvera i proxyja da biste potvrdili da ne blokiraju pristup internetu aplikacijama sustava Microsoft 365. 
 
 Dodatne rješenja za otklanjanje poteškoća potražite u sljedećim člancima:
 
 [Pogreške zbog nelicenciranog proizvoda i pogreške s aktivacijom u sustavu Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[URL-ovi Microsoftova 365 i raspona IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[URL-ovi i rasponi IP adresa za Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

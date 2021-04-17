@@ -1,8 +1,8 @@
 ---
-title: Vlasnik ne može stvoriti podmapu pomoću programa Outlook
+title: Vlasnik ne može stvoriti pod-mapu pomoću programa Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665710"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836127"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Vlasnik ne može stvoriti podmapu pomoću programa Outlook
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Vlasnik ne može stvoriti pod-mapu pomoću programa Outlook
 
-**U tijeku je problem s vlasnicima javnih mapa koji stvaraju podmape pomoću programa Outlook. Problem će se uskoro popraviti.**
+**U tijeku je problem s vlasnicima javnih mapa koji stvaraju podmape pomoću programa Outlook. Problem će uskoro biti riješen.**
 
-U međuvremenu upotrijebite jedno od sljedećih zaobilaznih rješenja:
+U međuvremenu koristite jedno od sljedećih zaobilaznih rješenja:
 
-1. Korištenje programa Outlook za MAC za stvaranje podmape kao problema utječe samo na Outlook za stolna računala u sustavu Windows (sve verzije)
-2. Neka administrator stvori podmapu pomoću programa EXO Shell ili EAC
-3. Promjena gumba Defaultpublifoldermailbox/Effectivepublifoldermailbox na korisniku s drugim poštanskim sandučićem od poštanskog sandučića sadržaja za mapu koja izaziva problem  
-    - *Set-Mailbox Korisnik1 Defaultpublifoldermailbox PubMBX3*
+1. Stvaranje podmape pomoću programa Outlook za MAC jer problem utječe samo na Outlook za stolna računala (sve verzije)
+2. Stvaranje podmape administratora pomoću ljuske EXO ili EAC
+3. Promjena poštanskog sandučića DefaultPublicFolderMailbox/EffectivePublicFolderMailbox na korisniku u drugi poštanski sandučić osim poštanskog sandučića sadržaja za mapu koja uzrokuje problem  
+    - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
 4. Pričekajte sat vremena, ponovno pokrenite klijent programa Outlook

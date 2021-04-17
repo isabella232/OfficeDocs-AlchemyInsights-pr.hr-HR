@@ -1,8 +1,8 @@
 ---
-title: Privatni timovi
+title: Private Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: d81ac4790ab62f882bd35f0b8b4ea95a4b789abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84881abe0951eea2ae1e8e45c05fdb0977f1c285
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803477"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835983"
 ---
-# <a name="managing-discovery-of-private-teams"></a>Upravljanje otkrivanjem privatnih timova
+# <a name="managing-discovery-of-private-teams"></a>Upravljanje otkrivanjem aplikacije Private Teams
 
 **Novi timovi**
 
-Kada vlasnik tima stvori privatni tim, može odabrati da bude vidljiv tako da konfigurira postavku otkrivanja tima. Novi privatni timovi prema zadanim se postavkama mogu pretraživati i otkriti. Ako vlasnik tima ne želi da se privatni tim prikazuje u rezultatima pretraživanja i prijedlozima, vlasnik može isključiti postavku tako da odaberete Promijeni postavku pokraj tog tima ako je moguće pretraživati i otkriti.  
+Kada vlasnik tima stvori privatni tim, može ga učiniti vidljivim konfiguriranjem postavke otkrivanja tima. Novi privatni timovi po zadanom se mogu pretraživati i otkrivati. Ako vlasnik tima ne želi da se privatni tim prikazuje u rezultatima pretraživanja i prijedlozima, vlasnik tu postavku može isključiti odabirom postavke Promjena pokraj odjeljka Taj se tim može pretraživati i otkriti.  
 
 **Postojeći timovi**
 
-Vlasnici tima mogu postaviti postavku otkrivanja za postojeći privatni tim izravno u postavkama tima, a administratori mogu to učiniti pomoću komponente PowerShell.  
+Vlasnici tima mogu postaviti postavku otkrivanja za postojeći privatni tim izravno u postavkama tima, a administratori to mogu učiniti pomoću komponente PowerShell.  
 
-Dodatne informacije potražite  [u članku Upravljanje otkrivanjem privatnih timova u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).
+Dodatne informacije potražite u članku  [Upravljanje otkrivanjem privatnih timova u aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).

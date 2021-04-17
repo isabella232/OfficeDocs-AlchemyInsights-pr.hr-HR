@@ -1,8 +1,8 @@
 ---
-title: Potrebna vam je pomoć s karantenom e-pošte?
+title: Potrebna vam je pomoć za karantenu e-poštom?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: 32e587e07694af32551f23d9249ce9affc75b3db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b824e4fe12788848ff09cd7f0c6c5a43563fd5c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729899"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836307"
 ---
-# <a name="need-help-with-email-quarantine"></a>Potrebna vam je pomoć s karantenom e-pošte?
+# <a name="need-help-with-email-quarantine"></a>Potrebna vam je pomoć za karantenu e-poštom?
 
-- Da biste **prikazali i oslobodili poruke e-pošte u karanteni**, posjetite [stranicu karantene u sustavu Office 365 Security & centar za usklađenost](https://protection.office.com/quarantine). Detaljne upute su [ovdje](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
-- Ako je poruka pogrešno označena u **karanteni (FALSE pozitivno)**, kliknite "prijavi poruke Microsoftu za analizu" nakon pronalaženja poruke na stranici karantene. 
-- Pronađite **razlog zašto je poruka bila u karanteni** u polju "razlog karantene".
-- **Propuštate poruke e-pošte u karanteni?** Krajnje korisnike ne mogu objaviti neke poruke e-pošte u karanteni. To su vjerojatno poruke koje su klasificirane kao e-pošta za krađu identiteta s visokim povjerenjem, zlonamjerni softver ili akcija transporta. Administratori mogu [pregledavati, objaviti ili brisati te poruke](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide). 
+- Da biste **prikazali i oslobodili poruke e-pošte** iz karantene , idite na stranicu Karantena u centru za [sigurnost & sustava Office 365](https://protection.office.com/quarantine). Detaljne upute nalaze se [ovdje](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
+- Ako je poruka pogrešno stavljena u karantenu **(lažno pozitivno),** kliknite "Prijavi poruke Microsoftu radi analize" nakon što pronađete poruku na stranici Karantena. 
+- Pronađite razlog **zbog kojeg je poruka u karanteni** u polju "razlog karantene".
+- **Nedostaje vam poruka e-pošte u karanteni?** Krajnje korisnike ne mogu osloboditi neke poruke e-pošte u karanteni. To su vjerojatno poruke koje su klasificirane kao poruke e-pošte za krađu identiteta visoke pouzdanosti, zlonamjerni softver ili akcije prijenosa. Administratori mogu [pregledavati, objavu i brisati te poruke.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide) 
