@@ -1,8 +1,8 @@
 ---
-title: Problem s aktivacijom/prijavom
+title: Problem s aktivacijom/registracijom – modul pouzdane platforme neispravan
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: 13e6fcd18047e511452f0180dc2e4677466d4db3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 468d197ae1ad6a3ee13cbcc683a59f0d9f193af7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697513"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822879"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a><span data-ttu-id="d9dba-102">Ispravljanje aplikacija Microsoft 365 "Trusted Platform modul za vaše računalo ne funkcionira pravilno" poruka</span><span class="sxs-lookup"><span data-stu-id="d9dba-102">Fixing the Microsoft 365 apps "Your computer's Trusted Platform module is not functioning properly" message</span></span>
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a><span data-ttu-id="7b9fd-102">Popravljanje aplikacije Microsoft 365 "Modul pouzdane platforme na računalu ne funkcionira pravilno"</span><span class="sxs-lookup"><span data-stu-id="7b9fd-102">Fixing the Microsoft 365 apps "Your computer's Trusted Platform module is not functioning properly" message</span></span>
 
-<span data-ttu-id="d9dba-103">Da biste ispravili tu pogrešku, pokušajte sljedeće:</span><span class="sxs-lookup"><span data-stu-id="d9dba-103">To fix this error, try the following:</span></span>
+<span data-ttu-id="7b9fd-103">Da biste ispravili tu pogrešku, pokušajte sljedeće:</span><span class="sxs-lookup"><span data-stu-id="7b9fd-103">To fix this error, try the following:</span></span>
 
-1. <span data-ttu-id="d9dba-104">Otvorite aplikaciju sustava Office i [odjavite se](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) s postojećih korisničkih računa.</span><span class="sxs-lookup"><span data-stu-id="d9dba-104">Open an Office app, and [sign out](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>   
-2. <span data-ttu-id="d9dba-105">Korištenje servisa Windows **Settings**  >  **Računi**  >  **e-pošte & računi**, uklanjanje postojećih radnih računa.</span><span class="sxs-lookup"><span data-stu-id="d9dba-105">Using Windows **Settings** > **Accounts** > **Email & accounts**, remove existing work accounts.</span></span> 
-3. <span data-ttu-id="d9dba-106">Korištenje računa za **Postavke**sustava Windows  >  **Accounts**  >  **pristup radu ili školi**, prekid veze s postojećim računima.</span><span class="sxs-lookup"><span data-stu-id="d9dba-106">Using Windows **Settings** > **Accounts** > **Access work or school**, disconnect existing accounts.</span></span> 
-4. <span data-ttu-id="d9dba-107">Resetirajte stanje aktivacije sustava Office.</span><span class="sxs-lookup"><span data-stu-id="d9dba-107">Reset Office activation state.</span></span> <span data-ttu-id="d9dba-108">[Naučite kako](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
-).</span><span class="sxs-lookup"><span data-stu-id="d9dba-108">[Learn how](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+1. <span data-ttu-id="7b9fd-104">Otvorite aplikaciju sustava Office i [odjavite se](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) s postojećih korisničkih računa.</span><span class="sxs-lookup"><span data-stu-id="7b9fd-104">Open an Office app, and [sign out](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) of any existing user accounts.</span></span>   
+2. <span data-ttu-id="7b9fd-105">Pomoću računa **postavki sustava** Windows  >    >  **E-& e-pošte** uklonite postojeće poslovne račune.</span><span class="sxs-lookup"><span data-stu-id="7b9fd-105">Using Windows **Settings** > **Accounts** > **Email & accounts**, remove existing work accounts.</span></span> 
+3. <span data-ttu-id="7b9fd-106">Pomoću računa **postavki sustava** Windows  >    >  **Pristup poslovnim ili školskim računima** prekidanje veze s postojećim računima.</span><span class="sxs-lookup"><span data-stu-id="7b9fd-106">Using Windows **Settings** > **Accounts** > **Access work or school**, disconnect existing accounts.</span></span> 
+4. <span data-ttu-id="7b9fd-107">Resetirajte stanje aktivacije sustava Office.</span><span class="sxs-lookup"><span data-stu-id="7b9fd-107">Reset Office activation state.</span></span> <span data-ttu-id="7b9fd-108">[Saznajte kako](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+).</span><span class="sxs-lookup"><span data-stu-id="7b9fd-108">[Learn how](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).</span></span>
-5. <span data-ttu-id="d9dba-109">Isprobajte [postupak oporavka korisnika](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) da biste riješili pogreške pouzdanih Platform MODULE (TPM-a).</span><span class="sxs-lookup"><span data-stu-id="d9dba-109">Try the [user recovery process](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) to fix Trusted Platform Module (TPM) failures.</span></span>
+5. <span data-ttu-id="7b9fd-109">Isprobajte [postupak oporavka korisnika da](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) biste riješili pogreške modula pouzdane platforme (TPM).</span><span class="sxs-lookup"><span data-stu-id="7b9fd-109">Try the [user recovery process](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) to fix Trusted Platform Module (TPM) failures.</span></span>

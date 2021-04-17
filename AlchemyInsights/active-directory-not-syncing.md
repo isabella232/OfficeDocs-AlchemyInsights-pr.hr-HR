@@ -1,8 +1,8 @@
 ---
-title: Active Directory nije sinkroniziranje
+title: Active Directory se ne sinkronizira
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697621"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822843"
 ---
-# <a name="active-directory-not-syncing"></a><span data-ttu-id="c918e-102">Active Directory nije sinkroniziranje</span><span class="sxs-lookup"><span data-stu-id="c918e-102">Active Directory not syncing</span></span>
+# <a name="active-directory-not-syncing"></a><span data-ttu-id="ed985-102">Active Directory se ne sinkronizira</span><span class="sxs-lookup"><span data-stu-id="ed985-102">Active Directory not syncing</span></span>
 
-<span data-ttu-id="c918e-103">Ako primate pogreške pri sinkronizaciji, kao što je "Nema nedavne sinkronizacije" ili primijetite da status sinkronizacije direktorija na portalu za administratore sustava Office kaže: "zadnje sinkronizirano prije više od 3 dana", moguće je da AADConnect ima pogrešne postavke ili nedovoljne dozvole za izvođenje sinkronizacije.</span><span class="sxs-lookup"><span data-stu-id="c918e-103">If you are receiving synchronization errors, such as "no recent synchronization," or notice the directory synchronization status in the Office admin portal says, "Last synced more than 3 days ago," it may be that AADConnect has incorrect settings or insufficient permissions to perform a synchronization.</span></span>  
+<span data-ttu-id="ed985-103">Ako primate pogreške sinkronizacije, kao što je "bez nedavne sinkronizacije" ili primijetite status sinkronizacije direktorija na portalu za administratore sustava Office, kaže: "Last synced more than 3 days ago" (Zadnje sinkronizirano prije više od 3 dana) može biti da AADConnect ima netočne postavke ili nedovoljne dozvole za izvođenje sinkronizacije.</span><span class="sxs-lookup"><span data-stu-id="ed985-103">If you are receiving synchronization errors, such as "no recent synchronization," or notice the directory synchronization status in the Office admin portal says, "Last synced more than 3 days ago," it may be that AADConnect has incorrect settings or insufficient permissions to perform a synchronization.</span></span>  
 
-<span data-ttu-id="c918e-104">Ponovnim instalacijom servisa AADConnect pomoću ekspresne postavke možete brzo razriješiti problem:</span><span class="sxs-lookup"><span data-stu-id="c918e-104">Reinstalling AADConnect by using express settings may resolve the issue quickly:</span></span>
+<span data-ttu-id="ed985-104">Ponovna instalacija AADConnect pomoću ekspresnih postavki može brzo riješiti problem:</span><span class="sxs-lookup"><span data-stu-id="ed985-104">Reinstalling AADConnect by using express settings may resolve the issue quickly:</span></span>
 
-1. <span data-ttu-id="c918e-105">[Preuzmite najnoviju verziju servisa AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).</span><span class="sxs-lookup"><span data-stu-id="c918e-105">[Download the latest version of AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).</span></span>
+1. <span data-ttu-id="ed985-105">[Preuzmite najnoviju verziju servisa AADConnect.](https://go.microsoft.com/fwlink/?LinkId=615771)</span><span class="sxs-lookup"><span data-stu-id="ed985-105">[Download the latest version of AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).</span></span>
 
-2. <span data-ttu-id="c918e-106">[Slijedite upute za ekspresne instalacije](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).</span><span class="sxs-lookup"><span data-stu-id="c918e-106">[Follow the instructions for express installation](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).</span></span>
+2. <span data-ttu-id="ed985-106">[Slijedite upute za ekspresne instalacije](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).</span><span class="sxs-lookup"><span data-stu-id="ed985-106">[Follow the instructions for express installation](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).</span></span>
 
-<span data-ttu-id="c918e-107">Dodatne informacije o računima servisa AADConnect potražite u članku [Azure ad Connect: računi i dozvole](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span><span class="sxs-lookup"><span data-stu-id="c918e-107">For more information about AADConnect service accounts, see [Azure AD Connect: Accounts and permissions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span></span>
+<span data-ttu-id="ed985-107">Dodatne informacije o računima servisa AADConnect potražite u članku [Azure AD Connect: Računi i dozvole](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span><span class="sxs-lookup"><span data-stu-id="ed985-107">For more information about AADConnect service accounts, see [Azure AD Connect: Accounts and permissions](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).</span></span>
