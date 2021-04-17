@@ -1,8 +1,8 @@
 ---
-title: Microsoftovi obrasci catchall
+title: Microsoft Forms catchall
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2549"
 - "9000672"
-ms.openlocfilehash: eac1aea5cbd0117db0555ff6b4578d7242072d11
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5857219d88b7a6c5693940df523b6920abad4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724931"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823815"
 ---
-# <a name="get-information-about-microsoft-forms"></a><span data-ttu-id="a1920-102">Dohvaćanje informacija o Microsoftovim obrascima</span><span class="sxs-lookup"><span data-stu-id="a1920-102">Get information about Microsoft Forms</span></span>
+# <a name="get-information-about-microsoft-forms"></a><span data-ttu-id="feb11-102">Informacije o programu Microsoft Forms</span><span class="sxs-lookup"><span data-stu-id="feb11-102">Get information about Microsoft Forms</span></span>
 
-<span data-ttu-id="a1920-103">Za konkretne informacije o Microsoftovim obrascima ukratko ponovno formulirajte pitanje da biste opisali problem, uključujući pogreške, značajke koje koristite itd.</span><span class="sxs-lookup"><span data-stu-id="a1920-103">For specific information about Microsoft Forms, briefly rephrase your question to describe your issue, including errors, features you're using, etc.</span></span> 
+<span data-ttu-id="feb11-103">Konkretne informacije o programu Microsoft Forms ukratko preformulirajte pitanje da biste opisali problem, uključujući pogreške, značajke koje koristite itd.</span><span class="sxs-lookup"><span data-stu-id="feb11-103">For specific information about Microsoft Forms, briefly rephrase your question to describe your issue, including errors, features you're using, etc.</span></span> 
 
-<span data-ttu-id="a1920-104">Evo nekoliko dodatnih resursa:</span><span class="sxs-lookup"><span data-stu-id="a1920-104">Here are some additional resources:</span></span>
+<span data-ttu-id="feb11-104">Evo nekoliko dodatnih resursa:</span><span class="sxs-lookup"><span data-stu-id="feb11-104">Here are some additional resources:</span></span>
 
-- [<span data-ttu-id="a1920-105">Provjera licencne aktivacije i status servisa Azure CollabDBService za svog korisnika</span><span class="sxs-lookup"><span data-stu-id="a1920-105">Check license activation and the status of the Azure CollabDBService for your tenant</span></span>](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43)
-- [<span data-ttu-id="a1920-106">Zajedničko korištenje testa ili obrasca u programu Microsoft Forms</span><span class="sxs-lookup"><span data-stu-id="a1920-106">Share a quiz or form in Microsoft Forms</span></span>](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
-- [<span data-ttu-id="a1920-107">Upravljanje mogućnošću zajedničkog korištenja obrazaca</span><span class="sxs-lookup"><span data-stu-id="a1920-107">Manage the ability to share forms externally</span></span>](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?#PickTab=Configure)
-- [<span data-ttu-id="a1920-108">Brisanje obrasca ili Oporavak izbrisanog obrasca</span><span class="sxs-lookup"><span data-stu-id="a1920-108">Delete a form or recover a deleted form</span></span>](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0)
-- [<span data-ttu-id="a1920-109">Ispis rezultata u obliku sažetka odgovora</span><span class="sxs-lookup"><span data-stu-id="a1920-109">Print results in the form of a summary of responses</span></span>](https://support.office.com/article/Print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc)
-- [<span data-ttu-id="a1920-110">Premještanje ankete, testa ili ankete u grupu</span><span class="sxs-lookup"><span data-stu-id="a1920-110">Move a survey, quiz, or poll to a group</span></span>](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
-- [<span data-ttu-id="a1920-111">Prijenos vlasništva nad obrascem na drugog korisnika</span><span class="sxs-lookup"><span data-stu-id="a1920-111">Transfer ownership of a form to another user</span></span>](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
+- [<span data-ttu-id="feb11-105">Provjera aktivacije licence i statusa servisa Azure CollabDBService za klijenta</span><span class="sxs-lookup"><span data-stu-id="feb11-105">Check license activation and the status of the Azure CollabDBService for your tenant</span></span>](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43)
+- [<span data-ttu-id="feb11-106">Zajedničko korištenje testa ili obrasca u aplikaciji Microsoft Forms</span><span class="sxs-lookup"><span data-stu-id="feb11-106">Share a quiz or form in Microsoft Forms</span></span>](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
+- [<span data-ttu-id="feb11-107">Upravljanje mogućnosti vanjskog korištenja obrazaca</span><span class="sxs-lookup"><span data-stu-id="feb11-107">Manage the ability to share forms externally</span></span>](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240?#PickTab=Configure)
+- [<span data-ttu-id="feb11-108">Brisanje obrasca ili oporavak izbrisanog obrasca</span><span class="sxs-lookup"><span data-stu-id="feb11-108">Delete a form or recover a deleted form</span></span>](https://support.office.com/article/Delete-a-form-2207e468-ce1b-4c4a-a256-caf631d87af0)
+- [<span data-ttu-id="feb11-109">Ispis rezultata u obliku sažetka odgovora</span><span class="sxs-lookup"><span data-stu-id="feb11-109">Print results in the form of a summary of responses</span></span>](https://support.office.com/article/Print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc)
+- [<span data-ttu-id="feb11-110">Premještanje upitnika, testa ili ankete u grupu</span><span class="sxs-lookup"><span data-stu-id="feb11-110">Move a survey, quiz, or poll to a group</span></span>](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)
+- [<span data-ttu-id="feb11-111">Prijenos vlasništva nad obrascem na drugog korisnika</span><span class="sxs-lookup"><span data-stu-id="feb11-111">Transfer ownership of a form to another user</span></span>](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)

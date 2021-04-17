@@ -1,8 +1,8 @@
 ---
-title: Istraživanje timova
+title: Teams eDiscovery
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002981"
 - "5702"
-ms.openlocfilehash: 699fe660bb1d103b3ae5181ddb2265991c1a691c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79157cf0c5b2c1424fadb37be5883f95590b5ad7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736747"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823491"
 ---
-# <a name="teams-ediscovery"></a><span data-ttu-id="e6d75-102">Istraživanje timova</span><span class="sxs-lookup"><span data-stu-id="e6d75-102">Teams eDiscovery</span></span>
+# <a name="teams-ediscovery"></a><span data-ttu-id="bc798-102">Teams eDiscovery</span><span class="sxs-lookup"><span data-stu-id="bc798-102">Teams eDiscovery</span></span>
 
-<span data-ttu-id="e6d75-103">[Ovdje](https://docs.microsoft.com/microsoftteams/ediscovery-investigation)možete pronaći dodatne informacije o timovima.</span><span class="sxs-lookup"><span data-stu-id="e6d75-103">You can learn more about Teams eDiscovery [here](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).</span></span>
+<span data-ttu-id="bc798-103">Dodatne informacije o predočavanje elektroničkih informacija za Teams možete [saznati ovdje](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).</span><span class="sxs-lookup"><span data-stu-id="bc798-103">You can learn more about Teams eDiscovery [here](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).</span></span>

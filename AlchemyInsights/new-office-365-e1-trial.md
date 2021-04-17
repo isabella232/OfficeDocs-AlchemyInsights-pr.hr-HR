@@ -2,7 +2,7 @@
 title: Nova probna verzija sustava Office 365 E1
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: dfde60184374c3031a645f1193ea164f246bed92
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: fc2f20488e55f73ed2437220d3fd56ff64848450
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086076"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825183"
 ---
-# <a name="new-office-365-e1-trial"></a><span data-ttu-id="39571-102">Nova probna verzija sustava Office 365 E1</span><span class="sxs-lookup"><span data-stu-id="39571-102">New Office 365 E1 Trial</span></span>
+# <a name="new-office-365-e1-trial"></a><span data-ttu-id="2d929-102">Nova probna verzija sustava Office 365 E1</span><span class="sxs-lookup"><span data-stu-id="2d929-102">New Office 365 E1 Trial</span></span>
 
-<span data-ttu-id="39571-103">Kao od 1. srpnja 2020, testna licenca za Office 365 E1 više nije dostupna.</span><span class="sxs-lookup"><span data-stu-id="39571-103">As of July 1, 2020, the Office 365 E1 Trial license is no longer available.</span></span> <span data-ttu-id="39571-104">Ako morate licencirati korisnike za Microsoftove timove, pročitajte [Opis servisa Microsoftove timove](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) za popis plaćenih pretplata koje obuhvaćaju timove.</span><span class="sxs-lookup"><span data-stu-id="39571-104">If you need to license users for Microsoft Teams, read the [Microsoft Teams service description](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) for a list of paid subscriptions that include Teams.</span></span> <span data-ttu-id="39571-105">Moguće je i da prihvatljive ustanove mogu koristiti [besplatnu verziju timova](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)ili zaposlenici mogu aktivirati [eksploracijski doživljaj timova](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) .</span><span class="sxs-lookup"><span data-stu-id="39571-105">Alternatively, eligible organizations can use the [Free version of Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c), or employees can activate the [Teams Exploratory](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) experience.</span></span>
+<span data-ttu-id="2d929-103">Od 1. srpnja 2020., probna licenca za Office 365 E1 više nije dostupna.</span><span class="sxs-lookup"><span data-stu-id="2d929-103">As of July 1, 2020, the Office 365 E1 Trial license is no longer available.</span></span> <span data-ttu-id="2d929-104">Ako morate licencirati korisnike za Microsoft Teams, pročitajte opis servisa [Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) za popis plaćenih pretplata koje obuhvaćaju Teams.</span><span class="sxs-lookup"><span data-stu-id="2d929-104">If you need to license users for Microsoft Teams, read the [Microsoft Teams service description](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) for a list of paid subscriptions that include Teams.</span></span> <span data-ttu-id="2d929-105">Osim toga, kvalificirane tvrtke ili ustanove mogu koristiti [besplatnu verziju aplikacije Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)ili zaposlenici mogu aktivirati iskustvo [istraživanja u aplikaciji Teams.](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory)</span><span class="sxs-lookup"><span data-stu-id="2d929-105">Alternatively, eligible organizations can use the [Free version of Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c), or employees can activate the [Teams Exploratory](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) experience.</span></span>
