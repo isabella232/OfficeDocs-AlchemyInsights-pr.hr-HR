@@ -1,8 +1,8 @@
 ---
-title: Dodavanje, promjena ili uklanjanje partnerskog odnosa
+title: Dodavanje, promjena ili uklanjanje odnosa partnera
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: d8e5f6860a7aa40889722bd8b437bd60c1e77645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad27f3ef8973fb9defe97343a4eda46cf96a4100
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688433"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822591"
 ---
-# <a name="add-change-or-remove-a-partner-relationship"></a>Dodavanje, promjena ili uklanjanje partnerskog odnosa
+# <a name="add-change-or-remove-a-partner-relationship"></a>Dodavanje, promjena ili uklanjanje odnosa partnera
 
-Kao administrator možete raditi s partnerom da biste kupili, aktivirali i obnovili pretplate na Microsoft 365. 
+Kao administrator možete raditi s partnerom na kupnji, aktivaciji i obnovi pretplata na Microsoft 365. 
 
-- Ako želite urediti postojeći partnerski odnos, pročitajte članak [Dodavanje, promjena ili brisanje savjetodavnog partnera za pretplatu](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
+- Ako želite urediti postojeći partnerski odnos, pogledajte [dodavanje, promjenu ili brisanje](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide)partnera za savjetnika za pretplatu .
 
-- Ako želite pronaći Microsoftova partnera, pročitajte članak [pronalaženje partnera za microsoft 365 ili prodavača](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
+- Ako tražite Microsoftova partnera, pogledajte članak Pronalaženje partnera ili prodavača sustava [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
 
-Ako ste postojeći Microsoftov partner ili želite postati jedan, pročitajte odjeljak [Microsoftov centar za partnere](https://support.microsoft.com/help/4499930/partner-center-overview) da biste saznali više o prednostima i načinu na koji možete pronaći pomoć iz [Microsoftove podrške za partnere](https://aka.ms/partnersupport).
+Ako ste postojeći Microsoftov partner ili ga želite [](https://support.microsoft.com/help/4499930/partner-center-overview) postati, dodatne informacije o pogodnostima i pomoći microsoftove podrške za partnere potražite u [Microsoftovu centru za partnere.](https://aka.ms/partnersupport)

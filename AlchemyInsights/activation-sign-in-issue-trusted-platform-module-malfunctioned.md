@@ -1,8 +1,8 @@
 ---
-title: Problem s aktivacijom/prijavom
+title: Problem s aktivacijom/registracijom – modul pouzdane platforme neispravan
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: 13e6fcd18047e511452f0180dc2e4677466d4db3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 468d197ae1ad6a3ee13cbcc683a59f0d9f193af7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697513"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822879"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Ispravljanje aplikacija Microsoft 365 "Trusted Platform modul za vaše računalo ne funkcionira pravilno" poruka
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Popravljanje aplikacije Microsoft 365 "Modul pouzdane platforme na računalu ne funkcionira pravilno"
 
 Da biste ispravili tu pogrešku, pokušajte sljedeće:
 
 1. Otvorite aplikaciju sustava Office i [odjavite se](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) s postojećih korisničkih računa.   
-2. Korištenje servisa Windows **Settings**  >  **Računi**  >  **e-pošte & računi**, uklanjanje postojećih radnih računa. 
-3. Korištenje računa za **Postavke**sustava Windows  >  **Accounts**  >  **pristup radu ili školi**, prekid veze s postojećim računima. 
-4. Resetirajte stanje aktivacije sustava Office. [Naučite kako](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
+2. Pomoću računa **postavki sustava** Windows  >    >  **E-& e-pošte** uklonite postojeće poslovne račune. 
+3. Pomoću računa **postavki sustava** Windows  >    >  **Pristup poslovnim ili školskim računima** prekidanje veze s postojećim računima. 
+4. Resetirajte stanje aktivacije sustava Office. [Saznajte kako](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).
-5. Isprobajte [postupak oporavka korisnika](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) da biste riješili pogreške pouzdanih Platform MODULE (TPM-a).
+5. Isprobajte [postupak oporavka korisnika da](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) biste riješili pogreške modula pouzdane platforme (TPM).

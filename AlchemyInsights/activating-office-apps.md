@@ -1,8 +1,8 @@
 ---
-title: Aktivacija aplikacija Microsoft 365
+title: Aktivacija aplikacija sustava Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236045"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823023"
 ---
-# <a name="activating-microsoft-365-apps"></a>Aktivacija aplikacija Microsoft 365
+# <a name="activating-microsoft-365-apps"></a>Aktivacija aplikacija sustava Microsoft 365
 
 Da biste aktivirali sustav Office, pročitajte:
 
@@ -27,7 +27,7 @@ Da biste aktivirali sustav Office, pročitajte:
 
 - [Aktivacija sustava Office na Mac računalu](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Upozorenje:**  Provjerite imate li pretplatu na Office 365 ili Microsoft 365 koja [sadrži klijentske aplikacije sustava Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), primjerice, Microsoft 365 Business Standard, Microsoft 365 Apps za tvrtke ili aplikacije Microsoft 365 za Enterprise. Osim toga, provjerite je li korisnički račun koji koristite za prijavu u aplikacije sustava Office [dodijeljen licenci](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Napomena:**  Provjerite imate li pretplatu na Office 365 ili Microsoft 365 koja obuhvaća klijentske aplikacije sustava [Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)npr. Microsoft 365 Business Standard, Microsoft 365 Apps za tvrtke ili aplikacije Microsoft 365 za tvrtke. Osim toga, provjerite ima li dodijeljena licenca korisnički račun koji koristite za prijavu [u aplikacije sustava](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)Office.
 
 Da biste riješili poteškoće s aktivacijom sustava Office, pročitajte:
 
@@ -36,9 +36,9 @@ Da biste riješili poteškoće s aktivacijom sustava Office, pročitajte:
 
 - [Što pokušati ako ne možete instalirati ili aktivirati Office za Mac?](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Savjet** Na uređajima sa sustavom Windows možemo dijagnosticirati i automatski riješiti nekoliko običnih problema s prijavom u Office. Preuzmite i pokrenite  **[Microsoftov pomoćnik za podršku i oporavak](https://aka.ms/SaRA-OfficeSignInScenario)** da biste koristili naš automatizirani alat.
+**Savjet** Na računalima sa sustavom Windows možemo dijagnosticirati i automatski riješiti nekoliko uobičajenih problema s prijavama u Office. Preuzmite i pokrenite  **[Microsoftov pomoćnik za podršku i oporavak](https://aka.ms/SaRA-OfficeSignInScenario)** da biste koristili naš automatizirani alat.
 
-Ako se ne možete prijaviti u aplikacije Microsoft 365, slijedite upute u nastavku:
+Ako se ne možete prijaviti u aplikacije sustava Microsoft 365, slijedite korake u nastavku:
 
 1. Otvorite aplikaciju sustava Office i [odjavite se](https://go.microsoft.com/fwlink/?linkid=2114082) s postojećih korisničkih računa.
 

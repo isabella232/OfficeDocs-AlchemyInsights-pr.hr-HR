@@ -1,8 +1,8 @@
 ---
-title: Rješavanje problema s prijavom u timove za AADSTS9000411
+title: Pogreška prilikom prijave u Teams AADSTS9000411
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000744"
 - "5689"
-ms.openlocfilehash: 8ca3793b8cd12b7ad2510ca0b3be58c32a61c14c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b0e90e3fea716df649ec906ad8b3008386684be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687030"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821979"
 ---
-# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Rješavanje problema s prijavom u timove za AADSTS9000411
+# <a name="addressing-teams-sign-in-error-aadsts9000411"></a>Pogreška prilikom prijave u Teams AADSTS9000411
 
-Kada se prijavite u Microsoftove timove, možda će vam se prikazati pogreška: Žao nam je **, ali imamo problema s prijavom u AADSTS9000411: zahtjev nije pravilno oblikovan. Parametar "login_hint" dupliciran je.**
+Prilikom prijave u Microsoft Teams može vam se prikazati pogreška: Nažalost, ali imamo problema s prijavom u **AADSTS9000411: Zahtjev nije pravilno oblikovan. Parametar "login_hint" dupliciran je.**
 
-Da biste riješili taj problem, provjerite ažuriraju li se klijenti Microsoftova timova. Dodatne informacije o ažuriranju klijenta potražite u članku [Ažuriranje Microsoftovih timova](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
+Da biste riješili taj problem, provjerite ažuriraju li se klijenti servisa Microsoft Teams. Dodatne informacije o ažuriranju klijenta potražite u članku Ažuriranje [aplikacije Microsoft Teams](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-Ako ne možete ažurirati klijenta iz nekog razloga, odprijavite se od klijenta koji će izbrisati većinu predmemoriranih podataka. No ako i dalje imate problema nakon odjave/prijave, napustite timove i poništite svoj klijent predmemorija na sljedeći način:
-1. Zatvaranje Microsoftovih timova.
-2. Idite na:%AppData%\microsoft\timovi i izbrišite sve datoteke.
-3. Ponovno otvorite Microsoftove timove.
+Ako iz nekog razloga ne možete ažurirati klijent, odjavom klijenta očistit će se većina predmemoriranog podataka. No ako i dalje imate problema nakon prijave/prijave, zatvorite Teams i očistite predmemoriju klijenta na sljedeći način:
+1. Zatvorite Microsoft Teams.
+2. Idite na: %appdata%\microsoft\teams i izbrišite sve datoteke.
+3. Ponovno otvorite Microsoft Teams.
