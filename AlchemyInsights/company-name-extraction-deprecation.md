@@ -1,8 +1,8 @@
 ---
-title: Ukidanja za izdvajanje naziva tvrtke
+title: Ukidanje izdvajanja naziva tvrtke
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681000"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817380"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a><span data-ttu-id="1e6da-102">Promjene u izdvajanjem naziva tvrtke u sustavu SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="1e6da-102">Changes to company name extraction in SharePoint Online</span></span>
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a><span data-ttu-id="1f32d-102">Promjene izdvajanja naziva tvrtke u sustavu SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="1f32d-102">Changes to company name extraction in SharePoint Online</span></span>
 
-<span data-ttu-id="1e6da-103">Počevši od 15-og studenoga 2019, [uklanjamo izdvajanje naziva tvrtke iz sustava SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="1e6da-103">Beginning on November 15th, 2019, we'll be [removing Company Name Extraction from SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online).</span></span> <span data-ttu-id="1e6da-104">Izdvajanje iz naziva tvrtke u sustavu SharePoint servisu za pretraživanje omogućuje izdvajanje naziva tvrtki iz sadržaja u određenim skupom uvjeta pomoću unaprijed popunjenog rječnika ili pomoću popisa izuzeća tvrtke ili izdvajanja tvrtki.</span><span class="sxs-lookup"><span data-stu-id="1e6da-104">Company name extraction in SharePoint allows the search system to extract company names from content under a specific set of conditions using a pre-populated dictionary or by using the Company Inclusions or Company Exclusions lists.</span></span> <span data-ttu-id="1e6da-105">Dok je izdvajanje naziva tvrtke postalo pouzdano rješenje da bi se prikazala jedan ili više naziva tvrtki iz sadržaja u sustavu SharePoint Online, rječnik i njezin temeljni skup značajki zastarjeli su.</span><span class="sxs-lookup"><span data-stu-id="1e6da-105">While company name extraction has become a relied-upon solution to derive one or more company names from content in SharePoint Online, both the dictionary and its underlying feature set have become obsolete.</span></span>
+<span data-ttu-id="1f32d-103">Počevši od 15. studenog 2019., uklonit ćemo izdvajanje [naziva tvrtke iz sustava SharePoint Online.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online)</span><span class="sxs-lookup"><span data-stu-id="1f32d-103">Beginning on November 15th, 2019, we'll be [removing Company Name Extraction from SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online).</span></span> <span data-ttu-id="1f32d-104">Izdvajanje naziva tvrtke u sustavu SharePoint sustavu za pretraživanje omogućuje izdvajanje naziva tvrtki iz sadržaja pod određenim skupom uvjeta pomoću unaprijed popunjenog rječnika ili pomoću popisa Uvrštenja tvrtki ili Izuzeci tvrtke.</span><span class="sxs-lookup"><span data-stu-id="1f32d-104">Company name extraction in SharePoint allows the search system to extract company names from content under a specific set of conditions using a pre-populated dictionary or by using the Company Inclusions or Company Exclusions lists.</span></span> <span data-ttu-id="1f32d-105">Iako je izdvajanje naziva tvrtke postalo pouzdano rješenje za izvođenje jednog ili više naziva tvrtki iz sadržaja u sustavu SharePoint Online, i rječnik i njegov temeljni skup značajki zastarjeli su.</span><span class="sxs-lookup"><span data-stu-id="1f32d-105">While company name extraction has become a relied-upon solution to derive one or more company names from content in SharePoint Online, both the dictionary and its underlying feature set have become obsolete.</span></span>
 
-- [<span data-ttu-id="1e6da-106">Kako mogu znati je li za svojstvo omogućeno izdvajanje naziva tvrtke?</span><span class="sxs-lookup"><span data-stu-id="1e6da-106">How do I know if company name extraction is enabled for a property?</span></span>](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [<span data-ttu-id="1f32d-106">Kako znati je li za svojstvo omogućeno izdvajanje naziva tvrtke?</span><span class="sxs-lookup"><span data-stu-id="1f32d-106">How do I know if company name extraction is enabled for a property?</span></span>](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [<span data-ttu-id="1e6da-107">Što se događa kada je izdvajanje naziva tvrtke deprecated?</span><span class="sxs-lookup"><span data-stu-id="1e6da-107">What happens when company name extraction is deprecated?</span></span>](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [<span data-ttu-id="1f32d-107">Što se događa kada se izdvajanje naziva tvrtke obustavi?</span><span class="sxs-lookup"><span data-stu-id="1f32d-107">What happens when company name extraction is deprecated?</span></span>](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
-- [<span data-ttu-id="1e6da-108">Postoje li alternative za izdvajanje naziva tvrtke?</span><span class="sxs-lookup"><span data-stu-id="1e6da-108">Are there alternatives to company name extraction?</span></span>](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
+- [<span data-ttu-id="1f32d-108">Postoje li alternative izdvajanju naziva tvrtke?</span><span class="sxs-lookup"><span data-stu-id="1f32d-108">Are there alternatives to company name extraction?</span></span>](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 

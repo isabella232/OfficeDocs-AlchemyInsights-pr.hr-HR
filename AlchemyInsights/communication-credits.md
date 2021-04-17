@@ -1,8 +1,8 @@
 ---
-title: Krediti za komunikaciju
+title: Komunikacijski krediti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: e35454836320c5aee23f80aa6f6c04414fb127ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8e2fe0502f21286ebe3b272ed33e0eafb10632c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733391"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817452"
 ---
-# <a name="communication-credits"></a><span data-ttu-id="9dae7-102">Krediti za komunikaciju</span><span class="sxs-lookup"><span data-stu-id="9dae7-102">Communication Credits</span></span>
+# <a name="communication-credits"></a><span data-ttu-id="c9d67-102">Komunikacijski krediti</span><span class="sxs-lookup"><span data-stu-id="c9d67-102">Communication Credits</span></span>
 
-<span data-ttu-id="9dae7-103">Komunikacijske kredite praktični su način plaćanja audiouređaja i tarife za pozive.</span><span class="sxs-lookup"><span data-stu-id="9dae7-103">Communication Credits are a convenient way to pay for Audio Conferencing and Call Plan minutes.</span></span> <span data-ttu-id="9dae7-104">Ako želite upotrebljavati besplatne brojeve uz Skype za tvrtke i Microsoft Teams, morat ćete postaviti sredstva za komunikaciju.</span><span class="sxs-lookup"><span data-stu-id="9dae7-104">You will need to set up Communications Credits if you would like to use toll-free numbers with Skype for Business and Microsoft Teams.</span></span>
+<span data-ttu-id="c9d67-103">Komunikacijski krediti praktičan su način plaćanja za minute audiokonferencije i plana poziva.</span><span class="sxs-lookup"><span data-stu-id="c9d67-103">Communication Credits are a convenient way to pay for Audio Conferencing and Call Plan minutes.</span></span> <span data-ttu-id="c9d67-104">Ako želite upotrebljavati besplatne brojeve uz Skype za tvrtke i Microsoft Teams, morat ćete postaviti sredstva za komunikaciju.</span><span class="sxs-lookup"><span data-stu-id="c9d67-104">You will need to set up Communications Credits if you would like to use toll-free numbers with Skype for Business and Microsoft Teams.</span></span>
 
-- <span data-ttu-id="9dae7-105">Da biste postavili komunikacijske kredite, pročitajte članak [Postavljanje komunikacijskih kredita za tvrtku ili ustanovu](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization).</span><span class="sxs-lookup"><span data-stu-id="9dae7-105">To set up Communication Credits, see [Set up Communication Credits for your organization](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization).</span></span> 
+- <span data-ttu-id="c9d67-105">Da biste postavili komunikacijske kredite, [pogledajte postavljanje komunikacijskih kredita za svoju organizaciju.](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization)</span><span class="sxs-lookup"><span data-stu-id="c9d67-105">To set up Communication Credits, see [Set up Communication Credits for your organization](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization).</span></span> 
 
-- <span data-ttu-id="9dae7-106">Da biste dodali i upravljali komunikacijskim kreditnim fondovima, pročitajte članak [Dodavanje fondova i upravljanje komunikacijskim kreditima](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).</span><span class="sxs-lookup"><span data-stu-id="9dae7-106">To add and manage Communication Credit funds, see [Add funds and manage Communication Credits](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).</span></span> 
+- <span data-ttu-id="c9d67-106">Da biste dodali komunikacijske kreditne fondove i upravljali njima, [pogledajte dodavanje sredstava i upravljanje komunikacijskim kreditima.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)</span><span class="sxs-lookup"><span data-stu-id="c9d67-106">To add and manage Communication Credit funds, see [Add funds and manage Communication Credits](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).</span></span> 
 
-<span data-ttu-id="9dae7-107">Dodatne informacije potražite u članku [što su komunikacijske kredite?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span><span class="sxs-lookup"><span data-stu-id="9dae7-107">For more info, see [What are Communication Credits?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span></span>
+<span data-ttu-id="c9d67-107">Dodatne informacije potražite u članku [Što su komunikacijski krediti?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span><span class="sxs-lookup"><span data-stu-id="c9d67-107">For more info, see [What are Communication Credits?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span></span>

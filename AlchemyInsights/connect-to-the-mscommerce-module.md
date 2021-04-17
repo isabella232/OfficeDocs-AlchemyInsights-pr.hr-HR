@@ -2,7 +2,7 @@
 title: Povezivanje s modulom MSCommerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713230"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817020"
 ---
-# <a name="connect-to-the-mscommerce-module"></a><span data-ttu-id="07060-102">Povezivanje s modulom MSCommerce</span><span class="sxs-lookup"><span data-stu-id="07060-102">Connect to the MSCommerce module</span></span>
+# <a name="connect-to-the-mscommerce-module"></a><span data-ttu-id="0987c-102">Povezivanje s modulom MSCommerce</span><span class="sxs-lookup"><span data-stu-id="0987c-102">Connect to the MSCommerce module</span></span>
 
-<span data-ttu-id="07060-103">Da biste mogli pregledavati ili postavljati pravila Allowselfservicekupnja, morate se povezati s modulom MSCommerce.</span><span class="sxs-lookup"><span data-stu-id="07060-103">You must be connected to the MSCommerce module before you can view or set the AllowSelfServicePurchase policy.</span></span>  
+<span data-ttu-id="0987c-103">Da biste mogli vidjeti ili postaviti pravilnik AllowSelfServicePurchase, morate biti povezani s modulom MSCommerce.</span><span class="sxs-lookup"><span data-stu-id="0987c-103">You must be connected to the MSCommerce module before you can view or set the AllowSelfServicePurchase policy.</span></span>  
 
-<span data-ttu-id="07060-104">Da biste se povezali sa modulom MSCommerce, u upitu PowerShell (PS C: \) Unesite sljedeću naredbu:</span><span class="sxs-lookup"><span data-stu-id="07060-104">To connect to the MSCommerce module, at the PowerShell prompt (PS C:\), enter the following command:</span></span>
+<span data-ttu-id="0987c-104">Da biste se povezali s modulom MSCommerce, u upitu komponente PowerShell (PS C: \) unesite sljedeću naredbu:</span><span class="sxs-lookup"><span data-stu-id="0987c-104">To connect to the MSCommerce module, at the PowerShell prompt (PS C:\), enter the following command:</span></span>
 
 `Connect-MSCommerce`
 
-<span data-ttu-id="07060-105">Otvorit će se dijaloški okvir za prijavu.</span><span class="sxs-lookup"><span data-stu-id="07060-105">This will open a sign-in dialog.</span></span> <span data-ttu-id="07060-106">Unesite korisničko ime i lozinku da biste se prijavili.</span><span class="sxs-lookup"><span data-stu-id="07060-106">Enter your username and password to sign-in.</span></span>
+<span data-ttu-id="0987c-105">Time će se otvoriti dijaloški okvir za prijavu.</span><span class="sxs-lookup"><span data-stu-id="0987c-105">This will open a sign-in dialog.</span></span> <span data-ttu-id="0987c-106">Unesite korisničko ime i lozinku za prijavu.</span><span class="sxs-lookup"><span data-stu-id="0987c-106">Enter your username and password to sign-in.</span></span>
 
-<span data-ttu-id="07060-107">**Upozorenje:** &nbsp; &nbsp; Račun koji se koristi za prijavu mora biti tvrtka ili administrator za naplatu.</span><span class="sxs-lookup"><span data-stu-id="07060-107">**NOTE:**&nbsp;&nbsp;The account used to sign in must be a Company or Billing Administrator.</span></span>
+<span data-ttu-id="0987c-107">**NAPOMENA:** &nbsp; &nbsp; Račun koji se koristi za prijavu mora biti administrator tvrtke ili naplate.</span><span class="sxs-lookup"><span data-stu-id="0987c-107">**NOTE:**&nbsp;&nbsp;The account used to sign in must be a Company or Billing Administrator.</span></span>
