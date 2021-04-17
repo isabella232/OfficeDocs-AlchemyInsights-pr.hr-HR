@@ -2,7 +2,7 @@
 title: Promjena pozadine zaključanog zaslona
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714464"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818100"
 ---
-# <a name="change-your-lock-screen-background"></a><span data-ttu-id="21606-102">Promjena pozadine zaključanog zaslona</span><span class="sxs-lookup"><span data-stu-id="21606-102">Change your lock screen background</span></span>
+# <a name="change-your-lock-screen-background"></a><span data-ttu-id="eeda9-102">Promjena pozadine zaključanog zaslona</span><span class="sxs-lookup"><span data-stu-id="eeda9-102">Change your lock screen background</span></span>
 
-- <span data-ttu-id="21606-103">Otvorite **Settings**  >  **Personalization**  >  **zaključani zaslon**za personalizaciju postavki.</span><span class="sxs-lookup"><span data-stu-id="21606-103">Go to **Settings** > **Personalization** > **Lock screen**.</span></span> <span data-ttu-id="21606-104">Ili kliknite ili dodirnite [ovdje](ms-settings:lockscreen?activationSource=GetHelp).</span><span class="sxs-lookup"><span data-stu-id="21606-104">Or click or tap [here](ms-settings:lockscreen?activationSource=GetHelp).</span></span>
+- <span data-ttu-id="eeda9-103">Idite na  >  **Zaključani zaslon Za**  >  **personalizaciju postavki**.</span><span class="sxs-lookup"><span data-stu-id="eeda9-103">Go to **Settings** > **Personalization** > **Lock screen**.</span></span> <span data-ttu-id="eeda9-104">Ili kliknite ili dodirnite [ovdje](ms-settings:lockscreen?activationSource=GetHelp).</span><span class="sxs-lookup"><span data-stu-id="eeda9-104">Or click or tap [here](ms-settings:lockscreen?activationSource=GetHelp).</span></span>
 
-- <span data-ttu-id="21606-105">Da biste postavili prilagođenu pozadinsku sliku, odaberite **slika** s padajućeg popisa **pozadine** , a zatim odaberite ili **Pronađite** sliku.</span><span class="sxs-lookup"><span data-stu-id="21606-105">To set a custom background picture, select **Picture** from the **Background** drop-down list, and choose or **Browse** to the picture.</span></span>
+- <span data-ttu-id="eeda9-105">Da biste postavili prilagođenu pozadinsku **sliku,** na padajućem **popisu** Pozadina odaberite Slika, a zatim odaberite **ili Pregledaj** do slike.</span><span class="sxs-lookup"><span data-stu-id="eeda9-105">To set a custom background picture, select **Picture** from the **Background** drop-down list, and choose or **Browse** to the picture.</span></span>
 
-  ![Postavljanje prilagođene pozadinske slike.](media/set-custom-background-pic.png)
+  ![Postavite prilagođenu pozadinsku sliku.](media/set-custom-background-pic.png)
 
-- <span data-ttu-id="21606-107">Da biste postavili dijaprojekciju prilagođenih slika, na padajućem popisu **Pozadina** odaberite **dijaprojekcija** , a zatim odaberite album ili dodajte mapu koja sadrži slike za dijaprojekciju.</span><span class="sxs-lookup"><span data-stu-id="21606-107">To set up a slideshow of custom pictures, select **Slideshow** from the **Background** drop-down list, and choose an album or add a folder that contains the pictures for the slideshow.</span></span>
+- <span data-ttu-id="eeda9-107">Da biste postavili dijaprojekciju  prilagođenih slika, na padajućem popisu Pozadina odaberite Dijaprojekciju pa odaberite album ili dodajte mapu koja sadrži slike za dijaprojekciju. </span><span class="sxs-lookup"><span data-stu-id="eeda9-107">To set up a slideshow of custom pictures, select **Slideshow** from the **Background** drop-down list, and choose an album or add a folder that contains the pictures for the slideshow.</span></span>
 
-  ![Postavite dijaprojekciju prilagođenih slika.](media/set-up-slideshow-background.png)
+  ![Postavljanje dijaprojekcije prilagođenih slika.](media/set-up-slideshow-background.png)

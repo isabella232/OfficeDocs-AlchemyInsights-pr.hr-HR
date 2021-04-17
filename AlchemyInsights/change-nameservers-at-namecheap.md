@@ -1,8 +1,8 @@
 ---
-title: Promjena poslužitelja naziva na adresi naziva jeftini
+title: Promjena poslužitelja naziva na servisu Namecheap
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5865"
 - "14"
-ms.openlocfilehash: 550cd3a9ec8b6e9f647a423ed35e2a249847a308
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fed42cddb6a786bc9c8836ec3eec195f1a12919b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682224"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818676"
 ---
-# <a name="change-nameservers-at-namecheap"></a><span data-ttu-id="3b000-102">Promjena poslužitelja naziva na adresi naziva jeftini</span><span class="sxs-lookup"><span data-stu-id="3b000-102">Change nameservers at Namecheap</span></span>
+# <a name="change-nameservers-at-namecheap"></a><span data-ttu-id="61792-102">Promjena poslužitelja naziva na servisu Namecheap</span><span class="sxs-lookup"><span data-stu-id="61792-102">Change nameservers at Namecheap</span></span>
 
-[<span data-ttu-id="3b000-103">Promjena poslužitelja naziva radi postavljanja Microsoftova 365 uz naziv jeftini</span><span class="sxs-lookup"><span data-stu-id="3b000-103">Change nameservers to setup Microsoft 365 with Namecheap</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-namecheap?view=o365-worldwide)
+[<span data-ttu-id="61792-103">Promjena poslužitelja naziva u postavljanje sustava Microsoft 365 pomoću aplikacije Namecheap</span><span class="sxs-lookup"><span data-stu-id="61792-103">Change nameservers to setup Microsoft 365 with Namecheap</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-namecheap?view=o365-worldwide)
 
-<span data-ttu-id="3b000-104">Problemi s drugim domenama potražite u članku [Najčešća pitanja o domenama](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="3b000-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="61792-104">Za druge probleme s domenama isprobajte [najčešća pitanja o domenama](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="61792-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
