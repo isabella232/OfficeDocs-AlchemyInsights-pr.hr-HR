@@ -1,8 +1,8 @@
 ---
-title: Fakturiranje moderne Azure e-pošte
+title: Suvremeno slanje faktura putem e-pošte za Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922001"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820818"
 ---
-# <a name="email-invoicing-in-azure"></a>Fakturiranje e-pošte u servisu Azure
+# <a name="email-invoicing-in-azure"></a>Slanje faktura putem e-pošte u sustavu za Azure
 
-Da biste ažurirali svoju sklonost fakturi za e-poštu, morate imati vlasnika ili ulogu suradnika na profilu naplate ili račun za naplatu. Kada se uključite, svi korisnici s ulogama vlasnik, suradnik, čitatelji i upravitelj faktura na profilu naplate dobit će svoj račun u poruci e-pošte.
+Morate imati ulogu vlasnika ili suradnika na profilu za naplatu ili računu za naplatu da biste ažurirali preferencu za slanje faktura putem e-pošte. Nakon što se uključite, svi korisnici s ulogama vlasnika, suradnika, čitatelja i upravitelja faktura na profilu za naplatu primit će tu fakturu putem e-pošte.
 
-1. Prijavite se na [portal Azure](https://portal.azure.com/).
+1. Prijavite se na [portal platforme Microsoft Azure](https://portal.azure.com/).
 2. Potražite **Upravljanje troškovima + naplata**.
-3. Na lijevoj strani odaberite **fakture** , a zatim odaberite **fakturu e-pošte** s vrha stranice.
-4. Ako imate više profila za naplatu, odaberite profil za naplatu, a zatim odaberite **Uključivanje u** nju.
+3. Odaberite **Fakture** na lijevoj strani zaslona i zatim odaberite **Slanje fakture putem e-pošte** na vrhu stranice.
+4. Ako imate više profila za naplatu, odaberite profil za naplatu i zatim odaberite **Uključivanje**.
 
 5. Odaberite **Ažuriraj**.
-6. Ako imate više profila za naplatu, odaberite profil za naplatu, a zatim odaberite **Uključivanje u** nju.
+6. Ako imate više profila za naplatu, odaberite profil za naplatu i zatim odaberite **Uključivanje**.
 
-Osobama možete dati pristup za prikaz, preuzimanje i plaćanje faktura tako da im dodijelite ulogu upravitelja faktura za profil za MCA ili MPA za naplatu. Ako ste se uključili da biste dobili fakturu u poruci e-pošte, korisnici će dobiti i fakture u poruci e-pošte.
+Drugima ćete omogućiti pristup za prikaz, preuzimanje i plaćanje faktura tako što ćete im dodijeliti ulogu upravitelja faktura za profil za naplatu MCA ili MPA. Ako ste se uključili za primanje fakture putem e-pošte, korisnici će također primati fakture putem e-pošte.
 
-1. Prijavite se na [portal Azure](https://portal.azure.com/).
+1. Prijavite se na [portal platforme Microsoft Azure](https://portal.azure.com/).
 2. Potražite **Upravljanje troškovima + naplata**.
-3. Na lijevoj strani odaberite **profile za naplatu** . Na popisu Profili za naplatu odaberite profil za naplatu kojem želite dodijeliti ulogu upravitelja faktura.
-4. Na lijevoj strani odaberite **Control Access (IAM)** , a zatim odaberite **Dodaj** s vrha stranice.
+3. Odaberite **Profili za naplatu** na lijevoj strani zaslona. S popisa profila za naplatu odaberite profil za naplatu kojemu želite dodijeliti ulogu upravitelja faktura.
+4. Odaberite **Kontrola pristupa (IAM)** na lijevoj strani zaslona i zatim odaberite **Dodaj** s vrha stranice.
 
-Na padajućem popisu uloga odaberite **Upravitelj faktura**. Unesite adresu e-pošte korisnika da biste dali pristup. Odaberite **Spremi** da biste dodijelili ulogu.
+U padajućem izborniku uloga odaberite **Upravitelj faktura**. Unesite adresu e-pošte korisnika da biste mu omogućili pristup. Odaberite **Spremi** da biste dodijelili ulogu.

@@ -1,8 +1,8 @@
 ---
-title: Preuzimanje ili zahtjev za kopiju računa u servisu Azure
+title: Preuzimanje ili zahtijevanje kopije računa u sustavu Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6863"
-ms.openlocfilehash: 76f5bd17b93e10bf2325ab1c027b15acf741e90e
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: b92613cc9a2d9a653c1e321fb566c99e383fe8bc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48921999"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820854"
 ---
-# <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Preuzimanje ili zahtjev za kopiju računa u servisu Azure
+# <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Preuzimanje ili zahtijevanje kopije računa u sustavu Azure
 
-Da biste preuzeli njezin račun, morate imati ulogu administratora računa za pretplatu. Korisnici s ulogama vlasnika, suradnika ili čitatelja mogu preuzeti svoj račun ako je administrator računa dao dozvolu. Dodatne informacije potražite u članku [Dopusti korisnicima preuzimanje faktura](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access#opt-in).
+Morate imati administratorsku ulogu računa za pretplatu da biste preuzeli njezinu fakturu. Korisnici s ulogama vlasnika, suradnika ili čitatelja mogu preuzeti tu fakturu ako im je administrator računa dao dozvolu. Dodatne informacije potražite u članku [Omogućavanje preuzimanja faktura korisnicima](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access#opt-in).
 
-**Preuzimanje fakture Azure (. PDF)**
+**Preuzmite fakturu za Azure (.pdf)**
 
-1. Odaberite pretplatu na [stranici pretplate](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) na portalu Azure kao [korisnika s pristupom fakturama,](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) a zatim odaberite **fakture**
-2. Kliknite **Preuzmi fakturu** da biste pogledali kopiju PDF fakture. Ako kaže da **nije dostupno** , pročitajte članak [Zašto ne vidim fakturu za posljednje razdoblje naplate?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Možete i pregledavati svakodnevnu upotrebu tako da kliknete razdoblje naplate da biste nabavili PDF s računom i kopiju detaljne dnevne upotrebe datoteke (. CSV): [dohvaćanje podataka o fakturi i korištenju](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
+1. Odaberite pretplatu na [stranici Pretplate](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) na portalu platforme Microsoft Azure kao [korisnik s pristupom fakturama](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), a zatim odaberite **Fakture**
+2. Kliknite **Preuzmi fakturu** da biste prikazali kopiju PDF računa. Ako piše **Nije dostupno**, pročitajte odjeljak [Zašto ne vidim fakturu za zadnje razdoblje naplate?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Svakodnevnu upotrebu možete pogledati i tako da kliknete razdoblje naplate kako biste dobili PDF računa i kopiju datoteke o detaljnoj dnevnoj upotrebi (.CSV): [Dohvati fakturu i podatke o upotrebi](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Dopusti drugima preuzimanje pretplate na fakturu**
+**Omogućite preuzimanje fakture za pretplatu drugima**
 
-1. Prijavite se na [portal Azure](https://portal.azure.com/) kao administrator računa za pretplatu.
-2. Potražite upravljanje troškovima + naplata.
-3. Na lijevoj strani odaberite **fakture** .
-4. Odaberite pretplatu na Azure, a zatim kliknite **Dopusti drugima da preuzimaju fakturu**.
-5. Odaberite **uključeno** , a zatim **Spremi** pri vrhu stranice.
+1. Prijavite se na [portal platforme Microsoft Azure](https://portal.azure.com/) kao administrator računa za pretplatu.
+2. Potražite Upravljanje troškovima + naplata.
+3. Odaberite **Fakture** na lijevoj strani ekrana.
+4. Odaberite pretplatu na Azure i zatim kliknite **Omogući preuzimanje fakture drugima**.
+5. Odaberite **Uključeno** i zatim **Spremi** pri vrhu stranice.

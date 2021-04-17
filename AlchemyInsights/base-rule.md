@@ -2,7 +2,7 @@
 title: Osnovno pravilo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e423e489d64bce211495b21e58cf74cbc7dc10df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686346"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820494"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Otklanjanje poteškoća s ovlaštenjem MDM-a u programu Microsoft Intune
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Otklanjanje poteškoća s izdavanjem MDM-a u aplikaciji Microsoft Intune
 
-Evo nekoliko korisnih članaka o početku rada s programom Intune:
+Evo nekoliko korisnih članaka o početku rada s intuneom:
 
 - [Što je Intune?](https://docs.microsoft.com/intune/what-is-intune)
-- [Prvi put postavljanje Intune](https://docs.microsoft.com/intune/setup-steps)
-- [Korištenje i navigacija Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+- [Kako prvi put postaviti Intune](https://docs.microsoft.com/intune/setup-steps)
+- [Korištenje aplikacije Intune i navigacija po navigaciji](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-Ako imate problema s ovlaštenjem MDM-a, pogledajte odjeljak [Promjena Intune MDM autoriteta](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
+Ako imate problema s izdavanjem MDM-a, pročitajte odjeljak Promjena ovlaštenja [za MDM za Intune](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).

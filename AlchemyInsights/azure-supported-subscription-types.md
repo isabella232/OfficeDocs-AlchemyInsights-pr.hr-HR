@@ -1,8 +1,8 @@
 ---
-title: Podržane vrste pretplate
+title: Podržane vrste pretplata
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,53 +12,53 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807247"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820674"
 ---
-# <a name="supported-subscription-types"></a>Podržane vrste pretplate
+# <a name="supported-subscription-types"></a>Podržane vrste pretplata
 
-Pregledajte podržane vrste pretplata da biste nastavili dalje.
+Da biste nastavili, pregledajte podržane vrste pretplata.
 
-[Podržane vrste pretplate](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
+[Podržane vrste pretplata](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
 
-**Prijenos vlasništva nad naplaćivanje**
+**Prijenos vlasništva nad naplatom**
 
-Azure portal kao [administrator računa](https://ms.portal.azure.com/) za račun za naplatu s pretplatom koju želite prenijeti
+Prijavite se na portal platforme Microsoft Azure kao [administrator](https://ms.portal.azure.com/) računa za naplatu koji sadrži pretplatu koju želite prenijeti
 
-- Pretraživanje za **Upravljanje troškovima + naplata** . Odaberite **pretplate** iz lijevog okna. Ovisno o pristupu, možda ćete morati odabrati opseg naplate, **a zatim pretplate** ili **Azure pretplate** .
-- Odaberite prijenos vlasništva za naplatu za pretplatu koju želite prenijeti
-- Unesite adresu e-pošte korisnika koji je administrator naplate računa koji će biti novi vlasnik pretplate, a zatim odaberite **Pošalji zahtjev za prijenos**
-- Korisnik će dobiti poruku e-pošte s uputama za pregled vašeg zahtjeva za prijenos. Da biste odobrili zahtjev za prijenos, korisnik će odabrati vezu u poruci e-pošte i slijediti upute.
+- Potražite **Upravljanje troškovima + naplata**. Odaberite **Pretplate** u lijevom oknu. Ovisno o pristupu, možda ćete morati odabrati opseg naplate, a zatim **Pretplate** ili **pretplate na Azure**.
+- Odaberite Prijenos vlasništva nad naplatom za pretplatu koju želite prenijeti.
+- Unesite adresu e-pošte korisnika koji je administrator za naplatu računa koji će biti novi vlasnik pretplate, a zatim odaberite **pošalji zahtjev za prijenos**
+- Korisnik prima poruku e-pošte s uputama da bi pregledao vaš zahtjev za prijenos. Da bi se odobrio zahtjev za prijenos, korisnik odabire vezu u poruci e-pošte i prati upute.
 
-Pažnja: Ako prenesete vlasništvo nad pretplatom na korisnički račun u drugom servisu Azure AD, svi zadaci koji se [temelje na ulogama (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) za upravljanje resursima u pretplati trajno se uklanjaju. Samo novi vlasnik imat će pristup resursima u pretplati. Dodatne informacije potražite u članku [prijenos pretplate na korisnika u nekom drugom klijentu za Azure ad](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Napomena: ako prenosite vlasništvo nad naplatom pretplate na korisnički račun drugog klijenta servisa Azure AD, svi [zadaci koji se temelje na ulogama kontrole pristupa (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) za upravljanje resursima u pretplati trajno se uklanjaju. Samo će novi vlasnik imati pristup upravljanju resursima u pretplati. Dodatne informacije potražite u članku [Prijenos pretplate na korisnika u drugom klijentu servisa Azure AD](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Prijenos vlasništva nad pretplatom**
 
-Preduvjet za prijenos vlasništva na pretplatničkim ulogama (RBAC) za upravljanje resursima u pretplati gube pristup. Dodatne informacije o dodavanju postojeće pretplate na korisnika potražite u članku [pridruživanje i dodavanje pretplate Azure u servisu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+Posljedica prijenosa vlasništva nad pretplatom jest ta što će pristup na temelju uloga (RBAC) za upravljanje resursima u pretplati izgubiti pristup. Dodatne informacije o dodavanju postojeće pretplate klijentu potražite u članku [Povezivanje ili dodavanje pretplate na Azure u Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-- Prijenos pretplate uz postojeći neplaćeni iznos iz tekućeg ciklusa naplate neće se prenijeti na novi instrument plaćanja u novom računu. Jedine informacije dostupne korisnicima u novom računu jesu troškovi posljednjeg mjeseca za vašu pretplatu. Ostatak povijesti upotrebe i naplate ne prenosi se pretplatom.
-- Prijenos vlasništva nad pretplatom na Enterprise Agreement (EA) trenutno je podržan samo na portalu za Enterprise sporazum
-- Prijenos pretplate orijentiranog na kredit kao što je Visual Studio, BizSpark, Microsoftova mrežna mreža za novog korisnika mora imati licencu za Visual Studio/Microsoftovu partnersku mrežu da bi prihvatio zahtjev za prijenos
-- Svi resursi kao što su virtualni strojevi, diskovi i web-mjesta uspješno se prebacuju na novi račun. Sljedeći resursi mogu utjecati na prijenos pretplate na više korisnika:
+- Prijenos pretplate uz postojeći dugovani iznos iz trenutačnog ciklusa naplate neće biti prenesen na novo sredstvo plaćanja na novom računu. Jedini podaci koji će korisnicima na novom računi biti dostupni jest prošlomjesečna cijena vaše pretplate. Ostatak povijesti upotrebe i naplate ne prenosi se s pretplatom.
+- Prijenos vlasništva nad naplatom za pretplate uz Enterprise Agreement (Ugovor Enterprise) (EA) trenutačno su podržane samo na portalu Enterprise Agreement (Ugovor Enterprise)
+- Za prijenos pretplate usmjerene na kredit kao što je Visual Studio, BizSpark i Microsoftova partnerska mreža na novog korisnika potrebno je imati licencu za Visual Studio / Microsoftovu partnersku mrežu za prihvaćanje zahtjeva za prijenos
+- Svi resursi kao što su virtualni uređaji, diskovi i web-mjesta uspješno se prenose na novi račun. Sljedeći bi resursi mogli biti pogođeni tijekom prijenosa pretplate za sve klijente:
 
-**Usluge servisa Azure AD Domain**
+**usluge domene Azure AD**
 
-Sefovi za Azure
+sefovi za ključeve platforme Azure
 
-- Moguće je utjecati na [korisnike i baze podataka vezanih uz SQL](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) , osobito ako klijent koristi provjeru autentičnosti povezanu s Azure Active Directory.
-- **Aplikacijski servisi** konfigurirani uz provjeru autentičnosti servisa Azure Active Directory mogu se utjecati
-- **Vizualni studijski tim** Računi servisa povezani s pretplatama na Azure mogu privremeno izgubiti Access kada se otkaže pretplata na Azure
+- [korisnici i baze podataka povezani sa SQL-om](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) mogli bi biti pogođeni, posebno ako korisnik provjeru autentičnosti povezanu sa sustavom Azure Active Directory
+- **usluge aplikacija** konfigurirane uz provjeru autentičnosti za Azure Active Directory mogle bi biti pogođene
+- servisni računi za **tim Visual Studio** povezani s pretplatama na Azure mogli bi privremeno izgubiti pristup kada se otkaže povezana pretplata na Azure.
 
 **Preporučeni dokumenti**
 
-Koraci nakon prihvaćanja vlasništva nad naplaćom:
+Koraci nakon prihvaćanja vlasništva nad naplatom:
 
-- Da biste zadržali vlasništvo nad naplaćivanju, ali promijenite vrstu pretplate, pogledajte: [prebacivanje pretplate na Azure na drugu ponudu](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Prijenos Visual Studio, Microsoft partner Network (MPN) i pay kao što ste ići dev/test pretplate](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [Prijenos vlasništva nad pretplatama na Enterprise Agreement (EA)](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
+- Da biste zadržali vlasništvo nad naplatom, no promijenili vrstu pretplate, pročitajte članak: [Promjena pretplate na Azure na drugu ponudu](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Prijenos pretplata na alat Visual Studio, Microsoftove mreže partnera (MPN) i plaćanja prema potrošnji](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [Prijenos vlasništva nad naplatom za pretplate uz Enterprise Agreement (Ugovor Enterprise)](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
 - [Najčešća pitanja o prijenosu vlasništva](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [Otklanjanje poteškoća s vlasničkim prijenosom](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- [Otklanjanje poteškoća s prijenosom vlasništva](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
