@@ -1,8 +1,8 @@
 ---
-title: Nadzorna ploča ne učitava se
+title: Nadzorna ploča se ne učitava
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002929"
 - "5608"
-ms.openlocfilehash: aacc690e174fc9308cb39ed6190fd7d2ef3d25c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e800db4165a770f9980d2178dbad8ec2fc898858
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731411"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815643"
 ---
-# <a name="dashboard-not-loading"></a>Nadzorna ploča ne učitava se
+# <a name="dashboard-not-loading"></a>Nadzorna ploča se ne učitava
 
-**Simptom**
+**Simptom:**
 
-Nadzorna ploča može se zaglaviti sa spinnerom za učitavanje ili će prikazati generičku poruku o pogrešci: "nešto je pošlo po zlu. Dodatne pojedinosti potražite u odjeljku tehničke pojedinosti. "
+Nadzorna ploča možda je zapela s okretnikom za učitavanje ili može prikazati generičku poruku o pogrešci: "Došlo je do pogreške. Dodatne pojedinosti potražite u tehničkim pojedinostima."
 
 **Vodič za otklanjanje poteškoća:**
 
-Pročitajte [ploču uci koja se ne učitava nakon izdanja sustava 2003,5](https://support.microsoft.com/help/4558635/uci-dashboard-not-loading-after-the-2003-5-release).
+Pogledajte [UCI nadzornu ploču koja se ne učitava nakon izdanja 2003.5](https://support.microsoft.com/help/4558635/uci-dashboard-not-loading-after-the-2003-5-release).

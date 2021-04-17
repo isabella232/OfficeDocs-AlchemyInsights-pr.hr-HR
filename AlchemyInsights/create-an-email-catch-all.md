@@ -1,8 +1,8 @@
 ---
-title: Stvaranje e-pošte za hvatanje svih
+title: Stvaranje ulova e-pošte
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712978"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816192"
 ---
-# <a name="create-an-email-catch-all"></a>Stvaranje e-pošte za hvatanje svih
+# <a name="create-an-email-catch-all"></a>Stvaranje ulova e-pošte
 
-Korištenje hvatanja sve se snažno obeshrabri. Bolje je vratiti pošiljatelju da pošalje pošiljatelja da zna da se poruka ne može isporučiti kao adresirana da bi mogla poduzeti akcije. Možete i ograničiti nadzirani poštanski sandučić samo da biste uhvatili prethodno valjane adrese e-pošte. 
+Korištenje ulova sve je jako obeshrabreno. Bolje je vratiti pošiljatelja da zna da se njihova poruka ne može isporučiti kao adresa da bi mogli poduzeti akciju. Možete i ograničiti nadzirani poštanski sandučić tako da ulovi samo prijašnje valjane adrese e-pošte. 
 
-Bilo koji ulov svi poštanski sandučić dobit će dobar dio neželjene pošte i eventualno može popuniti ako ne pomno prati. (Postoje ograničenja koja primate) 
+Svaki ulov svih poštanskih sandučića primit će mnogo neželjene pošte i naposljetku će se možda popuniti ako se ne nadzire. (Postoje ograničenja primanja.) 
 
 Ako odlučite nastaviti, slijedite ove korake:
 
-1. Stvaranje grupe za dinamičku raspodjelu & obuhvaća "sve vrste primatelja".
+1. Stvaranje grupe za dinamičku raspodjelu & "Sve vrste primatelja".
 
-2. Stvorite namjenski poštanski sandučić da biste uhvatili poruke e-pošte, primjerice catchall@domain.com.
+2. Stvorite namjenski poštanski sandučić da biste uhvatili poruke e-pošte, catchall@domain.com.
 
-3. Za određene domene postavite domenu domena na "InternalRelay". Ako kasnije uklonite sve nalaze, obavezno ponovno postavite domenu na autoritativno.
+3. Za određenu domenu postavite DomainType na "InternalRelay". Ako kasnije uklonite sve ulov, obavezno vratite domenu na Mjerodavno.
 
-4. Stvaranje pravila transporta e-pošte na sljedeći način:
+4. Stvorite pravilo prijenosa tijeka pošte na sljedeći način:
 
-    - Ako je pošiljatelj "izvan tvrtke ili ustanove"
+    - Ako je pošiljatelj "Outside the Organization" (Izvan tvrtke ili ustanove)
     - Preusmjeravanje poruke na Catchall@domain.com
-    - Osim ako je primatelj član allusers@domain.com (grupa za raspodjelu sadrži sve članove)
-    - Provjerite jeste li potvrdili da se novi poštanski sandučići dodaju u grupu za dinamičku raspodjelu
+    - Osim ako je primatelj član grupe allusers@domain.com (grupa za raspodjelu sadrži sve članove)
+    - Provjerite jesu li novi poštanski sandučići dodani u grupu za dinamičku raspodjelu

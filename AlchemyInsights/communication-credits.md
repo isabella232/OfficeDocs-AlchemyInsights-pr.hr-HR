@@ -1,8 +1,8 @@
 ---
-title: Krediti za komunikaciju
+title: Komunikacijski krediti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: e35454836320c5aee23f80aa6f6c04414fb127ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8e2fe0502f21286ebe3b272ed33e0eafb10632c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733391"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817452"
 ---
-# <a name="communication-credits"></a>Krediti za komunikaciju
+# <a name="communication-credits"></a>Komunikacijski krediti
 
-Komunikacijske kredite praktični su način plaćanja audiouređaja i tarife za pozive. Ako želite upotrebljavati besplatne brojeve uz Skype za tvrtke i Microsoft Teams, morat ćete postaviti sredstva za komunikaciju.
+Komunikacijski krediti praktičan su način plaćanja za minute audiokonferencije i plana poziva. Ako želite upotrebljavati besplatne brojeve uz Skype za tvrtke i Microsoft Teams, morat ćete postaviti sredstva za komunikaciju.
 
-- Da biste postavili komunikacijske kredite, pročitajte članak [Postavljanje komunikacijskih kredita za tvrtku ili ustanovu](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization). 
+- Da biste postavili komunikacijske kredite, [pogledajte postavljanje komunikacijskih kredita za svoju organizaciju.](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) 
 
-- Da biste dodali i upravljali komunikacijskim kreditnim fondovima, pročitajte članak [Dodavanje fondova i upravljanje komunikacijskim kreditima](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). 
+- Da biste dodali komunikacijske kreditne fondove i upravljali njima, [pogledajte dodavanje sredstava i upravljanje komunikacijskim kreditima.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits) 
 
-Dodatne informacije potražite u članku [što su komunikacijske kredite?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+Dodatne informacije potražite u članku [Što su komunikacijski krediti?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

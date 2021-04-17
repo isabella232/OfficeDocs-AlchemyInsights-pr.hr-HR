@@ -2,7 +2,7 @@
 title: Uobičajeni problemi povezani s usklađenosti s i njihova rješenja
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 4979375f098f65c703bad813feebcb5df6bd59ad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 128209e31b5697a3ab9252f339c9de3c3169e5c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713591"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817344"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Uobičajeni problemi povezani s usklađenosti s i njihova rješenja
 
@@ -33,6 +33,6 @@ U nastavku su navedene neke od najčešćih tema povezanih s usklađenosti:
 
 - Sprječavanje gubitka podataka (DLP): dodatne informacije potražite u članku [Pregled sprječavanja gubitka podataka (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide).
  
-- Oznake osjetljivosti: dodatne informacije potražite u članku [Stvaranje i konfiguriranje naljepnica s osjetljivosti i njihove politike](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
+- Oznake osjetljivosti : dodatne informacije potražite u članku [Stvaranje i konfiguriranje naljepnica osjetljivosti i njihovih pravilnika](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
 
 **Napomena**: da biste dobili precizniji odgovor na pitanje povezano s usklađenosti, ukratko preformulirajte svoje pitanje tako da obuhvatite sve pogreške koje vidite ili značajke koje koristite.

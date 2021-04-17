@@ -1,8 +1,8 @@
 ---
-title: Povijest čavrljanja u Microsoftovim timovima
+title: Povijest čavrljanja u aplikaciji Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 3b2821f1ad12db70d5c52cbd8d763fe8a3c9c397
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 92f1c902b36b78a8e3399420816c5699e3e0e5af
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812431"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817884"
 ---
-# <a name="viewing-chat-history-in-microsoft-teams"></a>Pregledavanje povijesti čavrljanja u Microsoftovim timovima
+# <a name="viewing-chat-history-in-microsoft-teams"></a>Prikaz povijesti čavrljanja u aplikaciji Microsoft Teams
 
-Da biste pogledali povijest čavrljanja u timovima, možete koristiti [Pretraživanje sadržaja](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) iz [centra za sigurnost &](https://sip.protection.office.com/insightdashboard), gdje možete pretraživati poštanski sandučić povezan s grupom Microsoft 365 ili Microsoftovim timom. 
+Da biste pogledali povijest [](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) čavrljanja aplikacije Teams, možete koristiti pretraživanje sadržaja iz centra [za &](https://sip.protection.office.com/insightdashboard)usklađenost u kojem možete pretraživati poštanski sandučić povezan s grupom microsoft 365 ili Microsoftovim timom. 
 
-Informacije o mogućnostima pretraživanja u centru za sigurnost i usklađenost potražite u članku [Pretraživanje Microsoftovih timova i grupa microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/content-search) . 
+Informacije o mogućnostima pretraživanja potražite u članku Pretraživanje aplikacije Microsoft Teams i grupa sustava [Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/content-search) u centru za sigurnost i usklađenost. 
 
-**Upozorenje:** Stvaranje sigurnosne kopije, izvoz, ispis i arhiviranje povijesti razgovora trenutno nije dostupno izravno iz Microsoftovih timova. Glasajte za tu mogućnost u [korisničkom glasu](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20). 
+**Napomena:** Povijest razgovora za podršku, izvoz, ispis i arhiviranje trenutno nije dostupna izravno iz aplikacije Microsoft Teams. Glasajte za tu mogućnost u programu [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20). 

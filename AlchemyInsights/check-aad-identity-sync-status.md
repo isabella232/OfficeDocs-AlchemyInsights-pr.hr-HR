@@ -1,8 +1,8 @@
 ---
-title: Provjera statusa sinkronizacije identiteta AAD
+title: Provjera statusa sinkronizacije AAD identiteta
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,22 +14,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: e06eab76adcdb2b99b8aaa738f677950fa1af16b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793894"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817848"
 ---
-# <a name="check-aad-identity-sync-status"></a>Provjera statusa sinkronizacije identiteta AAD
+# <a name="check-aad-identity-sync-status"></a>Provjera statusa sinkronizacije AAD identiteta
 
-Jednostavno je provjeriti status sinkronizacije:
+Provjera stanja sinkronizacije jednostavna je:
   
-- Prijavite se u centar za administratore sustava Microsoft 365 i na početnoj stranici odaberite **status Dirsync** .
+- Prijavite se u centar za administratore sustava Microsoft 365 i na **početnoj stranici odaberite Status DirSync.**
 
-- Alternativno, možete otići do korisnika \> aktivnih korisnika, a na stranici aktivni korisnici odaberite više \> sinkronizacije direktorija.
+- Možete i idite na Korisnici Aktivni korisnici, a na stranici Aktivni \> korisnici odaberite Više sinkronizacije \> direktorija.
 
-- U oknu sinkronizacija direktorija odaberite kreni na upravljanje DirSync.
+- U oknu Sinkronizacija direktorija odaberite Idi na upravljanje servisom DirSync.
 
-Ako postoji problem s sinkronizacijom direktorija, na ovoj se stranici prikazuju pogreške. Dodatne informacije o drugim pogreškama na koje možete naići potražite u članku [Prikaz pogrešaka u sinkronizaciji direktorija](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
+Ako postoji problem sa sinkronizacijom direktorija, pogreške su navedene na ovoj stranici. Dodatne informacije o različitim pogreškama na koje možete naići potražite u članku [Prikaz pogrešaka sinkronizacije direktorija](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

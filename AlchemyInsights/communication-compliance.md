@@ -1,8 +1,8 @@
 ---
-title: Usklađenost s komunikacijom
+title: Usklađenost komunikacije
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
-ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875116"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817488"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Usklađenost komunikacija u programu Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>Usklađenost komunikacije u sustavu Microsoft 365
 
-Usklađenost komunikacija nova je rješenja za usklađenost s Microsoftovim 365 koja organizacijama olakšava ispunjenje nadzornih zahtjeva za usklađenost i minimiziranje komunikacijskih rizika. Temelji se na značajki nadzora i sadrži nova poboljšanja, uključujući sljedeće:
+Usklađenost s komunikacijom novo je rješenje za usklađenost sa sustavom Microsoft 365 koje tvrtkama ili ustanovama pomaže u ispunjavanju zahtjeva usklađenosti s nadzorom i minimiziranju komunikacijskih rizika. Temelji se na značajki nadzora i sadrži nova poboljšanja, uključujući:
 
 - Inteligentni prilagodljivi predlošci
-- Fleksibilni tijekovi rada za popravak
-- Djelotvorna spoznaja
+- Fleksibilni tijekovi rada za otklanjanje poteškoća
+- Uvidi koji se mogu poduzeti
 
-Ako trenutno koristite [pravila nadzora](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), preporučujemo da sada koristite novu usklađenost komunikacija da biste riješili regulatorne potrebe.
+Ako trenutno koristite pravilnike [o nadzoru,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)preporučujemo da sada upotrijebite novu usklađenost s komunikacijom za rješavanje regulatornih potreba.
 
-Upute za postavljanje sukladnosti komunikacija potražite u članku [Konfiguriranje sukladnosti komunikacija](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Da biste podešavanja usklađenosti komunikacije, pogledajte [konfiguriranje usklađenosti komunikacije](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
-Da biste istražili, pregledali i otklonili usklađenost komunikacija, pročitajte članak [istraživanje i ispravljanje upozorenja o usklađenosti komunikacija](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Da biste istražili, pregledali i otkloniti usklađenost komunikacije, pogledajte istraživanje i otklanjanje upozorenja o [usklađenosti komunikacije.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
 
-Pregled značajke usklađivanja komunikacija potražite [u članku usklađenost komunikacija u programu Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Pregled značajke usklađenosti komunikacije pogledajte u članku Usklađenost [komunikacije u sustavu Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
-Preduvjeti za licenciranje: korisnici koji nadziru komunikacijske politike moraju imati nešto od sljedećeg:
+Preduvjeti za licence: korisnici koje nadziru pravila komunikacije moraju imati nešto od sljedećeg:
 
-- Licenciranje za Microsoft 365 E5
-- Licenca za Office 365 Enterprise E3 uz napredni dodatak sukladnosti
+- Licenca za usklađenost sa sustavom Microsoft 365 E5
+- Licenca za Office 365 Enterprise E3 s dodatkom Za naprednu usklađenost
 - Pretplata na Office 365 Enterprise E5
 
-Ako nemate ništa od navedenog i želite isprobati usklađenost s komunikacijom, **[prijavite se za probnu verziju sustava Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Ako nemate ništa od navedenog i želite isprobati usklađenost komunikacije, prijavite se za probnu verziju sustava **[Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> Ako se poruke e-pošte u potpunosti obrađuju u pravilu, može potrajati i do 24 sata. Komunikacija u Microsoftovim timovima, Yammeru i platformama trećih strana može potrajati do 48 sati da bi u potpunosti procesiranja u pravilu.
+> Za potpunu obradu poruka e-pošte u pravilniku može biti potrebno i do 24 sata. Za komunikaciju na platformama Microsoft Teams, Yammer i drugih proizvođača može biti potrebno do 48 sati da se u potpunosti obradi pravilnik.

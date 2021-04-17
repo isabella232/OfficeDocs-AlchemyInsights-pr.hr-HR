@@ -2,7 +2,7 @@
 title: Povezivanje web-mjesta sustava SharePoint s grupom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: f2276ad3dcdc0426bbd255b7d07f2b9a74927bec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713302"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817056"
 ---
 # <a name="connect-a-sharepoint-site-to-a-group"></a>Povezivanje web-mjesta sustava SharePoint s grupom
 
-Pomoću čarobnjaka za povezivanje s grupom povežite web-mjesto sustava SharePoint s grupom programa Microsoft 365.
+Pomoću čarobnjaka za povezivanje s grupom povežite web-mjesto sustava SharePoint s grupom sustava Microsoft 365.
 
-1. Na web-mjestu s kojim se želite povezati s grupom odaberite  **postavke (ikona zupčanika)**.
-2. Odaberite  **Poveži se s novom grupom Microsoft 365**.
-3. Slijedite čarobnjaka da biste dovršili vezu.
+1. Na web-mjestu na koje se želite povezati s grupom **odaberite Postavke (ikona zupčanika).**
+2. Odaberite  **Poveži se s novom grupom sustava Microsoft 365**.
+3. Slijedite čarobnjak da biste dovršili vezu.
 
-**Upozorenje:**  Ako povezivanje s novom grupom Microsoft 365 nije dostupno, web-mjesto neće podržavati grupnu vezu.
+**Napomena:**  Ako povezivanje s novom grupom sustava Microsoft 365 nije dostupno, web-mjesto neće podržavati grupnu vezu.
 
 Dodatne informacije potražite u članku  [Povezivanje s grupom sustava Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
