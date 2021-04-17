@@ -2,7 +2,7 @@
 title: Nije moguće pristupiti javnim mapama
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812539"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819504"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook se ne može povezati s javnim mapama
 
-Ako pristup javnoj mapi ne funkcionira za neke korisnike, pokušajte sljedeće:
+Ako pristup javnim mapama ne funkcionira za neke korisnike, pokušajte sljedeće:
 
-Povežite se s programom EXO PowerShell i konfigurirajte parametar Defaultpublifoldermailbox na korisničkom računu problema da bi odgovarao parametru na radnom korisničkom računu.
+Povežite se s ljuskom EXO PowerShell i konfigurirajte parametar DefaultPublicFolderMailbox na korisničkom računu problema tako da odgovara parametru na radnom korisničkom računu.
 
-Primjer
+Primjer:
 
-Nabavite-Mailbox WorkingUser | ft Defaultpublifoldermailbox, Effectivepublifoldermailbox
+Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Problem s postavkom poštanskog sandučića – Defaultpublifoldermailbox \<value from previous command>
+Set-Mailbox Korisnik -DefaultPublicFolderMailbox \<value from previous command>
 
-Pričekajte najmanje jedan sat da bi promjena stupila na kraj.
+Pričekajte najmanje jedan sat da bi promjena snazi.
 
-Ako problem ostaje, slijedite [ovaj postupak](https://aka.ms/pfcte) da biste otklonili poteškoće s pristupom javnim mapama pomoću programa Outlook.
+Ako problem i dalje postoji, slijedite ovaj [postupak da biste otklonili](https://aka.ms/pfcte) poteškoće s pristupom javnim mapama pomoću programa Outlook.
  
-**Da biste kontrolirali koji korisnici mogu pristupati javnim mapama pomoću programa Outlook**:
+**Da biste upravljali korisnicima koji mogu pristupati javnim mapama pomoću programa Outlook:**
 
-1.  Korištenje servisa set-CASMailbox <mailboxname> -publifolderclientaccess $TRUE ili $FALSE  
+1.  Korištenje Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true ili $false  
       
-    $true: korisnicima dopusti pristup javnim mapama u programu Outlook  
+    $true: omogući korisnicima pristup javnim mapama u programu Outlook  
       
-    $false: Onemogućivanje korisničkog pristupa javnim mapama u programu Outlook. To je zadana vrijednost.  
+    $false: onemogućivanje korisničkog pristupa javnim mapama u programu Outlook. To je zadana vrijednost.  
         
-2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Notes** Ovaj postupak može upravljati vezama samo s klijentskim računalima programa Outlook za Windows. Korisnik može nastaviti pristupati javnim mapama pomoću značajke OWA ili programa Outlook za Mac.
+**Napomena** Taj postupak može upravljati vezama samo s klijentima programa Outlook za računala za Windows. Korisnik može nastaviti pristupati javnim mapama pomoću aplikacije OWA ili Outlook za Mac.
  
-Dodatne informacije potražite u članku [Objavljivanje podrške za kontrolirane veze s javnim mapama u programu Outlook](https://aka.ms/controlpf).
+Dodatne informacije potražite u članku [Najava podrške za kontrolirane veze s javnim mapama u programu Outlook](https://aka.ms/controlpf).

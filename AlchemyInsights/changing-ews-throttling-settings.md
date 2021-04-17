@@ -1,8 +1,8 @@
 ---
-title: Promjena postavki ograničenja za IWS
+title: Promjena postavki ograničavanja EWS-a
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 4f0bea884153dc1ed8699ce12e0d017d18f5e57c
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: 16916d5f16f763d87ce0d5ef830e741279c9f4df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50075889"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818028"
 ---
-# <a name="changing-ews-throttling-settings"></a>Promjena postavki ograničenja za IWS
+# <a name="changing-ews-throttling-settings"></a>Promjena postavki ograničavanja EWS-a
 
-Pokrenite naš automatizirani test koji će vam dopustiti promjenu pravilnika o ograničavanju EWS-a za trajanje migracije. Imajte na sebi da će, čak i nakon ovog pokretanja, Uvoz e-pošta i dalje biti ograničen na 150mb po 5 minuta po poštanskom sandučiću. Da biste postigli veću brzinu prelaska migracije, molimo vas da istodobno migrirate više korisnika.
+Pokrenite naš automatizirani test koji će vam omogućiti izmjenu pravilnika ograničavanja EWS-a tijekom trajanja migracije. Imajte na umu da će uvoz EWS-a i nakon toga biti ograničen na 150 mb po 5 minuta po poštanskom sandučiću. da biste postigli veće brzine propusnosti migracije, istodobno migrirati više korisnika.
 
-Napominjemo da promjene pravilnika za EWS ograničavanja ne utječu na sljedeće vrste migracije (pomoću Microsoftova alata): hibridno, rezanje/organizirano (RPC/HTTP), IMAP, G suite, javna mapa ili PST uvoz servisa.
+Imajte na umu da promjene pravilnika ograničavanja EWS-a ne utječu na sljedeće vrste migracije (pomoću Microsoftovih alata): hibridni, posložni (RPC/HTTP), IMAP, G Suite, javna mapa ili PST servis za uvoz.

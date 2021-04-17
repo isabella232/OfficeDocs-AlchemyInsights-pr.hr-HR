@@ -2,7 +2,7 @@
 title: Promjena zamjenske adrese e-pošte za obavijest o naplati
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 4409c8ac765b2c9933d85e5d94e519ec85f8466f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2169f65cda6386aad5c061d38aaf7890a5a0c0a2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714705"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818388"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>Promjena zamjenske adrese e-pošte za obavijest o naplati
 
-Promjena zamjenske adrese e-pošte za obavijest o naplati jednostavna je. Samo slijedite ove korake:
+Jednostavno je promijeniti zamjensku adresu e-pošte za obavijest o naplati. Samo slijedite ove korake:
   
-1. U centru za administratore sustava Microsoft 365 otvorite stranicu **obavijesti o naplati naplate** \> [Billing Notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) .  
+1. U centru za administratore sustava Microsoft  365 idite na stranicu \> [Obavijesti o naplati.](https://go.microsoft.com/fwlink/p/?linkid=853212)  
 
-2. Odaberite naziv s popisa.
+2. Na popisu odaberite naziv.
 
-3. U okvir **zamjenska adresa e-pošte** upišite zamjensku adresu e-pošte.
+3. U okvir **Zamjenska adresa e-pošte** upišite zamjensku adresu e-pošte.
 
-4. Odaberite **Spremi** i gotovi ste!
+4. **Odaberite** Spremi i gotovi ste!
 
-Dodatne informacije i korake s snimkama zaslona potražite u članku [Promjena adresa za naplatu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+Dodatne informacije i upute sa snimkama zaslona potražite u članku [Promjena adresa za naplatu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
   

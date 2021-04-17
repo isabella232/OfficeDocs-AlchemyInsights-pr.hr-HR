@@ -2,7 +2,7 @@
 title: Promjena slike računa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3642697d27a7e20c8c131f513a3ef80c9223b4d2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734039"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819252"
 ---
 # <a name="change-account-picture"></a>Promjena slike računa
 
-Ako koristite korisničko ime i lozinku za prijavu u Windows 10, koristite lokalni račun. **Da biste promijenili sliku lokalnog računa**:
+Ako za prijavu u Windows 10 koristite korisničko ime i lozinku, koristite lokalni račun. **Da biste promijenili sliku lokalnog računa:**
 
-1. Otvorite račune za **početak**  >  **Postavke**  >  **Accounts**  >  **Your info**.
-2. U odjeljku **Stvaranje slike**kliknite **Pregledaj jedan od njih**. Ako vaš uređaj ima fotoaparat, kliknite **fotoaparat** i uzmite selfie. 
-    **Pažnja**: Windows pamti posljednje tri slike koje ste koristili. Kliknite sliku na stranici s podacima da biste se prebacili na nju.
+1. Idite **na Start** Settings  >  **Accounts**  >  **Your**  >  **info**.
+2. U **odjeljku Stvaranje slike** kliknite Pregledaj za **jednu**. Ako uređaj ima kameru, kliknite  Kamera i odaberite autoportporter. 
+    **Napomena:** Windows pamti zadnje tri slike koje ste koristili. Kliknite sliku na stranici Vaši podaci da biste se prebacili na tu.
 
-Ako koristite adresu e-pošte i lozinku da biste se prijavili, koristite Microsoftov račun. Da biste promijenili sliku Microsoftova računa:
+Ako se za prijavu koristite adresom e-pošte i lozinkom, koristite Microsoftov račun. Da biste promijenili sliku Microsoftova računa:
 
-1. Prijavite se na stranicu s **podacima** pomoću Microsoftova računa.
-2. Kliknite **Dodaj sliku** ili **Promijeni sliku**, a zatim slijedite upute.
+1. Prijavite se na stranicu **Vaši podaci** pomoću Microsoftova računa.
+2. Kliknite **Dodaj sliku** ili Promijeni **sliku**, a zatim slijedite upute.
 
-Zatražite [dodatnu pomoć za postavljanje i upravljanje Microsoftovim računom](https://support.microsoft.com/products/microsoft-account?category=manage-account).
+[Potražite pomoć za postavljanje Microsoftova računa i upravljanjem.](https://support.microsoft.com/products/microsoft-account?category=manage-account)

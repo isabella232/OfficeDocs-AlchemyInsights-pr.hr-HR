@@ -1,8 +1,8 @@
 ---
-title: Promjena adrese za naplatu i obavijesti o naplati e-pošte
+title: Promjena adrese za naplatu ili obavijesti e-poštom za naplatu
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,33 +13,33 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: 4a280eb646270bf5597e4e390be9c73bf3c357d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 013fd35e4c299d78504adbb59675a22df301c503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793534"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819180"
 ---
-# <a name="change-billing-address-or-billing-email-notifications"></a>Promjena adrese za naplatu i obavijesti o naplati e-pošte
+# <a name="change-billing-address-or-billing-email-notifications"></a>Promjena adrese za naplatu ili obavijesti e-poštom za naplatu
 
-**Promjena adrese primatelja fakture**
+**Promjena adrese Bill-To adrese**
 
-1. U centru za administratore idite na stranicu **naplata > [načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** .
+1. U centru za administratore idite na stranicu **Načini > [plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 
 2. Odaberite kreditnu karticu ili bankovni račun koji želite promijeniti.
 
-3. Na stranici **Detalji o načinu plaćanja** kliknite **Uređivanje**.
+3. Na **stranici Detalji o načinu** plaćanja kliknite **Uređivanje**.
 
-4. Ažurirajte adresu za naplatu, a zatim kliknite **spremi > gotovo**.
+4. Ažurirajte adresu za naplatu, a **zatim kliknite Spremi > gotovo.**
 
 **Promjena zamjenske adrese e-pošte na koju se šalju obavijesti o naplati** 
 
-1. Kliknite **ikonu korisnika**, a zatim **moj račun**.
+1. Kliknite **ikonu Korisnik**, a zatim **Moj račun**.
 
-2. Kliknite **osobni podaci**.
+2. Kliknite **Osobni podaci**.
 
 3. U okviru **Detalji o kontaktu** kliknite **Uređivanje**.
 
-4. U okvir **Zamjenska e-pošta** upišite zamjensku adresu e-pošte koju želite koristiti, a zatim kliknite **Spremi**.
+4. U okvir **Zamjenska e-pošta** upišite zamjensku adresu e-pošte koju želite koristiti, a zatim **kliknite Spremi**.
 
-Dodatne informacije o promjenama adrese i obavijesti potražite u članku [Promjena adresa za naplatu za Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Dodatne informacije o adresama i promjenama obavijesti potražite u članku [Promjena adresa za naplatu za Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).

@@ -1,8 +1,8 @@
 ---
-title: Nije moguće dodavati goste u tim
+title: Nije moguće dodati goste u tim
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003558"
 - "6657"
-ms.openlocfilehash: 8542540fb9c9164cccc3a06e0d9cbf83324f4118
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
-ms.translationtype: MT
+ms.openlocfilehash: 4c10ffa16b30cccb7552bbaf896b5085bfb29ac3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48364516"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819468"
 ---
-# <a name="cant-add-guests-to-a-team"></a>Nije moguće dodavati goste u tim
+# <a name="cant-add-guests-to-a-team"></a>Nije moguće dodati goste u tim
 
-Da biste dodali gosta u tim, potrebno je učiniti sljedeće:  
+Da biste dodali gosta u tim, moraju biti ispunjeni ovi uvjeti:  
 
-- Administrator je uključio pristup gostu u timovima.
+- Vaš je administrator uključio pristup u svojstvu gosta u aplikaciji Teams.
 - Vi ste vlasnik tima.
-- Osoba koju želite dodati izvan je tvrtke ili ustanove, kao što je partner ili konzultant.
+- Osoba koju želite dodati izvan je vaše tvrtke ili ustanove, npr. partner ili savjetnik.
 
-Pojedinosti potražite u članku  [kako se gost pridružuje timu](https://docs.microsoft.com/MicrosoftTeams/guest-joins).
+Pojedinosti potražite u članku [Način na koji se gost uključuje u Teams](https://docs.microsoft.com/MicrosoftTeams/guest-joins).
