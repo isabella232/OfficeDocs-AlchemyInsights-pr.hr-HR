@@ -23,7 +23,7 @@ ms.locfileid: "51835947"
 
 U nastavku su navedene neke od najčešćih tema povezanih s aplikacijom Project za web:
 
-- Saznajte više o aplikaciji [Project za web](https://support.microsoft.com/office/what-is-project-for-the-web-c19b2421-3c9d-4037-97c6-f66b6e1d2eb5), dostupnoj u svim [trima pretplatama na Project](https://products.office.com/project/compare-microsoft-project-management-software) te u [ovim pretplatama za pristup samo s pravom čitanja](https://docs.microsoft.com/project-for-the-web/office-365-user-view-access-to-project-and-roadmap).
+- Saznajte više o aplikaciji [Project za web](https://support.microsoft.com/office/what-is-project-for-the-web-c19b2421-3c9d-4037-97c6-f66b6e1d2eb5), dostupnoj u sve [tri pretplate na Project](https://products.office.com/project/compare-microsoft-project-management-software) te u [ovim pretplatama za pristup samo s pravom čitanja](https://docs.microsoft.com/project-for-the-web/office-365-user-view-access-to-project-and-roadmap).
 - Provjerite jesu li [omogućene obavezne AAD aplikacije](https://techcommunity.microsoft.com/t5/project-support-blog/roadmap-have-you-disabled-some-necessary-services/ba-p/815067) da biste izbjegli pogreške prilikom otvaranja ili stvaranja novog projekta ili plana razvoja.
 - Uključivanje i isključivanje aplikacije Project za web ili Plana razvoja [za korisnike u vašoj tvrtki ili ustanovi](https://docs.microsoft.com/project-for-the-web/turn-project-for-the-web-off).
 - Upotrebljavajte aplikaciju [Project ili Plan razvoja u aplikaciji Teams](https://support.microsoft.com/office/2dc584e6-2f6c-4e2d-9008-0b3f6845eb52).

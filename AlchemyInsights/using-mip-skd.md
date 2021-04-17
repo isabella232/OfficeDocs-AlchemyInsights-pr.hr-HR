@@ -21,7 +21,7 @@ ms.locfileid: "51770947"
 ---
 # <a name="using-mip-skd"></a>Korištenje MIP SDK-a
 
-Da biste koristili MIP SDK, trebate provesti nekoliko koraka za postavljanje i konfiguriranje pretplate na Office 365 i klijentske radne stanice. Ti koraci obuhvaćaju sljedeće:
+Da biste upotrebljavali MIP SDK, trebate provesti nekoliko koraka za postavljanje i konfiguriranje pretplate na Office 365 i klijentske radne stanice. Ti koraci obuhvaćaju sljedeće:
 
 - Registrirajte se za pretplatu na Office 365.
 - Konfigurirajte oznake osjetljivosti.

@@ -25,6 +25,6 @@ Ako se prilikom otvaranja aplikacije sustava Microsoft 365 prikaže obavijest o 
 
 **Primjer**: možda ćete vidjeti žutu traku upozorenja pri vrhu aplikacije: **Nije moguće provjeriti valjanost pretplate**.
 
-**Problem**: iako ne morate biti stalno povezani s internetom da biste koristili Office, morate se povremeno povezivati kako bi Office provjerio je li vaša pretplata još uvijek aktivna. Ako Office dulje vrijeme (obično oko 30 dana) ne može provjeriti status vaše pretplate, prikazat će se poruka "Nije moguće provjeriti valjanost pretplate", a Office će se naposljetku prebaciti u način rada sa smanjenom funkcionalnošću.
+**Problem**: iako ne morate biti stalno povezani s internetom da biste koristili Office, morate se povremeno povezivati kako bi Office provjerio je li vaša pretplata još uvijek aktivna. Ako Office dulje vrijeme (obično oko 30 dana) ne može provjeriti status vaše pretplate, prikazat će se poruka „Nije moguće provjeriti valjanost pretplate", a Office će se naposljetku prebaciti u način rada sa smanjenom funkcionalnošću.
 
-**Rješenje**: ponovno se povežite s internetom i kliknite **Pokušaj ponovno**.
+**Rješenje**: ponovo se povežite s internetom i kliknite **Pokušaj ponovo**.

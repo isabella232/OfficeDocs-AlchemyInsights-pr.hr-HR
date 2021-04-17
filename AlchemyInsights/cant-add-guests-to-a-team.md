@@ -27,4 +27,4 @@ Da biste dodali gosta u tim, moraju biti ispunjeni ovi uvjeti:
 - Vi ste vlasnik tima.
 - Osoba koju želite dodati izvan je vaše tvrtke ili ustanove, npr. partner ili savjetnik.
 
-Pojedinosti potražite u članku [Način na koji se gost uključuje u Teams](https://docs.microsoft.com/MicrosoftTeams/guest-joins).
+Pojedinosti potražite u članku [Način na koji se gost uključuje u tim](https://docs.microsoft.com/MicrosoftTeams/guest-joins).
