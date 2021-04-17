@@ -2,7 +2,7 @@
 title: Zajedničko korištenje radne knjige programa Excel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739277"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828432"
 ---
 # <a name="collaborate-on-excel-documents"></a>Suradnja na dokumentima programa Excel
 
-Da biste surađivali s kolegama na dokumentima programa Excel, upotrijebite **značajku suautorstva**. 
+Da biste surađivali s kolegama na dokumentima programa Excel, koristite **značajku suautorstvo.** 
 
-Saznajte više o omogućivanju i korištenju te značajke, osim što ćete vidjeti odgovore na najčešća pitanja o razmjeni i suautorstvu, na suradnji [na radnim knjigama programa Excel istodobno s suautorstvom](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
+Informirajte se o omogućivanju i korištenju te značajke, kao i odgovorima na najčešća pitanja o zajedničkom korištenju i scenarijima suautorstava u isto vrijeme u suradnji na radnim knjigama programa Excel uz [suautorstvo.](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)

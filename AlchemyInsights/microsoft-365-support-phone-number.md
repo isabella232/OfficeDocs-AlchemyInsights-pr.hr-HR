@@ -1,8 +1,8 @@
 ---
-title: Telefonski broj za podršku za Microsoft 365
+title: Telefonski broj podrške za Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002926"
 - "5599"
-ms.openlocfilehash: 3b9069dd172beb81fdffe2b5a90868376cda9015
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e6c0cfb8e7bccdf8a420b53970da43f65ca5a992
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742627"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829953"
 ---
-# <a name="microsoft-365-support-phone-number"></a>Telefonski broj za podršku za Microsoft 365
+# <a name="microsoft-365-support-phone-number"></a>Telefonski broj podrške za Microsoft 365
 
-- Za rješenja samopomoći ili da biste zatražili poziv iz podrške, unesite konkretniji opis problema.  Ako i dalje morate otvoriti karticu za podršku, pri dnu ove stranice kliknite **obratite se podršci** .
+- Da biste zatražili rješenja za samopomoć ili zatražili poziv od podrške, upišite konkretniji opis problema.  Ako i dalje morate otvoriti kartu za podršku, **pri** dnu ove stranice kliknite Obratite se podršci.
 
-- [Telefonski brojevi za podršku za Microsoft 365 Business](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)
+- [Telefonski brojevi za poslovnu podršku za Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone)

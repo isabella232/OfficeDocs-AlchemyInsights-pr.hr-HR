@@ -1,8 +1,8 @@
 ---
-title: Office 365 za vladine planove i cijene
+title: Tarife i cijene sustava Office 365 za državne uprave
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 6b2c6095521b185c4863d6a7396377834835b320
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05c047f9ca732dcb99ba57314bb591baa5c64431
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729503"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829152"
 ---
-# <a name="office-365-government-plans"></a>Planovi vlade za Office 365
+# <a name="office-365-government-plans"></a>Tarife za Office 365 Government
 
-U sustavu Office 365 Američke vladine planove namijenjene su jedinstvenoj potrebi organizacija Sjedinjenih Američkih Država. Oni pružaju sve značajke i mogućnosti servisa Office 365 u segmentiranoj vladi u oblaku koja organizacijama omogućuje ispunjenje standarda za usklađenost i sigurnost Sjedinjenih Američkih Država.
+Tarife za Office 365 Government namijenjene su jedinstvenim potrebama američkih državnih ustanova. Nude sve značajke i mogućnosti servisa sustava Office 365 u segmentiranoj zajednici državnih oblaka koja tvrtkama i ustanovama omogućuje ispunjavanje američkih standarda usklađenosti i sigurnosti.
   
-- [Pregledajte planove vlade](https://products.office.com/government/compare-office-365-government-plans)
+- [Pregled vladinih planova](https://products.office.com/government/compare-office-365-government-plans)
 
 - [Usporedba svih pretplata na Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
