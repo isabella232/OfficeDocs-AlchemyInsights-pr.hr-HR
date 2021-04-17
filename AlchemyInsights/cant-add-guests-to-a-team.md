@@ -19,12 +19,12 @@ ms.contentlocale: hr-HR
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51819468"
 ---
-# <a name="cant-add-guests-to-a-team"></a><span data-ttu-id="19f38-102">Nije moguće dodati goste u tim</span><span class="sxs-lookup"><span data-stu-id="19f38-102">Can’t add guests to a team</span></span>
+# <a name="cant-add-guests-to-a-team"></a><span data-ttu-id="1b5e5-102">Nije moguće dodati goste u tim</span><span class="sxs-lookup"><span data-stu-id="1b5e5-102">Can’t add guests to a team</span></span>
 
-<span data-ttu-id="19f38-103">Da biste dodali gosta u tim, moraju biti ispunjeni ovi uvjeti:</span><span class="sxs-lookup"><span data-stu-id="19f38-103">To add a guest to a team, the following must be true:</span></span>  
+<span data-ttu-id="1b5e5-103">Da biste dodali gosta u tim, moraju biti ispunjeni ovi uvjeti:</span><span class="sxs-lookup"><span data-stu-id="1b5e5-103">To add a guest to a team, the following must be true:</span></span>  
 
-- <span data-ttu-id="19f38-104">Vaš je administrator uključio pristup u svojstvu gosta u aplikaciji Teams.</span><span class="sxs-lookup"><span data-stu-id="19f38-104">Your admin has turned on guest access in Teams.</span></span>
-- <span data-ttu-id="19f38-105">Vi ste vlasnik tima.</span><span class="sxs-lookup"><span data-stu-id="19f38-105">You are an owner of the team.</span></span>
-- <span data-ttu-id="19f38-106">Osoba koju želite dodati izvan je vaše tvrtke ili ustanove, npr. partner ili savjetnik.</span><span class="sxs-lookup"><span data-stu-id="19f38-106">The person you want to add is outside of your organization, such as a partner or consultant.</span></span>
+- <span data-ttu-id="1b5e5-104">Vaš je administrator uključio pristup u svojstvu gosta u aplikaciji Teams.</span><span class="sxs-lookup"><span data-stu-id="1b5e5-104">Your admin has turned on guest access in Teams.</span></span>
+- <span data-ttu-id="1b5e5-105">Vi ste vlasnik tima.</span><span class="sxs-lookup"><span data-stu-id="1b5e5-105">You are an owner of the team.</span></span>
+- <span data-ttu-id="1b5e5-106">Osoba koju želite dodati izvan je vaše tvrtke ili ustanove, npr. partner ili savjetnik.</span><span class="sxs-lookup"><span data-stu-id="1b5e5-106">The person you want to add is outside of your organization, such as a partner or consultant.</span></span>
 
-<span data-ttu-id="19f38-107">Pojedinosti potražite u članku [Način na koji se gost uključuje u Teams](https://docs.microsoft.com/MicrosoftTeams/guest-joins).</span><span class="sxs-lookup"><span data-stu-id="19f38-107">For details, see  [How a guest joins a team](https://docs.microsoft.com/MicrosoftTeams/guest-joins).</span></span>
+<span data-ttu-id="1b5e5-107">Pojedinosti potražite u članku [Način na koji se gost uključuje u tim](https://docs.microsoft.com/MicrosoftTeams/guest-joins).</span><span class="sxs-lookup"><span data-stu-id="1b5e5-107">For details, see  [How a guest joins a team](https://docs.microsoft.com/MicrosoftTeams/guest-joins).</span></span>
