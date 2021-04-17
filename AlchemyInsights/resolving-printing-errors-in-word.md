@@ -1,8 +1,8 @@
 ---
-title: Otklanjanje pogrešaka prilikom ispisa u programu Word
+title: Rješavanje pogrešaka prilikom ispisa u programu Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720854"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828684"
 ---
-# <a name="resolving-print-failures-in-word"></a><span data-ttu-id="f0a20-102">Rješavanje neuspjelih ispisa u programu Word</span><span class="sxs-lookup"><span data-stu-id="f0a20-102">Resolving print failures in Word</span></span>
+# <a name="resolving-print-failures-in-word"></a><span data-ttu-id="be4c8-102">Rješavanje problema s ispisom u programu Word</span><span class="sxs-lookup"><span data-stu-id="be4c8-102">Resolving print failures in Word</span></span>
 
-<span data-ttu-id="f0a20-103">Ako prilikom ispisa u programu Word primate pogreške, pokušajte ispisati iz novog testnog dokumenta da biste utvrdili je li vaš problem povezan s određenim dokumentom.</span><span class="sxs-lookup"><span data-stu-id="f0a20-103">If you are receiving errors when printing in Word, try printing from a new test document to determine if your problem is related to a specific document.</span></span>
+<span data-ttu-id="be4c8-103">Ako prilikom ispisa u programu Word primate pogreške, pokušajte ispisivati iz novog testnog dokumenta da biste utvrdili je li problem povezan s određenim dokumentom.</span><span class="sxs-lookup"><span data-stu-id="be4c8-103">If you are receiving errors when printing in Word, try printing from a new test document to determine if your problem is related to a specific document.</span></span>
 
-- <span data-ttu-id="f0a20-104">Ako možete ispisivati iz testnog dokumenta, ali i dalje ne možete ispisati izvorni dokument, možda je vaš izvorni dokument oštećen.</span><span class="sxs-lookup"><span data-stu-id="f0a20-104">If you can print from the test document but still can't print your original document, your original document may be damaged.</span></span> <span data-ttu-id="f0a20-105">Slijedite upute u [članku Otklanjanje poteškoća s oštećenim dokumentima u programu Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span><span class="sxs-lookup"><span data-stu-id="f0a20-105">Follow the instructions in [How to troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span></span>
-- <span data-ttu-id="f0a20-106">Ako i dalje ne možete ispisivati, slijedite upute u [članku Otklanjanje poteškoća s ispisom u programu Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) da biste dijagnosticirali i riješili problem.</span><span class="sxs-lookup"><span data-stu-id="f0a20-106">If you still can't print, follow the instructions in [Troubleshoot print failures in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) to diagnose and fix the issue.</span></span>
+- <span data-ttu-id="be4c8-104">Ako možete ispisivati iz testnog dokumenta, ali i dalje ne možete ispisati izvorni dokument, izvorni dokument može biti oštećen.</span><span class="sxs-lookup"><span data-stu-id="be4c8-104">If you can print from the test document but still can't print your original document, your original document may be damaged.</span></span> <span data-ttu-id="be4c8-105">Slijedite upute u programu [Kako otkloniti poteškoće s oštećenim dokumentima u programu Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span><span class="sxs-lookup"><span data-stu-id="be4c8-105">Follow the instructions in [How to troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span></span>
+- <span data-ttu-id="be4c8-106">Ako i dalje ne možete ispisivati, slijedite upute u nastavku Otklanjanje [poteškoća s ispisom u programu Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) da biste dijagnosticirali i riješili problem.</span><span class="sxs-lookup"><span data-stu-id="be4c8-106">If you still can't print, follow the instructions in [Troubleshoot print failures in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) to diagnose and fix the issue.</span></span>

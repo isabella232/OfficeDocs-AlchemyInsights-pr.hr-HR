@@ -2,7 +2,7 @@
 title: Instalacija sustava Office na iPhone
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.custom:
 - "753"
 - "2000016"
-ms.openlocfilehash: 2da851956f7de295895ccc5e52c30538796c4f77
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ad07ce53aab2bc2dda0fed1479ece9b48b13553
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704085"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829368"
 ---
-# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="0acad-102">Instalacija sustava Office na iPhone</span><span class="sxs-lookup"><span data-stu-id="0acad-102">How to install Office on an iPhone</span></span>
+# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="36a79-102">Instalacija sustava Office na iPhone</span><span class="sxs-lookup"><span data-stu-id="36a79-102">How to install Office on an iPhone</span></span>
 
-- <span data-ttu-id="0acad-103">Korisnik će [dodirnuti vezu za preuzimanje](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) s mobilnog uređaja, za Word, Excel, PowerPoint i OneNote.</span><span class="sxs-lookup"><span data-stu-id="0acad-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
+- <span data-ttu-id="36a79-103">Neka korisnik dodirne [vezu za preuzimanje s mobilnog](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) uređaja za Word, Excel, PowerPoint i OneNote.</span><span class="sxs-lookup"><span data-stu-id="36a79-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
 
-- <span data-ttu-id="0acad-104">Neka korisnik pokrene aplikaciju, dodirnite Prijava i unesite njihove vjerodajnice **za** rad ili školovanje.</span><span class="sxs-lookup"><span data-stu-id="0acad-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
+- <span data-ttu-id="36a79-104">Neka korisnik pokrene aplikaciju, dodirnite Prijava i **unesite** njihove vjerodajnice za posao ili školu.</span><span class="sxs-lookup"><span data-stu-id="36a79-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
