@@ -2,7 +2,7 @@
 title: Tablica sadržaja
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3042"
 - "9000592"
-ms.openlocfilehash: b3e78ae5f7f6bc79b46993d7f67a57114282edd3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c44e18d349624d9fed172bc3ffecc59b41717dda
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758021"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831042"
 ---
-# <a name="table-of-contents"></a><span data-ttu-id="44d9f-102">Tablica sadržaja</span><span class="sxs-lookup"><span data-stu-id="44d9f-102">Table of contents</span></span>
+# <a name="table-of-contents"></a><span data-ttu-id="e368d-102">Tablica sadržaja</span><span class="sxs-lookup"><span data-stu-id="e368d-102">Table of contents</span></span>
 
-<span data-ttu-id="44d9f-103">Informacije o stvaranju tablice sadržaja u programu Word potražite u članku [Umetanje tablice sadržaja](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)ili preuzimanje [vodiča za tablicu sadržaja](https://go.microsoft.com/fwlink/?linkid=2065106).</span><span class="sxs-lookup"><span data-stu-id="44d9f-103">For information on creating a table of contents in Word, see [Insert a table of contents](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0), or download our [Table of Contents tutorial](https://go.microsoft.com/fwlink/?linkid=2065106).</span></span>
+<span data-ttu-id="e368d-103">Informacije o stvaranju tablice sadržaja u programu Word potražite u [članku Umetanje tablice sadržaja](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0)ili preuzimanje vodiča o [sadržaju](https://go.microsoft.com/fwlink/?linkid=2065106).</span><span class="sxs-lookup"><span data-stu-id="e368d-103">For information on creating a table of contents in Word, see [Insert a table of contents](https://support.office.com/article/882e8564-0edb-435e-84b5-1d8552ccf0c0), or download our [Table of Contents tutorial](https://go.microsoft.com/fwlink/?linkid=2065106).</span></span>
 
-<span data-ttu-id="44d9f-104">**Rješenja za česte probleme**</span><span class="sxs-lookup"><span data-stu-id="44d9f-104">**Solutions to common issues**</span></span>
+<span data-ttu-id="e368d-104">**Rješenja za česte probleme**</span><span class="sxs-lookup"><span data-stu-id="e368d-104">**Solutions to common issues**</span></span>
 
-- <span data-ttu-id="44d9f-105">Tablica sadržaja ne sadrži naslov koji ste upravo dodali u dokument.</span><span class="sxs-lookup"><span data-stu-id="44d9f-105">The table of contents does not contain the heading you just added to your document.</span></span>
-  1. <span data-ttu-id="44d9f-106">Odaberite tekst naslova, otvorite stilove **Polazno**  >  **Styles**, a zatim provjerite je li stil primijenjen na naslov.</span><span class="sxs-lookup"><span data-stu-id="44d9f-106">Select the heading text, go to **Home** > **Styles**, and verify that a style is applied to the heading.</span></span>
-  2. <span data-ttu-id="44d9f-107">Otvorite odjeljak **reference**  >  **Update tablica** da biste ažurirali tablicu sadržaja.</span><span class="sxs-lookup"><span data-stu-id="44d9f-107">Go to **References** > **Update table** to update the table of contents.</span></span>
+- <span data-ttu-id="e368d-105">Tablica sadržaja ne sadrži naslov koji ste upravo dodali u dokument.</span><span class="sxs-lookup"><span data-stu-id="e368d-105">The table of contents does not contain the heading you just added to your document.</span></span>
+  1. <span data-ttu-id="e368d-106">Odaberite tekst naslova, idite **na**  >  **Stilovi** kuće i provjerite primjenjuje li se stil na naslov.</span><span class="sxs-lookup"><span data-stu-id="e368d-106">Select the heading text, go to **Home** > **Styles**, and verify that a style is applied to the heading.</span></span>
+  2. <span data-ttu-id="e368d-107">Idite **na Referenca** Ažuriraj  >  **tablicu** da biste ažurirali tablicu sadržaja.</span><span class="sxs-lookup"><span data-stu-id="e368d-107">Go to **References** > **Update table** to update the table of contents.</span></span>
 
-- <span data-ttu-id="44d9f-108">Tablica sadržaja prikazuje previše teksta.</span><span class="sxs-lookup"><span data-stu-id="44d9f-108">The table of contents is displaying too much text.</span></span> 
-  1. <span data-ttu-id="44d9f-109">Odaberite tekst odlomka, a zatim idite na stilovi **Polazno**  >  **Styles**.</span><span class="sxs-lookup"><span data-stu-id="44d9f-109">Select the paragraph text, and then go to **Home** > **Styles**.</span></span>
-  2. <span data-ttu-id="44d9f-110">Odaberite stil, kao što je **normalno**, koji nije uvršten u tablicu sadržaja.</span><span class="sxs-lookup"><span data-stu-id="44d9f-110">Select a style, such as **Normal**, that is not included in the table of contents.</span></span>
+- <span data-ttu-id="e368d-108">Tablica sadržaja prikazuje previše teksta.</span><span class="sxs-lookup"><span data-stu-id="e368d-108">The table of contents is displaying too much text.</span></span> 
+  1. <span data-ttu-id="e368d-109">Odaberite tekst odlomka, a zatim idite na **Stilovi**  >  **kuće**.</span><span class="sxs-lookup"><span data-stu-id="e368d-109">Select the paragraph text, and then go to **Home** > **Styles**.</span></span>
+  2. <span data-ttu-id="e368d-110">Odaberite stil, kao što **je Normalno**, koji nije uvršten u tablicu sadržaja.</span><span class="sxs-lookup"><span data-stu-id="e368d-110">Select a style, such as **Normal**, that is not included in the table of contents.</span></span>
