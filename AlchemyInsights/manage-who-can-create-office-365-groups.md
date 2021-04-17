@@ -1,8 +1,8 @@
 ---
-title: Upravljanje osobama koje mogu stvarati Microsoftove grupe 365
+title: Upravljanje tko može stvarati grupe sustava Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: eb2018389b995460d60f955c8294807e9e17516b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e0730388da7b2688da254fa48e37f473b86b354
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694737"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827028"
 ---
-# <a name="manage-who-can-create-microsoft-365-groups"></a>Upravljanje osobama koje mogu stvarati Microsoftove grupe 365
+# <a name="manage-who-can-create-microsoft-365-groups"></a>Upravljanje tko može stvarati grupe sustava Microsoft 365
 
-Svi u vašoj tvrtki ili ustanovi po zadanom mogu stvarati O365 grupe.
+Prema zadanim postavkama svi u tvrtki ili ustanovi mogu stvarati grupe sustava O365.
   
-Ako to želite promijeniti, možete stvoriti sigurnosnu grupu s pomoću komponente PowerShell koja ograničava Stvaranje grupe na podskup korisnika.
+Ako to želite promijeniti, možete stvoriti sigurnosnu grupu pomoću komponente PowerShell koja ograničava stvaranje grupe na podskup korisnika.
   
-Slijedite detaljne upute: [Upravljanje osobama koje mogu stvarati Microsoftove grupe 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+Slijedite detaljne upute ovdje: Upravljanje tko može stvoriti grupe sustava [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
   
 

@@ -1,8 +1,8 @@
 ---
-title: Zatvaranje računa za radnu površinu analitiku
+title: Zatvaranje računa analitike radne površine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 89c6ef78e025657d7b4456bf54f43817ea6bdb6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fab35e44ab7c08611da89e7e4d798e463356ab1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704706"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825759"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Zatvaranje računa za radnu površinu analitiku
+# <a name="how-to-close-your-desktop-analytics-account"></a>Zatvaranje računa analitike radne površine
 
-Ako u okruženju postavite analitiku za stolna računala, a zatim odlučite da je morate ukloniti, koristite postupak na sljedećoj vezi:
+Ako u okruženju postavite analitiku radne površine, a zatim odlučite da je morate ukloniti, upotrijebite postupak na sljedećoj vezi:
 
 [Zatvaranje računa](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Prvi je korak obratite se Microsoftovoj podršci. Otvorite slučaj podrške da biste zatvorili račun za radnu površinu. Nemojte nastaviti s dodatnim koracima dok ne primite potvrdu da je Microsoft završio vaš račun.
+Prvi je korak da se obratite Microsoftovoj podršci. Otvorite slučaj podrške da biste zatvorili račun analitike radne površine. Nemojte nastaviti s dodatnim koracima dok ne primite potvrdu da je Microsoft zatvorio vaš račun.

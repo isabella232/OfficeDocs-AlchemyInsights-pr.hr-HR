@@ -1,8 +1,8 @@
 ---
-title: Otklanjanje programa PowerPoint objesiti ili zamrzava
+title: Razrješavanje prekida ili zamrzavanja programa PowerPoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5474"
-ms.openlocfilehash: bb7c444a0a2e6e15c40e3820254463604fbc86df
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60e320ec204735fdf9ce4dc29c3e291695840215
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662272"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826695"
 ---
-# <a name="resolve-powerpoint-hangs-or-freezes"></a>Otklanjanje programa PowerPoint objesiti ili zamrzava
+# <a name="resolve-powerpoint-hangs-or-freezes"></a>Razrješavanje prekida ili zamrzavanja programa PowerPoint
 
-- [Kada pokrenem aplikacije sustava Office na PC-ju, pojavljuje se pogreška "zaustavljen rad"](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa).
-- Slijedite korake u programu [PowerPoint ne reagira, visi ili zamrzava](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d) za dodatne informacije o otklanjanju poteškoća i rješenja.
+- Prilikom pokretanja aplikacija sustava Office na PC-ju pojavljuje se pogreška ["prestalo funkcionirati".](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- Da biste saznali više o [otklanjanju poteškoća](https://support.office.com/article/PowerPoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d) i rješenjima, slijedite korake u programu PowerPoint ne reagira, zamrzavanje ili zamrzavanje.

@@ -1,8 +1,8 @@
 ---
-title: Isključivanje i ponovno povezivanje fotoaparata
+title: Isključivanje i ponovno povezivanje kamere
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 8cd57e5df85717cb7814f7652f3a8cecaed2e031
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364566"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827712"
 ---
-# <a name="unplug-and-reconnect-camera"></a>Isključivanje i ponovno povezivanje fotoaparata
+# <a name="unplug-and-reconnect-camera"></a>Isključivanje i ponovno povezivanje kamere
 
-Žao nam je što nije uspjelo. Ako je kamera vanjska kamera, poništite uključivanje uređaja i ponovno se povežite, možda će vam pomoći.
+Nažalost, to nije uspjelo. Ako je kamera vanjska kamera, isključivanje uređaja i ponovno povezivanje može vam pomoći.
 
-Ako se radi o ugrađenoj kameri, možda će vam ponovno pokrenuti računalo.
+Ako je to ugrađena kamera, ponovno pokretanje računala može vam pomoći.

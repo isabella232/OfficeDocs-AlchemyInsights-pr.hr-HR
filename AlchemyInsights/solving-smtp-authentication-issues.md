@@ -1,8 +1,8 @@
 ---
-title: Rješavanje problema s provjerom autentičnosti SMTP
+title: Rješavanje problema s provjerom autentičnosti SMTP-a
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 3eaab2c601f78e20f2ee67bc21a9598cb45a24f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737981"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826407"
 ---
-# <a name="solving-smtp-authentication-issues"></a>Rješavanje problema s provjerom autentičnosti SMTP
+# <a name="solving-smtp-authentication-issues"></a>Rješavanje problema s provjerom autentičnosti SMTP-a
 
-Ako dobivate pogreške 5.7.57 ili 5.7.3 prilikom pokušaja slanja SMTP e-pošte i autentičnosti pomoću klijenta ili aplikacije, morate provjeriti nekoliko stavki:
+Ako prilikom slanja SMTP e-pošte i provjere autentičnosti s klijentom ili aplikacijom primate pogreške 5.7.57 ili 5.7.3, provjerite nekoliko stvari:
 
-- Provjereni SMTP slanje može biti onemogućeno u vašem zakupcu ili na poštanskom sandučiću koji pokušavate koristiti (provjerite obje postavke). Da biste pročitali više, pročitajte članak [Omogućivanje i onemogućivanje slanja SMTP autentičnosti klijenta](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission).
+- Provjereno slanje SMTP-a možda je onemogućeno u klijentu ili u poštanskom sandučiću koji pokušavate koristiti (provjerite obje postavke). Dodatne informacije potražite u članku Omogućivanje i onemogućivanje provjere [autentičnosti smtp slanja](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)klijenta .
 
-- Provjerite jesu li za vašeg stanara omogućene [sigurnosne zadane postavke Azure](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) . Ako je omogućeno, provjera autentičnosti SMTP-a pomoću osnovne provjere autentičnosti (poznata i kao ostavština; to će koristiti korisničko ime i lozinku) neće uspjeti.
+- Provjerite jesu [li za vaš klijent omogućene](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) zadane postavke sigurnosti za Azure; ako je omogućena, SMTP provjera autentičnosti pomoću osnovne provjere autentičnosti (poznata i kao naslijeđena; to će koristiti korisničko ime i lozinku) neće uspjeti.

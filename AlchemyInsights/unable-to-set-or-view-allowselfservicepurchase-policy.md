@@ -1,8 +1,8 @@
 ---
-title: Nije moguće postaviti ili prikazati pravilo Allowselfservicekupnja
+title: Nije moguće postaviti ili prikazati pravilnik AllowSelfServicePurchase
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735191"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826083"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Nije moguće postaviti ili prikazati pravilo Allowselfservicekupnja
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Nije moguće postaviti ili prikazati pravilnik AllowSelfServicePurchase
 
-Kada pokušate postaviti ili prikazati pravilo Allowselfservicekupnja, prikazat će vam se sljedeća poruka o pogrešci:
+Kada pokušate postaviti ili prikazati pravilnik AllowSelfServicePurchase, primit ćete sljedeću poruku o pogrešci:
 
-*Funkcija HandleError: nije uspjelo dohvaćanje pravilnika o proizvodu s PolicyId ' Allowselfservicekupnja ', ErrorMessage-osnovna veza je zatvorena: došlo je do neočekivane pogreške na slanju.*
+*HandleError : Nije uspjelo dohvaćanje pravilnika o proizvodu uz PolicyId 'AllowSelfServicePurchase', ErrorMessage – veza u podlozi je zatvorena: došlo je do neočekivane pogreške prilikom slanja.*
 
-To može biti zbog starije verzije sigurnosnog sloja za transport (TLS). Da biste povezali servis MSCommerce, morate koristiti TLS 1,2 ili noviji.  
+To može biti zbog starije verzije sigurnosti transportnog sloja (TLS). Da biste povezali servis MSCommerce, morate koristiti TLS 1.2 ili noviji.  
 
-Pokušajte poduzeti sljedeće korake da biste omogućili/postavili TLS protokol na 1,2, potvrdili i pokušali ponovno.
- 1. U naredbeni upit za PowerShell (PS C: \) Unesite sljedeću naredbu da biste postavili TLS protokol na verziju 1,2:
+Isprobajte sljedeće korake da biste omogućili/postavili TLS protokol na 1.2, potvrdili i ponovno pokušali.
+ 1. U naredbeni redak komponente PowerShell (PS C: unesite sljedeću naredbu da biste \) protokol TLS postavili na verziju 1.2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Potvrđivanje TLS protokola (s) u upotrebi, uz sljedeću naredbu:
+2. Provjerite protokole TLS koji se koriste pomoću sljedeće naredbe:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Ponovno pokušajte izvršiti naredbe Dohvati ili Ažuriraj po potrebi.
+3. Po potrebi ponovno pokušajte s naredbama Get or Update.
 

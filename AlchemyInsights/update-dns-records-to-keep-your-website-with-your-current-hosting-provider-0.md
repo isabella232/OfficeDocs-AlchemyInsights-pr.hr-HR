@@ -1,8 +1,8 @@
 ---
-title: Ažuriranje DNS zapisa radi zadržavanja web-mjesta s trenutnim davatelja usluga hostiranja
+title: Ažuriranje DNS zapisa da biste web-mjesto održavali kod trenutnog davatelja usluge hostiranja
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,37 +14,37 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 89bce2aa5931c0c20706efabd42d2351be43938b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815777"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827502"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Ažuriranje DNS zapisa radi zadržavanja web-mjesta s trenutnim davatelja usluga hostiranja
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>Ažuriranje DNS zapisa da biste web-mjesto održavali kod trenutnog davatelja usluge hostiranja
 
-1. U centru za administratore sustava Microsoft 365 otvorite stranicu **Postavke**  >  [domene](https://admin.microsoft.com/Adminportal#/Domains) , a zatim na popisu domena odaberite domenu koju koristite za web-mjesto.
+1. U centru za administratore sustava Microsoft 365 idite na stranicu Postavljanje domena, a zatim na popisu domena odaberite  >  [](https://admin.microsoft.com/Adminportal#/Domains) domenu koju koristite za web-mjesto.
 
-2. Odaberite **+ novi prilagođeni zapis** pa unesite sljedeće:
+2. Odaberite **+ Novi prilagođeni zapis** i unesite sljedeće:
 
-  - Za **vrstu DNS** -A unesite: **A (adresa)**
+  - Za **unos vrste DNS:A** **(Adresa)**
 
-  - Za **naziv glavnog računala ili pseudonim**upišite sljedeće: **@**
+  - U **naziv glavnog računala ili Pseudonim** upišite sljedeće: **@**
 
-  - Za **IP adresu**upišite STATIČNU IP adresu web-mjesta na kojoj je trenutno domaćin (na primjer,: 172.16.140.1).
+  - Za **IP adresu** upišite statičnu IP adresu za web-mjesto na kojem se trenutno hostira (npr. 172.16.140.1).
 
-    Ovo mora biti  *statična*  IP adresa za web-mjesto, a ne  *dinamička*  IP adresa. Provjerite uz web-mjesto na kojem je web-mjesto hostirano da biste mogli nabaviti statičnu IP adresu za javno web-mjesto.
+    To mora biti  *statična*  IP adresa za web-mjesto, a ne  *dinamička*  IP adresa. Provjerite s web-mjestom na kojem se hostira vaše web-mjesto da biste bili sigurni da možete dobiti statičnu IP adresu za javno web-mjesto.
 
 3. Odaberite **Spremi**.
 
-Osim toga, možete stvoriti CNAME zapis koji korisnicima olakšava pronalaženje web-mjesta.
+Osim toga, možete stvoriti CNAME zapis da biste korisnicima pomogli pronaći vaše web-mjesto.
   
-1. Odaberite **+ novi prilagođeni zapis** pa unesite sljedeće:
+1. Odaberite **+ Novi prilagođeni zapis** i unesite sljedeće:
 
-  - Za **vrstu DNS** -a unesite: **CNAME (pseudonim)**
+  - Za **vrstu DNS-a** unesite: **CNAME (pseudonim)**
 
-  - Za **naziv glavnog računala ili pseudonim**upišite sljedeće: **www**
+  - Za **naziv glavnog računala ili Pseudonim** upišite sljedeće: **www**
 
-  - Da **biste unijeli točku na adresu**, upišite potpuno kvalificirani naziv domene (FQDN) za vaše web-mjesto (primjerice, contoso.com).
+  - U **okvir Upućuje na adresu** upišite potpuno kvalificirani naziv domene (FQDN) za web-mjesto (npr. contoso.com).
 
 2. Odaberite **Spremi**.

@@ -1,8 +1,8 @@
 ---
-title: Zahtjev za kreditnom karticom zbog prekida servisa
+title: Zahtjev za kredit zbog neuslužnog servisa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726839"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826443"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a>Zahtjev za kreditnom karticom zbog prekida servisa
+# <a name="credit-request-due-to-a-service-outage"></a>Zahtjev za kredit zbog neuslužnog servisa
 
-Da biste se prijavili za zahtjev za kredit zbog prekida servisa, otvorite zahtjev za uslugu.
+Da biste zatražili zahtjev za kredit zbog neuslužnog servisa, otvorite zahtjev za uslugu.
 
-Provjerite imate li ID incidenta, koji se nalazi na [stranici zdravlje servisa](https://docs.microsoft.com/office365/enterprise/view-service-health) u centru za administratore sustava Microsoft 365.
+Provjerite je li ID incidenta pronađen na stranici stanje [servisa](https://docs.microsoft.com/office365/enterprise/view-service-health) u centru za administratore sustava Microsoft 365.
 
-Obratite pozornost na to da će se, kao što je vaš zahtjev obrađuje, proći validacije da bi se promatrala utjecaj odsutnosti.
+Imajte naučeno da će tijekom obrade vašeg zahtjeva proći provjere valjanosti da bi se uočio utjecaj neususjedne pogreške.
