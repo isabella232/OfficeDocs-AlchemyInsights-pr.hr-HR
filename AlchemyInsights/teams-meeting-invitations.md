@@ -2,7 +2,7 @@
 title: Pozivnice za sastanak u servisu Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 2c332abe8c525012f4d6b2cd8c3f7054ccc8933e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 88b7cbbe36882e06400869fbd211bb6fe81e845c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736208"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831006"
 ---
 # <a name="teams-meeting-invitations"></a>Pozivnice za sastanak u servisu Teams
 
-Potrebna vam je pomoć pri prilagođavanju pozivnica za sastanke za vašu tvrtku ili ustanovu? Obavezno pregledajte [Prilagodi pozivnice za sastanak](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).  
+Potrebna vam je pomoć pri prilagodbi pozivnica za sastanke aplikacije Teams za svoju organizaciju? Obavezno pregledajte Mogućnost [Prilagodba pozivnica za sastanak](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).  
 
-Dodatne informacije potražite [u članku Upravljanje postavkama sastanka u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).
+Dodatne informacije potražite u članku [Upravljanje postavkama sastanka u aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).

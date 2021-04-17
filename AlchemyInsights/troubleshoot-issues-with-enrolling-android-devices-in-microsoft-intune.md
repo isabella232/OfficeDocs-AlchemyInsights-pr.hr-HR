@@ -1,8 +1,8 @@
 ---
-title: Otklanjanje poteškoća s upisivanjem uređaja sa sustavom Android u programu Microsoft Intune
+title: Otklanjanje poteškoća s registracijom uređaja sa sustavom Android u aplikaciji Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,35 +13,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 08620a44dcf693482c65ff05e19f11870f67afbe
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708990"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830934"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Otklanjanje poteškoća s upisivanjem uređaja sa sustavom Android u programu Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Otklanjanje poteškoća s registracijom uređaja sa sustavom Android u aplikaciji Microsoft Intune
 
-Pregledajte navedene resurse da biste sada riješili problem.
+Pregledajte resurse navedene u nastavku da biste odmah riješili problem.
   
-Neki Česti problemi i koraci sanacije:
+Neki uobičajeni problemi i koraci za rješavanje:
   
- **Pogreška uređaja nije šifrirana na portalu tvrtke:** Novije verzije sustava Android, posebno Počevši od v 7.0, zahtijevaju lozinku za pokretanje da biste provjerili je li vaš uređaj potpuno šifriran. Najčešća rješenja jesu omogućivanje PIN-a za pokretanje ili potpuno šifriranje uređaja. Dodatne informacije potražite u [ovom dokumentu](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) .
+ **Pogreška uređaja nije šifrirana na portalu tvrtke:** Novije verzije sustava Android, osobito počevši od verzije v7.0, zahtijevaju pristupnu šifru za pokretanje da biste bili sigurni da je uređaj u potpunosti šifriran. Uobičajena su rješenja omogućivanje pribadače za pokretanje ili potpuno šifriranje uređaja. Dodatne [informacije potražite](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) u ovom dokumentu.
   
- **Uređaji se ne mogu prijaviti pomoću servisa Intune ili prikaza kao "nezdravih" u konzoli za administratore:** Neki uređaji za Samsung 4,4 i 5,5 možda se neće prijaviti u servis. U ovom problemu postoje tri moguća rješenja:
+ **Uređaji se ne prijave pomoću servisa Intune ili se prikazuju kao "nezdravi" na administratorskim konzolama aplikacije Intune:** Neki uređaji Samsung 4.4 i 5.5 možda se ne prijave u servis. Za taj problem postoje tri moguća rješenja:
   
-1. Ručno otvorite aplikaciju Intune Company portal koja će automatski pokrenuti sinkronizaciju uređaja.
+1. Ručno otvorite aplikaciju Intune Company Portal, koja će automatski pokrenuti sinkronizaciju uređaja.
 
-2. Ažurirajte uređaj na Android 6,0 ili noviji.
+2. Ažurirajte uređaj na Android 6.0 ili noviji.
 
-3. Onemogućite Samsung Smart Manager da upravlja putem portala Intune Company. Pregledajte [ovaj dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) da biste saznali više o tim pitanjima i rezolucijama.
+3. Onemogućite Samsung Smart Manager da upravlja portalom Tvrtke Intune. Pregledajte [ovaj dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) da biste vidjeli dodatne pojedinosti o tim problemima i rješavanjima.
 
- **Vrsta korisničke licence nije valjana** ili **korisničko ime nije prepoznata pogreška:** korisniku je potrebno dodijeliti licencu za Intune ili EMS. Pregledajte ove dokumente da biste dodijelili licencu putem: centar za administratore sustava Office ili portal Azure.
+ **Pogreška Vrsta korisničke licence nije** **valjana ili** korisničko ime nije prepoznato: korisniku je potrebno dodijeliti licencu za Intune ili EMS. Pregledajte ove dokumente da biste dodijelili licencu putem: Centra za administratore sustava Office ili portala Azure.
   
-Dodatni resursi koji će vam olakšati rješavanje problema:
+Dodatni resursi za rješavanje problema:
   
-1. Koristite [portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili česte neuspjehe upisa. Dodatne pojedinosti potražite u [ovom dokumentu](https://docs.microsoft.com/intune/help-desk-operators) .
+1. Pomoću [portala za otklanjanje poteškoća sa servisom Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) dijagnosticirajte i riješite uobičajene pogreške prilikom prijave. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune/help-desk-operators) da biste saznali više.
 
-2. Pregledajte [ovaj dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) radi popisa uobičajenih pogrešaka koji sprječavaju upis i rezolucije na svaki od njih.
+2. Pregledajte [ovaj dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) da biste pregledali popis uobičajenih pogrešaka koje sprječavaju registraciju i rješenja za svaku od njih.
 
-3. Upute [za upis uređaja sa sustavom Android u programu Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).
+3. [Saznajte kako prijaviti uređaje sa sustavom Android u Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).

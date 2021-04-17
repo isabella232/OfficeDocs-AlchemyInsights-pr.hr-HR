@@ -1,8 +1,8 @@
 ---
-title: Slanje poruke e-pošte kao drugog korisnika
+title: Slanje pošte kao drugog korisnika
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6439"
 - "3500009"
-ms.openlocfilehash: 8bc35426bd1b65ba40fb6dc124df2a5f8bfb6679
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: c52e63c3d8a26a6aa26be0d06e3d19e74c1d2c91
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50075817"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830610"
 ---
-# <a name="sending-mail-as-another-user"></a>Slanje poruke e-pošte kao drugog korisnika
+# <a name="sending-mail-as-another-user"></a>Slanje pošte kao drugog korisnika
 
-Prije nego što *Korisnik1* može poslati e-poštu kao *User2*, *Korisnik1* će morati imati dozvole za poštanski sandučić za *User2*. Da biste naučili kako to učiniti, pogledajte (dodijelite dozvole za poštanski sandučić drugom korisniku) [ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ].
+Da *bi Korisnik1* mogao slati e-poštu kao *Korisnik2*, *korisniku1* moraju biti potrebne dozvole za *poštanski sandučić korisnika2.* Upute za to potražite u članku (Dodijelite dozvole poštanskom sandučiću drugom korisniku)[ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ].
 
-Nakon što se dozvole daju (to može potrajati oko 30 minuta)- *Korisnik1* će biti u mogućnosti poslati kao *User2* slijedeći korake opisane u članku Stvaranje ili odgovaranje na poruku e-pošte u ime druge osobe.
+Kada se dozvole daju (to može potrajati oko 30 minuta) – *Korisnik1* moći će slati kao *Korisnik2* slijedeći korake opisane u članku Stvaranje poruke e-pošte ili odgovaranje na nju u ime druge osobe.
