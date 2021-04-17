@@ -1,8 +1,8 @@
 ---
-title: Dozvole za Microsoftove timove
+title: Dozvole za Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: e4acfcfdb65bbe5310f062f4f6cd21889159ec4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777704"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833751"
 ---
-# <a name="microsoft-teams-permissions"></a><span data-ttu-id="9d848-102">Dozvole za Microsoftove timove</span><span class="sxs-lookup"><span data-stu-id="9d848-102">Microsoft Teams permissions</span></span>
+# <a name="microsoft-teams-permissions"></a><span data-ttu-id="98961-102">Dozvole za Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="98961-102">Microsoft Teams permissions</span></span>
 
-<span data-ttu-id="9d848-103">Microsoftovi timovi obuhvaćaju dvije korisničke uloge: vlasniku i članu.</span><span class="sxs-lookup"><span data-stu-id="9d848-103">Microsoft Teams includes two user roles: owner and member.</span></span> <span data-ttu-id="9d848-104">Prema zadanim postavkama, korisniku koji stvori novi tim dodjeljuje se status vlasnika.</span><span class="sxs-lookup"><span data-stu-id="9d848-104">By default, a user who creates a new team is granted the owner status.</span></span> <span data-ttu-id="9d848-105">Osim toga, vlasnici i članovi mogu imati mogućnosti moderatora za kanal (ako je moderiranje postavljeno).</span><span class="sxs-lookup"><span data-stu-id="9d848-105">In addition, owners and members can have moderator capabilities for a channel (if moderation has been set up).</span></span> <span data-ttu-id="9d848-106">Ako je tim stvoren iz postojeće grupe Microsoft 365, dozvole su nasljeđene.</span><span class="sxs-lookup"><span data-stu-id="9d848-106">If a team is created from an existing Microsoft 365 Group, permissions are inherited.</span></span> <span data-ttu-id="9d848-107">Dodatne informacije potražite u članku:</span><span class="sxs-lookup"><span data-stu-id="9d848-107">For more information, see:</span></span>
+<span data-ttu-id="98961-103">Microsoft Teams obuhvaća dvije korisničke uloge: vlasnika i člana.</span><span class="sxs-lookup"><span data-stu-id="98961-103">Microsoft Teams includes two user roles: owner and member.</span></span> <span data-ttu-id="98961-104">Prema zadanim postavkama, korisniku koji stvori novi tim dodjeljuje se status vlasnika.</span><span class="sxs-lookup"><span data-stu-id="98961-104">By default, a user who creates a new team is granted the owner status.</span></span> <span data-ttu-id="98961-105">Osim toga, vlasnici i članovi mogu imati moderatorske mogućnosti za kanal (ako je postavljena moderacija).</span><span class="sxs-lookup"><span data-stu-id="98961-105">In addition, owners and members can have moderator capabilities for a channel (if moderation has been set up).</span></span> <span data-ttu-id="98961-106">Ako je tim stvoren iz postojeće grupe sustava Microsoft 365, dozvole se nasljeđuju.</span><span class="sxs-lookup"><span data-stu-id="98961-106">If a team is created from an existing Microsoft 365 Group, permissions are inherited.</span></span> <span data-ttu-id="98961-107">Dodatne informacije potražite u sljedećim člancima:</span><span class="sxs-lookup"><span data-stu-id="98961-107">For more information, see:</span></span>
 
-- [<span data-ttu-id="9d848-108">Dodjela vlasnika tima i članova u Microsoftovim timovima</span><span class="sxs-lookup"><span data-stu-id="9d848-108">Assign team owners and members in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [<span data-ttu-id="9d848-109">Dozvole i razmatranja aplikacija Microsoftove ekipe</span><span class="sxs-lookup"><span data-stu-id="9d848-109">Microsoft Teams apps permissions and considerations</span></span>](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [<span data-ttu-id="9d848-110">Postavljanje dozvola za goste za kanale u timovima</span><span class="sxs-lookup"><span data-stu-id="9d848-110">Set guest permissions for channels in Teams</span></span>](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [<span data-ttu-id="98961-108">Dodjela vlasnika i članova tima u aplikaciji Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="98961-108">Assign team owners and members in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [<span data-ttu-id="98961-109">Dozvole i razmatranja aplikacija Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="98961-109">Microsoft Teams apps permissions and considerations</span></span>](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [<span data-ttu-id="98961-110">Postavljanje dozvola za goste za kanale u aplikaciji Teams</span><span class="sxs-lookup"><span data-stu-id="98961-110">Set guest permissions for channels in Teams</span></span>](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
