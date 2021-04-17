@@ -1,8 +1,8 @@
 ---
-title: OKM će biti umirovljen Lipanj 2020
+title: OCM za umirovljeni lipanj 2020.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 966a076c7b22a25a58e3513bc053c47b0eedaf4d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 045ba28f29fcd37b7cbf7d5566bd4ae5c7210fe6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704814"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833535"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a>OKM će biti umirovljen Lipanj 2020
+# <a name="ocm-to-be-retired-june-2020"></a>OCM za umirovljeni lipanj 2020.
 
 
-Efektivno **Lipanj 30, 2020**, dodatak Outlook Customer Manager i mobilna aplikacija bit će umirovljeni. Podatke iz njega možete  **izvoziti**  **prije ovog datuma**.  
+Na **snazi 30. lipnja 2020.,** dodatak Outlook Customer Manager i mobilna aplikacija bit će povučeni. Podatke iz  **njega možete**  izvesti prije  **tog datuma**.  
 
-Možete provjeriti tko u vašoj tvrtki ili ustanovi sadrži Microsoft 365 Business Standard (prethodno poznat kao Office 365 Business Premium) ili Microsoft 365 Business Premium (prethodno poznat kao Pretplatnički plan za Microsoft 365 Business) s pravima na Outlook Customer Manager tako da kliknete [ovdje](https://admin.microsoft.com/AdminPortal/Home?ref=/users).
+Možete provjeriti tko u tvrtki ili ustanovi ima pretplatu na Microsoft 365 Business Standard (prethodno poznat kao Office 365 Business Premium) ili Microsoft 365 Business Premium (prethodno poznat kao Microsoft 365 Business) s pravima na Outlook Customer Manager klikom [na ovdje](https://admin.microsoft.com/AdminPortal/Home?ref=/users).
 
-Dodatne informacije potražite u članku:
+Dodatne informacije potražite u sljedećim člancima:
 
 - [Izvoz ili brisanje podataka programa Outlook Customer Manager](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 

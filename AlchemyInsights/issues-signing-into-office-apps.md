@@ -1,8 +1,8 @@
 ---
-title: Problemi s prijavom u aplikacije Microsoft 365
+title: Problemi prilikom prijave u aplikacije sustava Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: d736c6c687695824f0ab37b8ffdc8456065353b0
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c64cf2c9dbf63caad22e54ae801adc3ed8ff0f62
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709098"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832995"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Ispravljanje aplikacija Microsoft 365 "Trusted Platform modul za vaše računalo ne funkcionira pravilno" poruka
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Popravljanje aplikacije Microsoft 365 "Modul pouzdane platforme na računalu ne funkcionira pravilno"
 
 Da biste ispravili tu pogrešku, pokušajte sljedeće:
 
-- Instalirajte najnovija ažuriranja za [Windows](https://support.microsoft.com/help/4027667/windows-10-update) i [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- [Poništite vjerodajnice sustava Office](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/another-account-already-signed-in#step-4-clear-cached-credentials-on-the-computer) pomoću upravitelja vjerodajnica za Windows.<br/>
-    **Upozorenje:** Putevi registra za Office 2016 promijenili su se u 16,0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Isprobajte [postupak oporavka korisnika](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) da biste riješili pogreške pouzdanih Platform MODULE (TPM-a).
+- Instalirajte najnovija ažuriranja za [Windows i](https://support.microsoft.com/help/4027667/windows-10-update) [Office.](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)
+- [Poništite vjerodajnice sustava Office pomoću](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/another-account-already-signed-in#step-4-clear-cached-credentials-on-the-computer) upravitelja vjerodajnica sustava Windows.<br/>
+    **Napomena:** Putovi registra za Office 2016 promijenili su se u 16.0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Isprobajte [postupak oporavka korisnika da](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) biste riješili pogreške modula pouzdane platforme (TPM).
 - Postavite EnableADAL = 0 pomoću sljedećih koraka:  
-    1. Desnom tipkom miša kliknite gumb Start sustava Windows, odaberite **Pokreni**, upišite **regedit**, a zatim odaberite **u redu**.
-    2. Odaberite **da** da bi uređivač registra omogućio promjene na uređaju.
-    3. U uređivaču registra dodajte vrijednost DWORD za **Enableadal** s postavkom **0** u odjeljku HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
+    1. Desnom tipkom miša kliknite gumb Start sustava Windows, odaberite **Pokreni**, upišite **regedit**, a zatim odaberite U **redu**.
+    2. Odaberite **Da** da biste uređivaču registra omogućili unos promjena na uređaj.
+    3. U uređivaču registra dodajte DWORD vrijednost **EnableADAL** s postavkom **0 u** odjeljku HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
 
-Dodatne informacije potražite u članku [Problemi s povezivanjem u programu za prijavu nakon ažuriranja na Office 2016 međuverzija 16.0.7967 u sustavu Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Dodatne informacije potražite u članku Problemi s povezivanjem prilikom prijave nakon ažuriranja na međuverziju [16.0.7967 sustava Office 2016 u sustavu Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

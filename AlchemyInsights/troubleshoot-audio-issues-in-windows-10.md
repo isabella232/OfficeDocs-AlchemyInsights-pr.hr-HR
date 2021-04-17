@@ -2,7 +2,7 @@
 title: Otklanjanje poteškoća sa zvukom u sustavu Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750299"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833283"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Otklanjanje poteškoća sa zvukom u sustavu Windows 10
 
-**Pokretanje alata za otklanjanje poteškoća s zvukom**
+**Pokretanje alata za otklanjanje poteškoća sa zvukom**
 
-1.  Otvorite [Postavke otklanjanja poteškoća](ms-settings:troubleshoot).
+1.  Otvorite postavke [otklanjanja poteškoća](ms-settings:troubleshoot).
 
-2.  Odaberite **reprodukcija zvuka**  >  **da biste pokrenuli alat za otklanjanje poteškoća**.
+2.  Odaberite **Reprodukcija**  >  **zvuka Pokrenite alat za otklanjanje poteškoća**.
 
 **Postavljanje zadanog uređaja**
 
-Ako se povezujete s audiouređajem pomoću USB-a ili HDMI-ja, možda ćete morati postaviti taj uređaj kao zadani:
+Ako se s audiouređaj povezujete putem USB-a ili HDMI-a, možda ćete taj uređaj morati postaviti kao zadani:
 
-1. Otvorite **početni**  >  **zvuk**, a zatim na popisu rezultata odaberite **zvuk** ili **Promijeni zvukove sustava** .
+1. Otvorite **Izbornik** Zvuk , a zatim na popisu rezultata  >   **odaberite Zvuk** ili Promijeni sistemske zvukove. 
 
-2.  Na kartici **Reprodukcija** odaberite uređaj, odaberite **Postavi zadano**, a zatim odaberite **u redu**.
+2.  Na kartici **Reprodukcija** odaberite uređaj, odaberite **Postavi zadano**, a zatim U **redu**.
 
 **Provjera kabela, glasnoće, zvučnika i slušalica**
 
-1. Provjerite veze zvučnika i slušalica za labavo kablove i provjerite jesu li povezani s ispravnom priključkom.
+1. Provjerite jesu li kabeli za zvučnike i slušalice labavi te jesu li povezani s pravilnom utičnicom.
 
-2. Provjerite razine napajanja i glasnoće pa pokušajte isključiti sve kontrole glasnoće.
+2. Provjerite razinu napajanja i glasnoće i pokušajte pojašnjati sve kontrole glasnoće.
 
-3. Neki zvučnici i aplikacije imaju vlastite kontrole glasnoće; Možda ćete ih morati provjeriti sve da biste bili sigurni da su na pravim razinama.
+3. Neki zvučnici i aplikacije imaju vlastite kontrole glasnoće; možda ćete ih morati sve provjeriti da biste bili sigurni da su na pravom nivou.
 
 4. Pokušajte se povezati pomoću drugog USB priključka.
 
-**Imajte na umu**: zapamtite da zvučnici možda neće funkcionirati kada su slušalice priključene.
+**Napomena:** Imajte na umu da zvučnici možda neće funkcionirati kada su priključene slušalice.
 
 **Provjera upravitelja uređaja**
 
-Da biste bili sigurni da su upravljački programi ažurirani, učinite sljedeće:
+Da biste bili sigurni da su upravljački programi aute:
 
-1. Odaberite **Start**, upišite **Upravitelj uređaja**, a zatim na popisu rezultata odaberite **Upravitelj uređaja** .
+1. Odaberite **Start**, **upišite Upravitelj** uređaja , a zatim **na** popisu rezultata odaberite Upravitelj uređaja.
 
-2. U odjeljku **Kontroleri za zvukove, videozapise i igre**Odaberite zvučnu karticu, otvorite je, odaberite karticu **upravljački** program, a zatim **Ažuriraj upravljački program**.
+2. U **odjeljku Kontroleri za zvuk, videozapise** i igre odaberite zvučnu karticu, otvorite je, odaberite **karticu Upravljački** program pa odaberite Ažuriraj upravljački **program**.
 
-**Napomena**: Ako Windows ne pronađe novi upravljački program, potražite ga na web-mjestu proizvođača uređaja i slijedite upute.
+**Napomena:** ako Windows ne pronađe novi upravljački program, potražite ga na web-mjestu proizvođača uređaja i slijedite njihove upute.
 
 **Ponovna instalacija upravljačkog programa**
 
 Ako ne možete ažurirati putem upravitelja uređaja ili pronaći novi upravljački program na web-mjestu proizvođača, isprobajte sljedeće korake:
 
-1. U upravitelju uređaja desnom tipkom miša kliknite (ili pritisnite i držite) upravljački program za audiouređaj, a zatim odaberite **Deinstaliraj**. Ponovno pokrenite uređaj i Windows će pokušati ponovno instalirati upravljački program.
+1. U upravitelju uređaja desnom tipkom miša kliknite (ili pritisnite i držite) upravljački program za audiodatoteka, a zatim odaberite **Deinstaliraj**. Ponovno pokrenite uređaj i Windows će pokušati ponovno instalirati upravljački program.
 
-2. Ako ponovna instalacija upravljačkog programa ne funkcionira, pokušajte koristiti generički upravljački program za audiouređaj koji se isporučuje sa sustavom Windows. U upravitelju uređaja desnom tipkom miša kliknite (ili pritisnite i držite) upravljački program za audiouređaj > **ažurirati upravljački**program  >  **potražite na računalu upravljački softver**  >  **Dopusti mi izdvajanje s popisa upravljačkih programa uređaja na računalu**, odaberite **audiouređaj High definition**, odaberite **dalje**, a zatim slijedite upute da biste ga instalirali.
+2. Ako ponovna instalacija upravljačkog programa ne funkcionira, pokušajte koristiti generički upravljački program za zvuk koji se isporučuje sa sustavom Windows. U upravitelju uređaja desnom tipkom miša kliknite (ili pritisnite i držite) upravljački program za audiodatoteku > Ažuriraj upravljački program Pregledajte moje računalo za upravljački program Dopustite mi da s popisa upravljačkih programa uređaja na računalu odaberete Audiouređaj visoke razlučivosti , odaberite Dalje , a zatim slijedite upute  >    >  da biste ga instalirali. 

@@ -1,8 +1,8 @@
 ---
-title: Otklanjanje poteškoća s automatskim odgovorima u sustavu Office
+title: Otklanjanje poteškoća s automatskim odgovorima o odsutnosti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 3aa48fdc9c7b1ca227e32d229ce4ce2102944f58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664954"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832230"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a>Otklanjanje poteškoća s automatskim odgovorima u sustavu Office
+# <a name="troubleshooting-out-of-office-automatic-replies"></a>Otklanjanje poteškoća s automatskim odgovorima o odsutnosti
 
-Brojni mogući uzroci mogu biti razlozi za probleme, ovisno o tome kako ste konfigurirali automatske odgovore iz sustava Office.
+Zbog raznih mogućih uzroka može doći do problema, ovisno o tome kako ste konfigurirali automatske odgovore o odsutnosti.
 
-Da biste saznali više o tome gdje je problem, pročitajte  [objašnjenje i otklanjanje poteškoća s odgovorima iz sustava Office (OOF)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)
+Da biste bolje razumjeli gdje bi problem mogao biti, pročitajte odgovore o razumijevanju i otklanjanju poteškoća s odsutnosti  [(OOF-om)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)
