@@ -1,8 +1,8 @@
 ---
-title: Fakturiranje nakon otkazivanja pretplate
+title: Naplaćeno nakon otkazivanja pretplate
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500019"
 - "5584"
-ms.openlocfilehash: db34bbf73cead34d533c4654e9bfa8024f5a58f5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be524e88999b8b35cced290daf87fc7f3a4088c5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686238"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820422"
 ---
-# <a name="billed-after-canceling-subscription"></a><span data-ttu-id="dd03b-102">Fakturiranje nakon otkazivanja pretplate</span><span class="sxs-lookup"><span data-stu-id="dd03b-102">Billed after canceling subscription</span></span>
+# <a name="billed-after-canceling-subscription"></a><span data-ttu-id="164d0-102">Naplaćeno nakon otkazivanja pretplate</span><span class="sxs-lookup"><span data-stu-id="164d0-102">Billed after canceling subscription</span></span>
 
-<span data-ttu-id="dd03b-103">Kada vaša pretplata bude otkazana, dobit ćete dodatnu fakturu nakon otkaza uz bilo koji neplaćeni saldo umanjen za sve kredite.</span><span class="sxs-lookup"><span data-stu-id="dd03b-103">Once your subscription is canceled, you will receive an additional invoice after cancellation with any outstanding balance minus any prorated credits.</span></span>
+<span data-ttu-id="164d0-103">Nakon otkazivanja pretplate primit ćete dodatnu fakturu nakon otkazivanja sa svim nepodmirenim iznosom umanjenim za odobrene kredite.</span><span class="sxs-lookup"><span data-stu-id="164d0-103">Once your subscription is canceled, you will receive an additional invoice after cancellation with any outstanding balance minus any prorated credits.</span></span>
 
-<span data-ttu-id="dd03b-104">Dodatne informacije potražite u članku [razumijevanje fakture za Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="dd03b-104">For more info, see [Understand your invoice for Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
+<span data-ttu-id="164d0-104">Dodatne informacije potražite u članku [Razumijevanje fakture za Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="164d0-104">For more info, see [Understand your invoice for Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
