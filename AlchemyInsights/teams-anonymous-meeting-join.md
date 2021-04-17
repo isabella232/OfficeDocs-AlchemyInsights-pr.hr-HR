@@ -1,8 +1,8 @@
 ---
-title: Omogućivanje i onemogućivanje anonimnih korisnika da se pridruže sastancima timova
+title: Omogućivanje ili sprječavanje pridruživanja anonimnim korisnicima sastancima aplikacije Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669888"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824751"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Omogućivanje i onemogućivanje anonimnih korisnika da se pridruže sastancima timova
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Omogućivanje ili sprječavanje pridruživanja anonimnim korisnicima sastancima aplikacije Teams
 
-U centru za administratore timova možete kontrolirati postavke spajanja anonimnih sastanaka.
+Postavke pridruživanja anonimnom sastanku možete upravljati u centru za administratore aplikacije Teams.
 
-**Da bi ta promjena stupila na stvar, može potrajati i do 24 sata.**
+**Ta promjena može potrajati i do 24 sata.**
 
-1.  Otvorite centar za [administratore timova](https://admin.teams.microsoft.com)
-2.  U lijevoj navigacijskoj traci otvorite **Meetings**   >   **Postavke sastanka**sastanaka.
-3.  U odjeljku  **sudionici**uključite  **anonimni korisnici mogu se uključiti u sastanak**.
+1.  Idite u centar [za administratore aplikacije Teams](https://admin.teams.microsoft.com)
+2.  U lijevom navigacijskom oknu otvorite **Postavke**   >   **sastanka sastanaka**.
+3.  U  **odjeljku** Sudionici uključite  **mogućnost Anonimni korisnici mogu se uključiti u sastanak**.

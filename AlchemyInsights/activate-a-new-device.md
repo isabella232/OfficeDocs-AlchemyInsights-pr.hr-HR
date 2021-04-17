@@ -2,7 +2,7 @@
 title: Aktivacija novog uređaja
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668374"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823275"
 ---
 # <a name="activating-a-new-device-running-windows-10"></a>Aktivacija novog uređaja sa sustavom Windows 10
 
-Ako ste kupili novi uređaj sa sustavom Windows 10, on će se automatski aktivirati kada priključite uređaj na Internet. Ako su poslužitelji za aktivaciju zauzeti, možda ćete morati nakratko pričekati da se Windows aktivira.
+Ako ste kupili novi uređaj sa sustavom Windows 10, automatski će se aktivirati kada uređaj povežete s internetom. Ako su poslužitelji za aktivaciju zauzeti, možda ćete morati pričekati da se Windows aktivira.
 
-Da biste provjerili status aktivacije, odaberite **Započni** **Settings**  >  **Ažuriranje postavki & bezbednosnoj**  >  **aktivaciji**.
+Da biste provjerili status aktivacije, **odaberite Pokreni** **postavke** Ažuriraj  >  **&**  >  **aktivaciju sigurnosti**.
 
-**Upozorenje:** U nekim slučajevima možda ćete morati unijeti ključ proizvoda sa sustavom Windows 10 koji ste dobili uz ambalažu uređaja ili uvrstiti kao karticu ili na certifikat o autentičnosti (COA) priloženu na uređaj.
+**Napomena:** U nekim ćete slučajevima možda morati unijeti ključ proizvoda za Windows 10 koji ste dobili uz pakiranje uređaja ili kao karticu ili certifikat autentičnosti priložen na uređaju.
 
-[Saznajte više o aktivaciji u sustavu Windows 10](https://support.microsoft.com/help/12440)
+[Dodatne informacije o aktivaciji u sustavu Windows 10](https://support.microsoft.com/help/12440)

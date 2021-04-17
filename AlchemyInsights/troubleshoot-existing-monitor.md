@@ -2,7 +2,7 @@
 title: Otklanjanje poteškoća s postojećim monitorom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c4d2bb64b6b5ea79d4cd585e2be85c3c17e0f76f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690703"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824571"
 ---
 # <a name="troubleshoot-an-existing-monitor"></a>Otklanjanje poteškoća s postojećim monitorom
 
 Isprobajte ova rješenja da biste otklonili poteškoće s monitorom. 
 
-**Osvježavanje zaslona monitora:**
+**Osvježite zaslon monitora:**
 
-Istodobno pritišćite sljedeće tipke: tipka sa sustavom Windows + Ctrl + Shift + B. Time ćete osvježiti komunikaciju s grafičkim upravljačkim programom. Monitori će uskoro trepnuti i vratiti se nakon nekoliko sekundi.
+Istodobno pritišćite sljedeće tipke: Tipka windows + Ctrl + Shift + B. Time ćete osvježiti komunikaciju s upravljačkim programom za grafiku. Monitori će trenuci treptati i vratiti se nakon nekoliko sekundi.
 
 **Otklanjanje poteškoća s hardverom monitora:**
 
 1. Isključite kabel koji povezuje PC s monitorom i ponovno ga priključite.
-2. Isključite sve uređaje koji nisu neophodni na PC-ju (primjerice adaptere ili dokove).
+2. Odspojite sve uređaje koji nisu ključni s PC-ja (kao što su prilagodnici ili sidrišta).
 
 **Ako ste nedavno instalirali ažuriranje na PC, možete vratiti upravljački program za prikaz:**
 
-1. Odaberite **Start**, upišite **Upravitelj uređaja**, a zatim odaberite **Upravitelj uređaja** iz rezultata.
-2. Proširite odjeljak **prilagodnici prikaza** , desnom tipkom miša kliknite zaslonski prilagodnik, a zatim odaberite **Svojstva**.
-3. Idite na karticu **upravljački** program, a zatim odaberite **Vratite upravljački program**. <br>
-Pažnja: ako to nije dostupno ili je zasivljeno, odaberite **ne** iz mogućnosti u nastavku da biste se pomaknuli na sljedeći korak.
-4. Možda ćete morati ponovno pokrenuti PC da bi promjene stupile na ruku.
+1. Odaberite **Start**, **upišite upravitelj uređaja**, a **zatim u rezultatima** odaberite Upravitelj uređaja.
+2. Proširite **odjeljak Prilagodnici** za prikaz, desnom tipkom miša kliknite prilagodnik za prikaz, a zatim odaberite **Svojstva**.
+3. Pomaknite se do **kartice Upravljački** program i **odaberite Vrati upravljački program .** <br>
+Napomena: ako to nije dostupno ili je  zasivljeno, na mogućnostima u nastavku odaberite Ne da biste se pomakli na sljedeći korak.
+4. Prije nego što te promjene stupe na snagu, možda ćete morati ponovno pokrenuti PC.
 
 **Deinstalirajte i ponovno instalirajte upravljački program za prikaz:**
 
-1. Odaberite **Start**, upišite **Upravitelj uređaja**, a zatim odaberite **Upravitelj uređaja** iz rezultata.
-2. Proširite odjeljak **prilagodnici prikaza** , desnom tipkom miša kliknite zaslonski prilagodnik, a zatim odaberite **Deinstaliraj uređaj**. 
-3. Odaberite okvir uz **gumb Izbriši upravljački program za ovaj uređaj** i odaberite **Deinstaliraj**.<br>
-Pažnja: u ovoj će se fazi možda zatražiti da ponovno pokrenete računalo. Prije ponovnog pokretanja obavezno zapišite preostale upute.
-4. Ponovno otvorite upravitelj uređaja.
-5. Proširite odjeljak **prilagodnici prikaza** , desnom tipkom miša kliknite zaslonski prilagodnik, a zatim odaberite **Ažuriraj upravljački program**.
-6. Odaberite **Pretraživanje automatski radi ažuriranja upravljačkih** programa i slijedite upute za instalaciju.
+1. Odaberite **Start**, **upišite upravitelj uređaja**, a **zatim u rezultatima** odaberite Upravitelj uređaja.
+2. Proširite **odjeljak Prilagodnici za** prikaz, desnom tipkom miša kliknite prilagodnik za prikaz, a zatim odaberite **Deinstaliraj uređaj**. 
+3. Odaberite okvir uz stavku **Brisanje upravljačkog softvera za ovaj uređaj i odaberite** **Deinstaliraj**.<br>
+Napomena: od vas će se možda tražiti da ponovno pokrenete računalo u ovoj fazi. Prije ponovnog pokretanja obavezno zapišite preostale upute.
+4. Ponovno otvorite Upravitelj uređaja.
+5. Proširite odjeljak **Prilagodnici za** prikaz, desnom tipkom miša kliknite prilagodnik za prikaz, a zatim odaberite **Ažuriraj upravljački program**.
+6. Odaberite **Automatski traži softver za ažuriranje upravljačkog programa** i slijedite upute za instalaciju.

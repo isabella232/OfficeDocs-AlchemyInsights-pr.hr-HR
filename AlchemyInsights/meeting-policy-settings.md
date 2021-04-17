@@ -1,8 +1,8 @@
 ---
-title: Postavke pravilnika za sastanak
+title: Postavke pravilnika sastanka
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39151d3a56cc09a8ae2dd77fb7bf1e99066cc77a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704598"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825435"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Upravljanje pravilima sastanka u Microsoftovim timovima
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Upravljanje pravilima sastanka u aplikaciji Microsoft Teams
 
-**Pažnja: promjenama pravilnika za korisnike može potrajati do 24 sata.** Možda nećete moći odmah unijeti promjene u novostvorenu politiku; Pričekajte 4 sata i pokušajte ponovno izmijeniti novo stvoreno pravilo.
+**Napomena: korisnicima može trebati do 24 sata da promjene pravilnika stupe na snagu.** Možda nećete moći odmah mijenjati novostvorene pravilnike. pričekajte 4 sata i pokušajte ponovno izmijeniti novostvoreni pravilnik.
 
-Pravila sastanka koriste se za kontrolu značajki dostupnih sudionicima sastanka za sastanke zakazanih od strane korisnika u vašoj tvrtki ili ustanovi. Neke značajke pravilnika za sastanak možda se još ne provode u centru za administratore timova (te su oznake "uskoro" u dokumentaciji). U ovom slučaju ili ako vam se prikazuje pogreška "trenutno ne možemo ažurirati pravilnik, no ponovno je pokušati kasnije" u centru za administratore programa Microsoft timovi preporučujemo da pomoću komponente PowerShell stvorite ili izmijenite pravila sastanka timova. 
+Pravila sastanka koriste se za kontrolu značajki koje su dostupne sudionicima sastanka za sastanke koje zakazali korisnici u vašoj tvrtki ili ustanovi. Neke značajke pravilnika za sastanke možda se još neće implementirati u centru za administratore aplikacije Teams (one su u dokumentaciji označene kao "uskoro"). U tom slučaju ili ako vam se prikazuje pogreška kao što je "Trenutno ne možemo ažurirati pravilnik, ali ga kasnije pokušati ponovno" u centru za administratore aplikacije Microsoft Teams, preporučujemo da pomoću komponente PowerShell stvorite ili izmijenite pravilnike za sastanke servisa Teams. 
 
 Dodatne informacije o pravilima sastanka potražite u sljedećim resursima:
 
-- Da biste saznali više o stvaranju pravilnika, promjenama i dodjeljivanju korisnika u pravilnik, pročitajte članak [Upravljanje pravilima sastanka u timovima](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- Informacije o stvaranju pravilnika, unošanju promjena i dodjeljivanju korisnika pravilniku pogledajte u članku Upravljanje [pravilnikom za sastanke u aplikaciji Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
-- Da biste promijenili politiku pomoću cmdleta u komponenti PowerShell, pročitajte članak [Prikaz aplikacije PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Da biste koristili pravila sastanka za timove, morate koristiti module za sastanke u programu [Skype za tvrtke](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) . 
-    - Dodatne informacije potražite u [dokumentaciji za cmdlete *-csteamsmeetingpolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) .
+- Da biste unijeli promjene pravilnika pomoću cmdleta komponente PowerShell, pogledajte [pregled komponente Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Morate koristiti modul [PowerShell skypea za tvrtke za pravilnike](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) sastanka aplikacije Teams. 
+    - Dodatne informacije [potražite u dokumentaciji cmdleta *-CsTeamsMeetingPolicy.](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)
 

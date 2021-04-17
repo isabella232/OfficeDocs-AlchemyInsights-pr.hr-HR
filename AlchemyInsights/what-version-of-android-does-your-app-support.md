@@ -1,8 +1,8 @@
 ---
-title: Koju verziju sustava Android podržava vaša aplikacija?
+title: Koju verziju sustava Android vaša aplikacija podržava?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773047"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824175"
 ---
-# <a name="what-version-of-android-does-your-app-support"></a>Koju verziju sustava Android podržava vaša aplikacija?
+# <a name="what-version-of-android-does-your-app-support"></a>Koju verziju sustava Android vaša aplikacija podržava?
 
-Za najbolje performanse naša aplikacija funkcionira na bilo kojem uređaju sa sustavom Android verzija 5,0 i noviji.
+Za najbolje performanse naša aplikacija funkcionira na bilo kojem uređaju s verzijom Android 5.0 i većom.
 
-Ako ste ažurni na OS-u sa sustavom Android, ali i dalje primate obavijesti o tome da OS nije kompatibilan s uređajem, pokušajte izbrisati predmemoriju i podatke u aplikaciji Reproduciraj trgovinu.
+Ako ste u operacijskom sustavu Android a i dalje primate obavijesti o tome da operacijski sustav nije kompatibilan s vašim uređajem, pokušajte očistiti predmemoriju i podatke aplikacije Play Store.
 
 Da biste to učinili, učinite sljedeće: 
 
-1. Na mobitelu ili tabletu sa sustavom Android otvorite **Postavke** , a zatim **aplikacije** ili **aplikacije**.
+1. Na telefonu ili tabletu sa sustavom Android **otvorite Postavke,** a zatim **Aplikacije** ili **Aplikacije**.
 
-2. Pri vrhu zaslona dodirnite **više** (to može biti i elipsa ili tri okomita točke), a zatim **prikaz sustava**. 
+2. Pri vrhu zaslona dodirnite **Više** (to može biti i trotočje ili tri okomite točke), a zatim **Prikaži sustav**. 
 
-3. Pomaknite se prema dolje i dodirnite **usluge Google Play**. 
+3. Pomaknite se prema dolje i **dodirnite servisi Google Play**. 
 
-4. Dodirnite **Pohrana** , a zatim **Očisti predmemoriju**. 
+4. Dodirnite **Pohrana,** **a zatim Očisti predmemoriju**. 
 
-5. Dodirnite **Upravljanje prostorom** , a zatim **poništite sve podatke**. 
+5. Dodirnite **Upravljanje prostorom,** **a zatim Očisti sve podatke**. 
 
-6. Otvorite **trgovinu Google Play**. 
+6. Otvorite **Trgovinu Google Play**. 
 
-7. Pričekajte pet minuta, a zatim pokušajte ponovno. 
+7. Pričekajte 5 minuta, a zatim pokušajte ponovno. 

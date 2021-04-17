@@ -1,8 +1,8 @@
 ---
-title: Migracija iz AIP-a na MIP/Unified označavanje u centru za usklađenost
+title: Migracija iz AIP-a u MIP/Sjedinjeno označavanje u centru za usklađenost
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 7157eada10db2443f64fb7925f408359275d75eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674318"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825363"
 ---
-# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migracija iz AIP-a na MIP/Unified označavanje u centru za usklađenost
+# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migracija iz AIP-a u MIP/Sjedinjeno označavanje u centru za usklađenost
 
-Da biste migrirali iz Alp naljepnica na sjedinjenje označavanja u centru za sigurnost i usklađenost, učinite sljedeće:
+Da biste migrirati s AIP naljepnica na sjedinjeno označavanje u centru za sigurnost i usklađenost, učinite sljedeće:
 
 **Aktivacija zaštite s portala Azure**
 
-1. Ako to već niste učinili, otvorite novi prozor preglednika i [prijavite se na portal Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Dođite do noža za **zaštitu podataka za Azure** . Na izborniku koncentrator, primjerice, kliknite **sve servise** i počnite upisivati **podatke** u okvir Filtar. Odaberite **zaštiti informacija o Azure**. Ako prije niste pristupili oštrici zaštite za Azure, pogledajte [upute](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) za dodavanje ove oštrice na portal. Da biste otvorili nož za zaštitu informacija za Azure, morate imati [tarifu za zaštitu informacija za Azure](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) , ili plan sustava Office 365 koji obuhvaća upravljanje pravima. Ako imate neku od tih pretplata, ali pogledajte poruku da nije moguće pronaći valjanu pretplatu, obratite se [Microsoftovoj podršci](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) ili koristite standardne kanale za podršku.
+1. Ako to još niste učinili, otvorite novi prozor preglednika i [prijavite se na portal Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Pomaknite se do **oštrice Azure Information Protection.** Na izborniku središte, primjerice, kliknite **Svi servisi i** počnite **upisivati informacije** u okvir Filtar. Odaberite **Azure Information Protection**. Ako još niste pristupili oštrici Azure Information Protection, [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) pogledajte dodatne korake za dodavanje ove oštrice na portal. Da biste otvorili oštricu Azure Information Protection, morate imati plan [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) ili plan sustava Office 365 koji obuhvaća upravljanje pravima. Ako imate jednu od tih pretplata, ali vidite poruku da nije moguće pronaći valjanu pretplatu, obratite se [Microsoftovoj](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) podršci ili koristite standardne kanale podrške.
 
-2. Pronađite mogućnosti izbornika **Upravljanje** , a zatim odaberite **Zaštita**. Kliknite **Aktiviraj**, a zatim potvrdite akciju. Kada aktivacija bude dovršena, ta će se informacijska traka prilikom aktivacije prikazati **uspješno dovršena**.
+2. Pronađite mogućnosti **izbornika Upravljanje** i odaberite **Aktivacija zaštite**. Kliknite **Aktiviraj**, a zatim potvrdite akciju. Kada aktivacija završi, informativna traka prikazuje uspješno **dovršenu aktivaciju.**
 
-**Migracija naljepnica s zaštitom servisa Azure na servisu Office 365 Security & centar za usklađenost**
+**Migriranje naljepnica za Azure Information Protection u centar za sigurnost sustava Office 365 & za usklađenost**
 
 1. Provjerite jeste li prijavljeni kao korisnik s dozvolom globalnog administratora.
 
-2. Dođite do noža za **zaštitu podataka za Azure** .
+2. Pomaknite se do **oštrice Azure Information Protection.**
 
-3. Na **stranici Upravljanje** izbornikom odaberite **sjedinjeno označavanje**.
+3. Na **izborniku Upravljanje** odaberite **Sjedinjeno označavanje**.
 
-4. Na stranici za **zaštitu od Azure – jedinstven** okvir za označavanje kliknite **Aktiviraj** , a zatim slijedite upute na internetu.
+4. Na **alatu Azure Information Protection - Unified labeling** blade (Sjedinjeno **označavanje) kliknite Aktiviraj** i slijedite mrežne upute.
 
-**Pažnja**: Provjerite imate li odgovarajuće dozvole prije aktiviranja migracije centra za sigurnost &. Dodatne informacije potražite u sljedećim člancima:
+**Napomena:** provjerite imate li odgovarajuće dozvole prije aktivacije migracije centra za & usklađenosti. Dodatne informacije potražite u ovim člancima:
 
-1. [Morate li biti globalni administrator da biste konfigurirali zaštitu za informacije o Azure ili mogu li delegirati drugim administratorima?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
+1. [Morate li biti globalni administrator da biste konfigurirali Azure Information Protection ili mogu delegirati drugim administratorima?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
 
-2. [Važne informacije o administratorskim ulogama nakon migracije u centar za sigurnost & usklađenosti.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
+2. [Važne informacije o administrativnim ulogama nakon migracije u centar za & usklađenost.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
 
-Dodatne informacije o programu AIP za sjedinjenje označavanja migracije u centar za sigurnost i usklađenost potražite u članku [migracija naljepnica](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
+Dodatne informacije o migraciji AIP-a u sjedinjeno označavanje u centar za sigurnost i usklađenost potražite u [članku Migracija naljepnica](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
