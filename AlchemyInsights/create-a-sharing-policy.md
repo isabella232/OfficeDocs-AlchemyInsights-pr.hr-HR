@@ -1,44 +1,45 @@
 ---
-title: Stvaranje pravila zajedničkog korištenja da biste korisnicima omogućili zajedničko korištenje kalendara s osobama izvan tvrtke ili ustanove
+title: Stvorite pravilnik zajedničkog korištenja kako biste dopustili korisnicima da dijele kalendar s osobama izvan vaše tvrtke ili ustanove
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: cb2c0af55f4f8833709b6952d3a6e2ac258ce5fc
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
-ms.translationtype: MT
+ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862041"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816264"
 ---
-# <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Stvaranje pravila zajedničkog korištenja da biste korisnicima omogućili zajedničko korištenje kalendara s osobama izvan tvrtke ili ustanove
+# <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Stvorite pravilnik zajedničkog korištenja kako biste dopustili korisnicima da dijele kalendar s osobama izvan vaše tvrtke ili ustanove
 
-1. Na nadzornoj ploči centra za administratore sustava Microsoft 365 idite na **Administrator**  >  **Exchange**.
-2. Idite na zajedničko korištenje **tvrtke ili**  >  **ustanove**.
-3. U prikazu popisa u **odjeljku Pojedinačno zajedničko korištenje**kliknite **Novo** .
-4. U **novom pravilniku o zajedničkom korištenju**upišite neslužbeni naziv pravila zajedničkog korištenja u okvir **Naziv pravila.**
-5. Kliknite **Dodaj** da biste definirali pravila zajedničkog korištenja za pravilo.
-6. U **pravilu za zajedničko korištenje**odaberite jednu od sljedećih mogućnosti s kojima želite odrediti domene s kojima želite zajednički koristiti:
-    - **Dijeljenje sa svim domenama**
+1. S nadzorne ploče Centra za administratore okruženja Microsoft 365 idite na **Administrator** > **Exchange**.
+2. Idite na **zajedničko korištenje** > **među tvrtkama i ustanovama**.
+3. U prikazu popisa, pod **Pojedinačno zajedničko korištenje**, kliknite **Novo**.
+4. U **novom pravilniku zajedničkog korištenja**, upišite neslužbeni naziv za pravilnik zajedničkog korištenja u okvir **Naziv pravilnika**.
+5. Kliknite **Dodaj** za definiranje pravila zajedničkog korištenja za ovaj pravilnik.
+6. U **pravilu zajedničkog korištenja**, odaberite jednu od sljedećih mogućnosti kako biste odredili domene koje želite zajednički koristiti sa:
+    - **Zajedničko korištenje sa svim domenama**
     - **Zajedničko korištenje s određenom domenom**
-8. Ako odaberete **Zajedničko korištenje s određenom domenom,** upišite naziv domene s kojima želite zajednički koristiti. Ako trebate unijeti više domena za ovo pravilo zajedničkog korištenja, spremite postavke za prvu domenu, a zatim uredite pravila zajedničkog korištenja da biste dodali više domena.
-9. Da biste odredili informacije koje se mogu zajednički koristiti, potvrdite okvir **Zajednički koristi mapu kalendara,** a zatim odaberite jednu od sljedećih mogućnosti:
-    - **Informacije o slobodnom/zauzetom vremenu kalendara samo s vremenom**
-    - **Informacije o slobodnom/zauzetom vremenu u kalendaru s vremenom, predmetom i lokacijom**
-    - **Sve informacije o obvezi u kalendaru, uključujući vrijeme, predmet, lokaciju i naslov**
-11. Kliknite **spremi** da biste postavili pravila pravila zajedničkog korištenja.
-12. Ako želite postaviti ovo pravilo zajedničkog korištenja kao novo zadano pravilo zajedničkog korištenja za sve korisnike u tvrtki ili ustanovi, potvrdite okvir **Postavi ovo pravilo kao zadano pravilo zajedničkog korištenja.**
-13. Kliknite **spremi** da biste stvorili pravilo zajedničkog korištenja.  
+8. Ako odaberete **Zajedničko korištenje s određenom domenom**, upišite naziv domene koju želite zajednički koristiti. Ako želite unijeti više od jedne domene za ovaj pravilnik zajedničkog korištenja, spremite postavke za prvu domenu, zatim uredite pravila zajedničkog korištenja kako biste dodali još domena.
+9. Da biste specificirali informacije koje se mogu zajednički koristiti, odaberite potvrdni okvir **mapa Zajedničko dijeljenje kalendara** te potom jednu od sljedećih opcija:
+    - **Podaci o dostupnosti/zauzetosti iz kalendara samo s vremenom**
+    - **Podaci o dostupnosti/zauzetosti iz kalendara s vremenom, predmetom i mjestom**
+    - **Svi podaci o obavezama iz kalendara, uključujući vrijeme, predmet, mjesto i naslov**
+11. Kliknite **spremi** kako biste postavili pravila za pravilnik zajedničkog korištenja.
+12. Ako želite postaviti ovaj pravilnik zajedničkog korištenja kao novi zadani pravilnik zajedničkog korištenja u vašoj tvrtki ili ustanovi, odaberite potvrdni okvir **Neka ovaj pravilnik bude moj zadani pravilnik zajedničkog korištenja**.
+13. Kliknite **Spremi** da biste stvorili pravilnik zajedničkog korištenja.  
 
-**Za potpuno razumijevanje ove teme molimo pročitajte:**
+**Za potpuno razumijevanje ove teme pročitajte:**
 
-- [Stvaranje pravila zajedničkog korištenja u sustavu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
-- [Primjena pravila zajedničkog korištenja na poštanske sandučiće u sustavu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
-- [Izmjena, onemogućivanje ili uklanjanje pravila zajedničkog korištenja u sustavu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
+- [Stvorite pravilnik zajedničkog korištenja u programu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
+- [Primijeni pravilnik zajedničkog korištenja na poštanske sandučiće u programu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
+- [Izmijeni, onemogući ili ukloni pravilnik zajedničkog korištenja u programu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)

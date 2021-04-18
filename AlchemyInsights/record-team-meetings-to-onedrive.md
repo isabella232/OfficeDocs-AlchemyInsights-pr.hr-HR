@@ -1,8 +1,8 @@
 ---
-title: Sastanci u timovima na servisu OneDrive
+title: Snimke sastanaka u aplikaciji Teams na servisu OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003835"
 - "6853"
-ms.openlocfilehash: 04fcefaa0965129ba577af85615e762fb32ca64c
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
-ms.translationtype: MT
+ms.openlocfilehash: 9a0b610ed3101cef90c9685f5ca34c6245e86ae9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807218"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810260"
 ---
-# <a name="teams-meeting-recordings-to-onedrive"></a>Sastanci u timovima na servisu OneDrive
+# <a name="teams-meeting-recordings-to-onedrive"></a>Snimke sastanaka u aplikaciji Teams na servisu OneDrive
 
-Microsoftovi timovi imaju novu metodu spremanja snimaka sastanka. Kao prva faza prijelaza iz klasičnih Microsoftova strujanja u [novi Stream](https://docs.microsoft.com/stream/streamnew/new-stream), ova metoda pohranjuje snimke na servisu Microsoft OneDrive za tvrtke i SharePoint u programu Microsoft 365 i nudi mnoge pogodnosti.  
+Microsoft Teams ima novu metodu za spremanje snimki sastanka. Kao prva faza prijelaza s klasičnog servisa Microsoft Stream na [novi Stream](https://docs.microsoft.com/stream/streamnew/new-stream), ova metoda pohranjuje snimke na servisu Microsoft OneDrive za tvrtke i SharePoint u okruženju Microsoft 365 i nudi mnoge pogodnosti.  
 
-- [Postavljanje mogućnosti snimanja sastanka za OneDrive za tvrtke i SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
-- [Isključivanje servisa OneDrive za tvrtke i sustava SharePoint radi nastavka korištenja strujanja](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
+- [Postavite opciju snimanja sastanka za servis OneDrive za tvrtke i SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
+- [Isključite servise OneDrive za tvrtke i SharePoint kako biste nastavili upotrebljavati Stream](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
 - [Najčešća pitanja](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#frequently-asked-questions)
