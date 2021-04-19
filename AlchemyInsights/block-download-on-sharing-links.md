@@ -1,25 +1,26 @@
 ---
-title: Blokiranje preuzimanja na vezama za zajedničko korištenje
+title: Blokiranje preuzimanja veza za zajedničko korištenje
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 8cb53754125cedf4a3d0426d6c3bf70297eb3d74
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: a3641d96029154921a98502c5eb9b2f2bf668588
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357448"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820242"
 ---
-# <a name="block-download-on-sharing-links"></a>Blokiranje preuzimanja na vezama za zajedničko korištenje
+# <a name="block-download-on-sharing-links"></a>Blokiranje preuzimanja veza za zajedničko korištenje
 
-**Blokiranje preuzimanja** dostupno je za **veze samo** za prikaz na dokumente sustava Office. Kada odaberete tu mogućnost, osobe koje dobiju pristup datoteci putem veze koju ste stvorili neće vidjeti mogućnosti za preuzimanje, ispis ili kopiranje datoteke.
+Kada stavke zajednički koristite s drugim korisnicima na servisu OneDrive ili u sustavu SharePoint, možete im dati pristup prikazu, ali ne i preuzimanju.
 
-Administratori mogu kontrolirati pojavljuje li se postavka "block download" samo za datoteke sustava Office ili ne promjenom `BlockDownloadLinksFileType` postavke u cmdletima [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) ili [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell.
+Dodatne informacije potražite u članku Blokiranje [preuzimanja datoteka samo za prikaz u sustavu SharePoint i servisu OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
