@@ -1,30 +1,31 @@
 ---
-title: Pomoć za SPFx stranice i web-dijelove
+title: Pomoć sa stranicama SPFx i web-dijelovima
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: ce8842f1ea52501bde125812d7ed864f71a9e7f1
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44568990"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811520"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>Pomoć za SPFx stranice i web-dijelove
+# <a name="help-with-spfx-pages-and-web-parts"></a>Pomoć sa stranicama SPFx i web-dijelovima
 
-SPFx je podržan samo putem Microsoftove podrške za razvojne programere. Tim proizvoda sustava SharePoint odgovara zajednici razvojnih programera na nekoliko kanala.
+SPFx se podržava samo putem podrške za razvojne inženjere za Microsoft. Proizvodni tim sustava SharePoint odgovara zajednici razvojnih inženjera iz više kanala.
 
-- [Programska pitanja](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) mogu se poslati **GitHub sp- dev- docs** ili **Stack Overflow**.
-- [Dokumentacija greške](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) mogu biti poslane **GitHub**.
-- [Ogledne aplikacijske greške](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) mogu se poslati **GitHubu**.
-- [Zahtjevi za značajkom](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests) mogu se poslati korisnikuVoice.
+- [Pitanja o programiranju](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) mogu se poslati u **GitHub sp-dev-docs** ili **Prelijevanje stoga**.
+- [Dokumentacijske pogreške](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) mogu se poslati u **GitHub**.
+- [Uzorci pogrešaka u aplikacijama](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) mogu se poslati u **GitHub**.
+- [Zahtjevi za značajke](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests) mogu se poslati u UserVoice.
 
-Dodatne resurse razvojnog programera potražite u [odjeljku Povratne informacije & podrške](https://docs.microsoft.com/sharepoint/dev/support-feedback)
+Dodatne resurse za razvojne inženjere potražite u članku [Podrška i povratne informacije](https://docs.microsoft.com/sharepoint/dev/support-feedback)

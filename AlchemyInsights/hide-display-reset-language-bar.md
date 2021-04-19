@@ -1,39 +1,40 @@
 ---
-title: Sakrivanje, prikaz ili ponovno postavljanje jezične trake
+title: Skrivanje, prikaz ili vraćanje jezične trake na izvorne postavke
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002950"
 - "5647"
-ms.openlocfilehash: 59a98fb7d04e1eab030e5f9c50d4b29346e9a2b6
-ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
+ms.openlocfilehash: 73b567797447635df5b6be960cf3152e2d8741d0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44264336"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811484"
 ---
-# <a name="hide-display-or-reset-the-language-bar"></a>Sakrivanje, prikaz ili ponovno postavljanje jezične trake
+# <a name="hide-display-or-reset-the-language-bar"></a>Skrivanje, prikaz ili vraćanje jezične trake na izvorne postavke
 
-**Da biste minimizirali jezičnu traku:**
+**Da biste smanjili jezičnu traku:**
 
-U gornjem desnom kutu jezične trake možete kliknuti gumb za minimiziranje. Ili možete samo povući jezičnu traku na programsku traku, koja će je automatski minimizirati.
+Možete kliknuti gumb za minimiziranje u gornjem desnom kutu jezične trake. Ili možete jednostavno povući jezičnu traku na programsku traku, čime će se ona automatski minimizirati.
 
 ![Minimiziranje jezične trake](media/minimize-language-bar.png)
 
-**Da biste izašli iz jezične trake:**
+**Da biste odvojili jezičnu traku:**
 
-Ako ne želite usidriti jezičnu traku na programskoj traci, desnom tipkom miša kliknite prazan prostor na programskoj traci i poništite mogućnost **Jezična traka** na izborniku Alatne trake. To će učiniti da se jezična traka pojavi izvan programske trake, baš kao i prethodna snimka zaslona.
+Ako jezičnu traku ne želite usidriti i programskoj traci, kliknite desnom tipkom miša bilo koji prazan prostor na programskoj traci i odznačite mogućnost **Jezična traka** u izborniku Alatne trake. Time će se jezična traka prikazati izvan programske trake, baš kao na prethodnoj snimci zaslona.
 
-![Skočna jezična traka](media/pop-out-language-bar.png)
+![Odvajanje jezične trake](media/pop-out-language-bar.png)
 
-**Da biste jezičnu traku vratili na zadano:**
+**Da biste vratili jezičnu traku na zadane vrijednosti:**
 
-Desnom tipkom miša kliknite gumb jezika na alatnoj traci, a zatim na izborniku kliknite Vrati mogućnost **jezične trake.** Time će se vratiti na zadano.
+Kliknite desnom tipkom miša na gumb za jezik u alatnoj traci i kliknite mogućnost **Vraćanje jezične trake** u izborniku. Time će se ona vratiti na zadane postavke.
 
 ![Vraćanje jezične trake](media/restore-language-bar.png)

@@ -1,35 +1,36 @@
 ---
-title: Omogućivanje otvaranja naslijeđenih dijaloga ugradnjom
+title: Omogućivanje ugrađivanja naslijeđenih dijaloških okvira radi otvaranja izvješća
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002931"
 - "5612"
-ms.openlocfilehash: ca0894849e95fd69acd2065c3f065547231a07f9
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: c8a5634d5d79cbd584284b675e5db4e448a0d157
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44204652"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814256"
 ---
-# <a name="enable-embedding-legacy-dialogs-to-open-reports"></a>Omogućivanje otvaranja naslijeđenih dijaloga ugradnjom
+# <a name="enable-embedding-legacy-dialogs-to-open-reports"></a>Omogućivanje ugrađivanja naslijeđenih dijaloških okvira radi otvaranja izvješća
 
 **Simptom**
 
-Korisnici ne mogu otvoriti izvješća. "Nešto je pošlo po zlu. Provjerite tehničke detalje za više detalja."
+Korisnici ne mogu otvarati izvješća. "Nešto nije u redu. Dodatne pojedinosti potražite u tehničkim pojedinostima."
 
-**Uzrokovati**
+**Uzrok**
 
-Izvješća se ne učitavaju u UCI s pogreškom "Opisnik obrasca je null ili nije definiran." Izvješća u UCI-ju i dalje zahtijevaju naslijeđene dijaloge, tako da klijentov sustav mora omogućiti omogućeno *nasljeđivanje dijagnoze.*
+Izvješća se ne mogu učitati u UCI uz pogrešku "Opisnik obrasca ima vrijednost null ili nije definirana". Izvješća u UCI-jem i dalje zahtijevaju naslijeđene dijaloški okvire, pa klijentov sustav mora *omogućiti omogućivo* omogućivo stvaranje sustava.
 
 **Rješenje**
 
-1. Idite na **karticu Postavke >administracije > postavke sustava > Općenito**.
+1. Otvorite **Postavke >Administracija > postavke sustava > općenito**.
 
-2. Postavite "Omogući ugrađivanje određenih naslijeđenih dijaloga u klijentu preglednika objedinjenog sučelja" na **Da**.
+2. Postavite "Enable embedding of certain legacy dialogs in Unified Interface browser client" (Omogući ugrađivanje određenih naslijeđenih dijaloških okvira u klijentu preglednika sjedinjenog sučelja) na **Da**.
