@@ -1,25 +1,26 @@
 ---
-title: Nije moguće vidjeti klizač
+title: Klizač se ne može vidjeti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002966"
 - "5671"
-ms.openlocfilehash: 538bc0e9248c1aee67186b747fd0391e54aca6a9
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: eeb70a329ce185d0056363191a04b83b6030f908
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44268878"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819540"
 ---
-# <a name="cannot-see-the-scroll-bar"></a><span data-ttu-id="a19d7-102">Nije moguće vidjeti klizač</span><span class="sxs-lookup"><span data-stu-id="a19d7-102">Cannot see the scroll bar</span></span>
+# <a name="cannot-see-the-scroll-bar"></a><span data-ttu-id="60fa2-102">Klizač se ne može vidjeti</span><span class="sxs-lookup"><span data-stu-id="60fa2-102">Cannot see the scroll bar</span></span>
 
-<span data-ttu-id="a19d7-103">U Outlook.com klizač postaje vidljiv samo kada se miš nalazi u oknu mape.</span><span class="sxs-lookup"><span data-stu-id="a19d7-103">In Outlook.com, the scroll bar only becomes visible when the mouse is in the folder pane.</span></span>
+<span data-ttu-id="60fa2-103">U Outlook.com, klizač postaje vidljiv samo kada se miš nalazi u oknu s mapama.</span><span class="sxs-lookup"><span data-stu-id="60fa2-103">In Outlook.com, the scroll bar only becomes visible when the mouse is in the folder pane.</span></span>
 
-![Klizač ulazne pošte na prijelazu miša](media/16353_mouse_over_inbox_scrollbar-225x292.gif)
+![Klizač ulazne pošte s pokazivačem miša](media/16353_mouse_over_inbox_scrollbar-225x292.gif)
