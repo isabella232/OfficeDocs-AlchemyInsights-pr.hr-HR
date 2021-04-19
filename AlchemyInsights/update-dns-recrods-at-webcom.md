@@ -1,26 +1,27 @@
 ---
-title: Ažuriranje DNS zapisa na Web.com
+title: Ažuriranje DNS zapisa na servisu Web.com
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5808"
-ms.openlocfilehash: bbfbdf26a884c2daba819a0e5cb4152f5764e5d6
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 7cf4e49b35efb29076abb2bb02ca83156ec41cef
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650314"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827501"
 ---
-# <a name="update-dns-records-at-webcom"></a><span data-ttu-id="5479f-102">Ažuriranje DNS zapisa na Web.com</span><span class="sxs-lookup"><span data-stu-id="5479f-102">Update DNS records at Web.com</span></span>
+# <a name="update-dns-records-at-webcom"></a><span data-ttu-id="13777-102">Ažuriranje DNS zapisa na servisu Web.com</span><span class="sxs-lookup"><span data-stu-id="13777-102">Update DNS records at Web.com</span></span>
 
-<span data-ttu-id="5479f-103">Pomoću veza u nastavku ažurirajte DNS zapise.</span><span class="sxs-lookup"><span data-stu-id="5479f-103">Use the links below to help update your DNS records.</span></span>
+<span data-ttu-id="13777-103">Pomoću veza u nastavku ažurirajte DNS zapise.</span><span class="sxs-lookup"><span data-stu-id="13777-103">Use the links below to help update your DNS records.</span></span>
 
-- [<span data-ttu-id="5479f-104">Stvaranje DNS zapisa na Web.com</span><span class="sxs-lookup"><span data-stu-id="5479f-104">Create DNS records at Web.com</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com?view=o365-worldwide)
-- [<span data-ttu-id="5479f-105">Dodavanje ili uređivanje prilagođenih DNS zapisa u sustavu Office 365</span><span class="sxs-lookup"><span data-stu-id="5479f-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [<span data-ttu-id="13777-104">Stvaranje DNS zapisa na servisu Web.com</span><span class="sxs-lookup"><span data-stu-id="13777-104">Create DNS records at Web.com</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com?view=o365-worldwide)
+- [<span data-ttu-id="13777-105">Dodavanje i uređivanje prilagođenih DNS zapisa u sustavu Office 365</span><span class="sxs-lookup"><span data-stu-id="13777-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
