@@ -1,5 +1,5 @@
 ---
-title: DLP Savjeti za politiku ne funkcioniraju
+title: Savjeti za pravilnik o DLP-u ne rade
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679577"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952184"
 ---
-# <a name="dlp-policy-tip-issues"></a>Problemi s informacijama o pravilima za DLP
+# <a name="dlp-policy-tip-issues"></a>Problemi s savjetima pravilnika O DLP-u
 
 **Važno**: Tijekom ovih neočekivanih vremena poduzimamo korake kako bismo osigurali da servisi SharePoint Online i OneDrive i dalje budu široko raspoloživi – dodatne informacije potražite u [Privremene prilagodbe značajke SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**DLP Savjeti za politiku**
+Da biste konfigurirali savjete pravilnika o pravilniku za DLP u centru za & usklađenosti u načinu za potpunu provedbu, učinite sljedeće:
 
-Pri korištenju **pravilnika servisa DLP**korisnici mogu biti obaviješteni o kršenju pravilnika s **savjetima o politici**. Administratori mogu konfigurirati savjete za politiku da bi se prikazivali tijekom testiranja svojih DLP pravilnika ili kada je pravilo u potpunosti u načinu provedbe.
-  
-Da biste u centru za sigurnost i usklađenost konfigurirali savjete o pravilima na servisu DLP, učinite sljedeće:
-  
-- Provjerite jesu li na pravilu u programu DLP **omogućeni** Savjeti o politici pomoću koraka [ovdje](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Provjerite su li savjeti za pravilnik **omogućeni** u pravilu DLP-a. Upute možete vidjeti u članku [Slanje obavijesti e-poštom i prikaz savjeta o pravilniku za pravilnike o DLP-u](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- Pobrinite se da **sadržaj odgovara** onome što je **potrebno** da bi se pokrenulo pravilo navedeno u [ovom članku.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Provjerite podudara li se sadržaj s onim što je potrebno da bi se pokrenulo pravilo navedeno u [definicijama entiteta vrste osjetljivih informacija](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
-- Savjeti za pravila prikazuju se i u servisu OWA i u programu Outlook. No kada koristite **Outlook 2013 ili noviji**, Savjeti za politiku prikazuju se samo u određenim uvjetima. Ovdje su navedeni uvjeti: [podržani uvjeti za Outlook 2013 ili noviji za prikaz savjeta o politici](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Savjeti za pravilnik prikazuju se u aplikaciji OWA i u programu Outlook. No prilikom korištenja programa Outlook 2013 ili novije verzije savjeti za pravilnik prikazuju se samo u određenim uvjetima. Popis određenih uvjeta pogledajte u odjeljku [Podržani uvjeti za Outlook 2013 ili](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)noviju za prikaz savjeta o pravilniku .
 
-Dodatne informacije o savjetima o pravilima programa DLP potražite u članku: [Prikaz savjeta o politici u pravilima za DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-  
+Informacije o savjetima pravilnika O DLP-u potražite u odjeljku [DLP Policy Tips Reference](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) and [Support Matrix for DLP Policy tips](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).

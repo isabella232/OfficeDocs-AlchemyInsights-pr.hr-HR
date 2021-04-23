@@ -1,5 +1,5 @@
 ---
-title: Pravila zadržavanja u centru za administratore sustava Exchange ne funkcioniraju
+title: Pravila zadržavanja u centru za administratore sustava Exchange ne rade
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740502"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952220"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Pravila zadržavanja u centru za administratore sustava Exchange
 
-Ako želite da pokrenete automatske provjere za navedene postavke, odaberite gumb natrag < – pri vrhu ove stranice, a zatim unesite adresu e-pošte korisnika koji ima problema s pravilima zadržavanja.
+Ako želite da pokrenemo automatske provjere postavki navedenih u nastavku, odaberite gumb natrag <– pri vrhu ove stranice, a zatim unesite adresu e-pošte korisnika koji ima problema s pravilima zadržavanja.
 
- **Problem:** Novo stvorene ili ažurirane pravilnika o zadržavanju u centru za administratore sustava Exchange ne primjenjuju se na poštanske sandučiće ili se stavke ne premještaju u arhivski poštanski sandučić ili izbrisane. 
-  
- **Korijenski uzroci:**
-  
-- To je možda zato što **Pomoćnik za upravljane mape** nije procesira korisnikov poštanski sandučić. Pomoćnik za upravljane mape pokušava obraditi svaki poštanski sandučić u tvrtki ili ustanovi utemeljenoj na oblaku jednom svakih sedam dana. Ako promijenite oznaku zadržavanja ili primijenite drugo pravilo zadržavanja na poštanski sandučić, možete pričekati dok upravna mapa ne obradi poštanski sandučić, a možete i pokrenuti cmdlet Start-ManagedFolderAssistant da biste pokrenuli pomoćnik za upravljane mape da bi obradio određeni poštanski sandučić. Pokretanjem tog cmdleta korisna je provjera i otklanjanje poteškoća s pravilima zadržavanja ili oznakama zadržavanja. Dodatne informacije potražite u odjeljku [pokretanje pomoćnika za upravljanu mapu](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
-    
-  - **Rješenje:** Pokrenite sljedeću naredbu da biste pokrenuli pomoćnik za upravljane mape za određeni poštanski sandučić:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+Ako imate problema s pravilima zadržavanja u centru za administratore sustava Exchange koji se ne primjenjuju na poštanske sandučiće ili stavke koje se ne premještaju u arhivski poštanski sandučić, provjerite sljedeće:
 
-- To se može dogoditi i ako je na poštanskom sandučiću **omogućena** mogućnost **Retentionhold** . Ako je poštanski sandučić stavljen na nastavak, pravilnik o zadržavanju na poštanskom sandučiću neće biti obrađen tijekom tog vremena. Dodatne informacije o postavljanju programa RetentionHold potražite u članku [zadržavanje poštanskog sandučića na čekanju](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
-    
-    **Rješenje**
-    
-  - Provjerite status postavke RetentionHold na određenom poštanskom sandučiću u programu [Exo PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+**Korijenski uzroci:**
 
-  - Pokrenite sljedeću naredbu da biste **onemogućili** retentionhold na određenom poštanskom sandučiću:
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- **Pomoćnik za upravljane** mape nije obradio korisnikov poštanski sandučić. Pomoćnik za upravljane mape pokušava obraditi svaki poštanski sandučić u tvrtki ili ustanovi u oblaku jedanput svakih sedam dana.
 
-  - Zatim ponovno pokrenite pomoćnik za upravljane mape:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  **Rješenje:** Pokrenite pomoćnik za upravljane mape.
 
- **Upozorenje:** Ako je poštanski sandučić manji od 10 MB, pomoćnik za upravljanu mapu neće automatski obraditi poštanski sandučić.
+- **ZadržavanjeDržanje** je **omogućeno u** poštanskom sandučiću. Ako je poštanski sandučić postavljen na čuvanje, pravilnik o zadržavanju u poštanskom sandučiću neće se obraditi tijekom tog razdoblja.
+
+  **Rješenje:** Provjerite status postavke čuvanja zadržavanja i ažurirajte po potrebi. Detalje potražite u članku Čuvanje [zadržavanja poštanskog sandučića](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+ 
+**Napomena:** Ako je poštanski sandučić manji od 10 MB, pomoćnik za upravljane mape neće automatski obraditi poštanski sandučić.
  
 Dodatne informacije o pravilima zadržavanja u centru za administratore sustava Exchange potražite u članku:
-- [Oznake zadržavanja i pravila zadržavanja](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Primjena pravilnika o zadržavanju na poštanske sandučiće](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Dodavanje i uklanjanje oznaka zadržavanja](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Prepoznavanje vrste držite smještenih na poštanskom sandučiću](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+
+- [Oznake zadržavanja i pravilniki o zadržavanju](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+
+- [Primjena pravilnika o zadržavanju na poštanske sandučiće](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) [ili Dodavanje ili uklanjanje oznaka zadržavanja](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+
+- [Kako prepoznati vrstu zadržavanja koja se nalazi na poštanskom sandučiću](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
