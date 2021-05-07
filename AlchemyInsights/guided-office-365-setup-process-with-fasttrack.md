@@ -1,5 +1,5 @@
 ---
-title: Vođeni postupak postavljanja sustava Office 365 uz FastTrack
+title: Vođeni Office 365 postavljanje pomoću aplikacije FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6939"
-ms.openlocfilehash: 563d6c252740f577d9093febf2985f3cb65662e1
-ms.sourcegitcommit: c0b8e17c8696632e321e69b617aaff2958201e9b
+- "9419"
+ms.openlocfilehash: 4b8006959728192ba97fd1770f0caa71aaf7ca53
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194468"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233742"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>Vođeni postupak postavljanja sustava Office 365 uz FastTrack
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>Vođeni Office 365 postavljanje pomoću aplikacije FastTrack
 
-Ako imate pravo na pomoć za FastTrack za Office 365, možete zatražiti pomoć putem portala. Ako tražite samousmjernu pomoć ili upute od partnera, naši čarobnjaci za postavljanje sustava Office 365 ili kvalificirani partner mogu vam pomoći u tom postupku.
+Ako ispunjavate uvjete za Office 365 FastTrack, možete zatražiti pomoć putem portala. Ako tražite pomoć ili smjernice od partnera, naši Office 365 za postavljanje ili kvalificirani partner mogu vam pomoći u postupku.
 
-1. Da biste potražili pomoć putem portala FastTrack, prijavite se na [portal FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) i slijedite korake da biste dovršili zahtjev za pomoć u obrascu Microsoft 365.
+- Da biste dobili pomoć putem portala FastTrack, prijavite se na [fasttrack portal](https://go.microsoft.com/fwlink/?linkid=2125443) i slijedite korake da biste dovršili obrazac Zahtjev za Microsoft 365 pomoći.
 
     > [!NOTE]
-    > Ako imate problema s prijavom ili vam je potrebna dodatna pomoć, pošaljite poruku e-pošte u [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+    > Ako imate problema s prijavom ili vam je potrebna dodatna pomoć, pošaljite poruku e-pošte [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
 
-2. Za samousmjerenje pomoći za Office 365 potražite u članku [smjernice za postavljanje](https://go.microsoft.com/fwlink/?linkid=2125827).
-3. Da biste pronašli davatelja rješenja, pročitajte članak tražim [davatelja rješenja](https://go.microsoft.com/fwlink/?linkid=2125918).
+- Upute za samostalnu pomoć za Office 365, pogledajte [upute za postavljanje](https://go.microsoft.com/fwlink/?linkid=2125827).
+- Da biste pronašli davatelja rješenja, [pogledajte tražim davatelja rješenja.](https://go.microsoft.com/fwlink/?linkid=2125918)

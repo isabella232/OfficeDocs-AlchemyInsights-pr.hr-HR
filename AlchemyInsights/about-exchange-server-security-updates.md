@@ -1,5 +1,5 @@
 ---
-title: O sigurnosnim ažuriranjima sustava Exchange Server
+title: O Exchange Server ažuriranjima
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726519"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233454"
 ---
-# <a name="about-exchange-server-security-updates"></a>O sigurnosnim ažuriranjima sustava Exchange Server
+# <a name="about-exchange-server-updates"></a>O Exchange Server ažuriranjima
 
-Microsoft je objavio niz kritičnih sigurnosnih ažuriranja za lokalno Exchange Server. Primijenjenih poslužitelja verzije su bilo koje ažuriranje razina sustava Exchange Server 2010, 2013, 2016 i 2019. Exchange Online nije utjecao, ali ako imate neke lokalne poslužitelje sustava Exchange zbog hibridne konfiguracije, potencijalno su ranjivi.
+Microsoft obično Exchange Server ažuriranja u utorak (sigurnosna ažuriranja) ili kvartalno (kumulativna ažuriranja). Da biste vidjeli najave objavljenih najnovijih objavljenih ažuriranja, pogledajte članak [Exchange Timski blog](https://aka.ms/ehlo).
 
-Pročitajte sljedeće priopćenje za mjesto popravaka: [Objavljeno: ožujak 2021 Exchange Server Security Update](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Da biste Exchange poslužitelje, [koristite skriptu Exchange Server provjere stanja (GitHub koristite najnovije izdanje).](https://aka.ms/ExchangeHealthChecker) Pokretanje ove skripte govori vam je li neki od Exchange poslužitelji zaoštećili ažuriranja (CU-ove i SU-ove).
 
-**Važne napomene:**
+- Da biste se ažurirali na najnovije kumulativno ažuriranje, [idite Exchange čarobnjaka](https://aka.ms/ExchangeUpdateWizard) za ažuriranje i odaberite trenutno pokrenutu e-verziju i ciljani CU. Odaberite **Recite mi korake da** biste dobili upute za svoje okruženje.
 
-Ako instalirate ažuriranja ručno, pročitajte odjeljak "poznati problemi" za članke iz servisa Update KB za važne informacije. Sigurnosno se ažuriranje mora pokrenuti s povišenim CMD/PowerShell upita!
-
-Ažuriranje podataka o otklanjanju poteškoća možete [pronaći ovdje](https://aka.ms/exupdatefaq).
+- Ako naiđete na pogreške tijekom ili nakon instalacije Exchange Server ažuriranja, pogledajte popravak [neuspjelih instalacija sustava Exchange kumulativna i sigurnosna ažuriranja](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues).

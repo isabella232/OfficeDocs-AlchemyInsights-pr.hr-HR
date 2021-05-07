@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896859"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261584"
 ---
 # <a name="canceling-your-subscription"></a>Otkazivanje pretplate?
 
-Žao nam je što odlazite, ali ako želite otkazati pretplatu, evo vam mogućnosti:
+Žao nam je što odlazite, ali ako želite otkazati pretplatu, evo vaših mogućnosti:
   
-- Ako imate manje od 25 dodijeljenih licenci, možete otkazati pretplatu na internetu. Idite na stranicu **naplata** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** i pronađite pretplatu koju želite otkazati. Odaberite **Dodatne akcije** (tri točkice), a zatim **poništite pretplatu**.
-- Ako imate više od 25 licenci dodijeljenih korisnicima, [pozovite podršku da biste odustali od pretplate](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- Ako imate manje od 25 dodijeljenih licenci, pretplatu možete otkazati putem interneta. Idite na **stranicu** \> **[Naplata](https://go.microsoft.com/fwlink/p/?linkid=842054)** proizvoda i pronađite pretplatu koju želite otkazati. Odaberite **Dodatne akcije** (tri točke), a zatim Odustani **od pretplate**.
+- Ako imate više od 25 licenci dodijeljenih korisnicima, nazovite [podršku da biste otkazali pretplatu](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
   
-**Povrat novca: u sljedećem ciklusu naplate prikazat će vam se svaki prorećeni kredit.**
+**Povrat novca: svi će vam se procijenjeni krediti vratiti u sljedećem ciklusu naplate.**
 
 > [!NOTE]
-> Ako ne vidite mogućnost otkaza, odaberite pretplatu da biste pregledali stranicu s pojedinostima. U odjeljku **postavke pretplate i plaćanja** odaberite Odustani od **pretplate**.
+> Ako ne vidite mogućnost otkazivanja, odaberite pretplatu da biste pogledali stranicu s detaljima. U **odjeljku Postavke pretplate i plaćanja** odaberite **Otkaži pretplatu**.
 
-Dodatne informacije potražite u članku [otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

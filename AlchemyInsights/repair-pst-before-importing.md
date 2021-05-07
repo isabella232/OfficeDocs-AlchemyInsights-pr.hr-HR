@@ -1,5 +1,5 @@
 ---
-title: Popravak. pst datoteke prije uvoza
+title: Popravak .pst ili .ost datoteka
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,25 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 1ed37192a6b054b745fd48fbc01a6b00fa7074ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b6f3d55d69ce0664fa6316c6879ade9849d5950
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799088"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233706"
 ---
-# <a name="repair-pst-file-before-importing"></a>Popravak. pst datoteke prije uvoza
+# <a name="repair-pst-or-ost-files"></a>Popravak .pst ili .ost datoteka
 
-Prije uvoza. pst datoteke u programu Outlook provjerite nije li datoteka oštećena popravkom datoteke:
+Provjerite nije li datoteka oštećena popravkom datoteke:
 
-1. Izađite iz programa Outlook.
+1. Izađite Outlook.
 
-2. Pronađite i pokrenite `Scanpst.exe` mapu programa sustava Office (C:\Program Files (x86) \Microsoft office\root\office \<Version\> ili C:\Program Files\microsoft office\root\office \<Version\> ).
+2. Pronađite i pokrenite u `Scanpst.exe` mapi programa Office (C:\Program Files (x86)\Microsoft Office\root\Office \<Version\> ili C:\Program Files\Microsoft Office\root\Office \<Version\> ).
 
-3. U **alatu za popravak ulazne pošte u programu Microsoft Outlook**kliknite **Pregledaj** da biste pronašli. pst datoteku (primjerice, u programu C:\Users \\<username \> \Appdata\local\microsoft\outlook). Odaberite. pst datoteku, a zatim kliknite **Otvori**.
+3. U **alatu za popravak ulazne** pošte  sustava Microsoft Outlook kliknite Pregledaj da biste pronašli .pst ili .ost datoteku (na primjer, u aplikaciji C:\Korisnici \\<korisničko ime \> \AppData\Local\Microsoft\Outlook). Odaberite datoteku, a zatim **kliknite Otvori**.
 
-4. Kliknite **Start** da biste započeli skeniranje.
+4. Kliknite **Start da** biste započeli skeniranje.
 
-5. Ako u datoteci pronađete pogreške, kliknite **Popravi**, a zatim u **redu** kada dovršite popravak.
+5. Ako se u datoteci nalaze pogreške, kliknite **Popravi**, a zatim U **redu** kada popravak završi.
 
-6. Pokušajte ponovno uvesti. pst datoteku u programu Outlook.
-
-Dodatne informacije potražite u članku [popravak podatkovnih datoteka programa Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) i [Otklanjanje poteškoća prilikom uvoza datoteke programa Outlook. pst](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+Dodatne informacije potražite u članku [Popravak Outlook podatkovnih](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) datoteka i Rješavanje problema [prilikom uvoza Outlook .pst datoteke](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).

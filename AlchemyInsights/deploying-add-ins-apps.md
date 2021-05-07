@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52124842"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233509"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Implementacija dodataka za Microsoft 365 Apps
 
 Centralizirana implementacija preporučeni je način implementacije Office dodataka korisnicima i grupama u tvrtki ili ustanovi. Da biste implementirati dodatke, slijedite korake u nastavku:
 
-**Napomena:** Da biste instalirali dodatke za Office kao pojedinačnog korisnika, pogledajte prikaz dodataka, upravljanje njima i [instalaciju Office programima](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d). Osim toga, provjerite je li omogućeno Office pojedinačnih dodataka trgovine Store. 
+**Napomena:** Da biste instalirali dodatke za Office kao pojedinačnog korisnika, pogledajte prikaz dodataka, upravljanje njima i [instalaciju Office programima](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d). Osim toga, provjerite je li omogućeno Office pojedinačnih dodataka trgovine Store. Detalje potražite u članku Sprječavanje preuzimanja dodataka tako da isključite Office trgovine u svim [klijentima (osim Outlook).](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)
 
 1. Provjerite ispunjava li vaše okruženje preduvjete za implementaciju dodataka pomoću centralizirane implementacije. Detalje potražite u odjeljku [Preduvjeti](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
 2. Idite **na Postavke**  >  **integrirane**  >  **aplikacije Nabavite aplikacije** u centru Microsoft 365 za administratore da biste implementirani dodatke. 
