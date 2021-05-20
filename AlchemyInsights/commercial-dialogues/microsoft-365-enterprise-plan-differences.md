@@ -1,5 +1,5 @@
 ---
-title: Razlike u programu Microsoft 365 Enterprise tarife
+title: Microsoft 365 Enterprise plan razlike
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743625"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539744"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Razlike u programu Microsoft 365 Enterprise tarife
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise plan razlike
 
-Microsoft 365 Enterprise E5 obuhvaća sve značajke sustava Microsoft 365 Enterprise E3 i napredne sigurnosne mjere kao što su:
+Microsoft 365 Enterprise E5 obuhvaća sve značajke sustava Microsoft 365 Enterprise E3 te napredne sigurnosne mjere kao što su:
 
-- Napredna zaštita od prijetnji (ATP)
+- Zaštita od prijetnji
 - Napredno upravljanje podacima
-- Klijent Lockbox
-- Sigurnost aplikacija u oblaku u programu Microsoft 365
-- Napredno otkrivanje
-- Servisi za upravljanje pravima
-- Trezor ključa Azure
+- Customer Lockbox
+- Microsoft 365 Cloud App Security
+- Advanced eDiscovery
+- Rights Management Services
+- Azure Key Vault
 
-Microsoft 365 Enterprise E5 sadrži i moćne analitičke i glasovne mogućnosti, kao što su:
+Microsoft 365 Enterprise E5 sadrži i napredne analitičke i glasovne mogućnosti, kao što su:
 
-- Nadzorne ploče u programu Live
-- Izvješća s mogućnošću Power BI
-- Moderan glas
+- Live Dashboards
+- Izvješća s dodatkom Power BI
+- Modern Voice
 - Audiokonferencije
-- Internetski sastanci
+- Mrežni sastanci
 
-Da biste saznali više o programu Microsoft 365 Enterprise E5 ili da biste se prijavili za probnu pretplatu, pročitajte članak [Pokušajte ili kupite pretplatu na microsoft 365](https://go.microsoft.com/fwlink/?linkid=2099673).
+Dodatne informacije o Microsoft 365 Enterprise E5 ili registraciji za probnu pretplatu potražite u [članku Isprobajte ili kupite Microsoft 365 pretplatu](https://go.microsoft.com/fwlink/?linkid=2099673).
 
-Da biste usporedili značajke putem poslovnih planova, pročitajte članak [Usporedba tarifa za Enterprise](https://go.microsoft.com/fwlink/?linkid=2097200).
+Da biste usporedili značajke u sklopu tarife Enterprise, pogledajte [usporedbu tarife Enterprise](https://go.microsoft.com/fwlink/?linkid=2097200).
 
-Cijenili bismo vaše povratne informacije, pa odaberite da/ne na pitanje koje će se pojaviti, a zatim Ocijenite svoje iskustvo.
+Cijenili bismo vaše povratne informacije, pa odaberite Da/Ne na pitanje koje će se pojaviti, a zatim ocijenite svoje iskustvo.

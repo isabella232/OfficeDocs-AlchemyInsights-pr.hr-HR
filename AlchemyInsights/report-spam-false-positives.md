@@ -1,5 +1,5 @@
 ---
-title: 975 želite li Microsoftu prijaviti lažnu neželjenu poruku?
+title: 975 Želite li Microsoftu prijaviti neželjenu poštu koja je lažno pozitivna?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692323"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540392"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Želite li prijaviti neželjenu poruku u programu Microsoft?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Želite li Microsoftu prijaviti neželjenu poštu koja je lažno pozitivna?
 
-Kao administrator najbolje je odrediti zašto je isporučena poruka o krađi identiteta ili neželjena pošta da biste uzorak poslali Microsoftu u [eksploreru za podnošenje dokumenata](https://protection.office.com/reportsubmission). Da biste ga pojednostavili, korisnicima možete dopustiti izvješće izravno Microsoftu putem [dodatka izvješće o poruci](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Kao administrator najbolji je način da utvrdite zašto je poruka o krađi identiteta ili neželjene pošte isporučena jest slanje uzorka Microsoftu u [eksploreru za podneske.](https://protection.office.com/reportsubmission) Da biste olakšali prijavu, korisnicima možete omogućiti da izravno izvješćuju Microsoft putem [dodatka Report Message](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-Preporučujemo oprez ako odlučite [zaobići filtre neželjene pošte za Microsoft 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+Savjetujemo oprez ako odlučite zaobići [filtre Microsoft 365 neželjene pošte](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-**Jeste li znali?**: sada možete poslati uzorke izravno iz [praćenja poruke](https://protection.office.com/messagetrace) i E5/ATP tarife 2 korisnici mogu poslati uzorke iz [eksplorera za prijetnje](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Jeste li znali?**: Sada možete [](https://protection.office.com/messagetrace) poslati uzorke izravno iz praćenja poruka i korisnici programa E5/Microsoft Defender za Office 365 Plan 2 mogu poslati uzorke iz [programa Threat Explorer](/microsoft-365/security/office-365-security/threat-explorer).
