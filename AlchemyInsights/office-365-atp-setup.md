@@ -1,5 +1,5 @@
 ---
-title: Postavljanje programa Microsoft Defender za Office 365 (ATP)
+title: Microsoft Defender za Office 365 postavljanje
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9fb4d7b85bc7bcdfc0fe82f5371213aa7470fca7
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708630"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543605"
 ---
-# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender za Office 365 (ATP)
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender za Office 365
 
-Office 365 ATP obuhvaća [sigurne privitke](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [sigurne veze](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [Napredno protu-krađu identiteta](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)i još mnogo toga. 
+Microsoft Defender za Office 365 obuhvaća [Sef ,](/microsoft-365/security/office-365-security/atp-safe-attachments) [veze Sef,](/microsoft-365/security/office-365-security/atp-safe-links) [naprednu zaštitu od krađe identiteta](/microsoft-365/security/office-365-security/atp-anti-phishing)i još mnogo toga. 
 
-ATP je uključen u pretplate, kao što su Office 365 Enterprise E5, Office 365 Education a5 i Microsoft 365 Business Premium. Ako vaša pretplata ne sadrži ATP, možete kupiti ATP kao dodatak. Dodatne informacije potražite u članku [Office 365 ATP opis servisa](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+Microsoft Defender za Office 365 obuhvaćen je pretplatama kao što su Office 365 Enterprise E5, Office 365 Education A5 i Microsoft 365 Business Premium. Ako je vaša pretplata ne uvrsti, možete je kupiti kao dodatak. Dodatne informacije potražite u članku [Microsoft Defender za Office 365 opis servisa](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 
-## <a name="set-up-office-365-atp"></a>Postavljanje sustava Office 365 ATP
+## <a name="set-up-microsoft-defender-for-office-365"></a>Postavljanje programa Microsoft Defender za Office 365
 
-Da bi zaštita za ATP bila na snazi, morate konfigurirati pravila. Pročitajte članak [Vodič za brzi početak rada: postavljanje programa Microsoft Defender za Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+Da bi Microsoft Defender Office 365 snazi, morate konfigurirati pravilnike. Pogledajte [vodič za brzi početak: Postavljanje programa Microsoft Defender za Office 365](/microsoft-365/security/office-365-security/office-365-atp).
 

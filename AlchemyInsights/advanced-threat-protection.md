@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801219"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542885"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender za Office 365
 
-- Sigurni privici, sigurne veze i anti-phishing dio su programa Microsoft Defender za Office 365 (ATP). Enterprise E5, Education a5 i Microsoft 365 Business Premium obuhvaćaju ATP. Za sve ostale planove potrebna je dodatak ATP pretplata.
+- Sef Privici, Sef veze i anti-phishing dio su programa Microsoft Defender za Office 365. Enterprise E5, Education A5 i Microsoft 365 Business Premium Microsoft Defender za Office 365. Za sve ostale tarife potreban je dodatak Microsoft Defender za Office 365 pretplatu.
 
-- Morate dodijeliti odgovarajuće licence da biste korisnicima zaštitili Office 365 ATP. Pročitajte [ovu temu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) za upute o tome kako masovno primjenjivati licence za korisnike.
+- Da biste zaštitili korisnike pomoću programa Microsoft Defender za Office 365, morate dodijeliti odgovarajuće licence. Upute [za masovnu](/microsoft-365/admin/add-users/add-users) primjenu licenci na korisnike potražite u članku Dodavanje korisnika i istodobno dodjeljivanje licenci.
 
-- Globalno administratore ili sigurnosne administratore mogu pristupati značajkama programa Office 365 ATP u centru za sigurnost & u sustavu za **Upravljanje prijetnjom managmeent** \> **Policy** .
+- Globalni administratori ili sigurnosni administratori mogu pristupati značajkama programa Microsoft Defender Office 365 u centru za usklađenost & sigurnosti u **pravilniku o upravljanju** \> **prijetnjama**.
 
-- Sigurni privici i pravila sigurne veze mogu vas uspostaviti u cijeloj tvrtki ili ustanovi, određenim domenama ili manjim grupama korisnika.
+- Sef Privici i Sef veze mogu biti obuhvaćeni cijelom vašom organizacijom, određenim domenama ili manjim grupama korisnika.
 
-- Ne postoji zadani ATP pravilnik o sigurnim privitku. Morate [stvoriti pravilo](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) i primijeniti ga na korisnike.
+- Ne postoji zadani pravilnik Sef privitka. Morate stvoriti [pravilnik i primijeniti](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) ga na korisnike.
 
-- Postoji zadana pravilnik o sigurnim vezama servisa ATP koji se primjenjuje na sve u vašoj tvrtki ili ustanovi. Da biste uredili ovo pravilo ili stvorili prilagođena pravila, pogledajte [ovu temu](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Postoji zadani pravilnik Sef veza koji se odnosi na sve u tvrtki ili ustanovi. Da biste uredili pravilnik ili stvorili prilagođene pravilnike, pogledajte članak [Postavljanje pravilnika Sef veze u programu Microsoft Defender za Office 365](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).

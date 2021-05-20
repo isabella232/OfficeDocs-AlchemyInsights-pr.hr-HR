@@ -1,5 +1,5 @@
 ---
-title: Otkazivanje napredne zaštite prijetnje
+title: Otkazivanje napredne zaštite od prijetnji
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416276"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543497"
 ---
-# <a name="cancel-advanced-threat-protection"></a>Otkazivanje napredne zaštite prijetnje
+# <a name="cancel-advanced-threat-protection"></a>Otkazivanje napredne zaštite od prijetnji
 
-Administratori mogu otkazati naprednu pretplatu na zaštitu od prijetnje za svoju tvrtku ili ustanovu u centru za administratore sustava Microsoft 365.
+Administratori mogu otkazati pretplatu Advanced Threat Protection za svoju organizaciju u centru Microsoft 365 administratora.
 
-1. Idite na stranicu **naplata**  >  [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na kartici **proizvodi** Pronađite napredni plan zaštite prijetnje koju želite otkazati. Odaberite **Dodatne akcije** (tri točkice), a zatim **poništite pretplatu**.
-3. U oknu **otkazivanje pretplate** odaberite razlog zbog kojeg otkazujete. Ako želite, navedite povratne informacije.
+1. Idite na **stranicu**  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na kartici **Proizvodi** pronađite plan Napredna zaštita od prijetnji koji želite otkazati. Odaberite tri točke (dodatne akcije), a zatim odustani **od pretplate**.
+3. U **oknu Otkazivanje** pretplate odaberite razlog otkazivanja pretplate. Ako želite, pošaljite povratne informacije.
 4. Odaberite **Spremi**.
 
-**Povrat novca:** Bilo koji proregirani kredit bit će vam vraćen unutar sljedećeg ciklusa naplate.
+**Povrat novca:** Svi procijenjeni krediti bit će vam vraćeni u sljedećem ciklusu naplate.
 
-Dodatne informacije potražite u članku [otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Dodatne informacije potražite u članku [Otkazivanje pretplate](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
