@@ -1,5 +1,5 @@
 ---
-title: 'Provjera domene '
+title: 'Potvrda domene '
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683858"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569607"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="38dc7-102">Provjera domene</span><span class="sxs-lookup"><span data-stu-id="38dc7-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="08166-102">Potvrda domene</span><span class="sxs-lookup"><span data-stu-id="08166-102">How to verify your domain</span></span>
 
-<span data-ttu-id="38dc7-103">Da biste potvrdili domenu, slijedite [Čarobnjak za dodavanje domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)ili ručno otvorite domene za **Postavljanje**  >    >  **dodajte domenu**.</span><span class="sxs-lookup"><span data-stu-id="38dc7-103">To verify a domain, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
+<span data-ttu-id="08166-103">Da biste potvrdili domenu, slijedite [čarobnjak za dodavanje domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)ili ručno idite na **Postavljanje**  >  **domena**  >  **Dodaj domenu**.</span><span class="sxs-lookup"><span data-stu-id="08166-103">To verify a domain, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard), or manually go to **Setting** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="38dc7-104">Dodatne informacije o DNS promjenama koje su potrebne za provjeru domene potražite u uputama u odjeljku [Dodavanje DNS zapisa za povezivanje domene](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="38dc7-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+<span data-ttu-id="08166-104">Dodatne informacije o promjenama DNS-a koje su potrebne za provjeru domene potražite u uputama u članku Dodavanje [DNS zapisa za povezivanje domene](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="08166-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
 
-<span data-ttu-id="38dc7-105">Pitanja o drugim domenama potražite u članku [FAQ za domene](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="38dc7-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="08166-105">Pitanja o drugim domenama potražite u [najčešćim pitanjima o domenama](/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="08166-105">For other domains questions, see the [Domains FAQ](/microsoft-365/admin/setup/domains-faq).</span></span>
