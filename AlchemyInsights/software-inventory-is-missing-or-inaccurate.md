@@ -1,5 +1,5 @@
 ---
-title: Popis softverskih zaliha nedostaje ili nije točan
+title: Softverski inventar nedostaje ili je netočan
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665278"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543956"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Popis softverskih zaliha nedostaje ili nije točan
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Softverski inventar nedostaje ili je netočan
 
-Softverska zaliha u programu Microsoft Defender ATP servisa nudi naziv proizvoda ili dobavljača, njegov najnoviji broj verzije i otkrivene slabosti i ranjivosti. Dodatne informacije potražite u članku [inventar softvera – upravljanje prijetnjama i ranjivosti](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Inventar softvera u servisu Microsoft Defender ATP nudi naziv proizvoda ili dobavljača, njegov najnoviji broj verzije te otkriva nedostatke i slabe točke. Dodatne informacije potražite u članku [Inventar softvera – upravljanje prijetnjama i ranjivostima](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-Informacije, netočne brojeve verzija ili ispravljenost informacija o zalihama softvera možete prijaviti tako da slijedite ove korake.  
+Možete prijaviti nejasne ili nepotpune informacije, netočne brojeve verzija ili ispraviti podatke o inventaru softvera slijedeći ove korake.  
 
-1. Otvorite plamenom softvera, a zatim odaberite aplikaciju na stranici popis softverskih zaliha.
-2. Odaberite **netočnost izvješća**, a zatim u oknu za kupnju odaberite kategoriju na padajućem izborniku.
+1. Otvorite softverski letak i odaberite aplikaciju na stranici Inventar softvera.
+2. Na **padajućem izborniku** odaberite Izvješće o netočnosti, a zatim u oknu letka odaberite kategoriju.
 3. Unesite adresu e-pošte i pojedinosti o netočnosti.
 4. Odaberite **Pošalji**.</br>
-    Povratne informacije odmah će se poslati prijetnjama & ekspertima za upravljanje ranjivosti.
+    Vaše se povratne informacije odmah šalju stručnjacima za & za upravljanje ranjivošću.

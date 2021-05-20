@@ -1,5 +1,5 @@
 ---
-title: Omogućivanje sustava Office 365 ATP za SharePoint, OneDrive i Microsoftove timove
+title: Omogućivanje Office 365 ATP za SharePoint, OneDrive i Microsoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801039"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543920"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Omogućivanje programa Microsoft Defender za Office 365 za SharePoint Online, OneDrive i Microsoftove timove
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Omogućivanje programa Microsoft Defender za Office 365 za SharePoint Online, OneDrive i Microsoft Teams
 
-1. Idite na https://protection.office.com i prijavite se.
-2. Odaberite **Threat management**  >  **Policy**  >  **sigurne privitke** pravilnika za upravljanje prijetnjama.
-3. Odaberite **Uključi ATP za SharePoint, OneDrive i Microsoftove timove** , a zatim kliknite **Spremi** .
-4. Preporučuje Kao globalni administrator ili administrator sustava SharePoint Online, pokrenite cmdlet [set-Spostanar](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) uz parametar **Disallowinfectedfiledownload** postavljen na *True* .
-5. Preporučuje [Postavljanje upozorenja](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) za otkrivene datoteke.
+1. Idite https://protection.office.com na i prijavite se.
+2. Odaberite **Pravilnik upravljanja**  >    >  **prijetnjama Sef Privici**.
+3. Odaberite **Uključi Defender za Office 365 za SharePoint, OneDrive i Microsoft Teams**, a zatim kliknite **Spremi**.
+4. (Preporučeno) Kao globalni administrator ili administrator SharePoint online pokrenite [cmdlet Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) s parametrom **DisallowInfectedFileDownload** postavljenim na *true*.
+5. (Preporučeno) [Postavite upozorenja za otkrivene](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) datoteke.
 
 > [!NOTE]
-> ATP će nZa skenirati sve pojedinačne datoteke u sustavu SharePoint Online, OneDrive ili Microsoftovim timovima. Datoteke se skeniraju asinkrono, kroz postupak koji koristi zajedničko korištenje i događaje aktivnosti gosta, uz pametne heuristike i signale prijetnji za identifikaciju zlonamjernih datoteka. Pogledajte [ATP za SharePoint, OneDrive i Microsoftove timove](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+> Microsoft Defender za Office 365 neće skenirati svaku pojedinačnu datoteku u web-aplikaciji SharePoint Online, OneDrive ili Microsoft Teams. Datoteke se asinkrono skeniraju putem postupka koji koristi događaje zajedničkog korištenja i aktivnosti gostiju, kao i pametne heurističare i signale prijetnji za prepoznavanje zlonamjernih datoteka. Pogledajte [Microsoft Defender za Office 365 za SharePoint, OneDrive i Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).

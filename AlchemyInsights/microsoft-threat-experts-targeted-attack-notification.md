@@ -1,5 +1,5 @@
 ---
-title: Izvješća o napadima na Microsoftove prijetnje
+title: Microsoftovi stručnjaci za prijetnje – obavijest o ciljanom napadu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 2f93020fc3b350e1d85064e9c57de80a65814687
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714673"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545368"
 ---
-# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Izvješća o napadima na Microsoftove prijetnje
+# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoftovi stručnjaci za prijetnje – obavijest o ciljanom napadu
 
-Ciljano upozorenje o napadu jedan je od dviju mogućnosti Microsoftova stručnjaka za prijetnju. To je aktivna služba za lov na prijetnje koja omogućuje posebne uvide i analize koja olakšava utvrđivanje najkritičnijih prijetnji i brzo odgovaranje na njih.
+Ciljana obavijest o napadu jedna je od Microsoftovi stručnjaci za prijetnje mogućnosti. To je proaktivan servis za lov na prijetnje koji pruža posebne uvide i analize koje pomažu u brzom i točnom identificiranju najkritičnijih prijetnji.
 
-Ako ste klijent programa Microsoft Defender za krajnju točku, morate se primijeniti na obavijesti o napadima na Microsoftove prijetnje da bi vam se prikazale posebne spoznaje i analize koje pomažu pri otkrivanju najkritičnijih prijetnji da biste brzo mogli reagirati na njih.
+Ako ste korisnik programa Microsoft Defender za krajnju točku, morate se prijaviti za Microsoftovi stručnjaci za prijetnje – ciljane obavijesti o napadu da biste dobili posebne uvide i analize koje pomažu u prepoznavanju najkritičnijih prijetnji da biste mogli brzo odgovoriti na njih.
 
-Da biste se prijavili za Microsoftove prijetnje koje su usmjerene na upute za napade, prijeđite na **Postavke**  >  **općeg**  >  **naprednog značajke**  >  koje **predstavljaju aplikacije za koje su namijenjene stručnjaci za napade** . Kada se prihvati, dobit ćete prednosti ciljane obavijesti o napadu.
+Da biste se Microsoftovi stručnjaci za prijetnje – pogodnosti ciljanih obavijesti o napadu, **idite na Postavke**  >  **općenite** napredne značajke Microsoftovi stručnjaci za prijetnje – obavijesti o  >    >  **ciljanom napadu koje želite** primijeniti. Kada to prihvatite, dobiti ćete prednosti ciljanih obavijesti o napadu.
 
-Ciljnu obavijest o napadu možete primiti od Microsoftovih stručnjaka za prijetnje putem sljedećeg medija:
+Ciljanu obavijest o napadu možete primati Microsoftovi stručnjaci za prijetnje putem sljedećeg medija:
 
-- Stranica s incidentima portala Defender za krajnju točku
-- Nadzorna ploča za upozorenje portala za krajnju točku
-- OData uzbunjivanje API-ja i REST API-ja
-- Tablica Devicealerteje u naprednom lovu
-- Vaša e-pošta, ako je odlučite konfigurirati
+- Stranica Incidenti na portalu Defender for Endpoint
+- Nadzorna ploča Upozorenja na portalu Defender for Endpoint
+- OData alerting API i REST API
+- DeviceAlertEvents table in Advanced hunting
+- Vaša poruka e-pošte, ako je odlučite konfigurirati
 
-Da biste primili ciljane obavijesti o napadu putem e-pošte, stvorite pravilo obavijesti e-poštom. 
+Da biste primili obavijesti o ciljanom napadu putem e-pošte, stvorite pravilo obavijesti e-poštom. 
 
-Pojedinosti potražite u članku [Konfiguriranje i upravljanje mogućnostima stručnjaka za Microsoftove prijetnje](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) .
+Detalje [potražite u članku Konfiguriranje Microsoftovi stručnjaci za prijetnje upravljanje mogućnostima](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) upravljanja.

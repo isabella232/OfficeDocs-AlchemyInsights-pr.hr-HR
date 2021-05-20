@@ -1,5 +1,5 @@
 ---
-title: U centru za sigurnost nije pronađena nijedna pretplata
+title: U centru za sigurnost nije pronađena poruka o pretplatama
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 01117bc535df14533e426fd2d31c336fccc75611
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713338"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544100"
 ---
-# <a name="no-subscriptions-found-message-in-the-security-center"></a>U centru za sigurnost nije pronađena nijedna pretplata
+# <a name="no-subscriptions-found-message-in-the-security-center"></a>U centru za sigurnost nije pronađena poruka o pretplatama
 
-Ako prilikom pristupanja centru za sigurnost programa Microsoft Defender dobijete poruku "nije pronađena pretplata", to znači da je Azure Active Directory (AAD) koji se koristi za prijavu korisnika na portal nema licencu za Microsoft Defender ATP.  
+Ako prilikom pristupa Microsoft Defender Security Center poruku "Nema pronađenih pretplata", to znači da Azure Active Directory (AAD) koji se koristi za prijavu korisnika na portal nema licencu za Microsoft Defender ATP.  
 
-Licence za Windows E5 i Office E5 zasebne su licence.
+Licence Windows E5 i Office E5 zasebne su licence.
 
-Otvorite slučaj podrške ako je licenca kupljena, ali nije dodijeljena ovoj instanci AAD-a. Ili imate sljedeće: <br/>
--   Mogući problem dodjele licenci.<br/>
--   Nehotice ste dodijelili licencu drugim Microsoftovim AAD-ju od one koja se koristi za provjeru autentičnosti u servisu.
+Otvorite slučaj podrške ako je licenca kupljena, ali nije dodijeljena ovoj instanci AAD-a. Imate sljedeće: <br/>
+-   Mogući problem s dodjelom licenci.<br/>
+-   Nenamjerno ste licencu dodijeliti microsoftu AAD-u koji se razlikuje od one koja se koristi za provjeru autentičnosti u servis.

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender ATP propustio je zlonamjernu stavku
+title: Microsoft Defender ATP propustili zlonamjernu stavku
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3203"
 - "9001221"
-ms.openlocfilehash: 634f6804a7b2bfe5ffde62e972bff541fdf3ff68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c06e9b017170fd23b12b11cf0aac98b2bf53db0d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725183"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544028"
 ---
-# <a name="microsoft-defender-atp-missed-a-malicious-item"></a>Microsoft Defender ATP propustio je zlonamjernu stavku
+# <a name="microsoft-defender-atp-missed-a-malicious-item"></a>Microsoft Defender ATP propustili zlonamjernu stavku
 
-- Pošaljite zlonamjernu datoteku Microsoftu radi analize na portalu za [odgovaranje u programu Microsoft Defender](https://www.microsoft.com/wdsi/filesubmission/). 
-- Ako ste prijavljeni, pronađite Povijest slanja za datoteku na [portalu za odgovaranje u programu Microsoft Defender](https://www.microsoft.com/wdsi/submissionhistory).
-- Dodatne informacije potražite u članku [Slanje datoteka za analizu](https://docs.microsoft.com/windows/security/threat-protection/intelligence/submission-guide).
+- Pošaljite zlonamjernu datoteku Microsoftu na analizu na portalu [Microsoft Defender Response Portal](https://www.microsoft.com/wdsi/filesubmission/). 
+- Ako ste prijavljeni, na portalu za odgovor programa Microsoft Defender potražite povijest slanja [datoteke.](https://www.microsoft.com/wdsi/submissionhistory)
+- Dodatne informacije potražite u članku [Slanje datoteka radi analize](/windows/security/threat-protection/intelligence/submission-guide).

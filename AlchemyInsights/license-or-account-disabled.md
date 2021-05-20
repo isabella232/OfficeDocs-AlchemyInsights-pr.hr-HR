@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: 14ce58da129f0a16b280d4fd85a0bc28c2c0282f
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 045726996da5b409da9afe0e7b19e3f6675ade8c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286662"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544858"
 ---
 # <a name="license-or-account-disabled"></a>Onemogućena je licenca ili račun
 
@@ -25,11 +25,11 @@ Ako je vaša pretplata istekla, ako ju je onemogućio Microsoft ili ako ste je o
 
 **Ponovna aktivacija pretplate**
 
-1. U centru za administratore otvorite stranicu **naplata**  >  [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na kartici **proizvodi** Pronađite pretplatu koju želite ponovno aktivirati. Odaberite **Dodatne akcije** (tri točkice), a zatim **Ponovno aktiviraj ovu pretplatu**.
+1. U centru za administratore idite na stranicu **Naplata**  >  [proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **kartici** Proizvodi pronađite pretplatu koju želite ponovno aktivirati. Odaberite tri točke (dodatne akcije), a zatim **ponovno aktiviraj ovu pretplatu.**
     > [!NOTE]
-    > Ako ne vidite **Ponovno aktiviranje ove pretplate**, obratite se podršci.
-3. U oknu **Ponovna aktivacija ove pretplate** odaberite način plaćanja na padajućem popisu ili odaberite **Dodaj način plaćanja**.
+    > Ako vam se ne vidi **Ponovna aktivacija pretplate, obratite se** podršci.
+3. U **oknu Ponovna aktivacija** pretplate odaberite način plaćanja s padajućeg popisa ili odaberite **Dodaj način plaćanja**.
 4. Odaberite **Spremi**.
 
-Dodatne informacije pronađite u članku [Ponovno aktiviranje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Dodatne informacije pronađite u članku [Ponovno aktiviranje pretplate](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
