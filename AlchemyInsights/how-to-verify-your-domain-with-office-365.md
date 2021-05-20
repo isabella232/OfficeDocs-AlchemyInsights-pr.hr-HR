@@ -1,5 +1,5 @@
 ---
-title: 'Provjera domene '
+title: 'Potvrda domene '
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683858"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569607"
 ---
-# <a name="how-to-verify-your-domain"></a>Provjera domene
+# <a name="how-to-verify-your-domain"></a>Potvrda domene
 
-Da biste potvrdili domenu, slijedite [Čarobnjak za dodavanje domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)ili ručno otvorite domene za **Postavljanje**  >    >  **dodajte domenu**.
+Da biste potvrdili domenu, slijedite [čarobnjak za dodavanje domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)ili ručno idite na **Postavljanje**  >  **domena**  >  **Dodaj domenu**.
 
-Dodatne informacije o DNS promjenama koje su potrebne za provjeru domene potražite u uputama u odjeljku [Dodavanje DNS zapisa za povezivanje domene](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Dodatne informacije o promjenama DNS-a koje su potrebne za provjeru domene potražite u uputama u članku Dodavanje [DNS zapisa za povezivanje domene](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
-Pitanja o drugim domenama potražite u članku [FAQ za domene](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Pitanja o drugim domenama potražite u [najčešćim pitanjima o domenama](/microsoft-365/admin/setup/domains-faq).
