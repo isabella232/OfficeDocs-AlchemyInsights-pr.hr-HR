@@ -1,5 +1,5 @@
 ---
-title: 2554 nova značajka koja olakšava dijagnosticiranje epohe i ATP-ja
+title: 2554 Nova značajka za dijagnosticiranje EOP-a i Microsoft Defendera za Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 991b51f6b304f8c9a0ad53ea8f32d70237a0919f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6a0ee90b71f54b9b440cdac227243eb64e2b3d1b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726479"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544894"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a><span data-ttu-id="e0fa2-102">Nova značajka koja olakšava dijagnosticiranje epohe i ATP-ja</span><span class="sxs-lookup"><span data-stu-id="e0fa2-102">New feature to help diagnose EOP and ATP</span></span>
+# <a name="new-feature-to-help-diagnose-eop-and-microsoft-defender-for-office-365"></a><span data-ttu-id="044c6-102">Nova značajka za dijagnosticiranje EOP-a i Microsoft Defendera za Office 365</span><span class="sxs-lookup"><span data-stu-id="044c6-102">New feature to help diagnose EOP and Microsoft Defender for Office 365</span></span>
 
-<span data-ttu-id="e0fa2-103">Kao administrator sada možete jednostavno prijaviti sumnjive poruke e-pošte, URL-ove i sadržaje Microsoftu u [eksploreru za prijave](https://protection.office.com/reportsubmission).</span><span class="sxs-lookup"><span data-stu-id="e0fa2-103">As an admin, you can now easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="e0fa2-104">Možete je čak koristiti i da biste saznali zašto je legitimna poruka pogrešno označena.</span><span class="sxs-lookup"><span data-stu-id="e0fa2-104">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="e0fa2-105">Dodatne informacije potražite u ovoj [Objavi](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span><span class="sxs-lookup"><span data-stu-id="e0fa2-105">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
+<span data-ttu-id="044c6-103">Kao administrator sada microsoftu u eksploreru za slanje možete jednostavno prijaviti sumnjive poruke e-pošte, [URL-ove i sadržaj.](https://protection.office.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="044c6-103">As an admin, you can now easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="044c6-104">Možete je koristiti i da biste bolje razumjeli zašto je valjana poruka pogrešno označena.</span><span class="sxs-lookup"><span data-stu-id="044c6-104">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="044c6-105">Dodatne informacije potražite u ovoj [najavi.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)</span><span class="sxs-lookup"><span data-stu-id="044c6-105">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>

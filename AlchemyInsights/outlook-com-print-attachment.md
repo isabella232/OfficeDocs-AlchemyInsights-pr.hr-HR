@@ -14,17 +14,17 @@ ms.custom:
 - "8000046"
 - "1002"
 - "1003"
-ms.openlocfilehash: eb497d3555a2c044e42b5877b1d9b0f524819f55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c52e13b159edb5215e39f10fcfca983fcecb08d8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798116"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544390"
 ---
-# <a name="print-an-attachment-in-outlookcom"></a><span data-ttu-id="bd148-102">Ispis privitka u Outlook.com</span><span class="sxs-lookup"><span data-stu-id="bd148-102">Print an attachment in Outlook.com</span></span>
+# <a name="print-an-attachment-in-outlookcom"></a><span data-ttu-id="48c64-102">Ispis privitka na Outlook.com</span><span class="sxs-lookup"><span data-stu-id="48c64-102">Print an attachment in Outlook.com</span></span>
 
-1. <span data-ttu-id="bd148-103">Otvorite poruku koja sadrži privitak koji želite ispisati.</span><span class="sxs-lookup"><span data-stu-id="bd148-103">Open the message that contains the attachment you want to print.</span></span>
-2. <span data-ttu-id="bd148-104">Premještanje kursora na privitak i odabir ikone **Dodatne akcije**</span><span class="sxs-lookup"><span data-stu-id="bd148-104">Move your cursor over the attachment and select the **More actions** icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAYAAADQWvz5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gYGES4Try474AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABHElEQVQ4jdXTsUsCYRjH8a/xQhy0tFyIULMo2B/QQUPQ5hA0BC0tQksFOTo2ZlTDHQRxS20SFWEcBg5Gg9sLijQ0XCCCs3AcHLwNEWHenUUO9Vvf5/3A8/A8CaWUYgKZmgTyH6CWRPrf+OVLZCsO6taxy5V4zJdcHJxR78ZBgOfWsE9ueA7DfEmlbNPoByNPw1BqDl2A91LFspwvyCv3lk3N9UBbYD4VB2U3KBWMd6xzxd7xJ+ZYR1x3PBA6xtY+a9lhKBG2kL2nc8zLJv1AMJNZYYlHHtoDAqFjFEps5qZHWguFAHrOKYe3bQYf4xCzLK7vsr2cDCuP3qPk6g7FfBoNAI10PhoBQI2Je2cqs+qOK1ORrf00f/3WfpE30qej7DKYKekAAAAASUVORK5CYII=' /> <span data-ttu-id="bd148-105">> **Preuzimanje**.</span><span class="sxs-lookup"><span data-stu-id="bd148-105">> **Download**.</span></span>
-3. <span data-ttu-id="bd148-106">Kada preuzmete datoteku, otvorite je pomoću odgovarajućih programa, a zatim odaberite mogućnost ispisa.</span><span class="sxs-lookup"><span data-stu-id="bd148-106">After the file has downloaded, open it with the appropriate program and choose the option to print.</span></span> <span data-ttu-id="bd148-107">Na primjer, otvorite. doc datoteku u programu Word, a zatim Ispis.</span><span class="sxs-lookup"><span data-stu-id="bd148-107">For example, open a .doc file in Word and then print.</span></span>
+1. <span data-ttu-id="48c64-103">Otvorite poruku koja sadrži privitak koji želite ispisati.</span><span class="sxs-lookup"><span data-stu-id="48c64-103">Open the message that contains the attachment you want to print.</span></span>
+2. <span data-ttu-id="48c64-104">Pomaknite pokazivač preko privitka i odaberite tri točke (dodatne akcije) > **Preuzmi**.</span><span class="sxs-lookup"><span data-stu-id="48c64-104">Move your cursor over the attachment and select the three dots (more actions) > **Download**.</span></span>
+3. <span data-ttu-id="48c64-105">Kada preuzmete datoteku, otvorite je odgovarajućim programom i odaberite mogućnost ispisa.</span><span class="sxs-lookup"><span data-stu-id="48c64-105">After the file has downloaded, open it with the appropriate program and choose the option to print.</span></span> <span data-ttu-id="48c64-106">Otvorite, primjerice, .doc u programu Word, a zatim ispišite.</span><span class="sxs-lookup"><span data-stu-id="48c64-106">For example, open a .doc file in Word and then print.</span></span>
 
-<span data-ttu-id="bd148-108">Dodatne informacije potražite u odjeljku [Ispis poruka e-pošte, privitaka i kalendara na servisu Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="bd148-108">For more information, read [Print email messages, attachments, and calendars in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="48c64-107">Dodatne informacije potražite u odjeljku [Ispis poruka e-pošte, privitaka i kalendara na Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="48c64-107">For more information, read [Print email messages, attachments, and calendars in Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

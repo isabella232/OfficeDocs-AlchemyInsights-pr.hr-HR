@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća s programom Microsoft Defender za Office 365
+title: Otklanjanje poteškoća s programom Microsoft Defender Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801435"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545260"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a><span data-ttu-id="bbe31-102">Otklanjanje poteškoća s programom Microsoft Defender za Office 365</span><span class="sxs-lookup"><span data-stu-id="bbe31-102">Troubleshooting Microsoft Defender for Office 365</span></span>
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a><span data-ttu-id="a67c6-102">Otklanjanje poteškoća s programom Microsoft Defender Office 365</span><span class="sxs-lookup"><span data-stu-id="a67c6-102">Troubleshooting Microsoft Defender for Office 365</span></span>
 
-- <span data-ttu-id="bbe31-103">Primjećujete li kašnjenje u isporuci poruke?</span><span class="sxs-lookup"><span data-stu-id="bbe31-103">Do you notice delays in message delivery?</span></span> <span data-ttu-id="bbe31-104">Pomoću mogućnosti [dinamičke isporuke](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) u pravilima programa ATP siguran privici.</span><span class="sxs-lookup"><span data-stu-id="bbe31-104">Use the [Dynamic Delivery](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) option in your ATP Safe Attachments policy.</span></span> <span data-ttu-id="bbe31-105">Time će se izbjeći kašnjenje poruka dok se primatelji štite od zlonamjernih datoteka.</span><span class="sxs-lookup"><span data-stu-id="bbe31-105">This will help avoid message delays while protecting recipients from malicious files.</span></span>
+- <span data-ttu-id="a67c6-103">**Primjećujete li kašnjenja u isporuci poruka?**</span><span class="sxs-lookup"><span data-stu-id="a67c6-103">**Do you notice delays in message delivery?**</span></span> <span data-ttu-id="a67c6-104">Koristite mogućnost [dinamičke isporuke](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) u pravilniku Microsoft Defender za Office 365 Sef privici.</span><span class="sxs-lookup"><span data-stu-id="a67c6-104">Use the [Dynamic Delivery](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) option in your Microsoft Defender for Office 365 Safe Attachments policy.</span></span> <span data-ttu-id="a67c6-105">Time ćete izbjeći kašnjenja poruka uz zaštitu primatelja od zlonamjernih datoteka.</span><span class="sxs-lookup"><span data-stu-id="a67c6-105">This will help avoid message delays while protecting recipients from malicious files.</span></span>
 
-- <span data-ttu-id="bbe31-106">Želite li Microsoftu prijaviti netočne ili FALSE negative?</span><span class="sxs-lookup"><span data-stu-id="bbe31-106">Do you want to report false positives or false negatives to Microsoft?</span></span> <span data-ttu-id="bbe31-107">Upotrijebite ovu [vezu](https://www.microsoft.com/wdsi/filesubmission/) da biste poslali datoteke za analizu.</span><span class="sxs-lookup"><span data-stu-id="bbe31-107">Use this [link](https://www.microsoft.com/wdsi/filesubmission/) to submit files for analysis.</span></span>
+- <span data-ttu-id="a67c6-106">**Želite li Microsoftu prijaviti netočne pozitivne ili netočne negativne rezultate?**</span><span class="sxs-lookup"><span data-stu-id="a67c6-106">**Do you want to report false positives or false negatives to Microsoft?**</span></span> <span data-ttu-id="a67c6-107">Koristite [Eksplorer za podneske.](https://protection.office.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="a67c6-107">Use [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span>
 
-- <span data-ttu-id="bbe31-108">Jeste li znali da možete omogućiti sigurnu vezu za zaštitu interne e-pošte poslane među primateljima unutar tvrtke ili ustanove?</span><span class="sxs-lookup"><span data-stu-id="bbe31-108">Did you know that you can enable Safe Links protection for internal email sent between recipients within your organization?</span></span> <span data-ttu-id="bbe31-109">Slijedite ove korake:</span><span class="sxs-lookup"><span data-stu-id="bbe31-109">Follow these steps:</span></span>
+<span data-ttu-id="a67c6-108">-\*\* Jeste li znali da možete omogućiti zaštitu Sef veza za internu e-poštu poslanu između primatelja unutar tvrtke ili ustanove?\*\* Slijedite ove korake:</span><span class="sxs-lookup"><span data-stu-id="a67c6-108">-\*\* Did you know that you can enable Safe Links protection for internal email sent between recipients within your organization?\*\* Follow these steps:</span></span>
 
-  1. <span data-ttu-id="bbe31-110">Idite na [https://protection.office.com](https://protection.office.com) i prijavite se pomoću računa globalnog administratora ili sigurnosnog administratora.</span><span class="sxs-lookup"><span data-stu-id="bbe31-110">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
+  1. <span data-ttu-id="a67c6-109">Idite na [https://protection.office.com](https://protection.office.com) račun globalnog administratora ili administratora sigurnosti i prijavite se s njim.</span><span class="sxs-lookup"><span data-stu-id="a67c6-109">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
 
-  2. <span data-ttu-id="bbe31-111">U lijevoj navigacijskom oknu u odjeljku **Upravljanje prijetnjama** odaberite **Policy** \> **sigurne veze** za pravilnik.</span><span class="sxs-lookup"><span data-stu-id="bbe31-111">In the left navigation pane under **Threat management** , choose **Policy** \> **Safe Links** .</span></span>
+  2. <span data-ttu-id="a67c6-110">U lijevom navigacijskom oknu u **odjeljku Upravljanje prijetnjama** **odaberite** \> **Pravilnik Sef Veze**.</span><span class="sxs-lookup"><span data-stu-id="a67c6-110">In the left navigation pane under **Threat management**, choose **Policy** \> **Safe Links**.</span></span>
 
-  3. <span data-ttu-id="bbe31-112">U **pravilima koja se odnose na cijelu tvrtku ili ustanovu** odaberite pravilo, a zatim kliknite **Uredi** .</span><span class="sxs-lookup"><span data-stu-id="bbe31-112">In the **Policies that apply to the entire organization** section, select the policy and click **Edit** .</span></span>
+  3. <span data-ttu-id="a67c6-111">U **odjeljku Pravila koja se odnose na cijelu organizaciju** odaberite pravilnik i kliknite **Uređivanje**.</span><span class="sxs-lookup"><span data-stu-id="a67c6-111">In the **Policies that apply to the entire organization** section, select the policy and click **Edit**.</span></span>
 
-  4. <span data-ttu-id="bbe31-113">U odjeljku **Postavke** omogućite **primjenu sigurnih veza na poruke poslane unutar tvrtke ili ustanove** .</span><span class="sxs-lookup"><span data-stu-id="bbe31-113">Under **Settings** , enable **Apply safe links to messages sent within the organization** .</span></span>
+  4. <span data-ttu-id="a67c6-112">U **Postavke omogućite** **primjenu sigurnih veza na poruke poslane unutar tvrtke ili ustanove**.</span><span class="sxs-lookup"><span data-stu-id="a67c6-112">Under **Settings**, enable **Apply safe links to messages sent within the organization**.</span></span>

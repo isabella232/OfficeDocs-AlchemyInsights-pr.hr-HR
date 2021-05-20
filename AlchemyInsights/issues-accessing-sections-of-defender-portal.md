@@ -1,5 +1,5 @@
 ---
-title: Problemi s pristupom odjeljcima programa Microsoft Defender ATP portal
+title: Problemi s pristupom odjeljcima programa Microsoft Defender za Office 365 portal
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: cf460b45bfc6caf0b627265e9926c2794cd27179
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713318"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545224"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a><span data-ttu-id="2dd67-102">Problemi s pristupom odjeljcima programa Microsoft Defender ATP portal</span><span class="sxs-lookup"><span data-stu-id="2dd67-102">Issues accessing sections of Microsoft Defender ATP portal</span></span>
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a><span data-ttu-id="19ce8-102">Problemi s pristupom odjeljcima programa Microsoft Defender za Office 365 portal</span><span class="sxs-lookup"><span data-stu-id="19ce8-102">Issues accessing sections of Microsoft Defender for Office 365 portal</span></span>
 
-<span data-ttu-id="2dd67-103">Ako nadzorna ploča portala i druge sekcije pokažu poruku o pogrešci, kao što su "trenutno nisu dostupni podaci", moguće je da su određene URL domene i sve poddomene dopuštene u vašoj tvrtki ili ustanovi te da se otvaraju komunikacija.</span><span class="sxs-lookup"><span data-stu-id="2dd67-103">If the portal dashboard and other sections show an error message such as "Data currently isn't available", it is likely that certain URL domains and all sub-domains are allowed in your organization and open for communication.</span></span> 
+<span data-ttu-id="19ce8-103">Ako nadzorna ploča portala i druge sekcije prikazuju poruku o pogrešci kao što je "Podaci trenutno nisu dostupni", vjerojatno su određene URL domene i sve poddomenu dopuštene u vašoj tvrtki ili ustanovi i otvorene za komunikaciju.</span><span class="sxs-lookup"><span data-stu-id="19ce8-103">If the portal dashboard and other sections show an error message such as "Data currently isn't available", it is likely that certain URL domains and all sub-domains are allowed in your organization and open for communication.</span></span> 
 
-<span data-ttu-id="2dd67-104">Dodatne informacije potražite u članku [Otklanjanje poteškoća s pristupom pretplati i portalu](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).</span><span class="sxs-lookup"><span data-stu-id="2dd67-104">For more information, see [Troubleshoot subscription and portal access issues](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).</span></span>
+<span data-ttu-id="19ce8-104">Dodatne informacije potražite u članku Otklanjanje poteškoća [s pretplatom i pristupom portalu](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).</span><span class="sxs-lookup"><span data-stu-id="19ce8-104">For more information, see [Troubleshoot subscription and portal access issues](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).</span></span>
