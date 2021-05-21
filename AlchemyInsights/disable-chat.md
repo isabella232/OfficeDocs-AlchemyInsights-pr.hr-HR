@@ -1,5 +1,5 @@
 ---
-title: Onemogućivanje čavrljanja
+title: Onemogući čavrljanje
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: b6041dd41d0d94b832b962518c73560737684ce1
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088572"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573738"
 ---
-# <a name="disable-chat"></a>Onemogućivanje čavrljanja
+# <a name="disable-chat"></a>Onemogući čavrljanje
 
-Da biste onemogućili čavrljanje za svoju tvrtku ili ustanovu, možete stvarati pravila koja će vam omogućiti da kontrolirate koje će biti dostupne značajke čavrljanja i kanala za razmjenu poruka. To možete postići na nekoliko načina, ovisno o tome kako morati konfigurirati čavrljanje.
+Da biste omogućili ili onemogućili čavrljanje za svoju organizaciju, možete stvoriti pravilnike koji će vam omogućiti upravljanje dostupnim značajkama čavrljanja i razmjene poruka kanala. To možete postići na nekoliko načina, ovisno o tome kako morate konfigurirati čavrljanje.
 
-- **Poruke**: u centru za administratore timova otvorite [pravila za razmjenu poruka](https://admin.teams.microsoft.com/), a zatim uključite ili **Isključite** **razgovor** . Dodatne informacije o prilagođenim pravilima za razmjenu poruka i načinu dodjele pravilnika korisnicima potražite [u članku Upravljanje pravilima za razmjenu poruka u timovima](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams).
-- **Sastanak**: u centru za administratore timova otvorite [pravila sastanka](https://admin.teams.microsoft.com/) – postavka za čavrljanje **omogućuje čavrljanje na sastancima**. Dodatne informacije o stvaranju prilagođenih pravilnika sastanka potražite u članku [Upravljanje pravilima sastanka u timovima](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) i [Omogućivanje čavrljanja na sastancima](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
-- **Gosti: možete** konfigurirati pravila pristupa gostu da biste korisnicima dopustili pristup čavrljanju, tko može uključiti ili **isključiti** **čavrljanje** . Dodatne informacije potražite u [odjeljku Konfiguriranje pristupa gostu u centru za administratore timova](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
-- **Učenici**: da biste onemogućili čavrljanje za učenika, pročitajte članak mogućnosti dopusta čavrljanja na sastancima i za omogućavanje čavrljanja u programu 1:1 u [pravilima i paketima pravilnika za obrazovanje](https://docs.microsoft.com/microsoftteams/policy-packages-edu).
+- **Sastanak**: U centru Teams za administratore idite na [Pravila sastanka](https://admin.teams.microsoft.com/) – postavka za čavrljanje jest **Dopusti čavrljanje u sastancima**. Dodatne informacije o stvaranju prilagođenih pravilnika za sastanke potražite u članku [Upravljanje pravilnikom za sastanke Teams omogući čavrljanje](/microsoftteams/meeting-policies-in-teams) [u sastancima](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
 
+- **M*essaging**: U centru Teams za administratore idite na [Pravilnike za razmjenu poruka](https://admin.teams.microsoft.com/)i isključite uključivanje i isključivanje **čavrljanja** .  Dodatne informacije o prilagođenim pravilnikima za razmjenu poruka i kako korisnicima dodijeliti pravilnike potražite u članku Upravljanje [pravilnikom za razmjenu poruka Teams](/microsoftteams/messaging-policies-in-teams).
+
+- **Učenici:** da biste onemogućili čavrljanje za učenika, pogledajte mogućnosti omogućivanja čavrljanja na sastancima i omogućivanja čavrljanja u 1:1 u Teams i pakete [pravilnika za obrazovanje.](/microsoftteams/policy-packages-edu)
+
+- Korisnici gostiju: pravilnike za pristup gosta možete konfigurirati tako da gostima omogućite pristup čavrljanja, koji mogu uključili ili **isključili čavrljanje.**  Dodatne informacije potražite u članku [Konfiguriranje pristupa gosta u centru Teams administratora](/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
 
 
 

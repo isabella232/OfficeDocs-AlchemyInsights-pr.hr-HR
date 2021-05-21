@@ -1,10 +1,11 @@
 ---
 title: Pretplata je istekla
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: f19de44d61946cbbc17a818abf487a7b75f811eb
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d26c4e6738ed1d34a642436b09c67853a88586a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063357"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544282"
 ---
 # <a name="subscription-expired"></a>Pretplata je istekla
 
@@ -25,30 +26,23 @@ Ako je vaša pretplata istekla, ako ju je onemogućio Microsoft ili ako ste je o
 
 **Ponovna aktivacija pretplate**
 
-1. U centru za administratore **Billing**otvorite  >  stranicu**[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. U centru za administratore idite na stranicu **Naplata**  >  [proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **kartici Proizvodi** pronađite pretplatu koju želite ponovno aktivirati, odaberite tri točke (dodatne akcije), a zatim **odaberite Ponovno aktiviraj ovu pretplatu**.
+    > [!NOTE]
+    > Ako vam se ne vidi **Ponovna aktivacija pretplate, obratite se** podršci.
+3. U **oknu Ponovna aktivacija** pretplate odaberite način plaćanja s padajućeg popisa ili odaberite **Dodaj način plaćanja**.
+4. Odaberite **Spremi**.
 
-2. Odaberite pretplatu koju želite ponovno aktivirati.
-
-3. U odjeljku **Naplata** kliknite **Odmah ponovo aktiviraj**. Ako se nalazite u prikazu **Kartice,** kliknite elipsu između **imena** i **raspoložive količine** i odaberite **Ponovno aktiviraj** s izbornika.
-
-**Napomena**: ako ne vidite pretplatu koju tražite, možda trebate prilagoditi filtar **Status pretplate** pri vrhu stranice na **Sve**.
-
-4. Potvrdite detalje za plaćanje da biste ažurirali postojeće podatke o plaćanju. Kada završite s unosom načina plaćanja, odaberite **Ponovo aktiviraj**.
-
-Dodatne informacije pronađite u članku [Ponovno aktiviranje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Dodatne informacije pronađite u članku [Ponovno aktiviranje pretplate](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Upravljanje obnovom pretplate**
 
 Da biste upravljali mjesečnim ili godišnjim plaćanjem, možete uključiti ili isključiti ponavljajuću naplatu.
 
-1. U centru za administratore **Billing**otvorite  >  stranicu**[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. U centru za administratore idite na stranicu **Naplata**  >  [proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **kartici Proizvodi** odaberite pretplatu u koju želite upravljati.
+3. Na stranici pojedinosti o pretplati u **odjeljku Postavke pretplate i plaćanja** odaberite Uređivanje **ponavljajuće naplate**.
+4. U **oknu Uređivanje postavki ponavljajuće** naplate **odaberite Uključi**, **Uključi, ali obnovi jedanput** ili **Isključi**.
+5. Odaberite **Spremi**.
 
-2. Odaberite pretplatu za koju želite upravljati ponavljajućom naplatom.
-
-3. U odjeljku **Naplata**, pored stavki **Obnavlja se na dan** ili **Datum isteka**, kliknite **Uredi**.
-
-4. U oknu **Postavke ponavljajuće naplate** odaberite **Isključi** da biste ga isključili. Ako je ponavljajuća naplata već isključena, kliknite **Mjesečno** ili **Jedanput** da biste je uključili.
-
-5. Kliknite **Podnesi promjenu**.
-
-Dodatne informacije pronađite u članku [Isključivanje ili uključivanje ponavljajuće naplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Dodatne informacije pronađite u članku [Isključivanje ili uključivanje ponavljajuće naplate](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

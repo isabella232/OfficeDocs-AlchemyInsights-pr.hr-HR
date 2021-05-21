@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 163dfcc720cb15800ec6a6ae8a0ea909e588f191
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713322"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543992"
 ---
 # <a name="how-to-manage-add-ins-while-reading-a-message"></a>Upravljanje dodacima tijekom čitanja poruke
 
-1. U programu Outlook na webu odaberite poruku.
+1. U Outlook webu odaberite poruku.
     
-2. Pri vrhu poruke odaberite **Dodatne akcije** .
+2. Pri vrhu poruke odaberite tri točke (dodatne akcije).
 
-3. Idite na dno popisa i odaberite **Dohvati dodatke**.
+3. Idite na dno popisa i **odaberite Nabavite dodatke**.
     
-4. Na stranici dodaci za Outlook odaberite željeni dodatak.
+4. Na stranici Dodaci za Outlook odaberite dodatak koji želite.
     
-    Za besplatne dodatke odaberite **Dodaj** da biste ga dodali u poštanski sandučić.
+    Za besplatne dodatke odaberite **Dodaj da biste** ga dodali u poštanski sandučić.
     
-    Za plaćene dodatke i besplatne kušnje odaberite **Dohvati ga** da biste započeli kupnju.
+    Za plaćene dodatke i besplatne verzije odaberite **Nabavite ga da biste** započeli kupnju.
     
-Dodatne informacije potražite u članku [Korištenje dodataka u programu Outlook na webu](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).
+Dodatne informacije potražite u [članku Korištenje dodataka Outlook na webu](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).
