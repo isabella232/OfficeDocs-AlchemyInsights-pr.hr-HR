@@ -1,5 +1,5 @@
 ---
-title: Pohrana u sustavu SharePoint
+title: Upravljanje prostorom za pohranu SharePoint online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773731"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689850"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Upravljanje spremištem sustava SharePoint Online
+# <a name="manage-your-sharepoint-online-storage"></a>Upravljanje prostorom za pohranu SharePoint online
 
-Informirajte se o tome kako [je pohrana korisnika izračunata](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) na temelju vašeg plana.
+Većini tvrtki ili ustanova SharePoint se automatski upravlja pohranom, pa ne morate postaviti ograničenja po zbirci web-mjesta. Dodatne informacije o izračunu prostora za pohranu klijenta na temelju plana potražite u članku Ograničenja [prema planu](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).
 
-Za većinu tvrtki ili ustanove pohrana sustava SharePoint upravlja se automatski, pa ne morate postavljati ograničenja po zbirci web-mjesta.
+Dodatne informacije potražite u sljedećim člancima:
 
-Naučite kako [prikazati ukupni i raspoloživi prostor za pohranu za svoju tvrtku ili ustanovu](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+- [Upravljanje ograničenjima prostora za pohranu web-mjesta](/sharepoint/manage-site-collection-storage-limits)
 
-Naučite [upravljati pojedinačnim ograničenjima pohrane zbirke web-mjesta](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+- [Upravljanje pojedinačnim ograničenjima prostora za pohranu web-mjesta](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Ako je web-mjesto izvan prostora ili želite saznati koja biblioteka ili popis koriste prostor, idite na metriku za pohranu **postavki web-mjesta**  >  (potrebne su dozvole**za** administratore zbirke web-mjesta).
+Ako web-mjesto nema dovoljno prostora ili želite saznati koja biblioteka ili popis koriste prostor, idite na **Web-mjesto Postavke metrike** za  >  **pohranu** (potrebne su administratorske dozvole za zbirku web-mjesta).
 
-Informirajte se o [praćenju ograničenja pohrane web-mjesta pomoću komponente PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+Dodatne informacije potražite u sljedećim člancima:
 
-Informacije o [kupnji dodatnog prostora za pohranu](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
+- [Nadzor ograničenja prostora za pohranu web-mjesta pomoću komponente PowerShell](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [Dodavanje prostora za pohranu za pretplatu](/microsoft-365/commerce/add-storage-space) 
   
