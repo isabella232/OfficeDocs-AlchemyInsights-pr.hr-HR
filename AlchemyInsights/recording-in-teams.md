@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809755"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697022"
 ---
 # <a name="recording-in-teams"></a>Snimanje u servisu Teams
 
-Snimanje sastanaka servisa Microsoft Teams sada se može pohraniti na OneDrive ili SharePoint, a dodatne informacije i uključivanje potražite u sljedećoj objavi centra za poruke: [(Ažurirano) Microsoft Teams:](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640) snimke sastanaka spremljene na OneDrive i SharePoint
+Ako je korisnikov gumb **Pokreni** snimanje zasivljen ili nedostaje u sastanku Teams, pokušajte pokrenuti dijagnostiku snimanja sastanka tako da u gornji okvir upišete **Diag: Snimanje** sastanka. 
 
-Premještanjem mjesta za pohranu na OneDrive ili u Sustavu SharePoint uklanja se prethodni preduvjet da strujanje bude dostupno u vašoj regiji.
+Microsoft Teams se snimke sastanka sada mogu pohraniti u OneDrive Sharepoint. Premještanjem mjesta za pohranu OneDrive i SharePoint rješava se problem zbog kojeg snimke sastanka nisu funkcionirale jer strujanje nije dostupno u vašoj regiji. Dodatne informacije potražite u najčešćim pitanjima o [microsoft streamu](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
-Da biste saznali kako **omogućiti i konfigurirati** značajku **snimanja** u aplikaciji Teams za vašu organizaciju, uključujući kontrole za omogućivanje ili onemogućivanje snimanja sastanka za određene korisnike , pregledajte snimanje sastanka u [oblaku aplikacije Teams](https://docs.microsoft.com/microsoftteams/cloud-recording).
+Dodatne informacije o spremanju snimki sastanka potražite u objavi centra za poruke: [(Ažurirano) Microsoft Teams: snimke sastanaka spremljene u OneDrive i SharePoint.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-Ako ne možete **snimati u aplikaciji Teams ili** morate znati kako snimiti u aplikaciji Teams, isprobajte jedan od sljedećih članaka:
+Da biste saznali kako omogućiti i konfigurirati značajku snimanja u aplikaciji Teams za svoju organizaciju, uključujući kontrole za omogućivanje ili onemogućivanje snimanja sastanka za određene korisnike, [pogledajte Teams snimanje sastanka u oblaku](/microsoftteams/cloud-recording). 
 
-- Ako još niste odabrali prostor za pohranu na servisu OneDrive ili SharePoint za snimanje sastanaka servisa Teams, te se mogućnosti pozivaju na regionalnu dostupnost streama i države. Ako ne možete zabilježiti provjeru sastanka da biste provjerili je li [strujanje dostupno u vašoj državi ili regiji](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Dodatne informacije potražite u sljedećoj objavi centra za poruke na portalu za administratore: [Ažurirana značajka: Microsoft Stream cloud recordings regional storage control](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+Ako i dalje ne možete snimati u Teams ili morate razumjeti kako snimiti u Teams, pogledajte sljedeće: 
 
-- Snimanje sastanka u aplikaciji Teams zahtijeva dodjelu određenih licenci i [pravilnika,](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)uključujući licence za strujanje da biste prenijeli ili preuzeli snimke sastanaka u Microsoft Stream.
+[Ažurirana značajka: Microsoft Stream u oblaku snimke regionalne kontrole za pohranu](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- Kada potvrdite da su ispunjeni svi preduvjeti, uključujući licenciranje, pravilnike i regionalnu dostupnost strujanja, [pregledajte Snimanje sastanka u aplikaciji Teams.](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24)
+Snimanje sastanka u Teams zahtijeva određene dodijeljene licence i pravilnike, uključujući stream licence za prijenos ili preuzimanje snimki sastanaka u Microsoft Stream. Detalje potražite u članku [Preduvjeti za snimanje Teams sastanka u oblaku](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording).
+
+Kada potvrdite da su ispunjeni svi preduvjeti, uključujući licenciranje, pravilnike i regionalnu dostupnost strujanja, [pregledajte Snimanje sastanka u Teams.](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24) 
