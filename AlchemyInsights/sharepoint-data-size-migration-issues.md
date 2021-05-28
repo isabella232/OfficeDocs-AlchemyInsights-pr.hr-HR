@@ -1,5 +1,5 @@
 ---
-title: Problemi prilikom migracije podataka u SharePoint Online
+title: Problemi prilikom migracije podataka na SharePoint online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700879"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694768"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemi prilikom migracije podataka u SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problemi prilikom migracije podataka na SharePoint online
 
-**Migriranje preko 100TB podataka**
+**Migriranje više od 100 TB podataka**
 
-Čini se da migrirate preko 100TB podataka u SharePoint online. Slijedite upute u nastavku da bismo vam mogli pomoći što je prije moguće. 
+Čini se da migrirate više od 100 TB podataka na SharePoint Online. Slijedite korake u nastavku da bismo vam mogli pomoći što je prije moguće. 
 
-1. Odaberite **novi zahtjev za uslugu**, a zatim **novi zahtjev za uslugom**. 
-2. Ostavite naslov i opis kao **migraciju sustava SharePoint preko 100TB**.
-3. Kada pošaljete ulaznicu, ažurirajte je sljedećim podacima: 
+1. Odaberite **Obratite se podršci**, a zatim Novi zahtjev za **uslugu**. 
+2. Ostavite naslov i opis kao SharePoint **preko 100 TB**.
+3. Kada je karta poslana, ažurirajte je sljedećim informacijama: 
 
     - Procijenjena veličina migracije.
-    - Procjena kada želite započeti i dovršiti migraciju.
-    - Opišite gdje migrirate sadržaj, kao što je SharePoint Server, Box, GDrive, dijeljenje datoteka itd.
+    - Procjena vremena kada želite započeti i dovršiti migraciju.
+    - Opišite odakle migrirate sadržaj, kao što su SharePoint, Box, GDrive, Zajedničko korištenje datoteka itd.
