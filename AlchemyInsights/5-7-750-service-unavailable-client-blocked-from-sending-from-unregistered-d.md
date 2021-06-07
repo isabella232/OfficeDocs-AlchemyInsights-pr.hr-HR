@@ -1,5 +1,5 @@
 ---
-title: servis 1048 5.7.750 nije dostupan. Klijent je blokiran slanjem iz neregistriranih domena
+title: 1048 5.7.750 Servis nije dostupan. Klijentu je blokirano slanje s neregistriranih domena
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,17 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 731aa2e155ba3fdaaca7fed9dd51b3e4a3f20f29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5879c5996a28e8e9e61c696c51e7c590d1245ba1
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664234"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774243"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 klijent je blokiran slanjem iz neregistrirane domene
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 Klijent je blokiran od slanja s neregistrirane domene
 
-Pogreška se pojavljuje kada se velika količina poruka pošalje iz domena koje u vašem klijentu nisu dodijeljeni resursi (dodano kao prihvaćene domene i validne).
+Pogreška se pojavljuje kada se šalje velika količina poruka s domena koje nisu dodijeljene klijentu (dodane kao prihvaćene domene i potvrđene).
 
-Da biste izbjegli tu pogrešku, možete koristiti konektor tijeka pošte utemeljenog na certifikatu na kojem je domena certifikata dodijeljena domena ili možete dodijeliti sve domene slanja.
+Da biste izbjegli tu pogrešku, možete koristiti poveznik tijeka pošte utemeljen na certifikatu u kojem je domena certifikata domena s dodjelom resursa ili možete dodijeliti sve domene za slanje.
+
+Dodatne informacije potražite u članku Rješavanje problema s isporukom e-pošte za kodove pogrešaka od [5.7.700 do 5.7.750 u sustavu Exchange Online](https://go.microsoft.com/fwlink/?linkid=2164955).
