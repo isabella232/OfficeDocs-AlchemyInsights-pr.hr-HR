@@ -1,5 +1,5 @@
 ---
-title: Aktivacija aplikacija sustava Microsoft 365
+title: Aktivacija Microsoft 365 aplikacija
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823023"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798600"
 ---
-# <a name="activating-microsoft-365-apps"></a>Aktivacija aplikacija sustava Microsoft 365
+# <a name="activating-microsoft-365-apps"></a>Aktivacija Microsoft 365 aplikacija
+
+**Napomena:** ako koristite stariju verziju programa Windows (npr. Windows 7), provjerite je li TLS 1.2 omogućen kao zadani. Dodatne informacije potražite u članku Ažuriranje radi omogućivanja [TLS 1.1 i TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)kao zadanih sigurnih protokola u aplikaciji WinHTTP u Windows .
 
 Da biste aktivirali sustav Office, pročitajte:
 
@@ -27,7 +29,7 @@ Da biste aktivirali sustav Office, pročitajte:
 
 - [Aktivacija sustava Office na Mac računalu](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Napomena:**  Provjerite imate li pretplatu na Office 365 ili Microsoft 365 koja obuhvaća klijentske aplikacije sustava [Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)npr. Microsoft 365 Business Standard, Microsoft 365 Apps za tvrtke ili aplikacije Microsoft 365 za tvrtke. Osim toga, provjerite ima li dodijeljena licenca korisnički račun koji koristite za prijavu [u aplikacije sustava](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)Office.
+**Napomena:**  Provjerite imate li Office 365 ili Microsoft 365 koja [obuhvaća klijentske aplikacije Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)npr. Microsoft 365 Business Standard, Microsoft 365 Apps za male tvrtke ili Microsoft 365 Apps za velike tvrtke. Osim toga, provjerite je li korisnički račun koji koristite za prijavu u Office aplikacije [dodijeljena licenca](/microsoft-365/admin/manage/assign-licenses-to-users).
 
 Da biste riješili poteškoće s aktivacijom sustava Office, pročitajte:
 
@@ -36,9 +38,9 @@ Da biste riješili poteškoće s aktivacijom sustava Office, pročitajte:
 
 - [Što pokušati ako ne možete instalirati ili aktivirati Office za Mac?](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Savjet** Na računalima sa sustavom Windows možemo dijagnosticirati i automatski riješiti nekoliko uobičajenih problema s prijavama u Office. Preuzmite i pokrenite  **[Microsoftov pomoćnik za podršku i oporavak](https://aka.ms/SaRA-OfficeSignInScenario)** da biste koristili naš automatizirani alat.
+**Savjet** Na Windows uređajima možemo dijagnosticirati i automatski riješiti nekoliko uobičajenih problema Office za prijavu. Preuzmite i pokrenite **[Microsoftovu pomoćnik za podršku i oporavak da](https://aka.ms/SaRA-OfficeSignInScenario)** biste koristili naš automatizirani alat.
 
-Ako se ne možete prijaviti u aplikacije sustava Microsoft 365, slijedite korake u nastavku:
+Ako se ne možete prijaviti u aplikacije Microsoft 365, slijedite korake u nastavku:
 
 1. Otvorite aplikaciju sustava Office i [odjavite se](https://go.microsoft.com/fwlink/?linkid=2114082) s postojećih korisničkih računa.
 
@@ -46,6 +48,6 @@ Ako se ne možete prijaviti u aplikacije sustava Microsoft 365, slijedite korake
 
 3. Prekinite vezu za stare ili neupotrebljavane račune tako što ćete ići na **Postavke sustava Windows > Računi > Pristup poslu ili obrazovnoj ustanovi**
 
-4. [Resetirajte stanje aktivacije sustava Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) i zatim se [prijavite u aplikacije sustava Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) upotrebom novog računa.
+4. [Resetirajte stanje aktivacije sustava Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) i zatim se [prijavite u aplikacije sustava Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) upotrebom novog računa.
 
 Dodatne radnje za otklanjanje poteškoća potražite u odjeljku [Tijekom otvaranja aplikacije sustava Office 365 prikazuje se obavijest o pretplati](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).
