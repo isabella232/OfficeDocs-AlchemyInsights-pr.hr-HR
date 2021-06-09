@@ -12,25 +12,27 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 9c879512c5fbdfafe6162490cafacd0f409792db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
+ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755641"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52853861"
 ---
 # <a name="information-about-gdpr"></a>Informacije o GDPR-u
 
-- Početak rada s [portala za pouzdanost servisa.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- [GdpR pojednostavljen: vodič za vašu malu tvrtku](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- Za bilo što vezano uz **ugovor o obradi podataka** (DPA), pregledajte sljedeće:
+- Početak rada s [portalom za pouzdanost servisa.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+
+- Za sve što se odnosi **na ugovor o obradi podataka** (DPA), pregledajte sljedeće:
 
   - [Resursi za zaštitu podataka](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
-  - [Izvješća o reviziji](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
+  - [Izvješća o nadzoru](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Informacije o **zahtjevima za predmetom podataka** (dosr-u) – Otkrij, pristupi, ispravi, ograniči, Izbriši, izvoz je [ovdje.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Informacije o **zahtjevima ispitanika** (DSR) – otkrivanje, pristup, ispravljanje, ograničavanje, brisanje, izvoz su [ovdje.](/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Informacije o **obavijesti o narušavanju podataka** nalaze se [ovdje.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- Informacije o **obavijesti o kršenju podataka** potražite [ovdje.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
-- Informacije o **lokacijama podataka** nalaze se [ovdje.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Informacije o **mjestima podataka su** [ovdje.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
