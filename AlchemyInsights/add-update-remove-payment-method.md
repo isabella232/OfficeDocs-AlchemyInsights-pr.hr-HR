@@ -11,23 +11,25 @@ localization_priority: Priority
 ms.custom:
 - "9002348"
 - "4574"
-ms.openlocfilehash: f8019a0c60061734b3bd80be0a016210625116a3
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 12b0eee609f684332dbae1b88c5d43f550ea6e02
+ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601266"
+ms.lasthandoff: 06/10/2021
+ms.locfileid: "52882645"
 ---
-# <a name="add-update-or-remove-payment-method"></a><span data-ttu-id="b7e8b-102">Dodavanje, ažuriranje ili uklanjanje načina plaćanja</span><span class="sxs-lookup"><span data-stu-id="b7e8b-102">Add, update, or remove payment method</span></span>
+# <a name="add-update-or-remove-payment-method"></a><span data-ttu-id="8a040-102">Dodavanje, ažuriranje ili uklanjanje načina plaćanja</span><span class="sxs-lookup"><span data-stu-id="8a040-102">Add, update, or remove payment method</span></span>
 
-<span data-ttu-id="b7e8b-103">Proizvode i usluge možete kupiti od Microsofta kreditnom ili debitnom karticom ili preko bankovnog računa (izravno terećenje).</span><span class="sxs-lookup"><span data-stu-id="b7e8b-103">You can purchase products and services from Microsoft with a credit or debit card or bank account (direct debit).</span></span>
+<span data-ttu-id="8a040-103">**Važno:** plaćanje bankovnim računom nije dostupno u nekim državama ili regijama.</span><span class="sxs-lookup"><span data-stu-id="8a040-103">**Important**: Paying by bank account is not available in some countries or regions.</span></span> <span data-ttu-id="8a040-104">Dodatne informacije potražite u [članku Plaćanje pretplate](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="8a040-104">For more info, see [How to pay for your subscription](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).</span></span> 
 
-- <span data-ttu-id="b7e8b-104">Informacije o dodavanju bankovnog računa kao načina plaćanje pronađite u članku [Dodavanje načina plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).</span><span class="sxs-lookup"><span data-stu-id="b7e8b-104">To add a bank account as a payment method, see [Add a payment method](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).</span></span>
+<span data-ttu-id="8a040-105">Proizvode i usluge možete kupiti od Microsofta kreditnom ili debitnom karticom ili preko bankovnog računa (izravno terećenje).</span><span class="sxs-lookup"><span data-stu-id="8a040-105">You can purchase products and services from Microsoft with a credit or debit card or bank account (direct debit).</span></span>
 
-- <span data-ttu-id="b7e8b-105">Informacije o ažuriranju podataka na bankovnom računu potražite u članku [Ažuriranje detalja o načinu plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).</span><span class="sxs-lookup"><span data-stu-id="b7e8b-105">To update information on a bank account, see [Update payment method details](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).</span></span>
+- <span data-ttu-id="8a040-106">Informacije o dodavanju bankovnog računa kao načina plaćanje pronađite u članku [Dodavanje načina plaćanja](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).</span><span class="sxs-lookup"><span data-stu-id="8a040-106">To add a bank account as a payment method, see [Add a payment method](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).</span></span>
 
-- <span data-ttu-id="b7e8b-106">Da biste promijenili način plaćanja na bankovnom računu, pročitajte članak [zamjena načina plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).</span><span class="sxs-lookup"><span data-stu-id="b7e8b-106">To change the payment method to or from a bank account, see [Replace a payment method](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).</span></span>
+- <span data-ttu-id="8a040-107">Informacije o ažuriranju na bankovnom računu potražite u članku [Ažuriranje pojedinosti o načinu plaćanja](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).</span><span class="sxs-lookup"><span data-stu-id="8a040-107">To update information on a bank account, see [Update payment method details](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).</span></span>
 
-- <span data-ttu-id="b7e8b-107">Da biste uklonili bankovni račun kao način plaćanja, pročitajte članak [Brisanje načina plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).</span><span class="sxs-lookup"><span data-stu-id="b7e8b-107">To remove a bank account as a payment method, see [Delete a payment method](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).</span></span>
+- <span data-ttu-id="8a040-108">Da biste promijenili način plaćanja na bankovni račun ili s bankovnog računa, pogledajte [zamjena načina plaćanja](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).</span><span class="sxs-lookup"><span data-stu-id="8a040-108">To change the payment method to or from a bank account, see [Replace a payment method](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).</span></span>
 
-<span data-ttu-id="b7e8b-108">Dodatne informacije potražite u članku [Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="b7e8b-108">For more info, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
+- <span data-ttu-id="8a040-109">Da biste bankovni račun uklonili kao način plaćanja, pogledajte [brisanje načina plaćanja](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).</span><span class="sxs-lookup"><span data-stu-id="8a040-109">To remove a bank account as a payment method, see [Delete a payment method](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).</span></span>
+
+<span data-ttu-id="8a040-110">Dodatne informacije potražite u članku [Upravljanje načinima plaćanja](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="8a040-110">For more info, see [Manage payment methods](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
