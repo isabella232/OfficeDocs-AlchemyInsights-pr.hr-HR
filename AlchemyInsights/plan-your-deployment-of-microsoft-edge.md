@@ -1,5 +1,5 @@
 ---
-title: Planiranje implementacije Microsoftova ruba
+title: Planiranje implementacije Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005291"
 - "9140"
-ms.openlocfilehash: 91f94fa8739bad387c18586fc89f69cc49675b04
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "11087"
+- "9006490"
+ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035112"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989925"
 ---
-# <a name="plan-your-deployment-of-microsoft-edge"></a>Planiranje implementacije Microsoftova ruba
+# <a name="plan-your-deployment-of-microsoft-edge"></a>Planiranje implementacije Microsoft Edge
 
-Postavljanje novog preglednika na gomilu korisnika može biti zastrašujuće. Možemo vam pomoći da ga pokušate probiti u korake i provesti vas kroz svaki od njih. Ako slijedite ovih sedam koraka, imat ćete uspješnu implementaciju sustava Microsoft Edge s minimalnim frustracijom korisnika:
+Implementacija novog preglednika na grupu korisnika može biti zastrašujuća. Možemo vam pomoći da ga razlomite u korake i prođete kroz svaki od njih. Ako slijedite ovih sedam koraka, uspješna implementacija sustava Microsoft Edge minimalne korisničke frustracije:
 
 1. Procijenite postojeće okruženje i potrebe preglednika.
 2. Odredite metodologiju implementacije.
 3. Otkrivanje web-mjesta.
 4. Odredite strategiju kanala.
-5. Definiranje i Konfiguriranje pravilnika.
-6. Testiranje kompatibilnosti aplikacija
-7. Implementacija Microsoftova ruba u pilotsku grupu i provjera valjanosti.
+5. Definirajte i konfigurirajte pravilnike.
+6. Testiranje kompatibilnosti aplikacija.
+7. Implementirajte Microsoft Edge u pilot-grupu i provjerite valjanost.
 
-Da biste sami radili na ovim koracima, pročitajte članak [Planiranje implementacije Microsoftova ruba](https://go.microsoft.com/fwlink/?linkid=2129990).
+Da biste sami prošli ove korake, pogledajte planiranje [implementacije sustava Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2129990).
