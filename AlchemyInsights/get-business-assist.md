@@ -13,17 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 3adb6fb2beb8d959d170ab08ca0592a81bc62d76
-ms.sourcegitcommit: a739b533b13a9dd4c4b63f91df5629e27cc86d3d
+ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "53004983"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023131"
 ---
-# <a name="get-business-assist"></a><span data-ttu-id="8274b-102">Get Business Assist</span><span class="sxs-lookup"><span data-stu-id="8274b-102">Get Business Assist</span></span>
+# <a name="get-business-assist"></a><span data-ttu-id="f658f-102">Get Business Assist</span><span class="sxs-lookup"><span data-stu-id="f658f-102">Get Business Assist</span></span>
 
-1. <span data-ttu-id="8274b-103">U Centar za administratore okruženja Microsoft 365 idite na **Pretplatničke**  >  **poslovne pomoći**.</span><span class="sxs-lookup"><span data-stu-id="8274b-103">In the Microsoft 365 admin center, go to **Subscriptions** > **Business Assist**.</span></span>
+1. <span data-ttu-id="f658f-103">U Centar za administratore okruženja Microsoft 365 idite na [stranicu Poslovna podrška za Microsoft 365 ,](https://go.microsoft.com/fwlink/p/?linkid=2158423)odaberite učestalost naplate, a zatim odaberite **Kupi**.</span><span class="sxs-lookup"><span data-stu-id="f658f-103">In the Microsoft 365 admin center, go to the [Business Assist for Microsoft 365 page](https://go.microsoft.com/fwlink/p/?linkid=2158423), select a billing frequency, and then select **Buy**.</span></span>
+2. <span data-ttu-id="f658f-104">Slijedite korake za odjavu.</span><span class="sxs-lookup"><span data-stu-id="f658f-104">Follow the steps to check out.</span></span>
 
-1. <span data-ttu-id="8274b-104">Odaberite **Kupnja za**  >  **poslovnu** pomoć , a zatim slijedite čarobnjak da biste kupili poslovnu pomoć.</span><span class="sxs-lookup"><span data-stu-id="8274b-104">Select **Business Assist** > **Buy**, and follow the wizard to purchase Business Assist.</span></span>
-
-<span data-ttu-id="8274b-105">Dodatne informacije potražite u [članku Poslovna podrška za Microsoft 365](/microsoft-365/admin/misc/business-assist).</span><span class="sxs-lookup"><span data-stu-id="8274b-105">To learn more, see [Business Assist for Microsoft 365](/microsoft-365/admin/misc/business-assist).</span></span>
+<span data-ttu-id="f658f-105">Dodatne informacije potražite u [članku Poslovna podrška za Microsoft 365](/microsoft-365/admin/misc/business-assist).</span><span class="sxs-lookup"><span data-stu-id="f658f-105">To learn more, see [Business Assist for Microsoft 365](/microsoft-365/admin/misc/business-assist).</span></span>
