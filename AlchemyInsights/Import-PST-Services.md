@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721628"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023095"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Uvoz servisa
 
@@ -29,9 +29,9 @@ Da biste pristupili servisu Uvoz i pokrenuli postupak uvoza:
 
 1. U lijevom oknu centra za usklađenost sustava M365 u odjeljku **Rješenja odaberite** **Uvoz upravljanja**  >  **informacijama**.
 
-1. Na **stranici Uvoz** odaberite **Novi zadatak uvoza**.
+1. Na **stranici Uvoz** odaberite **Novi zadatak uvoza**. Unesite naziv posla, a zatim odaberite **Dalje**.
 
-1. Da biste dovršili korake u čarobnjaku, pogledajte korištenje [mrežnog prijenosa da biste](/compliance/use-network-upload-to-import-pst-files)uvezli PST datoteke tvrtke ili ustanove u Microsoft 365 .
+1. Odaberite **Prijenos podatke da biste** koristili mogućnost prijenosa mreže za vrstu posla **uvoza**. Detaljne korake potražite u članku Uvoz PST datoteka tvrtke ili ustanove pomoću [mrežnog prijenosa u Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
 
 Da biste **pristupili stranici** Uvoz, provjerite jesu li vam dodijeljene odgovarajuće dozvole. Dodatne informacije potražite u članku Uvoz [PST datoteka pomoću mrežnog prijenosa.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 

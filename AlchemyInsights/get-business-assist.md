@@ -13,17 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 3adb6fb2beb8d959d170ab08ca0592a81bc62d76
-ms.sourcegitcommit: a739b533b13a9dd4c4b63f91df5629e27cc86d3d
+ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "53004983"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023131"
 ---
 # <a name="get-business-assist"></a>Get Business Assist
 
-1. U Centar za administratore okruženja Microsoft 365 idite na **Pretplatničke**  >  **poslovne pomoći**.
-
-1. Odaberite **Kupnja za**  >  **poslovnu** pomoć , a zatim slijedite čarobnjak da biste kupili poslovnu pomoć.
+1. U Centar za administratore okruženja Microsoft 365 idite na [stranicu Poslovna podrška za Microsoft 365 ,](https://go.microsoft.com/fwlink/p/?linkid=2158423)odaberite učestalost naplate, a zatim odaberite **Kupi**.
+2. Slijedite korake za odjavu.
 
 Dodatne informacije potražite u [članku Poslovna podrška za Microsoft 365](/microsoft-365/admin/misc/business-assist).
