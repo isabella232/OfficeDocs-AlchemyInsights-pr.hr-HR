@@ -1,5 +1,5 @@
 ---
-title: Rješavanje problema s provjerom autentičnosti SMTP-a
+title: Omogućivanje provjere autentičnosti i otklanjanja poteškoća s SMTP-om
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826407"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077643"
 ---
-# <a name="solving-smtp-authentication-issues"></a>Rješavanje problema s provjerom autentičnosti SMTP-a
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>Omogućivanje provjere autentičnosti i otklanjanja poteškoća s SMTP-om
 
-Ako prilikom slanja SMTP e-pošte i provjere autentičnosti s klijentom ili aplikacijom primate pogreške 5.7.57 ili 5.7.3, provjerite nekoliko stvari:
+Ako želite omogućiti SMTP provjeru autentičnosti za poštanski sandučić ili vam se prikazuje pogreška "Klijent nije provjeren", "Provjera autentičnosti nije uspješna" ili pogreška "SmtpClientAuthentication" s kodom 5.7.57 ili 5.7.3 ili 5.7.139 kada pokušate prenijeti e-poštu provjerom autentičnosti uređaja ili aplikacije pomoću programa Microsoft 365, izvršite sljedeće tri radnje da biste riješili problem:
 
-- Provjereno slanje SMTP-a možda je onemogućeno u klijentu ili u poštanskom sandučiću koji pokušavate koristiti (provjerite obje postavke). Dodatne informacije potražite u članku Omogućivanje i onemogućivanje provjere [autentičnosti smtp slanja](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)klijenta .
+1. Onemogućivanje [sigurnosnih zadanih postavki](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) za Azure tako da sigurnosne zadane **postavke omogućite** na **Ne**.
 
-- Provjerite jesu [li za vaš klijent omogućene](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) zadane postavke sigurnosti za Azure; ako je omogućena, SMTP provjera autentičnosti pomoću osnovne provjere autentičnosti (poznata i kao naslijeđena; to će koristiti korisničko ime i lozinku) neće uspjeti.
+    a. Prijavite se na portal Azure kao administrator sigurnosti, administrator uvjetnog pristupa ili globalni administrator.<BR/>
+    b. Idite na Azure Active Directory > **Svojstva**.<BR/>
+    c. Odaberite **Upravljanje sigurnosnim zadanim postavkama**.<BR/>
+    d. Postavite **Omogući zadane sigurnosne postavke** na **Ne**.<BR/>
+    e. Odaberite **Spremi**.
+
+2. [Omogućivanje slanja klijentskog SMTP-a](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) u licenciranom poštanskom sandučiću.
+
+    a. Na Centar za administratore okruženja Microsoft 365 odaberite Aktivni **korisnici** pa odaberite korisnika.<BR/>
+    b. Idite na karticu Pošta pa u odjeljku **Aplikacije za e-poštu** odaberite **Upravljanje aplikacijama za e-poštu**.<BR/>
+    d. Provjerite je **li potvrđena provjera autentičnosti SMTP-a** (omogućeno).<BR/>
+    e. Odaberite **Spremi promjene**.<BR/>
+
+3. [Onemogućivanje višestruke provjere autentičnosti (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) u licenciranom poštanskom sandučiću.
+
+    a. Idite na Centar za administratore okruženja Microsoft 365, a zatim na lijevom navigacijskom izborniku **odaberite Korisnici**  >  **Aktivni korisnici**.<BR/>
+    b. Odaberite **Višestruka provjera autentičnosti**.<BR/>
+    c. Odaberite korisnika i **onemogućite višestruku provjeru**.<BR/>
