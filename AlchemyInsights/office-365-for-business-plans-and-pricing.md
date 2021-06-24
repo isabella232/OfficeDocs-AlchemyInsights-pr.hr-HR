@@ -1,5 +1,5 @@
 ---
-title: Tarife i cijene za Microsoft 365 za tvrtke
+title: Usporedba Microsoft 365 za tvrtke
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: dc8bb60741e4f426173e14b05800eeacad3412d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d2ca7d82257034cf4e7e0bf3520da2762233c6
+ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790792"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53104558"
 ---
-# <a name="compare-microsoft-365-for-business"></a>Usporedba sustava Microsoft 365 za tvrtke
+# <a name="compare-microsoft-365-for-business"></a>Usporedba Microsoft 365 za tvrtke
 
-Uz Microsoft 365 za tvrtke dostupne su tri različite tarife. [Usporedba tarife i cijena za Microsoft 365 za tvrtke](https://products.office.com/compare-all-microsoft-office-products?tab=2).  
+Dostupne su različite tarife s Microsoft 365 za tvrtke. Informacije o značajkama i cijenama potražite u članku [Usporedba Microsoft 365 za poslovne tarife](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products).  
