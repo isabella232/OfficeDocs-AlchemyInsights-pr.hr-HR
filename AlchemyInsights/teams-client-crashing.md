@@ -1,5 +1,5 @@
 ---
-title: Klijent za Teams se ruši?
+title: Teams klijent se ruši
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
+ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826263"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53187713"
 ---
-# <a name="teams-client-crashing"></a>Klijent za Teams se ruši?
+# <a name="teams-client-crashing"></a>Teams klijent se ruši
 
 Ako vam se klijent za Teams ruši, pokušajte sljedeće:
 
 - Ako koristite Teams za stolna računala, [provjerite je li program u potpunosti ažuriran](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Provjerite jesu li dostupni svi URL-ovi i rasponi adresa za [Microsoft 365.](https://docs.microsoft.com/microsoftteams/connectivity-issues)
+- Provjerite jesu li [dostupni Microsoft 365 URL-ovi](/microsoftteams/connectivity-issues) i rasponi adresa.
 
-- Prijavite se pomoću administratorskog računa klijenta i provjerite nadzornu ploču [stanja](https://docs.microsoft.com/office365/enterprise/view-service-health) servisa da biste provjerili ne postoji li nedostatak ili degradacija servisa.
+- Prijavite se pomoću administratorskog računa klijenta i provjerite nadzornu ploču [stanja](/office365/enterprise/view-service-health) servisa da biste provjerili ne postoji li nedostatak ili degradacija servisa.
 
-- Deinstalacija i ponovna instalacija aplikacije Teams (veza)
-    - Pronađite mapu %appdata%\Microsoft\teams\ na računalu i izbrišite sve datoteke u tom direktoriju.
-    - [Preuzmite i instalirajte aplikaciju Teams,](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)a ako je moguće, instalirajte Teams kao administrator (desnom tipkom miša kliknite instalacijski program aplikacije Teams i odaberite "Pokreni kao administrator" ako je dostupno).
+- Deinstalacija i ponovna instalacija Teams aplikacije
+    - Pronađite mapu %appdata%\Microsoft\Teams\ na računalu i izbrišite sve datoteke u tom direktoriju.
+    - [Preuzmite i instalirajte aplikaciju Teams ,](https://www.microsoft.com/microsoft-teams/download-app)a ako je moguće, instalirajte Teams kao administrator (desnom tipkom miša kliknite instalacijski program Teams pa odaberite **Pokreni kao administrator** ako je dostupan).
 
-Ako se klijent za Teams i dalje ruši, možete li reproducirati problem? Ako je tako:
+Ako se Teams i dalje ruši, pokušajte reproducirati problem. Ako možete:
 
 1. Pomoću snimača koraka snimite korake.
     - Zatvorite sve nepotrebne ili povjerljive aplikacije.
     - Pokrenite snimač koraka i reproducirajte problem dok ste prijavljeni s zahvaćenim korisničkim računom.
-    - [Prikupite zapisnike timova koji snimaju snimljene korake za reprodukciju](https://docs.microsoft.com/microsoftteams/log-files). **Napomena**: provjerite jeste li snimili adresu za prijavu na koju je korisnik na to utječe.
-    - Prikupite podatke o smetlišu i/ili košu kvara (Windows). Pokrenite Windows Powershell na računalu na kojem se ruši i pokrenite sljedeće naredbe:
+    - [Prikupite zapisnike timova koji snimaju snimljene korake za reprodukciju](/microsoftteams/log-files). **Napomena**: provjerite jeste li snimili adresu za prijavu na koju je korisnik na to utječe.
+    - Prikupite podatke o izvatkom i/ili košu kvara (Windows). Pokrenite Windows powershell na uređaju na kojem se ruši i pokrenite sljedeće naredbe (nakon svake naredbe pritisnite Enter):
 
-        `
-        PS C:\Users\user01> cd $env:temp
-        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
-        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
-        `
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
+    `notepad .\FaultBuckets.txt`
     
-2. Priložite datoteku na slučaj podrške.
+2. Kada se tekstna datoteka generira i prikaže na zaslonu, spremite datoteku i priložite je zahtjevu za servis. 
