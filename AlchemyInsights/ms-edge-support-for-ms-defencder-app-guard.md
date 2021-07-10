@@ -1,5 +1,5 @@
 ---
-title: Podrška za Microsoft Edge radi zaštite aplikacija za Microsoft Defender
+title: Microsoft Edge podršku za Microsoft Defender Application Guard
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583251"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346054"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Podrška za Microsoft Edge radi zaštite aplikacija za Microsoft Defender
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge podršku za Microsoft Defender Application Guard
 
-Dizajniran za Windows 10 i Microsoft Edge, čuvar aplikacije koristi hardver-izolaciju pristup koji omogućuje korisniku navigaciju nepouzdano web-mjesto unutar izoliranog, Hyper-V – omogućenog spremnika, razdvojenog od glavnog operacijskog sustava.
+Microsoft Defender for Identity pruža središnje mjesto na kojem administratori mogu prepoznati, otkriti i istraživati lokalne prijetnje identitetima. 
 
-Administrator tvrtke definira popis pouzdanih web-mjesta, resursa u oblaku i interne mreže. Kada korisnik posjeti web-mjesto koje se ne nalazi na popisu, Microsoft Edge otvorit će web-mjesto u spremniku. To znači da ako se prikaže zlonamjerno web-mjesto, glavno računalo ostat će zaštićeno, a napadač neće doći do podataka tvrtke.
+Pomoću [vodiča za postavljanje programa Microsoft Defender za](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) identitet provjerite jeste li zadovoljili sve preduvjete okruženja; stvorite instancu, povežite se sa servisom Active Directory i instalirajte senzor. 
 
-Instalacija proširenja u spremniku podržana je kao Microsoft Edge verzija 81 i može se kontrolirati putem pravilnika. Adresa updateURL koja se koristi u pravilima ExtensionInstallForcelist trebala bi biti dodana kao neutralni resurs u pravilima izolacije mreže koju koristi čuvar aplikacije.
-
-Dodatne informacije potražite u [članku Podrška za Microsoft Edge za čuvara aplikacija za Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2134229).
+Kada završite, korisnici se prate identiteti i mogu se odmah poduzeti radnje protiv zlonamjernih aktivnosti koje ugrožavaju vašu organizaciju.
