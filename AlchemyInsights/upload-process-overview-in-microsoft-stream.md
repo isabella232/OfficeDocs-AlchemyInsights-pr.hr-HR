@@ -1,7 +1,7 @@
 ---
-title: Pregled postupka prijenosa u programu Microsoft Stream
-ms.author: cmcatee
-author: cmcatee-MSFT
+title: Prijenos u programu Microsoft Stream
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5095"
-ms.openlocfilehash: d290650a1d8766650e6f88e8b0a671d67f2be85d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0b13484f14ffb55d0569625bb06a199321725345
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782287"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389101"
 ---
-# <a name="upload-process-overview-in-microsoft-stream"></a><span data-ttu-id="df3ac-102">Pregled postupka prijenosa u programu Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="df3ac-102">Upload process overview in Microsoft Stream</span></span>
+# <a name="upload-process-overview-in-microsoft-stream"></a><span data-ttu-id="e9a0e-102">Prijenos u programu Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="e9a0e-102">Upload process overview in Microsoft Stream</span></span>
 
-<span data-ttu-id="df3ac-103">Kada prenesete videozapis, Microsoft Stream automatski ga kodira u više bitrata da bi se videozapis mogao strujati pomoću prilagodljivog strujanja bitrate.</span><span class="sxs-lookup"><span data-stu-id="df3ac-103">Whenever you upload a video, Microsoft Stream automatically encodes it into multiple bitrates so the video can be streamed using adaptive bitrate streaming.</span></span> <span data-ttu-id="df3ac-104">Microsoft Stream optimizira bitrate i kvalitetu reprodukcije videozapisa na temelju dostupne propusnosti preglednika.</span><span class="sxs-lookup"><span data-stu-id="df3ac-104">Microsoft Stream optimizes the bitrate and quality of the playing video based on the viewer's available bandwidth.</span></span>
+<span data-ttu-id="e9a0e-103">Kada prenesete videozapis, Microsoft Stream automatski ga kodira u više bitrata da bi se videozapis mogao strujati pomoću prilagodljivog strujanja bitrate.</span><span class="sxs-lookup"><span data-stu-id="e9a0e-103">Whenever you upload a video, Microsoft Stream automatically encodes it into multiple bitrates so the video can be streamed using adaptive bitrate streaming.</span></span> <span data-ttu-id="e9a0e-104">Microsoft Stream optimizira bitrate i kvalitetu reprodukcije videozapisa na temelju dostupne propusnosti preglednika.</span><span class="sxs-lookup"><span data-stu-id="e9a0e-104">Microsoft Stream optimizes the bitrate and quality of the playing video based on the viewer's available bandwidth.</span></span>
 
-- [<span data-ttu-id="df3ac-105">Pregled postupka prijenosa u programu Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="df3ac-105">Upload process overview in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/upload-process-overview)
+- [<span data-ttu-id="e9a0e-105">Prijenos u programu Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="e9a0e-105">Upload process overview in Microsoft Stream</span></span>](/stream/upload-process-overview)
