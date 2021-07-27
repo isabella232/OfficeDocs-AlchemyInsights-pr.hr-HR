@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća s tijekovima rada u sustavu SharePoint
+title: Otklanjanje poteškoća s tijekovima rada u SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800240"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586926"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Otklanjanje poteškoća s tijekovima rada u sustavu SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Otklanjanje poteškoća s tijekovima rada u SharePoint
 
-**Otklanjanje poteškoća s tijekovima rada i otklanjanjem pogrešaka u sustavu SharePoint**
+**Otklanjanje poteškoća i ispravljanje pogrešaka tijekova rada u SharePoint**
 
-Pročitajte članak [Otklanjanje poteškoća s provjere valjanosti sustava SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) i [Otklanjanje pogrešaka u sustavu SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Dodatne informacije potražite u sljedećim člancima:
 
-**Power automatizacija**
+- [Otklanjanje poteškoća SharePoint provjere valjanosti tijeka rada](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Ispravljanje pogrešaka SharePoint tijekova rada](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- [Prikupljanje SharePoint 2013 Tijek rada za otklanjanje poteškoća pomoću programa ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
-Ako tek započinjete s tijekovima rada, razmislite o korištenju značajke [Power automatizacije](https://docs.microsoft.com/power-automate/modern-approvals) umjesto klasičnih rješenja tijeka rada sustava SharePoint.
+**Power Automate**
 
-Dodatne informacije potražite u odjeljku [Tijekovi rada sustava SharePoint u mirovini](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
+Ako tek počinjete s radom s tijekovima rada, razmislite [o korištenju Power Automate](/power-automate/modern-approvals) umjesto klasičnih rješenja SharePoint tijeka rada.
+
+Dodatne informacije potražite u članku [SharePoint tijekova](/alchemyinsights/sharepoint-workflows-retiring)rada koji se u sustavu .
