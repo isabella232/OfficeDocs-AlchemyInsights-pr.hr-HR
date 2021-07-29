@@ -1,5 +1,5 @@
 ---
-title: Prepoznavanje vanjskih prosljeđivanja e-pošte u poštanskom sandučiću u evidenciji nadzora
+title: Prepoznavanje vanjskog prosljeđivanja e-pošte u poštanskim sandučićima u zapisnicima nadzora
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,31 +13,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7146b2b09b6ac1e33b192dcbcbfb72ea2593313
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696289"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630241"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Određivanje kada je vanjsko prosljeđivanje e-pošte konfigurirano na poštanskim sandučićima
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Prepoznavanje kada je vanjsko prosljeđivanje e-pošte konfigurirano na poštanskim sandučićima
 
-Kada korisnik Microsoft 365 u poštanskom sandučiću konfigurira vanjsku prosljeđivanje e-pošte, aktivnost se nadzire kao dio cmdleta **Set-Mailbox** . Aktivnost možete vidjeti pomoću pretraživanja zapisnika nadzora u centru za sigurnost & usklađenosti.
+Kada korisnik Microsoft 365 vanjsko prosljeđivanje e-pošte na poštanskom sandučiću, aktivnost se nadjača kao dio cmdleta **Set-Mailbox.** Aktivnost možete vidjeti pomoću pretraživanja zapisnika nadzora u centru za & usklađenosti.
 
-1. Prijavite se u [centar za sigurnost & sustava Microsoft 365](https://protection.office.com/).
+1. Prijavite se u [centar za Microsoft 365 usklađenost](https://protection.office.com/).
 
-2. Idite na stranicu **Search**  >  **pretraživanja zapisnika nadzora** pretraživanja.
+2. Idite na stranicu **pretraživanje**  >  **zapisnika nadzora pretraživanja.**
 
-3. Odaberite raspon datuma u poljima **Datum početka** i **Datum završetka** . Ne morate navesti korisničko ime. Provjerite je li polje **aktivnosti** postavljeno **tako da pokazuje rezultate za sve aktivnosti**.
+3. Odaberite raspon datuma u poljima **Datum početka** **i Datum** završetka. Ne morate navesti korisničko ime. Provjerite je **li polje** Aktivnosti postavljeno na Prikaz rezultata za **sve aktivnosti**.
 
 4. Kliknite **Pretraživanje**.
 
-U rezultatima kliknite **Filtriraj rezultate** , a zatim u okvir Filtar aktivnosti upišite **skup poštanskih sandučića** . Odaberite zapis nadzora u rezultatima. U nastavku **Pojedinosti** kliknite **više informacija**. Da biste utvrdili je li aktivnost povezana s prosljeđivanjem e-pošte, morate pogledati pojedinosti o svakom zapisu nadzora.
+U rezultatima kliknite Filtriraj rezultate **i** u okvir filtar aktivnosti **upišite Set-Mailbox.** Odaberite zapis nadzora u rezultatima. U **letci** Detalji kliknite **Dodatne informacije**. Da biste utvrdili je li aktivnost povezana s prosljeđivanjem e-pošte, morate pogledati pojedinosti o svakom zapisu nadzora.
 
-- **Objektand**: vrijednost pseudonima poštanskog sandučića koji je promijenjen.
+- **ObjectId**: vrijednost pseudonima izmijenjenog poštanskog sandučića.
 
-- **Parametri**: _forwardingsmtpaddress_ označava ciljnu adresu e-pošte.
+- **Parametri:** _ForwardingSmtpAddress označava_ odredišnu adresu e-pošte.
 
-- **Userid**: korisnik koji je konfigurirao prosljeđivanje e-pošte na poštanskom sandučiću u polju **Objekt** .
+- **UserId**: korisnik koji je konfigurirao prosljeđivanje e-pošte u poštanskom sandučiću u **polju ObjectId.**
 
-Dodatne informacije potražite u članku [određivanje tko je postavio prosljeđivanje e-pošte za poštanski sandučić](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
+Dodatne informacije potražite u članku [Određivanje tko je postavio prosljeđivanje e-pošte za poštanski sandučić.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
