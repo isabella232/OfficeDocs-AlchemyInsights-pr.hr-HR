@@ -1,8 +1,9 @@
 ---
-title: Dodavanje sjedala u prepaid pretplatu
+title: Dodavanje mjesta u unaprijed plaćenu pretplatu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "663"
 - "1500007"
-ms.openlocfilehash: 28601f73a9766a516565d29e1c0f24f20b5e731a
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.date: 04/21/2020
+ms.openlocfilehash: 3fd9ec088bc58cbe062da01be31caf8e7982038a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601131"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53680434"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Dodavanje sjedala u prepaid pretplatu
+# <a name="add-seats-to-a-prepaid-subscription"></a>Dodavanje mjesta u unaprijed plaćenu pretplatu
 
-Prepaid licence objavljuju vam se kao alfanumerički kod od 25 znakova. Nakon kupnje licenci koje su vam potrebne, možete ih dodati u pretplatu.
+Unaprijed plaćene licence izdaju se kao alfanumerički kod od 25 znakova. Kada ste kupili potrebne licence, možete ih dodati u pretplatu.
 
-1. U centru za administratore otvorite stranicu **naplata**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Na kartici **proizvodi** odaberite pretplatu na koju želite dodati licence.
-3. Na stranici Detalji o pretplati u odjeljku **licence** odaberite **Dodaj više licenci**.
-4. U oknu **dodavanje dodatnih licenci** odaberite **koristi novi i neiskorišteni ključ proizvoda**, a zatim odaberite **dalje**.
-5. Unesite ključ proizvoda, a zatim odaberite **dalje**.
+1. U centru za administratore idite na stranicu **Naplata**  >  **[proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Na **kartici** Proizvodi odaberite pretplatu na koju želite dodati licence.
+3. Na stranici s pojedinostima o **pretplati u odjeljku Licence** **odaberite Dodaj dodatne licence**.
+4. U **oknu Dodavanje dodatnih licenci** odaberite **Koristi novi i neiskorišteni ključ proizvoda**, a zatim **Dalje**.
+5. Unesite ključ proizvoda, a zatim odaberite **Dalje**.
     > [!NOTE]
-    > Ako imate više ključeva proizvoda, možete odabrati **Dodajte još jedan ključ proizvoda** da biste ih unijeli.
-6. Pregledajte detalje narudžbe, a zatim odaberite **Iskoristi**.
+    > Ako imate više ključa proizvoda, možete odabrati Dodaj drugi **ključ proizvoda da biste** ih unijeli.
+6. Pregledajte pojedinosti o narudžbi, a zatim **odaberite Iskoristi**.
 
-Dodatne informacije potražite u članku [Dodavanje licenci i proširenje pretplate plaćene za korištenje ključa proizvoda](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).
+Dodatne informacije potražite u članku Dodavanje licenci u pretplatu ili [proširivanje pretplate plaćene pomoću ključa proizvoda](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).
