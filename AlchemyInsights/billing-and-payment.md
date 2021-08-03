@@ -3,6 +3,8 @@ title: Naplata i plaćanje
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820386"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686878"
 ---
 # <a name="billing-and-payment"></a>Naplata i plaćanje
 
@@ -52,10 +55,10 @@ Ako ste dodali novu karticu i i dalje primate obavijest o odbijanju na staroj kr
 
 7. Novi način plaćanja već je odabran na padajućem popisu. Odaberite **Zamijeni**.
 
-Dodatne informacije potražite u članku [Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Dodatne informacije potražite u članku [Upravljanje načinima plaćanja](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Učestalost naplate**
 
 Računi se generiraju mjesečno ili godišnje, ovisno o učestalosti naplate odabranoj prilikom odjave.  
 
-**Napomena:** narudžbe s godišnjom naplatom mogu primiti račun sredinom razdoblja ako su izvršene promjene, npr. dodavanje ili uklanjanje licenci. [Promijenite učestalost naplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Napomena:** narudžbe s godišnjom naplatom mogu primiti račun sredinom razdoblja ako su izvršene promjene, npr. dodavanje ili uklanjanje licenci. [Promijenite učestalost naplate](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

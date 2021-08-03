@@ -1,9 +1,10 @@
 ---
-title: Kada se generira naredba naplata?
+title: Kada se generira izvješće o naplati?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 7ed64f01d3376541eba80013ae354005f2366214
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6e47b352ed0ea0d40af19a54b79fafd1a431aaa
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719189"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685150"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Kada se generira naredba naplata
+# <a name="when-is-the-billing-statement-generated"></a>Kada se generira izvješće o naplati
 
-Datum izvatka postavljen je na dan u mjesecu nakon stvaranja računa. Primjerice, ako ste svoj račun stvorili 20-og siječnja, vaš Datum izvatka postavljen je na 21 za svaki naredni mjesec.
+Datum izjave postavljen je na dan u mjesecu nakon stvaranja računa. Ako ste, primjerice, stvorili račun 20. siječnja, datum izjave postavljen je na 21. za svaki sljedeći mjesec.
 
-Dodatne naknade koje se javljaju tijekom aktivnog ciklusa naplate uključene su u fakturu za sljedeći mjesec. Datumi početka i završetka ciklusa naplate za svaki račun navedeni su u **sažetku** fakture za naplatu.
+Dodatni troškovi koji se javljaju tijekom aktivnog ciklusa naplate obuhvaćeni su fakturom za sljedeći mjesec. Datumi početka i završetka ciklusa naplate za svaku fakturu navedeni su **u sažetku naplate** fakture.
 
-Kreditna kartica i/ili bankovni račun (ako je primjenjivo) uplate se podmiruju dan nakon **datuma fakture**.
+Plaćanje kreditnom karticom i/ili bankovnim računom (ako je primjenjivo) namiruju se dan nakon **datuma fakture.**
   
-Dodatne informacije potražite u članku [razumijevanje fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Dodatne informacije potražite u članku [Razumijevanje fakture](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
