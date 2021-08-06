@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7323"
-ms.openlocfilehash: 086b91c3247214d33e9b71b53ea6ba4d001936e3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 378ad1434f80d31c9649cecee363a448fb6dc342d36dc06123a59bacfd9d73f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677104"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908433"
 ---
 # <a name="update-taxvat-id"></a>Ažuriranje ID-a poreza/PDV-a
 
-Ako imate problema vezanih uz Porezni/Porezni ID, obratite se svojem partnerskom licenciranju (partner ili Software Advisor). Kontaktirat će regionalni operacijski centar (ROC) radi pitanja vezana uz vaš ID poreza/PDV-a. 
+Ako imate bilo kakvih problema povezanih s VAŠIM POREZNIM ID-om/PDV-om, obratite se Microsoftovu partneru za licenciranje (partneru ili savjetniku za softver). Oni će se obratiti Regionalnom centru za operacije (ROC) za pitanja vezana uz vaš POREZNI/PDV ID. 

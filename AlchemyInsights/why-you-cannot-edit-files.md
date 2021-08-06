@@ -14,27 +14,27 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664486"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907802"
 ---
 # <a name="why-cant-i-edit-files"></a>Zašto ne mogu uređivati datoteke?
 
-Pogledajte neki od razloga [zbog kojih možda nećete moći uređivati datoteku](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Pogledajte neke od razloga zbog kojih možda nećete moći [uređivati datoteku](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Ako imate biblioteke s stavkama za **odjavu, obavezne** ili **provjere valjanosti** ili metapodacima ili kada je **Sigurnost stavke skice** postavljena na **samo korisnike koji mogu uređivati** ili **samo korisnike koji mogu odobriti stavke** u postavkama verzije biblioteke:
+Ako imate biblioteke s     **odjavama,** obaveznim stupcima ili metapodacima provjere valjanosti ili kada je sigurnost stavki skice postavljena samo na korisnike koji mogu uređivati ili samo korisnike koji mogu odobriti stavke u verziji Postavke biblioteke:
 
-- U bibliotekama dokumenata sustava SharePoint ove će se stavke sinkronizirati samo za čitanje.
+- Za SharePoint dokumenata te će se stavke sinkronizirati kao samo za čitanje.
 
-- Za biblioteke servisa OneDrive na servisu OneDrive prikazat će se ikona brava (ikona zaključana datoteka servisa OneDrive) uz status sinkronizacije, a korisnik neće moći sinkronizirati biblioteku dok ne uklonite navedene postavke. 
+- Ako OneDrive biblioteke, OneDrive će pokraj statusa sinkronizacije prikazati ikonu lokota (ikona zaključane datoteke OneDrive ) i korisnik neće moći sinkronizirati biblioteku dok se ne uklone navedene postavke. 
 
 Dodatne informacije o zaključanim datotekama za Word ili Excel potražite u člancima u nastavku.
 
-- [Pojavila se pogreška "prijenos nije uspjelo" ili "nije moguće spremiti automatski" prilikom uređivanja datoteke sustava Office](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [Pojavila mi se pogreška "Prijenos nije uspjelo" ili "Nije moguće automatski spremiti" tijekom uređivanja datoteke Office datoteke](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
-- [Datoteka programa Excel zaključana je za uređivanje od strane drugog korisnika](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel je datoteka zaključana radi uređivanja drugog korisnika](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [Datoteka programa Word zaključana je za uređivanje od strane drugog korisnika](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Datoteka programa Word zaključana je radi uređivanja drugog korisnika](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)

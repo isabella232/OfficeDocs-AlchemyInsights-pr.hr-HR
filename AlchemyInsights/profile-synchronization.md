@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923636"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kada se moj profil mijenja u aplikaciju korisničkog profila u sustavu SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kada se promjene profila sinkroniziraju s aplikacijom SharePoint korisničkog profila?
 
-SharePoint Online koristi posao mjerača vremena uvoza servisa Active Directory (Uvoz oglasa) za uvoz korisnika i grupa u aplikaciju korisničkog profila. 
+SharePoint Online koristi zadatak mjerača vremena uvoza servisa Active Directory (AD Import) za uvoz korisnika i grupa u aplikaciju korisničkih profila. 
   
-1. Uvoz oglasa sinkronizira promjene iz direktorija imenika sustava SharePoint Online u aplikaciju korisničkog profila. Te se promjene obrađuju u serijama.
+1. Ad Import sinkronizira promjene iz trgovine SharePoint online direktorija s aplikacijom korisničkih profila. Te se promjene obrađuju u grupama.
     
-2. Zadatak mjerača vremena pokrenut će se dok se promjene ne sinkroniziraju.
+2. Zadatak mjerača vremena izvodi se dok se promjene ne sinkroniziraju.
     
 > [!NOTE]
-> Vrijeme koje je potrebno pokrenuti posao ovisi o broju promjena u obradi. Veliki broj promjena traje dulje. Ugovor o razini servisa (SLA) navodi da će se promjena korisnika u direktoriju sustava SharePoint Online odraziti u aplikaciji korisnički profil u 24 sata. 
+> Vrijeme potrebno za pokretanje posla ovisi o broju promjena u postupku. Velik broj promjena traje dulje. U ugovoru o razini usluge (SLA) navodi se da će se promjena na korisnika u direktoriju SharePoint online odražavati u aplikaciji korisničkih profila za 24 sata. 
   
-[Dodatne informacije o sinkronizaciji korisničkog profila u sustavu SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Dodatne informacije o sinkronizaciji korisničkog profila u web-mjestu SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

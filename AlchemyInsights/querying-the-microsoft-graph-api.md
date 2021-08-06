@@ -1,5 +1,5 @@
 ---
-title: Postavljanje upita u API-ju programa Microsoft Graph
+title: Upit o API-ju Graph microsofta
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923231"
 ---
-# <a name="querying-the-microsoft-graph-api"></a>Postavljanje upita u API-ju programa Microsoft Graph
+# <a name="querying-the-microsoft-graph-api"></a>Upit o API-ju Graph microsofta
 
-Ova se tema može primijeniti i na programere koji se i dalje koriste API-jem Azure AD Graph. Međutim **, preporuča se** da koristite Microsoft Graph za sve vaše mape, identitete i upravljanje pristupom.
+Ova se tema može primijeniti i na razvojne inženjere koji i dalje koriste AZURE AD Graph API. No preporučuje se **da koristite** Microsoft Graph za sve scenarije direktorija, identiteta i upravljanja pristupom.
 
-**Problemi s autentifikaciju i autorizacija**
+**Problemi s provjerom autentičnosti ili autorizacijom**
 
-- Ako aplikacija **ne može nabaviti tokene** za pozivanje programa Microsoft Graph, odaberite **problem s mogućnošću dobivanja tokena programa Access (provjera autentičnosti)** u kategoriji Microsoft Graph da biste dobili konkretniju pomoć i podršku u ovoj temi.
-- Ako aplikacija **dobiva 401 ili 403 pogreške** prilikom pozivanja programa Microsoft Graph, odaberite kategoriju **Dohvaćanje pogreške (autorizacija)** sustava Microsoft Graph API da biste dobili konkretniju pomoć i podršku u ovoj temi.
+- Ako vaša aplikacija ne može nabaviti **tokene** da bi zvala Microsoft Graph, odaberite Problem s dohvaćanje tokena za **pristup (provjera autentičnosti)** Microsoft Graph kategorije da biste dobili konkretnu pomoć i podršku za ovu temu.
+- Ako aplikacija prima **401 ili 403** pogreške u autorizaciji prilikom pozivanja microsofta Graph, odaberite kategoriju Dobivanje pogreške o odbijenom **pristupu (Autorizacija)** microsoft Graph API kategorije da biste dobili konkretnu pomoć i podršku za ovu temu.
 
 **Želim koristiti Microsoft Graph, ali ne znam gdje početi**
 
-Dodatne informacije o programu Microsoft Graph potražite u člancima:
+Dodatne informacije o programu Microsoft Graph potražite u članku:
 
 - [Pregled programa Microsoft Graph](https://docs.microsoft.com/graph/overview)
-- [Pregled identiteta i upravljanja pristupom u programu Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Početak izgradnje aplikacija Microsoft Graph](https://docs.microsoft.com/graph/)
-- **Eksplorer za Microsoft Graph** – testiranje programa Microsoft Graph u klijentu ili demo klijentu
+- [Pregled upravljanja identitetom i pristupom u programu Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Početak rada s radom u aplikacijama Graph Microsoft Graph](https://docs.microsoft.com/graph/)
+- **Microsoft Graph Explorer** – testirajte API-je Graph Microsofta na klijentu ili na oglednom klijentu
 
-**Želim koristiti Microsoft Graph, ali podržava li API-ju direktorija v 1.0 koji mi je potreban?**
+**Želim koristiti Microsoft Graph, ali podržava li apije direktorija v1.0 koje su mi potrebne?**
 
-Microsoft Graph Preporučeni je API za upravljanje direktoriju, Identity i Access. No još ima nekoliko praznina između mogućnosti u programu Azure AD Graph i Microsoft Graph. Pregledajte sljedeće članke, što naglašava najnovije razlike koje će vam pomoći u odabiru:
+Microsoft Graph preporučeni API za upravljanje direktorijem, identitetom i pristupom. No i dalje postoji nekoliko praznina između mogućnosti servisa Azure AD Graph Microsoft Graph. Pregledajte sljedeće članke u kojima se ističu najatragnije razlike koje će vam pomoći u odabiru:
 
-- [Razlike u vrsti resursa između Azure AD Graph i Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Razlike u svojstvima između Azure AD Graph i Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [Metode razlike između servisa Azure AD i Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Razlike u vrsti resursa između servisa Azure AD Graph i Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [Razlike u svojstva između servisa Azure AD Graph i Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [Razlike u metodi između servisa Azure AD i Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**Kada upitam *korisnički* objekt, nedostaju mnoga njegova svojstva**
+**Kada upitam objekt *korisnika,* nedostaju mnoga njegova svojstva**
 
-`GET https://graph.microsoft.com/v1.0/users` vraća samo 11 svojstava, jer Microsoft Graph automatski odabire zadani skup *korisničkih* svojstava za povratak. Ako vam je potrebna druga *korisnička* svojstva, koristite $Select da biste odabrali svojstva koja je potrebna aplikaciji. Najprije isprobajte u programu **Microsoft Graph Explorer** .
+`GET https://graph.microsoft.com/v1.0/users`vraća samo 11 svojstava jer Microsoft Graph automatski odabire zadani skup *korisničkih svojstava za* vraćanje. Ako su vam potrebna *druga korisnička* svojstva, pomoću $select odaberite svojstva koja su potrebna vašoj aplikaciji. Najprije isprobajte u **programu Microsoft Graph Explorer.**
 
-**Neke su vrijednosti korisničkog svojstva *Null* iako znam da su postavljeni**
+**Neke vrijednosti svojste korisnika *imaju vrijednost null* iako znam da su postavljene**
 
-Najvjerojatnije je objašnjenje da je aplikaciji dodijeljen *korisnik. ReadBasic. sve* dozvole. Time se aplikaciji omogućuje čitanje ograničenog skupa korisničkih svojstava, vraćanje svih ostalih svojstava kao null, čak i ako su prethodno bili postavljeni. Pokušajte dodijelite korisniku aplikacije *. pročitajte. svi* dozvola umjesto.
+Najvjerojatnije je objašnjenje da je aplikaciji dodijeljena dozvola *User.ReadBasic.All.* To aplikaciji omogućuje čitanje ograničenog skupa korisničkih svojstava, vraćanje svih ostalih svojstava kao null čak i ako su prethodno postavljena. Pokušajte umjesto toga dodjeljujte *aplikaciju User.Read.All* dozvolu.
 
-Dodatne informacije potražite u [članku korisničke dozvole za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
+Dodatne informacije potražite u članku [Korisničke Graph microsofta](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
 
-**Imam problema s upotrebom parametara OData Query za filtriranje podataka u mojim zahtjevima**
+**Imam problema s korištenjem OData parametara upita za filtriranje podataka u svojim zahtjevima**
 
-Dok Microsoft Graph podržava širok raspon parametara OData upita, mnogi od tih parametara nisu u potpunosti podržani od strane imeničkih servisa (resursa koji nasljeđuju od *Directoryobject*) u programu Microsoft Graph. Ista ograničenja koja su bila prisutna u programu Azure AD Graph najviše su dio u programu Microsoft Graph:
+Iako Microsoft Graph podržava širok raspon parametara OData upita, mnoge od tih parametara ne podržavaju u potpunosti imenički servisi (resursi koji nasljeđuju od *direktorijaObject*) u programu Microsoft Graph. Ista ograničenja koja su bila prisutna u servisu Azure AD Graph uglavnom se zadržavaju u programu Microsoft Graph:
 
-1. **Nije podržano**: $count, $search i $filter na *Null* ili *Not null* vrijednosti
-2. **Nije podržano**: $filter na određenim svojstvima (Pogledajte teme resursa na kojima je moguće filtrirati svojstva)
-3. **Nije podržano**: straničenje, filtriranje i sortiranje u isto vrijeme
-4. **Nije podržano**: filtriranje odnosa. Na primjer – Pronađite sve članove grupe za inženjerstvo u Velikoj Britaniji.
-5. **Djelomična podrška**: $OrderBy na *korisniku* (samo DisplayName i UserPrincipalName) i *grupa*
-6. **Djelomična podrška**: $filter (podržava samo *IQ*, *Startswith*, *or*, *and* i ograničenu *bilo koju*) podršku, $Expand (proširenje odnosa jednog objekta vraća sve odnose, ali je ograničena zbirka odnosa objekata)
+1. **Nije podržano**: $count, $search i $filter *vrijednosti* null ili *ne*
+2. **Nije podržano**: $filter određenih svojstava (pogledajte teme resursa o tome koja se svojstva mogu filtrirati)
+3. **Nije podržano:** istodobno straničenje, filtriranje i sortiranje
+4. **Nije podržano:** filtriranje odnosa. Na primjer – pronađite sve članove inženjerske grupe koji se nalaze u Velikoj Britaniji.
+5. **Djelomična podrška**: $orderby *korisniku* (samo displayName i userPrincipalName) i *grupi*
+6. **Djelomična** podrška : $filter (podržava samo *eq*, *počinje* s podrškom *ili* *,* i , i ograničenom ) podrškom, $expand (proširivanje odnosa jednog objekta vraća sve odnose, ali proširivanje zbirke odnosa objekata je ograničeno)
 
-Dodatne informacije potražite u članku [Prilagodba odgovora s parametrima upita](https://docs.microsoft.com/graph/query-parameters).
+Dodatne informacije potražite u članku [Prilagodba odgovora parametrima upita](https://docs.microsoft.com/graph/query-parameters).
 
 **API koji pozivam ne funkcionira – gdje mogu učiniti više testiranja?**
 
-**Eksplorer za Microsoft Graph** -Testirajte Microsoft Graph Apis u klijentu ili demo klijentu, a pogledajte i **ogledne upite** u programu Microsoft Graph Explorer.
+**Microsoft Graph Explorer** – testirajte API-je microsoft Graph na klijentu ili oglednom klijentu te pogledajte ogledne upite **u** programu Microsoft Graph Explorer.
 
-**Prilikom upita za podatke čini se kao da dobivam nepotpun skup podataka natrag**
+**Prilikom upita za podatke čini se da mi se vraća nepotpun skup podataka**
 
-Ako postavljate upit za zbirku (kao što su *korisnici*), Microsoft Graph koristi ograničenja stranice poslužitelja pa se rezultati uvijek vraćaju s zadanom veličinom stranice. Aplikacija bi uvijek trebala očekivati da će se na nju prikazivati zbirke vraćene iz servisa.
+Ako upitujete zbirku (kao što su *korisnici),* Microsoft Graph koristi ograničenja stranica na strani poslužitelja da bi se rezultati uvijek vraćali sa zadanom veličinom stranice. Vaša bi aplikacija uvijek trebala očekivati da će se stranica preusmjehivati putem zbirki koje se vraćaju iz servisa.
 
-Dodatne informacije potražite u članku:
+Dodatne informacije potražite u sljedećim člancima:
 
-- [Najbolja praksa u programu Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Podaci o programu Microsoft Graph u aplikaciji](https://docs.microsoft.com/graph/paging)
+- [Najbolje prakse Graph microsofta](https://docs.microsoft.com/graph/best-practices-concept)
+- [Paging Microsoft Graph podataka u aplikaciji](https://docs.microsoft.com/graph/paging)
 
-**Moja aplikacija je prespora, a dobiva se i grlo. Koja poboljšanja mogu unijeti?**
+**Aplikacija je prespora i usporava se. Koja poboljšanja mogu učiniti?**
 
-Ovisno o scenariju, na raspolaganju su vam razne mogućnosti da bi vam aplikacija bila više performant, a u nekim slučajevima i manje sklona tome da vas servis upravlja (kada stvarate previše poziva).
+Ovisno o scenariju, na raspolaganju su vam brojne različite mogućnosti da bi aplikacija bila performantna, a u nekim slučajevima manje sklona tome da vas servis gasi (kada upućivanje previše poziva).
 
 Dodatne informacije potražite u člancima:
 
-- [Najbolja praksa u programu Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Zahtjevi za bating](https://docs.microsoft.com/graph/json-batching)
-- [Evidentiranje promjena putem Delta upita](https://docs.microsoft.com/graph/delta-query-overview)
-- [Primanje obavijesti o promjenama putem webkuke](https://docs.microsoft.com/graph/webhooks)
+- [Najbolje prakse Graph microsofta](https://docs.microsoft.com/graph/best-practices-concept)
+- [Skupni zahtjevi](https://docs.microsoft.com/graph/json-batching)
+- [Evidentiranje promjena kroz delta upit](https://docs.microsoft.com/graph/delta-query-overview)
+- [Primaj obavijesti o promjenama putem webhooksa](https://docs.microsoft.com/graph/webhooks)
 - [Smjernice za ograničavanje](https://docs.microsoft.com/graph/throttling)
 
 **Gdje mogu pronaći dodatne informacije o pogreškama i poznatim problemima?**
 
-- [Podaci o pogrešci odgovora na Microsoft Graph](https://docs.microsoft.com/graph/errors)
+- [Informacije o Graph pogreškama u programu Microsoft](https://docs.microsoft.com/graph/errors)
 - [Poznati problemi s programom Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
 
-**Gdje mogu provjeriti status dostupnosti i povezivanja servisa?**
+**Gdje mogu provjeriti status dostupnosti i povezivosti servisa?**
 
-Dostupnost servisa i povezivanje osnovnih servisa kojima se može pristupiti putem programa Microsoft Graph može utjecati na ukupnu dostupnost i performanse programa Microsoft Graph.
+Dostupnost servisa i povezivost temeljnih servisa kojima se može pristupiti putem servisa Microsoft Graph mogu utjecati na ukupnu dostupnost i performanse microsoftovih Graph.
 
-- Da biste provjerili stanje servisa Azure Active Directory, provjerite status **sigurnosnih + identifikacijskih** servisa navedenih na [stranici statusa Azure](https://azure.microsoft.com/status/).
-- Za servise sustava Office koji pridonose programu Microsoft Graph provjerite status servisa navedenih na [nadzornoj ploči zdravstvene službe sustava Office](https://portal.office.com/adminportal/home#/servicehealth).
+- Da Azure Active Directory stanje servisa, provjerite status servisa **Sigurnost + Identitet** servisa navedenih na [stranici stanja servisa Azure](https://azure.microsoft.com/status/).
+- Da Office servise koji pridonose sustavu Microsoft Graph, provjerite status servisa navedenih u nadzornoj [Office stanja servisa](https://portal.office.com/adminportal/home#/servicehealth).

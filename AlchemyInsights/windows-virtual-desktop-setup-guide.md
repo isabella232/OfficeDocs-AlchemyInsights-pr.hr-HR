@@ -1,5 +1,5 @@
 ---
-title: Postavljanje virtualne radne površine sustava Windows
+title: Postavljanje Windows virtualne radne površine
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677105"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036628"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>Postavljanje virtualne radne površine sustava Windows
+# <a name="set-up-windows-virtual-desktop"></a>Postavljanje Windows virtualne radne površine
 
-Virtualna radna površina u sustavu Windows sveobuhvatna je radna površina i servis za virtualizaciju aplikacija pokrenut u oblaku. To je jedina infrastruktura virtualne radne površine (VDI) koja omogućuje pojednostavnjeni upravljanje, multi-session Windows 10, optimizacije za aplikacije Microsoft 365 i podršku za okruženja udaljene radne površine (RDS-a). Implementirajte i Razmaknite stolna računala i aplikacije sustava Windows na Azure u minutama i nabavite ugrađene značajke sigurnosti i usklađenosti.
+Windows Virtualna radna površina sveobuhvatan je servis za virtualizaciju radne površine i aplikacija koji se izvodi u oblaku. To je jedina virtualna infrastruktura za stolna računala (VDI) koja omogućuje pojednostavljeno upravljanje, višesadržaje Windows 10, optimizacije za Microsoft 365 Apps i podršku za okruženja servisa udaljene radne površine (RDS). Implementirajte i skalirajte Windows računala i aplikacije na Azure za nekoliko minuta i nabavite ugrađene značajke sigurnosti i usklađenosti.
 
-[Vodič za postavljanje virtualne radne površine sustava Windows](https://go.microsoft.com/fwlink/?linkid=2146236) administratorima nudi resurse za planiranje i preduvjete za implementaciju, upute za postavljanje i dodatne resurse.
+Vodič [Windows za postavljanje virtualne](https://go.microsoft.com/fwlink/?linkid=2146236) radne površine administratorima nudi resurse za planiranje i preduvjete za implementaciju, smjernice za postavljanje i dodatne resurse.

@@ -1,5 +1,5 @@
 ---
-title: Vraćanje izbrisanih stavki iz sustava SharePoint ili servisa OneDrive
+title: Vraćanje izbrisanih stavki iz SharePoint ili OneDrive
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d015b6a479e6045eac59c13a430ca903c497a84b12ddaeaa22aeec9fae88f4e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922295"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Vraćanje izbrisanih stavki iz sustava SharePoint ili servisa OneDrive
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Vraćanje izbrisanih stavki iz SharePoint ili OneDrive
 
-1. Otvorite OneDrive ili web-mjesto sustava SharePoint.
+1. Idite na OneDrive ili SharePoint web-mjesto.
     
-2. U lijevoj oknu kliknite **Koš za smeće** . 
+2. U **lijevom oknu kliknite** Koš za smeće. 
     
-3. Kliknite lijevu stranu stavki ili datoteka koje želite vratiti.
+3. Kliknite lijevo od stavki ili datoteka koje želite vratiti.
     
 4. Kliknite **Vrati**. 
     
-Kada se datoteke, mape, biblioteke, popisi i stavke popisa brišu s web-mjesta sustava SharePoint, odlaze u koš za smeće, gdje se čuvaju za 93 dana, osim ako ih netko ne izbriše iz koša za smeće. Ako su izbrisane iz koša za smeće (pod nazivom koš za smeće web-mjesta), odlaze u koš za smeće zbirke web-mjesta za preostalo vrijeme, a zatim se trajno brišu. Izbrisane web-mjesta i zbirke web-mjesta izravno idu u koš za smeće zbirke web-mjesta za 93 dana.
+Kada se datoteke, mape, biblioteke, popisi i stavke popisa izbrišu s web-mjesta sustava SharePoint, one se nalaze u košu za smeće u kojem se čuvaju 93 dana, osim ako ih netko ne izbriše iz tog koša za smeće. Ako su izbrisani iz tog koša za smeće (naziva se koš za smeće web-mjesta), ostat će u košu za smeće zbirke web-mjesta, a zatim se trajno brišu. Izbrisana web-mjesta i zbirke web-mjesta idu izravno u koš za smeće zbirke web-mjesta tijekom 93 dana.
   
-[Vraćanje stavki u koš za smeće zbirke web-mjesta](https://go.microsoft.com/fwlink/?linkid=867800) (administratori zbirke web-mjesta) 
+[Vraćanje stavki u košu za smeće zbirke web-mjesta](https://go.microsoft.com/fwlink/?linkid=867800) (administratori zbirke web-mjesta) 
   
-[Vraćanje izbrisanih zbirki web-mjesta](https://go.microsoft.com/fwlink/?linkid=867660) (globalni ili administratori sustava SharePoint u programu Microsoft 365) 
+[Vraćanje izbrisanih zbirki web-mjesta](https://go.microsoft.com/fwlink/?linkid=867660) (globalni ili SharePoint administratori u Microsoft 365) 
   
-Da biste web-mjesta koja pripadaju grupi Microsoft 365, morate vratiti grupu da biste vratili web-mjesto. Pročitajte članak [Vraćanje izbrisane grupe Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802) (globalni administrator) 
+Za web-mjesta koja pripadaju Microsoft 365 grupi morate vratiti grupu da biste vratili web-mjesto. Pogledajte [odjeljak Vraćanje izbrisane Microsoft 365 grupe](https://go.microsoft.com/fwlink/?linkid=867802) (globalni administrator) 
   
 

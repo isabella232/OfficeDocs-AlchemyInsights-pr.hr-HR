@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 77a3c022a9a3a82041b4a4a70c72c2e0940c0fba27f296f07881e3abebf1e464
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403735"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907730"
 ---
 # <a name="workflow-is-not-starting"></a>Tijek rada se ne započinje
 
-- Tijekovi rada sustava SharePoint 2010 i SharePoint 2013 ne počinju.
+- SharePoint tijekovi rada za 2010 SharePoint 2013 ne započinju.
 
     - Ako se tijek rada ne započinje, možda postoji privremeni problem sa servisom u kojem korisnici mogu naiči na povremene kašnjenje tijeka rada. Provjerite [nadzornu ploču stanja servisa](https://admin.microsoft.com/AdminPortal/Home/servicehealth) da biste vidjeli utječe li vaša tvrtka ili ustanova na to.
 
     - Ako je prošlo više od 24 sata od kada ste prvi put vidjeli taj problem, prijavite kartu za podršku. U mnogim slučajevima već radimo na rješenju. Dajte nam najmanje 24 sata da dovršimo rješenje.
 
-- Tijekovi rada sustava SharePoint 2010 odgođeni su pri pokretanju.
+- SharePoint tijekovi rada za 2010. odgađaju se pri pokretanju.
 
     - To se događa ako se tijek rada pokreće u velikim grupama. (na primjer, kada se doda nekoliko stavki odjednom).
 
@@ -44,6 +44,6 @@ ms.locfileid: "51403735"
 
 
 ## <a name="related-topics"></a>Povezane teme
-Želite li isprobati Microsoft Flow u sustavu SharePoint Online?
-- [Stvaranje tijeka](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Želite li isprobati Microsoft Flow SharePoint online?
+- [Stvaranje Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint i Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c8c6d80d6ec4efc77eed254103ffa52be4ab82a825a3902d490f7059708e76e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908666"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Rješavanje pogreške međuspremnika programa Excel
+# <a name="resolving-excel-clipboard-error"></a>Rješavanje pogreške Excel međuspremnika
 
 Ako se u programu Excel pojavi pogreška koja kaže: "Postoji problem s međuspremnikom, ali i dalje možete zalijepiti sadržaj unutar radne knjige", pokušajte onemogućiti značajku pretpregleda uživo na sljedeći način:
 
-1. U programu Excel kliknite **Mogućnosti**  >  **datoteke**.
-3. U **dijaloškom okviru Mogućnosti programa Excel** odaberite **Općenito**.
+1. U Excel kliknite **Mogućnosti**  >  **datoteke**.
+3. U **dijaloškom Excel mogućnosti** odaberite **Općenito**.
 4. U **odjeljku Mogućnosti korisničkog sučelja** **poništite mogućnost Omogući pretpregled uživo**.
 5. Kliknite **U redu**.
-6. Ponovno pokrenite Excel.
+6. Ponovno Excel.

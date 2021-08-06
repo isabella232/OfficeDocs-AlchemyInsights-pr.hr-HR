@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7265"
-ms.openlocfilehash: 7c4c9d1a76f395dfb2f831d555199b76c354ca57
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 1faa9f69942d39b8d78c8f3e1316f93b52eeede6408dfabc89d0f7fe38b86fb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583240"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923123"
 ---
 # <a name="rbac-rules"></a>RBAC pravila
 
-Ako vam se prikaže pogreška s dozvolom: 
+Ako vam se pojavi pogreška s dozvolama: 
 
-- **Naručitelj s ID-om objekta nema ovlaštenje za izvršavanje akcije nad optikom (kod: Autorizacija nije ispunilo proročanstvo)**: kada pokušate stvoriti resurs, provjerite jeste li trenutno prijavljeni uz korisnika kojem je dodijeljena uloga koja sadrži dozvolu za zapisivanje resursa u odabranom opsegu. Da biste, primjerice, upravljali virtualnim strojevima u grupi resursa, trebali biste imati ulogu [suradnika virtualnog stroja](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) u grupi resursa (ili nadređenom opsegu). Popis dozvola za svaku ugrađenu ulogu potražite [u članku ugrađene uloge za resurse Azure](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support).
-- Nemate **dozvolu za stvaranje zahtjeva za podršku**: kada pokušate stvoriti ili ažurirati ulaznicu za podršku, provjerite jeste li trenutno prijavljeni uz korisnika kojem je dodijeljena uloga koja sadrži dozvolu Microsoft. support/supportTickets/Write, kao što je [suradnik zahtjeva za podršku](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor).
-- **Nema više dodjela uloga koje je moguće stvoriti (kod: Roledodjela vrijednosti)**: kada pokušate dodijeliti ulogu, pokušajte smanjiti broj dodjela uloga tako da dodijelite uloge grupama. Azure podržava do **2000** dodjela uloga po pretplati.
+- Klijent s ID-om objekta nema ovlaštenje za izvršavanje akcije preko opsega **(kod: AuthorizationFailed):** kada pokušate stvoriti resurs, provjerite jeste li trenutno prijavljeni s korisnikom koji ima ulogu koja ima dozvolu za pisanje resursa u odabranom opsegu. Da biste, primjerice, upravljali virtualnim računalima u grupi resursa, trebali biste imati ulogu suradničku ulogu virtualnog računala u grupi resursa (ili nadređenom opsegu). [](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) Popis dozvola za svaku ugrađenu ulogu potražite u članku Ugrađene [uloge za resurse sustava Azure](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support).
+- **Nemate dozvolu** za stvaranje zahtjeva za podršku : kada pokušate stvoriti ili ažurirati kartu za podršku, provjerite jeste li trenutno prijavljeni s korisnikom koji ima ulogu koja ima dozvolu Microsoft.Support/supportTickets/write, kao što je suradnik zahtjeva [za podršku](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor).
+- Nije moguće stvarati više zadataka **uloga (kod: RoleAssignmentLimitExceeded):** kada pokušate dodijeliti ulogu, pokušajte smanjiti broj zadataka uloga dodjelom uloga grupama. Azure podržava do **2000** zadataka uloga po pretplati.
 
-Dodatne informacije o ulogama Azure RBAC potražite u članku [Azure RBAC uloge](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+Dodatne informacije o ulogama za Azure RBAC potražite u članku [Uloge za Azure RBAC](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support).

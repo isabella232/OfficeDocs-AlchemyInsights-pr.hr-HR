@@ -1,5 +1,5 @@
 ---
-title: Otkazana pretplata – preporučeni koraci
+title: Pretplata je otkazana – naslijeđeni – preporučeni koraci
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999052"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>Otkazana pretplata – preporučeni koraci
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>Pretplata je otkazana – naslijeđeni – preporučeni koraci
 
-Naš zapis upućuje na to da je pretplata ukinuta od strane korisnika s pravima vlasnika. Pronađite upute u nastavku da biste ponovno aktivirali pretplatu.
+Naš zapis upućuje na to da je pretplatu otkazao korisnik s vlasničkim pravima. Pronađite korake u nastavku da biste ponovno aktivirali pretplatu.
 
-[Administrator računa](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) može ponovno aktivirati otkazanu pretplatu za Pay-in-te-go u centru za račune.
+Administrator [računa može](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) ponovno aktivirati otkazanu pretplatu na Pay-As-You-Go u centru za račun.
 
-1. Prijavite se u [centar za račune](https://account.azure.com/Subscriptions).
-2. Odaberite otkazane pretplate, a zatim kliknite **Ponovno aktiviraj**.
+1. Prijavite se u [centar za račun](https://account.azure.com/Subscriptions).
+2. Odaberite otkazanu pretplatu pa **kliknite Ponovno aktiviraj**.
 
-Za druge vrste pretplate [obratite se podršci](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) da bi se vaša pretplata ponovno aktivirala.
+Za druge vrste pretplata obratite [se podršci da](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) biste ponovno aktivirali pretplatu.

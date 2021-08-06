@@ -1,5 +1,5 @@
 ---
-title: OneDrive za tvrtke Web OneDrive preusmjerava na Delve
+title: OneDrive za tvrtke Preusmjeravanja OneDrive web-mjesta na Delve
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 295dea987cd14ea848d2bf802f57429642d554b9661dc4dbfc805a447b7d0ede
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799981"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922979"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Preusmjereno na Delve nakon klika na OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Preusmjereno na Delve kada kliknete OneDrive
 
 Pogledajte naš detaljni vodič [za otklanjanje poteškoća](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
-Da bi riješio taj problem, administrator korisnicima mora dodijeliti pravo stvaranja web-mjesta Moja web-mjesta. To je zato što se stranica servisa OneDrive za tvrtke stvara na web-mjestima Moja web-mjesta.
+Da bi riješio taj problem, administrator korisnicima mora dodijeliti pravo stvaranja web-mjesta Moja web-mjesta. To je zato što se stranica OneDrive za tvrtke web-mjesta stvara na web-mjestima Moja web-mjesta.
 
 Da biste dodijelili to pravo, slijedite ove korake:
 
-1. U centru za administratore sustava SharePoint kliknite **korisnički profili**.
+1. U centru SharePoint administratora kliknite **korisnički profili**.
 
 2. U **odjeljku** Osobe kliknite Upravljanje **korisničkim dozvolama**.
 
@@ -35,4 +35,4 @@ Da biste dodijelili to pravo, slijedite ove korake:
 
 4. Kada dodate korisnika, korisnike ili grupu, provjerite je li odabran dodani korisnik,  korisnici ili grupa, pomaknite se do odjeljka s dozvolama, a zatim potvrdite okvir pokraj mogućnosti Stvaranje osobnog web-mjesta (obavezno za osobni prostor za pohranu, sažetke sadržaja vijesti **i praćeni sadržaj).**
 
-5. Kliknite **U redu**, a zatim neka korisnik otvori stranicu servisa OneDrive da biste stvorili web-mjesto.
+5. Kliknite **U** redu , a zatim neka korisnik otvori stranicu OneDrive da biste stvorili web-mjesto.

@@ -1,5 +1,5 @@
 ---
-title: Otkazivanje pretplate – nasljeđivanje – ograničenje potrošnje
+title: Pretplata je otkazana – naslijeđena – ograničenje potrošnje
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6848"
-ms.openlocfilehash: da4f7456359b04619a505d3c9fd378387c255a24
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 31480f84c8eed63163b1436246eaf1812f15f6d7c2dad29653b2019f8a15f1af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999016"
 ---
-# <a name="subscription-cancelled---legacy---spending-limit"></a>Otkazivanje pretplate – nasljeđivanje – ograničenje potrošnje
+# <a name="subscription-cancelled---legacy---spending-limit"></a>Pretplata je otkazana – naslijeđena – ograničenje potrošnje
 
-Naši zapisi ukazuju na to da na pretplati imate postavljeno ograničenje potrošnje, a upotreba je premašila ograničenje potrošnje. Dakle, vaša pretplata je onemogućena.
+Naši zapisi upućuju na to da imate ograničenje potrošnje postavljeno na pretplatu, a korištenje je prekoračilo ograničenje potrošnje. Stoga je vaša pretplata onemogućena.
 
-**Dosegnuto je ograničenje potrošnje na pretplati**
+**Dosegnuto je ograničenje potrošnje pretplate**
 
-Pretplate na Azure s kreditima imaju ograničenja potrošnje. To znači da možete koristiti samo servise do obuhvaćenih kredita. Kada upotreba dosegne ograničenje potrošnje, Azure onemogućuje pretplatu na ostatak razdoblja naplate. Vaša je pretplata onemogućena da biste vas zaštitili od slučajnog primjene naknade za korištenje izvan kredita obuhvaćenog pretplatom. Da biste uklonili ograničenje potrošnje, pročitajte članak [uklanjanje ograničenja potrošnje u centru za račune](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove).
+Pretplate na Azure s kreditima imaju ograničenja potrošnje na njih. To znači da možete koristiti samo usluge do uključenog kredita. Kada vaše korištenje dosegne ograničenje potrošnje, Azure će onemogućiti vašu pretplatu za ostatak tog razdoblja naplate. Vaša je pretplata onemogućena da bi vas zaštitila od slučajnih dodatnih troškova za korištenje izvan kreditne kartice obuhvaćene pretplatom. Da biste uklonili ograničenje potrošnje, pogledajte [uklanjanje ograničenja potrošnje u centru za račun](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove).
 
-Poduzmite sljedeće korake da biste uklonili ograničenje potrošnje i ponovno aktivirali pretplatu:
+Poduzmte sljedeće korake da biste uklonili ograničenje potrošnje i ponovno aktivirali pretplatu:
 
-1. Prijavite se na [portal Azure](https://portal.azure.com/) kao administrator računa.
+1. Prijavite se na [portal Azure kao](https://portal.azure.com/) administrator računa.
 2. Potražite **Upravljanje troškovima + naplata**.
-3. Na popisu **Moji pretplate** odaberite besplatnu pretplatu na probnu verziju/račun.
-4. U pregledu pretplate kliknite narančastu zastavu da biste uklonili ograničenje potrošnje.
-5. Odaberite želite li trajno ukloniti ograničenje potrošnje ili samo za trenutno razdoblje naplate.
-6. Kliknite **Odaberite način plaćanja** da biste odabrali način plaćanja za pretplatu. Time ćete postati aktivni način plaćanja za pretplatu.
-7. Kliknite **završi**.
+3. Na popisu **Moje pretplate odaberite** besplatnu probnu verziju/pretplatu na račun.
+4. U pregledu pretplate kliknite narančasti natpis da biste uklonili ograničenje potrošnje.
+5. Odaberite želite li neograničeno ukloniti ograničenje potrošnje ili samo za trenutno razdoblje naplate.
+6. Kliknite **Odabir načina plaćanja** da biste odabrali način plaćanja za pretplatu. To će postati aktivan način plaćanja za vašu pretplatu.
+7. Kliknite **Završi**.

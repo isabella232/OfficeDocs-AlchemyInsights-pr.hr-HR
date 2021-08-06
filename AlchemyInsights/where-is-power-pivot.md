@@ -1,5 +1,5 @@
 ---
-title: Gdje se nalazi Power pivot?
+title: Gdje je Power Pivot?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -15,31 +15,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e50382496c5f1040f3e7f149e4781392b8b48c59d0619b74a20ea324ebc8995
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907856"
 ---
-# <a name="where-is-power-pivot"></a>Gdje se nalazi Power pivot?
+# <a name="where-is-power-pivot"></a>Gdje je Power Pivot?
 
-Postoje tri razloga zbog kojih ne možete vidjeti Power pivot:
+Postoje tri razloga zašto ne vidite Power Pivot:
   
-**Vaša verzija programa Excel ne uključuje ga**
+**Vaša verzija Excel ne obuhvaća**
   
-Nisu sve verzije programa Excel uvrstili Power pivot. Morat ćete nadograditi na verziju sustava Office koja obuhvaća Power pivot. [Provjerite popis podržanih verzija.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Ne obuhvaćaju sve verzije Excel Power Pivot. Morat ćete nadograditi na verziju programa Office koja obuhvaća Power Pivot. [Provjerite popis podržanih verzija.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Niste omogućili Power pivot**
+**Niste omogućili Power Pivot**
   
-Ako radite u verziji programa Excel koja podržava Power pivot, provjerite je li dodatak omogućen:
+Ako radite u verziji programa Excel podržava Power Pivot, provjerite je li dodatak omogućen:
   
-1. Odaberite **File** \> **Options** \> **dodatke za**mogućnosti datoteka.
+1. Odaberite  \>  \> **Dodaci mogućnosti datoteke**.
 
-2. U okviru **Upravljanje** padajućim popisom odaberite **COM dodaci** , a zatim kliknite **Kreni**.
+2. U **padajućem** okviru Upravljanje odaberite **COM dodaci, a zatim** kliknite **Idi**.
 
-3. U dijaloškom okviru **COM dodaci** potvrdite okvir pokraj značajke **Microsoft Power pivot za Excel**, a zatim kliknite **u redu**.
+3. U **dijaloškom okviru** Com Dodaci potvrdite okvir uz **Microsoft Power Pivot za Excel**, a zatim kliknite U **redu**.
 
 **Imate više pretplata ili računa**
   
-Možda imate razne pretplate na Microsoft 365 dodijeljene drugim korisničkim računima. Provjerite jeste li prijavljeni na račun pomoću verzije programa Excel koja podržava Power pivot. Provjerite popis [podržanih verzija](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), a zatim slijedite upute da biste se [prebacivali s drugih računa sustava Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Možda imate različite Microsoft 365 dodijeljene različitim korisničkim računima. Provjerite jeste li prijavljeni na račun s verzijom programa Excel podržava Power Pivot. Provjerite popis podržanih [verzija i slijedite](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)upute da biste se prebacili s [Office računa](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
