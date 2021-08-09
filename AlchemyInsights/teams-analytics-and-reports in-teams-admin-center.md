@@ -1,5 +1,5 @@
 ---
-title: Analitika i izvješća aplikacije Teams u centru za administratore aplikacije Teams
+title: Teams Analitika i izvješća u centru za Teams administratore
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 9eed4a489b7308cbd1cb10d102a672831ae27b05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cc421e64d02f58a0264db5467b9473abe2b398dcca39eebe2f072a0f283276f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826299"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909053"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Analitika i izvješća aplikacije Teams u centru za administratore aplikacije Teams
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams Analitika i izvješća u centru za Teams administratore
 
-U centru za administratore **aplikacije** Teams dostupna su brojna izvješća o korištenju i aktivnostima, uključujući aktivnosti korisnika, korištenje uređaja i korištenje događaja uživo. Detalje potražite u članku [Analitika i izvješćivanje aplikacije Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
+U centru za administratore **sustava** Teams dostupno je nekoliko izvješća o korištenju i aktivnostima, uključujući aktivnosti korisnika, korištenje uređaja i korištenje događaja uživo. Detalje potražite u članku [Microsoft Teams analitiku i izvješćivanje](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
 
-**Imajte na umu:** U centru za administratore sustava Microsoft 365 dostupna su dodatna izvješća o korištenju aplikacije Teams i aktivnosti. Pogledajte [kako prikazati izvješća aplikacije Teams na nadzornoj ploči Izvješća](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
+**Imajte na umu:** U centru za Teams i aktivnosti dostupna su dodatna izvješća o korištenju Microsoft 365 za administratore aktivnosti. Pogledajte [kako prikazati izvješća Teams na nadzornoj ploči Izvješća](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
 
-Ako tražite izvješćivanje ili analitiku  povezanu s pozivima ili kvalitetom poziva **,** za povezanu dokumentaciju potražite u članku Implementacija QoS-a i praćenje kvalitete poziva u [aplikaciji Microsoft Teams.](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)
+Ako tražite izvješćivanje ili analitiku  povezanu s pozivima ili **kvalitetom** poziva , pogledajte [implementaciju QoS-a i praćenje](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) kvalitete poziva Microsoft Teams za povezanu dokumentaciju.
 
