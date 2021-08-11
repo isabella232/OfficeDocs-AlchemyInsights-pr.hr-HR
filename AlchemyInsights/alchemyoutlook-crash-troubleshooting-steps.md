@@ -1,5 +1,5 @@
 ---
-title: Upute za otklanjanje poteškoća s sudaranjem u programu Outlook
+title: Alchemy – Outlook otklanjanja poteškoća
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69c606e0987b5025a5c1e7340159ec06afe4b8e084c61615778a90114f9b4ecb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933673"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Koraci za otklanjanje poteškoća s rušenjem programa Outlook
 
-Ako imate problema s rušenjem radne površine programa Outlook, počnite pratiti tri koraka u nastavku, koji su svi navedeni u detaljima u ovom članku: [kako otkloniti poteškoće koji uzrokuju rušenje programa Outlook ili prestanak odaziva.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Ako imate problema Outlook s rušenjem radne površine, počnite od tri koraka u nastavku, koji su detaljno navedeni u ovom članku: Otklanjanje poteškoća koje uzrokuju Outlook rušenje ili [prestanu reagirati.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-Prvi korak: Istražite moguće probleme s dodacima.
+Prvi korak: istraživanje mogućih problema s dodacima.
   
-Drugi korak: popravak programa Outlook i pokretanje [alata pomoćnik za podršku i oporavak](https://aka.ms/SaRA-OutlookWontStart) radi otklanjanja pogrešaka prilikom pokretanja programa Outlook na pogođenom stroju.
+Drugi korak: popravite Outlook i [pokrenite alat pomoćnik za podršku i oporavak da](https://aka.ms/SaRA-OutlookWontStart) biste Outlook pogreške pri pokretanju na zahvaćenom uređaju.
   
-Treći korak: stvaranje novog profila programa Outlook ili pokretanje alata za [profile programa Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na pogođenom stroju.
+Treći korak: stvorite novi Outlook ili pokrenite [alat za Outlook na zahvaćenom](https://aka.ms/SaRA-OutlookSetupProfile) uređaju.
   
-Ako se problem pojavio nakon ažuriranja i ako se ne riješi ni nakon izvođenja ovih koraka, možda ćete se morati vratiti na prethodnu međuverziju. Pogledajte [kako se vratiti na stariju verziju sustava Office 2016 klikom do kraja](https://support.microsoft.com/help/2770432).
+Ako se problem pojavio nakon ažuriranja i ako se ne riješi ni nakon izvođenja ovih koraka, možda ćete se morati vratiti na prethodnu međuverziju. Pogledajte kako se vratiti na stariju verziju programa [Office 2016 klikom do pokreni](https://support.microsoft.com/help/2770432).
   

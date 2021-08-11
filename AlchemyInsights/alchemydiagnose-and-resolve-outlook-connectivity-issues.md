@@ -1,5 +1,5 @@
 ---
-title: Alzimija – dijagnosticiranje i rješavanje problema s povezivanjem programa Outlook
+title: Alchemy – dijagnosticiranje i rješavanje Outlook problema s povezivanjem
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,16 +14,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: b2cce7e7d87558a773e63f518e1a52192fefd92c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f10eb569be90ba8f5f5fafc50f70c79e15a4c693c7798f804da4206846eccecc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718685"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933709"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Dijagnosticiranje i rješavanje problema s povezivanjem s programom Outlook
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Dijagnosticiranje i rješavanje Outlook problema s povezivanjem
 
-Da biste dijagnosticirali i riješili probleme s povezivanjem u programu Outlook, možete pokrenuti [alat za povezivanje s programom Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) na pogođenom stroju.
+Da biste dijagnosticirali i riješili Outlook problema s povezivanjem, [možete pokrenuti alat za Outlook povezivanja na](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) zahvaćenom računalu.
   
-Ovaj alat izvršavat će dijagnostičku provjeru i predložiti moguća rješenja za rješavanje problema s povezivanjem u programu Outlook.
+Taj će alat provesti dijagnostičke provjere i predložiti moguća rješenja za rješavanje problema Outlook povezivanja.
   

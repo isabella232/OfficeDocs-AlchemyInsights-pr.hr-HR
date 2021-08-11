@@ -1,5 +1,5 @@
 ---
-title: Konfiguracija proxyja aplikacija
+title: Konfiguracija proxyja aplikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7800"
-ms.openlocfilehash: 0b782705afa8eab338687590baff90de4e17ccb9
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 835bfc59f77b31dc9a37c98db911505e2c7a758b37406dfc4da2d139afa61db5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951557"
 ---
-# <a name="app-proxy-configuration"></a>Konfiguracija proxyja aplikacija
+# <a name="app-proxy-configuration"></a>Konfiguracija proxyja aplikacije
 
-1. Da biste razumjeli kako konfigurirati aplikaciju proxyja aplikacije u sklopu servisa Azure AD da biste u oblak izložili lokalne aplikacije, pročitajte članak [Konfiguriranje aplikacije proxyja aplikacije](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
-2. Jedinstvena prijava (SSO) korisnicima omogućuje pristup aplikaciji bez provjere autentičnosti više puta. Omogućuje jedinstvenu provjeru autentičnosti u oblaku, na servisu Azure Active Directory i omogućuje oponašaju korisnika da izvrši dodatne izazove provjere autentičnosti u aplikaciji. Dodatne informacije potražite u članku [Konfiguriranje jedinstvene prijave u aplikaciju za proxy aplikacije](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to).
-3. Pomoću [ovog članka](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) možete otkloniti česte probleme s kojima se suočavaju osobe pri stvaranju nove aplikacije za proxy aplikacije.
-4. Ako imate problema s postavljanjem sigurnosne provjere autentičnosti u aplikaciji, možda ćete morati [otkloniti poteškoće s ograničenjem programa za delegiranje poslužitelja za proxy poslužitelje](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) ili pratiti upute za [Konfiguriranje aplikacije pomoću servisa pingaccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) da biste riješili problem.
+1. Upute za konfiguriranje aplikacije proxy aplikacije na servisu Azure AD da biste lokalne aplikacije izložili oblaku, pogledajte upute za konfiguriranje [aplikacije Proxy aplikacije](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
+2. Jedinstvena prijava (SSO) korisnicima omogućuje pristup aplikaciji bez višestruke provjere autentičnosti. Omogućuje da se jedinstvena provjera autentičnosti odvija u oblaku, Azure Active Directory i omogućuje servisu ili povezniku da oponaša korisnika da dovrši dodatne izazove provjere autentičnosti iz aplikacije. Dodatne informacije potražite u članku Konfiguriranje jedinstvene prijave u aplikaciju [Proxy aplikacije aplikacije](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to).
+3. Pomoću [ovog članka otklanjajte](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) poteškoće s kojima se osobe suočavaju prilikom stvaranja nove aplikacije proxy aplikacije.
+4. Ako imate problema s postavljanjem zamjenske provjere autentičnosti u aplikaciji, možda ćete morati otkloniti poteškoće s [konfiguracijom kerberos ograničenog](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) delegiranja za proxy aplikacije ili slijediti smjernice o konfiguriranju aplikacije pomoću značajke [PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) da biste riješili problem.

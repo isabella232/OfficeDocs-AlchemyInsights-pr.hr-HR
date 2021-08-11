@@ -1,5 +1,5 @@
 ---
-title: Uređaji na platformi Microsoft Defender za krajnju točku
+title: Onboard devices to Microsoft Defender for Endpoint
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743618"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967469"
 ---
-# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Uređaji na platformi Microsoft Defender za krajnju točku
+# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Onboard devices to Microsoft Defender for Endpoint
 
-Microsoft Defender za krajnju točku omogućuje centralizirane sigurnosne operacije za Windows i platforme koje nisu Windows. Omogućuje vam da zaštitite mrežu tvrtke ili ustanove i koristite centar za sigurnost programa Microsoft Defender da biste pregledali upozorenja iz raznih podržanih operativnih sustava:
+Microsoft Defender for Endpoint pruža središnje sigurnosno iskustvo za Windows i Windows platforme. Pomaže vam zaštititi mrežu tvrtke ili ustanove i koristiti Microsoft Defender Security Center za pregled upozorenja iz različitih podržanih operacijskih sustava:
 
-- U **sustavu Windows 10 strojevi** potražite [u članku Alati za ukrcaj i metode za uređaje sa sustavom Windows 10](https://go.microsoft.com/fwlink/?linkid=2143460).
-- Za **poslužitelje sustava Windows** pročitajte [poslužitelje na brodu u programu Microsoft Defender za servis krajnje točke](https://go.microsoft.com/fwlink/?linkid=2143627).
-- Za **krajnje točke koje nisu u sustavu Windows** Provjerite zadovoljava li vaš sustav preduvjete za [MacOS](https://go.microsoft.com/fwlink/?linkid=2143461) ili [Linux](https://go.microsoft.com/fwlink/?linkid=2143462), a zatim prijeđite na mogućnost [uukrcaj](https://go.microsoft.com/fwlink/?linkid=2143628).
+- Za **Windows 10 ,** pogledajte [alate i](https://go.microsoft.com/fwlink/?linkid=2143460)metode za Windows 10 uređaje .
+- Za **Windows potražite** u članku [Onboard servers to the Microsoft Defender for Endpoint service](https://go.microsoft.com/fwlink/?linkid=2143627).
+- Za **krajnje točke koje nisu Windows**, provjerite ispunjava li vaš sustav preduvjete za [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) ili [Linux](https://go.microsoft.com/fwlink/?linkid=2143462), a zatim prijeđite [na upad](https://go.microsoft.com/fwlink/?linkid=2143628).

@@ -1,5 +1,5 @@
 ---
-title: Promjena domene u grupi Microsoft 365
+title: Promjena domene za grupu Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: eab64b90775c28a84ebd33774ec5bf68303892dd4b2880493a4b236d9d8993d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916983"
 ---
-# <a name="change-the-domain-for-a-microsoft-365-group"></a>Promjena domene za grupu sustava Microsoft 365
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Promjena domene za grupu Microsoft 365 grupe
 
-Ako želite promijeniti domenu za grupu Microsoft 365 tijekom stvaranja, slijedite korake u odjeljku [Odabir domene koju želite koristiti prilikom stvaranja grupa microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
+Ako želite promijeniti domenu za grupu Microsoft 365 tijekom stvaranja, slijedite korake u nastavku [Odaberite domenu](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)koju želite koristiti prilikom stvaranja grupa Microsoft 365 grupe .
 
-Da biste promijenili domenu postojeće grupe Microsoft 365, kao administrator možete se kretati do centra za administratore sustava Microsoft 365, https://admin.microsoft.com a zatim poduzeti sljedeće korake:
+Da biste promijenili domenu postojeće grupe Microsoft 365, kao administrator možete se kretati do centra za Microsoft 365 za administratore, a https://admin.microsoft.com zatim izvršiti sljedeće korake:
 
-- Odabir **grupa** na lijevoj strani izbornika
-- Potražite grupu M365 koju želite izmijeniti, a zatim je odaberite, a zatim kliknite **Uređivanje** u odjeljku **adrese e-pošte** kada ste na kartici **Općenito** .
-- Sada možete promijeniti domenu njegove primarne adrese e-pošte, a možete i dodati pseudonime za e-poštu.
+- Na **izborniku** s lijeve strane odaberite Grupe
+- Potražite grupu M365 koju želite izmijeniti i odaberite je, a zatim kliknite Uređivanje u **odjeljku** **Adrese e-pošte** na **kartici** Općenito.
+- Sada možete promijeniti domenu njezine primarne adrese e-pošte, a možete i dodati pseudonime e-pošte.
 
 > [!IMPORTANT]
-> Redovite grupe za raspodjelu i sigurnosne grupe koje su omogućene za e-poštu omogućit će vam upravljanje manjim postavkama iz centra za administratore M365, sekcija **grupe** . Ako želite upravljati dodatnim detaljima, kliknite karticu **Postavke** prilikom uređivanja jedne od njih u centru za administratore sustava M365 i odaberite **Upravljanje dodatnim postavkama u odjeljku mogućnosti centra za administratore** .
+> Redovite grupe za raspodjelu i sigurnosne grupe s omogućenom poštom omogućit će vam upravljanje manjim postavkama iz odjeljka Centar za administratore sustava M365 **Grupe.** Ako želite upravljati njihovim detaljima, kliknite karticu **Postavke** prilikom uređivanja jedne od njih u centru za administratore sustava M365 i odaberite Upravljanje više postavki u **Exchange administratorskog centra.**
