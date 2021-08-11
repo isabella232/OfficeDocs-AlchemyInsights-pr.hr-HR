@@ -13,24 +13,24 @@ ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
 ms.custom:
 - "906"
 - "2000023"
-ms.openlocfilehash: dbbe86406cb1b5d2166e9f5a61df6f0803f5172b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a18ae7c7a24183e2b2d9c0768ac8770be5f8e20d8c805caa8a18ab4cd1816423
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738089"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093096"
 ---
-# <a name="solutions-for-unsupported-operating-system"></a>Rješenja za "nepodržani operacijski sustav"
+# <a name="solutions-for-unsupported-operating-system"></a>Rješenja za "Nepodržani operacijski sustav"
 
-Kada pokušate instalirati Microsoft 365, možda će vam se prikazati poruka o pogrešci koja nije **podržana** ako vaš uređaj ne zadovoljava [sistemske preduvjete](https://products.office.com/office-system-requirements).
+Kada pokušate instalirati Microsoft 365, možda ćete  vidjeti poruku o pogrešci o nepodržanom operacijskom sustavu ako uređaj ne zadovoljava [sistemske preduvjete.](https://products.office.com/office-system-requirements)
   
-Microsoft 365 zahtijeva:
+Microsoft 365 zahtijeva sljedeće:
   
-- PC: Windows 10, Windows 8,1, Windows 8, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012 ili Windows Server 2008 R2
+- PC: Windows 10, Windows 8.1, Windows 8, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012 ili Windows Server 2008 R2
 
-    ILI
+    OR
 
-- Mac OS X 10,10
+- Mac OS X 10.10
 
-Ako je poruka primljena prilikom pokušaja instalacije sustava Office na mobilni uređaj ili Chromebook, pročitajte članak [Kako instalirati i pokrenuti Microsoft Office na Chromebook](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA)-u.
+Ako ste poruku dobili prilikom pokušaja instalacije Office na mobilni uređaj ili Chromebook, pogledajte upute za instalaciju [i Microsoft Office na Chromebooku](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
   

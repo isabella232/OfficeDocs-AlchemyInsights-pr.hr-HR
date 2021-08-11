@@ -1,5 +1,5 @@
 ---
-title: 1800018 dodavanje/postavljanje računa e-pošte
+title: 1800018 Dodavanje/postavljanje računa e-pošte
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: de769d9ca58bfad687d586647a3ad4d9b7b2616a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd74173e62a5d2204641d0594e0e39587bbef869cb1ee7590a3db824a705bd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935545"
 ---
-# <a name="problems-setting-up-an-email-account-in-outlook"></a>Problemi pri postavljanju računa e-pošte u programu Outlook
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>Problemi prilikom postavljanja računa e-pošte u Outlook
 
-Ako imate problema s postavljanjem računa sustava Exchange u programu Outlook, možete pokrenuti [alat za postavljanje računa za Outlook](https://aka.ms/SaRA-OutlookSetupProfile) na pogođenom stroju. Izvršit će različite provjere i omogućiti rješavanje problema s postavljanjem računa.
+Ako naiđete na probleme prilikom postavljanja Exchange računa u Outlook, možete pokrenuti [alat za postavljanje Outlook računa na](https://aka.ms/SaRA-OutlookSetupProfile) zahvaćenom uređaju. Provet će razne provjere i pružiti moguća rješenja problema s postavljanjem računa.
   
-Ako i dalje imate problema, pročitajte članak [Outlook ne može postaviti novi profil pomoću automatskog otkrivanja sustava Exchange za poštanski sandučić sustava Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
+Ako i dalje imate problema, pogledajte Outlook ne možete postaviti novi profil Exchange [automatskog otkrivanja](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)za poštanski Exchange Online .
   

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ad25cd49fb37a34afe4d65106d0f881fb051224ed0a7e2a27a1fd2f52645433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970719"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>Koju verziju sustava Android vaša aplikacija podržava?
 
@@ -27,7 +27,7 @@ Ako ste u operacijskom sustavu Android a i dalje primate obavijesti o tome da op
 
 Da biste to učinili, učinite sljedeće: 
 
-1. Na telefonu ili tabletu sa sustavom Android **otvorite Postavke,** a zatim **Aplikacije** ili **Aplikacije**.
+1. Na telefonu ili tabletu sa sustavom Android **otvorite Postavke** **aplikacije ili** **aplikacije**.
 
 2. Pri vrhu zaslona dodirnite **Više** (to može biti i trotočje ili tri okomite točke), a zatim **Prikaži sustav**. 
 

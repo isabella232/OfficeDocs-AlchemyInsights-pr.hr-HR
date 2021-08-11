@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1750"
 - "9000076"
-ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 02208d52b478b382119bd6634709f52dfc0a27f4e0eb251bcfdb4d96d47dac82
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093014"
 ---
 # <a name="troubleshoot-resource-access-issues"></a>Otklanjanje poteškoća s pristupom resursima
 
-Da biste saznali više o vrstama profila, podržava se omogućivanje pristupa za korisnike korporacijskoj infrastrukturi i resursima, pogledajte sljedeće:
+Informacije o vrstama profila koje Intune podržava za omogućivanje pristupa korporacijskoj infrastrukturi i resursima potražite u članku:
 
-- [Dodavanje postavki e-pošte na uređaje pomoću aplikacije Intune](https://docs.microsoft.com/intune/email-settings-configure)
-- [Stvaranje VPN profila za povezivanje s VPN poslužiteljima u programu Intune](https://docs.microsoft.com/intune/vpn-settings-configure))
-- [Dodavanje i korištenje Wi-Fi postavki na uređajima u programu Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
-- [Korištenje certifikata za provjeru autentičnosti u programu Microsoft Intune](https://docs.microsoft.com/intune/certificates-configure)
+- [Dodavanje postavki e-pošte na uređaje koji koriste Intune](https://docs.microsoft.com/intune/email-settings-configure)
+- [Stvaranje VPN profila za povezivanje s VPN poslužiteljima u aplikaciji Intune](https://docs.microsoft.com/intune/vpn-settings-configure))
+- [Dodavanje i korištenje Wi-Fi na uređajima u Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
+- [Korištenje certifikata za provjeru autentičnosti u Microsoft Intune](https://docs.microsoft.com/intune/certificates-configure)
 
-Dodatne informacije o tome kako Intune profili uređaja potražite [u članku Najčešća pitanja i odgovore s pravilima i profilima uređaja u programu Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
+Dodatne informacije o profilima uređaja Intune potražite u članku Najčešća pitanja i odgovori s [pravilnikima i profilima uređaja u Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
 
-Dodatne informacije o otklanjanju poteškoća u profilima pristupa resursima potražite [u članku česti kodovi pogrešaka i opisi u programu Microsoft Intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).
+Dodatne informacije o otklanjanju poteškoća s profilima za pristup resursima potražite u članku [Uobičajeni kodovi pogrešaka i opisi Microsoft Intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).
