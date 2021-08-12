@@ -1,5 +1,5 @@
 ---
-title: Upravljanje grupama aplikacija pomoću portala Azure za virtualnu radnu površinu sustava Windows
+title: Upravljanje grupama aplikacija pomoću portala Azure za Windows virtualne radne površine
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912050"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Upravljanje grupama aplikacija pomoću portala Azure za virtualnu radnu površinu sustava Windows
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Upravljanje grupama aplikacija pomoću portala Azure za Windows virtualne radne površine
 
-Zadana grupa aplikacija stvorena za novi bazen sustava Windows Virtual Desktop host također objavljuje kompletnu radnu površinu. Osim toga, pomoću web-portala Azure omogućuje se stvaranje jedne ili više grupa aplikacija RemoteApp za bazen glavnog računala.
+Zadana grupa aplikacija stvorena za novu Windows za virtualnu radnu površinu objavljuje i cijelu radnu površinu. Uz to, pomoću portala Azure možete stvoriti jednu ili više grupa aplikacija RemoteApp za grupu glavnog računala.
 
-Postupak implementacije učinit će sljedeće:
+Postupak implementacije će učiniti sljedeće:
 
-1. Stvaranje grupe aplikacija RemoteApp.
-2. Dodavanje odabranih aplikacija u grupu aplikacija.
+1. Stvorite grupu aplikacija RemoteApp.
+2. Dodajte odabrane aplikacije u grupu aplikacija.
 3. Objavite pojedinačne korisnike ili grupe korisnika u grupi aplikacija.
-4. Registrirajte grupu aplikacija ako to učinite.
-5. Stvorite vezu s predloškom komponente Azure Resource Manager prema konfiguraciji koju možete preuzeti i spremiti.
+4. Registrirajte grupu aplikacija ako to odlučite učiniti.
+5. Stvorite vezu na predložak upravitelja resursa za Azure u skladu s konfiguracijom koju možete preuzeti i spremiti.
 
-Da biste stvorili grupu RemoteApp za virtualnu radnu površinu sustava Windows, slijedite upute u odjeljku [Upravljanje grupama aplikacija uz portal Azure](https://go.microsoft.com/fwlink/?linkid=2129550).
+Da biste stvorili grupu servisa RemoteApp za Windows virtualnu radnu površinu, slijedite upute u [aplikaciji Upravljanje grupama aplikacija pomoću portala Azure](https://go.microsoft.com/fwlink/?linkid=2129550).

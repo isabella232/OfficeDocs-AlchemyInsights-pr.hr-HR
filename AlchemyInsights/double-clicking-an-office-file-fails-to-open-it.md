@@ -1,5 +1,5 @@
 ---
-title: Dvoklikom na datoteku sustava Office ne uspijeva se otvoriti
+title: Dvoklikom na Office ne uspijeva otvoriti datoteku
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2200002"
 - "161"
-ms.openlocfilehash: b9c563f7dd099bf3bad9018f69e2096816dd7290
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 519051ac0ffc11d2b17c14959464c1123654bef38d6e10efd252b4ff3d8bbc1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814797"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965093"
 ---
-# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Dvoklikom na datoteku sustava Office ne uspijeva se otvoriti
+# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Dvoklikom na Office ne uspijeva otvoriti datoteku
 
-Kada dvoklikom na datoteku sustava Office vidite da je program otvoren, ali se sama datoteka ne otvara. Ili vam se može pojaviti pogreška: "Došlo je do problema prilikom slanja naredbe programu". Za to postoji mnogo uzroka, ali dva su najčešće rješenja:
+Kada dvoklikom na Office, program će se možda otvoriti, ali se sama datoteka ne otvara. Ili vam se može pojaviti pogreška: "Došlo je do problema prilikom slanja naredbe programu". Za to postoji mnogo uzroka, ali dva su najčešće rješenja:
 
-- U programu Excel provjerite je li mogućnost DDE poništena. Mogućnost se može pronaći stvaranjem nove radne knjige, a zatim odabirom mogućnosti **datoteka > mogućnosti > Dodatno**. U **odjeljku Općenito** poništite okvir Zanemari **ostale aplikacije koje koriste dinamičku razmjenu podataka (DDE).**
+- Unutar Excel provjerite je li mogućnost DDE poništena. Mogućnost se može pronaći stvaranjem nove radne knjige, a zatim odabirom mogućnosti **datoteka > mogućnosti > Dodatno**. U **odjeljku Općenito** poništite okvir Zanemari **ostale aplikacije koje koriste dinamičke Exchange (DDE).**
 
-- Pokrenite mrežni popravak da biste vratili zadane postavke. Kliknite gumb Start sustava Windows i potražite "Upravljačka ploča". Otvorite **upravljačku ploču** i otvorite **Programi > Programi i značajke**. Zatim desnom tipkom miša **kliknite Microsoft Office [Verzija]** pa **odaberite Promijeni > popravak putem interneta**.
+- Pokrenite mrežni popravak da biste vratili zadane postavke. Kliknite gumb Windows Start i potražite "Control Panel" (Upravljačka ploča). Otvorite **upravljačku ploču** i otvorite **Programi > Programi i značajke**. Zatim desnom tipkom miša **kliknite Microsoft Office [Verzija] pa** **odaberite Promijeni > popravak putem interneta**.
 
-Ako nijedno od tih rješenja ne funkcionira, potpuniji popis rješenja može se pronaći u članku podrške, [dvoklikom](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6)na datoteku sustava Office ne možete je otvoriti .
+Ako nijedno od tih rješenja ne funkcionira, potpuniji popis rješenja može se pronaći u članku podrške, [dvoklikom na Office datoteku ne uspijeva otvoriti](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6).

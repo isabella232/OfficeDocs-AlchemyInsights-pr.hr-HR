@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6141"
 - "9003263"
-ms.openlocfilehash: 09e08aaae09811a5f60da3015c923ddd3dccf6a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3e20411a12b0b18370283b7e167b1a5c6f0340c1e71896199805f0db6d0c0c6c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911978"
 ---
 # <a name="manage-live-captions"></a>Upravljanje titlovima uživo
 
-Dodatne informacije o korištenju značajke Live Caption potražite u članku [Korištenje opisa programa Live u sastanku timova](https://support.microsoft.com/office/use-live-captions-in-a-teams-meeting-4be2d304-f675-4b57-8347-cbd000a21260) ili [Korištenje opisa uživo u događaju uživo](https://support.microsoft.com/office/use-live-captions-in-a-live-event-1d6778d4-6c65-4189-ab13-e2d77beb9e2a).  
+Dodatne informacije o korištenju značajke titlova uživo potražite u članku Korištenje [titlova](https://support.microsoft.com/office/use-live-captions-in-a-teams-meeting-4be2d304-f675-4b57-8347-cbd000a21260) uživo u sastanku Teams ili Korištenje titlova uživo u [događaju uživo](https://support.microsoft.com/office/use-live-captions-in-a-live-event-1d6778d4-6c65-4189-ab13-e2d77beb9e2a).  
 
-Naslovi na Live prema zadanim postavkama nisu automatski uključeni za korisnika tijekom sastanka. Korisnik će na izborniku preljeva **(...)** vidjeti mogućnost **Uključivanje u Live titlovi** da biste ih uključili. Upute za upravljanje ili onemogućivanje skrivenih opisa potražite u članku [Omogućivanje opisa uživo](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions).
+Titlovi uživo po zadanom nisu automatski uključeni za korisnika tijekom sastanka. Korisnik će vidjeti mogućnost **Uključi titlove uživo na** izborniku prelijevanja **(...)** da bi ih uključio. Da biste upravljali titlovima uživo ili ih onemogućili, pogledajte [omogućivanje titlova uživo](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions).
 
-Dodatne informacije o provedbi pravilnika za sastanak potražite [u članku Upravljanje pravilima sastanka u timovima](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Dodatne informacije o implementaciji pravilnika za sastanke potražite u članku [Upravljanje pravilnikom sastanka Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).

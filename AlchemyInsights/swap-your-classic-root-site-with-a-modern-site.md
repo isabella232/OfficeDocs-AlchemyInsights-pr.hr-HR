@@ -1,5 +1,5 @@
 ---
-title: Swap svoje klasično korijensko web-mjesto s modernim web-mjestom
+title: Zamjena klasičnog korijenskog web-mjesta pomoću modernog web-mjesta
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 10e8e4bf5e0def9a8256066e1a3c39b9923d31b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940811"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Swap svoje klasično korijensko web-mjesto s modernim web-mjestom
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Zamjena klasičnog korijenskog web-mjesta pomoću modernog web-mjesta
 
-Ako je okruženje postavljeno prije travnja 2019, korijensko web-mjesto možete promijeniti na moderno web-mjesto pomoću komponente Microsoft PowerShell:
+Ako je vaše okruženje postavljeno prije travnja 2019., korijensko web-mjesto možete promijeniti u moderno web-mjesto pomoću komponente Microsoft PowerShell:
 
-- Ako imate drugo web-mjesto koje želite koristiti kao korijensko web-mjesto, pomoću nje možete zamijeniti [(swap) korijensko web-mjesto](https://docs.microsoft.com/sharepoint/modern-root-site) . 
-    - Pomoću poziva [-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) mijenjate mjesto web-mjesta s drugim web-mjestom tijekom arhiviranja izvornog web-mjesta. Dostupno za obje timsko web-mjesto (nije povezano s grupom) i komunikacijskim web-mjestom. 
+- Ako imate drugo web-mjesto koje želite koristiti kao korijensko web-mjesto, korijensko web-mjesto možete zamijeniti [(zamijeniti).](https://docs.microsoft.com/sharepoint/modern-root-site) 
+    - Koristite [SPOSiteSwap da biste mjesto web-mjesta](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) zamijenili drugim web-mjestom prilikom arhiviranja izvornog web-mjesta. Dostupno za timski web-mjesto (nije povezano s grupom) i komunikacijsko web-mjesto. 
 
-- Uskoro će biti uvedene dodatne mogućnosti koje će vam dopustiti da nastavite koristiti sadržaj na web-mjestu, ali da biste postojeće web-mjesto pretvorili u komunikacijsko web-mjesto. 
+- Uskoro će se uvesti dodatne mogućnosti koje će vam omogućiti da nastavite koristiti sadržaj na web-mjestu, ali pretvorite postojeće web-mjesto u komunikacijsko web-mjesto. 
 >[!Important]
->Te će se mogućnosti postupno izkotrljali. Nastavite provjeravati centar za poruke radi ažuriranja. 
+>Te će se mogućnosti postupno uvaljati. Nastavite provjeravati ima li ažuriranja u centru za poruke. 
 
-## <a name="known-issues-with-swapping-sites"></a>Poznati problemi s zamjenom web-mjesta
+## <a name="known-issues-with-swapping-sites"></a>Poznati problemi sa zamjenom web-mjesta
 
-- Odredišno web-mjesto može u kratkom vremenskom periodu vratiti pogrešku "nije pronađeno" (HTTP 404).
-- Sadržaj će se morati ponovno vratiti da bi se ažurirao indeks pretraživanja. Nije potreban ručni korak – to će se obaviti automatski.
-- Sve što ovisi o "statički" vezama (kao što su sinkronizacija datoteka i datoteke programa OneNote) morat će se ručno ispraviti.
-- Ako je izvorišno mjesto bilo organizacijsko web-mjesto vijesti, ažurirajte URL.Nabavite popis svih web-mjesta organizacijskih vijesti.
-- Web-mjesta projektnog poslužitelja možda će se morati potvrditi da bi se osiguralo da su i dalje ispravno povezani.
+- Ciljno web-mjesto može kratko vrijeme vratiti pogrešku "nije pronađeno" (HTTP 404).
+- Da biste ažurirali indeks pretraživanja, morat ćete ponovno stišati sadržaj. Nije potreban ručni korak – to će se učiniti automatski.
+- Sve što ovisi o "statičnih" vezama (kao što su sinkronizacija datoteka i OneNote datoteka) morat će se ručno ispraviti.
+- Ako je izvorišno web-mjesto bilo web-mjesto s vijestima tvrtke ili ustanove, ažurirajte URL. Nabavite popis svih web-mjesta s vijestima tvrtke ili ustanove.
+- Project Možda će biti potrebno provjeriti valjanost web-mjesta poslužitelja da bi se provjerilo jesu li i dalje pravilno povezana.

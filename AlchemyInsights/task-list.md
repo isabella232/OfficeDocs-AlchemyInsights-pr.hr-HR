@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5780"
 - "9002971"
-ms.openlocfilehash: b691b9a5136c0307a739064a2b36407e349a720b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6e3566649b275a723c6c9423fd0400a12b1c6ae02e8e712eb0acc611720c72d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940703"
 ---
 # <a name="task-list"></a>Popis zadataka
 
-Popis zadataka sustava SharePoint prikazuje zbirku zadataka koji su dio projekta. Kada stvorite popis zadataka sustava SharePoint, možete dodavati zadatke, dodjeljivati resurse zadacima, ažurirati tijek zadataka i prikazati informacije o zadatku na trakama koje se prikazuju duž vremenske crte. Pogledajte [stvaranje popisa zadataka i upravljanje njima.](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a)  
+Popis SharePoint zadataka prikazuje zbirku zadataka koji su dio projekta. Kada stvorite popis SharePoint zadataka, možete dodavati zadatke, dodjeljivati resurse zadacima, ažurirati tijek zadataka i prikazati informacije o zadatku na trakama koje se prikazuju duž vremenske trake. Pogledajte [stvaranje popisa zadataka i upravljanje njima.](https://support.microsoft.com/office/466ad207-46fd-4c77-9af1-41bc23cec21a)  
 
 -   Popis zadataka još nije stvoren za prikaz u modernom korisničkom sučelju, pa nastavite koristiti klasično sučelje za popise zadataka, pročitajte maksimiziranje korištenja [modernih popisa i biblioteka.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
--   Značajka Sinkronizacija sa sustavom SharePoint omogućuje programu Project Manager zajedničko korištenje datoteke projekta .mpp s korisnicima sustava Microsoft SharePoint. Upravitelj projekta mora biti dio grupe vlasnika sustava SharePoint (ili barem imati dozvole dizajnera) u nadređenoj zbirci web-mjesta u kojoj se nalazi novo ili postojeće web-mjesto. Pogledajte [sinkronizaciju s popisom zadataka sustava SharePoint iz programa Project Professional](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project).
+-   Značajka Sinkronizacija s SharePoint omogućuje upravitelju Project .mpp datoteku projekta s korisnicima sustava Microsoft SharePoint korisnicima. Upravitelj Project mora biti dio grupe SharePoint vlasnika (ili barem imati dozvole dizajnera) u nadređenoj zbirci web-mjesta u kojoj se nalazi novo ili postojeće web-mjesto. Pogledajte [sinkronizaciju s SharePoint popisa zadataka iz Project Professional](https://docs.microsoft.com/office/troubleshoot/project/sync-with-tasks-from-project).

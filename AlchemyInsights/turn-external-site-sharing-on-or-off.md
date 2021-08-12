@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: fd1c3dd013d5f1f823555e3cd4aa6e0dcdac1b62
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8b0d4f9f6958fec0dd7391280135338453a0cc345f94becc46ca7fae89cfd86f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834651"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920315"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-site"></a>Uključivanje i isključivanje vanjskog zajedničkog korištenja web-mjesta
 
-Morate biti globalni administrator ili administrator sustava SharePoint da biste promijenili postavku vanjskog zajedničkog korištenja web-mjesta (koja se prethodno zvala "zbirka web-mjesta"). Vlasnicima web-mjesta nije dopušteno mijenjati tu postavku. 
+Da biste promijenili postavku vanjskog zajedničkog korištenja za web-mjesto, morate biti globalni administrator ili administrator SharePoint web-mjesta (prethodno se zvala "zbirka web-mjesta"). Vlasnicima web-mjesta nije dopušteno mijenjati tu postavku. 
 
 Dodatne informacije potražite u članku [Uključivanje i isključivanje vanjskog zajedničkog korištenja web-mjesta.](https://docs.microsoft.com/sharepoint/change-external-sharing-site)

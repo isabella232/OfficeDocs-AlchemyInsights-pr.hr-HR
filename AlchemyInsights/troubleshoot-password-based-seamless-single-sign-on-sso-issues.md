@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća s jedinstvenom prijavom (SSO) koje se temelje na lozinkama
+title: Otklanjanje poteškoća s besprijekornom jedinstvenom prijavom (SSO- om) utemeljenim na lozinki
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9374"
-ms.openlocfilehash: 4a9163f199a505df9b2de4f02b7c37a5f5677022
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 6b4d7335461c913a6b5f782756684c5526a96c58c44853ddf9154aa51607bd4a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714678"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972816"
 ---
-# <a name="troubleshoot-password-based-seamless-single-sign-on-sso-issues"></a>Otklanjanje poteškoća s jedinstvenom prijavom (SSO) koje se temelje na lozinkama
+# <a name="troubleshoot-password-based-seamless-single-sign-on-sso-issues"></a>Otklanjanje poteškoća s besprijekornom jedinstvenom prijavom (SSO- om) utemeljenim na lozinki
 
-Da biste naučili osnove dodatka SSO, pročitajte članak [Provjera autentičnosti temeljena na lozinkama pomoću servisa Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/auth-password-based-sso).
+Informacije o osnovama SSO-a utemeljenog na lozinki pogledajte u članku [Provjera autentičnosti utemeljena](https://docs.microsoft.com/azure/active-directory/fundamentals/auth-password-based-sso)na lozinki Azure Active Directory .
 
-**Konfigurirajte SSO utemeljenu na lozinci**
+**Konfiguriranje SSO-a utemeljenog na lozinki**
 
-1. [Konfigurirajte jedinstvenu prijavu utemeljenu na lozinci](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-password-single-sign-on-non-gallery-applications) u ovom članku prikazuje se detaljnije o mogućnosti SSO koje se temelje na lozinkama. Ako aplikacija koju dodajete zahtijeva prilagođenu konfiguraciju i morate koristiti SSO na temelju lozinke, ovaj je članak namijenjen vama.
-2. [Konfigurirajte jedinstvenu prijavu utemeljenu na lozinkama za aplikacije na – Prem Apps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting) -Application proksiji podržava nekoliko pojedinačnih načina prijave. Prijava temeljena na lozinkama namijenjena je aplikacijama koje koriste kombinaciju korisničkog imena i lozinke za provjeru autentičnosti. Kada konfigurirate prijavu utemeljenu na lozinci za aplikaciju, korisnici se moraju prijaviti u lokalnu aplikaciju jednom. Nakon toga, Azure Active Directory pohranjuje podatke za prijavu i automatski ga pruža aplikaciji kada korisnici na daljinu pristupe.
-    - Već ste trebali objaviti i testirati aplikaciju uz proxy aplikacije. Ako ne, slijedite korake u članku [Objava aplikacija pomoću proxy poslužitelja Azure ad Application](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) , a zatim nastavite s konfiguracijom SSO-a utemeljenih na lozinkama za aplikacije u programu on-Prem.
+1. [Konfiguriranje jedinstvene prijave utemeljene na lozinki](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-password-single-sign-on-non-gallery-applications) – u ovom se članku detaljnije govori o mogućnosti jedinstvene prijave utemeljene na lozinki. Ako aplikacija koju dodajete zahtijeva prilagođenu konfiguraciju i morate koristiti SSO utemeljen na lozinki, ovaj je članak za vas.
+2. [Konfigurirajte jedinstvenu prijavu utemeljenu](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting) na lozinki za pret-aplikacije – proxy aplikacije podržava nekoliko načina jedinstvene prijave. Prijava utemeljena na lozinki namijenjena je aplikacijama koje koriste kombinaciju korisničkog imena i lozinke za provjeru autentičnosti. Kada konfigurirate prijavu utemeljenu na lozinki za aplikaciju, korisnici se moraju prijaviti u lokalnu aplikaciju jednom. Nakon toga Azure Active Directory podatke za prijavu i automatski ih pruža aplikaciji kada korisnici pristupaju daljinski.
+    - Aplikaciju ste već trebali objaviti i testirati pomoću proxyja aplikacije. Ako ne, slijedite korake u nastavku Objavljivanje aplikacija pomoću proxyja [aplikacije Azure AD,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) a zatim nastavite s konfiguracijom SSO-a utemeljenog na lozinki za aplikacije na premu.
 
-Da biste otklonili problem sa SSO-om, pročitajte članak [Otklanjanje poteškoća s jedinstvenom prijavom u Azure ad](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso)
+Da biste otklonili poteškoće s jedinstvenom prijavom utemeljenom na lozinki, pogledajte otklanjanje poteškoća s [jedinstvenom prijavom na azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso)

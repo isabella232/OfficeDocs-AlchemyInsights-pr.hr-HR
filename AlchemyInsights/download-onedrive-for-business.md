@@ -1,5 +1,5 @@
 ---
-title: Preuzimanje servisa OneDrive za tvrtke
+title: Preuzimanje OneDrive za tvrtke
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003082"
 - "5904"
-ms.openlocfilehash: 1d5ee7fd4b3ed851c3c3b5310e718152052c0c70
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8e95c9b10bb4689dba90ee4231dd2a8d07259d450dd26f952446edb6ef89eb8b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964985"
 ---
-# <a name="download-onedrive-for-business"></a>Preuzimanje servisa OneDrive za tvrtke
+# <a name="download-onedrive-for-business"></a>Preuzimanje OneDrive za tvrtke
 
-Ako imate Windows 10, OneDrive je već instaliran na PC. Ako koristite neku drugu verziju sustava Windows, instalirajte OneDrive da biste počeli s radom.
+Ako imate Windows 10, OneDrive je već instaliran na PC. Ako koristite neku drugu verziju programa Windows, instalirajte OneDrive početak rada.
 
-- OneDrive za tvrtke možete preuzeti  [ovdje](https://www.microsoft.com/microsoft-365/onedrive/download).
+- OneDrive za tvrtke možete preuzeti [ovdje](https://www.microsoft.com/microsoft-365/onedrive/download).
 - Kada se preuzme i instalira, od korisnika će se tražiti da se prijave na svoj račun za posao ili školu.
-- [Isključite, onemogućite ili deinstalirajte OneDrive.](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-- Sinkronizirajte datoteke sa servisom OneDrive [u sustavu Windows](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) ili na [Macu.](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f)
+- [Isključite, onemogućite ili deinstalirajte OneDrive](https://support.microsoft.com/office/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0).
+- Sinkronizirajte datoteke s OneDrive u [Windows ili](https://support.microsoft.com/office/615391c4-2bd3-4aae-a42a-858262e42a49) u [Macu](https://support.microsoft.com/office/d11b9f29-00bb-4172-be39-997da46f913f).

@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća vezanih uz jedinstvenu prijavu (SSO) na vezu
+title: Otklanjanje poteškoća s besprijekornom jedinstvenom prijavom (SSO- om) utemeljenim na vezama
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50692749"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972852"
 ---
-# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Otklanjanje poteškoća vezanih uz jedinstvenu prijavu (SSO) na vezu
+# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Otklanjanje poteškoća s besprijekornom jedinstvenom prijavom (SSO- om) utemeljenim na vezama
 
-Većina korisnika može riješiti neprekinutu jedinstvenu prijavu (SSO) koji se temelji na vezama pomoću koraka u nastavku:
+Većina korisnika može riješiti problem s jedinstvenom jedinstvenom prijave (SSO-om) utemeljenim na vezama pomoću sljedećih koraka:
 
-**Saznajte više o povezanim SSO**-u: [Razumijevanje povezane prijave](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) -povezana mogućnost omogućuje konfiguriranje ciljnog mjesta kada korisnik odabere aplikaciju u web-aplikaciji moje aplikacije ili Office 365 u vašoj tvrtki ili ustanovi. Ovaj članak prikazuje detaljnije informacije o povezanoj mogućnosti.
+**Saznajte više o povezanom SSO-u:** razumijevanje povezane prijave – mogućnost Povezan omogućuje konfiguriranje ciljnog mjesta kada korisnik odaberete aplikaciju na portalu Moje aplikacije ili Office 365 tvrtke ili ustanove. [](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) U ovom se članku detaljnije govori o povezanoj mogućnosti.
 
-**Konfiguriranje POVEZANOG SSO**-a: [Konfiguriranje veze](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
+**Konfiguriranje povezanog SSO-a**: [konfiguriranje veze](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
 
-**Potražite pomoć**: [Microsoft Q&zahtjeve za značajku za](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) slanje i tehnička pitanja o jedinstvenom PRIJAVNOM prijavom (SSO) u servisu azure Active Directory & razvoj.
+**Zatražite pomoć**: [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) – slanje zahtjeva za značajku i tehnička pitanja o jedinstvenoj prijavi na temelju veze (SSO) u Azure Active Directory & razvoju.
