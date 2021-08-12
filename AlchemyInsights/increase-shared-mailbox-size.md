@@ -1,5 +1,5 @@
 ---
-title: 1815 povećanje veličine zajedničkog poštanskog sandučića
+title: 1815 Povećajte veličinu zajedničkog poštanskog sandučića
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912734"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a>Povećavanje veličine zajedničkog poštanskog sandučića
+# <a name="increase-the-size-of-a-shared-mailbox"></a>Povećanje veličine zajedničkog poštanskog sandučića
 
-Veličinu zajedničkog poštanskog sandučića možete povećati iz zadane veličine 50 GB na 100 GB tako da zajednički poštanski sandučić dodijelite licencu za Exchange Online P2 (koja je uključena u licence E3 i E5). Kada dodijelite licencu za P2 zajedničkom poštanskom sandučiću u [aktivnom korisniku](https://portal.office.com/adminportal/home), veličina će se automatski povećati u roku od 15 minuta.
+Veličinu zajedničkog poštanskog sandučića možete povećati od zadane veličine od 50 GB na 100 GB dodjelom zajedničkog poštanskog sandučića licencu za Exchange Online P2 (koja je obuhvaćena licencama E3 i E5). Kada zajedničkom poštanskom sandučiću u [](https://portal.office.com/adminportal/home)aktivnim korisnicima dodijelite licencu P2, veličina će se automatski povećati u roku od 15 minuta.

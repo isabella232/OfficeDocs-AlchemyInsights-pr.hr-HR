@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 870f175adc5ee31d32266a69af9acedb66899bc8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24a9cd94272f4103fe404bf86e519582138e6b37734e11715b72ebcd2de9d5cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946687"
 ---
 # <a name="edu-verification"></a>Provjera edukacije
 
@@ -25,6 +25,6 @@ U većini slučajeva zahtjevi za akademsku kvalificiranost obrađuju se u roku o
 
 **Važno** Ako ste prije ulaska u domenu izašli iz čarobnjaka za provjeru valjanosti, čarobnjak za akademsku [provjeru](https://go.microsoft.com/fwlink/p/?linkid=2135255) možete nastaviti u bilo kojem trenutku tijekom besplatne probne verzije.
 
-Ako želite provjeriti status domene, idite u centar za [administratore sustava Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). Na početnoj stranici pomaknite se do dna i pronađite karticu **Naplata.** Kartica **Naplata** označava status postupka provjere valjanosti (odobreno, na čekanju, odbijeno ili dodavanje domene).
+Ako želite provjeriti status domene, idite na Centar za administratore okruženja Microsoft 365 [.](https://go.microsoft.com/fwlink/p/?linkid=2024339) Na početnoj stranici pomaknite se do dna i pronađite karticu **Naplata.** Kartica **Naplata** označava status postupka provjere valjanosti (odobreno, na čekanju, odbijeno ili dodavanje domene).
 
 Ako je vaš zahtjev odbijen, pogledajte [dio Moja škola ne ispunjava uvjete. Što ću sada učiniti?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
