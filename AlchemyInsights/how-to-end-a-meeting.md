@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 67c33e90b1f7ca9f68af1ef01ce158075a0dc54d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ef93e2f94ffe0768c9da3a740a865dfd36952e6d908a36670275297aed39913
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825687"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963275"
 ---
 # <a name="how-to-formally-end-a-meeting"></a>Kako formalno završiti sastanak
 
-Organizatori sastanka mogu završiti sastanak za sve sudionike sastanka u aplikaciji Teams klikom **na Završi sastanak** u kontrolama sastanka unutar sastanka.  
+Organizatori sastanka mogu završiti sastanak za sve sudionike sastanka Teams klikom **na Završi sastanak** u kontrolama sastanka unutar sastanka.  
 
 Da biste za sve sudionike okončali sastanak u tijeku, odaberite kontrole sastanka, odaberite ikonu s tri točke, a zatim kliknite Završi sastanak. Od vas će se tražiti da potvrdite odabir. Potvrđivanjem odabira sastanak će se završiti za sve.
 

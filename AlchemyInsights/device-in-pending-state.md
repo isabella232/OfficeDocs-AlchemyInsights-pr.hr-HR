@@ -12,54 +12,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: f70b43a8b914b0d2dda9db61606b8ae24523f869
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913995"
 ---
 # <a name="device-in-pending-state"></a>Uređaj u stanju na čekanju
 
-**Preduvjeti**
+**Preduvjeti:**
 
-1. Ako prvi put postavljate registracije uređaja, provjerite jeste li pregledali [Uvod u upravljanje uređajima u servisu Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) koji će vas voditi na način na koji možete nabaviti uređaje u odjeljku kontrola Azure AD.
-2. Ako izravno registrirate uređaje u Azure AD i postavite ih u Intune, morat ćete se pobrinuti da ste [konfigurirali Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) i da prvo imate [licenciranje](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) .
-3. Provjerite jeste li ovlašteni za izvršavanje operacija u Azure AD i lokalnom AD-u. Samo globalni administrator u servisu Azure AD može upravljati postavkama za registraciju uređaja. Osim toga, ako postavljate automatske registracije u lokalnom servisu Active Directory, morat ćete biti administrator servisa Active Directory i AD FS (ako je primjenjivo).
+1. Ako prvi put postavljate registracije uređaja, provjerite jeste li pregledali uvod u upravljanje uređajima [u sustavu Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) koji će vas voditi o tome kako nabaviti uređaje pod kontrolom servisa Azure AD.
+2. Ako izravno registrirate uređaje na Azure AD i registrirate ih u Intune, morat [](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) ćete biti sigurni da ste [konfigurirali Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) i da ste prvo registrirali licencu.
+3. Provjerite imate li ovlasti za izvođenje operacija na servisu Azure AD i lokalnom servisu AD. Samo globalni administrator na servisu Azure AD može upravljati postavkama za registracije uređaja. Osim toga, ako postavljate automatske registracije u lokalnom servisu Active Directory, morat ćete biti administrator servisa Active Directory i AD FS (ako je primjenjivo).
 
-Postupak registracije za hibridnu verziju Azure AD Join zahtijeva uređaje za korporacijsku mrežu. Internet isto tako utvrde na VPN, ali ima neki opomena to taj. Čuli smo da kupci trebaju pomoć pri otklanjanju poteškoća s postupkom registracije hibridne Azure AD Join u odjeljku udaljeni uvjeti rada.
+Hibridni postupak registracije pridruživanja servisa Azure AD zahtijeva da uređaji moraju biti na korporacijskoj mreži. Funkcionira i nad VPN-om, ali postoje neke upozorenje o tome. Čuli smo da korisnicima treba pomoć pri otklanjanju poteškoća s hibridnim postupkom registracije za Azure AD u udaljenim radnim okolnostima.
 
-**Okruženje za provjeru autentičnosti u oblaku (korištenje značajke korištenja lozinke za Azure AD i provjera autentičnosti)**
+**Okruženje za provjeru autentičnosti u oblaku (pomoću sinkronizacije i provjere autentičnosti lozinke za Azure AD)**
 
-Ovaj tijek registracije poznat je i kao "Sinkronizacija pridruživanja".
+Taj je tijek registracije poznat i kao "Sinkronizacija spoja".
 
-Ovdje se nalazi kvar u tijeku postupka registracije:
+Evo raščlamba onoga što se događa tijekom postupka registracije:
 
-1. Windows 10 otkriva točku povezivanja servisa (SCP) kada se korisnik prijavljuje na uređaj.
+1. Windows 10 otkriva zapis točke povezivanja servisa (SCP) kada se korisnik prijavi na uređaj.
 
-    1. Uređaj najprije pokuša dohvatiti informacije o klijentu s klijentskog SCP-a u registru [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Dodatne informacije potražite u članku [dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    1. Ako ne uspije, uređaj komunicira s lokalnim programom Active Directory radi nabavljanje informacija o klijentu iz programa SCP. Da biste potvrdili SCP, obratite se ovom [dokumentu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
-
-    > [!NOTE]
-    > Preporučujemo da u aktivnom direktoriju omogućite SCP, a za početnu provjeru valjanosti koristite samo SKP za klijentski dio.
-
-2. Windows 10 pokušava razgovarati s Azure AD u odjeljku sistemski kontekst radi provjere autentičnosti za Azure AD.
-
-    Možete potvrditi može li uređaj pristupati Microsoftovim resursima u odjeljku sistemski račun pomoću skripte za povezivanje s [registriranjem testnog uređaja](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
-
-3. Windows 10 generira samopotpisani certifikat i pohranjuje ga u objekt računala u lokalnom servisu Active Directory. Za to je potreban kontrolor domene.
-
-4. Objekt uređaja s certifikatom može se sinkronizirati s programom Azure AD putem servisa Azure AD Connect. Ciklus sinkronizacije svaki je 30 minuta po zadanom, ali ovisi o konfiguraciji servisa Azure AD Connect. Dodatne informacije potražite u ovom [dokumentu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. U ovoj će fazi biti moguće vidjeti predmet uređaja u odjeljku "u **tijeku**" u odjeljku sprava Blade of Azure portal.
-
-6. Kada se sljedeći korisnik prijavi na Windows 10, registracija će biti dovršena.
+    1. Uređaj najprije pokušava dohvatiti podatke klijenta iz klijentskog SCP-a u registru [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Dodatne informacije potražite u članku [Dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    1. Ako ne uspije, uređaj komunicira s lokalnim servisom Active Directory radi primanja podataka o klijentu od SCP-a. Da biste potvrdili SCP, pogledajte [ovaj dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
 
     > [!NOTE]
-    > Ako ste na VPN-u i odjava/prijava prestaje s povezivanjem domene, registraciju možete aktivirati ručno. Da biste to učinili, učinite sljedeće:
+    > Preporučujemo da omogućite SCP u servisu Active Directory i koristite samo klijentski SCP za početnu provjeru valjanosti.
+
+2. Windows 10 pokušava komunicirati sa servisom Azure AD u kontekstu sustava da bi se provjerila autentičnost u odnosu na Azure AD.
+
+    Možete provjeriti može li uređaj pristupiti Microsoftovim resursima putem računa sustava pomoću skripte [Test Device Registration Connectivity](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
+
+3. Windows 10 generira samoispravke certifikata i pohranjuje ga ispod objekta računala u lokalnom servisu Active Directory. Za to je potreban linijski kontroler domene.
+
+4. Objekt uređaja s certifikatom sinkronizira se sa servisom Azure AD putem servisa Azure AD Povezivanje. Ciklus sinkronizacije po zadanom je svakih 30 minuta, ali ovisi o konfiguraciji servisa Azure AD Povezivanje. Dodatne informacije potražite u ovom [dokumentu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
+
+5. U ovoj fazi trebali biste moći vidjeti predmet uređaja u stanju **"Na** čekanju" ispod oštrice uređaja portala Azure.
+
+6. Prilikom sljedeće prijave korisnika na Windows 10 registracija će biti dovršena.
+
+    > [!NOTE]
+    > Ako ste na VPN-u, a prijava/e-prijava prekida vezu s domenom, registraciju možete pokrenuti ručno. Da biste to učiniti, učinite sljedeće:
     >
-    > Problem `dsregcmd /join` lokalno na administratorskom upitu ili na daljinu putem Psexez-a na PC.
+    > `dsregcmd /join`Izlajte lokalno administratorski upit ili daljinski putem servisa PSExec na PC.
     >
     > Na primjer: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
-Za česte probleme s registracijom uređaja Azure Active Directory, pročitajte članak [Najčešća pitanja o uređajima](https://docs.microsoft.com/azure/active-directory/devices/faq).
+Uobičajene probleme s registracijom Azure Active Directory uređaja potražite u članku [Najčešća pitanja o uređajima](https://docs.microsoft.com/azure/active-directory/devices/faq).

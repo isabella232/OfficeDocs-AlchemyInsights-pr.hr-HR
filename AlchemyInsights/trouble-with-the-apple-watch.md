@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bfb47bb53bbbe50258ad3f7022cd4f31b9f014a5d32c8a1b09da5e775abfcdc0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939983"
 ---
 # <a name="trouble-with-the-apple-watch"></a>Problemi s Apple Watchom
 
-Ako imate problema s korištenjem programa Outlook na Apple Watchu, evo nekoliko koraka za otklanjanje poteškoća: 
+Ako imate problema s korištenjem Outlook apple watchu, evo nekoliko koraka za otklanjanje poteškoća: 
 
-1. Idite na aplikaciju Watch na iPhoneu.
+1. Idite na aplikaciju Watch na iPhone.
 
-2. Pomaknite se do aplikacije Outlook.
+2. Pomaknite se do Outlook aplikacije.
 
 3. Da biste deinstalirali, preklopni gumb "Prikaži aplikaciju na Apple **Watchu" na** ISKLJUČENO.
 

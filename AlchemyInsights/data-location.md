@@ -11,15 +11,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b42fd2380fc1a98d33443aa8cacdb23e55fa8832
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 848285b940c19e3d6bb2b42483f01d39bce3952f42aa723d51b1a6392f0f1dcc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914607"
 ---
 # <a name="data-location"></a>Mjesto podataka
 
-Mjesto svog stanara možete pogledati u centru za administratore tako da dođete do [stranice **profila tvrtke ili ustanove** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) i odaberete **mjesto podataka**.
+Mjesto klijenta možete pogledati u centru za administratore tako da odete na stranicu profila [ **tvrtke**](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) ili ustanove i odaberete **Mjesto podataka**.
 
-Aplikacije na koje niste pretplaćeni potražite u članku [gdje se pohranjuju podaci o klijentu tvrtke Microsoft 365](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
+Za aplikacije na koje niste pretplaćeni pročitajte članak Mjesto pohrane korisničkih podataka za [Microsoft 365](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
