@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: ad27f3ef8973fb9defe97343a4eda46cf96a4100
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b07c01337694f7acdab594dd46fdf2ff0cfeb70bf6298fb66a7e6736f8a98e96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936265"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Dodavanje, promjena ili uklanjanje odnosa partnera
 
-Kao administrator možete raditi s partnerom na kupnji, aktivaciji i obnovi pretplata na Microsoft 365. 
+Kao administrator možete raditi s partnerom da biste kupili, aktivirali i obnovili Microsoft 365 pretplate. 
 
 - Ako želite urediti postojeći partnerski odnos, pogledajte [dodavanje, promjenu ili brisanje](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide)partnera za savjetnika za pretplatu .
 
-- Ako tražite Microsoftova partnera, pogledajte članak Pronalaženje partnera ili prodavača sustava [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
+- Ako tražite Microsoftova partnera, pogledajte članak Pronalaženje partnera [Microsoft 365 prodavača](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
 
 Ako ste postojeći Microsoftov partner ili ga želite [](https://support.microsoft.com/help/4499930/partner-center-overview) postati, dodatne informacije o pogodnostima i pomoći microsoftove podrške za partnere potražite u [Microsoftovu centru za partnere.](https://aka.ms/partnersupport)

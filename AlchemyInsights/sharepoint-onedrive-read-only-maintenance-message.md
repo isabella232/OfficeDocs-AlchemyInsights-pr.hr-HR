@@ -1,5 +1,5 @@
 ---
-title: Poruka o održavanju samo za čitanje prilikom pokušaja korištenja sustava SharePoint ili servisa OneDrive
+title: Read-Only za održavanje prilikom pokušaja korištenja SharePoint ili OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910538"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Poruka o održavanju samo za čitanje prilikom pokušaja korištenja sustava SharePoint ili servisa OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only za održavanje prilikom pokušaja korištenja SharePoint ili OneDrive
 
-Prilikom pokušaja korištenja sustava SharePoint ili servisa OneDrive za jedan od sljedećih scenarija korisnici mogu primiti poruku **samo za čitanje** . 
+Korisnici mogu primiti poruku **samo za čitanje za održavanje** prilikom pokušaja korištenja SharePoint ili OneDrive za jedan od sljedećih scenarija. 
 
--   Planirana ili aktivna aktivnost održavanja.  Potražite ih tako da otvorite centar za [poruke](https://portal.office.com/adminportal/home#/messagecenter).
--   Problem s velikim prioritetom, aktivnim incidentom servisa koji se možda pojavljuje. Provjerite postoje li Savjeti/incidenti tako da odete na [zdravlje servisa](https://portal.office.com/adminportal/home#/servicehealth).
--   Manji scenario za automatsko ozdravljenje koji bi se mogao događati zbog neočekivanih događaja na poslužiteljima koji bi mogli trajati manje od 30 min ili više. 
+-   Planirana ili aktivna aktivnost održavanja.  Provjerite ima li ih navigiranjem do [centra za poruke](https://portal.office.com/adminportal/home#/messagecenter).
+-   Incident s aktivnim servisom visokog prioriteta koji se može pojaviti. Provjerite ima li kakvih savjetnika/incidenata navigiranjem do stanja [servisa](https://portal.office.com/adminportal/home#/servicehealth).
+-   Scenarij manjeg oporavka automatskog iscjeljivanja koji se može dogoditi zbog neočekivanih događaja na poslužiteljima koji bi mogli trajati manje od 30 minuta. 
     
-    Nema centra za poruke ili zdravstvenih pošta za ove male oporavnice, no uskoro ćete se vratiti u normalu.
+    Nema objava centra za poruke ni stanja servisa za ta manja oporavka, ali uskoro ćete se vratiti u normalu.
 
-U vrlo malo navrata primijetili smo da je jedan od navedenih triju scenarija uzrok, a servis je vraćen, ali predmemorija korisnika preglednika nije očišćena.
+U nekoliko smo navrata primijetili da je uzrok jedan od tri navedena scenarija i da je servis vraćen, ali predmemorija preglednika korisnika nije izbrisana.
 
-Pokušajte izbrisati predmemoriranje preglednika prije nego što odete na web-mjesto.
+Prije navigacije do web-mjesta pokušajte očistiti predmemoriju preglednika.
 
-1. U pregledniku Microsoft Edge odaberite **Postavke**, a zatim odaberite **privatnost i sigurnost**.
-2. U odjeljku **čisto pregledavanje**odaberite **Odaberi što želite očistiti**.
-3. Odaberite **Kolačići i spremite podatke o web-mjestu**, a zatim odaberite **Očisti**.
-
->[!Note] 
-> Ovi se koraci mogu razlikovati prilikom korištenja drugih preglednika, kao što su Mozilla Firefox ili Google Chrome.
+1. U pregledniku Microsoft Edge odaberite **Postavke**, a zatim Privatnost **i sigurnost**.
+2. U **odjeljku Čišćenje pregledavanja** **odaberite Odaberite što želite očistiti**.
+3. Odaberite **Kolačići i spremljeni podaci web-mjesta** i odaberite **Očisti**.
 
 >[!Note] 
-> Druga bi mogućnost bila otvaranje web-mjesta sustava SharePoint ili servisa OneDrive u novom prozoru weba InPrivate.
+> Ti se koraci mogu razlikovati kada koristite druge preglednike kao što su Mozilla Firefox ili Google Chrome.
+
+>[!Note] 
+> Druga mogućnost bila bi otvaranje web-SharePoint web-mjesta ili OneDrive u novom prozoru web-mjesta InPrivate.
