@@ -1,5 +1,5 @@
 ---
-title: 620 Prilagodba vremenske zone i jezične postavke u programu Outlook na webu
+title: 620 Prilagodba postavke vremenske zone i jezika u Outlook na webu
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 252537c180cdebf803a86d6b8f5ff9aed72eab28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4908bdaa1483b34909e425b39b7a38433f8e193294085e63bf08b267d967424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952925"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Prilagodba vremenske zone i jezičnih postavki u programu Outlook na webu
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Prilagodba postavki vremenske zone i jezika u Outlook na webu
 
-Da biste prilagodili vremenske zone i jezične postavke u programu Outlook na webu, kojima pristupate pomoću računa za rad ili obrazovne ustanove, pročitajte članak [Promjena postavki vremenske zone i jezika u programu Outlook na webu](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).
+Da biste prilagodili postavke vremenske zone i jezika na webu Outlook kojem pristupate pomoću računa tvrtke ili škole, pogledajte promjena vremenske zone i postavki [jezika u aplikaciji Outlook na webu](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).
   

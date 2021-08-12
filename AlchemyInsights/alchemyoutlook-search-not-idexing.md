@@ -1,5 +1,5 @@
 ---
-title: Alomija-Outlook Search ne idexing
+title: Alchemy - Outlook pretraživanje ne idexing
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: d096e3ea8566ab6c81aab3284b2a51b52e2b6de6
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a1fab34bea6d9034e6a26168ed36046f64eb4a93cd4bbc09cb94a60c85f5585d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933565"
 ---
-# <a name="outlook-search-not-indexing"></a>Pretraživanje u programu Outlook nije indeksira
+# <a name="outlook-search-not-indexing"></a>Outlook Pretraživanje nije indeksiranje
 
-Svjesni smo problema s pretraživanjem u programu Outlook u vezi s nedavnim sigurnosnim ažuriranjima za Windows.
+Svjesni smo problema Outlook pretraživanja povezanih s nedavnim sigurnosnim ažuriranjima za Windows.
   
-Kada pretražujete u programu Outlook, možda ćete dobiti neku od ovih pogrešaka: **nešto nije u redu, a pretraživanje nije moguće dovršiti** ili **Rezultati pretraživanja mogu biti nepotpuni jer se stavke i dalje indeksiraju**. Popravak je izdan kao neobavezan Windows Update. Instalirajte onu koja odgovara verziji sustava Windows na kojoj se prikazuje taj problem: 
+Prilikom pretraživanja u Outlook možda ćete dobiti jednu od ovih pogrešaka: došlo je do pogreške i pretraživanje nije bilo moguće dovršiti ili rezultati pretraživanja možda nisu potpuni jer se stavke i dalje **indeksiraju**. Popravak je izdan kao neobavezno Windows ažuriranje. Instalirajte onu koja odgovara verziji programa Windows na koju vidite taj problem: 
   
-> [Windows 7 – Lipanj 27, 2017 ažuriranje](https://support.microsoft.com/topic/june-27-2017-kb4022168-preview-of-monthly-rollup-b8e847d5-3b84-367e-4dcb-cc7a25f06d40)
+> [Windows 7. lipnja – ažuriranje za 27. lipnja 2017.](https://support.microsoft.com/topic/june-27-2017-kb4022168-preview-of-monthly-rollup-b8e847d5-3b84-367e-4dcb-cc7a25f06d40)
     
-> [Windows 8,1-Lipanj 27, 2017 ažuriranje](https://support.microsoft.com/topic/june-27-2017-kb4022720-preview-of-monthly-rollup-b98970bb-6f11-46c3-8681-a6b85d5d8eb4)
+> [Windows 8.1 – ažuriranje za 27. lipnja 2017.](https://support.microsoft.com/topic/june-27-2017-kb4022720-preview-of-monthly-rollup-b98970bb-6f11-46c3-8681-a6b85d5d8eb4)
     
-> [Windows 10 verzija 1703-Lipanj 27, 2017 ažuriranje](https://support.microsoft.com/topic/compatibility-update-for-upgrading-to-windows-10-version-1703-june-27-2017-32a45f84-19d8-2535-029c-d083b5f6765e)
+> [Windows 10 Verzija 1703 – ažuriranje za 27. lipnja 2017.](https://support.microsoft.com/topic/compatibility-update-for-upgrading-to-windows-10-version-1703-june-27-2017-32a45f84-19d8-2535-029c-d083b5f6765e)
     
-Najnovije informacije potražite u članku: [poznati problemi s programom Outlook u #5 problema s sigurnosnim ažuriranjima u lipnju 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) . 
+Najnovije informacije potražite u članku: Outlook problema u sigurnosnim ažuriranjima u lipnju [2017#5.](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) 
   
 

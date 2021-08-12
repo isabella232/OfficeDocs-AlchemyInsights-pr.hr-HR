@@ -1,5 +1,5 @@
 ---
-title: Promjena kvote za pohranu u servisu OneDrive za tvrtke
+title: Promjena kvote OneDrive za tvrtke pohrane
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: 34dd21f8baa8e186a001d4a1e65beea68700ec04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59e7b484d8783a5ab710e50f7b27d48d852e4bac6ab208355005671621461ce4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682296"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968657"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Promjena zadanog prostora za pohranu na servisu OneDrive za korisnike
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Promjena zadanog OneDrive prostora za pohranu za korisnike
 
-1. Otvorite stranicu za [pohranu u centru za administratore servisa OneDrive](https://admin.onedrive.com/?v=StorageSettings).
+1. Idite na stranicu [Pohrana centra za OneDrive administratore](https://admin.onedrive.com/?v=StorageSettings).
     
-2. U zadani okvir za **pohranu** unesite zadani iznos za pohranu (u GB), a zatim kliknite **Spremi**.
+2. Unesite zadani iznos prostora za pohranu (u GB) u **okvir Zadani prostor za** pohranu, a zatim kliknite **Spremi**.
     
-Postavka prostora za pohranu primjenjuje se na sve korisnike za koje niste postavili određeno ograničenje prostora za pohranu. Da biste promijenili prostor za pohranu određenih korisnika, morate koristiti Microsoft PowerShell. Informacije o tome kako to učiniti potražite u članku [Promjena korisničkog prostora za pohranu na servisu OneDrive pomoću komponente PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Ta se postavka prostora za pohranu odnosi na sve korisnike za koje niste postavili određena ograničenja prostora za pohranu. Da biste promijenili prostor za pohranu za određene korisnike, morate koristiti Microsoft PowerShell. Informacije o tome kako to učiniti potražite u članku [Promjena OneDrive prostora za pohranu pomoću komponente PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
   
 
