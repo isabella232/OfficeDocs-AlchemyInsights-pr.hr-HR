@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća s korisnikom gosta
+title: Otklanjanje poteškoća s gostom
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004358"
 - "7822"
-ms.openlocfilehash: 0f2a10b918fee067b167ab58ac2544a89e0c8ea1
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 9e6030919721b4c0805a26ca45d365f31d88894e86ea08225f47576e7d152047
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49900832"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939371"
 ---
-# <a name="troubleshoot-guest-user-issues"></a>Otklanjanje poteškoća s korisnikom gosta
+# <a name="troubleshoot-guest-user-issues"></a>Otklanjanje poteškoća s gostom
 
-1. Upute za upravljanje pristupom gosta aplikacijama potražite u članku [Upravljanje pristupom gostu uz recenzije servisa Azure ad Access](https://docs.microsoft.com/azure/active-directory/governance/manage-guest-access-with-access-reviews).
-1. [Dodajte goste u svoj direktorij na portalu Azure](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal): u ovom ćete Quickstart dodati novog gosta u direktorij Azure ad putem portala Azure, poslat ćete pozivnicu i vidjeti kako izgleda postupak otkupljenja poziva korisnika.
-1. [Dodajte korisnika gosta pomoću komponente PowerShell](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-invite-powershell): u ovom ćete Quickstart koristiti naredbu New-AzureADMSInvitation da biste jedan gost korisnika dodali svom klijentu za Azure.
-1. Upute za dodjelu korisnika i grupa u Enterprise aplikacije u servisu Azure Active Directory (Azure AD) na portalu Azure ili pomoću komponente PowerShell potražite [u članku Upravljanje korisničkim zadatkom za aplikaciju u servisu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal). 
-1. B2B suradnja u servisu Azure Active Directory (Azure AD) funkcionira s većini aplikacija koje se integriraju s Azure AD. U ovom ćemo [članku](https://docs.microsoft.com/azure/active-directory/external-identities/configure-saas-apps)proći kroz upute za konfiguriranje nekih popularnih aplikacija SaaS za korištenje s programom Azure ad B2B.
-1. Kao tvrtka ili ustanova koja koristi značajke B2B suradnje servisa Azure Active Directory (Azure AD) da biste korisnicima korisnika pozvali iz partnerskih organizacija na Azure AD, sada možete ovim B2B korisnicima pružiti pristup lokalnim aplikacijama. Te lokalne aplikacije mogu koristiti provjeru autentičnosti utemeljenu na SAML-u ili integriranu provjeru autentičnosti sustava Windows (IWA) uz Kerberos ograničeno delegiranje (KCD). Dodatne informacije potražite u članku [Dodjela B2B korisnika u aplikaciji Azure ad za pristup lokalnim aplikacijama](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-cloud-to-on-premises).
-1. Informirajte se o tome kako [dodijeliti lokalno upravljanim partnerom računima pristup resursima u oblaku pomoću suradnje Azure ad B2B](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-on-premises-to-cloud).
+1. Smjernice o upravljanju pristupom gosta aplikacijama pogledajte u članku [Upravljanje pristupom gosta uz preglede pristupa servisa Azure AD](https://docs.microsoft.com/azure/active-directory/governance/manage-guest-access-with-access-reviews).
+1. Dodavanje gostiju u direktorij na [portalu Azure:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal)u ovom brzom vodiču dodat ćete novog gosta u direktorij servisa Azure AD putem portala Azure, poslati pozivnicu i vidjeti kako izgleda postupak otkupa pozivnice gosta.
+1. [Dodajte gosta pomoću komponente PowerShell:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-invite-powershell)u ovom brzom počnite koristiti naredbu New-AzureADMSInvitation da biste dodali jednog gosta na klijent servisa Azure.
+1. Da biste saznali kako korisnicima i grupama dodijeliti korporacijske aplikacije na servisu Azure Active Directory (Azure AD), bilo s portala Azure ili pomoću komponente PowerShell, pogledajte upravljanje korisničkim zadacima [za aplikaciju u sustavu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal). 
+1. Azure Active Directory (Azure AD) B2B suradnja funkcionira s većinom aplikacija koje se integriraju sa servisom Azure AD. U ovom članku pročešijamo upute za konfiguriranje nekih popularnih aplikacija saaS za korištenje sa servisom Azure AD B2B. [](https://docs.microsoft.com/azure/active-directory/external-identities/configure-saas-apps)
+1. Kao tvrtka ili ustanova koja koristi Azure Active Directory (Azure AD) B2B mogućnosti suradnje za pozivanje gostiju iz partnerskih tvrtki ili ustanova na Azure AD, sada tim B2B korisnicima možete omogućiti pristup lokalnim aplikacijama. Te lokalne aplikacije mogu koristiti provjeru autentičnosti utemeljenu na SAML-u ili integriranu provjeru autentičnosti Windows (IWA) uz kerberos ograničeno delegiranje (KCD). Dodatne informacije potražite u članku [Dodjela B2B korisnicima na servisu Azure AD pristup](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-cloud-to-on-premises)lokalnim aplikacijama .
+1. Saznajte kako lokalnim partnerskim računima dodijeliti pristup resursima u [oblaku pomoću suradnje na servisu Azure AD B2B](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-on-premises-to-cloud).

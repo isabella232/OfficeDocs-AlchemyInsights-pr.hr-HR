@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8267"
-ms.openlocfilehash: a69f4d42381dfc73c24695b52922dc3e9f3e3be5
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
+ms.openlocfilehash: 86fdf7cf956f81904cd4df6cf2b4efef77c09d21d417228c5722f5afcbe5727f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50713478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913959"
 ---
 # <a name="device-permissions"></a>Dozvole za uređaj
 
-Da biste upravljali uređajima sa sustavom Windows, morate biti član lokalne grupe administratora. Kao dio postupka pridruživanja Azure Active Directory (Azure AD), Azure AD ažurira članstvo ove grupe na uređaju. Možete prilagoditi ažuriranje članstva da biste zadovoljili svoje poslovne preduvjete. Ažuriranje članstva jest, primjerice, korisno ako osoblju službe Helpdesk želite omogućiti zadatke koji zahtijevaju administratorska prava na uređaju.
+Da biste upravljali Windows uređajem, morate biti član grupe lokalnih administratora. U sklopu postupka Azure Active Directory (Azure AD) Azure AD ažurira članstvo te grupe na uređaju. Ažuriranje članstva možete prilagoditi da biste zadovoljili poslovne preduvjete. Ažuriranje članstva korisno je, primjerice, ako zaposlenicima službi za korisnike želite omogućiti obavljanje zadataka koji zahtijevaju administratorska prava na uređaju.
 
-Informacije o tome kako lokalni administratori mogu ažurirati članstvo i kako je možete prilagoditi tijekom programa Azure AD Join potražite u članku [Dodjela lokalnih administratori uređajima](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin). Sadržaj ovog članka ne primjenjuje se na hibridnih uređaja Azure AD.
+Da biste saznali kako funkcionira ažuriranje članstva lokalnih administratora i kako ga možete prilagoditi tijekom pridruživanja servisu Azure AD, pogledajte [odjeljak Dodjela lokalnih administratora uređajima](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin). Sadržaj ovog članka ne odnosi se na hibridne uređaje pridružene servisu Azure AD.
