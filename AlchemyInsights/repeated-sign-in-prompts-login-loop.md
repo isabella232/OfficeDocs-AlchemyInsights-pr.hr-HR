@@ -14,18 +14,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: bb7c3a773a242e2359736c864ecedebbc95ee155
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f3c3e60a5a2ab0ee2cb9a7b58794ab1ad7faf677c7350b309d968a282db43772
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943403"
 ---
-# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Ponovljeni upiti za prijavu u aplikacije Microsoft 365
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Ponovljeni upiti za prijavu u Microsoft 365 aplikacijama
 
-Da biste otklonili poteškoće s ponovljenim upitima za prijavu u aplikacijama microsoft 365, pogledajte sljedeće:
+Da biste otklonili poteškoće s ponovljenim upitima za prijavu Microsoft 365 aplikacijama, pogledajte sljedeće:
 
 - [Otklanjanje poteškoća s aplikacijama koje nisu u pregledniku koje se ne mogu prijaviti u Microsoft 365, Azure ili Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- ["Pristup je odbijen" ili se od korisnika više puta traži vjerodajnice prilikom povezivanja sa sustavom Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [Vanjski se korisnik tijekom prijave u Microsoft 365, Azure ili Intune neprestano traži vjerodajnice](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- ["Pristup je odbijen" ili se od korisnika više puta traži vjerodajnice prilikom povezivanja s Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [Vanjski se korisnik više puta traži vjerodajnice tijekom prijave u Microsoft 365, Azure ili Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 

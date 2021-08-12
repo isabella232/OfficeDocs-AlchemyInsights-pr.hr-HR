@@ -1,5 +1,5 @@
 ---
-title: Što se događa s porukama karantene?
+title: Što se događa s porukama u karanteni?
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966569"
 ---
-# <a name="what-happens-to-quarantined-messages"></a>Što se događa s porukama karantene?
+# <a name="what-happens-to-quarantined-messages"></a>Što se događa s porukama u karanteni?
 
-Ako ne učinite ništa, poruka će se automatski izbrisati putem sustava Office 365 nakon isteka. Pogledajte sljedeće:
+Ako odlučite ništa učiniti, poruka će se automatski izbrisati Office 365 nakon isteka. Imajte na umu sljedeće:
 
-1. Po zadanom se spam, bulk, zlonamjerni softver i poruke o krađi identiteta čuvaju u karanteni 15 dana.
-2. Poruka u karanteni koja odgovara pravilu toka pošte čuva se u karanteni sedam dana (ne možete je prilagoditi).
-3. Kada Office 365 briše poruku iz karantene, ne možete je vratiti.
-4. Ako želite, razdoblje zadržavanja za poruke u karanteni možete promijeniti pomoću postavke Zadrži neželjenu poštu za (Days) u pravilima filtra sadržaja.
+1. Poruke o neželjenoj pošti, masovnoj pošti, zlonamjernom softveru i krađi identiteta po zadanom se čuvaju u karanteni 15 dana.
+2. Poruka u karanteni koja odgovara pravilu tijeka pošte čuva se u karanteni 7 dana (to ne možete prilagoditi).
+3. Kada Office 365 poruku iz karantene, ne možete je vratiti.
+4. Ako želite, razdoblje zadržavanja poruka u karanteni možete promijeniti pomoću postavke Zadrži neželjenu poštu za (dane) u pravilima filtra sadržaja.

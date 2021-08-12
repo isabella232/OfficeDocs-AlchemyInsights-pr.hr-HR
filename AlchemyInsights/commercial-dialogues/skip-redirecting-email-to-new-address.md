@@ -1,5 +1,5 @@
 ---
-title: Preskočite preusmjeravanje e-pošte na novu adresu
+title: Preskoči preusmjeravanje e-pošte na novu adresu
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 89c848b1aad331c2ba4cbf2596da48020e7b9cc2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 036a6b5d9188bf40607d186bfb0b31b3182116abb597ab96cfad48f9b3026936
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743496"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966677"
 ---
-# <a name="skip-redirecting-email-to-new-address"></a>Preskočite preusmjeravanje e-pošte na novu adresu
+# <a name="skip-redirecting-email-to-new-address"></a>Preskoči preusmjeravanje e-pošte na novu adresu
 
-Ako imate prilagođene DNS zapise, preskočite korak preusmjeravanja e-pošte na novu adresu. Nakon toga možete kasnije dodati zapise koji su vam potrebni. Neki servisi sustava Office 365 možda neće biti dostupni dok ručno ne dodate zapise u registraru.
+Preskočite korak preusmjeravanja e-pošte na novu adresu ako imate prilagođene DNS zapise. Potom kasnije možete dodati potrebne zapise. Neki Office 365 servisi možda neće biti dostupni dok ručno ne dodate zapise kod registrara.
 
-Da biste preskočili preusmjeravanje e-pošte na novu adresu, odaberite **Preskoči ovaj korak > potvrdi**.
+Da biste preskočili preusmjeravanje e-pošte na novu adresu, **odaberite Preskoči ovaj korak > Potvrdi**.

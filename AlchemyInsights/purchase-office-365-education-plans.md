@@ -13,12 +13,12 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: e0efffdf37118aec0abeaf47107d3cf120082cc9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 440d6c2266e5cfa0ea3bf0c8fe02c057640c8f8036512bb650f870aef3b65b27
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826803"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943511"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 za obrazovne ustanove – odobren
 
@@ -34,7 +34,7 @@ Odobrena vam je kupnja sustava Office 365 Education.  Upute za kupnju:
 
 **Uključivanje aplikacije Teams**
 
-- Da biste u pregledniku Microsoft Teams u e-aplikaciji Microsoft Teams za sve korisnike u mogućnosti Postavke otvorite Postavke Microsoft Teams i kliknite potvrdni okvir  >    >  [](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) Uključi **Microsoft Teams za sve** korisnike. Kliknite **Spremi promjene**.
+- Da biste Microsoft Teams za sve korisnike, idite **na Postavke** Postavke Microsoft Teams pa  >    >  [](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) kliknite potvrdni okvir **Uključi Microsoft Teams za sve** korisnike. Kliknite **Spremi promjene**.
 
 **Udaljeno podučavanje i učenje**
 

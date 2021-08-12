@@ -1,5 +1,5 @@
 ---
-title: Postavljanje pravila za borbu protiv krađe identiteta u programu Microsoft Defender za Office 365
+title: Postavljanje pravilnika za zaštitu od krađe identiteta u programu Microsoft Defender za Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eb747d3efc137e5b6ae555b62e39b8fa84c20ee6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966785"
 ---
-# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Postavljanje pravila za borbu protiv krađe identiteta u programu Microsoft Defender za Office 365
+# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Postavljanje pravilnika za zaštitu od krađe identiteta u programu Microsoft Defender za Office 365
 
-1. Otvorite centar za [sigurnost & sustava Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Odaberite pravilnik o **upravljanju prijetnjama**  >  . Na stranici **pravilnik** odaberite [Microsoft Defender za Office 365 protu-phishing](https://go.microsoft.com/fwlink/?linkid=2101369).
-3. Na stranici **protiv krađe identiteta** učinite nešto od sljedećeg:
-    1. Da biste dodali novo pravilo, odaberite **+ Stvori**.
-    1. Da biste uredili postojeće pravilo, odaberite naziv pravilnika s popisa koji se prikazuje na stranici **protiv krađe identiteta** . Na stranici koja će se prikazati odaberite **Uređivanje** pokraj postavke koju želite promijeniti. Pokrenut će se čarobnjak koji će vam pomoći da definirate pravilo protiv krađe identiteta.
-4. Ako stvarate novo pravilo, navedite naziv, Opis i postavke pravilnika.
-5. Kada pregledate postavke, odaberite **Stvori ovo pravilo** ili **Spremi**, po potrebi.
+1. Idite na [centar Office 365 sigurnosti & usklađenosti](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+2. Odaberite **Pravilnik za upravljanje**  >  **prijetnjama**. Na **stranici Pravilnik** odaberite [Microsoft Defender za Office 365 za zaštitu od krađe identiteta](https://go.microsoft.com/fwlink/?linkid=2101369).
+3. Na **stranici Protiv krađe identiteta** učinite nešto od sljedećeg:
+    1. Da biste dodali novi pravilnik, odaberite **+ Stvori**.
+    1. Da biste uredili postojeći pravilnik, odaberite naziv pravilnika s popisa prikazanog na **stranici Protiv krađe identiteta.** Na stranici koja će se prikazati **odaberite** Uredi pokraj postavke koju želite promijeniti. Pokrenut će se čarobnjak koji će vam pomoći da definirate pravilnik za zaštitu od krađe identiteta.
+4. Ako stvarate novi pravilnik, navedite naziv, opis i postavke pravilnika.
+5. Kada pregledate postavke, odaberite Stvori **ovaj** pravilnik ili **Spremi**, prema potrebi.

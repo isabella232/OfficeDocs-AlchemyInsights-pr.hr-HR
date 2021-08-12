@@ -1,5 +1,5 @@
 ---
-title: Konfiguriranje i provjera autentičnosti izuzeća za MDATP na računalu s Linuxom
+title: Konfiguriranje i provjera valjanosti izuzimanja za MDATP na računalu sa sustavom Linux
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4fad0a513f7c6d2f0337019488a4055c25e1650d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743681"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916407"
 ---
-# <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Konfiguriranje i provjera autentičnosti izuzeća za MDATP na računalu s Linuxom
+# <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Konfiguriranje i provjera valjanosti izuzimanja za MDATP na računalu sa sustavom Linux
 
-Moguće je isključiti određene datoteke, mape, procese te datoteke koje se otvaraju procesom iz MDATP skeniranja. Isključenja pomažu u sprječavanju neispravnog otkrivanja softvera i datoteka koje su jedinstvene ili prilagođene vašoj tvrtki ili ustanovi. Isključenja također pomažu ublažiti poteškoće s performansama uzrokovane MDATP-om.
+Iz MDATP skeniranja možete izuzeti određene datoteke, mape, procese i datoteke otvorene procesom. Izuzimanja sprječavaju netočno otkrivanje softvera i datoteka jedinstvenih ili prilagođenih vašoj tvrtki ili ustanovi. Izuzimanja također ublažavaju probleme s performansama uzrokovane MDATP-om.
 
-Dodatne informacije potražite u članku [Konfiguriranje i provjera autentičnosti isključenja za MDATP za Linux](https://go.microsoft.com/fwlink/?linkid=2144517).
+Dodatne informacije potražite u članku Konfiguriranje [i provjera valjanosti izuzimanja za MDATP za Linux](https://go.microsoft.com/fwlink/?linkid=2144517).
 
 > [!IMPORTANT]
-> Isključenja opisana u ovom članku ne primjenjuju se na druge mogućnosti MDATP za Linux, uključujući krajnje točke otkrivanja i odaziva (EDR). Datoteke koje izostavite pomoću metoda opisanih u ovom članku i dalje mogu pokrenuti obavijesti o EDR-u i druge mogućnosti otkrivanja.
+> Izuzimanja opisana u ovom članku ne odnose se na druge mogućnosti MDATP-a za Linux, uključujući otkrivanje krajnjih točaka i odgovor (EDR). Datoteke koje izuzimate pomoću načina opisanih u ovom članku i dalje mogu EDR upozorenja i druge mogućnosti otkrivanja.
