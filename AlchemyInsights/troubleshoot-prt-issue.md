@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća s izdankom PRT
+title: Otklanjanje poteškoća s PRT-om
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972708"
 ---
-# <a name="troubleshoot-prt-issue"></a>Otklanjanje poteškoća s izdankom PRT
+# <a name="troubleshoot-prt-issue"></a>Otklanjanje poteškoća s PRT-om
 
-Da bi bilo koji uređaj trebao biti autentičan, mora biti u potpunosti registriran i u dobroj državi i može steći primarni token osvježavanja (PRT).
+Da bi bilo koji uređaj dovršio provjeru autentičnosti, mora biti u potpunosti registriran i u dobrom stanju i moći nabaviti token primarnog osvježavanja (PRT).
 
-Postupak registracije za hibridnu verziju Azure AD Join zahtijeva da uređaji budu na korporacijskom mreži. Internet isto tako utvrde na VPN, ali ima neki opomena to taj. Čuli smo da kupci trebaju pomoć pri otklanjanju poteškoća s postupkom registracije hibridne Azure AD Join u odjeljku uvjeti daljinskog rada. Ovdje se nalazi slom događaja "Under The Hood" tijekom postupka registracije.
+Hibridni postupak registracije za pridruživanje servisa Azure AD zahtijeva da se uređaji u poslovnoj mreži. Funkcionira i nad VPN-om, ali postoje neke upozorenje o tome. Čuli smo da korisnicima treba pomoć pri otklanjanju poteškoća s hibridnim postupkom registracije pridruživanja servisa Azure AD u okolnostima udaljenog rada. Evo što se događa "ispod haube" tijekom postupka registracije.
 
-**Okruženje za provjeru autentičnosti u oblaku (korištenje značajke korištenja lozinke za Azure AD i provjera autentičnosti)**
+**Okruženje za provjeru autentičnosti u oblaku (pomoću sinkronizacije i provjere autentičnosti lozinke za Azure AD)**
 
-Ovaj tijek registracije poznat je i kao "Sinkronizacija pridruživanja".
+Taj je tijek registracije poznat i kao "Sinkronizacija spoja".
 
-1. Windows 10 otkriva zapis o SCP-u na korisniku koji se prijavljuje na uređaj.
-    1. Uređaj najprije pokuša dohvatiti informacije o klijentu s klijentskog SCP-a u registru [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Dodatne informacije potražite u ovom [dokumentu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    2. Ako ne uspije, uređaj komunicira s lokalnim servisom Active Directory (AD) da bi dobio informacije o klijentu iz točke veze za servis (SCP). Da biste potvrdili SCP, pogledajte ovaj [dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point). 
-
-> [!NOTE]
-> Preporučujemo vam da u OGLASU omogućite SCP, a za početnu provjeru valjanosti koristite samo SKP na strani klijenta.
-
-2. Windows 10 pokušava razgovarati s Azure AD u odjeljku sistemski kontekst radi provjere autentičnosti za Azure AD. Možete potvrditi može li uređaj pristupati Microsoftovim resursima u odjeljku sistemski račun pomoću skripte za povezivanje s registriranjem testnog uređaja.
-
-3. Windows 10 generira samopotpisani certifikat i pohranjuje ga ispod objekta računala u lokalnom AD-u. Za to je potreban kontrolor domene.
-
-4. Objekt uređaja s certifikatom može se sinkronizirati s programom Azure AD putem servisa Azure AD Connect. Ciklus sinkronizacije svaki je 30 minuta po zadanom, ali ovisi o konfiguraciji servisa Azure AD Connect. Dodatne informacije potražite u ovom [dokumentu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. U ovoj će fazi biti moguće vidjeti predmet uređaja u odjeljku "u tijeku" u odjeljku sprava Blade of Azure portal.
-
-6. Kada se sljedeći korisnik prijavi na Windows 10, registracija će biti dovršena. 
+1. Windows 10 otkrije SCP zapis nakon prijave korisnika na uređaj.
+    1. Uređaj najprije pokušava dohvatiti podatke klijenta iz klijentskog SCP-a u registru [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Dodatne informacije potražite u ovom [dokumentu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    2. Ako ne uspije, uređaj komunicira s lokalnim servisom Active Directory (AD) radi primanja podataka o klijentu iz točke povezivanja servisa (SCP). Da biste potvrdili SCP, pogledajte [ovaj dokument.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
 > [!NOTE]
-> Ako ste na VPN-u, a ako je postupak prijave neograničen, možete ručno pokrenuti registraciju:
- 1. Izdanje dsregcmd/pridružite se lokalno na administratorskom upitu ili na daljinu putem Psexez-a na PC. Na primjer, Psexez-s \\ win10client01 cmd, dsregcmd/Join
+> Preporučujemo da omogućite SCP u AD-u i koristite samo klijentski SCP za početnu provjeru valjanosti.
 
- 2. Dodatne informacije o hibridnim pitanjima pridruživanja potražite u članku [Otklanjanje poteškoća s uređajima](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).
+2. Windows 10 pokušava komunicirati sa servisom Azure AD u kontekstu sustava da bi se provjerila autentičnost u odnosu na Azure AD. Možete provjeriti može li uređaj pristupiti Microsoftovim resursima putem računa sustava pomoću skripte Test Device Registration Connectivity.
+
+3. Windows 10 generira samoispravni certifikat i pohranjuje ga ispod objekta računala u lokalnom AD-u. Za to je potreban linijski kontroler domene.
+
+4. Objekt uređaja s certifikatom sinkronizira se sa servisom Azure AD putem servisa Azure AD Povezivanje. Ciklus sinkronizacije po zadanom je svakih 30 minuta, ali ovisi o konfiguraciji servisa Azure AD Povezivanje. Dodatne informacije potražite u ovom [dokumentu.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+
+5. U ovoj fazi trebali biste moći vidjeti predmet uređaja u stanju "Na čekanju" ispod oštrice uređaja portala Azure.
+
+6. Prilikom sljedeće prijave korisnika na Windows 10 registracija će biti dovršena. 
+
+> [!NOTE]
+> Ako ste na VPN-u i postupak prijave e-pošte prekida vezu s domenom, registraciju možete pokrenuti ručno:
+ 1. Problem dsregcmd /join locally on admin prompt or remotely via PSExec to your PC. Na primjer, PsExec -s \\ win10client01 cmd, dsregcmd /join
+
+ 2. Dodatne informacije o problemima hibridnog pridruživanja potražite u članku Otklanjanje [poteškoća s uređajima](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).

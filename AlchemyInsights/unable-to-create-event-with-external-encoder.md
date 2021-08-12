@@ -1,5 +1,5 @@
 ---
-title: 'Teams: live event - nesposoban za stvaranje događaja s vanjskim koderom'
+title: 'Teams: događaj uživo – nije moguće stvoriti događaj s vanjskim koderom'
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1780"
 - "9000208"
-ms.openlocfilehash: d8af975ce7d19e27b2eefda712ac778c0f703d6d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2f219337bdda2b11fdf61a9249f7013b600bb69990856e09e56b5ae33ec33dda
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51796993"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920027"
 ---
 # <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Morate konfigurirati događaj uživo pomoću vanjskog kodera?
 
-Ako nailaze na poteškoće s radom kodera s događajem uživo u aplikaciji Teams, pogledajte dokumentaciju o postavljanju kodera: [Konfiguriranje kodera](https://docs.microsoft.com/stream/live-encoder-setup) za strujanje uživo u programu Microsoft Stream
+Ako imate problema s radom kodera s Teams događaja uživo, pogledajte dokumentaciju za postavljanje kodera: Konfiguriranje kodera za [strujanje](https://docs.microsoft.com/stream/live-encoder-setup) uživo u programu Microsoft Stream

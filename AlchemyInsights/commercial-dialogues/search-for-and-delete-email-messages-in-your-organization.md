@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: e935b10083459b81fc58e12bb59c9511defefa6d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bd25d9bb2af8114786503e129de105c9a0f602c98b206f01770605d1957e3a1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743776"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948875"
 ---
 # <a name="search-for-and-delete-email-messages-in-your-organization"></a>Traženje i brisanje poruka e-pošte u tvrtki ili ustanovi
 
 Slijedite ove korake:
 
-1. Ako niste globalni administrator, da biste potražili poruke, vaš račun mora biti dodan u **grupu uloga menadžera za istraživanje** ili za **Upravljanje usklađivanjem pretraživanja**. Da biste izbrisali poruke, morat ćete se pridružiti **grupi uloga za upravljanje organizacijom** ili **ulogu pretraživanja i brisanja**. Dozvole za te uloge dodijeljene su u [centru za sigurnost & usklađenosti.](https://protection.office.com)
-2. [Stvorite pretraživanje sadržaja](https://docs.microsoft.com/office365/securitycompliance/content-search) da biste pronašli poruku koja će se izbrisati.
-3. [Spojite se na sigurnosnu & PowerShell centra za usklađenost](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell). Ako koristite MFA, pogledajte ove upute: [Povezivanje s pomoću komponente Security & u centru za usklađenost s višestrukim čimbenikom provjere autentičnosti](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell)
-4. Izbrišite poruku: Pokrenite `New-ComplianceSearchAction` cmdlet da biste izbrisali poruku. Izbrisane poruke premještaju se u korisničku mapu stavke koje se mogu oporaviti. Naredba primjer potražite u odjeljku [treći korak: brisanje poruke.](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messages-in-your-organization)
+1. Ako niste globalni administrator, da biste potražili poruke, vaš račun mora biti dodan u grupu **uloga upravitelja elektroničkih** elektroničkih obveza ili ulogu za upravljanje **pretraživanjem usklađenosti.** Da biste izbrisali poruke, morate se pridružiti grupi uloga **za upravljanje organizacijom** ili ulozi upravljanja pretraživanjem **i čišćenjem.** Dozvole za te uloge dodjeljuju se u centru [za & usklađenosti.](https://protection.office.com)
+2. [Stvorite pretraživanje sadržaja da](https://docs.microsoft.com/office365/securitycompliance/content-search) biste pronašli poruku koju želite izbrisati.
+3. [Povezivanje na powershell centra za & sigurnosti](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell). Ako koristite MFA, pročitajte sljedeće upute: Povezivanje [za sigurnost & komponente PowerShell pomoću višestruke provjere autentičnosti](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell)
+4. Izbrišite poruku: pokrenite `New-ComplianceSearchAction` cmdlet da biste izbrisali poruku. Izbrisane se poruke premještaju u korisnikov mapu Stavke koje se mogu oporaviti. Primjer naredbe pogledajte u [3. koraku: brisanje poruke.](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messages-in-your-organization)
