@@ -1,5 +1,5 @@
 ---
-title: Pošiljatelj ne prima e-poštu poslanu u grupu Microsoft 365
+title: Pošiljatelj ne prima e-poštu poslanu Microsoft 365 grupi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003200"
-ms.openlocfilehash: b8091305d55408f51cf369506acc7bfac59defb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893b80567567590357a638370b8c8d58b87a98a51c68cfcc84629eda5ac71b44
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958289"
 ---
-# <a name="sender-does-not-receive-email-sent-to-microsoft-365-group"></a>Pošiljatelj ne prima e-poštu poslanu u grupu Microsoft 365
+# <a name="sender-does-not-receive-email-sent-to-microsoft-365-group"></a>Pošiljatelj ne prima e-poštu poslanu Microsoft 365 grupi
 
-Pošiljatelj poruke e-pošte prema zadanim postavkama u grupi Microsoft 365 ne prima kopiju poruke u ulaznoj pošti, čak i ako je pošiljatelj član grupe.
+Po zadanom pošiljatelj poruke e-pošte u grupu Microsoft 365 ne prima kopiju poruke u ulaznoj pošti, čak i ako je pošiljatelj član grupe.
 
-Upotrijebite ovu naredbu EXO PowerShell da biste pošiljatelju dopustili primanje kopije svake poruke e-pošte koju pošalju u grupu Microsoft 365:  
+Pomoću ove naredbe EXO PowerShell pošiljatelju omogućite primanje kopije svake poruke e-pošte koju pošalje grupi Microsoft 365:  
 
 `Set-MailboxMessageConfiguration <MailboxName> -EchoGroupMessageBackToSubscribedSender $True`  
 
-Da biste istodobno omogućili postavku za sve poštanske sandučiće:
+Da biste omogućili postavku za sve poštanske sandučiće odjednom:
 
 `Get-Mailbox -ResultSize Unlimited | ForEach {Set-MailboxMessageConfiguration -Identity $_.UserPrincipalName -EchoGroupMessageBackToSubscribedSender $true}` 
 
-**Notes** Promjene ove postavke uzimaju učinak na jedan sat.
+**Napomena** Za promjene te postavke potrebno je do sat vremena da bi stupjete na snagu.

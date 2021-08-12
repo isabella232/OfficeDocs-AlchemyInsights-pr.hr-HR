@@ -1,5 +1,5 @@
 ---
-title: lozinke za 500 aplikacija
+title: 500 lozinki za aplikacije
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -15,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a384ea0de9b4f6ed58215fd988f9520ba0031af041eb326fda467b80d28406ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717029"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931945"
 ---
 # <a name="app-passwords"></a>Lozinke za aplikacije
 
-Lozinka za aplikaciju predstavlja kod koji aplikaciji ili uređaju daje dozvolu za pristup vašem Microsoftovu računu tvrtke ili obrazovne ustanove. Ako je za vaš račun potrebna višestruka provjera autentičnosti (MFA), a aplikacija se povezuje s vašim računom, morate generirati lozinku za aplikaciju da bi se aplikacija mogla povezati s Microsoftom. Na primjer, Outlook 2016 i starije verzije programa Outlook zahtijevaju lozinku za aplikaciju.
+Lozinka za aplikaciju kod je koji aplikaciji ili uređaju daje dozvolu za pristup microsoftovu računu tvrtke ili škole. Ako je za vaš račun potrebna višestruka provjera autentičnosti (MFA), a aplikacija se povezuje s vašim računom, morate generirati lozinku za aplikaciju da bi se aplikacija povezala s Microsoftom. Primjerice, Outlook 2016 i starijim verzijama Outlook zahtijevaju lozinku za aplikaciju.
 
- **Imajte**na glavi: prije nego što pokušate poduzeti sljedeće korake, provjerite je li u administratoru tvrtke Microsoft 365 potreban MFA za vaš račun. Ako nije, mogućnosti opisane u koracima neće vam biti dostupne.
+ **Napomena:** prije nego što isprobate sljedeće korake, provjerite kod administratora Microsoft 365 je za vaš račun potreban MFA. Ako nije, mogućnosti opisane u koracima neće vam biti dostupne.
 
-1. Prijavite se pomoću računa za rad ili obrazovne ustanove i lozinkom.
+1. Prijavite se pomoću računa za posao ili školu i lozinke.
 
-2. Odaberite **postavite ga odmah**.
+2. Odaberite **Postavi odmah**.
 
 3. Odaberite način provjere autentičnosti i slijedite upute.
 
-4. Kada potvrdite alternativni način kontakta, odaberite **dalje**.
+4. Kada potvrdite zamjenski način kontakta, odaberite **Dalje**.
 
-5. Dobit ćete lozinku za aplikaciju koju možete koristiti za Outlook, Apple Mail i druge aplikacije za koje je potrebna. Odaberite **Kopiraj** da biste kopirali lozinku da biste je mogli zalijepiti na drugo mjesto (ne morate je pamtiti).
+5. Dobiti ćete lozinku za aplikaciju koju možete koristiti s aplikacijama Outlook, Apple Mail i drugim aplikacijama koje su vam potrebne. Odaberite **Kopiraj** da biste kopirali lozinku da biste je mogli zalijepiti negdje drugdje (ne morate je pamtiti).

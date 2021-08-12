@@ -1,5 +1,5 @@
 ---
-title: Cortana ne razgovara sa mnom ili ne može me čuti
+title: Cortana ne razgovara sa mnom ili ne čuje
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: c37ab73efcb39e9615397b3e84cb6e02efc0e4cb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5a7cc013dc2e414306f9f8cb3eb0f3fd948b7e32438b82a71c31219b65a180e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965854"
 ---
-# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana ne razgovara sa mnom ili ne može me čuti
+# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana ne razgovara sa mnom ili ne čuje
 
-Ako pokušavate koristiti značajku "Hej Cortana", koja vam omogućuje razgovor s Cortanom bez odabira gumba Cortana na programskoj traci ili gumba mikrofona na ploči Cortana, provjerite je li značajka omogućena:
+Ako pokušavate koristiti značajku "Hey Cortana" (Hey Cortana), koja omogućuje razgovor s Cortana-om bez odabira gumba Cortana na programskoj traci ili gumba mikrofona na ploči Cortana, provjerite je li značajka omogućena:
 
 1. Idite **na Start**, a zatim **[odaberite Postavke > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
-2. U **odjeljku Hej Cortana** prebacite **prekidač Dopusti Cortani da odgovori na "Hey Cortana"** (Hej Cortana) na **Uključeno**.
+2. U **odjeljku Cortana ,** prebacite prekidač Dopusti Cortana na **"Hey Cortana" (Hej Cortana)** na **Uključeno**.
 
-![Hej Cortana](media/hey-cortana.png)
+![Hey Cortana](media/hey-cortana.png)
 
-**Sprječavaju li vaše postavke zaštite privatnosti Cortanu da vas čuje?**
+**Sprječavaju li postavke zaštite privatnosti Cortana vas čuti?**
 
-Postavke zaštite privatnosti mogu spriječiti Cortanu da reagira na vaš glas.
+Postavke zaštite privatnosti mogu onemogućiti Cortana odgovaranja na vaš glas.
 - Provjerite je li uključeno prepoznavanje govora putem interneta:
     - Idite **na Start**, a zatim kliknite Postavke > Zaštita privatnosti > **[govor](ms-settings:privacy-speech?activationSource=GetHelp)**.
     - U **odjeljku Prepoznavanje govora putem** interneta postavite postavku na **Uključivanje**.
 - Provjerite ima li Cortana dozvolu za pristup mikrofonu. 
-    - Idite na Start, a zatim **[kliknite Postavke > Zaštita privatnosti > Mikrofon](ms-settings:privacy-microphone?activationSource=GetHelp)**.
-    - U **odjeljku Odaberite aplikacije** koje mogu pristupiti mikrofonu potražite Cortanu na popisu aplikacija i **servisa** i provjerite je li prekidač isključen na **Isključeno**.
+    - Idite na Start, a zatim **[kliknite Postavke > Zaštita privatnosti > mikrofon](ms-settings:privacy-microphone?activationSource=GetHelp)**.
+    - U **odjeljku Odaberite** aplikacije koje mogu **pristupati mikrofonu** potražite Cortana na popisu aplikacija i servisa i provjerite je li prekidač isključen na **Isključeno**.
 
-Osim toga, provjerite i jesu li zvučnici ili mikrofoni u redu da biste razgovarali s Cortanom.
+Osim toga, provjerite i jesu li zvučnici ili mikrofoni u redu da biste razgovarali s Cortana.

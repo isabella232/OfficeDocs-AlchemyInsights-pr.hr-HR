@@ -14,16 +14,16 @@ ms.custom:
 - "1030"
 - "9003770"
 - "6709"
-ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc23546a6287300075f0dcbc120e4e09dded2b8e03899e98d8c27ff6c94b737e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821322"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931981"
 ---
 # <a name="app-configuration-policies-for-microsoft-intune"></a>Pravila konfiguracije aplikacija za Microsoft Intune
 
-Pravila konfiguracije aplikacija u aplikaciji Microsoft Intune koriste se za pružanje konfiguracijskih postavki za aplikacije sustava iOS ili Android. Te postavke konfiguracije omogućuju prilagodbu aplikacije. Imajte na umu da postoje ograničenja u odnosu na verzije operacijskog sustava i koje aplikacije podržavaju korištenje pravilnika o konfiguraciji.
+Pravila konfiguracije aplikacija u Microsoft Intune koriste se za pružanje postavki konfiguracije za aplikacije sa sustavom iOS ili Android. Te postavke konfiguracije omogućuju prilagodbu aplikacije. Imajte na umu da postoje ograničenja u odnosu na verzije operacijskog sustava i koje aplikacije podržavaju korištenje pravilnika o konfiguraciji.
 
 Detalje potražite u sljedećoj dokumentaciji
 

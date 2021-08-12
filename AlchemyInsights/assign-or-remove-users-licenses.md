@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: dac3ee09db000fa8f9058baf6f6a9220e20eb695
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 95212c2bc0d1ea4815a41b4511110a62211433841b3e20a28856773a3d42884d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821034"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950837"
 ---
 # <a name="assign-or-remove-user-licenses"></a>Dodjela ili uklanjanje korisničkih licenci
 
 Kao administrator po potrebi možete prilagoditi licence korisnika. U ovim se člancima pokazuje kako upravljati korisničkim licencama:
   
-- [Dodjela licenci korisnicima u sustavu Microsoft 365 za tvrtke](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
+- [Dodjela licenci korisnicima u Microsoft 365 za tvrtke](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
-- [Poništavanje dodjele licenci korisnika u sustavu Microsoft 365 za tvrtke](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
+- [Poništavanje dodjele licenci korisnika u Microsoft 365 za tvrtke](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 
 Niste odgovorili na pitanje? Nema frke! Upotrijebite gumb "Potrebna vam je pomoć" da biste razgovarali s inženjerom za podršku.

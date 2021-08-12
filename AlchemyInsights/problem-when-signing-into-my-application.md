@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7797"
-ms.openlocfilehash: b7ef5529f4b98188a466501803b934f4935ad48c
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: d2a11e38c49a28a90ce7912a805af9c09bf3c6b98d91f24f75bdb32192bcfa69
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49900820"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911294"
 ---
 # <a name="problem-when-signing-in-to-my-application"></a>Problem prilikom prijave u aplikaciju
 
-Probleme s poslužiteljem za proxy aplikacije možete riješiti pomoću članaka:
+Probleme s pristupom proxyju aplikacije možete riješiti pomoću članaka:
 
-- [Došlo je do pogreške "ne mogu pristupiti ovoj korporaciji"](https://docs.microsoft.com/azure/active-directory/application-proxy-sign-in-bad-gateway-timeout-error/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview).
-- [Ne mogu se prijaviti u lokalnu aplikaciju pomoću proxyja aplikacije Azure ad](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-on-premises-application-proxy/?WT.mc_id=UI_AAD_Apps_Sign_In_Support_L2_Proxy).
-- [Problemi s aplikacijom proxy aplikacije za ispravljanje pogrešaka](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).
+- [Prikazuje mi se pogreška "Ne mogu pristupiti ovoj korporacijskoj aplikaciji".](https://docs.microsoft.com/azure/active-directory/application-proxy-sign-in-bad-gateway-timeout-error/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview)
+- [Ne mogu se prijaviti u lokalnu aplikaciju pomoću](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-on-premises-application-proxy/?WT.mc_id=UI_AAD_Apps_Sign_In_Support_L2_Proxy)proxyja aplikacije Azure AD .
+- [Problemi s programom Proxy aplikacije za ispravljanje pogrešaka](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).
