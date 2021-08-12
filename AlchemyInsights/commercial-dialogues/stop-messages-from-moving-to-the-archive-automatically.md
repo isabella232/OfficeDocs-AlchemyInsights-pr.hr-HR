@@ -1,5 +1,5 @@
 ---
-title: Automatsko zaustavljanje poruka od preseljenja u arhivu
+title: Automatsko zaustavljanje premještanja poruka u arhivu
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 2cb3e29dfd4f422e946b7887d4d44f373ff03794
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: df7443626308416e1d7edf4bc87c0eba95ec2c030d5ef3207513480873c1e3e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929945"
 ---
-# <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Automatsko zaustavljanje poruka od preseljenja u arhivu
+# <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Automatsko zaustavljanje premještanja poruka u arhivu
 
-Ako koristite pravilnik o zadržavanju, možete promijeniti starost zadržavanja u tom pravilniku radi automatskog zaustavljanja poruka arhiviranja. Evo i kako:
+Ako koristite pravilnik o zadržavanju, možete promijeniti dob zadržavanja u tom pravilniku da biste automatski zaustavili arhiviranje poruka. Evo i kako:
 
-1. U [centru za administratore sustava Exchange](https://go.microsoft.com/fwlink/?linkid=2059104)odaberite oznake zadržavanja za **Upravljanje usklađivanjem**  >  . Pronađite svoj premještanje da biste arhivirali oznaku zadržavanja.
-2. U oznake zadržavanja promijenite razdoblje zadržavanja (razdoblje arhiviranja) da **nikada ne** biste zaustavili automatsko arhiviranje stavki pomoću pravilnika o zadržavanju.
+1. U centru [Exchange za administratore odaberite](https://go.microsoft.com/fwlink/?linkid=2059104) **oznake zadržavanja upravljanja**  >  **usklađenosti**. Pronađite oznaku Za premještanje u arhiviranje zadržavanja.
+2. U oznaci zadržavanja promijenite razdoblje zadržavanja  (razdoblje arhiviranja) u Nikad da biste zaustavili automatsko arhiviranje stavki pravilnikom o zadržavanju.
 
 > [!NOTE]
-> Time ćete promijeniti postavku arhiviranja za sve poštanske sandučiće s tom oznakom zadržavanja koja se primjenjuje na njih.
+> Time ćete promijeniti postavku arhiviranja za sve poštanske sandučiće s tom oznakom zadržavanja primijenjenom na njih.
