@@ -1,5 +1,5 @@
 ---
-title: Izvješće o sumnjivim adresama
+title: Prijava sumnjivih URL-ova
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 858a80886321394a5f3acc813e1f95b6f88cad8f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d42d7eb55062b729b3156dc02562c83800c786d34f6de05152e7e09fa88ab71b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915687"
 ---
-# <a name="report-suspicious-urls"></a>Izvješće o sumnjivim adresama
+# <a name="report-suspicious-urls"></a>Prijava sumnjivih URL-ova
 
 Da biste poslali sumnjive URL-ove, slijedite ove korake:
 
-1. U **novu prijavu za podnošenje** Unesite cijeli URL, uključujući protokol (https://).
-2. Ako ste odabrali **trebao je biti blokiran**, navedite je li URL **phishing** ili **zlonamjerni softver**.
+1. U **letak Novi podnesak** unesite cijeli URL, uključujući protokol (https://).
+2. Ako odaberete Treba **li biti blokirano**, navedite je li URL krađa **identiteta ili** **zlonamjerni softver**.
 3. Odaberite **Pošalji**.

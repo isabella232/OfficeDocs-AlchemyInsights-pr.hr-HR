@@ -1,5 +1,5 @@
 ---
-title: Registracija aplikacija
+title: Registracija aplikacije
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7780"
-ms.openlocfilehash: 75e7b57d279e508971f3a846c2ad3ede927e9c2f
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: d21f6ee8206c9bf0f02dbe147333b9d714aa43895812888e28d564e37f56dca1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49900831"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969603"
 ---
-# <a name="application-registration"></a>Registracija aplikacija
+# <a name="application-registration"></a>Registracija aplikacije
 
-1. [Registrirajte aplikaciju pomoću servisa Azure Active Directory](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory): ovaj udžbenik opisuje kako registrirati aplikaciju pomoću servisa Azure Active Directory, što korisniku omogućuje korištenje korisničkog računa servisa Power Apps za povezivanje sa sustavom Microsoft dataverse iz vanjskih klijentskih aplikacija pomoću OAuth provjere autentičnosti.
-1. [Registrirajte aplikaciju pomoću Microsoftove platforme za identitete](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app): u ovom brzo pokretanje registrirali ste aplikaciju na portalu Azure da bi Microsoftova platforma identiteta mogla pružiti provjeru autentičnosti i autorizacije za vašu aplikaciju i njegove korisnike.
+1. [Registrirajte aplikaciju pomoću aplikacije Azure Active Directory](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory): U ovom se vodiču opisuje kako registrirati aplikaciju pomoću aplikacije Azure Active Directory, što korisniku s korisničkim računom aplikacije Power Apps omogućuje povezivanje s okruženjem Microsoft Dataverse iz vanjskih klijentskih aplikacija pomoću provjere autentičnosti sustava OAuth.
+1. [Registrirajte aplikaciju pomoću Microsoftova platforma za identitete:](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app)u ovom brzom početaku registrirate aplikaciju na portalu Azure da bi Microsoftova platforma za identitete usluge provjere autentičnosti i autorizacije za vašu aplikaciju i njezine korisnike.
