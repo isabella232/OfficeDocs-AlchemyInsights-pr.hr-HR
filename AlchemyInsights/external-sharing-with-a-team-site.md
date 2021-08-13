@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fac10d862611cab95933576fde59bdaf1eb58e572d6781b087c48d2c332e205d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977685"
 ---
 # <a name="external-sharing-with-a-team-site"></a>Vanjsko zajedničko korištenje s timskim web-mjestom
 
-Da biste uključili zajedničko korištenje vanjskih korisnika za timska web-mjesta, slijedite ove korake: 
+Da biste u vanjsko zajedničko korištenje korisnika za timska web-mjesta u uključite, slijedite ove korake: 
   
-1. U novom centru za administratore sustava SharePoint kliknite **aktivna web-mjesta**.
+1. U novom centru za administratore SharePoint kliknite Aktivna **web-mjesta**.
   
-2. Odaberite web-mjesto koje sadrži predložak **timskog web-mjesta** . 
+2. Odaberite web-mjesto s predloškom **timskog web-mjesta.** 
   
-3. Na vrhu izbornika odaberite gumb **zajedničko korištenje** . 
+3. Na gornjem **izborniku** odaberite gumb Zajedničko korištenje. 
   
- **Pažnja**: po zadanom, kada se stvori moderno timsko web-mjesto, mogućnost vanjskog zajedničkog korištenja bit će postavljena na nove i postojeće vanjske korisnike. 
+ **Napomena:** prilikom stvaranja modernog timskog web-mjesta po zadanom će se mogućnost vanjskog zajedničkog korištenja postaviti na Novi i postojeći vanjski korisnici. 
   
- **Upozorenje:** Ako je odabrano više web-mjesta, gumb **zajedničko korištenje** prikazat će se onemogućeno. Odaberite samo jedno web-mjesto. 
+ **Napomena:** Ako ste odabrali više web-mjesta, gumb **Zajedničko korištenje** prikazat će se onemogućen. Odaberite samo jedno web-mjesto. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Uklanjanje podataka i brisanje uređaja iz programa Intune
+title: Uklanjanje podataka i brisanje uređaja iz aplikacije Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,28 +15,28 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
-ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922199"
 ---
-# <a name="removing-data-and-wiping-devices-from-intune"></a>Uklanjanje podataka i brisanje uređaja iz programa Intune
+# <a name="removing-data-and-wiping-devices-from-intune"></a>Uklanjanje podataka i brisanje uređaja iz aplikacije Intune
 
-Uređaj se povlači, a uređaj briše udaljene akcije, može se koristiti za uklanjanje podataka tvrtke koje upravlja Intune ili za izvođenje tvornice i vraćanje uređaja na zadane postavke.
+Daljinske akcije Povlačenje uređaja i Brisanje uređaja mogu se koristiti za uklanjanje podataka tvrtke kojima upravlja Intune ili za vraćanje na tvorničke postavke i vraćanje uređaja na zadane postavke.
 
-1. Prijavite se u upravljanje uređajima Microsoft 365, a zatim otvorite **Uređaji**  >  **Svi uređaji**.
+1. Prijavite se u Microsoft 365 upravljanje uređajima pa idite na **Uređaji**  >  **Svi uređaji**.
 2. Odaberite uređaj koji želite izbrisati.
-3. Odaberite vrstu daljinskog brisanja koju želite učiniti. Povlačenje briše samo organizacijske podatke, dok pune maramice vraćaju uređaj na tvorničke postavke.
-4. Odaberite **da** da biste potvrdili. Dok brisanje ne završi, status akcije uređaja prikazuje se kao *umirovljen na čekanju*.
-    Nakon dovršetka akcije više nećete vidjeti mobilni uređaj na popisu upravljanog uređaja.
+3. Odaberite vrstu daljinskog brisanja koju želite učiniti. Povlačenjem se brišu samo podaci tvrtke ili ustanove, a potpuno brisanje uređaja vraća na tvorničke postavke.
+4. Odaberite **Da** da biste potvrdili. Dok brisanje ne završi, status akcije Uređaj prikazuje se kao Povlačenje *na čekanju.*
+    Kada akcija završi, mobilni uređaj više se neće vidjeti na popisu upravljanih uređaja.
 
 > [!NOTE]
-> Podaci o poduzeću ne mogu se ukloniti s uređaja koji su spojeni na Azure AD. 
+> Podaci tvrtke ne mogu se ukloniti s uređaja pridruženih servisu Azure AD. 
 
-Informacije o efektu umirovljenja i brisanja, uključujući ono što je sačuvano i izbrisano, potražite u članku sljedeća dokumentacija:
+Potpune pojedinosti o efektu akcija Povlačenje i brisanje, uključujući ono što se zadržava i što se briše, potražite u sljedećoj dokumentaciji:
 
-- [Uklonite uređaje pomoću značajke brisanje, povlačenje ili ručno poništavanje upisivanjem uređaja](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe).
-- [Brisanje samo korporativnih podataka iz aplikacija koje upravlja Intune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
-- [Brisanje svih podataka s macOS uređaja](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).
+- [Uklonite uređaje brisanjem, povlačenjem ili ručnim poništavanjem uređaja.](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe)
+- [Brisanje samo korporativnih podataka iz aplikacija kojima upravlja Intune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [Brisanje svih podataka s uređaja sa sustavom macOS](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).
