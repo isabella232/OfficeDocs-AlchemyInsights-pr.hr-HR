@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje pogrešaka vezanih uz proxy aplikacije
+title: Otklanjanje poteškoća povezanih s proxyjem aplikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "9686"
-ms.openlocfilehash: fe0bae35942af9925e8a5f90f966e204d7f84fd2
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: 2aa9d325be0d507c72dd615a05529e99711cff968264c474820625f8fcc65bdc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51035245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969819"
 ---
-# <a name="troubleshoot-errors-related-to-application-proxy"></a>Otklanjanje pogrešaka vezanih uz proxy aplikacije
+# <a name="troubleshoot-errors-related-to-application-proxy"></a>Otklanjanje poteškoća povezanih s proxyjem aplikacije
 
-- Da biste saznali više o uobičajenim pogreškama koje dolaze iz programa Kerberos i konfiguracije te prijedloge za rezoluciju, pročitajte članak [Otklanjanje poteškoća s proxyjem aplikacija i poruka o pogreškama](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-troubleshoot#kerberos-errors).
-- Za aplikacije proxy 404 pogreške potražite u članku [stranica aplikacija ne prikazuje se pravilno za aplikaciju proksiji aplikacija | Microsoftovi dokumenti](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-appearance-broken-problem).
-- U servisu Azure Active Directory (Azure AD) konfiguriranje velikog broja lokalnih aplikacija može brzo postati neupravljano i uvodi nepotrebne rizike za pogreške pri konfiguraciji ako mnogi od njih zahtijevaju iste postavke. Pomoću [proxy poslužitelja Azure ad Application](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy)možete riješiti taj problem pomoću značajke objavljivanja zamjenske aplikacije da biste objavili i upravljali mnogim aplikacijama istodobno. Dodatne informacije potražite u članku [zamjenski programi u programu Azure ad Application proxy | Microsoftovi dokumenti](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-wildcard).
+- Da biste saznali više o najčešćim pogreškama koje dolaze iz postavljanja i konfiguracije sustava Kerberos te prijedlozima za rješavanje, pogledajte otklanjanje poteškoća s [proxyjem aplikacije i poruka o pogreškama](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-troubleshoot#kerberos-errors).
+- Za pogreške proxyja aplikacije 404 pogledajte stranicu Aplikacija ne prikazuje se pravilno [za aplikaciju Proxy aplikacije aplikacije | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-appearance-broken-problem).
+- U Azure Active Directory (Azure AD) konfiguriranje velikog broja lokalne aplikacije može brzo postati neupotrebljivo i uvodi nepotrebne rizike za pogreške u konfiguraciji ako mnoge od njih zahtijevaju iste postavke. Uz [proxy aplikacije Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy)taj problem možete riješiti pomoću objavljivanja zamjenskih aplikacija radi objavljivanja i upravljanja mnogim aplikacijama odjednom. Dodatne informacije potražite u članku [Zamjenske aplikacije u proxyju aplikacije Azure AD | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-wildcard).

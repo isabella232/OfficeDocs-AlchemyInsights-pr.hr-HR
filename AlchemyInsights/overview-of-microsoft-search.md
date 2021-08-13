@@ -1,5 +1,5 @@
 ---
-title: Pregled Microsoftova pretraživanja
+title: Pregled Microsoft pretraživanje
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "6443"
 - "9003287"
-ms.openlocfilehash: 8171ec494197abf53a073cc87fce0898d23f9490
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 00eb6c5fdabc56a7d81b27c48bdc1f1e562cbac9bfb6046b9ea7c2c0f4920800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924515"
 ---
-# <a name="overview-of-microsoft-search"></a>Pregled Microsoftova pretraživanja
+# <a name="overview-of-microsoft-search"></a>Pregled Microsoft pretraživanje
 
-Da biste isplanirali Microsoft Search, pogledajte [pregled Microsoftova pretraživanja](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Da biste planirali Microsoft pretraživanje, [pogledajte Pregled Microsoft pretraživanje](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
 
-- [Postavljanje Microsoftova pretraživanja](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
-- Saznajte [Najčešća pitanja](https://docs.microsoft.com/microsoftsearch/faqs)o Microsoftovoj pretraživanju.
+- [Postavljanje Microsoft pretraživanje](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
+- Otkrijte Microsoft pretraživanje [najčešća pitanja](https://docs.microsoft.com/microsoftsearch/faqs).

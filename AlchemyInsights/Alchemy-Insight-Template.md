@@ -1,5 +1,5 @@
 ---
-title: isto kao što je naziv datoteke najbolji
+title: isto kao i naziv datoteke je najbolji
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664126"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918887"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Required"
-Najbolje prakse i smjernice za autorizaciju:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Obavezno zaglavlje alkemije H1, H2 ne funkcionira".
+Najbolje prakse i smjernice za alkemiju:
 
-1. **Ne gnijezdite uvide u mapama u mapi**-to će prekinuti strukturu URL-a. Traћimo da popravimo ovo.
-1. Datoteke u mapi **alfihuspoznaje** trebale bi imati slova s malim slovima s crtima za Spaces ex. ***Kako-to-ovlastiti-spor-čekanje***.
-    1. [U polje](https://alchemyportal.azurewebsites.net) MS. Custom unesite ID pravila ili ID narudžbe. primjerice. ***MS. Custom: 100021***
-1. Koristite ostale metapodatke pri vrhu ove datoteke u obliku predloška.
-1. Na [portalu za partnere Alsimija](https://alchemyportal.azurewebsites.net)pomaknite se prema dolje do odjeljka **naslov korisničkog privida:** i koristite ga kao početnu točku za svoj H1 Title za uvid. 
+1. **Nemojte ugnijezditi Alchemy Uvidi u mape**– time ćete prekinuti strukturu URL-a. Radimo na rješavanju tog problema.
+1. Datoteke u mapi **AlchemyInsights** moraju imati mala slova s crticama za razmake ex. **_how-to-enable-litigation-hold_**.
+    1. U polje ms.custom uvrsti ID pravila ili ID ćelije s portala Partnera za [Alchemy.](https://alchemyportal.azurewebsites.net) ex. ***ms.custom: 100021***
+1. Ostatak metapodataka pri vrhu datoteke koristite kao predložak.
+1. Na [portalu Alchemy Partner](https://alchemyportal.azurewebsites.net)pomaknite se do odjeljka Naslov uvida u **klijente:** i upotrijebite ga kao početnu točku za naslov H1 za uvid. 
     > [!NOTE]
-    > Alimija uvide mora imati samo jedan H1 na vrhu ili će se probiti u proizvodnji. H2s ne prikazirajte tako da koristite **podebljano** ili druge konvencije da biste označili odvojene sekcije.
-1. Zatim unesite tekst tijela pomoću skice materijala u odjeljku statistika korisnika na stranici pravila Alfala
+    > Alkemija Uvidi mora imati samo jedan H1 na vrhu ili će se prekinuti u produkciji. H2s ne prikazuje ni podebljano ni **druge** konvencije da biste potpisali zasebne sekcije.
+1. Zatim ispunite tijelo teksta pomoću materijala skice u odjeljku Customer Insights na stranici Pravila alkemije
     1. Popisi s grafičkim oznakama su u redu
-    1. Numerirani popisi previše
-    1. **Podebljano** i *kurziv* su-u redu
-    1. Veze uvijek moraju biti **"veze na web"/vanjske** ili **duboke veze na elemente korisničkog sučelja**, a ne interne veze.
-    1. Slike trenutno nisu podržane, ali se nalaze na putokaz.
+    1. Numerirani popisi
+    1. **Bold** and *italic* are a-ok
+    1. Veze moraju uvijek biti "veze na **web"/vanjske** ili dubinske veze na elemente **sučelja,** a ne interne veze.
+    1. Slike u ovom trenutku nisu službeno podržane, ali su na putu.
 
-I ovo je već već malo predugačko. Najbolja praksa iznosi oko 400 znakova---------------------------------
+A to je već predugo. Najbolja praksa je oko 400 znakova ---------------------------------
 
-Kada sadržaj bude spreman, povucite ga u Live Branch. Zatim otvorite [portal za partnere Alfimije](https://alchemyportal.azurewebsites.net) i unesite naziv datoteke u polje URL. 
+Kada sadržaj bude spreman, povucite ga na ogranak uživo. Zatim idite na [portal Partnera za Alchemy i](https://alchemyportal.azurewebsites.net) unesite naziv datoteke u polje URL- a. 

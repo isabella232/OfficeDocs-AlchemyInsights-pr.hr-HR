@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1073"
 - "6700006"
-ms.openlocfilehash: 929400dcf0ca18ce8f52cb11e5c907064449480e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ab6ad9c4bf95ee013c66384ec8449ceb1b56e8f3ea9e95c695dbbab0e9fa3fc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969963"
 ---
 # <a name="application-protection-policy"></a>Pravilnik o zaštiti aplikacija
 
-Ako ste novi pravilnik o zaštiti aplikacija (aplikacija), pogledajte [Pregled pravilnika o zaštiti aplikacija](https://docs.microsoft.com/intune/apps/app-protection-policy).
+Ako ste novi u pravilniku o zaštiti aplikacija (APP), pogledajte pregled [pravilnika o zaštiti aplikacija](https://docs.microsoft.com/intune/apps/app-protection-policy).
 
-Da biste počeli koristiti aplikaciju, pročitajte članak [Stvaranje i dodjela pravilnika o zaštiti aplikacija](https://docs.microsoft.com/intune/app-protection-policies).
+Da biste počeli koristiti APLIKACIJU, pogledajte [upute za stvaranje i dodjeljivanje pravilnika o zaštiti aplikacija](https://docs.microsoft.com/intune/app-protection-policies).
 
 Preduvjeti pravilnika o zaštiti aplikacija:
 
 - Korisnik ima licencu za Intune ili EMS.
-- Korisnik pripada grupi ciljanu u pravilima zaštite aplikacija.
-- U zaštićenim aplikacijama na uređaju potpisan je samo jedan korporacijski korisnik.
-- Aplikacija je implementirala [Intune SDK](https://docs.microsoft.com/intune/app-sdk-get-started). Popis aplikacija koje podržavaju SDK potražite u [članku Microsoft Intune Protected Apps](https://docs.microsoft.com/intune/apps-supported-intune-apps).
+- Korisnik pripada grupi koja je usmjerena na pravilnike o zaštiti aplikacija.
+- Samo je jedan korporativni korisnik prijavljen u zaštićene aplikacije na uređaju.
+- Aplikacija je implementirana [intune SDK.](https://docs.microsoft.com/intune/app-sdk-get-started) Popis aplikacija koje podržavaju SDK pogledajte u članku [Microsoft Intune aplikacije](https://docs.microsoft.com/intune/apps-supported-intune-apps).
 
-Pravila se primjenjuju nakon što korisnik koji udovoljava navedenim zahtjevima potpiše u aplikaciju Intune SDK koja je omogućena. Najlakše ćete odrediti primjenjuje li se pravilo tako da korisnik postavi PIN u pravilniku. 
+Pravila se primjenjuju nakon što se korisnik koji zadovoljava gore navedene preduvjete prijavi u aplikaciju s omogućenim intune SDK-om. Najjednostavnije je utvrditi primjenjuje li se pravilnik tako da korisnik u pravilniku postavi pribadače. 
 
-Dodatne informacije potražite u članku:
+Dodatne informacije potražite u sljedećim člancima:
 
-[Najčešća pitanja o otklanjanju poteškoća s aplikacijom/MAM](https://docs.microsoft.com/intune/apps/troubleshoot-mam)  
+[Najčešća pitanja o otklanjanju poteškoća s APLIKACIJOM/MAM-om](https://docs.microsoft.com/intune/apps/troubleshoot-mam)  
 
-[Provjera valjanosti postavljanja pravilnika o zaštiti aplikacija](https://docs.microsoft.com/intune/app-protection-policies-validate)
+[Provjera valjanosti postavljanja pravilnika o zaštiti aplikacije](https://docs.microsoft.com/intune/app-protection-policies-validate)
 
-[Objašnjenje vremena isporuke pravilnika o zaštiti aplikacija](https://docs.microsoft.com/intune/app-protection-policy-delivery)  
+[Razumijevanje tempiranja isporuke pravilnika o zaštiti aplikacija](https://docs.microsoft.com/intune/app-protection-policy-delivery)  
 
 [Praćenje pravilnika o zaštiti aplikacija](https://docs.microsoft.com/intune/app-protection-policies-monitor)

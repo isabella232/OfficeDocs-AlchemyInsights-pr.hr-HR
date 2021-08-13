@@ -1,5 +1,5 @@
 ---
-title: Ograničenje sinkronizacije programa Outlook za 3,99 GB
+title: Outlook sinkronizacije od 3,99 GB
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 07a87b1f672108ed1dd8ff76cc7e571b0138314f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc8dd130a727551181b05657d35c2872214a7b159ef42f0e52d8464fc38967b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702067"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924581"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Traka stanja sinkronizacije programa Outlook ostaje na 3,99 GB
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Outlook stanja sinkronizacije ostaje na 3,99 GB
 
-Pokušajte smanjiti veličinu sadržaja mape ili stvoriti sinkronizacijski filtar za velike mape pri ili blizu 4 GB.
+Pokušajte smanjiti veličinu sadržaja mape ili stvoriti filtar za sinkronizaciju za velike mape na 4 GB ili u blizini.
 
-Informacije o napretku trake statusa nikada ne prikazuje više od 3,99 GB na početnoj [sinkronizaciji velikih mapa radi dodatnih informacija](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).
+Dodatne informacije potražite u članku Tijek trake stanja nikad ne prikazuje više od 3,99 GB preostalih prilikom početne [sinkronizacije velikih mapa](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial).
