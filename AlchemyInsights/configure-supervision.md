@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807507"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915435"
 ---
 # <a name="configure-supervision-policies"></a>Konfiguriranje pravilnika nadzora
 
-Pravila nadzora u programu Microsoft 365 omogućuju vam da pratite Exchange e-poštu, Skype za tvrtke online, Microsoftove timove i komunikacije trećih strana poslane unutar i izvan vaše tvrtke ili ustanove. Označeni pregledavatelji mogu ispitati nadzirane poruke da bi bili sigurni da su sukladne pravilima tvrtke ili ustanove, upravljanju rizicima i standardima sukladnosti te da ih riješe klasifikacijom.
+Pravila nadzora u Microsoft 365 omogućuju praćenje Exchange e-pošte, Skype za tvrtke online, Microsoft Teams i komunikacije trećih strana koje se šalju unutar i izvan tvrtke ili ustanove. Imenovani pregledavatelji mogu ispitati nadzirane poruke da bi bili usklađeni s pravilima vaše tvrtke ili ustanove, upravljanje rizicima i standardima usklađenosti s propisima te ih razriješiti s vrstom klasifikacije.
 
-Da biste koristili pravila nadzora u tvrtki ili ustanovi, morate učiniti sljedeće:
+Da biste koristili pravilnike nadzora u tvrtki ili ustanovi, morate učiniti sljedeće:
 
-- Određivanje komunikacija na monitoru.
-- Odlučite tko će izvršiti pregled komunikacija.
-- Pravila nadzora za postavljanje
+- Odredite komunikacije koje želite nadzirati.
+- Odlučite tko će izvršiti pregled komunikacije.
+- Pravila nadzora postavljanja
 
-uči više:
+Dodatne informacije:
 
-- [Pregled pravilnika o nadzoru](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Pregled pravilnika nadzora](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
 - [Konfiguriranje pravilnika nadzora](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
