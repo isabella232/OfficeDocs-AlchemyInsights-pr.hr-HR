@@ -15,17 +15,17 @@ ms.custom:
 - "6897"
 - "8331"
 - "9004625"
-ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: b1b8125961c1033b58fa5d560de855e03c967718dffec65eba7ac59a66cd3f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398613"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926921"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Kako Microsoft Edge koristi Microsoft Defender SmartScreen
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Način Microsoft Edge koristi Microsoft Defender SmartScreen
 
-Da bi vas zaštitio na webu, Microsoft Edge koristi Microsoft Defender SmartScreen kao sustav ranog upozoravanja na web-mjesta koja počinjaju napade krađe identiteta i distribuiraju zlonamjerni softver putem fokusiranih napada.
+Da biste bili sigurni na webu, Microsoft Edge koristi Microsoft Defender SmartScreen kao sustav ranog upozoravanja na web-mjesta koja se bave napadima krađe identiteta i distribuiraju zlonamjerni softver putem fokusiranih napada.
 
-Administratori mogu konfigurirati Microsoft Defender SmartScreen pomoću pravilnika grupe, Microsoft Intune ili postavki upravljanja mobilnim uređajima (MDM). Ovisno o tome kako ste postavili Microsoft Defender SmartScreen, korisnicima možete prikazati stranicu s upozorenjem i dopustiti im da nastave s radom na web-mjestu ili u potpunosti blokiraju web-mjesto.
+Administratori mogu konfigurirati Microsoft Defender SmartScreen pomoću postavki pravilnika grupe, Microsoft Intune ili upravljanja mobilnim uređajima (MDM). Ovisno o tome kako Microsoft Defender SmartScreen, korisnicima možete prikazati stranicu s upozorenjem i dopustiti im da nastave s radom na web-mjestu ili da u potpunosti blokiraju web-mjesto.
 
-Dodatne informacije potražite u članku Podrška za [Microsoft Edge za Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) i Microsoft Defender Application [Guard.](https://go.microsoft.com/fwlink/?linkid=2132839)
+Dodatne informacije potražite u [članku Microsoft Edge za Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) i [Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2132839).

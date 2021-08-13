@@ -1,5 +1,5 @@
 ---
-title: PayNow/plaćanje odmah
+title: PayNow/Make payment immediately
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 822f098967fbce4a80b96b232ae3e3c7ce5470b00e0a77737c090798ca6945fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944411"
 ---
-# <a name="paynowmake-payment-immediately"></a>PayNow/plaćanje odmah
+# <a name="paynowmake-payment-immediately"></a>PayNow/Make payment immediately
 
-Na temelju vašeg opisa problema, pronašli smo rješenje za vas. Većina je korisnika mogla samostalno riješiti svoj problem nakon praćenja naše dokumentacije.
+Na temelju opisa problema pronašli smo rješenje za vas. Većina korisnika uspjela je sami riješiti problem nakon što su slijedili našu dokumentaciju.
 
-Za pretplatu na Azure Enterprise sporazum nije podržan dodatak/ažuriranje/promjena načina plaćanja. Ako želite promijeniti adresu na postojećoj fakturi, obratite se svojem zastupniku tvrtke Microsoft.
+Za pretplatu na Ugovor o tvrtki Azure nije podržan način plaćanja Dodavanje/ažuriranje/promjena načina plaćanja. Ako želite promijeniti adresu na postojećoj fakturi, obratite se Microsoftovu predstavniku.
 
-Ako želite koristiti predujam za Azure da biste riješili fakture za potrošnju i/ili kupnje Azure, obratite se podršci. Obratite pozornost na to da se naknade koje se naplaćuju odvojeno i Services Marketplace ne mogu poništiti pomoću pretplate na Azure. Za indirektne uvrštavanje uvjerite se da su vaši partneri informirani o potencijalnom utjecaju na fakture. Za izravne korisnike možda ćete htjeti zadržati Bill-To kontakt obavješteni.
+Ako želite koristiti pretplatu na Azure da biste podmirili fakture za potrošnju i/ili kupnje servisa Azure, obratite se podršci. Imajte na umu da se naknade koje se naplaćuje zasebno i usluge trgovine Marketplace ne mogu se kompenzirati sa servisom Azure Akontirati unaprijed. Za neizravnu prijavu provjerite jesu li vaši partneri obaviješteni o mogućem utjecaju na fakture. Za izravne korisnike možete obavijestiti Bill-To kontakt.
 
 **Preporučeni dokumenti**
 
-- [Plaćate putem pretplate na Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)
+- [Plaćanje pretplatom pomoću pretplate na Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)

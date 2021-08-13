@@ -1,5 +1,5 @@
 ---
-title: Implementacija, ažuriranje i upravljanje Microsoft Edge pomoću upravitelja konfiguracije u sustavu Windows
+title: Implementirajte, ažurirajte i upravljajte programima upravitelja konfiguracije Microsoft Edge na Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: ee978146ff0964e9ebd9f476f9c92d1f97aa042c
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: 226878c7ce12a9cdc9c6b24a1b05cdbf39ed67ad631b3a7dc02bbe0d7d6b91a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919523"
 ---
-# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Implementacija, ažuriranje i upravljanje Microsoft Edge pomoću upravitelja konfiguracije u sustavu Windows
+# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Implementirajte, ažurirajte i upravljajte programima upravitelja konfiguracije Microsoft Edge na Windows
 
-Kao administrator konfiguracije verzije 1910, možete implementirati Microsoft Edge (verzije 77 i novije) pomoću skripte za PowerShell. Skripta isključuje automatska ažuriranja, a to vam omogućuje upravljanje ažuriranjima putem upravitelja konfiguracije. Dodatne informacije o tome i drugim prednostima korištenja upravitelja konfiguracije potražite u [članku upravljanje sustavom Microsoft Edge](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?).
+Od verzije upravitelja konfiguracije 1910 možete implementirati Microsoft Edge (verzije 77 i novije) putem skripte komponente PowerShell. Skripta isključuje automatska ažuriranja, a to vam omogućuje upravljanje ažuriranjima putem upravitelja konfiguracije. Dodatne informacije o tome i drugim prednostima korištenja upravitelja konfiguracije potražite u [članku Upravljanje Microsoft Edge konfiguracije.](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?)

@@ -1,5 +1,5 @@
 ---
-title: Dodavanje i upravljanje MINUTAMA PUTEM PSTN-a za Skype ili Teams
+title: Dodavanje pstn minuta ili upravljanje njima za Skype ili Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 3800e5bb4aaf614ef39dfdb72bdb973bfa9a1568
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ab1428030cba96bcb016ace9a89e53ae86495e0404bb2ca5f0ee4e4a11755a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954437"
 ---
-# <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a>Dodavanje i upravljanje MINUTAMA PUTEM PSTN-a za Skype ili Teams
+# <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a>Dodavanje pstn minuta ili upravljanje njima za Skype ili Teams
 
-Ako ste primili obavijest o tome da se minute skypea ili aplikacije Teams gotovo koriste, pregledajte kako dodati sredstva i upravljati komunikacijskim kreditima [za klijenta.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+Ako ste primili obavijest o tome da se Skype ili Teams minute koriste, pregledajte kako dodati sredstva i upravljati komunikacijskim [kreditima za klijenta](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).

@@ -1,5 +1,5 @@
 ---
-title: Zadržavanje i brisanje servisa OneDrive
+title: OneDrive zadržavanja i brisanja
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985353"
 ---
-# <a name="onedrive-retention-and-deletion"></a>Zadržavanje i brisanje servisa OneDrive
+# <a name="onedrive-retention-and-deletion"></a>OneDrive zadržavanja i brisanja
 
-- [Izbrisane korisnike možete sami vratiti na OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . Oni su u koš za smeće za 93 dana.
+- Izbrisane [korisnike možete vratiti OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) sami. Nalaze se u košu za smeće 93 dana.
 
-- Upute potražite u [ovom članku](https://docs.microsoft.com/onedrive/retention-and-deletion) :
-    - Kako drugom korisniku dati pristup na OneDrive s izbrisanim korisničkim korisnicima.
-    - Što se događa s korisnikovim servisom OneDrive kada izbrišete korisnički račun za Microsoft 365 za svoju tvrtku ili ustanovu.
-    - Konfiguriranje izaslanstva automatskog pristupa
-    - Način funkcioniranja postupka brisanja servisa OneDrive.
+- Pogledajte [ovaj članak da](https://docs.microsoft.com/onedrive/retention-and-deletion) biste saznali sljedeće:
+    - Kako drugom korisniku dati pristup podacima izbrisanog OneDrive.
+    - Što se događa s korisnikom OneDrive kada izbrišete korisnikov račun Microsoft 365 tvrtke ili ustanove.
+    - Konfiguriranje automatskog delegiranja pristupa.
+    - Način OneDrive brisanja funkcionira.
 
-- Informacije o vraćanju stavki iz koša za smeće na servisu OneDrive potražite u članku [Vraćanje izbrisanih datoteka ili mapa](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Informacije o vraćanju stavki iz koša za smeće u OneDrive potražite u [članku Vraćanje izbrisanih datoteka ili mapa](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
 
-- Želite li čuvati i održavati centar za sigurnost i usklađenost?
-    - [Pravila zadržavanja za OneDrive i web-mjesta sustava SharePoint](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [Traženje otkrivanja servisa OneDrive i web-mjesta sustava SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Zanima vas zadržavanje i čuvanje centra za sigurnost i usklađenost?
+    - [Pravila zadržavanja za OneDrive SharePoint web-mjesta](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [Čuvanje predočavanja elektroničkih elektroničkih OneDrive i SharePoint web-mjesta](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

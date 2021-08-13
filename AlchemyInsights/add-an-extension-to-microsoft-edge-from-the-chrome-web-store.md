@@ -15,18 +15,18 @@ ms.custom:
 - "6922"
 - "8312"
 - "9004621"
-ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 2ee9a388025b0cdccb16452f5b8610dfc4d3d25bc49fed71f1e1b1789b4d4827
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954725"
 ---
 # <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Dodavanje proširenja u Microsoft Edge iz web-trgovine Chrome
 
-Da biste u Microsoft Edge dodali proširenje iz web-trgovine Chrome, učinite sljedeće:
+Da biste dodali proširenje na Microsoft Edge iz web-trgovine Chrome, učinite sljedeće:
 
-1. Otvorite Chrome web-trgovinu.
+1. Idite na Chrome web-trgovina.
 2. Na natpisu pri vrhu stranice odaberite Dopusti **proširenja iz drugih trgovina**.
 3. Odaberite proširenje koje želite dodati, a zatim kliknite **Dodaj u Chrome.**
 4. U dijaloškom okviru za potvrdu pažljivo pregledajte izmjene koje bi proširenje moglo napraviti, a zatim kliknite **Dodaj proširenje**.
