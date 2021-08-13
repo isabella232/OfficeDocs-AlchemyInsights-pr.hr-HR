@@ -1,5 +1,5 @@
 ---
-title: Preklapanje kalendara sustava SharePoint Online
+title: SharePoint Mrežno preklapanje kalendara
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 1cd18da6e7091153abeeadb83f6f9d95e615dea2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2bf77ab7ea4fb497b3f2b0317f59d35f260b7b3921433d4d8dc76268db63f0f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093835"
 ---
-# <a name="sharepoint-online-calendar-overlay"></a>Preklapanje kalendara sustava SharePoint Online
+# <a name="sharepoint-online-calendar-overlay"></a>SharePoint Mrežno preklapanje kalendara
 
-Možete prekriti drugi kalendar sustava SharePoint sve dok se oba kalendara sustava SharePoint nalaze u istoj zbirci web-mjesta. Nije podržana mogućnost korištenja preklapanja kalendara u kalendaru sustava SharePoint Online ili u kalendaru sustava SharePoint Server koji se dohvaća iz sustava Exchange Online.
+Možete prekriti još jedan SharePoint kalendar sve dok se SharePoint kalendari nalaze u istoj zbirci web-mjesta. Mogućnost korištenja preklapanja kalendara u kalendaru SharePoint online ili SharePoint poslužitelja koji se dohvaća iz Exchange Online nije podržana.
 
-SharePoint Online nudi moderno iskustvo s grupnim kalendarima sustava Microsoft 365. Dodatne informacije potražite u članku [Korištenje web-dijela Grupni kalendar](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce).
+SharePoint Online nudi moderno iskustvo s Microsoft 365 grupnim kalendarima. Dodatne informacije potražite u članku [Korištenje web-dijela Grupni kalendar](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce).

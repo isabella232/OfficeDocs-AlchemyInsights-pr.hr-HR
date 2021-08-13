@@ -13,38 +13,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 81a7a2e9623c788743fad99e15c4d771bb12a6c1c81f35a9d2a6a0729ecf8db7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564464"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062329"
 ---
-# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Oporavak stavke koja se više ne nalazi u mapi Izbrisane stavke
+# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Oporavak stavke koja više nije u mapi Izbrisane stavke
 
-Ako ne možete pronaći stavku u mapi Izbrisane stavke, sljedeće mjesto za pretraživanje jest mapa s stavkama koje se mogu oporaviti. Ovo je skrivena mapa u koju se stavke premještaju kada:
+Ako ne možete pronaći stavku u mapi Izbrisane stavke, sljedeća je mapa Stavke koje se mogu oporaviti. To je skrivena mapa u koju se stavke premještaju kada:
 - Brišu se iz mape Izbrisane stavke.
-- Mapa Izbrisane stavke ispraznila se, bilo vi ili pravilo koje je postavio IT administrator.
-- Stavku izbrišete tako da je odaberete i pritisnete **SHIFT + DELETE**.
+- Mapu Izbrisane stavke ispraznit ćete vi ili pravilnik koji ste postavili it administrator.
+- Stavku brišete tako da je odaberete i pritisnete **Shift + Delete**.
 
-Da biste pogledali i oporavili stavke koje su premještene u mapu stavke koje se mogu oporaviti:
-1. U web-pregledniku se prijavite u web-aplikaciju Outlook Web App pomoću URL-a koji ste dobili od osobe koja u vašoj tvrtki ili ustanovi upravlja e-poštom. Unesite korisničko ime i lozinku, a zatim odaberite **prijava**.
-1. Na popisu mapa e-pošte desnom tipkom miša kliknite **Izbrisane stavke**, a zatim odaberite **oporavi izbrisane stavke...**.
-1. Ako je potrebno, upotrijebite okvir za pretraživanje da biste pronašli stavku koju želite oporaviti.
-1. Kada pronađete stavku, odaberite je, a zatim kliknite **oporavi**.
+Da biste prikazali i oporavili stavke premještene u mapu Stavke koje se mogu oporaviti:
+1. U web-pregledniku se prijavite u web-aplikaciju Outlook Web App pomoću URL-a koji ste dobili od osobe koja u vašoj tvrtki ili ustanovi upravlja e-poštom. Unesite korisničko ime i lozinku, a zatim **odaberite Prijava**.
+1. Na popisu mapa e-pošte desnom tipkom miša kliknite **Izbrisane stavke,** a zatim **odaberite oporavi izbrisane stavke...**.
+1. Ako je potrebno, pomoću okvira za pretraživanje pronađite stavku koju želite oporaviti.
+1. Kada pronađete stavku, odaberite je i kliknite **Oporavi**.
    Oporavljene stavke premještaju se na zadano mjesto za svaku vrstu stavke.
-    - Poruke odlaze u mapu ulazne pošte.
-    - Stavke kalendara idu u kalendar.
+    - Poruke idite u ulaznu poštu.
+    - Stavke kalendara idite na kalendar.
     - Kontakti idite u mapu Kontakti.
-    - Zadaci idu u mapu Zadaci.
+    - Zadaci idite u mapu Zadaci.
 
-**Savjeti za oporavak stavki u mapi stavke koje se mogu oporaviti**
+**Savjeti za oporavak stavki u mapi Stavke koje se mogu oporaviti**
 
-- Izbrisani Datum za stavku u mapi stavke koje se mogu oporaviti jest kada je stavka premještena u mapu Izbrisane stavke. Nije datum kada je stavka premještena u mapu stavke koje se mogu oporaviti.
-- Stavke u mapi stavke koje se mogu oporaviti nemaju ikone, pa sve izgledaju vrlo slično.
-    - Ako tražite kontakt, potražite stavku koja sadrži ime osobe, ali ne i redak predmeta.
-    - Ako tražite obvezu u kalendaru, potražite stavku koja nema ime osobe ili redak predmeta.
+- Izbrisani datum stavke u mapi Stavke koje se mogu oporaviti jest kada je stavka premještena u mapu Izbrisane stavke. Stavka nije premještena u mapu Stavke koje se mogu oporaviti.
+- Stavke u mapi Stavke koje se mogu oporaviti nemaju ikone, pa sve izgledaju vrlo slično.
+    - Ako tražite kontakt, potražite stavku s imenom osobe, ali bez retka predmeta.
+    - Ako tražite obvezu iz kalendara, potražite stavku koja nema ime osobe ili redak predmeta.
     - Ako tražite kontakt, obvezu iz kalendara ili zadatak, potražite tekst te stavke.
-- Da biste oporavili više stavki, postavite pokazivač miša iznad svake stavke, a zatim odaberite potvrdni okvir pokraj njega, kliknite **oporavi**. Možete i oporaviti više susjednih stavki tako da odaberete potvrdni okvir za prvu stavku, držeći pritisnutu tipku **SHIFT** , a zatim odaberete potvrdni okvir za zadnju stavku. Kada odaberete sve stavke, odaberite **oporavi**.
-- Stavke možete očistiti na popisu **oporavi izbrisane stavke** . Samo odaberite stavku, a zatim odaberite **Očisti**. Ako očistite stavku, nećete moći koristiti Vraćanje izbrisanih stavki da biste je vratili. Brisanje poruke neće se ukloniti iz bilo koje sigurnosne kopije napravljene prije nego što ste ga izbrisali.
-- Vaša tvrtka ili ustanova možda je navela koliko je dugih stavki u mapi za vraćanje stavki dostupno za oporavak. Primjerice, možda postoji pravilo koje briše sve što je u mapi Izbrisane stavke već 30 dana i druga pravila koja vam omogućuje oporavak stavki u mapi stavke koje se mogu oporaviti do još 14 dana.
+- Da biste oporavili više stavki, zadržite pokazivač iznad svake stavke i potvrdite okvir pokraj njega, kliknite **Oporavi**. Više susjednih stavki možete oporaviti i tako da potvrdite okvir za prvu stavku, držeći tipku **Shift,** a zatim potvrdite okvir za zadnju stavku. Kada odaberete sve stavke, odaberite **Oporavi**.
+- Stavke možete očistiti s popisa Oporavi **izbrisane stavke.** Samo odaberite stavku, a zatim **odaberite Očisti**. Ako izbrišete stavku, nećete je moći vratiti pomoću mogućnosti Oporavi izbrisane stavke. Čišćenjem poruke nećete je ukloniti iz sigurnosnih kopija koje ste napravili prije nego što ste je očistili.
+- Vaša tvrtka ili ustanova možda je naveli koliko su dugo stavke u mapi Stavke koje se mogu oporaviti dostupne za oporavak. Možda, primjerice, postoji pravilnik koji briše sve što je u mapi Izbrisane stavke 30 dana i drugi pravilnik koji vam omogućuje oporavak stavki u mapi Stavke koje se mogu oporaviti do 14 dana.
