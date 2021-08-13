@@ -1,5 +1,5 @@
 ---
-title: Promjena jezika na servisu Outlook.com
+title: Promjena jezika na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 015912482c29766789bb23ae18a1a36353915746
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 662870da708a37d4e39fd0c783b580737a9d4c5cc5bb443322d517023bd938d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780843"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913275"
 ---
 # <a name="change-your-language"></a>Promjena jezika
 
-1. Da biste prikazali jezik u programu Outlook, otvorite odjeljak [**jezik i vremenske**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) postavke (**Postavke** \> **Prikažite sve postavke programa Outlook**  >  **Opći**  >  **jezik i vrijeme**).
+1. Da biste mijenjali jezik u Outlook, idite [**na Postavke**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) jezika i **vremena (Postavke** \> **Prikaži sve postavke Outlook**  >  **općenito**  >  **jezik i vrijeme).**
 
-2. Odaberite svoj jezik.
+2. Odaberite jezik.
 
 3. Odaberite **Spremi**.
 
-Dodatne informacije potražite u članku [Promjena postavki vremenske zone i jezika u Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Dodatne informacije potražite u članku [Promjena vremenske zone i postavki jezika na Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

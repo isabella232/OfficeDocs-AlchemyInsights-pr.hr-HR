@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 46e491c51cdceaf8b46e97fbec2754f94d7ee66e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b1a5ca296c62956ef0a8a95ed8ea9c967d268bcedb9cd5122b39a9678ba1f152
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967181"
 ---
 # <a name="recall-or-replace-email-message"></a>Opoziv ili zamjena poruke e-pošte
 
-Poruke koje se šalju na adrese u vašoj tvrtki ili ustanovi možete samo opozvati ili zamijeniti. Poruke poslane na adresu servisa Gmail, primjerice, ne mogu biti opozvane.
+Možete opozvati ili zamijeniti samo poruke poslane na adrese u tvrtki ili ustanovi. Poruke poslane na Gmail adresu, primjerice, nije moguće opozvati.
 
-1. U oknu s mapama na lijevoj strani prozora programa Outlook odaberite mapu **poslane stavke** .
-2. Otvorite poruku koju želite opozvati. Da biste otvorili poruku, morate je dvaput kliknuti. Odabir poruke tako da se prikazuje u oknu za čitanje neće vam dopustiti opoziv poruke.
-3. Na kartici **poruka** odaberite **Akcije**  >  **Opoziv ove poruke**.
-4. Kliknite **Izbriši nepročitane kopije ove poruke** ili **izbrišite nepročitane kopije i zamijenite je novom porukom**, a zatim kliknite **u redu**.
-5. Ako šaljete zamjensku poruku, sastavite poruku, a zatim kliknite **Šalji**.
-6. Uspjeh ili neuspjeh opoziv poruke ovisi o postavkama primatelja u programu Outlook. Upute za provjeru opoziv potražite u [ovom članku](https://support.office.com/article/recall-or-replace-an-email-message-that-you-sent-35027f88-d655-4554-b4f8-6c0729a723a0#tocheck).
+1. U oknu s mapama s lijeve strane Outlook odaberite **mapu Poslane** stavke.
+2. Otvorite poruku koju želite opozvati. Da biste otvorili poruku, morate dvoklikom otvoriti poruku. Odabir poruke tako da se prikazuje u oknu za čitanje neće vam omogućiti opoziv poruke.
+3. Na kartici **Poruka odaberite** **Akcije**  >  **Opozovi ovu poruku**.
+4. Kliknite **Izbriši nepročitane kopije ove poruke** ili Izbriši nepročitane kopije pa zamijenite novom **porukom**, a zatim kliknite U **redu**.
+5. Ako šaljete zamjensku poruku, sastavite poruku, a zatim kliknite **Pošalji**.
+6. Uspjeh ili neuspjeh opoziva poruke ovisi o postavkama primatelja u Outlook. Upute za provjeru opoziva potražite [u ovom članku.](https://support.office.com/article/recall-or-replace-an-email-message-that-you-sent-35027f88-d655-4554-b4f8-6c0729a723a0#tocheck)

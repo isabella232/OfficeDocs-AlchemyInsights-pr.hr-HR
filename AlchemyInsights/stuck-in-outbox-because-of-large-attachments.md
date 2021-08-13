@@ -14,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: f2342e99544f475b24181e0571ccd0a7c6fdc8b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dde5238e6185fe991a16bdbf16f5ca8ee25e813f7159103f4efbba2d2cd9d7c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940955"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Rješavanje problema s porukama koje su zapele u mapi Izlazna pošta pomoću saRA-e
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Rješavanje problema s porukama koje su zapele u mapi Izlazna pošta pomoću SaRA
 
-Preporučujemo da pokrenete scenarij ["Imam](https://aka.ms/SaRA-OutlookSendReceive) problema sa slanjem, primanjem ili pronalaženjem poruka e-pošte" na stroju na kojem se izvodi Microsoftov pomoćnik za podršku i oporavak [(SaRa).](https://diagnostics.office.com/#/)
+Preporučujemo da pokrenete scenarij ["Imam](https://aka.ms/SaRA-OutlookSendReceive) problema sa slanjem, primanjem ili pronalaženjem poruka e-pošte" na stroju na kojem se izvodi [Microsoft pomoćnik za podršku i oporavak (SaRa).](https://diagnostics.office.com/#/)
