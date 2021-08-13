@@ -1,5 +1,5 @@
 ---
-title: Korištenje prilagođenih profila u programu Intune
+title: Korištenje prilagođenih profila u aplikaciji Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4c4665f36c5d7158a92b6b6104942b6b169a18370dfe34d0f6da42b78cc96c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971079"
 ---
-# <a name="using-custom-policy-in-intune"></a>Korištenje prilagođenog pravilnika u programu Intune
+# <a name="using-custom-policy-in-intune"></a>Korištenje prilagođenog pravilnika u aplikaciji Intune
 
-Intune ima ugrađene mnoge postavke za Android, iOS, macOS i uređaje sa sustavom Windows. Možete i stvoriti prilagođeni profil, a zatim implementirati ove prilagođene postavke na uređaje pomoću aplikacije Intune. Prilagođeni profili dizajnirani su za dodavanje postavki uređaja i značajki koje nisu ugrađene u Intune.
+Intune ima mnogo ugrađenih postavki za Android, iOS, macOS i Windows uređaje. Možete stvoriti i prilagođeni profil, a zatim implementirati te prilagođene postavke na uređaje pomoću aplikacije Intune. Prilagođeni profili dizajnirani su za dodavanje postavki uređaja i značajki koje nisu ugrađene u Intune.
 
-[Prilagođene postavke za uređaje sa sustavom Android u programu Intune](https://docs.microsoft.com/intune/custom-settings-android)
+[Prilagođene postavke za uređaje sa sustavom Android u aplikaciji Intune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Prilagođene postavke za uređaje sa sustavom Android u programu Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Prilagođene postavke za uređaje sa sustavom Android Enterprise u aplikaciji Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[Prilagođene postavke za uređaje sa sustavom iOS u programu Intune](https://docs.microsoft.com/intune/custom-settings-ios)
+[Prilagođene postavke za uređaje sa sustavom iOS u aplikaciji Intune](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Prilagođene postavke za macOS uređaje u programu Intune](https://docs.microsoft.com/intune/custom-settings-macos)
+[Prilagođene postavke za macOS uređaje u aplikaciji Intune](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Prilagođene postavke za uređaje sa sustavom Windows 10 u programu Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Prilagođene postavke za Windows 10 u aplikaciji Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Prilagođene postavke za uređaje sa sustavom Windows za tvrtke u programu Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Prilagođene postavke za Windows Holographic for Business uređajima u aplikaciji Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

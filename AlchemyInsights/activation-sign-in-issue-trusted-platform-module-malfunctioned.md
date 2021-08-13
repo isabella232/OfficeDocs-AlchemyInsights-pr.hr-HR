@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3406"
 - "9001429"
-ms.openlocfilehash: 468d197ae1ad6a3ee13cbcc683a59f0d9f193af7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 90fc3135dcde5073330abb7cfe0e45c799e2154d9cd27c075c2c9ac89c18a641
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937241"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Popravljanje aplikacije Microsoft 365 "Modul pouzdane platforme na računalu ne funkcionira pravilno"
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Popravljanje Microsoft 365 aplikacije "Modul pouzdane platforme na računalu ne funkcionira pravilno"
 
 Da biste ispravili tu pogrešku, pokušajte sljedeće:
 
 1. Otvorite aplikaciju sustava Office i [odjavite se](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) s postojećih korisničkih računa.   
-2. Pomoću računa **postavki sustava** Windows  >    >  **E-& e-pošte** uklonite postojeće poslovne račune. 
-3. Pomoću računa **postavki sustava** Windows  >    >  **Pristup poslovnim ili školskim računima** prekidanje veze s postojećim računima. 
+2. Pomoću Windows **Postavke računa**  >  **e-&**  >  **e-pošte** uklonite postojeće poslovne račune. 
+3. Ako koristite Windows **Postavke računima pristupu poslu** ili  >    >  **školi,** prekinite vezu s postojećim računima. 
 4. Resetirajte stanje aktivacije sustava Office. [Saznajte kako](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state
 ).
 5. Isprobajte [postupak oporavka korisnika da](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) biste riješili pogreške modula pouzdane platforme (TPM).

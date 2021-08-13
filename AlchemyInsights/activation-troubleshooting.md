@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: 5adce77d75b78ffe56e397690a4e1d888b65b505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ebd41479e74341decf818533c05c47f4121718e6ec3404df90ab28c5ca59f65d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937129"
 ---
 # <a name="activation-troubleshooting"></a>Otklanjanje poteškoća s aktivacijom
 
-U **Control Panel** \> **programima i značajkama**upravljačke ploče potražite Office. Trebali biste vidjeti aplikacije Microsoft 365 za Enterprise ili Microsoft 365 Apps za tvrtke. Ako na popisu vidite da je instalirano više od jedne verzije sustava Office, deinstalirajte verziju kojom se ne koristite.
+U **odjeljku** \> **Programi i značajke upravljačke** ploče potražite Office. Trebali biste vidjeti Microsoft 365 Apps za velike tvrtke ili Microsoft 365 Apps za male tvrtke. Ako na popisu vidite da je instalirano više od jedne verzije sustava Office, deinstalirajte verziju kojom se ne koristite.
   
-Ako ne možete uspješno deinstalirati pomoću upravljačke ploče, upotrijebite pomoćnik za [podršku i oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy) da biste deinstalirali verziju koju ne koristite.
+Ako ne možete uspješno deinstalirati pomoću upravljačke ploče, [pomoću pomoćnik za podršku i oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy) deinstalirajte verziju koju ne koristite.
   
-Ako Office i dalje nije licenciran, vratite se na **upravljačke ploče** \> **i značajke**. Desnom tipkom miša kliknite ostalu instalaciju sustava Office, odaberite **Izmijeni** (ili promijeni), a zatim kliknite **internetski popravak**. Popravak na internetu mogao bi potrajati. Zatim ponovo pokrenite Office i prijavite se s pomoću računa tvrtke ili obrazovne ustanove, ako se to od vas zatraži.
+Ako Office i dalje nelicencirani, vratite se na **upravljačku ploču** \> **Programi i značajke**. Desnom tipkom miša kliknite preostalu Office, odaberite **Izmijeni** (ili Promijeni), a zatim odaberite **Internetski popravak**. Popravak na internetu mogao bi potrajati. Zatim ponovo pokrenite Office i prijavite se s pomoću računa tvrtke ili obrazovne ustanove, ako se to od vas zatraži.
   
-Ako Office i dalje nije licenciran, Preuzmite, a zatim pokrenite [alat za otklanjanje poteškoća s aktivacijom](https://aka.ms/SARA-OfficeActivation-Alchemy) da biste riješili probleme s aktivacijom.
+Ako Office i dalje nelicencirani, preuzmite i [](https://aka.ms/SARA-OfficeActivation-Alchemy) pokrenite alat za otklanjanje poteškoća s aktivacijom na zahvaćenom uređaju da biste riješili probleme s aktivacijom.
   
-Dodatne informacije potražite u člancima: [nelicencirani proizvodi i pogreške pri aktivaciji u sustavu Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Dodatne informacije potražite u članku [Nelicencirani proizvod i pogreške prilikom aktivacije u sustavu Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

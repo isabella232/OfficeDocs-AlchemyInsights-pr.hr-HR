@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004348"
 - "8428"
-ms.openlocfilehash: bd415b2d44bccf0c2b3eccb4e38452498b748b3a
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: 12490df735ca8c524058404df92db79c6c5682fe2ecafe2b42baed70fa3ab142
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50480968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971331"
 ---
 # <a name="user-provisioning"></a>Dodjela resursa korisniku
 
-- Upotrijebite mogućnost [dodjele resursa na zahtjev](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) da biste dodijelili korisniku i dobili detaljnu dijagnostiku o poduznekim koracima.
-- Da biste otklonili poteškoće s kojima nailazite prilikom dodjele resursa korisnicima i grupama, pročitajte članak vodič za otklanjanje poteškoća koji [nije dodijeljen korisnicima](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-config-problem-no-users-provisioned).
-- Ako promatrate da se korisnicima ne dodjeljuju resursi, pročitajte članak [Dodjela resursa zapisnicima (pretpregled) u servisu](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs) Azure Active Directory (AD). Potražite stavke zapisnika koje se odnose na određenog korisnika.
-- Periodički započinjanje dodjele resursa radi hvatanja svih korisnika koji su propušteni u prethodnom ciklusu dodjele resursa.
-- Korisniku/grupi možda nisu dodijeljeni resursi jer naš servis još nije imao priliku procijeniti korisnika. Pregledajte upute o tome koliko traje dodjela resursa, kao i traka tijeka na stranici Konfiguracija dodjele resursa. Ako je stanje stanja koje je navedeno u odjeljku Dodatne pojedinosti prije datuma kada je korisnik stvoren/ažuriran/izbrisan, to znači da još nismo procijenili korisnika. U ovom scenariju najbolje je čekati da servis za dodjelu resursa završi. Ako je stanje stanja dinamičke ravnoteže postignuto, preporučujemo da ponovno pokrenete iz korisničkog sučelja na portalu Azure.
-  - Imajte na umu da je naš servis svjestan samo promjena korisnika/grupe u izvornom sustavu (Azure Active Directory). Ako se korisnik/grupa uklanja izravno u aplikaciji (na primjer, ServiceNow), nismo svjesni tih promjena i ne vraćamo ga na temelju stanja korisnika u izvornom sustavu. U ovom scenariju najbolje je vratiti promjenu izravno u ciljnu aplikaciju.
-- Naš servis procjenjuje korisnika/grupu i određuje da ga nije potrebno dodijeliti:
-  - Ako ste postavili doseg na dodijeljene korisnike i grupe, provjerite je li aplikacija dodijeljena korisniku/grupi.
-  - Ako je korisnik/grupa dodijeljen aplikaciji, provjerite nisu li dodijeljeni zadanom ulozi programa Access. Ovu ulogu nije moguće koristiti za dodjelu resursa.
-  - Ako ste postavili filtar zasnovan na atributu, Provjerite zadovoljava li korisnik kriterij koji ste naveli.
-  - Ako korisnici već postoje u ciljnom sustavu i stanju korisnika u izvoru i ciljnom podudaranju, nećemo poduzeti nikakve daljnje akcije.
-- Naš je servis pokušao dodijeliti korisniku i nije uspio. U tim scenarijima Pregledajte karticu Otklanjanje poteškoća i preporuke u zapisnicima za dodjelu resursa:
-  - Obavezan atribut korisnika možda nema u servisu Azure Active Directory ili ne odgovara obliku koji je potreban u aplikaciji treće strane. Atribut country na korisniku, primjerice, može biti postavljen u Sjedinjene Države kada bi to trebali biti mi.
-  - Atribut je referentni atribut koji još ne postoji u ciljnoj aplikaciji. Referentni atribut predstavlja atribut koji upućuje na neki drugi objekt, na primjer, korisnik koji je član grupe. Korisnički ID bit će u atributu člana grupe, ali se može obraditi samo ako korisnički objekt koji upućuje na već postoji.
+- Upotrijebite [mogućnost dodjele resursa na zahtjev](https://docs.microsoft.com/azure/active-directory/app-provisioning/provision-on-demand) da biste korisniku dodijeliti resursa i dobili detaljnu dijagnostiku o poduzetim koracima.
+- Da biste otklonili poteškoće na koje nailazite prilikom dodjele resursa korisnicima i grupama, pogledajte vodič za otklanjanje poteškoća [Bez dodjele resursa korisnicima](https://docs.microsoft.com/azure/active-directory/app-provisioning/application-provisioning-config-problem-no-users-provisioned).
+- Ako primijetite da korisnicima nije dodijeljena dodjela resursa, pogledajte zapisnike dodjele [resursa (pretpregled)](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-provisioning-logs) u programu Azure Active Directory (AD). Potražite unose zapisnika koji se odnose na određenog korisnika.
+- Povremeno ponovno pokrenite dodjeljivanje resursa da biste uhvatili sve korisnike koji su propustili u prethodnom ciklusu dodjele resursa.
+- Korisnik/grupa možda nije dodijeljena dodjela resursa jer naš servis još nije imao priliku procijeniti korisnika. Pregledajte smjernice za vrijeme potrebnog dodjeljivanja resursa, kao i traku tijeka na stranici konfiguracije dodjele resursa. Ako je stanje dinamičke ravnoteže navedeno u odjeljku s dodatnim detaljima prije datuma kada je korisnik stvoren/ažuriran/izbrisan, to znači da još nismo procijenili korisnika. U ovom scenariju najbolje je pričekati da se servis za dodjeljivanje resursa dovrši. Ako se stanje dinamičke ravnoteže postići, preporučujemo da ponovno pokrenete UI na portalu Azure.
+  - Imajte na umu da je naš servis upoznat samo s promjenama korisnika/grupe u izvorišnom sustavu (Azure Active Directory). Ako se korisnik/grupa ukloni izravno u aplikaciji (na primjer, ServiceNow), nismo svjesni tih promjena i ne vraćamo ih na temelju stanja korisnika u izvorišnom sustavu. U ovom je scenariju najbolje vratiti promjenu izravno u ciljnoj aplikaciji.
+- Naš servis procijenio je korisnika/grupu i odredio da se ne smije dodjeljivati:
+  - Ako ste opseg postavili na dodijeljene korisnike i grupe, provjerite je li korisnik/grupa dodijeljen aplikaciji.
+  - Ako je korisniku/grupi dodijeljena aplikacija, provjerite nisu li dodijeljeni zadanoj ulozi pristupa. Tu ulogu nije moguće koristiti za dodjeljivanje resursa.
+  - Ako ste postavili filtar za određivanje opsega utemeljen na atributima, provjerite zadovoljava li korisnik kriterije koje ste naveli.
+  - Ako korisnici već postoje u ciljnom sustavu i stanju korisnika u izvorišnom i ciljnom podudaraju, nećemo više ništa poduzeti.
+- Naš servis pokušao je dodijeliti korisniku i nije uspio. U tim scenarijima pregledajte karticu otklanjanje poteškoća i preporuka zapisnika dodjele resursa:
+  - Obavezni atribut na korisniku možda nema u Azure Active Directory ili ne odgovara obliku koji zahtijeva aplikacija drugih proizvođača. Atribut Država korisnika, primjerice, može biti postavljen na Sjedinjene Američke Države kada bi trebao biti u SAD-u.
+  - Atribut je referencijalni atribut koji još ne postoji u ciljnoj aplikaciji. Referencijalni atribut atribut je koji upućuje na drugi objekt, primjerice korisnika koji je član grupe. KORISNIKOV ID nalazio bi se u atributu člana grupe, ali se može obraditi samo ako korisnički objekt na koji upućuje već postoji.
