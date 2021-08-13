@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003034"
 - "5789"
-ms.openlocfilehash: 265db958b856bf06ac9344662070370e2be0a92c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 330d778f54567ada5a2408a4e6ca1984f4380e37948e98e9ccda7c3f1c8cb30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992868"
 ---
 # <a name="floor-plans"></a>Tlotarife
 
-Informacije o **tloctarima za Microsoft Search**  potražite u sljedećim člancima podrške:
-- [Najbolje prakse za tložne tarife za Microsoft Search](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
+Dodatne informacije o **Microsoft pretraživanje,** pregledajte sljedeće članke za podršku:
+- [Najbolje prakse za Microsoft pretraživanje tlo-planovi](https://docs.microsoft.com/microsoftsearch/floorplans-bestpractices)  
 - [Upravljanje planovima poda](https://docs.microsoft.com/microsoftsearch/manage-floorplans)  
-- Informacije o stvaranju tlocloceta u programu  **Visio** potražite u [web-aplikaciji Stvaranje tloceta](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)
+- Informacije o stvaranju tlocloceta u programu Visio potražite u **web-mjestu** [Stvaranje tlocloceta](https://support.office.com/article/create-a-floor-plan-ec17da08-64aa-4ead-9b9b-35e821645791)

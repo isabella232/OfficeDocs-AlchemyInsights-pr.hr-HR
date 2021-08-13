@@ -1,5 +1,5 @@
 ---
-title: Postavljanje aplikacije Microsoft Teams
+title: Postavljanje Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 34d77dac8da010c88d36a4ef84e86ab56ea40b365d2b7217efcd057df85738d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956435"
 ---
-# <a name="set-up-microsoft-teams"></a>Postavljanje aplikacije Microsoft Teams
+# <a name="set-up-microsoft-teams"></a>Postavljanje Microsoft Teams
 
-Vodič  [za postavljanje aplikacije Microsoft Teams](https://aka.ms/teamsguidance)  vašoj tvrtki ili ustanovi nudi smjernice za postavljanje timskog radnog prostora u kojem se održavaju razgovori u stvarnom vremenu putem razmjene poruka, poziva te audio ili video sastanaka za timski i za privatnu komunikaciju. Primit ćete upute za određivanje mrežnih preduvjeta tvrtke ili ustanove pomoću alata Network Planner i savjetnika za Teams u centru za administratore aplikacije Teams. Kada implementacija završi, vodič sadrži korisne resurse za početak rada s aplikacijom Teams.
+Vodič [Microsoft Teams](https://aka.ms/teamsguidance) za postavljanje vašoj tvrtki ili ustanovi nudi smjernice za postavljanje timskog radnog prostora koji hostiranje razgovora u stvarnom vremenu putem razmjene poruka, poziva te audio ili video sastanaka za timski i privatni razgovor. Upute za određivanje mrežnih preduvjeta tvrtke ili ustanove primit ćete pomoću alata Network Planner i Teams savjetnika u centru Teams administratora. Kada implementacija završi, vodič sadrži korisne resurse za početak korištenja Teams.
 
-Dodatne informacije potražite u članku Početak [rada s aplikacijom Microsoft Teams.](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)
+Dodatne informacije potražite u članku [Početak rada s Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
