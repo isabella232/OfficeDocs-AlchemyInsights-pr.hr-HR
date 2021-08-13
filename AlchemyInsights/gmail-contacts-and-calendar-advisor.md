@@ -1,5 +1,5 @@
 ---
-title: Migriranje kontakata sa servisa Gmail ili Googleovih kalendara u Office 365 ili Outlook
+title: Migriranje kontakata sa servisa Gmail ili Google kalendara u Office 365 ili Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+ms.openlocfilehash: e72fd346f8d05e55a0844e03524d82931b20016ca3c19684dc4cd12f3df621a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964292"
 ---
-# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Migriranje kontakata sa servisa Gmail ili Googleovih kalendara u Office 365 ili Outlook
+# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Migriranje kontakata sa servisa Gmail ili Google kalendara u Office 365 ili Outlook
 
-Jednostavan način uvoza kontakata sa servisa Gmail i kalendara u Office jest korištenje kontakata sa servisa Gmail i savjetnika za kalendar.
+Kontakte i kalendar servisa Gmail najjednostavnije je uvesti Office pomoću kontakata sa servisa Gmail i savjetnika za kalendar.
 
-Kontakti sa servisa [Gmail i savjetnik za kalendar](https://go.microsoft.com/fwlink/?linkid=2134386) prikazat će vam kako sinkronizirati kontakte sa servisa Gmail i stavke kalendara sa sustavom Office 365, pomoću različitih metoda uvoza i izvoza.
+Kontakti [servisa Gmail i savjetnik za](https://go.microsoft.com/fwlink/?linkid=2134386) kalendar prikazuju kako sinkronizirati kontakte sa servisa Gmail i stavke kalendara s Office 365 pomoću različitih načina uvoza i izvoza.
 
-Ako još niste migrirali e-poštu, [savjetnik za postavljanje e-pošte](https://go.microsoft.com/fwlink/?linkid=2133951) nudi detaljne upute za dovršavanje migracije poštanskih sandučića.
+Ako još niste migrirani e-poštu, savjetnik za postavljanje e-pošte pruža detaljne upute za dovršetak migracije poštanskog sandučića. [](https://go.microsoft.com/fwlink/?linkid=2133951)
 
-Da biste doznali kako pregledavati Google kalendar u programu Outlook, pročitajte [članak prikaz Google kalendara u programu Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).
+Da biste saznali kako pregledati Google kalendar u aplikaciji Outlook, pogledajte pogledajte [Google kalendar u programu Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).

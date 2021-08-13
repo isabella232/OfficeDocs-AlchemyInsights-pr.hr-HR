@@ -1,5 +1,5 @@
 ---
-title: Zabranjen je pristup zbog ograničenja IP-a
+title: Pristup je odbijen zbog ograničenja IP-a
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,14 +15,14 @@ ms.custom:
 - "6830"
 - "9000150"
 - "7303"
-ms.openlocfilehash: 4447bacc7784496f449f6f7577a13b562e51349d
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: fb316fad5d7550f4449312e2ed3bc418d504b405bf01cd8bf0a180bac10379d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564420"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955373"
 ---
-# <a name="access-denied-due-to-ip-restriction"></a>Zabranjen je pristup zbog ograničenja IP-a
+# <a name="access-denied-due-to-ip-restriction"></a>Pristup je odbijen zbog ograničenja IP-a
 
-Kao IT administrator možete kontrolirati pristup resursima sustava SharePoint i servisu OneDrive u sustavu Microsoft 365 na temelju definiranih mrežnih mjesta kojima vjerujete. To je poznato i kao pravilo utemeljeno na lokaciji. Dodatne informacije potražite u članku [Upravljanje pristupom na temelju mrežnog mjesta](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location).
+Kao IT administrator možete upravljati pristupom SharePoint OneDrive resursima u Microsoft 365 na temelju definiranih mrežnih mjesta koja su pouzdana. To se naziva i pravilnikom utemeljenim na lokaciji. Dodatne informacije potražite u članku Upravljanje [pristupom na temelju mrežnog mjesta](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location).
 

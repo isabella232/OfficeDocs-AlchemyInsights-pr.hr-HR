@@ -1,5 +1,5 @@
 ---
-title: Intune Insider filing bug
+title: Intune Insider bug filing
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667618"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925913"
 ---
-# <a name="intune-insider-bug-filing"></a>Intune Insider filing bug
+# <a name="intune-insider-bug-filing"></a>Intune Insider bug filing
 
-Hvala vam na zanimanju u programu Intune Insidersa. Ako ste se već ukrcali u program za Intune Insider, a morate podnijeti zahtjev za podršku, zatim:
+Hvala vam na vašem interesu za program Intune Insider. Ako ste već u programu Intune Insider i morate podnijeti zahtjev za podršku, a zatim:
 
-1. Opišite problem u gornjem polju.
-2. Stvorite novi zahtjev za servis pomoću mogućnosti u nastavku.
+1. Opišite problem u prethodnom polju.
+2. Stvorite novi zahtjev za uslugu pomoću mogućnosti u nastavku.
 
-Inženjer za podršku za Intune kontaktirat će vas.
+Intune inženjer za podršku će vam se obratiti.
 
-Ako se ne nalazite u programu Intune Insider, hvala vam na zanimanju. Trenutno ne regrutiramo nove sudionike.
+Ako niste u programu Intune Insider, hvala vam na vašem interesu. Trenutno ne regrutiramo nove sudionike.

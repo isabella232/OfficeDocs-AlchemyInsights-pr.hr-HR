@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća s registracijom uređaja sa sustavom Windows u aplikaciji Microsoft Intune
+title: Otklanjanje poteškoća s registracijom Windows uređajima u Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981033"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Otklanjanje poteškoća s registracijom uređaja sa sustavom Windows u aplikaciji Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Otklanjanje poteškoća s registracijom Windows uređajima u Microsoft Intune
 
 Pregledajte resurse navedene u nastavku da biste odmah riješili problem.
   
@@ -35,7 +35,7 @@ Neke uobičajene poruke o pogreškama i koraci za rješavanje:
 
 -  Uređaj je već prijavio drugi korisnik. U tom slučaju uklonite uređaj s konzole Azure Intune ili ručno poništite zahtjev uređaja prije nego što ga ponovno počnete pokušavati.
 
--  Uređaj je Windows 10 Home. Samo SKU-i za Windows 10 Pro, Education i Enterprise mogu se pridružiti servisu Azure Active Directory.
+-  Uređaj je Windows 10 Home. Samo Windows 10 Pro, obrazovni i korporacijski SKU-i mogu se Azure Active Directory.
 
 Dodatni resursi za rješavanje problema:
   
@@ -43,4 +43,4 @@ Dodatni resursi za rješavanje problema:
 
 -  Pregledajte ove dokumente da biste pregledali popis uobičajenih pogrešaka koje sprječavaju prijavu i rješenja za svaku od njih: vodič za otklanjanje [poteškoća i dokument](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) za otklanjanje [poteškoća.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-[Saznajte kako registrirati uređaje sa sustavom Windows u aplikaciji Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[Saznajte kako registrirati Windows uređajima u Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
