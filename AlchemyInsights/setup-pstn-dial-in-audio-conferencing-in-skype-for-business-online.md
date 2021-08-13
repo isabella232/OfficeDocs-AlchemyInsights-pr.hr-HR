@@ -1,5 +1,5 @@
 ---
-title: Postavljanje pstn audiokonferencije za uključivanje u konferenciju biranjem u Skypeu za tvrtke online
+title: Postavljanje PSTN audiokonferencije za uključivanje u konferenciju biranjem u Skype za tvrtke online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f88489850f30efd31af5f9ccb67edb309f45cb8e123c94befc70fdd72ee98450
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835479"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094382"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Postavljanje pstn audiokonferencije za uključivanje u konferenciju biranjem u Skypeu za tvrtke online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Postavljanje PSTN audiokonferencije za uključivanje u konferenciju biranjem u Skype za tvrtke online
 
 Ako želite postaviti audiokonferencije za Skype za tvrtke online, morate učiniti nekoliko stvari. 
 
@@ -30,4 +30,4 @@ Ako želite postaviti audiokonferencije za Skype za tvrtke online, morate učini
 
 - Nabavite i dodijelite brojeve servisa.
 
-- Dovršavanje kontrolnog popisa u odjeljku Postavljanje [audiokonferencije za Skype za tvrtke](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Dovršavanje kontrolnog [popisa u postavili audiokonferencije za Skype za tvrtke](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).

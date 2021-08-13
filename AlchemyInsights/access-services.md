@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: c5edb5d3e1cc19b2286adc50cc1a5b1d9cf3649f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d95687db675b05fa9580aec4d444ab916e26ff73221ca289791b80807ca62f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668483"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938651"
 ---
 # <a name="access-services"></a>Access Services
 
-Značajka programa Access Services u sustavu SharePoint Online umirovljena je. Nove web-aplikacije koje se temelje na pristupu i web-baze podataka više se ne mogu stvarati, a postojeće web-aplikacije i web-baze podataka bit će zatvorene do travnja, 2018. Ova promjena ne utječe na baze podataka programa Access za stolna računala (. accdb). Preporučujemo da Microsoft PowerApps bude alternativa za pristup web-aplikacijama i web-bazama podataka. 
+Značajka Access Services u web-SharePoint online umirovljena je. Nove web-aplikacije i web-baze podataka utemeljene na accessu više se ne mogu stvarati, a postojeće web-aplikacije i web-baze podataka bit će zatvorene do travnja 2018. Ta promjena ne utječe na baze podataka programa Access za stolna računala (.accdb). Preporučujemo Microsoft PowerApps kao alternativu web-aplikacijama programa Access i web-bazama podataka. 
   
-[Saznajte više o Microsoftovim PowerApps-u](https://powerapps.microsoft.com/)
+[Saznajte više o Microsoft PowerApps](https://powerapps.microsoft.com/)
   

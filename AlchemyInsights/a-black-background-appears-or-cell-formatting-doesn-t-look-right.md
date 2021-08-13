@@ -1,5 +1,5 @@
 ---
-title: Prikazuje se Crna pozadina ili oblikovanje ćelija ne izgleda dobro
+title: Prikazuje se crna pozadina ili oblikovanje ćelije ne izgleda ispravno
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 031acf2f47dbe9546a5042b88f53e03a8e96e917
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd6832e559e721a41b7afaebe97ec551d297a8b99bf1b323a5a5680365eacfac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917847"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Prikazuje se Crna pozadina ili oblikovanje ćelija ne izgleda dobro
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Prikazuje se crna pozadina ili oblikovanje ćelije ne izgleda ispravno
 
-U programu Excel 2016 možda će vam se prikazati neočekivana Crna pozadina ili ćete vidjeti oblikovanje ćelija koje se ne prikazuje ispravno. To se može dogoditi nakon dodavanja zaglavlja ili podnožja u prikazu raspored stranice te primjeni ispunu uzorka u ćeliju. Problem je riješen u verziji 1708 (međuverzija 8431,2094). Da biste riješili taj problem, ažurirajte na najnoviju verziju sustava Office. Odmah **File** odaberite \> **Account** \> **Ažuriranje mogućnosti ažuriranja** računa datoteka \> **Update Now**.
+U Excel 2016, možda ćete vidjeti neočekivanu crnu pozadinu ili će vam se možda prikazati oblikovanje ćelija koje se ne prikazuje pravilno. To se može dogoditi nakon dodavanja zaglavlja ili podnožja u prikazu rasporeda stranice i primjene ispune uzorka na ćeliju. Problem je riješen u verziji 1708 (međuverziji 8431.2094). Da biste riješili taj problem, ažurirajte na najnoviju verziju Office. Odaberite  \> **Mogućnosti ažuriranja računa** datoteke \> **Ažuriraj** \> **odmah**.
   
 

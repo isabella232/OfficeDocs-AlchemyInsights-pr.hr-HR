@@ -1,5 +1,5 @@
 ---
-title: Mirovina u programu Access Services
+title: Umirovljenje usluga pristupa
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,26 +11,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 943066d5ac76c0630554ee724bbab9a94086fae4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32da879de230dc0ed99563ad881ab5b2479b8453933a127961a26d619e108ab9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698638"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938687"
 ---
-# <a name="access-services-retirement"></a>Mirovina u programu Access Services
+# <a name="access-services-retirement"></a>Umirovljenje usluga pristupa
 
-Kao što smo prvobitno najavili u MC97576, u ožujku 2017, i nastavili smo komunicirati u prošloj godini programa Access Services su u mirovini. Sljedeća faza u ovom postupku bit će uklanjanje web-baza podataka programa Access koja koristi popise sustava SharePoint kao njihovo spremište podataka u pozadini.
+Kao što smo prvotno najavili u programu MC97576, u ožujku 2017., i nastavili smo komunicirati tijekom prošle godine Access Services se umirovili. Sljedeća faza postupka bit će uklanjanje web-baza podataka programa Access koje koriste popise SharePoint kao temeljnu pohranu podataka.
 
 **Kako to utječe na mene?**
 
-Počevši od lipnja 2019, zaustavit ćemo stvaranje novih baza podataka programa Access u sustavu SharePoint online i isključivanje servisa i svih preostalih aplikacija do travnja 2020.
+Od lipnja 2019. prestat ćemo s stvaranjem novih baza podataka programa Access u web-aplikaciji SharePoint Online i zatvoriti servis i sve ostale aplikacije do travnja 2020.
 
-**Što je potrebno učiniti da biste se pripremili za ovu promjenu?**
+**Što je potrebno učiniti da bih se pripremio za tu promjenu?**
 
-Preporučujemo vam da stvorite plan tranzicije za web-baze podataka programa Access tvrtke ili ustanove. Administratori mogu koristiti [skener aplikacija sustava SharePoint](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) da bi nabavili inventar aplikacija programa Access koje koriste web-mjesta.
+Potičemo vas da stvorite plan prijelaza za web-baze podataka programa Access tvrtke ili ustanove. Administratori mogu koristiti [SharePoint aplikacije programa Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) da bi prikupili inventar aplikacija programa Access koje web-mjesta koriste.
 
-Podaci za web-baze podataka programa Access mogu se migrirati na nekoliko načina:
+Podatke o web-bazama podataka programa Access možete migrirati na nekoliko načina:
 
-- Uvoz u lokalnu bazu podataka programa Access (. ACCDB) ili u datoteku programa Excel.
-- Preporučujemo i istraživanje Microsoft PowerApps kao alternativne platforme za stvaranje nekodova poslovnih rješenja za web i mobilne uređaje.
+- Uvoz u lokalnu bazu podataka programa Access (. ACCDB) ili u Excel datoteku.
+- Preporučujemo i istraživanje Microsoft PowerApps kao alternativne platforme za stvaranje poslovnih rješenja bez koda za web i mobilne uređaje.

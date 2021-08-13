@@ -1,5 +1,5 @@
 ---
-title: Pristup je odbijen prilikom mapiranja pogona u SharePoint
+title: Pristup je odbijen prilikom mapiranja pogona na SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 8fc866390d63443c94beef76b6a53a628b85d6d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ed67ec926c3e73f7a16b927729255505dfe93a0ae442a5dff9400afafb41d8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668735"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938723"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Otklanjanje poteškoća s bibliotekama sustava SharePoint mapiranim na mrežne pogone
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Rješavanje problema s SharePoint biblioteka mapiranih na mrežne pogone
 
-Kada otvorite mapirani mrežni pogon, možda ćete vidjeti neku od sljedećih poruka:
+Kada se pomaknite do mapiranog mrežnog pogona, možda ćete vidjeti jednu od sljedećih poruka:
   
-- **\\Put nije pristupačan. Možda nemate dozvolu za korištenje tog mrežnog resursa. Obratite se administratoru ovog poslužitelja da biste saznali imate li dozvole za pristup.**
+- **\\Put nije dostupan. Možda nema dozvole za korištenje tog mrežnog resursa. Obratite se administratoru ovog poslužitelja da biste saznali imate li dozvole za pristup.**
 
-- **Pristup je odbijen. Prije otvaranja datoteka na tom mjestu, najprije morate dodati web-mjesto na popis pouzdanih web-mjesta, potražiti web-mjesto i odabrati mogućnost automatskog prijave.**
+- **Pristup je odbijen. Prije otvaranja datoteka na tom mjestu najprije morate dodati web-mjesto na popis pouzdanih web-mjesta, otvoriti web-mjesto i odabrati mogućnost automatske prijave.**
 
-[Pomoć za otklanjanje poteškoća s mapiranim mrežnim pogonima](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+[Pomoć za otklanjanje poteškoća s mapiranih mrežnih pogona](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Mapiranje biblioteke kao mrežnog pogona privremeno je i podržano samo u pregledniku Internet Explorer. Umjesto toga [sinkronizirajte datoteke sustava SharePoint s novim klijentom za sinkronizaciju servisa OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) koji sadrži [datoteke na zahtjev](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pristupite svim datotekama na servisu OneDrive bez korištenja lokalnog prostora za pohranu.
+Mapiranje biblioteke kao mrežnog pogona privremeno je i podržano samo u pregledniku Internet Explorer. Umjesto toga [sinkronizirajte SharePoint datotekama s novim Sinkronizacija sa servisom OneDrive klijentom](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) koji obuhvaća [datoteke na zahtjev](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pristupajte svim svojim datotekama u sustavu OneDrive bez upotrebe lokalnog prostora za pohranu.
   
