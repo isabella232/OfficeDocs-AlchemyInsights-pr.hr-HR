@@ -1,5 +1,5 @@
 ---
-title: Vraćanje izbrisanog web-mjesta servisa OneDrive
+title: Vraćanje izbrisanog web-OneDrive web-mjesta
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991275"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>Vraćanje izbrisanog web-mjesta servisa OneDrive
+# <a name="restore-a-deleted-onedrive-site"></a>Vraćanje izbrisanog web-OneDrive web-mjesta
 
-Prilikom brisanja korisnika u centru za administratore sustava Microsoft 365 (ili kada je korisnik uklonjen putem sinkronizacije Active Directory), userov OneDrive sačuvat će se za broj dana koje navedete u centru za administratore servisa OneDrive. (Dodatne informacije potražite [u članku Postavljanje zadanog zadržavanja datoteka za izbrisane korisnike servisa OneDrive](https://docs.microsoft.com/onedrive/set-retention).)
+Kada izbrišete korisnika u aplikaciji Centar za administratore okruženja Microsoft 365 (ili kada se korisnik ukloni putem sinkronizacije servisa Active Directory), korisnikov će OneDrive biti zadržan za broj dana koje navedete u centru za administratore OneDrive servisa. (Informacije potražite u članku [Postavljanje zadanog zadržavanja datoteke za izbrisane OneDrive korisnike](https://docs.microsoft.com/onedrive/set-retention).)
 
-* [Vraćanje izbrisanog web-mjesta servisa OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [Vraćanje izbrisanog web-OneDrive web-mjesta](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Ako se puno datoteka sa servisa OneDrive izbriše, prebriše, ošteti ili inficira zlonamjernim softverom, možete vratiti cijeli OneDrive na prethodno vrijeme.
+Ako se mnogo OneDrive datoteka izbriše, prebrise, ošteti ili zarazi zlonamjernim softverom, možete vratiti cijeli OneDrive na prethodni put.
 
-* [Vraćanje servisa OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Vraćanje OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

@@ -1,5 +1,5 @@
 ---
-title: POP, IMAP i SMTP postavke za Outlook.com
+title: Pop, IMAP i SMTP postavke za Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,25 +14,25 @@ ms.custom:
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 1885297a578b433e5c74a4fc72557a1e0807cf40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a1ec9cf117d39ba293c4b6e2759472d892db11d86c7415e1689027aa8a728ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983805"
 ---
-# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>POP, IMAP i SMTP postavke za Outlook.com
+# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Pop, IMAP i SMTP postavke za Outlook.com
 
-Ako račun za Outlook.com želite dodati u aplikaciju za poštu koja podržava POP ili IMAP, ovdje ćete morati imati postavke poslužitelja:
+Ako račun servisa Outlook.com želite dodati u aplikaciju za e-poštu koja podržava POP ili IMAP, evo postavki poslužitelja koje su vam potrebne:
   
-- **Naziv IMAP poslužitelja:** Outlook.office365.com
+- **Naziv IMAP poslužitelja:** outlook.office365.com
 - **IMAP priključak:** 993
-- **Način IMAP šifriranja:** TLS
-- **Naziv POP poslužitelja:** Outlook.office365.com  
-- **Pop priključak:** 995  
-- **Način šifriranja pop:** TLS  
-- **Naziv SMTP poslužitelja:** SMTP.office365.com
+- **Imap način šifriranja:** TLS
+- **Naziv POP poslužitelja:** outlook.office365.com  
+- **POP priključak:** 995  
+- **Način pop šifriranja:** TLS  
+- **Naziv SMTP poslužitelja:** smtp.office365.com
 - **SMTP priključak:** 587
-- **Metoda SMTP šifriranja:** STARTTLS
+- **Smtp način šifriranja:** STARTTLS
 
-Saznajte više o [dodavanju računa za Outlook.com u neku drugu aplikaciju za e-poštu ili pametni uređaj](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).
+Saznajte više o [dodavanju računa Outlook.com u drugu aplikaciju za e-poštu ili pametni uređaj](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).

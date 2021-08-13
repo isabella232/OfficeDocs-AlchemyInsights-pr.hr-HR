@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge korisnički agent niz (radna površina)
+title: Microsoft Edge niz korisničkih agenta (radna površina)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975993"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge korisnički agent niz (radna površina)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge niz korisničkih agenta (radna površina)
 
-Nizove korisničkog agenta (UA) mogu se koristiti za prepoznavanje verzije određenog preglednika koji se koristi u određenom operacijskom sustavu. Kao i drugi preglednici, Microsoft Edge sadrži te informacije u HTTP zaglavlju "user-agent" kad god to zatraži od web-mjesta. Web-pregledniku – informacije o verziji možete pristupiti i putem JavaScripta pomoću upita vrijednosti "navigator. userAgent".
+Nizovi korisničkih agenta (UA) mogu se koristiti za otkrivanje verzije određenog preglednika koja se koristi u određenom operacijskom sustavu. Kao i ostali preglednici, Microsoft Edge te podatke u HTTP zaglavlje "User-Agent" (Korisnik-agent) prilikom svakog zahtjeva za web-mjestom. Informacijama o verziji preglednika može se pristupiti i putem JavaScripta upitom vrijednosti "navigator.userAgent".
 
-Preporučujemo da web-programeri koriste prepoznavanje značajki kad god je to moguće da biste poboljšali održavanje koda, smanjili krhkost kod i uklonili rizik od loma kodova u slučaju budućih ažuriranja niza u nastavku.
+Preporučujemo da razvojni inženjeri web-mjesta koriste otkrivanje značajki kad god je to moguće radi poboljšanja mogućnosti održavanja koda, smanjenja lomljivosti koda i uklanjanja rizika od prijeloma koda u slučaju budućih ažuriranja niza za UA.
 
-Dodatne informacije potražite u [članku Microsoft Edge korisnički agent string (stolna računala)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).
+Dodatne informacije potražite u članku [Microsoft Edge niz korisničkih agenta (stolna računala).](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string)

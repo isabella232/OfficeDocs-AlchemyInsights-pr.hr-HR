@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 6f6e19baf0701c1feafa218773af7f0dcce5eaaa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 283d85678d8dae8e2d26a7a3ca74ae309c5313df89c163b26efa0e2c4b3393ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926525"
 ---
 # <a name="hybrid-and-federated-searches"></a>Hibridna i združena pretraživanja 
 
-Informacije o hibridnom i združenom pretraživanju u sustavu SharePoint Online potražite u članku [Hibridno pretraživanje u sustavu SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+Informacije o hibridnom i združenom pretraživanju u SharePoint online potražite u članku [Hibridno pretraživanje u SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
-Informacije o planiranju hibridnog vanjskog pretraživanja potražite u članku [Planiranje hibridnog vanjskog pretraživanja sustava SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+Informacije o planiranju hibridnog vanjskog pretraživanja potražite u članku [Planiranje hibridnog vanjskog pretraživanja za SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).

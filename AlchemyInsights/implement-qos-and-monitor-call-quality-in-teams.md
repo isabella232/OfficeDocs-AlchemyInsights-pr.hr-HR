@@ -1,5 +1,5 @@
 ---
-title: Implementacija QoS-a i praćenje kvalitete poziva u aplikaciji Teams
+title: Implementirati QoS i nadzirati kvalitetu poziva u Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3e333394d3cb3f91ad48f3b443987fba23c7c2a5245b31555ef07ccf09e46be4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926411"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implementacija QoS-a i praćenje kvalitete poziva u aplikaciji Teams
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implementirati QoS i nadzirati kvalitetu poziva u Teams
 
-Analitika poziva i nadzorna ploča za kvalitetu poziva mogu se koristiti za otklanjanje poteškoća s kvalitetom poziva u aplikaciji Microsoft Teams. Dodatne informacije o kvaliteti servisa (QoS), analitiki poziva i nadzornoj ploči za kvalitetu poziva (CQD) potražite u članku Implementacija [sustava QoS i praćenje kvalitete poziva u aplikaciji Microsoft Teams.](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) 
+Analitika poziva i nadzorna ploča za kvalitetu poziva mogu se koristiti za otklanjanje poteškoća s kvalitetom poziva Microsoft Teams. Dodatne informacije o kvaliteti servisa (QoS), analitiki poziva i nadzornoj ploči za kvalitetu poziva (CQD) potražite u članku Implementacija [sustava QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)i praćenje kvalitete poziva u Microsoft Teams . 

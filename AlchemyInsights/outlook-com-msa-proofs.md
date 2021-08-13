@@ -1,5 +1,5 @@
 ---
-title: Outlook.com MSP dokaz
+title: Outlook.com MSA proofs
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,24 +16,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 321b19efb4fe33049ac5f2267dce3cfdc2fedb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f8cdef6068e0adef44f8b4172d2429c86947cb39e7a0eeb168ca6b4400e8b585
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776910"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983949"
 ---
-# <a name="security-info-and-security-codes"></a>Sigurnosne informacije i sigurnosni kodovi
+# <a name="security-info-and-security-codes"></a>Sigurnosni podaci i sigurnosni kodovi
 
-Da biste dodali sigurnosne podatke na Microsoftov račun, učinite sljedeće:
+Da biste na Microsoftov račun dodali sigurnosne podatke:
 
-1. Prijavite se na [Osnove sigurnosti](https://account.microsoft.com/security) pomoću Microsoftova računa.
-1. Odaberite **sigurnosne podatke za kontakt**.
-1. Odaberite **Dodaj sigurnosne podatke** , a zatim slijedite upute da biste unijeli telefonski broj ili adresu e-pošte.
-1. Dobit ćete sigurnosni kod na tom telefonskom broju ili adresi e-pošte. Unesite sigurnosni kod koji ste primili u prozoru **Dodavanje sigurnosnih podataka** i odaberite **dalje**.
+1. Prijavite se u [osnove sigurnosti pomoću](https://account.microsoft.com/security) Microsoftova računa.
+1. Odaberite **Sigurnosni podaci za kontakt**.
+1. Odaberite **Dodaj sigurnosne podatke** i slijedite upute da biste unijeli telefonski broj ili adresu e-pošte.
+1. Sigurnosni kod primit ćete na taj telefonski broj ili adresu e-pošte. Unesite sigurnosni kod koji ste primili u **prozoru Dodavanje sigurnosnih** podataka pa odaberite **Dalje**.
 
-Ako želite ukloniti telefonski broj ili adresu e-pošte, odaberite **Ukloni** pokraj njega.
+Ako želite ukloniti telefonski broj ili adresu e-pošte, **pokraj njega odaberite** Ukloni.
 
-Ako želite promijeniti koji telefonski broj ili adresa e-pošte prima bezbednosna upozorenja, odaberite **Promijeni mogućnosti upozorenja**.
+Ako želite promijeniti telefonski broj ili adresu e-pošte koja prima sigurnosna upozorenja, odaberite **Promjena mogućnosti upozorenja**.
 
-Da biste saznali više, pročitajte [sigurnosne podatke za Microsoftov račun i kodove za provjeru](https://support.microsoft.com/help/12428/).
+Da biste saznali više, pročitajte [sigurnosne informacije o Microsoftovu računu i kodove za provjeru valjanosti](https://support.microsoft.com/help/12428/).
