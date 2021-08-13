@@ -1,5 +1,5 @@
 ---
-title: Komentari na stavkama popisa
+title: Komentari na stavke popisa
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995469"
 ---
-# <a name="comments-on-list-items"></a>Komentari na stavkama popisa
+# <a name="comments-on-list-items"></a>Komentari na stavke popisa
 
-Korisnici mogu pregledavati sve komentare na stavci popisa i filtrirati prikaze koji prikazuju komentare ili aktivnost povezane s artiklom.
+Korisnici mogu pregledavati sve komentare na stavci popisa i filtrirati prikaze koji prikazuju komentare ili aktivnosti povezane s stavkom.
 
-Korisnici moraju napomenuti sljedeće da bi mogli dodavati i brisati komentare:
+Korisnici moraju imati na umu sljedeće da bi mogli dodavati i brisati komentare:
 
-- Komentari slijede postavke dozvola koje su prisutne u sustavu SharePoint.
-- Klasični popisi koji još nisu ugrađeni da bi se prikazivale u modernim korisničkim sučeljima, kao što su popisi zadataka, neće imati ovu značajku komentiranja.
-- Komentiranje popisa u timovima nije dostupno uz ovo izdanje.
-- Komentari se ne indeksiraju pomoću pretraživanja.
+- Komentari slijede postavke dozvola svojstvene sustavu SharePoint.
+- Klasični popisi koji još nisu ugrađeni za prikaz u modernim korisničkim sučeljima, kao što su popisi zadataka, neće imati tu značajku komentiranja.
+- Komentiranje popisa u aplikaciji Teams nije dostupno u ovom izdanju.
+- Pretraživanje ne indeksiraju komentare.
 
-Administratori mogu onemogućiti ovu značajku na razini tvrtke ili ustanove promjenom parametra **Commentsonlistitemsdisabled** u **cmdletu Set-spostanar** PowerShell.
+Administratori tu značajku mogu onemogućiti na razini tvrtke ili ustanove promjenom parametra **CommentsOnListItemsDisabled** u **cmdletu Set-SPOTenant** PowerShell.
 
-Trenutno nije moguće onemogućiti komentiranje na razini web-mjesta ili popisa. Nadamo se da ćemo te kontrole imati u kasnijim ažuriranju, vjerojatno u prvom tromjesečju 2021.
+Trenutno nije moguće onemogućiti komentiranje na razini web-mjesta ili popisa. Nadamo se da ćemo te kontrole imati u kasnijem ažuriranju, vjerojatno u prvom tromjesečju 2021.

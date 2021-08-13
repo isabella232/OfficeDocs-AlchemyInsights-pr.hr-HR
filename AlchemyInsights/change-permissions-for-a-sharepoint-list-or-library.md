@@ -1,5 +1,5 @@
 ---
-title: Promjena dozvola za popis ili biblioteku sustava SharePoint
+title: Promjena dozvola za popis SharePoint biblioteku
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 445f1edcae5a2581cf340898c823257e9e857ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b012606e5dadd0ea71eb68de9bc278faea41adbc99e662bfa3eea6653548c1a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681793"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979449"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Promjena dozvola za popis ili biblioteku sustava SharePoint
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Promjena dozvola za popis SharePoint biblioteku
 
-1. Idite na web-mjesto sustava SharePoint u web-pregledniku i otvorite popis ili biblioteku.
+1. Otvorite web-SharePoint web-mjesto u web-pregledniku i otvorite popis ili biblioteku.
     
-2. Kliknite ikonu Postavke u gornjem desnom kutu, a zatim kliknite **postavke biblioteke** ili **postavke popisa**. (Ako ne vidite naredbu, odaberite karticu **Biblioteka** ili **popis** da biste otvorili vrpcu, a zatim kliknite **postavke biblioteke** ili **postavke popisa** na vrpci.) 
+2. Kliknite ikonu Postavke u gornjem desnom kutu, a zatim Postavke **biblioteke ili** **Postavke popisa**. (Ako ne vidite naredbu, odaberite karticu Biblioteka ili **Popis** da biste otvorili vrpcu, a zatim kliknite **Biblioteka Postavke** ili **Popis Postavke** na vrpci.)  
     
-3. U odjeljku **dozvole i upravljanje**kliknite **dozvole za ovaj popis** ili **dozvole za ovu biblioteku dokumenata**.
+3. U **odjeljku Dozvole i upravljanje** kliknite Dozvole za ovaj popis **ili** Dozvole za **ovu biblioteku dokumenata**.
     
-Primjetite da popisi i biblioteke sustava SharePoint po zadanom nasljeđuju dozvole s web-mjesta. Ako prekinu nasljeđivanje dozvola, sadašnje će se dozvole kopirati na popis ili u biblioteku i sve u njoj. Ako se dozvole za web-mjesto kasnije promijene, promjene se neće primijeniti na popis ili u biblioteku i na stavke unutar njega.
+Imajte na umu da SharePoint popisi i biblioteke prema zadanim postavkama nasljeđuju dozvole od web-mjesta. Ako prekinete nasljeđivanje dozvola, trenutne će se dozvole kopirati na popis ili u biblioteku i sve unutar njega. Ako se dozvole za web-mjesto kasnije mijenjaju, promjene se neće primijeniti na popis ili biblioteku ni na stavke unutar njega.
   
 
