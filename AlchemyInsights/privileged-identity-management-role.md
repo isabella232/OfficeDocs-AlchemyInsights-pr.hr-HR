@@ -1,5 +1,5 @@
 ---
-title: Povlaštena uloga upravljanja identitetom
+title: Privileged Identity Management uloga
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "6825"
-ms.openlocfilehash: 726511d016462f56c48a4272b57abc3e9f0cbc3d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 358e446192e6b58ace81afa06e0d65ae3a207282351ffc3ec9975a24779951fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973221"
 ---
-# <a name="privileged-identity-managementpim-role"></a>Povlaštene uloge za upravljanje identitetom (PIM)
+# <a name="privileged-identity-managementpim-role"></a>Privileged Identity Management(PIM) uloga
 
-**Dozvole se ne dodjeljuju nakon aktiviranja uloge**
+**Dozvole se ne dodjeljuju nakon aktivacije uloge**
 
-Kada aktivirate ulogu u povlaštenom upravljanju identitetom servisa Azure AD (PIM), aktivacija se možda neće odmah proširiti na sve portale koje zahtijevaju privilegiranu ulogu. Ponekad se, čak i ako se promjena proširi, web-predmemoriranje na portalu može rezultirati promjenom netrenutačne efekte.
+Kada aktivirate ulogu u aplikaciji Azure AD Privileged Identity Management (PIM), aktivacija se možda neće odmah prenijeti na sve portale za koje je potrebna uloga s ovlastima. Ponekad, čak i ako se promjena propagira, web-predmemoriranje na portalu može dovesti do toga da promjena odmah ne utječe na snagu.
 
-Ako aktivacija kasni, slijedite ove korake:
+Ako je aktivacija odgođena, slijedite ove korake:
 
-1. Odjavite se s portala Azure, a zatim se ponovno prijavite. Kada aktivirate ulogu Azure AD ili ulogu resursa Azure, prikazat će vam se faze aktivacije. Kada završite sa svim fazama, prikazat će se veza za odjavu. Ovu vezu možete koristiti za odjavu. To će riješiti većinu slučajeva za kašnjenje aktivacije.
-2. U servisu PIM provjerite jeste li navedeni kao član uloge.
-3. Ako aktivirate ulogu administratora sustava Exchange, provjerite jeste li se odjavili i ponovno prijavili. Ako se problem ne riješi, otvorite karticu za podršku i Podignimo ovo kao problem. Ako koristite ulogu administratora sustava Exchange za pristup centru za sigurnost i usklađenost, pročitajte sljedeći korak.
-4. Ako aktivirate ulogu za pristup centru za sigurnost i usklađenost ili ako aktivirate ulogu administratora sustava SharePoint, za nekoliko minuta doživjet ćete odgodu aktivacije do nekoliko sati. To je poznat problem i aktivno radimo s tim timovima radi rješavanja tog problema što je prije moguće.
+1. Odjavite se s portala Azure, a zatim se ponovno prijavite. Kada aktivirate ulogu azure AD ili ulogu resursa servisa Azure, vidjet ćete faze aktivacije. Kada sve faze dovrše, vidjet ćete vezu "Odjava". Tu vezu možete koristiti za odjavu. Time ćete riješiti većinu slučajeva kašnjenja aktivacije.
+2. U programu PIM provjerite jeste li navedeni kao član uloge.
+3. Ako aktivirate ulogu administratora Exchange, odjavite se i ponovno se prijavite. Ako se problem nastavi pojavljivati, otvorite kartu za podršku i podignite ga kao problem. Ako koristite ulogu administratora Exchange pristup centru za sigurnost i usklađenost, pogledajte sljedeći korak.
+4. Ako aktivirate ulogu za pristup centru za sigurnost i usklađenost ili ako aktivirate ulogu administratora sustava SharePoint, doći će do kašnjenja aktivacije od nekoliko minuta do nekoliko sati. To je poznati problem i aktivno radimo s tim timovima na rješavanju tog problema što je prije moguće.
 
-Dodatne informacije potražite u članku:
+Dodatne informacije potražite u sljedećim člancima:
 
-- [Aktiviranje uloga Azure oglasa u servisu PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?wt.mc_id=portal-microsoft_azure_support")
-- [Aktivacija uloga resursa za Azure u servisu PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?wt.mc_id=portal-microsoft_azure_support")
+- [Aktivacija uloga servisa Azure AD u aplikaciji PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?wt.mc_id=portal-microsoft_azure_support")
+- [Aktivacija uloga resursa na servisu Azure u aplikaciji PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?wt.mc_id=portal-microsoft_azure_support")
 
-**Dozvole se ne uklanjaju Nakon deaktivacije uloge ili isteka aktivacije uloge**
+**Dozvole se ne uklanjaju nakon deaktiviranja uloge ili isteka aktivacije uloge**
 
-Kada deaktivirate ulogu u povlaštenom upravljanju identitetu ili kada istekne razdoblje aktivacije uloga, možda će biti odgoda gdje ćete i dalje imati pristup.
+Kada deaktivirate ulogu u aplikaciji Azure AD Privileged Identity Management ili kada razdoblje aktivacije uloga istekne, može biti kašnjenje u kojem i dalje imate pristup.
 
-Ako vaša deaktivacija kasni, slijedite ove korake:
+Ako je deaktivacija odgođena, slijedite ove korake:
 
-1. Ako deaktivirate ulogu administratora sustava Exchange ili razdoblje aktivacije uloga, a primjetite značajno kašnjenje prije uklanjanja dozvola, otvorite karticu za podršku i obavijestite inženjera za podršku da vam pomogne podnijeti prijavu karte pomoću tima za upravljanje povlaštenim pristupom (PAM) u sustavu Office u vezi s tim problemom.
-2. Ako je razdoblje aktivacije isteklo, ali i dalje imate otvorenu sesiju preglednika, zatvori preglednik. Ulogu možete nastaviti koristiti sve dok ne zatvoriš tu sesiju. To je poznat problem i tražimo potencijalno rješenje za aktivno ukidanje svake sesije kada je aktivacija istekla.
+1. Ako deaktivirate ulogu administratora sustava Exchange ili razdoblje aktivacije uloga istekne i primijetite značajno kašnjenje prije nego što se dozvole uklone, otvorite kartu za podršku i obavijestite inženjera za podršku da vam pomogne u prilaženju ulaznice timu za upravljanje pristupom s ovlastima u Office o tom problemu.
+2. Ako je razdoblje aktivacije isteklo, ali i dalje imate otvorenu sesiju preglednika, zatvorite preglednik. Ulogu možete nastaviti koristiti dok ne zatvorite tu sesiju. To je poznati problem i tražimo mogući popravak radi aktivnog opoziva svake sesije nakon isteka aktivacije.
 
-Ako vam se kašnjenje razlikuje od ovih dvaju scenarija, otvorite karticu za podršku.
+Ako se kašnjenje razlikuje od ova dva scenarija, otvorite kartu za podršku.
