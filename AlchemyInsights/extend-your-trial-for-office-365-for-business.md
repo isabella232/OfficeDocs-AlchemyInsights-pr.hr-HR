@@ -16,20 +16,20 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 5b460b597a0c5a7875240747c12f20bad2476e1fc37ce817a61e332cc404f9ac
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ce64ca1f9afa04ab9eaa6129dd5bbafb2b8e799ae32ca24162fd5c8bac7d84fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500764"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868634"
 ---
-# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Produljenje probne verzije Microsoft 365 za tvrtke
+# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Produljenje probne verzije za Microsoft 365 za tvrtke
 
-Besplatnu probnu verziju možete produljiti za jedno dodatno razdoblje od 30 dana. Nakon toga vaša probna verzija prolazi u razdoblje odgode od 30 [dana.](/alchemyinsights/grace-period-for-microsoft-365-free-trial) Da biste produljili probnu verziju, slijedite ove korake:
+Besplatnu probnu verziju možete produljiti za jedno dodatno razdoblje od 30 dana. Nakon toga vaša probna verzija prolazi u razdoblje odgode od 30 [dana.](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial) Da biste produljili probnu verziju, slijedite ove korake:
   
 1. U centru za administratore idite na stranicu **Naplata** \> [proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na kartici **Proizvodi** odaberite probnu pretplatu koju želite proširiti.
-3. Na stranici s pojedinostima o **pretplati u odjeljku Postavke pretplate i plaćanja** **odaberite Proširi datum završetka**.
+3. Na stranici pojedinosti o pretplati u **odjeljku Postavke pretplate i plaćanja** odaberite Proširi datum **završetka**.
 4. U **oknu Proširi datum završetka** pregledajte podatke o proširenju i po potrebi odaberite način plaćanja. Kada završite, odaberite Proširi **probnu verziju**.
 
-Dodatne informacije o produljenju probne verzije ili detaljne upute potražite u članku Proširivanje probne [verzije za Office 365 za tvrtke](/microsoft-365/commerce/extend-your-trial).
+Dodatne informacije o produljenju probne verzije ili detaljne upute potražite u članku Proširivanje probne [verzije Office 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).

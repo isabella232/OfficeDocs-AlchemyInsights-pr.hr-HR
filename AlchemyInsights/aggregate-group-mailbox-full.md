@@ -1,5 +1,5 @@
 ---
-title: Agregata grupnih poštanskih sandučića pun NDR primljenih za e-poštu poslanu u Microsoft 365 Group
+title: AggregateGroupMailbox full NDR received for email sent to Microsoft 365 group
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004286"
 - "7656"
-ms.openlocfilehash: 9de09ab4cbd2f09648305b11da6273ed990907cf
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 6655bbe9482400eeb3cfdf0b91bdc595e3d98fbff0f6d9244db8bb4dd958305e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721783"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951845"
 ---
-# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>Agregata grupnih poštanskih sandučića pun NDR primljenih za e-poštu poslanu u Microsoft 365 Group
+# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>AggregateGroupMailbox full NDR received for email sent to Microsoft 365 group
 
-Da biste stvorili pravilo prijenosa sustava Exchange da biste tihi ispuštanje poruka e-pošte poslane u kumulativni poštanski sandučić, poslužite se sljedećim naredbenim eko-om
+Upotrijebite sljedeću naredbu EXO Shell da biste stvorili pravilo Exchange prijenosa da biste tiho ispuštali poruke e-pošte poslane u skupni poštanski sandučić:
 
 `New-TransportRule -SentTo @("AggregateGroupMailbox.A.201708181918@contoso.onmicrosoft.com") -DeleteMessage:$true -Name 'Agg1' -StopRuleProcessing:$false -Mode 'Enforce' -Comments '' -RuleErrorAction 'Ignore' -SenderAddressLocation 'Header'`
 
 > [!NOTE]
-> Zamijenite SMTP adresu u **-SentTo** s SMTP adresom skupnog poštanskog sandučića grupe u vašem zakupcu. Možete dobiti SMTP adresu skupnog poštanskog sandučića grupe iz primljene NDR-a.
+> Smtp adresu u sustavu **-SentTo zamijenite** SMTP adresom agregiranog poštanskog sandučića grupe u klijentu. SMTP adresu agregiranog poštanskog sandučića grupe možete dobiti od primljenog NDR-a.
 
 
 

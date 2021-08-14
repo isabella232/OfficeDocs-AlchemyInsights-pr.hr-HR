@@ -1,5 +1,5 @@
 ---
-title: Outlook.com personalizirana adresa e-pošte ne šalje ni ne dobiva
+title: Outlook.com personalizirana adresa e-pošte ne šalje ni ne prima
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: cf35047c58e9b41359a5b1a92f3be494eefde455
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59ffadb8ef79594c1e0a1933038cc8c923594a30a67678aed36aa62cf174c3aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772271"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096002"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Moja personalizirana Outlook.com adresa e-pošte ne šalje se ni primi
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Moja personalizirana Outlook.com adresa e-pošte ne šalje ni ne prima
 
-Na alatnoj traci odaberite ikonu dijamanta da biste otvorili nadzornu ploču Premium.
+Odaberite ikonu dijamanta na alatnoj traci da biste otvorili premium nadzornu ploču.
 
-Ako ne vidite ikonu dijamanta u ulaznoj pošti (i vidite oglase), to znači da je pretplata na Microsoft 365 istekla. Idite na  [https://account.microsoft.com/services](https://account.microsoft.com/services) Ponovno aktiviranje pretplate, a zatim ponovno povežite domenu pomoću koraka u odjeljku "početak rada".
+Ako u ulaznoj pošti ne vidite ikonu dijamanta (i vidite oglase), to znači da je pretplata Microsoft 365 istekla. Idite [https://account.microsoft.com/services](https://account.microsoft.com/services) na ponovno aktiviranje pretplate, a zatim ponovno povežite domenu pomoću koraka u "Početak rada".
 
-Ako kartica "Prilagođena adresa e-pošte" ima crvenu traku stanja, vaša je domena možda istekla.
+Ako kartica "Personalizirana adresa e-pošte" sadrži crvenu traku stanja, domena je možda istekla.
 
-Pročitajte dodatne korake za otklanjanje poteškoća na [personaliziranoj adresi e-pošte u programu Microsoft 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Dodatne korake za otklanjanje poteškoća potražite u [personaliziranim adresama e-pošte u Microsoft 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

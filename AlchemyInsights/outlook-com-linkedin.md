@@ -1,5 +1,5 @@
 ---
-title: Problemi s bezvrijednom e-poštom koja tvrdi da je iz servisa LinkedIn
+title: Problemi s bezvrijednom e-poštom koji tvrde da su sa servisa LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: eab7f1434160b8b2b3a754235b4ea58870dc0003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd25e36817a9c5193a483a34d9aea1f209e8e7971c180772b32a9552ee67222
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095966"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemi s bezvrijednom e-poštom koja tvrdi da je iz servisa LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemi s bezvrijednom e-poštom koji tvrde da su sa servisa LinkedIn
 
-Svjesni smo da neki korisnici dobivaju bezvrijednu e-poštu koja tvrdi da je iz servisa LinkedIn.
+Znamo da neki korisnici primaju bezvrijednu e-poštu za koju se tvrdi da je sa servisa LinkedIn.
 
-Preporučujemo da filtrirate poruke e-pošte pomoću pravila ulazne pošte.
+Preporučujemo da pomoću pravila ulazne pošte filtrirate te poruke e-pošte.
 
-Dodatne informacije potražite [u članku Korištenje pravila ulazne pošte u sustavu Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
+Dodatne informacije potražite u tome kako koristiti [pravila ulazne pošte na Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).

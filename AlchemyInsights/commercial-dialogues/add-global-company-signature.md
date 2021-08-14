@@ -1,5 +1,5 @@
 ---
-title: Dodavanje globalnog potpisa tvrtke ili izjave o odricanju odgovornosti za sve korisnike
+title: Dodavanje globalnog potpisa tvrtke ili odricanja odgovornosti za sve korisnike
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: cbd92f9c4a78139eac4e3672dd0632b173472757
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: b020e9823bac91ee6f40aed48f2abcba01a265ab2d2f77021a745e69af5a5366
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50508581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930495"
 ---
-# <a name="add-a-global-company-signature-or-disclaimer-for-all-users"></a>Dodavanje globalnog potpisa tvrtke ili izjave o odricanju odgovornosti za sve korisnike
+# <a name="add-a-global-company-signature-or-disclaimer-for-all-users"></a>Dodavanje globalnog potpisa tvrtke ili odricanja odgovornosti za sve korisnike
 
-Savjet: potpis u programu org – Wide naziva se i odricanju odgovornosti, bez obzira na to što sadrži.
+Savjet: potpis na razini e-pošte naziva se i odricanje odgovornosti, bez obzira na to što obuhvaća.
 
-1. U centru za administratore odaberite **Exchange centri za administratore**  >  .
-2. U odjeljku tijek pošte odaberite **pravila**.
-3. Kliknite **+** ikonu (Dodaj) pa odaberite **Primijeni odricanja**.
-4. Dodijelite pravilo ime.
-5. U odjeljku Primijeni ovo pravilo odaberite **Primijeni na sve poruke**.
-6. U odjeljku učinite sljedeće ostavite odabranu **izjavu o odricanju odgovornosti** .
-7. Kliknite **Unesi tekst** , a zatim upišite odricanje.
-8. Kliknite **Odaberi jedan**, odaberite **Zamotajte** kao mogućnost povlačenje, a zatim kliknite **u redu**. To znači da ako se odricanje ne može dodati zbog šifriranja ili neke druge postavke e-pošte, ona će biti zamotana u omotnicu poruke.
-9. Prepustite **ovo pravilo reviziji** s odabranom razinom težine. Zatim odaberite niska, Srednja ili visoka koja će se koristiti u zapisniku poruke.
-10. Odaberite **nametanje** da biste odmah uključili odricanje od odgovornosti, osim ako ga želite najprije testirati.
-11. Odaberite **Dodatne mogućnosti** za uvrštavanje dodatnih uvjeta i iznimki.
+1. U centru za administratore odaberite **Centri za administratore**  >  **Exchange**.
+2. U odjeljku Tijek pošte odaberite **Pravila**.
+3. Kliknite **+** ikonu (Dodaj) pa **odaberite Primijeni izjave o odricanju odgovornosti**.
+4. Imenuj pravilo.
+5. U odjeljku Primijeni ovo pravilo **odaberite Primijeni na sve poruke**.
+6. U odjeljku Učinite sljedeće ostavite odabrano Dodaj **odricanje odgovornosti.**
+7. Kliknite **Unos teksta,** a zatim upišite odricanje odgovornosti.
+8. Kliknite **Odaberi jednu**, **odaberite Prelomi** kao mogućnost za vraćanje, a zatim kliknite U **redu**. To znači da će, ako se odricanje od odgovornosti ne može dodati zbog šifriranja ili druge postavke pošte, biti omotan u omotnicu poruke.
+9. Ostavite **nadzor ovo pravilo s** odabranom razinom ozbiljnosti. Zatim odaberite Nisko, Srednje ili Visoko da biste se koristili u zapisniku poruka.
+10. Odaberite **Primijeni** da biste odmah umetli odricanje odgovornosti, osim ako ga ne želite najprije testirati.
+11. Odaberite **Dodatne mogućnosti** da biste uvrstili dodatne uvjete ili iznimke.
 12. Kada završite, kliknite **Spremi**.
-13. Potrebna vam je dodatna pomoć? [Pogledajte videozapis o stvaranju odricanja ili Pročitajte cijeli članak.](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72?wt.mc_id=Chat_GlobalSignature)
+13. Potrebna vam je još pomoć? [Pogledajte videozapis o stvaranju izjava o odricanju odgovornosti ili pročitajte cijeli članak.](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72?wt.mc_id=Chat_GlobalSignature)

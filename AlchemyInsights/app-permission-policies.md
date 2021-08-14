@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564423"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951665"
 ---
 # <a name="app-permission-policies"></a>Pravila dozvola za aplikacije
 
-Uz [pravila dozvola za aplikacije](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)možete učiniti sljedeće:
-- Kao administrator možete upravljati pravilima postavljanja aplikacija u [centru za administratore sustava Microsoft](https://admin.teams.microsoft.com/policies/app-permission).
-- Kontrolirajte koje su aplikacije dostupne korisnicima programa Microsoft timovi u tvrtki ili ustanovi pomoću globalne politike ili [stvorite i dodijelite prilagođena pravila](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) da biste prilagodili i kontrolirali korisnički pristup aplikacijama. 
+Uz [pravilnike o dozvolama](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)za aplikacije možete učiniti sljedeće:
+- Kao administrator možete upravljati pravilima za postavljanje aplikacija u centru [za Microsoft Teams administratore](https://admin.teams.microsoft.com/policies/app-permission).
+- Upravljajte aplikacijama koje su dostupne korisnicima Microsoft Teams tvrtki ili ustanovi pomoću globalnog pravilnika ili stvorite i dodijelite prilagođene [pravilnike](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) za prilagodbu i kontrolu korisničkog pristupa aplikacijama. 
 > [!NOTE]
-> Postavke aplikacija u širokom okviru programa org nadjačavaju globalno pravilo i sva prilagođena pravila koja stvarate i dodeljujete korisnicima.
-- [Pravila postavljanja aplikacija](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) možete koristiti da biste prilagodili Microsoftove timove da biste istaknuli aplikacije koje su najvažnije za korisnike. 
+> Postavke aplikacije na razini tvrtke ili grupe nadjačavaju globalni pravilnik i prilagođene pravilnike koje stvarate i dodjeljujete korisnicima.
+- Pomoću pravilnika [za postavljanje aplikacija](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) možete Microsoft Teams da biste istaknuli aplikacije koje su najvažnije za korisnike. 
 
 
-Dodatne informacije o stvaranju pravilnika za aplikacije za svog stanara potražite u članku:
-- [Upravljanje aplikacijama u centru za administratore programa Microsoft klubovi](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Upravljanje pravilima dozvola za aplikacije u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Upravljanje prilagođenim pravilima i postavkama aplikacija u Microsoftovim timovima](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+Dodatne informacije o stvaranju pravilnika aplikacija za klijenta potražite u članku:
+- [Upravljanje aplikacijama u centru Microsoft Teams administratora](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Upravljanje pravilima dozvola za aplikacije u Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Upravljanje prilagođenim pravilima i postavkama aplikacija u Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)

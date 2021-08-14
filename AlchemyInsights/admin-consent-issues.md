@@ -1,5 +1,5 @@
 ---
-title: Problemi s pristankom za administratore
+title: Problemi s pristankom administratora
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004354"
 - "7786"
-ms.openlocfilehash: 6154b4b9cce51be3271cb25132f409319d8da14b
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: 08d3bfa84fd5ab31d7165090c392866d863898545ade7631e820a100eef89dea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49900822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952565"
 ---
-# <a name="admin-consent-issues"></a>Problemi s pristankom za administratore
+# <a name="admin-consent-issues"></a>Problemi s pristankom administratora
 
-1. Omogući [tijek rada pristanka](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) administratora da biste korisnicima dopustili zahtjev za administratorom izravno na zaslonu pristanak.
+1. Omogućite tijek [rada za pristanak administratora](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) da biste korisnicima omogućili da od administratora zatraži odobrenje izravno s zaslona za pristanak.
 
-1. Ako vam se u postupku pristanka prikazuje neočekivana pogreška, u ovom se članku radi otklanjanja poteškoća: [neočekivano pogreške prilikom izvođenja pristanka na aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Ako vi ili korisnici aplikacije tijekom postupka pristanka vidite neočekivane pogreške, upute za otklanjanje poteškoća potražite u ovom članku: Neočekivana pogreška prilikom [izvršavanja pristanka na aplikaciju.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
 
-1. Saznajte više o [pristanku za administratore na Microsoftovoj platformi identiteta](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent), kako funkcionira [upit za suglasnost](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) i kako [procijeniti zahtjev za pristanak administratora na razini korisnika](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
+1. Saznajte više o [](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) [pristanku administratora na Microsoftova platforma za identitete,](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent)kako funkcionira upit za pristanak i kako procijeniti zahtjev za pristanak administratora na razini [klijenta](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
 
-1. Aplikacije koje se integriraju sa platformom Microsoftova identiteta slijede model autorizacije koji korisnicima i administratorima omogućuje kontrolu nad načinom pristupa podacima. Implementacija modela autorizacije ažurirana je na krajnjoj točki platforme Microsoftova identiteta i mijenja način interakcije aplikacije s Microsoftovu platformom Identity. Pogledajte [dozvole i pristanak u krajnjoj točki platforme Microsoftova identiteta](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) za pregled ovog modela autorizacije, uključujući dosege, dozvole i pristanak.
+1. Aplikacije koje se integriraju Microsoftova platforma za identitete slijedite model autorizacije koji korisnicima i administratorima omogućuje kontrolu nad načinom pristupa podacima. Implementacija modela autorizacije ažurirana je na krajnjoj Microsoftova platforma za identitete i mijenja način na koji aplikacija mora stupiti u interakciju s Microsoftova platforma za identitete. Pogledajte [dozvole i pristanak u krajnjoj Microsoftova platforma za identitete za](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) pregled ovog modela autorizacije, uključujući opsege, dozvole i pristanak.

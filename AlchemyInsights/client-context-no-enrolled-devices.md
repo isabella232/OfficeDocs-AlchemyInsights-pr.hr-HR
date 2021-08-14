@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "2630"
-ms.openlocfilehash: 99e882467bdfceab4226399d3bea3950192817d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a5738d933ebe63d6ffb7e1a1008b6e3d5ea2ad47f453a4aa0028e566f344ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930531"
 ---
 # <a name="client-context---no-enrolled-devices"></a>Kontekst klijenta – nema uključenih uređaja
 
-Vaš stanar nema upisanih uređaja za upravljanje mobilnim uređajima (MDM) uz Intune. Ako želite upisati i upravljati uređajima putem Intune MDM-a, [Pregledajte dokumentaciju za](https://docs.microsoft.com/intune/device-enrollment) željenu platformu. Ako koristite MDM ili samo značajke zaštite aplikacija, nijedna akcija ne može biti potrebna. 
+Vaš klijent nema uređaje za upravljanje mobilnim uređajima (MDM) koji su se prijavili pomoću aplikacije Intune. Ako želite registrirati uređaje i upravljati njima putem programa Intune MDM, pregledajte dokumentaciju [ovdje za](https://docs.microsoft.com/intune/device-enrollment) željenu platformu. Ako koristite MDM treće strane ili samo značajke zaštite aplikacija, možda neće biti potrebne akcije. 
