@@ -1,5 +1,5 @@
 ---
-title: Prikaz postavki prikaza u sustavu Windows 10
+title: Prikaz postavki prikaza u Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6005"
 - "9003203"
-ms.openlocfilehash: ccdca6bde14980970af5e00798872e53c9b632dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f8167a354c2759e2b883eafd81a6c26b083535afa89503d701b600792f47ff1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719225"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990231"
 ---
-# <a name="view-display-settings-in-windows-10"></a>Prikaz postavki prikaza u sustavu Windows 10
+# <a name="view-display-settings-in-windows-10"></a>Prikaz postavki prikaza u Windows 10
 
-- Odaberite **početni**   >  **Settings**   >  **System**  >  **zaslon**sustava postavke.
-    -  Da biste promijenili veličinu teksta i aplikacija, na padajućem izborniku u odjeljku  **razmjer i tlocrt**odaberite mogućnost.
-    - Da biste promijenili razlučivost zaslona, upotrijebite padajući izbornik u odjeljku **razlučivost prikaza**.
+- Odaberite **Start**   >  **Postavke**   >  **System** Display ( Prikaz  >  **sustava**).
+    -  Da biste promijenili veličinu teksta i aplikacija, na padajućem izborniku u odjeljku Skaliraju i raspored odaberite  **mogućnost**.
+    - Da biste promijenili razlučivost zaslona, upotrijebite padajući izbornik u odjeljku **Razlučivost zaslona**.
      
-      **Notes** Izbjegavajte mutan ili pixelated sadržaj pomoću preporučene razlučivosti.
-    - Da biste prilagodili kalibraciju boja, u okviru za pretraživanje postavki potražite "boja prikaza" pa slijedite upute. Ako vam se ne prikazuje postavka koju tražite, pokušajte je potražiti u okviru za pretraživanje na programskoj traci za kalibriranje.
+      **Napomena** Izbjegavajte mutne ili pikselizirane sadržaje pomoću preporučene razlučivosti.
+    - Da biste prilagodili kalibraciju boje, u okviru za pretraživanje Postavke "boja prikaza" potražite i slijedite upute. Ako ne vidite postavku koju tražite, pokušajte je potražiti u okviru za pretraživanje na programskoj traci Kalibriranje.

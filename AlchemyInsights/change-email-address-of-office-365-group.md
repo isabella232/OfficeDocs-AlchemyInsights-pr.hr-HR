@@ -1,5 +1,5 @@
 ---
-title: Promjena adrese e-pošte grupe sustava Microsoft 365
+title: Promjena adrese e-pošte Microsoft 365 grupe
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: 8eaafae8650a8072cdfbec281afe6d5e93fea655
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6bd9301b983d09f6a0058fee17577b9fc695458ed205f96aacf79a87e4a91e34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819036"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930721"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a>Promjena adrese e-pošte grupe sustava Microsoft 365
+# <a name="change-email-address-of-a-microsoft-365-group"></a>Promjena adrese e-pošte Microsoft 365 grupe
 
-Adresu e-pošte grupe sustava Microsoft 365 možete promijeniti pomoću centra za administratore. Samo odaberite grupu i @uredite adresu e-pošte.
+Adresu e-pošte grupe Microsoft 365 možete promijeniti pomoću centra za administratore. Samo odaberite grupu i @uredite adresu e-pošte.
 
-Pomoću naredbe EXO PowerShell možete promijeniti i primarnu SMTP adresu grupe microsoft 365:
+Pomoću naredbe EXO PowerShell možete promijeniti i primarnu SMTP adresu grupe Microsoft 365 poslužitelja:
 
 Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>
 
