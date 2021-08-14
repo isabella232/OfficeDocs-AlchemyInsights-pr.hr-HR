@@ -1,5 +1,5 @@
 ---
-title: Probni klijent Microsoft 365 blokirao ga je spamhaus
+title: Probni Microsoft 365 klijent blokirao Spamhaus
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -12,13 +12,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 9c126ea41a376bdad2ec6b85d97442bab6a4f0a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d671b12f6b4b7cbbf92a494b1e72e5a3debe12b0517fa90285b1d4664d5486a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940039"
 ---
-# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Pogreška prilikom pokušaja korisnika programa Microsoft 365 za slanje e-pošte: klijentsko glavno računalo blokirano pomoću servisa spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Pogreška kada probni Microsoft 365 šalje e-poštu: klijentsko glavno računalo je blokirano pomoću aplikacije Spamhaus
 
-Čini se da šaljete e-poštu iz nove tvrtke Microsoft 365 Trial. Da bismo spriječili zloupotrebu, blokirali smo IP adrese za koje je poznato da su prethodno bile ugroћene. Ta se specifična provjera više ne primjenjuje nakon što počnete koristiti plaćene licence. Možda ćete moći dobiti privremeno olakšanje tako da zatražite novu IP adresu od davatelja internetskih usluga (ISP-a) ili uklanjanjem bloka s web-mjesta [spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+Čini se da šaljete e-poštu iz nove Microsoft 365 tvrtke ili ustanove. Da bismo spriječili zloupotrebu, blokiramo IP adrese za koje se zna da su prethodno ugrožene. Ta se provjera više ne primjenjuje nakon što počnete koristiti plaćene licence. Možda ćete moći privremeno olakšati pristup tako da od davatelja internetskih usluga (ISP-a) od vas traži novu IP adresu ili uklanjanjem bloka s [web-mjesta servisa Spamhaus.](https://go.microsoft.com/fwlink/p/?linkid=123245)

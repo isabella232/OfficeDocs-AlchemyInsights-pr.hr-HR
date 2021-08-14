@@ -11,19 +11,19 @@ ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
 ms.custom:
 - "7"
 - "7593"
-ms.openlocfilehash: b220f7a1b900582ba700f0e7cb5ec2a17ba0a325
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 85780ca5e90db3b4c6d04b5bacd7874b8bce0c519642b893d34bc873dc689c83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49691953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993381"
 ---
 # <a name="verify-your-domain"></a>Potvrda domene
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN?autoplay=false]
 
-Da biste potvrdili domenu, slijedite [Čarobnjak za dodavanje domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)ili ručno otvorite domene za **Postavljanje**  >    >  **dodajte domenu**.
+Da biste potvrdili domenu, slijedite [čarobnjak za dodavanje](https://admin.microsoft.com/Adminportal#/Domains/Wizard)domene ili ručno idite na **Postavljanje**  >  **domena**  >  **Dodaj domenu**.
 
-Dodatne informacije o DNS promjenama koje su potrebne za provjeru domene potražite u uputama u odjeljku [Dodavanje DNS zapisa za povezivanje domene](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Dodatne informacije o promjenama DNS-a koje su potrebne za provjeru domene potražite u uputama u članku Dodavanje [DNS zapisa za povezivanje domene](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
-Pitanja o drugim domenama potražite u članku [FAQ za domene](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Pitanja o drugim domenama potražite u [najčešćim pitanjima o domenama](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
