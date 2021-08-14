@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: b0b95f8b6460418d92314dede2ca8bc1326b033e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7b6d7fde295e963fb1e8a86171ed4b0e6e2ebc66b7136835d75f5f8c1b19f9de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988791"
 ---
 # <a name="create-a-journal-rule"></a>Stvaranje dnevničkog pravila
 
 Evo i kako:
 
-1. U [centru za administratore sustava Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104)idite na pravila temeljnice **upravljanja usklađivanjem**  >  , a zatim odaberite ikonu **Dodaj (+)** .
-2. U **pravilu nova temeljnica** Navedite naziv pravila temeljnice, a zatim Natječite sljedeća polja:  
-    - **Šaljite izvješća u temeljnici**: unesite adresu poštanskog sandučića za novinarstvo koja će primati sva izvješća iz temeljnice.  
-    - **Ako se poruka šalje ili prima od** njih: Navedite primatelja kojim će se pravilo ciljati. Možete odabrati određenog primatelja ili primijeniti pravilo na sve poruke.  
-    - **U temeljnici slijedite sljedeće poruke**: Navedite doseg pravila temeljnice. Možete temeljnica samo interne poruke, samo vanjske poruke ili sve poruke bez obzira na podrijetlo ili odredište.
-3. Odaberite **Spremi** da biste stvorili pravilo temeljnice.
+1. U centru [Exchange za administratore](https://go.microsoft.com/fwlink/p/?linkid=2059104)idite na **pravila** dnevnika usklađenosti , a  >  zatim **odaberite ikonu Dodaj (+).**
+2. U **novom pravilu dnevnika** navedite naziv pravila dnevnika, a zatim natječite se sa sljedećim poljima:  
+    - **Pošaljite izvješća dnevnika u**: Unesite adresu poštanskog sandučića dnevnika koji će primiti sva izvješća dnevnika.  
+    - **Ako je poruka poslana ili primljena od :** Navedite primatelja kojem će pravilo biti cilj. Možete odabrati određenog primatelja ili primijeniti pravilo na sve poruke.  
+    - **Dnevnik sljedećih poruka:** Navedite opseg pravila dnevnika. Možete dnevnik samo interne poruke, samo vanjske poruke ili sve poruke bez obzira na izvor ili odredište.
+3. Odaberite **Spremi** da biste stvorili pravilo dnevnika.

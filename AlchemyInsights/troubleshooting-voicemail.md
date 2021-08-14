@@ -1,5 +1,5 @@
 ---
-title: 'Poruka o otklanjanju poteškoća '
+title: 'Otklanjanje poteškoća s govornom poštom '
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972375"
 ---
-# <a name="troubleshooting-voicemail"></a>Poruka o otklanjanju poteškoća
+# <a name="troubleshooting-voicemail"></a>Otklanjanje poteškoća s govornom poštom
 
-Provjerite je li značajka zauzetosti na zaposlenom namjerna.
+Provjerite je li značajka Zauzeto na zauzetoj namjerna.
 
-Ako ta značajka nije potrebna na ovom korisniku:
+Ako ta značajka nije potrebna ovom korisniku:
 
-1. Otvorite [centar za administratore timova](https://admin.teams.microsoft.com/policies/calling).
-1. Na lijevoj traci Navigirajte **govorna**  >  **pravila** za  >  **Upravljanje pravilima** za **pravilnik o pozivu**.
+1. Idite na [Teams centar za administratore](https://admin.teams.microsoft.com/policies/calling).
+1. Na lijevoj trani krećite **se pravilnikima**  >  **za**  >  **glasovne pozivanje Upravljanje pravilnikom** za **pozivanje**.
 1. Odaberite **Upravljanje korisnicima**.
-1. Potražite korisnika i promijenite pravilnik poziva u neku koja ima **zauzetosti na zauzetosti dostupna je kada ste u pozivu** na **Isključeno**.
+1. Potražite korisnika i promijenite pravilnik pozivanja u onaj koji je zauzet u **zauzetom vremenu dostupan je** u pozivu na **Isključeno**.
 1. Kliknite **Primijeni**.
 > [!NOTE]
-> Promjena pravilnika može potrajati i do 24 sata da bi se replicirali.
+> Ponavljanje promjena pravilnika može potrajati i do 24 sata.
 
-Dodatne informacije o toj značajki upućuju na: [zauzeto na zauzeto dostupno je tijekom poziva](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+Dodatne informacije o ovoj značajki potražite u odjeljku: [Zauzeto](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)je dostupno tijekom poziva .

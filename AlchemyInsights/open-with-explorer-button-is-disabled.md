@@ -1,5 +1,5 @@
 ---
-title: Gumb Otvori pomoću Eksplorera je onemogućen
+title: Gumb Otvori pomoću eksplorera onemogućen je
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 4bfb877c52bab26eb3e43c95901857ef731d0bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694664"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944591"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>Gumb Otvori s eksplorerom je onemogućen
+# <a name="the-open-with-explorer-button-is-disabled"></a>Gumb Otvori pomoću eksplorera onemogućen je
 
-- Idite na mjesto sustava SharePoint ili OneDrive u pregledniku Internet Explorer 10 ili pregledniku Internet Explorer 11. Gumb nije kompatibilan s drugim web-preglednicima.
+- Dođite do SharePoint ili OneDrive u Internet Explorer 10 ili Internet Explorer 11. Gumb nije kompatibilan s drugim web-preglednicima.
     
 > [!NOTE]
-> Otvaranje biblioteke u eksploreru za datoteke korisno je ako jednom morate kopirati ili premještati više datoteka i mapa, no ako želite redovito raditi u biblioteci, preporučujemo da je sinkronizirate. Dodatnu pomoć i otklanjanje problema s drugim pitanjima koja se otvaraju u eksploreru za datoteke potražite [u članku otvaranje u programu Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Informacije o postavljanju sinkronizacije potražite [u članku sinkronizacija datoteka sustava SharePoint s novim klijentom za sinkronizaciju servisa OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Otvaranje biblioteke u eksploreru za datoteke praktično je ako morate kopirati ili premjestiti više datoteka i mapa jednom, ali ako želite redovito raditi u biblioteci, preporučujemo da je sinkronizirate. Dodatne informacije o pomoći i otklanjanju poteškoća s otvaranjem u eksploreru za datoteke potražite [u članku Otvaranje u eksploreru](https://go.microsoft.com/fwlink/?linkid=871665). Informacije o postavljanju sinkronizacije potražite u članku [Sinkronizacija SharePoint datoteka s novim Sinkronizacija sa servisom OneDrive klijenta](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 
