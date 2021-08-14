@@ -1,5 +1,5 @@
 ---
-title: Ograničenja i velike datoteke u sustavu SharePoint
+title: Ograničenja i velike datoteke u SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986694"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Datoteke koje nije moguće prenijeti u SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Datoteke koje nije moguće prenijeti na SharePoint online
 
-Ako se datoteka ne prenosi na SharePoint Online, provjerite:
+Ako se datoteka ne prenosi na SharePoint, provjerite:
   
-- Veličina je manja od 15 GB.
+- Manja je od 15 GB.
     
 - Cijeli put, uključujući naziv datoteke, manji je od 400 znakova.
     
-- Naziv datoteke ne sadrži znakove " \* : \< \> ? / \ | i nije na popisu [naziva koji nisu valjani](https://go.microsoft.com/fwlink/?linkid=866430).
+- Naziv datoteke ne sadrži znakove " \* : \< \> ? / \ | i ne nalazi se na popisu naziva koji nisu [valjani](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Ako datoteku pokušavate prenijeti pomoću aplikacije OneDrive za stolna računala, pročitajte članak [ograničenja i ograničenja prilikom sinkronizacije datoteka i mapa](https://go.microsoft.com/fwlink/p/?LinkID=717734) ili [otklanjanja problema sa sinkroniziranjem servisa OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
+Ako datoteku pokušavate prenijeti pomoću aplikacije OneDrive za stolna računala, pogledajte Ograničenja i ograničenja prilikom sinkronizacije datoteka i [mapa](https://go.microsoft.com/fwlink/p/?LinkID=717734) ili [Rješavanje Sinkronizacija sa servisom OneDrive problema](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

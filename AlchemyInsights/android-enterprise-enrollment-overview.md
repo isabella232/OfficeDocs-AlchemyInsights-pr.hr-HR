@@ -1,5 +1,5 @@
 ---
-title: Upis u Android Enterprise – pregled
+title: Registracija za Android Enterprise – pregled
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2496"
-ms.openlocfilehash: 23ce3850639f29324118f3d1e98d17e8b3d88c65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9561496aa8c28fe729b048561241ec39612fb42a66626eb5c83c73fdbe61d904
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932881"
 ---
-# <a name="android-enterprise-enrollment---overview"></a>Upis u Android Enterprise – pregled
+# <a name="android-enterprise-enrollment---overview"></a>Registracija za Android Enterprise – pregled
 
-Da biste u tvrtki ili ustanovi koristili upis za Android Enterprise, najprije morate [povezati Intune račun s upravljanim računom za Google Play](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise). 
+Da biste koristili prijavu za Android Enterprise u tvrtki ili ustanovi, [najprije morate Povezivanje intune račun na upravljani račun za Google Play](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise). 
 
-Nakon uspješnog povezivanja možete odabrati odgovarajuće korake za vrstu upisa na Android koji želite da korisnici slijede:
+Nakon uspješnog povezivanja možete odabrati odgovarajuće korake za vrstu registracije za Android koju želite da korisnici slijede:
 
-- [Postavljanje uvrštavanje uređaja Android Enterprise profile](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
-- [Postavljanje Intune upisa namjenskih uređaja za Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
-- [Postavljanje Intune uvrštavanje u potpuno upravljanih uređaja za Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
+- [Postavljanje registracije uređaja s radnim profilom za Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
+- [Postavljanje registracije za Intune za uređaje namjenske za Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
+- [Postavljanje registracije aplikacije Intune za potpuno upravljane uređaje sa sustavom Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
 
-Za tijek rada za postavljanje i umetanje tvrtki sa sustavom Android s pregledom FAQ pročitajte članak [Konfiguriranje i otklanjanje poteškoća sa sustavom Android Enterprise u programu Microsoft Intune](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
+Tijek rada za postavljanje i registraciju uređaja sa sustavom Android Enterprise zajedno s pregledom najčešćih pitanja potražite u članku Konfiguriranje i otklanjanje poteškoća s [uređajima sa](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune)sustavom Android Enterprise Microsoft Intune .
 
-Informacije o otklanjanju poteškoća s upisom uređaja općenito i nekim pogreškama prilikom upisa u Android potražite [u članku Otklanjanje poteškoća s uvrštenjem uređaja u programu Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Informacije o otklanjanju poteškoća s prijavom na uređaj općenito i nekim pogreškama prilikom prijave u Android potražite u članku Otklanjanje [poteškoća s prijavom na Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
 
-Ako ste zainteresirani za uvrštavanje QR kodova za COSU uređaje, pogledajte [ovaj blog](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
+Ako vas zanima mento za prijavu QR koda za UREĐAJE COSU, pogledajte [ovaj blog](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
 
-Možete koristiti i sadržaj koji [opisuje članak o otklanjanju poteškoća](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) da biste odredili koji su problemi s upisom korisnici doživjeli.
+Možete koristiti i sadržaj koji opisuje oštricu Za otklanjanje poteškoća [s programom Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) da biste utvrdili na koje se probleme s registracijom korisnici nalaze.

@@ -1,5 +1,5 @@
 ---
-title: 'Pogreška upisa u Android Enterprise: otkrivanje MGP postavljanja'
+title: 'Pogreška prilikom registracije za Android Enterprise: OTKRIVANJE SET-UP APLIKACIJE MGP'
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "8340"
-ms.openlocfilehash: 6ac90611bbe626e7f11b817965fd2d3c7fbf98c1
-ms.sourcegitcommit: c202c0df2d141e63f4f7eb13a56efbfc2f57348f
+ms.openlocfilehash: 9493d4cede39b4fb5aa41638c0f709b9025b2468ade322be6991bdad17e97d5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50508545"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932845"
 ---
-# <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Pogreška upisa u Android Enterprise: otkrivanje MGP postavljanja
+# <a name="android-enterprise-enrollment-error-mgp-set-up-detection"></a>Pogreška prilikom registracije za Android Enterprise: OTKRIVANJE SET-UP APLIKACIJE MGP
 
-Uočili smo da upravljana Google reprodukcija nije postavljena ni prekinuta za vaš račun. To može prouzročiti neuspjeh u registrirali uređaja u scenarijima tvrtke Android u kojima je potrebna upravljana veza servisa Google Play.
+Otkrili smo da upravljani Google Play nije postavljen ni prekinut za vaš račun. To može uzrokovati neuspješnu prijavu uređaja u scenarije za Android Enterprise u kojima je potrebna upravljana veza s Google Playom.
 
-Upravljani status veze u servisu Google Reproduciraj možete provjeriti u konzoli za MEM u odjeljku **administratorska administracija > status korisnika > status konektora** i pregledati sljedeću dokumentaciju da biste saznali kako povezati svoj Intune račun s upravljanim Googleovim računom: **[Povežite svoj račun za uključivanje u upravljani račun za Google Play](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)**.
+Status upravljane veze na Google Playu možete provjeriti na mem konzoli u odjeljku Administracija klijenta > Status klijenta **> Connector** i pregledati sljedeću dokumentaciju da biste saznali kako povezati račun za Intune s upravljanim Google računom: Povezivanje račun **[za Intune](https://docs.microsoft.com/mem/intune/enrollment/connect-intune-android-enterprise)** s upravljanim računom za Google Play .

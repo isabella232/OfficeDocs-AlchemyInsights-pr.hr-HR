@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1127"
 - "6700007"
-ms.openlocfilehash: a147983e4ac5ee5c1bc0a6b5932e00557e8d6c10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4b0248bdf39e083ddac2cfa84648c16a174147d97ede29e9b62e65ffd33d9f5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004398"
 ---
 # <a name="download-and-share-updates"></a>Preuzimanje i zajedničko korištenje ažuriranja
 
-Umjesto preuzimanja ažuriranja pojedinačno, način rada za preuzimanje Optimizacija isporuke omogućuje zajedničko korištenje više PC-ja. Dodatne informacije potražite u članku [Optimizacija isporuke za ažuriranja u sustavu Windows 10](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization).  
+Umjesto pojedinačnog preuzimanja ažuriranja, način preuzimanja optimizacije isporuke omogućuje zajedničko korištenje s više PC-ja. Dodatne informacije potražite u članku [Optimizacija isporuke za Windows 10 ažuriranja](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization).  
 
-Raspoloživi načini preuzimanja obuhvaćaju sljedeće:  
-- Samo HTTP  
+Dostupni načini preuzimanja obuhvaćaju sljedeće:  
+- SAMO HTTP  
 - LAN  
-- Grupi  
+- Grupa  
 - Internet  
-- Jednostavan  
-- Zaobići
+- Jednostavno  
+- Zaobilaženje
