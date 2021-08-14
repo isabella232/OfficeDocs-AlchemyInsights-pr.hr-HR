@@ -1,5 +1,5 @@
 ---
-title: Automatsko čišćenje ustajalih uređaja u programu Intune
+title: Automatsko čišćenje stalenih uređaja u programu Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "1285"
 - "6700008"
-ms.openlocfilehash: 49a15132253c59189e343aeaa1c11d450b344896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 905881f08ace7afae871ac48fa30ed1a0f15d13972cdff299a6694ca2eafc9cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715013"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997055"
 ---
-# <a name="automatic-cleanup-of-stale-devices-in-intune"></a>Automatsko čišćenje ustajalih uređaja u programu Intune
+# <a name="automatic-cleanup-of-stale-devices-in-intune"></a>Automatsko čišćenje stalenih uređaja u programu Intune
 
-Intune administratore omogućuje konfiguriranje vremenskog intervala između 90 i 270 dana, nakon čega se ustajali uređaji uklanjaju iz servisa. Ta je postavka široko organizacijska i kada se aktivira odmah stupa na sebi. Svi uređaji koji nisu potvrđeni u sustavu Intune Server za razdoblje koje prelazi postavku trajno se brišu.
+Intune administratoru omogućuje konfiguriranje vremenskog intervala između 90 i 270 dana, nakon čega se iz servisa uklanjaju stale uređaji. Ta je postavka široka i kada se aktivira, odmah će aktivirate. Svi uređaji koji nisu provjereni na intune poslužitelju tijekom razdoblja koje premašuju postavku trajno se brišu.
 
-**Notes** Samo objekti MDM uređaja imaju pravo na ovu akciju čišćenja. Ako su isključeni samo objekti uređaja.
+**Napomena** Za tu akciju čišćenja ispunjavaju samo objekti MDM uređaja. Izuzimaju se samo objekti uređaja EAS.
 
-Dodatne informacije o tome kada uređaj postane podoban za brisanje na temelju postavke čišćenja uređaja i njegova "stanja":
+Dodatne informacije o tome kada uređaj ispunjava uvjete za brisanje na temelju postavke čišćenja uređaja i njegova "stanja":
 
-Postavka: **Brisanje uređaja nakon posljednjeg datuma prijave: da (neka vrijednost (N) u određenim danima)**
+Postavka: **brisanje uređaja nakon zadnjeg datuma prijave: Da (neka vrijednost (N) u navedenim danima)**
 
-- Na temelju vrijednosti (N) konfiguriranih u postavci, poslužitelj za Intune briše uređaj u navedenim danima kada se zadnji put uspješno prijavljuje.
+- Na temelju vrijednosti (N) konfigurirane u postavki, servis Intune briše uređaj u navedenim danima nakon uspješne provjere.
 
-Postavka:  **Brisanje uređaja nakon posljednjeg datuma prijave: ne**
+Postavka:  **Brisanje uređaja nakon zadnjeg datuma prijave: Ne**
 
-- 180 dana nakon isteka certifikata uređaja i nije obnovljen, uređaj se briše.
+- 180 dana nakon isteka certifikata uređaja i ne obnovi se, uređaj se briše.
 
-**Notes** U oba slučaja uređaj mora biti uspješno registriran u programu Intune. Registracija se javlja prilikom prvog provjere uređaja pomoću servisa Intune.
+**Napomena** U oba slučaja uređaj mora biti uspješno registriran u programu Intune. Registracija se odvija tijekom prve provjere uređaja pomoću servisa Intune.
 
-Ako se uređaj uspješno uključi, ali ne postane registriran, uređaj se briše 270 dana nakon upisa. (90 dana da biste označili uređaj kao ukinut, a zatim još 180 dana da biste izbrisali zapis.)
+Ako se uređaj uspješno prijavi u Intune, ali ne postane registriran kao Intune, uređaj se briše 270 dana nakon registracije. (90 dana da biste uređaj označili kao opozvan, a zatim još 180 dana da biste izbrisali zapis.)
 
-U konzoli za Intune ne postoje mehanizmi za uspostavljanje datuma isteka certifikata uređaja za bilo koji uređaj.
+Trenutno na konzoli Intune trenutno ne postoji mehanizam za utvrđivanje datuma isteka certifikata uređaja za bilo koji uređaj.

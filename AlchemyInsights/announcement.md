@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5152"
 - "9002660"
-ms.openlocfilehash: 734aa1628b866d6fe34bfdfa63dd4de36976d2c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d38a2c915407fe9aec8198b04622c48769875f179f6b338fefae79e6b6332f2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717821"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932809"
 ---
 # <a name="announcement"></a>Najava
 
-Budite u kontaktu i budite produktivni uz timove i Microsoft 365, čak i kada radite na daljinu. Dodatne informacije potražite u članku [daljinsko rad sa sustavom Microsoft 365](https://aka.ms/remote-work).
+Ostanite u kontaktu i budite produktivni Teams i Microsoft 365, čak i kada daljinski radite. Dodatne informacije potražite u članku [Daljinski rad s Microsoft 365](https://aka.ms/remote-work).

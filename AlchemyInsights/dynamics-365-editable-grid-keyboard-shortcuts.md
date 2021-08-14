@@ -1,5 +1,5 @@
 ---
-title: Tipkovni prečaci rešetke za uređivanje sustava Dynamics 365
+title: Tipkovni prečaci rešetke sustava Dynamics 365 koji se mogu uređivati
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1708"
 - "6200013"
-ms.openlocfilehash: d64ff0eb9ceaea22921cf1817139988123c9d5a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d2dd0b2ff1b848f0c33d6488138e90474ca891b047b750361ea509ddc5f535f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004074"
 ---
-# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a>Tipkovni prečaci rešetke za uređivanje sustava Dynamics 365
+# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a>Tipkovni prečaci rešetke sustava Dynamics 365 koji se mogu uređivati
 
-* [Tipkovni prečaci za uređivanje rešetke](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
+* [Tipkovni prečaci rešetke koje je moguće uređivati](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)

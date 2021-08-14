@@ -1,5 +1,5 @@
 ---
-title: AdBlock Outlook.com
+title: Outlook.com AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 864e08c3dd9e424b7c59772274321249f2bad9f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15082cbce2d7ff041842fc7506d611bee419a003646e56d1e7488981dd4d7020
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962663"
 ---
 # <a name="adblock"></a>AdBlock
 
-Neki korisnici trenutno sadrže probleme prilikom čitanja ili skladanja e-pošte prilikom korištenja preglednika Google Chrome uz ekstenziju AdBlock. Da biste zaobišli taj problem, učinite sljedeće:
+Neki korisnici trenutno nailazi na probleme prilikom čitanja ili sastavljanja e-pošte prilikom korištenja preglednika Google Chrome s nastavkom AdBlock. Da biste zaobišli taj problem:
 
-1. Koristite [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge)   ili neki drugi web-preglednik.
-1. Izuzimanje Outlook.com iz postavki AdBlock.U gornjem desnom kutu preglednika Google Chrome odaberite **Adblock**,   a zatim na **stranicama na ovoj domeni odaberite nemoj pokretati**.Osvježite preglednik da biste ponovno učitali Outlook.com.
+1. Koristite [Microsoft Edge ili](https://www.microsoft.com/windows/microsoft-edge) neki drugi web-preglednik.
+1. Izuzmite Outlook.com iz postavki AdBlock. U gornjem desnom kutu preglednika Google Chrome odaberite **AdBlock,** a zatim odaberite Nemoj **se izvoditi na stranicama na ovoj domeni**. Osvježite preglednik da biste ponovno Outlook.com.
