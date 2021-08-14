@@ -8,16 +8,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 548f1f5b834d84a41fe6f5befc4c9e9630aa9d91
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 286390817e0141cfa12f698f62b5608a96aac259e28e27d5cdf6e0b1a935d752
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800852"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941981"
 ---
 # <a name="desktop-app-for-sharepoint"></a>Aplikacija za stolna računala za SharePoint
 
-Vaša tvrtka ili ustanova unosi se u program za privatne Pretpretpregled za aplikaciju za stolna računala za SharePoint.
+Vaša tvrtka ili ustanova unosi se u program Private Preview za aplikaciju za stolna računala za SharePoint.
 
-Microsoft trenutno ne podržava aplikaciju za stolna računala za SharePoint (privatni pretpregled). Da biste dobili pomoć za aplikaciju za stolna računala za SharePoint, upotrijebite svoje partnere za Microsoftove privatne Pretpretpregled.
+Microsoft trenutno ne podržava aplikaciju za stolna računala za SharePoint (privatni pretpregled). Upotrijebite partnere za Microsoft Private Preview da biste dobili pomoć u aplikaciji za stolna računala za SharePoint.
 

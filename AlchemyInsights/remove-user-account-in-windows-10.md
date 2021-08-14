@@ -1,5 +1,5 @@
 ---
-title: Uklanjanje korisničkog računa u sustavu Windows 10
+title: Uklanjanje korisničkog računa u Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835767"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094598"
 ---
-# <a name="remove-an-account-in-windows-10"></a>Uklanjanje računa u sustavu Windows 10
+# <a name="remove-an-account-in-windows-10"></a>Uklanjanje računa u Windows 10
 
-Evo kako ukloniti račun iz sustava Windows 10:
+Evo kako ukloniti račun iz Windows 10:
 
-1. Idite **na Start** Settings Account Family & druge osobe (ili Druge osobe ako koristite Windows  >    >    >   10 Enterprise). 
+1. Idite **na Start**  >  **Postavke**  >  **account** family &  >  **druge** osobe (ili Druge osobe ako koristite Windows 10 Enterprise).
 2. Odaberite račun koji želite ukloniti, odaberite **Ukloni**, a zatim **Izbriši račun i podatke**.
  
 **Napomena:** Ne možete izbrisati račun na koji ste trenutno prijavljeni.  Ako morate zamijeniti račun na koji ste prijavljeni:

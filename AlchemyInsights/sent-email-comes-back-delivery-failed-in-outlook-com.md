@@ -1,5 +1,5 @@
 ---
-title: 8000044 poslana e-pošta vraća se "isporuka nije uspjela" u Outlook.com
+title: 8000044 Poslana e-pošta vraća se "isporuka nije uspjela" na Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "791"
 - "8000044"
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
-ms.openlocfilehash: 0da2655f31fd74297249d9f697fc2487159d03f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e1eeabc9ef499f870d3ce14507791fc11508f52f13830b706ad1044c98454c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767852"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942683"
 ---
 # <a name="sent-email-comes-back-delivery-failed"></a>Poslana e-pošta vraća se "isporuka nije uspjela"
 
-Neuspjele isporuke ili poruke e-pošte koje se vraćaju kao neisporučive, mogu se dogoditi iz brojnih razloga. Da biste saznali više o najčešćih poruka o pogreškama, uz predložena rješenja, pročitajte članak [Slanje e-pošte u programu Outlook.com vraća se "isporuka nije uspjela"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy).
+Pogreške u isporuci ili poruke e-pošte koje se ne mogu vratiti mogu se dogoditi iz više razloga. Dodatne informacije o najčešćim porukama o pogreškama i predloženim rješenjima potražite u članku Poslana [e-pošta na Outlook.com vraća se "isporuka nije uspjela".](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy)
   

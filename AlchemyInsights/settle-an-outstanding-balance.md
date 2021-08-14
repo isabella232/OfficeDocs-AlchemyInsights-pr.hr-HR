@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5606"
-ms.openlocfilehash: 1efe2de3331d161c8344a78f28c6e39e027b8dc6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 850308452a2d32cc0dbac0d981139b25a5e9585760f63174b1db37adfe0150a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094634"
 ---
 # <a name="settle-an-outstanding-balance"></a>Podmirenje nepodmirenog salda
 
-Ako imate nepodmireni saldo, možete podmiriti saldo iz centra za administratore sustava **Microsoft 365**.
+Ako imate nepodmireni saldo, možete podmiriti saldo od **Centar za administratore okruženja Microsoft 365**.
 
 1. Idite **na odjeljak > Vaši [proizvodi](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
