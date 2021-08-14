@@ -1,5 +1,5 @@
 ---
-title: 'Azure Apps V 1,2-faza 7: prod izdanje i follow-bot'
+title: 'Azure Apps V1.2 – 7. faza: izdanje i praćenje prod-a – bot'
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "8426"
 - "9004648"
-ms.openlocfilehash: e315941723ff075ef0e831c517c4547afee9c55c
-ms.sourcegitcommit: 266126f99a020c2332a4fea516edb4ace9d14148
-ms.translationtype: MT
+ms.openlocfilehash: 72d101e50f2aac631b5001758046c6f69cd0a1e675632435574a32530a4b3095
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009924"
 ---
-# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure Apps V 1,2-faza 7: prod izdanje i follow-bot
+# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure Apps V1.2 – 7. faza: izdanje i praćenje prod-a – bot
 
-[Vodič za integraciju aplikacija drugih proizvođača](https://admin.microsoft.com/AdminPortal/Home) pomoći će vam da izvršite sljedeće zadatke: 
-- Integracija s aplikacijom iz oblaka drugih proizvođača s Azure AD, 
-- Konfiguracija mogućnosti najbolje prijave za vašu tvrtku ili ustanovu.
+Vodič [za integraciju aplikacija drugih proizvođača](https://admin.microsoft.com/AdminPortal/Home) pomoći će vam da izvršite sljedeće zadatke: 
+- Integracija aplikacije u oblaku drugih proizvođača sa servisom Azure AD, 
+- Konfiguracija najbolje mogućnosti prijave za svoju organizaciju.
 
-Integriranjem aplikacije i konfiguriranjem jedinstvene prijave Pojednostavit ćete pristup tako da korisnicima Omogućite pokretanje aplikacije iz portala **Moji Apps** u sustavu Office 365. Ovim pojednostavljenjem pristupa smanjit će se broj upita za prijavu ili ih potpuno eliminirati.
+Integriranjem aplikacije i konfiguriranjem jedinstvene prijave pojednostavniti ćete pristup tako da korisnicima omogućite pokretanje aplikacije s portala **Moje aplikacije** u Office 365. To pojednostavnjenje pristupa smanjit će broj upita za prijavu ili ih potpuno ukloniti.
