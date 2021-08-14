@@ -1,5 +1,5 @@
 ---
-title: 763 blokiranje programa Exchange Online PowerShell za korisnike
+title: 763 Blokiranje Exchange Online komponente PowerShell za korisnike
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36d4b4bb25b825dbc04cc08744c6b7af590094ca91197fe4dd3d3a92c653cb0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685518"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931405"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>Blokiranje pristupa komponenti Exchange Online PowerShell za korisnike
-Kao administrator možete blokirati pristup komponenti Exchange Online PowerShell za korisnike. Dodatne informacije potražite u sljedećim temama:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>Blokiranje pristupa Exchange Online ljuski PowerShell za korisnike
+Kao administrator možete blokirati pristup ljuski PowerShell Exchange Online korisnicima. Dodatne informacije potražite u ovim temama:
 
-- [Omogućivanje i onemogućivanje programa Access PowerShell komponente Exchange Online](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [Omogućivanje i onemogućivanje pristupa Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Pravila pristupa klijentu u sustavu Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (potražite protokol **remotepowershell** ) 
+- [Pravila klijentskog pristupa Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) programu (potražite **protokol RemotePowerShell)** 
 
-**Pažnja**: kao što je opisano u temi, budite pažljivi da ne Blokirajte pristup komponenti Exchange Online PowerShell za administratore.
+**Napomena:** kao što je opisano u temi, pazite da ne blokirate pristup Exchange Online PowerShell za administratore.

@@ -1,5 +1,5 @@
 ---
-title: Certifikat za guranje u aplikaciji Apple MDM nije postavljen
+title: AppleOV MDM push certificate nije postavljen
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "2634"
 - "9000770"
-ms.openlocfilehash: 5f95c9bee29db44a4153e0de0b8f6fb49b274920
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f8e3502a7be35b5579ec1436852fe2bff9b1316891c7a9020f6f5f4767b3d88
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931519"
 ---
-# <a name="apple-mdm-push-certificate-has-not-been-set-up"></a>Certifikat za guranje u aplikaciji Apple MDM nije postavljen
+# <a name="apple-mdm-push-certificate-has-not-been-set-up"></a>AppleOV MDM push certificate nije postavljen
 
-Potvrda dodatka Apple MDM (poznata i kao certifikat servisa Apple push notifikaciju (APN) nije konfigurirana za vašu pretplatu. Bez konfiguriranog certifikata za Apple MDM, ne možete upisati i upravljati uređajima sa sustavom iOS i Mac OS. Kada dodate certifikat u Intune, korisnici mogu instalirati aplikaciju Portal tvrtke da bi upisali svoje iOS uređaje.
+Appleov MDM push certificate (poznat i kao Appleov certifikat servisa za slanje obavijesti (APNS) nije konfiguriran za vašu pretplatu. Bez konfiguriranog appleova MDM push certifikata ne možete se prijaviti i upravljati uređajima sa sustavom iOS i Mac OS. Kada certifikat dodate u Intune, korisnici mogu instalirati aplikaciju Company Portal za registraciju uređaja sa sustavom iOS.
 
-1. Odaberite **"Slažem** se". Da biste Microsoftu dopustili poslati podatke u Apple.
+1. Odaberite **"Slažem se".** da biste Microsoftu dali dozvolu za slanje podataka Appleu.
 
-2. Odaberite **Preuzmi CSR** da biste stvorili certifikat za potpisivanje Intune certifikatom koji je potreban za stvaranje dodatka Apple MDM. Datoteka se koristi za zahtjev za certifikatom o pouzdanosti iz portala Appleov gumb za izdavanje certifikata.
+2. Odaberite **Preuzmi CSR** zahtjev za potpisivanje certifikata Intune koji je potreban za stvaranje appleova MDM push certifikata. Datoteka se koristi za zahtjev za certifikat odnosa pouzdanosti s Appleova portala za push certifikate.
 
-3. Odaberite **Stvaranje certifikata za MDM** da biste prešli na portal Apple push certifikata. Prijavite se pomoću tvrtke Apple ID, a zatim odaberite **Stvori certifikat**. Odaberite **Odaberi datoteku**, dođite do datoteke zahtjeva za potpisivanje certifikata, a zatim odaberite **Prenesi**. Na stranici za potvrdu odaberite **Preuzmi** da biste preuzeli datoteku certifikata (. Pem) i spremili datoteku lokalno.
+3. Odaberite **Stvori MDM push certificate da biste** se idite na Appleov portal za push certifikate. Prijavite se pomoću Apple ID-a tvrtke, a zatim **odaberite Stvori certifikat**. Odaberite **Odaberite Datoteka**, dođite do datoteke zahtjeva za potpisivanje certifikata, a zatim **odaberite Prijenos**. Na stranici Potvrda odaberite **Preuzmi** da biste preuzeli datoteku certifikata (.pem) pa spremite datoteku lokalno.
  
-**Pažnja**: certifikat je povezan s Appleovim ID-om koji se koristi za stvaranje. Kao najbolja praksa koristite tvrtke Apple ID za zadatke upravljanja i provjerite nadzire li poštanski sandučić više osoba ili pomoću popisa za raspodjelu. Nikad ne koristite osobni ID Apple. Koristite isti Apple ID da biste obnovili certifikat Apple push svakih 12 mjeseci.
+**Napomena:** certifikat je povezan s Apple ID-om koji se koristi za stvaranje certifikata. Kao najbolje prakse koristite Apple ID tvrtke za zadatke upravljanja i provjerite nadzire li poštanski sandučić više osoba ili pomoću popisa za raspodjelu. Nikad nemojte koristiti osobni Apple ID. Isti Apple ID koristite za obnovu Appleova push certifikata svakih 12 mjeseci.
  
-4. Unesite Apple ID koji se koristi za stvaranje certifikata za slanje Apple MDM-a. Snimite ovaj ID kao podsjetnik kada morate obnoviti certifikat.
+4. Unesite Apple ID koji se koristi za stvaranje Apple MDM push certifikata. Zabilježite taj ID kao podsjetnik kada morate obnoviti certifikat.
 
-5. Idite na datoteku certifikata (. Pem), odaberite **Otvori**, a zatim odaberite **Prenesi**. Uz certifikat push, Intune može upisati i upravljati uređajima sa sustavom Apple.
+5. Idite na datoteku certifikata (.pem), **odaberite Otvori**, a zatim **odaberite Prijenos**. Uz push certifikat Intune može registrirati Appleove uređaje i upravljati njima.

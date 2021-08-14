@@ -1,5 +1,5 @@
 ---
-title: Stvaranje potpisa e-pošte u programu Outlook na webu
+title: Stvaranje potpisa e-pošte u Outlook na webu
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 02f579a6b7570037261959419a6ea9586707b76e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3bb83a4f68c49b3d30843299e6b42b9e9b9226245ebd41e75831694b95839c46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949523"
 ---
-# <a name="create-an-email-signature-in-outlook-on-the-web"></a>Stvaranje potpisa e-pošte u programu Outlook na webu
+# <a name="create-an-email-signature-in-outlook-on-the-web"></a>Stvaranje potpisa e-pošte u Outlook na webu
 
 1. Prijavite se u Outlook na webu.
-2. Na gornjoj navigacijskoj traci odaberite **Postavke**  >  **e-pošte**.
-3. Na ploči **mogućnosti** u odjeljku **pošta** odaberite **Prikaz**  >  **potpisa e-pošte**.
-4. U tekstni okvir upišite potpis i koristite dostupne mogućnosti oblikovanja da biste promijenili njegov izgled.
+2. Na gornjoj navigacijskoj traci odaberite **Postavke**  >  **Pošta**.
+3. Na ploči **Mogućnosti u** odjeljku Pošta **odaberite Potpis** **e-pošte**  >  **rasporeda**.
+4. U tekstni okvir upišite potpis i promijenite njegov izgled pomoću dostupnih mogućnosti oblikovanja.
 
-**Savjet:** Umetanje slikovne datoteke (primjerice u obliku. gif ili. jpg) za potpis nije podržano, ali možete kopirati sliku s web-stranice i zalijepiti je u okvir za potpis.
+**Savjet:** Umetanje slikovne datoteke (primjerice, u obliku .gif ili .jpg) za potpis nije podržano, ali možete kopirati sliku s web-stranice i zalijepiti je u okvir za potpis.
 
-5. Ako želite da se potpis prikazuje pri dnu svih odlaznih poruka e-pošte, uključujući odgovore i prosljeđivanja, odaberite **automatski uvrstite moj potpis na nove poruke koje sastavljate**.
+5. Ako želite da se potpis prikazuje pri dnu svih odlaznih poruka e-pošte, uključujući odgovore i prosljeđivanja, odaberite Automatski uvrsti moj potpis u **nove poruke koje sastavim**.
 6. Kliknite **Spremi**.

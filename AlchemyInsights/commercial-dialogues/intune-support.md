@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 6fc37fc2c80387f8ea991bc3b3d1ae88618057cd
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2f1ce5af0a37cfa32a798a63a4208c512f9c651a8103ad2402ee3dd592a952eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743851"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949415"
 ---
 # <a name="intune-support"></a>Podrška za Intune
 
-Ovaj je dijalog dio postupka podrške za Intune. Ako nemate problem vezan uz Intune, učinite nešto od sljedećeg:
+Taj je dijalog dio postupka podrške za Intune. Ako nema problema s intuneom, učinite nešto od sljedećeg:
 
-- [Za upravitelja konfiguracije ili Co-Management support kliknite ovu vezu i odaberite odgovarajuću pločicu.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
-- [Da bi vam se onemogućivali problemi s upraviteljem neisključenih krajnjih točaka, slijedite ovu vezu, a zatim kliknite gumb pomoć u gornjem desnom kutu portala za administratore.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)
+- [Za Upravitelj konfiguracije ili Co-Management kliknite tu vezu i odaberite odgovarajuću pločicu.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
+- [Za probleme koji nisu Intune, problemi s upraviteljem krajnjim točkama slijedite ovu vezu, a zatim kliknite gumb pomoći u gornjem desnom kutu portala za administratore.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)

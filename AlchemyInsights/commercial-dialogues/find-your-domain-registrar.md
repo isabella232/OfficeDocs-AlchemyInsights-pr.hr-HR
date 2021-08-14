@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 0a3f35489337e641ea0a300618c5336417262056
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 3ed5fadebfe188c399cb80abf57f0a08033a0930e72bc7e77bd9ac889638fe60
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743892"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949481"
 ---
 # <a name="find-your-domain-registrar"></a>Pronalaženje registrara domena
 
 U drugom prozoru preglednika slijedite ove korake:
 
-1. Na [stranici internic Search](https://lookup.icann.org/)(pretraživanje **Whois** -a) upišite svoju domenu. Na primjer, **contoso.com**. Nazivi domena koji završavaju kombinacijom dvaju slova (kao što je **. ca** ili **. jp** ) neće funkcionirati s ovim alatom.
-2. Odaberite mogućnost **domena** , a zatim kliknite **Pošalji**.
-3. Na stranici s **rezultatima pretraživanja za Whois** Pronađite zapis registrar. Ovaj unos sadrži popis tvrtki ili ustanova koje pružaju servis registrara za vašu domenu.
+1. Na [stranici internic pretraživanja](https://lookup.icann.org/)u okvir **Whois Search (Pretraživanje servisa Whois)** upišite svoju domenu. Na primjer, **contoso.com**. Nazivi domena koji završavaju kombinacijama s dva slova (npr. **.ca** ili **.jp)** neće funkcionirati s ovim alatom.
+2. Odaberite **mogućnost** Domena, a zatim **kliknite Pošalji**.
+3. Na **stranici Rezultati pretraživanja whois** pronađite unos registrara. U ovom se unosu navode tvrtke ili ustanove koje pružaju usluge registrara za vašu domenu.
