@@ -1,5 +1,5 @@
 ---
-title: Zatražite od sustava Office 365 da potvrdi vašu domenu
+title: Zatražite Office 365 potvrdite svoju domenu
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 432ae69a244b22bcbc8826702c17da00040752d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e4089c8c81012c1c579c21ad6b5b5fe7ecea51ccd2324ef208818bb7242e4af4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949595"
 ---
-# <a name="ask-office-365-to-verify-your-domain"></a>Zatražite od sustava Office 365 da potvrdi vašu domenu
+# <a name="ask-office-365-to-verify-your-domain"></a>Zatražite Office 365 potvrdite svoju domenu
 
-Kada Office 365 pronađe točan TXT zapis, vaša je domena potvrđena. Da biste zamolili Office 365 da potvrdi vašu domenu, učinite sljedeće:
+Kada Office 365 odgovarajući TXT zapis, domena će biti potvrđena. Da biste Office 365 potvrdili svoju domenu, učinite sljedeće:
 
-1. Provjerite nalazite li se na stranici **Potvrda domene** . Ako trenutno ne radite na ovoj stranici, odaberite **postavljanje > domene**, odaberite domenu koju potvrđujete, a zatim kliknite **Pokreni postavljanje** ili **Nastavi postavljanje**. Možete sletjeti na stranicu **Potvrda domene** .
+1. Provjerite jeste li na **stranici Potvrdi** domenu. Ako trenutno niste na ovoj stranici, odaberite **Postavljanje > Domene**, odaberite domenu koju potvrđujete, a zatim kliknite Pokreni **postavljanje** ili **Nastavi postavljanje**. Sletete na **stranicu Potvrdi** domenu.
 
-2. Kliknite **potvrdi**.
+2. Kliknite **Potvrdi**.
 
-Za promjene DNS-a, obično je potrebno oko 15 minuta. No povremeno može potrajati i dulje promjene koje ste napravili za ažuriranje putem DNS sustava interneta.
+Promjena DNS-a obično traje oko 15 minuta. No katkad je potrebno više vremena za promjenu koju ste napravili za ažuriranje putem DNS sustava interneta.
 

@@ -1,5 +1,5 @@
 ---
-title: Oporavak izbrisane poruke e-pošte u programu Outlook.com
+title: Oporavak izbrisane e-pošte na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,23 +14,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: c24980ff28d0400faadfa413eacfba37401068a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922a793fa37a3b02502d8d7368e30f4e9335144b4b39e61ea956ea708cebf07f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095348"
 ---
 # <a name="recover-deleted-email-outlookcom"></a>Oporavak izbrisane poruke e-pošte Outlook.com
 
-1. U levom oknu odaberite **Izbrisane stavke**.
-2. Odaberite stavku koju želite oporaviti, a zatim odaberite **Vrati**.
-3. Ako poruka nije u izbrisanim stavkama, odaberite **oporavi stavke izbrisane iz ove mape** pri vrhu prozora.
+1. U lijevom oknu odaberite **Izbrisane stavke**.
+2. Odaberite stavku koju želite oporaviti i odaberite **Vrati**.
+3. Ako poruka nije u odjeljku Izbrisane stavke, **pri** vrhu prozora odaberite Oporavi stavke izbrisane iz te mape.
 
  **Važne informacije o izbrisanim stavkama:**
   
 - Stavke uklonjene iz mape Izbrisane stavke mogu se oporaviti 30 dana.
-- Ako se niste prijavili na račun za 365 dana, vaša će se e-pošta izbrisati i neće se moći oporaviti.
-- Nije moguće oporaviti e-poštu izbrisane iz podređenih računa.
+- Ako se na račun niste prijavili 365 dana, poruka e-pošte izbrisat će se i neće se moći vratiti.
+- Nije moguće oporaviti e-poštu izbrisanu s podređenih računa.
 
-Dodatne informacije potražite u članku [Vraćanje izbrisanih poruka e-pošte na servisu Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Dodatne informacije potražite u članku Vraćanje [izbrisanih poruka e-pošte na Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
