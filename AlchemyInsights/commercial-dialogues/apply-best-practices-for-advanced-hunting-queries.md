@@ -1,5 +1,5 @@
 ---
-title: Primjena najboljih postupaka za napredne lovačke upite
+title: Primjena najboljih praksi za napredne upite o lovanju
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd13e2e8801db3df91140ce371813d900d72e38b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e2a22563a840cd6017afd343bad108be216738742938a48ba5ceb1010fd16098
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930125"
 ---
-# <a name="apply-best-practices-for-advanced-hunting-queries"></a>Primjena najboljih postupaka za napredne lovačke upite
+# <a name="apply-best-practices-for-advanced-hunting-queries"></a>Primjena najboljih praksi za napredne upite o lovanju
 
-Da biste ubrzali rezultate i izbjegli vremenske korake tijekom izvođenja složenih upita, primijenite ove najbolje prakse:
+Da biste brže dobili rezultate i izbjegli timeouts tijekom pokretanja složenih upita, primijenite sljedeće najbolje prakse:
 
-- Prilikom pokušaja novih upita uvijek koristite ograničenje da biste izbjegli krajnje velike skupove rezultata. Upotrijebite i `count` da biste postavili početnu ocjenu veličine skupa rezultata.
-- Najprije koristite filtre vremena. U idealno, ograničite upite na sedam dana.
-- Na početku upita odmah nakon filtra vremena Dodajte filtre za koje se očekuje da će ukloniti većinu podataka.
-- Kada tražite pune žetone, koristite operator, `has` a ne `contains` .
-- Pokrenite pretraživanje na određenom stupcu, a ne u svim stupcima.
-- Kada se pridružite tablicama, najprije navedite tablicu s manje redaka.
-- `project` Samo potrebne stupce iz tablica kojima ste se pridružili.
+- Prilikom pokušaja novih upita uvijek koristite ograničenje da biste izbjegli dobivanje vrlo velikih skupova rezultata. Uz `count` to, koristite se za početnu procjenu veličine skupa rezultata.
+- Najprije upotrijebite vremenske filtre. U idealnom su redu da upite ograničite na sedam dana.
+- Na početku upita odmah nakon filtra vremena dodajte filtre za koje se očekuje da će ukloniti većinu podataka.
+- Kada tražite pune tokene, koristite operator umjesto `has` `contains` .
+- Pokrenite pretraživanje na određenom stupcu umjesto u svim stupcima.
+- Prilikom pridruživanja tablicama najprije navedite tablicu s manje redaka.
+- `project` samo potrebne stupce iz tablica koje ste pridružili.
 
-Dodatne informacije potražite u članku [najbolje prakse za napredne lovačke upite](https://go.microsoft.com/fwlink/?linkid=2144812).
+Dodatne informacije potražite u članku [Napredne prakse lovačkog upita](https://go.microsoft.com/fwlink/?linkid=2144812).

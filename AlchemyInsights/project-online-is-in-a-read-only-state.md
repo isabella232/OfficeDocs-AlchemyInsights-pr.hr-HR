@@ -1,5 +1,5 @@
 ---
-title: Project online nalazi se u stanju samo za čitanje
+title: Project Online je u stanju samo za čitanje
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1776"
 - "9000205"
-ms.openlocfilehash: ad2a9f95bf30708772edb166945f3f42e0f1f503
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 988d87ca43f5394728b77561edd8e26fa0668f4ad876a5fcd09cf739092a4d6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063008"
 ---
-# <a name="project-online-is-in-a-read-only-state"></a>Project online nalazi se u stanju samo za čitanje
+# <a name="project-online-is-in-a-read-only-state"></a>Project Online je u stanju samo za čitanje
 
-Postoje tri najčešća razloga zašto projekt online može dosegnuti državu samo za čitanje:
+Tri su uobičajena razloga zašto Project Online može doseći stanje samo za čitanje:
 
-1. Tvrtke ili ustanove imaju samo licence za Project online Essentials. To nije dovoljno da web-mjesto zadrži na životu i na kraju će biti nedodijeljeni.Web-mjesto smještamo u stanje samo za čitanje tako da administratori znaju da nešto nije u redu i da mogu steći ispravne licence. Administratori će morati dodati profesionalnu licencu za Project online i/ili Premium. Web-mjesto će iz tog trenutka izaći samo za čitanje. Dodatne informacije potražite u članku [Usporedba rješenja za upravljanje projektima](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Dodijeljena je kvota. Dodatne informacije potražite u članku [kvota Project Web App](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota). Provjerite jesu li [kumulativne vrijednosti vremenske izvještaje u programu Project online konfigurirani](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) da biste vidjeli kako zrnatost izvješćivanja može utjecati na korištenje kvota.
-3. Samo za čitanje može biti vrlo privremeno stanje koje se može pojaviti tijekom održavanja. Većina održavanja nije čak ni primjetan od strane naših kupaca i to vam se neće često prikazivat, ali postoje trenuci kada se doživljava kratka razdoblja samo za čitanje.
+1. Tvrtke ili ustanove imaju samo Project Online Essentials licenci. To nije dovoljno da bi web-mjesto bilo živo i naposljetku će se vratiti dodjela resursa. Web-mjesto smjestimo u stanje samo za čitanje da bi administratori znali da nešto nije u redu i da bi mogli nabaviti odgovarajuće licence. Administratori će morati dodati licencu Project Online Professional i/ili premium licencu. Web-mjesto će u tom trenutku izaći samo za čitanje. Dodatne informacije potražite u članku [Usporedba Project rješenja za upravljanje .](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. Dostignute su dodijeljene kvote. Dodatne informacije potražite u članku [Kvota Project web-aplikacije](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota). Potvrdite [okvir Konfiguriraj skupno ažuriranje podataka s vremenskom izjavom u Project Online](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) da biste vidjeli kako izvješćivanje o granularnosti može utjecati na korištenje kvote.
+3. Samo za čitanje može biti vrlo privremeni uvjet koji se može pojaviti tijekom održavanja. Naši korisnici ne primjećuju većinu održavanja i to često nećete vidjeti, ali ponekad je došlo do kratkih razdoblja samo za čitanje.

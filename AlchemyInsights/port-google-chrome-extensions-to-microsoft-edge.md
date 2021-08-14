@@ -15,15 +15,15 @@ ms.custom:
 - "7102"
 - "8297"
 - "9004617"
-ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 34ec7e71a2f27eb5b46395876a4d1c903189be1050e523796c9f2a817c20aaa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973689"
 ---
 # <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Port Google Chrome extensions to Microsoft Edge (Chromium)
 
-Proširenja preglednika Google Chrome jednostavno je priključak [na Microsoft Edge (Chromium).](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) U većini slučajeva za pokretanje tih proširenja u pregledniku Microsoft Edge potrebne su samo minimalne promjene.
+Proširenja preglednika [Google Chrome jednostavno je priključak na Microsoft Edge (Chromium).](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) U većini slučajeva potrebne su samo minimalne promjene za pokretanje tih proširenja na Microsoft Edge.
 
-API-jevi proširenja i ključevi manifesta koje podržava Google Chrome kompatibilni su s kodom s preglednikom Microsoft Edge. No Microsoft Edge ne podržava proširenje API-ja chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken i chrome.instanceID.
+API-jevi proširenja i ključevi manifesta koje podržava Google Chrome kompatibilni su s kodom Microsoft Edge. No Microsoft Edge podržava proširenje API-ja chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken i chrome.instanceID.
