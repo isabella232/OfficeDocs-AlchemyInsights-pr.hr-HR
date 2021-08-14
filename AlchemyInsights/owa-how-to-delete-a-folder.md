@@ -14,18 +14,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: 7b53932df90e66cc2cee6482342100d7c7df01b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36eef08dc4706fabd068d63710e944eafd14b24a0913d9408496cffd2d0b0ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063224"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Brisanje mape u programu Outlook na webu
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Brisanje mape u aplikaciji Outlook na webu
 
-1. U oknu mape desnom tipkom miša kliknite mapu ili podmapu koju želite izbrisati.
+1. U oknu s mapama desnom tipkom miša kliknite mapu ili podmapu koju želite izbrisati.
 2. Odaberite **Izbriši mapu**.
-3. Odaberite **u redu** da biste potvrdili.
+3. Odaberite **U redu** da biste potvrdili.
 
-Dodatne informacije potražite u članku [rad s mapama poruka u programu Outlook na webu](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Dodatne informacije potražite u članku [Rad s mapama poruka Outlook na webu](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 
