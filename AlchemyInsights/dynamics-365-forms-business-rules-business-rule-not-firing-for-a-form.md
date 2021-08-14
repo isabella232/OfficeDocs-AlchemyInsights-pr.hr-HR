@@ -1,5 +1,5 @@
 ---
-title: Dinamika 365 Forms poslovna pravila-poslovno pravilo ne puca za obrazac
+title: Poslovna pravila sustava Dynamics 365 Forms – poslovno pravilo koje se ne ispaljuje za obrazac
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 2b42b007d8eecc65f098f71b5af7decd19aab505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 085656b40cab5c918e58a821db9ad8399aa37cda871c00a7ed51411c4b733576
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947219"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a>Poslovno pravilo ne puca za obrazac
+# <a name="business-rule-not-firing-for-a-form"></a>Poslovno pravilo koje se ne koristi za obrazac
 
-Pravilo tvrtke ne može se izvršiti jer polje na koje se upućuje u poslovnom pravilu nije obuhvaćeno obrascem. Dodatne informacije potražite u članku nije li [vaše poslovno pravilo da se ne puca za obrazac?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).
+Poslovno pravilo možda se neće izvršiti jer polje na koje se upućuje u poslovnom pravilu nije obuhvaćeno obrascem. Dodatne informacije potražite u članku [Ne ispaljuje li vaše poslovno pravilo za obrazac?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).

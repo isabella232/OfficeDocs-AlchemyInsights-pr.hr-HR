@@ -1,5 +1,5 @@
 ---
-title: XML shema obrasca Dynamics 365
+title: XML shema obrasca sustava Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d8d652e991c0ebaae6a79230a5fd0fcacf8ce6bbdf2622dfdcc448cc7e2353c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947255"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Ograničenja web-stranice (HTML-a)
+# <a name="webpage-html-web-resources-limitations"></a>Ograničenja web-resursa web-stranice (HTML-a)
 
-* HTML web-resurs ne može sadržavati nijedan kod koji se mora izvršavati na poslužitelju. ASP.NET stranice nije moguće prenijeti kao HTML web-resurse.
+* HTML web-resurs ne može sadržavati kod koji se mora izvršiti na poslužitelju. ASP.NET nije moguće prenijeti kao HTML web-resurse.
 
-* HTML web-resursi mogu prihvatiti samo ograničeni broj parametara niza upita. Dodatne informacije: [prosljeđivanja parametara u HTML web-resurse](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* HTML web-resursi mogu prihvatiti samo ograničen broj parametara niza upita. Dodatne informacije: [Dodavanje parametara u HTML web-resurse](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Web-stranice (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Web-resursi web-stranice (HTML- a)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

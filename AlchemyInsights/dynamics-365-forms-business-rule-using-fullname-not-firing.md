@@ -1,5 +1,5 @@
 ---
-title: Dinamika 365 Forms poslovno pravilo pomoću polja fullname ne puca
+title: Pravilo tvrtke u sustavu Dynamics 365 Forms pomoću polja s punim nazivom koje se ne može ispaljivati
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1928"
 - "6200018"
-ms.openlocfilehash: 50588b25d1cb23daee188c6be9132142f8ae98c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccb50ae836357ef48cd0b4a2a640cceb0a1ff88137e79a57d4fcd9027994ce45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711519"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947398"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Polje s punim imenom nije podržano pomoću objedinjenih aplikacija za inteface
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Polje Puno ime nije podržano u objedinjenim inteface aplikacijama
 
-Akcije ili uvjeti koji koriste polje **puni naziv** (fullname) nisu podržani u aplikacijama koje se temelje na Ujedinjenom sučelju. Umjesto toga možete koristiti akcije ili uvjete s poljima **ime** (ime) i **prezime** (LastName).
+Akcije ili uvjeti koji koriste **polje Puno** ime i prezime (puno ime) nisu podržani u aplikacijama na temelju objedinjenog sučelja. Možete i koristiti akcije ili uvjete s poljima **Ime** (ime) **i** Prezime (prezime).
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

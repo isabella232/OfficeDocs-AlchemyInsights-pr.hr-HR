@@ -1,5 +1,5 @@
 ---
-title: Vanjski korisnici primaju pogreške uz dozvolu prilikom pristupanja web-mjestu
+title: Vanjski korisnici primaju pogreške s dozvolama prilikom pristupa web-mjestu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "7521"
-ms.openlocfilehash: f6211b4bb295e87cbdf0441491d87cf0081d6342
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: d944c9d6d362861b43afca0f8dcdcb2294da48fb3d7e31da54e2f3b2dae18e42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945995"
 ---
-# <a name="external-users-receive-permission-errors-when-accessing-a-site"></a>Vanjski korisnici primaju pogreške uz dozvolu prilikom pristupanja web-mjestu
+# <a name="external-users-receive-permission-errors-when-accessing-a-site"></a>Vanjski korisnici primaju pogreške s dozvolama prilikom pristupa web-mjestu
 
-Postoje mnogi scenariji koji mogu zatražiti poruke o pogreškama prilikom zajedničkog korištenja. 
+Postoji mnogo scenarija koji mogu zatražiti poruke o pogreškama tijekom zajedničkog korištenja. 
 
-Dodatne informacije potražite u članku [pogreške s dozvolama prilikom pristupanja sustavu SharePoint Online ili OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).
+Dodatne informacije potražite u članku [Pogreške dozvola prilikom pristupa](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)servisu SharePoint Online ili OneDrive .

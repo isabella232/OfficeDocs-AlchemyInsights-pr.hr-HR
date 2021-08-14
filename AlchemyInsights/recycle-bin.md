@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 6cfb01fbe117fe3c1d3c3bddbec9f5a8188066ae
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 1a4843f43e1f5a261b06a0beca1231380a25c302605a2a82ef7143791f2964e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709206"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991609"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>Vraćanje stavki u sustavu SharePoint Online
+# <a name="restore-items-in-sharepoint-online"></a>Vraćanje stavki na servisu SharePoint Online
 
-Kada izbrišete stavke u sustavu SharePoint Online, sačuvat će se za ukupno 93 dana. Ostaju u smeću u košu za smeće cijelo vrijeme, osim ako ga ne ispraznite ili izbrišete iz nje. U tom slučaju stavke odlaze u koš za smeće zbirke web-mjesta, gdje ostaju do kraja ostatka 93 dana. Na kraju vremena stavke se trajno brišu. Da biste vratili izbrisane stavke iz koša za smeće web-mjesta, učinite sljedeće:
+Kada izbrišete stavke u SharePoint online, one se zadržavaju ukupno 93 dana. Ostaju u košu za smeće web-mjesta cijelo vrijeme, osim ako ga ne ispraznite ili izbrišete stavke iz njega. U tom slučaju stavke se otvaraju u koš za smeće zbirke web-mjesta, gdje ostaju do ostatka od 93 dana. Na kraju vremena stavke se trajno brišu. Da biste izbrisane stavke vratili iz koša za smeće web-mjesta:
   
-1. Idite na web-mjesto i kliknite **koš** za smeće u desnom oknu. 
+1. Idite na web-mjesto i **kliknite Koš za smeće** u lijevom oknu. 
     
-    Ako u lijevom oknu ne vidite **Koš za smeće** , kliknite ikonu Postavke u gornjem desnom kutu, a zatim kliknite **sadržaj web-mjesta**. Koš za smeće nalazi se na krajnjem desnom kutu naredbenog trake pri vrhu.
+    Ako u lijevom oknu ne **vidite koš** za smeće, kliknite ikonu Postavke u gornjem desnom kutu, a zatim Sadržaj **web-mjesta**. Koš za smeće nalazi se na desnom mjestu naredbene trake pri vrhu.
     
-2. Na stranici **Koš za** smeće odaberite stavke koje želite vratiti tako da pokažete na njih i kliknete ikonu kvačice koja će se prikazati. 
+2. Na **stranici Koš za smeće odaberite** stavke koje želite vratiti tako da ih usmjerite na njih i kliknete ikonu potvrdne oznake koja će se prikazati. 
     
 3. Kliknite **Vrati**.
     

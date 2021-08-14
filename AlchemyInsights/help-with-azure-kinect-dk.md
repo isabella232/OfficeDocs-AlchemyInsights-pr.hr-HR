@@ -1,5 +1,5 @@
 ---
-title: Pomoć s programom Azure Kinect DK
+title: Pomoć za Azure Kinect DK
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9744"
 - "9005643"
-ms.openlocfilehash: e043a3eff39f9fcfd5adbea8a93a6c4ac792913a
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
-ms.translationtype: HT
+ms.openlocfilehash: d5277cf2be141c1e0e650c1a80593cb7e3eead0b7d33f3c51f2325abfcf618b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51122835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945770"
 ---
-# <a name="help-with-azure-kinect-dk"></a>Pomoć s programom Azure Kinect DK
+# <a name="help-with-azure-kinect-dk"></a>Pomoć za Azure Kinect DK
 
-Za Azure Kinect DK Quickstart vodiče (postavljanje, pomoć za razvojne inženjere), upute za vodiče i otklanjanje poteškoća, pročitajte članak [Azure Kinect DK](https://docs.microsoft.com/azure/kinect-dk/).
+Vodiči za brzi početak rada za Azure Kinect DK (postavljanje, pomoć za razvojne inženjere), vodiči i otklanjanje poteškoća potražite u članku [Dokumentacija sustava Azure Kinect DK](https://docs.microsoft.com/azure/kinect-dk/).
 
 
-Pomoć za Xbox Kinect potražite u članku [Podrška za Xbox Kinect](https://www.xbox.com/Search?q=kinect&rtc=1#nav-support).
+Pomoć za Xbox Kinect, pogledajte [Podrška za Xbox Kinect](https://www.xbox.com/Search?q=kinect&rtc=1#nav-support).

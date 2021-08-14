@@ -1,5 +1,5 @@
 ---
-title: Oporavak izbrisanih strujanja videozapisa iz koša za smeće
+title: Oporavak izbrisanih videozapisa strujanje iz koša za smeće
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "8282"
-ms.openlocfilehash: 173df399f90ed2bae9b4b91d0f731bee7984c9ab
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 48e3aa2ac47b031f8380c6a03b43eb22419ba89eb149b98a0b63b71f3713ca0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959423"
 ---
-# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Oporavak izbrisanih strujanja videozapisa iz koša za smeće
+# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Oporavak izbrisanih videozapisa strujanje iz koša za smeće
 
-Kada se videozapisi brišu u programu Microsoft Stream, odlaze u koš za smeće od 30 dana.
+Kada se videozapisi brišu u programu Microsoft Stream, oni se nalaze u 30-dnevnom košu za smeće.
 
-Koš za smeće videozapisa omogućuje vraćanje videozapisa Ako su ih slučajno izbrisali ili za trajno brisanje videozapisa koji su već u košu za smeće prije ograničenja 30 dana.
+Koš za smeće videozapisa omogućuje vraćanje videozapisa ako su slučajno izbrisani ili trajno brisanje videozapisa koji su već u košu za smeće prije ograničenja od 30 dana.
 
-Dodatne informacije potražite u članku:
+Dodatne informacije potražite u sljedećim člancima:
 
 - [Oporavak izbrisanih videozapisa iz koša za smeće](https://docs.microsoft.com/stream/portal-my-recycle-bin)
-- [Koš za smeće videosadržaja za administrator strujanja](https://docs.microsoft.com/stream/admin-recycle-bin)
+- [Koš za smeće videozapisa za administratora streama](https://docs.microsoft.com/stream/admin-recycle-bin)
