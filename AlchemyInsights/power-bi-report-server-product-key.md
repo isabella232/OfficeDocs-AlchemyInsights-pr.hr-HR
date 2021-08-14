@@ -1,5 +1,5 @@
 ---
-title: Ključ proizvoda za Power BI Report Server
+title: Power BI Report Server Ključ proizvoda
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bdc5b186e8de2c2b7c4f84ebd852520ac28274eb3f1baf0dba568cdb6d10e579
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973257"
 ---
-# <a name="power-bi-report-server-product-key"></a>Ključ proizvoda za Power BI Report Server
+# <a name="power-bi-report-server-product-key"></a>Power BI Report Server ključ proizvoda
 
-Ako ste kupili Power BI Premium, na kartici **Premium postavke** na portalu za administratore dodatka Power BI imate pristup ključu proizvoda za Power BI Report Server. To je dostupno samo za globalne administratore ili korisnike kojima je dodijeljena uloga administratora servisa Power BI.
+Ako ste kupili Power BI premium, **na kartici premium na** portalu za administratore dodatka Power BI imate pristup ključu Power BI Report Server proizvoda. To je dostupno samo za globalne administratore ili korisnike kojima je dodijeljena uloga administratora servisa Power BI.
 
-Odabirom **ključa poslužitelja izvješća dodatka Power BI** prikazat će se dijaloški okvir s ključem proizvoda. Možete ga kopirati i koristiti uz instalaciju.
+Odabirom **Power BI Report Server prikazuje** se dijaloški okvir s ključem proizvoda. Možete ga kopirati i koristiti uz instalaciju.
 
-Ako imate ugovor za SQL Server Enterprise SA, ključ proizvoda možete dobiti u servisnom centru za [količinsko licenciranje](https://www.microsoft.com/Licensing/servicecenter/).
+Ako imate ugovor SQL Server Enterprise SA, ključ proizvoda možete dobiti u servisnom centru za [količinsko licenciranje](https://www.microsoft.com/Licensing/servicecenter/).
 
 Dodatne informacije: https://docs.microsoft.com/power-bi/report-server/install-report-server

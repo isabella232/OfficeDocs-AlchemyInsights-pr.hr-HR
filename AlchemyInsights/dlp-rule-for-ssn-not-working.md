@@ -13,12 +13,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f30998fb3bc4c5442e4e1541b87d88ecd7df6eef3a50e719fa5014eb86af39c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004974"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP problemi s brojevima socijalnog osiguranja
 
@@ -26,31 +26,31 @@ ms.locfileid: "47679361"
 
 **DLP problemi s SSN-om**
 
-Imate li problema s **prevencijom gubitka podataka (DLP)** ne radi za sadržaj koji sadrži **broj socijalnog osiguranja (SSN)** kada koristite vrstu osjetljive informacije u programu Microsoft 365? Ako je tako, provjerite sadrži li sadržaj potrebne informacije o tome što pravilnik programa DLP traži. 
+Imate li problema s sprječavanjem gubitka podataka **(DLP)** koji ne funkcionira za sadržaj koji sadrži broj socijalnog osiguranja **(SSN)** prilikom korištenja osjetljive vrste podataka u Microsoft 365? Ako je tako, provjerite sadrži li sadržaj potrebne informacije o tome što DLP pravilnik traži. 
   
-Primjerice, ako je pravilo SSN konfigurirano uz razinu pouzdanosti od 85%, procjenjuje se sljedeće i mora se otkriti da bi se pravilo pokrenulo:
+Na primjer, za pravilnik SSN konfiguriran s razinom pouzdanosti od 85%, procjenjuje se sljedeće i mora se otkriti da bi se pravilo pokrenulo:
   
-- **[Oblik:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 znamenaka, koje se mogu oblikovati u oblikovani ili neoblikovani uzorak
+- **[Oblikovanje:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 znamenki, koje mogu biti u oblikovanom ili neoblikovljenom uzorku
 
-- **[Uzorak:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Četiri funkcije traže SSN-ove u četiri različita uzorka:
+- **[Uzorak:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Četiri funkcije u četiri različita uzorka potražite SSN-ove:
 
-  - Func_ssn pronalazi SSN-ove s pret2011 snažnim oblikovanjem koje su oblikovane crtice ili razmaci (DDD-DD-dddd ili DDD DD dddd)
+  - Func_ssn pronalazi SSN-ove s jakim oblikovanjem prije 2011. oblikovanim crticama ili razmacima (ddd-dd-dddd OR ddd dddd)
 
-  - Func_unformatted_ssn pronalazi SSN-ove s pret2011 jakim oblikovanjem koje su neoblikovane kao devet uzastopnih znamenki (ddddddddd)
+  - Func_unformatted_ssn pronalazi SSN-ove s jakim oblikovanjem prije 2011. koje nije oblikovano kao devet uzastopnih znamenki (ddddddddddd)
 
-  - Func_randomized_formatted_ssn pronalazi SSN-ove za post-2011 koje su oblikovane crtice ili razmaci (DDD-DD-dddd ili DDD DD dddd)
+  - Func_randomized_formatted_ssn pronalazi SSN-ove nakon 2011. oblikovane crticama ili razmacima (ddd-dd-dddd OR ddd dddd)
 
-  - Func_randomized_unformatted_ssn pronalazi SSN-ove post-2011 koji su neoblikovani kao devet uzastopnih znamenki (ddddddddd)
+  - Func_randomized_unformatted_ssn pronalazi SSN-ove nakon 2011. koji nisu oblikovani kao devet uzastopnih znamenki (ddddddddddd)
 
-- **[Potvrdni zbroj:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Ne, ne postoji checksum
+- **[Kontrolni zbroj:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Ne, nema kontrolnog zbroja
 
-- **[Definicija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** DLP pravilo je 85% pouzdano da je otkrivena ta vrsta osjetljivih podataka ako je u neposrednoj blizini znakova od 300:
+- **[Definicija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** DLP pravilnik 85 % je siguran da je otkrio tu vrstu osjetljivih podataka ako je u blizini 300 znakova:
 
-  - [Funkcija Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) pronalazi sadržaj koji odgovara uzorku.
+  - Funkcija [Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) pronalazi sadržaj koji odgovara uzorku.
 
-  - Pronađena je ključna riječ iz [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) . Primjeri ključnih riječi obuhvaća:  *socijalna sigurnost, socijalna sigurnost #, soc sec, SSN*  . Na primjer, sljedeći će se uzorak pokrenuti za pravilnik o DLP SSN-u: **SSN: 489-36-8350**
+  - Ključna riječ [iz Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) nalazi se. Primjeri ključnih riječi obuhvaćaju: *socijalnu sigurnost, socijalnu sigurnost#, Soc Sec, SSN.* Sljedeći primjer, primjerice, aktivirao bi se za pravilnik DLP SSN: **SSN: 489-36-8350**
   
-Dodatne informacije o tome što je potrebno za prezentacije za SSN-ovi za sadržaj potražite u sljedećem odjeljku u ovom članku: [što vrste osjetljivih informacija traže SSN](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn) -ove
+Dodatne informacije o tome što je potrebno za SSN-ove za vaš sadržaj potražite u sljedećem odjeljku u ovom članku: Što vrste osjetljivih informacija [izgledaju za SSN-ove](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-Korištenje različitih ugrađenih vrsta osjetljivih informacija potražite u sljedećem članku informacije o tome što je potrebno za druge vrste: [što vrste osjetljivih podataka traže](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Korištenje druge ugrađene osjetljive vrste podataka potražite u sljedećem članku informacije o tome što je potrebno za druge vrste: Što vrste [osjetljivih informacija potražite](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
