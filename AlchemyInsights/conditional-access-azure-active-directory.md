@@ -1,5 +1,5 @@
 ---
-title: Uvjetni pristup pomoću aplikacije Intune
+title: Uvjetni pristup uz Intune
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,20 +8,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 8070c4aa9483ed5baed558457e09190ccd88dcd2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f691e626b9deabb59b909e75221d684a2d133ac6c8949deb148b5646c0d117c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713519"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966209"
 ---
 # <a name="conditional-access"></a>Uvjetni pristup
 
-Uvjetni pristup je mogućnost servisa Azure Active Directory. Pomoću uvjetnog pristupa možete implementirati odluke o automatiziranoj kontroli pristupa za pristup aplikacijama u oblaku koje se temelje na uvjetima. Dodatne informacije potražite u odjeljku [Konfiguriranje pravilnika temeljenih na lokaciji](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+Uvjetni je pristup mogućnost Azure Active Directory. Uz uvjetni pristup možete implementirati automatizirane odluke o kontroli pristupa za pristup aplikacijama u oblaku koje se temelje na uvjetima. Dodatne informacije potražite u Location-Based [pravilnika.](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
 
-Kao IT administrator možete i kontrolirati pristup resursima sustava SharePoint i servisu OneDrive na temelju definiranih mrežnih mjesta ili uređaja kojima vjerujete. Da biste saznali više, posjetite poveznice u nastavku.
+Kao IT administrator možete kontrolirati i pristup resursima SharePoint OneDrive na temelju definiranih mrežnih mjesta ili uređaja kojima vjerujete. Da biste saznali više, posjetite poveznice u nastavku.
 
-- [Kontrola pristupa podacima sustava SharePoint online i servisa OneDrive na temelju mrežnog mjesta](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Upravljanje pristupom SharePoint online i OneDrive na temelju mrežnog mjesta](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [Upravljanje pristupom iz neupravljanih uređaja](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Upravljanje pristupom s neupravljanih uređaja](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

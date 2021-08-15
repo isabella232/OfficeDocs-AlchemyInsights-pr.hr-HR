@@ -1,5 +1,5 @@
 ---
-title: Brisanje korisnika
+title: Brisanje klijenta
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003256"
 - "7297"
-ms.openlocfilehash: aa1525c6d221dbcfe91da7abd3d094ae1c228ece
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 7377f77b7295e8134673c9a46fa7606842d4df949f535878d13986c6d39d0b5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564419"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993885"
 ---
-# <a name="delete-tenant"></a>Brisanje korisnika
+# <a name="delete-tenant"></a>Brisanje klijenta
 
 Da biste izbrisali Azure AD, provjerite sljedeće:
-- Vi ste globalni administrator u direktoriju.
-- Niste prijavljeni pomoću računa koji sadrži zadani direktorij, kao što je contoso.onmicrosoft.com u potpisu, kao što je admin@contoso.onmicrosoft.com.
-- Prije brisanja uklonite sve aktivne aplikacije u direktoriju. Da biste uklonili aktivne aplikacije, dođite do registracija aplikacija i uklonite postojeće aplikacije.
-- Ne postoje aktivne pretplate za bilo koji Microsoftov internetski servis, kao što su Microsoft Azure, Office 365 ili Azure AD Premium pridruženi direktoriju. Prenesite pretplate ili ubrzajte otkazivanje aktivnih pretplata putem podrške za Azure i naplate. Dodatne informacije o otkazu pretplate na Office 365 i Azure. Upute za povezivanje ili dodavanje postojeće pretplate na klijenta potražite u članku [pridruživanje ili dodavanje pretplate Azure u klijenta za Azure ad](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-- Nema aktivne licence. Da biste uklonili licence, pročitajte članak [Kako ukloniti pretplatu da biste uklonili licencu](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription).
-- Nema drugih aktivnih korisnika u imeniku osim sebe kao globalnog administratora prilikom pokušaja brisanja oglasa Azure. Uklonite sve druge aktivne korisnike, a sve ovisnosti o prilagođenom nazivu domene u zakupcu moraju biti uklonjene, kao što su korisnici koji su stvoreni uz admin@contoso.com.
+- Globalni ste administrator u direktoriju.
+- NISTE prijavljeni s računom koji ima zadani direktorij, kao što je contoso.onmicrosoft.com na računu za prijavljenu e-admin@contoso.onmicrosoft.com.
+- Uklonite sve aktivne aplikacije u direktoriju prije brisanja. Da biste uklonili aktivne aplikacije, otvorite registracije aplikacija i uklonite postojeće aplikacije.
+- Nema aktivnih pretplata za microsoftove mrežne servise, kao što su Microsoft Azure, Office 365 ili Azure AD premium pridružene direktoriju. Prijenos pretplata ili ubrzano otkazivanje aktivnih pretplata putem podrške za Azure i naplate. Saznajte više o otkazivanju pretplate na Office 365 i Azure. Smjernice o pridruživanju ili dodavanju postojeće pretplate klijentu pogledajte u članku Pridruživanje ili dodavanje pretplate na Azure na klijent [azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
+- Nema aktivne licence. Da biste uklonili licence, pogledajte [upute za uklanjanje licence pretplata na uklanjanje licence](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription).
+- Nema drugih aktivnih korisnika u direktoriju osim vas kao globalnog administratora prilikom pokušaja brisanja servisa Azure AD. Uklonite sve ostale aktivne korisnike i sve ovisnosti o prilagođenom nazivu domene na klijentu morat će se ukloniti, kao što su korisnici stvoreni pomoću admin@contoso.com.
 
-Detaljne upute za:
-- Brisanje "Azure Active Directory" ili "pretplata" potražite u članku [Brisanje servisa Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto).
-- Uklanjanje aplikacija u direktoriju potražite u članku [Uklanjanje aplikacija](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app). 
+Da biste saznali više o tome kako:
+- Brisanje "Azure Active Directory" ili "pretplata", pogledajte [brisanje Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto).
+- Uklanjanje aplikacija u direktoriju pogledajte u članku [Uklanjanje aplikacija](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app). 

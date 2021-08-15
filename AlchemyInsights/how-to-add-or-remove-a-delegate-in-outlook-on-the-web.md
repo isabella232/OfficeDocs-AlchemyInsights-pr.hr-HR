@@ -1,5 +1,5 @@
 ---
-title: Dodavanje i uklanjanje delegata u programu Outlook na webu (OWA)
+title: Dodavanje i uklanjanje ovlaštenika u aplikaciji Outlook webu (OWA)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: fc8e3ed77867db5242927c466e680325e471dd7a
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993417"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Dodavanje i uklanjanje delegata u programu Outlook na webu (OWA)
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Dodavanje i uklanjanje ovlaštenika u aplikaciji Outlook webu (OWA)
 
-Da biste dodijelili uređivaču ili delegatu pristup kalendaru, učinite sljedeće:
+Da biste kalendaru dodijelili pristup uređivača ili ovlaštenika:
 
-1. U programu Outlook na webu odaberite ikonu kalendara pri dnu stranice.
-2. Pri vrhu stranice odaberite **zajedničko korištenje > kalendara**.
-3. Na stranici **zajedničko korištenje i dozvole** upišite ime ili adresu e-pošte osobe s kojom želite zajednički koristiti kalendar. Iako možete zajednički koristiti kalendar s više osoba, možete dodati samo jednu osobu istodobno iz programa Outlook na webu.
-4. Kada dodate osobu koju želite upravljati kalendarom, odaberite padajući popis uz njihovo ime, a zatim odaberite razinu pristupa koju želite da imaju.
+1. U Outlook webu odaberite ikonu Kalendar pri dnu stranice.
+2. Pri vrhu stranice odaberite Zajedničko **korištenje > kalendaru.**
+3. Na **stranici Zajedničko korištenje i** dozvole upišite ime ili adresu e-pošte osobe s koju želite zajednički koristiti kalendar. Premda kalendar možete zajednički koristiti s više osoba, možete dodati samo jednu po jednu osobu s Outlook na webu.
+4. Kada dodate osobu kojoj želite upravljati kalendarom, odaberite padajući popis pokraj njihova imena i odaberite razinu pristupa koju želite da ima.
 
-    - Odaberite **možete urediti** da biste im dali dozvolu za promjenu kalendara.
-    - Odaberite **Delegiraj** da biste im dali istu dozvolu kao uređivača, a primit će i zahtjeve za sastanak i odgovore u vaše ime.
+    - Odaberite **Može uređivati** da biste im dali dozvolu za promjenu kalendara.
+    - Odaberite **Ovlaštenika** da biste im dali istu dozvolu kao i urednik, a oni će primati zahtjeve za sastanak i odgovore u vaše ime.
     > [!NOTE]
-    > Kada delegat odgovara na pozivnicu za sastanak u vaše ime, nećete vidjeti odgovor na pozivnicu u ulaznoj pošti prilikom korištenja programa Outlook na webu. Sastanci koji su prihvaćeni ili uvjetno prihvaćeni prikazat će se u vašem kalendaru i prikazat će da su ih prihvatili vaši delegati.
-    - Mogućnosti koje se **mogu prikazivati kada sam zauzet**, **mogu pregledavati naslove i mjesta** te **pregledavati sve pojedinosti** dopustiti drugima da vide vaš kalendar, ali ne i unijeti promjene u njega. Pristup osobama izvan tvrtke ili ustanove ograničen je na te mogućnosti.
+    > Kada ovlaštenika odgovori na pozivnicu za sastanak u vaše ime, nećete vidjeti odgovor na pozivnicu u ulaznoj pošti prilikom korištenja Outlook na webu. Sastanci koji su prihvaćeni ili uvjetno prihvaćeni prikazat će se u vašem kalendaru i prikazivat će se da ih je vaš ovlaštenika prihvatio.
+    - Mogućnosti Mogu **pregledavati kada sam** zauzet , Može pregledavati  naslove i **mjesta** te Mogu pregledavati sve detalje drugim korisnicima omogućuju prikaz kalendara, ali ne i promjene u njemu. Pristup osobama izvan tvrtke ili ustanove ograničen je na te mogućnosti.
 
-5. Kada završite s dodavanjem osobe s kojom želite zajednički koristiti kalendar, a odabrali ste dozvolu koju želite dodijeliti, odaberite **zajedničko korištenje**. Ako sada odlučite da ne želite zajednički koristiti kalendar, odaberite **Ukloni**.
+5. Kada završite s dodavanjem osobe s kojom želite zajednički koristiti kalendar i odaberete koju dozvolu želite dati, odaberite **Zajedničko korištenje**. Ako odlučite da trenutno ne želite zajednički koristiti kalendar, odaberite **Ukloni**.
 
-Osoba s kojom ste zajednički koristili Kalendar primit će poruku e-pošte koja će im reći o tome. Kada u pozivnici odaberu gumb **prihvati** , on će dodati vaš kalendar na popis kalendara.
+Osoba s koju ste zajednički podijelili kalendar primit će poruku e-pošte e-pošte koja će mu reći o tome. Kada u pozivnici **odaberu** gumb Prihvati, on će dodati kalendar na popis kalendara.
 
 > [!NOTE]
-> Stavke kalendara koje su označene kao **privatne** zaštićene su. Većina osoba s kojima zajednički koristite kalendar prikazuje samo vrijeme stavki označenih **privatnim**, a ne predmetom, mjestom ili drugim pojedinostima. Iznimka je ako potvrdite okvir **Dopusti delegatu prikaz privatnih događaja** .
+> Stavke kalendara **označene kao Privatne** zaštićene su. Većina osoba s kojima zajednički koristite kalendar vidjet će samo vrijeme stavki s oznakom **Privatno,** a ne predmet, mjesto ili druge detalje. Iznimka je ako potvrdite okvir Dopusti **delegatu prikaz privatnih** događaja.
 
-Da biste uklonili delegata u programu Outlook na webu (OWA), učinite sljedeće:
+Uklanjanje ovlaštenika u aplikaciji Outlook webu (OWA):
 
-1. U programu Outlook na webu odaberite ikonu kalendara pri dnu stranice.
-2. Pri vrhu stranice odaberite **zajedničko korištenje**, a zatim odaberite kalendar za koji želite prekinuti zajedničko korištenje.
-3. Odaberite **Ukloni** pokraj osobe s kojom želite prekinuti zajedničko korištenje kalendara.
+1. U Outlook webu odaberite ikonu Kalendar pri dnu stranice.
+2. Pri vrhu stranice odaberite Zajedničko **korištenje**, a zatim kalendar koji želite prekinuti zajednički koristiti.
+3. **Odaberite** Ukloni pokraj osobe s kojom želite prekinuti zajedničko korištenje kalendara.
