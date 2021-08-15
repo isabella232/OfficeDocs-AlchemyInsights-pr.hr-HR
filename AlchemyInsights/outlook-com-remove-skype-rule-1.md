@@ -1,5 +1,5 @@
 ---
-title: Outlook.com uklanjanje Skypea
+title: Outlook.com Ukloni Skype
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 03a866ac063d6136a5069b22216a9f3bf43a1202f9020f16ac5edb7cf89ce9ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962087"
 ---
-# <a name="skype-icon-missing"></a>Nema ikone Skypea
+# <a name="skype-icon-missing"></a>Skype nedostaje ikona
 
-Privremeno smo uklonili ikonu Skypea iz Outlook.com kao dio osvježavanja dizajna i ažuriranja značajki za koje smo uzbuđeni što se kotrljaju. Cijenimo vaše strpljenje dok pripremamo novo i poboljšano iskustvo za vas.
+Privremeno smo uklonili ikonu Skype sa servisa Outlook.com kao dio osvježavanja dizajna i ažuriranja značajki koje smo uzbuđeni što ćemo se odaslati. Cijenimo vaše strpljenje dok vam pripremamo novo i poboljšano iskustvo.
 
-Skype možete koristiti i putem preglednika na adresi [web.Skype.com](https://web.skype.com/).
+I dalje možete koristiti Skype putem preglednika na [web.skype.com](https://web.skype.com/).
