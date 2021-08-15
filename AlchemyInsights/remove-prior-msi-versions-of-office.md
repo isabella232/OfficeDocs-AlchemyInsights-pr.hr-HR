@@ -1,5 +1,5 @@
 ---
-title: Uklanjanje prethodnih verzija sustava Office MSI
+title: Uklanjanje prethodnih MSI verzija Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003886"
 - "6940"
-ms.openlocfilehash: 26ab610cb204149536bd23c830a1b8558892a7c0
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 45e3cac521bc1c2a90dc7d3ddd4958233c3cf7bbd2ea007e581f343bca7b5631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023766"
 ---
-# <a name="remove-prior-msi-versions-of-office"></a>Uklanjanje prethodnih verzija sustava Office MSI
+# <a name="remove-prior-msi-versions-of-office"></a>Uklanjanje prethodnih MSI verzija Office
 
-Preporučujemo da prije instalacije sustava Office 365 ProPlus uklonite prethodne verzije sustava Office Windows Installer (MSI). Evo kako to učiniti:
+Preporučujem da prije instalacije Windows programa Installer (MSI) uklonite Office instalaciju Office 365 ProPlus. Evo kako to učiniti:
 
-1. Ako ste koristili MSI za instalaciju sustava Office, možete koristiti alat za implementaciju sustava Office (ODT) da biste deinstalirali Office. U datoteci **configuration.xml** možete koristiti element RemoveMSI.
-1. Slijedite upute u ovom članku: [centar za sigurnost & sustava Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Ako ste msi instalirali Office, pomoću alata za implementaciju Office (ODT) možete deinstalirati Office. Možete koristiti element UkloniMSI u datoteci **configuration.xml** datoteke.
+1. Slijedite upute u ovom članku: [Office 365 centar za & usklađenost.](https://go.microsoft.com/fwlink/p/?linkid=2077143)

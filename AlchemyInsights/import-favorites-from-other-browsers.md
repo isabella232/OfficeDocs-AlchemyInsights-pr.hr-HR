@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9450"
 - "9005491"
-ms.openlocfilehash: 48e6d5ac22278544587d167f8bdd9957079f85d8
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
-ms.translationtype: MT
+ms.openlocfilehash: 1a40e87d293e8f48650f3a6b8933c36cadd45b2290e3a074a499c964a274d59b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51491396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014928"
 ---
 # <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>Uvoz favorita iz preglednika koji nije Internet Explorer, Google Chrome ili Mozilla Firefox
 
 1. U pregledniku iz kojeg želite uvesti favorite spremite favorite u HTML datoteku.
 
-1. Otvorite Microsoft Edge, a zatim **odaberite Postavke i još mnogo toga ...**  >  **Postavke**  >  **Uvoz podataka preglednika**.
+1. Otvorite Microsoft Edge, a zatim odaberite **Postavke i još mnogo toga ...**  >  **Postavke**  >  **Uvoz podataka preglednika**.
 
 1. Na **izborniku Uvoz** iz odaberite **Favoriti ili knjižne** oznake HTML datoteka Odaberite datoteku , a  >  zatim odaberite HTML datoteku s favoritima.
 

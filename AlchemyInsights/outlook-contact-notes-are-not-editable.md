@@ -1,6 +1,6 @@
 ---
 ms.author: pebaum
-title: Bilješke o kontaktu programa Outlook ne mogu se uređivati
+title: Outlook se bilješke kontakata ne mogu uređivati
 author: pebaum
 manager: joallard
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000185
 ms.assetid: ''
-ms.openlocfilehash: 114c0b3765bf6f09c4368fd51e34509672d54c56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e518c10622b1bc07524d0393b1f04d67017dfe31209ed5d1e8283b7fc14917b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722375"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991959"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Nije moguće uređivati polje bilježaka za kontakt u programu Outlook
-To je poznat problem. Radimo na tome da ga popravimo i status će biti ažuriran u [ne može uređivati polje bilježaka za kontakt](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Nije moguće uređivati polje s bilješkama za kontakt u Outlook
+To je poznati problem. Radimo na tome da to ispravimo i status će se ažurirati u polju Bilješke za kontakt nije [moguće uređivati](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
 
-**Zaobilazno rješenje**: Ako koristite Microsoft 365 ili račun za Outlook.com, možete uređivati kontakte pomoću weba. Ako koristite IMAP ili POP račun, trenutno nije dostupan zaobilazno rješenje.
+**Zaobilazno** rješenje : ako koristite Microsoft 365 ili Outlook.com, kontakte možete uređivati pomoću weba. Ako koristite IMAP ili POP račun, u ovom trenutku nije dostupno zaobilazno rješenje.

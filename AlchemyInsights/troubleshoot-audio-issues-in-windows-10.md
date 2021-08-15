@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća sa zvukom u sustavu Windows 10
+title: Otklanjanje poteškoća sa zvukom u Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039418"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Otklanjanje poteškoća sa zvukom u sustavu Windows 10
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Otklanjanje poteškoća sa zvukom u Windows 10
 
 **Pokretanje alata za otklanjanje poteškoća sa zvukom**
 
@@ -63,4 +63,4 @@ Ako ne možete ažurirati putem upravitelja uređaja ili pronaći novi upravlja�
 
 1. U upravitelju uređaja desnom tipkom miša kliknite (ili pritisnite i držite) upravljački program za audiodatoteka, a zatim odaberite **Deinstaliraj**. Ponovno pokrenite uređaj i Windows će pokušati ponovno instalirati upravljački program.
 
-2. Ako ponovna instalacija upravljačkog programa ne funkcionira, pokušajte koristiti generički upravljački program za zvuk koji se isporučuje sa sustavom Windows. U upravitelju uređaja desnom tipkom miša kliknite (ili pritisnite i držite) upravljački program za audiodatoteku > Ažuriraj upravljački program Pregledajte moje računalo za upravljački program Dopustite mi da s popisa upravljačkih programa uređaja na računalu odaberete Audiouređaj visoke razlučivosti , odaberite Dalje , a zatim slijedite upute  >    >  da biste ga instalirali. 
+2. Ako ponovna instalacija upravljačkog programa ne funkcionira, pokušajte koristiti generički upravljački program za zvuk koji se isporučuje s Windows. U upravitelju uređaja desnom tipkom miša kliknite (ili pritisnite i držite) upravljački program za audiodatoteku > Ažuriraj upravljački program Pregledajte moje računalo za upravljački program Dopustite mi da s popisa upravljačkih programa uređaja na računalu odaberete Audiouređaj visoke razlučivosti , odaberite Dalje , a zatim slijedite upute  >    >  da biste ga instalirali. 

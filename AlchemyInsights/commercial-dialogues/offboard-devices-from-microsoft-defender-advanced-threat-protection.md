@@ -1,5 +1,5 @@
 ---
-title: Uređaji za off Board iz programa Microsoft Defender Napredno zaštita od prijetnje
+title: Offboard devices from Microsoft Defender Advanced Threat Protection
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f991a1c02318fbf5ebc4c4449331939e4d06bb3c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 60a25c92b45e050893cc20545fc7a9b753c01009197b209c63e3bc56accf1e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967829"
 ---
-# <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Uređaji za off Board iz programa Microsoft Defender Napredno zaštita od prijetnje
+# <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboard devices from Microsoft Defender Advanced Threat Protection
 
-Pogledajte [off Board Windows 10 Devices](https://go.microsoft.com/fwlink/?linkid=2143629) ili [offboard ne-Windows uređajima](https://go.microsoft.com/fwlink/?linkid=2143630).
+Pogledajte [Windows 10 izvan](https://go.microsoft.com/fwlink/?linkid=2143629) Windows [uređaja](https://go.microsoft.com/fwlink/?linkid=2143630).

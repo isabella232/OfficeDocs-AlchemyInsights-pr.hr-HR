@@ -1,5 +1,5 @@
 ---
-title: Ažuriranje postavki e-pošte u programu Outlook za PC
+title: Ažuriranje postavki e-pošte u Outlook za PC
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,28 +12,28 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 7b98d6d7fcc3b8b59207c868c606730828d677c8
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598604"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976965"
 ---
-# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Ažuriranje postavki e-pošte u programu Outlook za PC
+# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Ažuriranje postavki e-pošte u Outlook za PC
 
-1. Otvorite Outlook i odaberite **datoteka > postavke računa > postavke računa**.
+1. Otvorite Outlook pa **odaberite Datoteka > račun Postavke > račun Postavke**.
 
-2. Odaberite račun e-pošte koji želite promijeniti, a zatim kliknite **Promijeni**. 
+2. Odaberite račun e-pošte koji želite promijeniti, a zatim **kliknite Promijeni**. 
 
-3. Na stranici **Postavke** ažurirajte nazive ulaznih i odlaznih poslužitelja, adresu e-pošte, svoje ime, korisničko ime i lozinku, po potrebi. Ako morate promijeniti SSL postavke ili postavke priključka, kliknite **Dodatne postavke**. Najčešći postavke za ažuriranje nalaze se na kartici **Izlazni poslužitelj** i kartici **Dodatno** .
+3. Na **stranici Postavke** prema potrebi ažurirajte dolazne i odlazne nazive poslužitelja, adresu e-pošte, vaše ime, korisničko ime i lozinku. Ako morate promijeniti SSL postavke ili postavke priključka, kliknite Više **Postavke**. Najčešće se postavke za ažuriranje nalaze na kartici **Izlazni poslužitelj** i **kartici** Dodatno.
 
-4. Ako imate problema s slanjem e-pošte ili primate poruke o odlaznom poslužitelju, provjerite je li potvrđen potvrdni okvir **moj izlazni poslužitelj (SMTP) zahtijeva provjeru autentičnosti** .
+4. Ako imate problema sa slanjem e-pošte ili primate poruke o odlaznom poslužitelju, provjerite je li potvrđen potvrdni okvir Moj odlazni poslužitelj **(SMTP).**
 
-5. Ako morate ažurirati ulazne ili izlazne poslužitelje ili postavke SSL-a, otvorite karticu **Dodatno** i unesite željene promjene.
+5. Ako morate ažurirati priključke dolaznog ili odlaznog poslužitelja ili SSL postavke, idite na **karticu** Dodatno i unjeti željene promjene.
 
 > [!NOTE]
-> **Za klijente sa servisa AOL i Verizon**: odabirom **SSL/TLS** -a u odjeljku **ulazni i izlazni poslužitelj šifriranim vezama** osigurat ćete da i dalje možete slati i primati e-poštu nakon studenog 7, 2017.
+> **Za korisnike sustava AOL i Verizon:** **odabirom SSL/TLS-a** iz padajućeg okvira u odjeljku Dolazne i izlazne **šifrirane veze** poslužitelja jamči se da i dalje možete slati i primati e-poštu nakon 7. studenog 2017.
 
-6. Kada završite s ažuriranjem postavki, kliknite **u redu**, zatim **dalje**, a potom **završi**.
+6. Kada završite s ažuriranjem postavki, kliknite U **redu**, zatim **Dalje**, a potom **Završi**.
 
 
