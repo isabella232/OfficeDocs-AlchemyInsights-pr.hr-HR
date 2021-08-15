@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 7b765dfd503906f5bba0f2b824442e13a3252493
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994713"
 ---
 # <a name="unblock-email"></a>Deblokiranje e-pošte
 
-Ako je korisnički račun za e-poštu blokiran radi slanja neželjene pošte, evo kako će se ponovno ponoviti:
+Ako je korisnikov račun e-pošte blokiran za slanje neželjene pošte, evo kako ga ponovno u sljedećem koraku:
 
-1. *Odmah* ponovno postavite lozinku za račun koji je utjecao na njih. Nemojte slati novu lozinku korisniku putem e-pošte. Time se osobama onemogućuje pristup slanju neželjene pošte.
-2. Idite na centar za sigurnost & i provjerite je li račun na [popisu ograničeni korisnici](https://protection.office.com/#/restrictedusers).
-3. Odaberite ikonu **pretraživanja** i unesite korisničko ime ograničenog korisnika. Ako je, primjerice, adresa e-pošte korisnika *rob@contoso.com*, samo unesite **roba**.
-4. Ako je račun tu, odaberite **Deblokiraj**. Slijedite korake u oknu s Potvrdbom, a zatim odaberite **da** da biste potvrdili.  
+1. Odmah ponovno postavite lozinku za zahvaćeni *račun*. Ne šalji novu lozinku korisniku putem e-pošte. Time se svima onemogući da joj pristupaju radi slanja neželjene pošte.
+2. Idite u centar za & sigurnosti i pogledajte nalazi li se račun na popisu [Ograničeni korisnici](https://protection.office.com/#/restrictedusers).
+3. Odaberite **ikonu** Pretraživanje i unesite korisničko ime ograničenog korisnika. Ako je, primjerice, korisnikova adresa e-pošte *rob@contoso.com*, samo unesite **rob**.
+4. Ako je račun tamo, odaberite **Deblokiraj**. Slijedite korake u oknu letka, a zatim odaberite **Da da biste** potvrdili.  
     > [!NOTE]
-    > Kada se neblokira, račun bi trebao biti u mogućnosti početi slati poruke u programu 3-4 sati.
+    > Kada se deblokira, račun bi trebao moći početi slati poruke za 3 do 4 sata.

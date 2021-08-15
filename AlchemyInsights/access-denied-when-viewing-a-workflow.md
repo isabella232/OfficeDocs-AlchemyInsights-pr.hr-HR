@@ -1,5 +1,5 @@
 ---
-title: Pristup je odbijen prilikom pregledavanja tijeka rada
+title: Access denied when viewing a Workflow
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b076ec5dca070555ce51b88631fb6bd619ed9269e59ccc799b23b8b95547c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955193"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Pristup je odbijen prilikom pregledavanja tijeka rada
+# <a name="access-denied-when-viewing-a-workflow"></a>Access denied when viewing a Workflow
 
-Tijekovi rada sustava SharePoint 2013 koji pokušaju poslati poruku e-pošte u grupu sustava SharePoint ne uspijevaju s porukom o pogrešci "Access denied" ako članstvo u grupi sustava SharePoint nije postavljeno na sve.
+SharePoint tijekovi rada programa 2013 koji pokušaju poslati poruku e-pošte grupi SharePoint ne mogu uspjeti s porukom o pogrešci "Pristup je odbijen" ako članstvo u grupi SharePoint nije postavljeno na Svi.
   
  **Da biste riješili taj problem, učinite sljedeće:**
   
- 1. Dopusti svima da vide članove grupe sustava SharePoint.
+ 1. Omogućite svima da vide članove SharePoint grupe.
   
- 2. Uklonite grupu sustava SharePoint iz retka prima ili kopija poruke e-pošte.
+ 2. Uklonite grupu SharePoint iz retka Prima ili KOPIJA poruke e-pošte.
   
- 3. Eksplicitno Dodajte korisnike u redak Prima ili kopija ako se vidljivost članstva ne može promijeniti za grupu sustava SharePoint.
+ 3. Eksplicitno dodajte korisnike u redak Prima ili KOPIJA ako se vidljivost članstva ne može promijeniti za SharePoint grupe.
   
-Da biste pogledali više detalja, pogledajte [http neovlašten za/_vti_bin/Client.SVC/SP.Utilities.Utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Dodatne pojedinosti potražite u članku [HTTP Neovlašteno za /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

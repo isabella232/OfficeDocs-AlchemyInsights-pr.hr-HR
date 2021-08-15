@@ -1,5 +1,5 @@
 ---
-title: problemi – zajedničko korištenje – s-Outlook-Customer-Manager
+title: problemi-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960107"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemi s zajedničkim korištenjem programa Outlook Customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemi sa zajedničkim korištenjem Outlook Customer Manager
 
-Ako imate problema s zajedničkim korištenjem programa Outlook Customer Manager, preporučujemo da najprije pokušate očistiti predmemoriju preglednika. Na primjer u pregledniku Internet Explorer možete učiniti sljedeće:
+Ako imate problema sa zajedničkim korištenjem Outlook customer manager preporučujemo da najprije pokušate očistiti predmemoriju preglednika. U pregledniku Internet Explorer, primjerice, želite:
 
-1. Idite na **Postavke**  >  **Općenito** > postavke u odjeljku **Pregledavanje povijesti pregledavanja**  >  **i baza podataka**.
-2. Brisanje predmemoriranih datoteka za web-mjesto "outlookapps.com."
-3. Ponovno pokrenite Outlook.
+1. Idite **na Postavke** Općenito > Postavke u odjeljku  >   **Predmemorije** i baze podataka povijesti  >  **pregledavanja**.
+2. Izbrišite predmemorijske datoteke za web-mjesto "outlookapps.com".
+3. Ponovno Outlook.
 
-Dodatne informacije o zajedničko korištenje potražite [u članku zajedničko korištenje informacija u programu Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).
+Dodatne informacije o zajedničkom korištenju potražite [u članku Zajedničko korištenje podataka u Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).
