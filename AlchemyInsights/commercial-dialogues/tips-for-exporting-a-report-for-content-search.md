@@ -1,5 +1,5 @@
 ---
-title: Savjeti za izvoz izvješća radi pretraživanja sadržaja
+title: Savjeti za izvoz izvješća za pretraživanje sadržaja
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481164"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978873"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Savjeti za izvoz izvješća radi pretraživanja sadržaja
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Savjeti za izvoz izvješća za pretraživanje sadržaja
 
-Možda ćete morati prikazati izvješće o pretraživanju sadržaja umjesto izvoza svih rezultata pretraživanja. Ako je tako, možete izvesti samo izvješće o rezultatima pretraživanja. Evo nekoliko savjeta:
+Možda ćete morati pogledati izvješće o pretraživanju sadržaja umjesto izvoza potpunih rezultata pretraživanja. Ako je tako, možete izvesti samo izvješće o rezultatima pretraživanja. Evo nekoliko savjeta:
 
-- Provjerite je li vašem računu dodijeljena uloga upravljanja usklađivanjem pretraživanja.
-- Provjerite je li računalo zadovoljilo sve [preduvjete](https://go.microsoft.com/fwlink/?linkid=2102407). Nisu podržani Svi preglednici, kao što je Chrome.
-- Suzite rezultate izvoza na manje od 20TB pa izvoz neće uspjeti. Pokušajte koristiti manji raspon datuma ili manje mjesta za pretraživanje.
-- Izvoz izvješća broji se u odnosu na maksimalan broj izvješća koja se mogu pokretati istodobno.
+- Provjerite je li vašem računu dodijeljena uloga upravljanja pretraživanjem usklađenosti.
+- Provjerite je li računalo ispunjeno [svim preduvjetima](https://go.microsoft.com/fwlink/?linkid=2102407). Nisu podržani svi preglednici, kao što je Chrome.
+- Suzite rezultate izvoza na manje od 20 TB da izvoz ne bi uspio. Pokušajte koristiti manji raspon datuma ili manje mjesta pretraživanja.
+- Izvoz izvješća broji se u odnosu na maksimalan broj izvješća koja se mogu istodobno izvoditi.
 
-Dodatne informacije potražite u članku [izvoz izvješća o pretraživanju sadržaja](https://go.microsoft.com/fwlink/?linkid=2102409)
+Dodatne informacije potražite u članku [Izvoz izvješća o pretraživanju sadržaja](https://go.microsoft.com/fwlink/?linkid=2102409)

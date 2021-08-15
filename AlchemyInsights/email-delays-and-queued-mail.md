@@ -1,5 +1,5 @@
 ---
-title: Prikazuje li se kašnjenje e-pošte ili pošta u redu čekanja?
+title: Vidite li kašnjenja e-pošte ili poštu u redu čekanja?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: c2e6aa3de2ea86b70c8fb68503aa02027505326a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 47f2d4f61571c8ef1fd871a568909d7dab37fe7ecfca5a8e02728e12b759ae40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030156"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Prikazuje li se kašnjenje e-pošte ili pošta u redu čekanja?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Vidite li kašnjenja e-pošte ili poštu u redu čekanja?
 
-Nedavno smo pokrenuli depretjanje starijih SMTP krajnjih točaka. Te su odredišne vrijednosti bile dostupne za korištenje u MX zapisima i pametnim domaćinima prije 2012. Ako i dalje koristite neku od ovih starijih vrijednosti, morat ćete ažurirati krajnju točku na podržanu vrijednost. Dodatne informacije potražite u ovoj [podršci KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Nedavno smo počeli s obustavom starijih SMTP krajnjih točaka. Te su odredišne vrijednosti bile dostupne za korištenje u MX zapisima i pametnim hostovima prije 2012. Ako i dalje koristite jednu od tih starijih vrijednosti, morate ažurirati krajnju točku na podržanu vrijednost. Dodatne informacije potražite u ovoj podršci [za KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).

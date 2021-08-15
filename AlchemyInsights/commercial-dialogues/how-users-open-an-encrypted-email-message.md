@@ -1,5 +1,5 @@
 ---
-title: Način na koji korisnici otvaraju šifriranu poruku e-pošte
+title: Kako korisnici otvaraju šifriranu poruku e-pošte
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: c48c71b9084354bf5a56794795c7653b8d8e5b4c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c376447f5ca87d793d8b96617ac58706f2377e1b640270c9f861c4475b85cf72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979053"
 ---
-# <a name="how-users-open-an-encrypted-email-message"></a>Način na koji korisnici otvaraju šifriranu poruku e-pošte
+# <a name="how-users-open-an-encrypted-email-message"></a>Kako korisnici otvaraju šifriranu poruku e-pošte
 
-Slijede neki od scenarija koji opisuju način na koji korisnici dobivaju šifriranu poruku e-pošte da je otvore:
+Slijede neki od scenarija u kojima se opisuje kako je korisnici koji primaju šifriranu poruku e-pošte otvaraju:
 
-- Ako korisnik koristi račun e-pošte sustava Office 365, moći će ga vidjeti kao i sve druge poruke.
-- Ako korisnik koristi Gmail, on će kliknuti **kliknite ovdje da biste pripremili poruku** , a zatim će se prijaviti, a zatim kliknite **Dopusti** da biste pogledali poruku.
-- Ako korisnik koristi Yahoo ili neki drugi davatelj internetskih usluga, kliknite **Pročitaj poruku** ili **kliknite ovdje da biste pročitali poruku**; prikazat će se veza da biste dobili jednokratnu zaporku. Morat će kliknuti vezu da biste dohvatili pristupni kôd, a zatim unesite pristupni kôd. Onda će moći prikazati poruku u web-pregledniku.
-- Ako korisnici ne dobivaju šifrirane poruke e-pošte, moraju provjeriti njihovu mapu **neželjena** pošta ili **Bezvrijedna** pošta.
+- Ako korisnik koristi račun Office 365 e-pošte, moći će ga pregledavati baš kao i bilo koju drugu poruku.
+- Ako korisnik koristi Gmail, on  će kliknuti Kliknite ovdje da bi pripremio vašu poruku, a zatim će se prijaviti pa kliknuti **Dopusti** da bi vam se prikazala poruka.
+- Ako korisnik koristi Yahoo ili drugog davatelja internetskih usluga, on će kliknuti Čitanje poruke ili Kliknite ovdje da **biste pročitali poruku**;  vidjet će vezu da bi dobili pristupnu šifru. Da bi dobili pristupnu šifru, moraju kliknuti vezu, a zatim unijeti pristupnu šifru. Potom će moći prikazati poruku u web-pregledniku.
+- Ako korisnici ne primaju šifrirane poruke e-pošte, moraju provjeriti mapu **Neželjena** pošta **ili Bezvrijedna e-pošta.**
 
-Dodatne informacije potražite u članku [Otvaranje zaštićene poruke](https://support.microsoft.com/topic/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
+Dodatne informacije potražite u [članku Otvaranje zaštićene poruke](https://support.microsoft.com/topic/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).

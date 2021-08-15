@@ -1,5 +1,5 @@
 ---
-title: Slanje poruke e-pošte pomoću praćenja poruke
+title: Slanje poruke e-pošte pomoću praćenja poruka
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a3d7edf0be0e7ddaf749399327868d7fdea9f980
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978837"
 ---
-# <a name="submit-an-email-message-using-message-trace"></a>Slanje poruke e-pošte pomoću praćenja poruke
+# <a name="submit-an-email-message-using-message-trace"></a>Slanje poruke e-pošte pomoću praćenja poruka
 
-1. Otvorite centar za [Sigurnost & sustava Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), a zatim prijeđite na trag poruke o **protoku pošte**  >  [](https://go.microsoft.com/fwlink/?linkid=2101048).
-2. Odaberite **+ Započni praćenje**.
-3. Prođite kroz prikazane mogućnosti. Odaberite primatelje i pošiljatelja, a zatim prilagodite datumski raspon prema potrebi. Možete ostaviti zadane postavke za preostale mogućnosti.
-4. Odaberite **Pretraživanje**. Prikazat će se popis poruka e-pošte na temelju kriterija pretraživanja. Dvokliknite poruku koju želite poslati, a zatim odaberite **Pošalji poruku**.
-5. Dodatne informacije potražite u članku [Praćenje poruka u centru za sigurnost & usklađenosti](https://go.microsoft.com/fwlink/?linkid=2101557).
+1. Idite na [centar Office 365 sigurnosti & usklađenosti](https://go.microsoft.com/fwlink/p/?linkid=2077143), a zatim idite na Praćenje poruka   >  [tijeka pošte](https://go.microsoft.com/fwlink/?linkid=2101048).
+2. Odaberite **+ Pokreni praćenje**.
+3. Prohodajte kroz prikazane mogućnosti. Odaberite primatelje i pošiljatelje, a zatim prema potrebi prilagodite datumski raspon. Možete ostaviti zadane postavke za preostale mogućnosti.
+4. Odaberite **Pretraživanje**. Popis poruka e-pošte prikazivat će se na temelju kriterija pretraživanja. Dvokliknite poruku koju želite poslati, a zatim odaberite **Pošalji poruku**.
+5. Dodatne informacije potražite u članku [Praćenje poruka u centru za & usklađenosti](https://go.microsoft.com/fwlink/?linkid=2101557).

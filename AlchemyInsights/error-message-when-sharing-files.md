@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dccbe62fa95e2934cf6ed6d7dd317b2b99e77ec0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51552ecf6c6ef4e91f092751aa33f55e961b34133fd7e8763e84f1a2c894d5a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783764"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030012"
 ---
 # <a name="error-messages-when-sharing"></a>Poruke o pogreškama prilikom zajedničkog korištenja
 
-Ako vam se prilikom pokušaja zajedničkog korištenja s vanjskim korisnicima prikaže poruka o pogrešci, najvjerojatnije vanjsko zajedničko korištenje nije omogućeno ni zajedničko korištenje nije dopušteno pomoću razine zajedničkog korištenja korisnika.
+Ako se prilikom pokušaja zajedničkog korištenja s vanjskim korisnikom prikazuje poruka o pogrešci, najvjerojatnije vanjsko zajedničko korištenje nije omogućeno ili je zajedničko korištenje postavljeno tako da ne dopušta razinu zajedničkog korištenja korisnika.
   
-U novom centru za administratore sustava SharePoint kliknite **zajedničko korištenje** u desnom oknu. Odaberite razinu dijeljenja koju želite dopustiti. Provjerite je li za web-mjesto uključeno vanjsko zajedničko korištenje. 
+U novom centru SharePoint administratora kliknite **zajedničko korištenje u** lijevom oknu. Odaberite razinu zajedničkog korištenja koju želite dopustiti. Provjerite je li za web-mjesto uključeno vanjsko zajedničko korištenje. 
   
-Ako se korisnik pokuša prijaviti, primi poruku o pogrešci, pokušajte sljedeće:
+Ako korisnik koji se pokušava prijaviti primi poruku o pogrešci, pokušajte sljedeće:
   
-- Provjerite je li korisnik prihvatio pozivnicu za zajedničko korištenje koja je poslana.
+- Provjerite je li korisnik prihvatio poslanu pozivnicu za zajedničko korištenje.
     
-- Pobrinite se da korisnik prihvati pozivnicu pomoću adrese e-pošte na koju je poslana.
+- Provjerite prihvaća li korisnik pozivnicu s adresom e-pošte na koju je poslana.
     
 

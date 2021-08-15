@@ -1,5 +1,5 @@
 ---
-title: Problemi s 321 kada korisnik ne primi e-poštu
+title: 321 Problemi kada korisnik ne prima e-poštu
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 321
 ms.assetid: 2a1f6f67-d69f-4cbf-b0f2-5f10998b5ba1
-ms.openlocfilehash: b0534c8eef97c1e2ba3a92a243b089905a395fd4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d54c945b71eead1d05f30aa90c84bab87cec162bcffeec836471b5a25c5055e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769859"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001356"
 ---
-# <a name="a-user-isnt-receiving-email-messages"></a>Korisnik ne dobiva poruke e-pošte
+# <a name="a-user-isnt-receiving-email-messages"></a>Korisnik ne prima poruke e-pošte
 
-Čini se da imate problem s protokom pošte. Imamo dijagnostiku koja će vam pomoći identificirati mnoge česte probleme s protokom e-pošte. Kliknite **Pokreni dijagnostiku** u nastavku.
+Čini se da imate problema s tijekom pošte. Imamo dijagnostiku koja će vam pomoći u prepoznavanju mnogih uobičajenih problema s tijekom pošte. U **nastavku kliknite Pokreni dijagnostiku.**
  
