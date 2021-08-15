@@ -1,5 +1,5 @@
 ---
-title: 1829 – neotkrivanje – problemi
+title: 1829-ediscovery-issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030417"
 ---
-# <a name="ediscovery-issues"></a>Problemi s pitanjima otkrivanja
+# <a name="ediscovery-issues"></a>Problemi s predočavanje elektroničkih elektroničkih elektroničkih podataka
 
-Tražite mogućnosti otkrivanja više dokumenata? Ako ste ponovno dizajnirali navigaciju u centru za sigurnost & usklađenosti, moguće je da su se mogućnosti ponovnog otkrivanja već premještate.  Možete pronaći mogućnosti otkrivanja i otkrića na sljedećim lokacijama u centru za sigurnost & usklađenosti na temelju onoga što pokušavate učiniti:
+Tražite mogućnosti predočavanja elektroničkih elektroničkih predočavanja? Uz ponovno dizajniranu navigaciju u centru za & usklađenost, mogućnosti predočavanja elektroničkih elektroničkih obveza možda su se već premjestili.  Mogućnosti predočavanja elektroničkih elektroničkih obveza možete pronaći na sljedećim mjestima u centru za & sigurnosti na temelju onoga što pokušavate učiniti:
 
-- Koristite pretraživanje sadržaja da biste pretraživali tvrtku ili ustanovu za sadržaj u porukama e-pošte, dokumentima, Skypeu za tvrtke, a zatim izvezite podatke-idite na **pretraživanje > pretraživanja sadržaja**
+- Pretraživanje sadržaja pomoću pretraživanja sadržaja u tvrtki ili ustanovi potražite u e-pošti, dokumentima, Skype za tvrtke razgovorima, a zatim izvezite podatke – idite **na Pretraživanje > pretraživanje sadržaja**
 
-- Stvaranje slučaja razotkrivanja za pretraživanje sadržaja i postavljanje mjesta sadržaja na čekanju-idite na **>** razotkrivanja
+- Stvaranje slučaja predočavanja elektroničkih elektroničkih podataka radi pretraživanja sadržaja i mjesta sadržaja na čekanju – idite na **eDiscovery > eDiscovery**
 
-- Koristite novo krajnje rješenje za naprednu verziju za otkrivanje i komunikacijom, sačuvajte podatke o skrbnicima koji su bitni za slučaj, prikupite podatke i dodajte ga u skup pregleda te smanjite glasnoću podataka primjenom analitičke vrijednosti da biste izbjegli nepotrebne podatke i usredotočili se na ono što je najrelevantnije za slučaj – posjetite **> Advanced Idiscovery**
+- Upotrijebite novo rješenje s kraja na kraj Advanced eDiscovery da biste prepoznali skrbnike i komunicirali s njim, sačuvali podatke koji su relevantni za slučaj, prikupili podatke i dodali ih u skup pregleda te smanjili količinu podataka primjenom analitike da biste smanjili nepotrebne podatke i usredotočili se na ono što je najvažnije za slučaj – idite na **eDiscovery > Advanced eDiscovery**
 
-Dodatne informacije potražite u članku:
+Dodatne informacije potražite u sljedećim člancima:
 
 - [Pretraživanje sadržaja](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [slučajevi otkrivanja i oporavka u centru za sigurnost &](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [Slučajevi predočavanja elektroničkih obveza u centru za & usklađenost](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Napredno rješenje za Idiscovery u programu Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Advanced eDiscovery rješenje u Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

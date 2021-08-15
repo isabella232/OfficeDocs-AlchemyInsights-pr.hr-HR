@@ -1,5 +1,5 @@
 ---
-title: Pogreške u sinkronizaciji Apple automatskog uključivanja uređaja
+title: Pogreške prilikom sinkronizacije automatske prijave na Appleov uređaj
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 1664a26b313c4a38c9c6d78cdb89997749ba175fd3dd72f278e99bbd50b0ee84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013740"
 ---
-# <a name="apple-automatic-device-enrollment-sync-errors"></a>Pogreške u sinkronizaciji Apple automatskog uključivanja uređaja
+# <a name="apple-automatic-device-enrollment-sync-errors"></a>Pogreške prilikom sinkronizacije automatske prijave na Appleov uređaj
 
-"Primijetili smo da imate jedan ili više tokena za ADE/DEP koji se nalaze u stanju pogreške. Dok ne riješite stanje pogreške za svaki pogođeni token, funkcija ADE neće funkcionirati kao što je očekivano. ".
+"Otkrili smo da imate jedan ili više ADE/DEP tokena koji se nalaze u stanju pogreške. Dok se stanje pogreške ne riješi za svaki zahvaćeni token, funkcija ADE neće funkcionirati na očekivani način.".
 
 Ta se pogreška može manifestirati na nekoliko načina, uključujući sljedeće:
 
-1. Uređaji se ne mogu sinkronizirati sa servisa ABM/ASM do Intune
-2. Zakazivanje zadataka profila za upis može neuspjeti
-3. Uređaji možda neće uspješno dovršiti upis u ADU
+1. Uređaji se možda neće sinkronizirati s uređaja ABM/ASM sa servisom Intune
+2. Dodjele profila za prijavu možda ne uspijevaju
+3. Uređaji možda neće uspješno dovršiti registraciju za ADE
 
-Provjerite je li pogreška u sinkronizaciji prijavljena u konzoli za umetanje u odjeljku **uređaji > prijavite uređaje > uvrštavanje jabuka > tokeni programa za upis**.
+Provjerite je li pogreška sinkronizacije prijavljena na konzoli Intune **u odjeljku Uređaji > Za prijavu uređaja > appleova > programskih tokena**.
 
-Jedan od najčešćih uzroka pogreške pri sinkronizaciji jest istekom tekućeg tokena. U mnogim će slučajevima obnova zahvaćenog tokena razriješiti problem.
+Jedan od najčešćih uzroka pogreške prilikom sinkronizacije jest istek trenutnog tokena. U mnogim će slučajevima obnova zahvaćenog tokena riješiti problem.
 
-Ako vam je istekao jedan ili više žetona, pogledajte sljedeću dokumentaciju koja će vam pomoći da ih obnovite po potrebi:
+Ako je jedan ili više tokena isteklo, pogledajte sljedeću dokumentaciju da biste ih po potrebi obnovili:
 
-[Obnovu tokena za automatsko upisivanje uređaja](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
+[Obnavljanje tokena za automatsku prijavu na uređaj](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
 
-Uz to, možete vidjeti i sljedeću dokumentaciju da biste vidjeli mogućnosti sanacije za druge pogreške koje uzrokuju pogreške u sinkronizaciji tokena:
+Osim toga, možete vidjeti sljedeću dokumentaciju da biste vidjeli potencijalne otklanjanja drugih pogrešaka koje uzrokuju pogreške sinkronizacije tokena:
 
-[Pogreške u sinkronizaciji ABM/ASM za iOS/iPadOS i macOS automatizirani tokeni za upis uređaja](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
-
-
+[Pogreške sinkronizacije sustava ABM/ASM za tokene za automatsku prijavu na iOS/iPadOS i macOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
 
 
 
 
 
-[Pogreške u sinkronizaciji ABM/ASM za iOS/iPadOS i macOS automatizirani tokeni za upis uređaja](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
+
+
+[Pogreške sinkronizacije sustava ABM/ASM za tokene za automatsku prijavu na iOS/iPadOS i macOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
