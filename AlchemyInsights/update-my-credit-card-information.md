@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 171354cb182a0692fd42a0b9a4245dfd2b1bf561
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a4c0b38762df505f9c59b1fd2a4ce380530b4598c4f8635f7c30c7fe277f56a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990915"
 ---
 # <a name="update-my-credit-card-information"></a>Ažuriranje podataka o kreditnoj kartici
 
-Način plaćanja možete dodati/ukloniti iz centra za **administratore sustava Microsoft 365**. Ako vaš način plaćanja nije povezan ni s jednom pretplatom, možete ga odmah izbrisati. Ako je povezana s pretplatom, pogledajte upravljanje [načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Način plaćanja možete dodati/ukloniti iz Centar za administratore okruženja Microsoft 365 **.** Ako vaš način plaćanja nije povezan ni s jednom pretplatom, možete ga odmah izbrisati. Ako je povezana s pretplatom, pogledajte upravljanje [načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 1. Idite na stranicu **Naplata > Računi i plaćanja > [Načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 

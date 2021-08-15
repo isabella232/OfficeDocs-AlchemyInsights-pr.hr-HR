@@ -1,5 +1,5 @@
 ---
-title: Veze u Outlook.com ne funkcioniraju u programu Firefox
+title: Veze na Outlook.com ne funkcioniraju u pregledniku Firefox
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "813"
 - "8000048"
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: 68266d51be07f48ea896cf83b147bdeaaf73574d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfb8161f5f3c2a6812ad5f10e6910e5296a3b60bd5494f41cac6d883dc821d1d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963059"
 ---
-# <a name="links-in-outlookcom-dont-work-in-firefox"></a>Veze u Outlook.com ne funkcioniraju u programu Firefox
+# <a name="links-in-outlookcom-dont-work-in-firefox"></a>Veze na Outlook.com ne funkcioniraju u pregledniku Firefox
 
-Veze u porukama e-pošte Outlook.com ne funkcioniraju kada se prikazuju u pregledniku Firefox. Mozilla [radi na ispravcima](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) za Firefox, ali do tada:
+Veze na Outlook.com poruke e-pošte ne funkcioniraju kada ih se pregledava u preglednicima preglednika Firefox. Mozilla radi [na popravku za](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) Firefox, ali do tada:
   
-- Koristite [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) ili neki drugi web-preglednik.
-- Prikaz e-pošte u oknu za čitanje. Dodatne informacije potražite u članku [Promjena izgleda poštanskog sandučića Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+- Koristite Microsoft Edge [ili](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) neki drugi web-preglednik.
+- Prikaz e-pošte u oknu za čitanje. Dodatne informacije potražite u tome kako [promijeniti izgled poštanskog sandučića Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
