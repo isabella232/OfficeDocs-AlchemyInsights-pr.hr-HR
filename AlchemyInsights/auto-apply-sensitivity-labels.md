@@ -1,5 +1,5 @@
 ---
-title: Automatsko Primjena naljepnica s osjetljivosti
+title: Automatska primjena oznaka osjetljivosti
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969274"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Automatsko Primjena naljepnica s osjetljivosti
+# <a name="auto-apply-sensitivity-labels"></a>Automatska primjena oznaka osjetljivosti
 
-Oznake osjetljivosti mogu se ručno primijeniti na sadržaj korisnika ili ih možete konfigurirati tako da se automatski primjenjuju na sadržaj.
+Oznake osjetljivosti korisnici mogu ručno primijeniti na sadržaj ili ih možete konfigurirati tako da se automatski primjenjuju na sadržaj.
 
-Automatsko Primjena naljepnica s osjetljivosti uklanja potrebu za obučavanje korisnika o tome kako klasificirati sadržaj te ih morati obavijestiti o konfiguracijama pravilnika.
+Automatskom primjenom oznaka osjetljivosti uklanja se potreba za obučavanje korisnika o klasificiranju sadržaja i potrebi da ih obavijestite o konfiguracijama pravilnika.
 
 Da biste automatski primijenili naljepnice, potrebno je sljedeće:
 
-- Informacije o zaštiti servisa Azure P2
-- [Preuzimanje i instalacija zaštite servisa Azure informacije Unified obilježavanje klijent](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Pretplata na Azure Information Protection P2
+- [Preuzimanje i instalacija klijenta za sjedinjeno označavanje servisa Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Radimo na izvornoj podršci za koju se ubuduće neće zahtijevati zaštita informacijske zaštite za Azure.
+Radimo na nativnoj podršci koja u budućnosti neće zahtijevati klijent za sjedinjeno označavanje azure Information Protection.
 
-Trenutno samo Windows podržava jedinstveni klijent za označavanje.  Značajka još nije podržana na računalima Mac, iOS i Android.
+Trenutno samo Windows podržava klijent za sjedinjeno označavanje.  Značajka još nije podržana na Macu, iOS-u i Androidu.
 
-Dodatne informacije o natpisima osjetljivosti i njihovo automatsko primjenu na sadržaj potražite u članku:
+Dodatne informacije o oznakama osjetljivosti i automatskoj primjeni na sadržaj potražite u članku:
 
-- [Pregled naljepnica s osjetljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Automatsko primjena oznake osjetljivosti na sadržaj](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- [Pregled oznaka osjetljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- [Automatska primjena oznake osjetljivosti na sadržaj](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

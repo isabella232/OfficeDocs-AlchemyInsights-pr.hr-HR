@@ -1,5 +1,5 @@
 ---
-title: Informirajte se o natpisima osjetljivosti ili otklanjanju poteškoća
+title: Saznajte više o oznakama osjetljivosti ili otklanjanje poteškoća s njima
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 27c08c071b2feb8458f03d2b01017a6c348111a3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: 898f1fcd189e2656dbdb9921f0c34a5d30976ac210766ca28284c455053dae50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743638"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016800"
 ---
-# <a name="learn-about-or-troubleshoot-sensitivity-labels"></a>Informirajte se o natpisima osjetljivosti ili otklanjanju poteškoća
+# <a name="learn-about-or-troubleshoot-sensitivity-labels"></a>Saznajte više o oznakama osjetljivosti ili otklanjanje poteškoća s njima
 
-Pregled naljepnica s osjetljivosti potražite u članku [Saznajte više o naljepnicama osjetljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Pregled naljepnica osjetljivosti pogledajte u članku [Informacije o oznakama osjetljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Ako ste konfigurirali naljepnice osjetljivosti, ali se ne prikazuju u aplikacijama sustava Office, izvedite sljedeće zadatke:
+Ako ste konfigurirali oznake osjetljivosti, ali se ne prikazuju u aplikacijama Office, izvršite sljedeće zadatke:
 
-- Provjerite je li dodijeljena licenca za Office 365 E3 ili E5.
+- Provjerite je li Office 365 E3 dodijeljena licenca za Office 365 E3 E5.
 
-- Provjerite je li natpis osjetljivosti objavljen korisnicima i grupama koje želite.
+- Provjerite je li oznaka osjetljivosti objavljena korisnicima i grupama koje želite.
 
-- Potvrdite da korisnik koristi aplikaciju koja podržava oznake osjetljivosti. Dodatne informacije potražite u članku [Primjena naljepnica s osjetljivosti na dokumente i e-poštu u sustavu Office](https://support.microsoft.com/topic/apply-sensitivity-labels-to-your-files-and-email-in-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9).
+- Provjerite koristi li korisnik aplikaciju koja podržava oznake osjetljivosti. Dodatne informacije potražite u članku Primjena [naljepnica osjetljivosti na dokumente i e-poštu unutar Office](https://support.microsoft.com/topic/apply-sensitivity-labels-to-your-files-and-email-in-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9).
 
-- Ako želite migrirati oznake zaštite podataka za Azure, pročitajte članak [kako migrirati naljepnice zaštite informacija o Azure na jedinstvene oznake osjetljivosti](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
+- Ako želite migrirati oznake Azure Information Protection, pogledajte [kako migrirati](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)oznake azure Information Protection na jedinstvene oznake osjetljivosti .
 
-- Provjerite je li instaliran klijent za zaštitu informacija za Azure. Dodatne informacije potražite u članku [Zaštita zaštite informacija u programu Azure Unified obilježavanje klijenta](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history).
+- Provjerite je li instaliran klijent Azure Information Protection. Dodatne informacije potražite u članku [Klijent za sjedinjeno označavanje](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)platforme Azure Information Protection .
 
-Ako vam gore navedeni zadaci ne pomažu pri rješavanju problema s naljepnicama osjetljivosti, pročitajte članak [poznati problemi s naljepnicama osjetljivosti u sustavu Office](https://support.microsoft.com/topic/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Ako gore navedeni zadaci nisu pomogli pri rješavanju problema s naljepnicama osjetljivosti, pogledajte poznati [problemi s naljepnicama osjetljivosti u Office](https://support.microsoft.com/topic/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

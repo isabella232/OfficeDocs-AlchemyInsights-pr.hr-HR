@@ -1,5 +1,5 @@
 ---
-title: Podrška za Microsoft Flow specijalizirana
+title: Microsoft Flow Specijalizirana podrška
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725039"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975921"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Podrška za Microsoft Flow specijalizirana
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Specijalizirana podrška
 
-Za specijaliziranu Microsoftovu podršku za tijek idite u novi [centar za administratore platforme Power Platform](https://aka.ms/flowadminsupport). Novi portal omogućuje izravan put do pomoći koja je optimizirana za Microsoft Flow i druge proizvode za Power Platform.
+Za specijaliziranu Microsoft Flow idite u novi centar za [administratore platforme Power](https://aka.ms/flowadminsupport). Novi portal pruža izravniji put do potpomožne podrške optimizirane za Microsoft Flow i druge proizvode platforme Power.
 
-uči više:
-- [Informacije o Microsoftovim slobodnim licencama](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Najčešća pitanja o protoku u vašoj tvrtki ili ustanovi](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Planovi za Microsoft 365 i Dynamics 365 koji obuhvaćaju Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Microsoft Flow za naplatu i mjerenje pitanja](https://go.microsoft.com/fwlink/?linkid=2072612)
+Dodatne informacije:
+- [Informacije o Microsoft Flow licencama](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow najčešća pitanja o tvrtki ili ustanovi](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 i tarife sustava Dynamics 365 koje obuhvaćaju Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow pitanja o naplati i mjerenju](https://go.microsoft.com/fwlink/?linkid=2072612)

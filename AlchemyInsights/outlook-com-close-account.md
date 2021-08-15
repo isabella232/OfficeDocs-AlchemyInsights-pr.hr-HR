@@ -1,5 +1,5 @@
 ---
-title: Zatvaranje računa za Outlook.com
+title: Zatvaranje računa Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,20 +14,20 @@ ms.custom:
 - "206"
 - "8000005"
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
-ms.openlocfilehash: c38a1d4dab108fee74262aa908fc237b29f1c03b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30919543e0e1c80c1bc97fc808bef2bb3029e2380fcd5f66f2995aedc4e4282f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024846"
 ---
-# <a name="close-your-outlookcom-account"></a>Zatvaranje računa za Outlook.com
+# <a name="close-your-outlookcom-account"></a>Zatvaranje računa Outlook.com
 
-1. Idite na stranicu [Zatvori račun](https://go.microsoft.com/fwlink/p/?linkid=845493) .
-2. Slijedite upute na stranici da biste bili sigurni da je vaš račun spreman za zatvaranje, a zatim odaberite **dalje**.
+1. Idite na [stranicu Zatvaranje](https://go.microsoft.com/fwlink/p/?linkid=845493) računa.
+2. Slijedite upute na stranici da biste bili sigurni da je račun spreman za zaključenje, a zatim odaberite **Dalje**.
 3. Pročitajte popis i potvrdite okvire da biste potvrdili da ste pročitali svaku stavku.
-4. Na padajućem popisu **Odabir razloga** odaberite razlog zatvaranja računa.
+4. Na **padajućem popisu** Odabir razloga odaberite razlog zatvaranja računa.
 5. Odaberite **Označi račun za zatvaranje**.
 
-Dodatne informacije potražite u članku [Zatvaranje računa za Outlook.com](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).
+Dodatne informacije potražite u članku [Zatvaranje računa Outlook.com](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).
   
