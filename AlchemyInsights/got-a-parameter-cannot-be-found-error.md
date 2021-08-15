@@ -1,5 +1,5 @@
 ---
-title: Nema pogreške "parametar nije pronađen"?
+title: Pojavila se pogreška "Parametar nije moguće pronaći"?
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 82279e0b369d06277d83e0af686a46e1107dbabe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1771111b352ee442853db6882471822882521106ddb62ac4b82a2791a989e732
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706155"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964112"
 ---
-# <a name="migrating-email-from-imap-email-system-to-microsoft-365"></a>Migriranje e-pošte s IMAP sustava e-pošte u Microsoft 365
+# <a name="migrating-email-from-imap-email-system-to-microsoft-365"></a>Migracija e-pošte iz IMAP sustava za e-poštu na Microsoft 365
 
-Da biste migrirali e-poštu iz IMAP sustava pošte, slijedite ovaj postupak: [IMAP migracija u centru za administratore sustava Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
+Da biste migrirati e-poštu iz IMAP sustava za poštu, slijedite ovaj postupak: [IMAP migracija u Centar za administratore okruženja Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-Mnoge će velike tvrtke morati pažljivo planirati upravljanje očekivanjima korisnika. [Ono što trebate znati o migraciji IMAP poštanskih sandučića u Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) članak pomoći će vam da upravljate promjenom. Imajte na onome da migracije G suite (Google) [više ne moraju biti obavjena putem IMAP](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)-a.
+Mnoge velike tvrtke ili ustanove morat će pažljivo planirati upravljanje očekivanjima korisnika. Informacije [o migriratoru IMAP poštanskih sandučića](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) u Microsoft 365 pomoći će vam u upravljanju promjenama. Imajte na umu da migracije aplikacije G Suite (Google) više nije potrebno [obaviti putem IMAP-a.](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)
 
-Potvrdite i na stranici [usvojite Microsoft 365 uz FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) stranicu za pomoć pri migraciji, ako je prihvatljivo.
+Ako ispunjavate [uvjete, na stranici Microsoft 365 e-pošte](https://www.microsoft.com/fasttrack/microsoft-365/office-365) odaberite e-Microsoft 365 za pomoć pri migraciji.
   

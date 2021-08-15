@@ -1,5 +1,5 @@
 ---
-title: Konfiguriranje servisa za pružanje resursa
+title: Konfiguriranje servisa za dodjelu resursa
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004687"
 - "8468"
-ms.openlocfilehash: fd272f8d554d73c87b832443815c25ebb2acc3eb
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: 271ab7ad34c0f85f6f5a9d8d3dc2d901fe6fe8f978a2cc98eed986f594036f17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033270"
 ---
-# <a name="configuring-the-provision-service"></a>Konfiguriranje servisa za pružanje resursa
+# <a name="configuring-the-provision-service"></a>Konfiguriranje servisa za dodjelu resursa
 
-Da bi automatizirani korisnici mogli funkcionirati, za Azure AD potrebna su valjana vjerodajnica koja omogućuje povezivanje s API-jem WORKDAY tkanje Services. Nadalje, gumb Testiraj vezu na radni dan u aplikaciji za dodjelu korisničkih resursa oglašava se i potvrđuje ako se može povezati s agentom za dodjelu resursa za Azure AD Connect u domenu oglasa.
+Da bi automatizirano dodjeljivanje resursa funkcioniralo, za Azure AD potrebne su valjane vjerodajnice koje mu omogućuju povezivanje s API-jem za radne web-servise. Nadalje, gumb Testiraj vezu u aplikaciji Workday to AD User Provisioning provjerava i može li se povezati s agentom za dodjeljivanje resursa servisa Azure AD Povezivanje pridruženom ad domeni.
 
-Ako se na portalu Azure vraća pogreška prilikom spremanja vjerodajnica, slijedite preporučene upute u nastavku:
+Ako portal Azure vraća pogrešku prilikom spremanja vjerodajnica, slijedite preporučene korake u nastavku:
 
-1. Potvrdite da ste konfigurirali korisnički račun za sustav integracije WORKDAY kao što je navedeno u odjeljku udžbenik [konfigurirajte korisnika sustava integracija u radnom danu](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
-2. Potvrdite da je servis Azure AD Connect agent za dodjelu resursa instaliran i pokrenut na lokalnom sustavu Windows Server pomoću konzole za upravljanje servisima. Možete i provjeriti status agenta na portalu Azure tako da kliknete gumb Prikaz lokalnih agenata.
-3. Uvjerite se da unosite vrijednost u polje "WORKDAY username" pomoću oblika username@workday-naziv korisnika. Ako nedostaje radni dan-naziv korisnika, provjera autentičnosti radnog dana neće uspjeti.
-4. Ako konfigurirate integraciju s klijentom za provedbu radnog dana, primjetite zakazane sate zastoja u svom radnom danu. WORKDAY je zakazano vrijeme za provedbu stanara tijekom vikenda (obično od petka navečer do subote ujutro) i pogreške pri povezivosti tijekom ove pauze prozor je poznat problem koji automatski rješava čim se ponovno implementiraju stanari u mreži.
-5. U rijetkim slučajevima možete vidjeti i ovu pogrešku ako je lozinka korisnika sustava integracije promijenjen zbog osvježavanja gosta ili ako je račun zaključan ili isteklog stanja. Provjerite status korisnika sustava integracija sa svojim administratorom radne dane.
+1. Provjerite jeste li konfigurirali korisnički račun za integraciju radnog dana kao što je navedeno u odjeljku vodiča [Konfiguriranje korisnika sustava integracije u radni dan](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
+2. Provjerite je li servis Azure AD Povezivanje za dodjeljivanje resursa pokrenut na lokalnom poslužitelju Windows putem konzole za upravljanje servisima. Status agenta na portalu Azure možete provjeriti i klikom na gumb Prikaži lokalne agente.
+3. Provjerite unosite li vrijednost za polje "Korisničko ime radnog dana" pomoću oblika username@workday-naziv klijenta. Ako nema naziva radnog dana-klijenta, provjera autentičnosti radnog dana ne uspijeva.
+4. Ako konfigurirate integraciju s klijentom za implementaciju radnog dana, imajte na umu zakazane sate zastoja klijenta radnog dana. Radni dan zakazao je vrijeme za implementaciju korisnika tijekom vikenda (obično od petka uveče do subote ujutro), a neuspjesi povezivanja tijekom tog razdoblja zastoja poznati su problem koji automatski rješava čim se implementacijski zakupnici ponovno vrate na internet.
+5. U rijetkim slučajevima ta vam se pogreška može pojaviti i ako se lozinka korisnika sustava integracije promijenila zbog osvježavanja klijenta ili ako je račun u zaključanom ili isteklom stanju. Provjerite status korisnika sustava integracije s administratorom radnog dana.
 
-Dodatne informacije o konfiguriranju radnog dana za automatiziranu dodjelu resursa potražite u članku [Udžbenik: Konfiguriranje radnog dana za automatsku dodjelu korisnika](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial).
+Dodatne informacije o konfiguriranju radnog dana za automatizirano dodjeljivanje resursa potražite u članku [Vodič: Konfiguriranje radnog dana za automatsko dodjeljivanje resursa korisnicima.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)

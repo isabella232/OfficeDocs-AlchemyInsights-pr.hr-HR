@@ -1,5 +1,5 @@
 ---
-title: Pregled gubitka podataka (DLP)
+title: Pregled sprječavanja gubitka podataka (DLP)
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: f4f4757e652b276d44b266eef73f5b5161615281
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc372aef88ebdca81bb217283dce0806888d4b4795f88e4b28bd36cc2c6f1c5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005549"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Pregled gubitka podataka (DLP)
+# <a name="data-loss-prevention-dlp-overview"></a>Pregled sprječavanja gubitka podataka (DLP)
 
-Uz pravilo programa DLP možete učiniti sljedeće:
+Uz pravilnik o DLP-u možete učiniti sljedeće:
 
-- Identificiranja osjetljivih podataka na mnogim lokacijama, kao što su Exchange Online, SharePoint online i OneDrive za tvrtke.
+- Prepoznajte osjetljive podatke na mnogim mjestima, kao što su Exchange Online, SharePoint Online i OneDrive za tvrtke.
 
 
-Na primjer, možete identificirati bilo koji dokument koji sadrži broj kreditne kartice koji je spremljen na bilo kojem web-mjestu servisa OneDrive za tvrtke ili možete nadzirati samo web-mjesta servisa OneDrive određenih osoba.
+Možete, primjerice, prepoznati bilo koji dokument koji sadrži broj kreditne kartice pohranjen na bilo kojem OneDrive za tvrtke web-mjestu ili možete pratiti samo OneDrive web-mjesta određenih osoba.
 
-- Sprečavanje slučajnog dijeljenja osjetljivih podataka.
+- Spriječite slučajno zajedničko korištenje osjetljivih podataka.
 
 
 Dodatne informacije potražite u sljedećem [članku](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).

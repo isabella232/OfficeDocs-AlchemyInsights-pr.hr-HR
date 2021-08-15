@@ -1,5 +1,5 @@
 ---
-title: Implementacija preglednika Microsoft Edge za mobilne uređaje za iOS/iPadOS ili Android
+title: Implementacija Microsoft Edge za mobilne uređaje za iOS/iPadOS ili Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 98ab637b6ca0f2b3cfa98ae897d6ed1d9f36c3cd
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677133"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005442"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Implementacija preglednika Microsoft Edge za mobilne uređaje za iOS/iPadOS ili Android
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Implementacija Microsoft Edge za mobilne uređaje za iOS/iPadOS ili Android
 
-Vođeni scenarij u nastavku pomoći će vam da dodijelite Microsoft Edge korisnicima sustava iOS, iPadOS i uređajima sa sustavom Android. Kada završite s sljedećim koracima, pravila programa Microsoft Intune omogućit će sljedeće značajke sustava Microsoft Edge za tvrtke:
+Vođeni scenarij u nastavku pomoći će vam Microsoft Edge korisnicima uređaja sa sustavom iOS, iPadOS i Android. Kada dovršite ove korake, Microsoft Intune će omogućiti sljedeće značajke Microsoft Edge za tvrtke:
 
 - Dvostruki identitet
-- Integracija s pravilima zaštite aplikacija za Microsoft Intune
-- Integracija s proxy aplikacijom Azure Active Directory
-- Tipkovni prečaci za upravljanje omiljenim i početnoj stranici
+- Integracija s pravilnikom Microsoft Intune aplikacije
+- Integracija s Azure Active Directory aplikacijskog proxyja
+- Upravljani favoriti i prečaci na početnoj stranici
 
 > [!NOTE]
-> Ako ste korisnike blokirali u upisivanju mobilnih uređaja, ovaj vođeni scenarij neće funkcionirati, a korisnici će morati sami instalirati Microsoft Edge.
+> Ako ste korisnicima blokirali registraciju mobilnih uređaja, taj vođeni scenarij neće funkcionirati, a korisnici će ih morati sami Microsoft Edge instalirati.
 
-Da biste implementirali Microsoft Edge za mobilne uređaje za iOS/iPadOS ili Android, pročitajte sljedeće:
+Da biste implementi Microsoft Edge za Mobilne uređaje za iOS/iPadOS ili Android, pogledajte sljedeće:
 
 1. [Preduvjeti](https://go.microsoft.com/fwlink/?linkid=2133027)
 2. [Uvod](https://go.microsoft.com/fwlink/?linkid=2133520)
 3. [Osnove](https://go.microsoft.com/fwlink/?linkid=2133421)
-4. [Konfiguracije](https://go.microsoft.com/fwlink/?linkid=2133521)
-5. [Zadatke](https://go.microsoft.com/fwlink/?linkid=2132869)
+4. [Konfiguracija](https://go.microsoft.com/fwlink/?linkid=2133521)
+5. [Zadaci](https://go.microsoft.com/fwlink/?linkid=2132869)
 6. [Pregled i stvaranje](https://go.microsoft.com/fwlink/?linkid=2133522)

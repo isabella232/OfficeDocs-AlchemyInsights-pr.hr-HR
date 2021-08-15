@@ -1,5 +1,5 @@
 ---
-title: Rješavanje problema s phishing u Outlook.com
+title: Rješavanje krađe identiteta na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: b84527f58cfd5101c5a63510cc46bb115ab862cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0b797e22a95a5ea532cd6497dd647adf608e52d09bdaf2a13124ecdfe15d5bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666214"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982653"
 ---
-# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Kako se nositi s e-poštom za krađu identiteta u programu Outlook na webu
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>Kako se nositi s e-poštom za krađu identiteta Outlook na webu
 
-Prijevara uz krađu identiteta jest poruka e-pošte koja se prikazuje legitimno, ali je zapravo pokušaj krađe osobnih podataka ili novca. Scammers može koristiti i tehniku koja se zove podvala da bi se prikazala kao da ste primili poruku e-pošte od sebe samih.
+Krađa identiteta e-pošta je koja se čini legitimnom, ali zapravo je pokušaj krađe osobnih podataka ili novca. Prevaranti mogu koristiti i tehniku pod nazivom podvala da bi se pojavila kao da ste primili poruku e-pošte od sebe.
 
-Ako vam se prikaže poruka e-pošte koja izgleda kao prijevara pomoću krađe identiteta, možete je prijaviti tako da odaberete poruku, a zatim odaberete **bezvrijednu**  >  **krađu identiteta**.
+Ako vam se pojavi poruka e-pošte koja izgleda kao krađa identiteta, možete je prijaviti tako da odaberete poruku, a zatim odaberete Bezvrijedna **krađa**  >  **identiteta**.
 
-*Upozorenje:* Kada poruku označite kao krađu identiteta, ona izvještava samo o pošiljatelju.Ne blokira tog pošiljatelja da vam šalje poruke u budućnosti. Da biste blokirali pošiljatelja, morate dodati pošiljatelja na popis blokiranih pošiljatelja. Dodatne informacije potražite u članku [blokiranje pošiljatelja ili deblokiranje pošiljatelja u programu Outlook na webu](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
+*Napomena:* Kada poruku označite kao krađu identiteta, ona prijavljuje samo pošiljatelja. Pošiljatelju se ne blokira slanje poruka u budućnosti. Da biste blokirali pošiljatelja, morate ga dodati na popis blokiranih pošiljatelja. Dodatne informacije potražite u članku [Blokiranje pošiljatelja ili deblokiranje pošiljatelja Outlook na webu](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0).
 
-Saznajte više o tome kako [identificirati sumnjive poruke u programu Outlook na webu](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).
+Saznajte više o prepoznavanju [sumnjivih poruka u Outlook na webu](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206).

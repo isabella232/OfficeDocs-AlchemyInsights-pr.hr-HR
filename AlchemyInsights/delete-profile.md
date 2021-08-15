@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680091"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005514"
 ---
 # <a name="delete-a-profile"></a>Brisanje profila
 
 Da biste izbrisali profil, slijedite korake u nastavku.
   
-1. U programu Outlook odaberite **File** \> **Postavke računa** datoteka za \> **Upravljanje profilima**.
+1. U Outlook odaberite **Račun datoteke** Postavke \> **Upravljanje** \> **profilima**.
 
-2. Odaberite **Prikaz profila**.
+2. Odaberite **Pokaži profile**.
 
-3. U dijaloškom okviru **pošta** odaberite profil koji želite izbrisati, a zatim kliknite **Ukloni**.
+3. U **dijaloškom okviru** Pošta odaberite profil koji želite izbrisati, a zatim **kliknite Ukloni**.
 
     > [!NOTE]
-    > Outlook će vas upozoriti da će Brisanje profila ukloniti izvanmrežne podatke. Nećete izgubiti podatke pohranjene u podatkovnim datotekama programa Outlook (. pst) ili bilo koje informacije pohranjene na internetskim računima, primjerice račune za Outlook.com, Exchange ili Microsoft 365.
+    > Outlook vas upozoriti da će brisanjem profila ukloniti izvanmrežne podatke. Nećete izgubiti podatke pohranjene u podatkovnim datotekama sustava Outlook (.pst) ni podatke pohranjene na internetskim računima, primjerice Outlook.com, Exchange ili Microsoft 365 račune.
   
-Upravljanje profilom **programa Outlook za Mac** potražite [u članku Upravljanje profilima ili identitetima u programu Outlook za Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) ili pomoću sljedećih koraka.
+Upute **Outlook za upravljanje profilom za Mac** potražite u članku Upravljanje profilima ili [identitetima u sustavu Outlook za Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) ili slijedite korake u nastavku.
   
-1. Iz tražilo otvorite mapu **aplikacije** .
+1. U aplikaciji Finder **otvorite mapu** Aplikacije.
 
-2. Ctrl + kliknite ili desnom tipkom miša kliknite **Microsoft Outlook**, a zatim odaberite **Prikaz sadržaja paketa**.
+2. Ctrl + klik ili desnom tipkom miša **kliknite Microsoft Outlook**, a zatim **odaberite Pokaži sadržaj paketa**.
 
-3. Odaberite **sadržaj** \> **za zajedničku podršku**, a zatim pokrenite **Upravitelj profila programa Outlook**.
+3. Odaberite **Podrška** \> **za zajedničko korištenje** sadržaja , a zatim **pokrenite Outlook Upravitelj profila**.

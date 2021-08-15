@@ -1,5 +1,5 @@
 ---
-title: Zaustavljanje poruka od odlaska u mapu Bezvrijedna e-pošta u sustavu Outlook.com
+title: Zaustavljanje u mapi Bezvrijedna e-pošta na web-mjestu Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6e10fb27472c770bb9530a20d86fd0ec1d3cb0dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c4d223d25e77562b60c516a149183aab83444d011a504f71424479792c97cfa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041110"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Zaustavljanje poruka od odlaska u mapu Bezvrijedna e-pošta
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Zaustavljanje prelama u mapu Bezvrijedna e-pošta
 
-Ako otkrijete da poruka e-pošte u mapi Bezvrijedna e-pošta u Outlook.com nije bezvrijedna:
+Ako otkrijete da poruka e-pošte u mapi Bezvrijedna e-pošta na Outlook.com nije bezvrijedna:
 
-1. Otvorite [mapu Bezvrijedna e-pošta](https://outlook.live.com/mail/junkemail).
-1. Odaberite poruku. (*Pažnja:* stavke u mapi Bezvrijedna e-pošta brišu se nakon 30 dana.)
-1. Iznad popisa poruka odaberite **nije bezvrijedna pošta**  >  **Not junk**.
+1. Otvorite mapu [Bezvrijedna e-pošta](https://outlook.live.com/mail/junkemail).
+1. Odaberite poruku. (*Napomena: stavke* u mapi Bezvrijedna e-pošta brišu se nakon 30 dana.)
+1. Iznad popisa poruka odaberite Nije **bezvrijedna pošta**  >  **Nije bezvrijedna.**
 
-Ako želite spriječiti da poruke pošiljatelja odu u mapu Bezvrijedna e-pošta, dodajte pošiljatelja na popis sigurnih pošiljatelja:
+Ako želite spriječiti slanje poruka pošiljatelja u mapu Bezvrijedna e-pošta, dodajte pošiljatelja na popis sigurnih pošiljatelja:
 
-1. Otvorite [Postavke bezvrijedne e-pošte](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. U odjeljku **Sigurni pošiljatelji i domene**odaberite **Dodaj**, unesite adresu e-pošte ili domenu koju želite dodati, a zatim odaberite **Spremi**.
+1. Otvorite postavke [bezvrijedne e-pošte](https://go.microsoft.com/fwlink/?linkid=2035804).
+1. U **Sef pošiljatelja i domena** odaberite **Dodaj**, unesite adresu e-pošte ili domenu koju želite dodati pa odaberite **Spremi**.
 
-Da biste saznali više, pročitajte [oznaku e-pošte kao bezvrijednu ili blokirajte pošiljatelja u Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Da biste saznali više, pročitajte [e-poštu označi kao bezvrijednu ili blokirajte pošiljatelje na Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
