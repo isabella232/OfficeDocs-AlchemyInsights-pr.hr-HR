@@ -1,5 +1,5 @@
 ---
-title: Provjera statusa zahtjeva za servisnim nalogom za Surface ili Xbox
+title: Provjera statusa zahtjeva za servisni nalog za Surface ili Xbox
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9752"
 - "9005678"
-ms.openlocfilehash: 27ba522e299f552df582cd41e964a3e97f455cc8
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 0f9f5e9af09f5c4de431ecd990e6d193df6224149d72c48946425824ad60dd23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035156"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021516"
 ---
-# <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Provjera statusa zahtjeva za servisnim nalogom za Surface ili Xbox
+# <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Provjera statusa zahtjeva za servisni nalog za Surface ili Xbox
 
-Ako želite vidjeti detalje o servisnom nalogu (tj. zahtjeve za popravak), slijedite ove korake:
+Ako želite pogledati pojedinosti o servisnom nalogu (npr. zahtjeve za popravak), slijedite ove korake:
 
-1. Idite na usluge uređaja.
+1. Idite na Servisi uređaja.
 
-1. Odaberite **Prikaz detalja** da biste vidjeli punu povijest i najnovija ažuriranja.
+1. Odaberite **Prikaži pojedinosti** da biste vidjeli cijelu povijest i najnovija ažuriranja.
 

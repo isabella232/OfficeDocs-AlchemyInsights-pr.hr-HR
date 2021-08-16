@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender za Office 365 Advisor
+title: Microsoft Defender za Office 365 savjetnik
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004191"
 - "7372"
-ms.openlocfilehash: cb916a79ddd4b882ea5b892cfc4c2133c924df5d
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e8071de43932bc4f5ca6691a48b92768df18fab47ef6e6112ecc8604678b6408
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098091"
 ---
-# <a name="microsoft-defender-for-office-365-advisor"></a>Microsoft Defender za Office 365 Advisor
+# <a name="microsoft-defender-for-office-365-advisor"></a>Microsoft Defender za Office 365 savjetnik
 
-[Microsoft Defender za Office 365 Advisor](https://go.microsoft.com/fwlink/?linkid=2146614) štiti vašu tvrtku ili ustanovu prema zlonamjernim prijetnjama s kojima se okolina može susresti putem poruka e-pošte, veza i alata za suradnju drugih proizvođača. Ovaj vodič nudi vam resurse i podatke koji će vam pomoći pripremiti i identificirati plan programa Microsoft Defender koji odgovara potrebama tvrtke ili ustanove.
+[Microsoft Defender za Office 365 štiti](https://go.microsoft.com/fwlink/?linkid=2146614) vašu organizaciju od zlonamjernih prijetnji na koje bi vaše okruženje moglo naići putem poruka e-pošte, veza i alata za suradnju drugih proizvođača. Ovaj vodič sadrži resurse i informacije koji će vam pomoći pri pripremi i prepoznavanju plana programa Microsoft Defender koji odgovara potrebama tvrtke ili ustanove.

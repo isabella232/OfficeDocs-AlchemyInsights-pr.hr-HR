@@ -1,5 +1,5 @@
 ---
-title: Mogućnosti plaćanja Microsoftova rezervacija
+title: Načini plaćanja za Microsoft Bookings
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6052"
 - "9002883"
-ms.openlocfilehash: ce6b90ac62a4e0620546198a62fbeab92d3e067f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 982162391ba2ed9b17624012f55387156d58c26b210f2747b1d4c7c1e3be8c43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725147"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098100"
 ---
-# <a name="microsoft-bookings-payment-options"></a>Mogućnosti plaćanja Microsoftova rezervacija
+# <a name="microsoft-bookings-payment-options"></a>Načini plaćanja za Microsoft Bookings
 
-Mogućnosti plaćanja Microsoftova rezervacija ukinirane su u ožujku 2020. Tvrtke i ustanove sada koriste rješenja drugih proizvođača da bi dodali mogućnost plaćanja u rezervaciju.
+Načini plaćanja za Microsoft Bookings povučeni su iz ožujka 2020. Tvrtke ili ustanove sada koriste rješenja drugih proizvođača za dodavanje načina plaćanja u Rezervacije.
