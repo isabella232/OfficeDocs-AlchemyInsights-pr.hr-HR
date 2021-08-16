@@ -1,5 +1,5 @@
 ---
-title: Instalacija programa Visio
+title: Instalacija Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: e11c356e5a49667d26906989038215fe65f609f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b42e8299484feb84fdbd80e26508ff110daea0191e33043d55ac9880f12919d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014280"
 ---
-# <a name="install-visio"></a>Instalacija programa Visio
+# <a name="install-visio"></a>Instalacija Visio
 
-Visio se prodaje kao samostalna aplikacija pa ako ga još nemate, [kupite ili isprobajte visio](https://products.office.com/visio). 
+Visio se prodaje kao samostalna aplikacija pa ako je još nemate, kupite ili [isprobajte Visio](https://products.office.com/visio). 
 
-**Pažnja**: Visio online tarifa 1 ne sadrži verziju programa Visio za stolna računala, pa nije moguće instalirati.
+**Napomena:** Visio Online Plan 1 ne sadrži verziju programa Visio, pa instalacija nije moguća.
 
-Ako imate pretplatu na program visio online tarifa 2, morate [dodijeliti licencu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) korisniku ili neće imati mogućnost instalacije programa Visio s **mojih instalacija** na [portalu moj račun](https://portal.office.com/account#installs). 
+Ako imate pretplatu na Visio Online Plan 2, [](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) morate korisniku dodijeliti licencu ili neće imati mogućnost instalacije  Visio moja instaliranja na [portalu Moj račun](https://portal.office.com/account#installs). 
 
-Verzije licenci programa Visio standard ili Visio Professional povezane su s Microsoftovim računima i ne mogu se upravljati u centru za administratore. Da biste instalirali ove verzije, korisnici se moraju prijaviti u [account.Microsoft.com](https://account.microsoft.com) pomoću Microsoftova računa povezanog s ovom verzijom programa Visio.
+Verzije sustava Visio Standard ili Visio Professional s Microsoftovim računima i ne mogu se upravljati u centru za administratore. Da biste instalirali te verzije, korisnici se [moraju account.microsoft.com](https://account.microsoft.com) pomoću Microsoftova računa povezanog s ovom verzijom Visio.
 
-Detaljnije pomoći potražite u članku [Instalacija programa Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) i slijedite korake za svoju verziju programa Visio.
+Detaljna pomoć potražite u [članku Instalacija Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) i slijedite korake za svoju verziju Visio.
 
-Dodatne informacije potražite u članku:<br>
-[Vodič za implementaciju u programu Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Podržani scenariji za instaliranje različitih verzija sustava Office, Project i visio na istom računalu](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[Licenciranje programa Visio](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+Dodatne informacije potražite u sljedećem članku:<br>
+[Vodič za implementaciju za Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Podržani scenariji za instalaciju različitih verzija Office, Project i Visio na istom računalu](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+[Visio Licenciranje](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)

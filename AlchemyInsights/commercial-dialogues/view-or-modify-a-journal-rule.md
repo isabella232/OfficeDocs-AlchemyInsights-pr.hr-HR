@@ -1,5 +1,5 @@
 ---
-title: Prikaz i izmjena pravila temeljnice
+title: Prikaz ili izmjena pravila dnevnika
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: e85f2dc0dfe3e4c2b5229c407249ddb87da1f47c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a8783a85f0539e070665a7ef30f1ebc87cb3644d7508ec9b561ad17200c97505
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045088"
 ---
-# <a name="view-or-modify-a-journal-rule"></a>Prikaz i izmjena pravila temeljnice
+# <a name="view-or-modify-a-journal-rule"></a>Prikaz ili izmjena pravila dnevnika
 
 Evo i kako:
 
-1. U [centru za administratore sustava Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104)idite na pravila temeljnice **upravljanja usklađivanjem**  >  .
-2. U prikazu popisa prikazat će se sva pravila temeljnice u vašoj tvrtki ili ustanovi.
-3. Dvokliknite pravilo koje želite pogledati ili izmijeniti.
-4. U **pravilu temeljnica** promijenite željene postavke.
+1. U centru [Exchange za administratore idite](https://go.microsoft.com/fwlink/p/?linkid=2059104)na **pravila dnevnika upravljanja**  >  **usklađenim pravilima**.
+2. U prikazu popisa vidjet ćete sva pravila dnevnika u tvrtki ili ustanovi.
+3. Dvokliknite pravilo koje želite prikazati ili izmijeniti.
+4. U **pravilu dnevnika** izmijenite postavke koje želite.

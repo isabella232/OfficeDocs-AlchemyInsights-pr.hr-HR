@@ -1,5 +1,5 @@
 ---
-title: Stvaranje potpisa e-pošte u programu Outlook 2016
+title: Stvaranje potpisa e-pošte u Outlook 2016
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f7e91169f06c5c0242cb7aaa0e1a0c266b5b30dc
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 54f813eed229661e49058b46f2cc73c5900b506a4e72f6b4a6818603f18dbd29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045232"
 ---
-# <a name="create-an-email-signature-in-outlook-2016"></a>Stvaranje potpisa e-pošte u programu Outlook 2016
+# <a name="create-an-email-signature-in-outlook-2016"></a>Stvaranje potpisa e-pošte u Outlook 2016
 
-U programu Outlook vaš potpis e-pošte može uključivati tekst, slike, elektroničku posjetnicu, logotip ili čak sliku rukom napisanog potpisa.
+U Outlook potpis e-pošte može sadržavati tekst, slike, elektroničku posjetnicu, logotip ili čak sliku rukopisnog potpisa.
 
-1. U programu Outlook otvorite novu poruku e-pošte.
-2. Na kartici **poruka** **Odaberite**  >  **potpisi** potpisa.
-3. U odjeljku **Odabir potpisa za uređivanje** odaberite **novo**, a zatim upišite naziv potpisa.
-4. U odjeljku **Uređivanje potpisa** sastavite svoj potpis.
+1. U Outlook otvorite novu poruku e-pošte.
+2. Na kartici **Poruka** odaberite   >  **Potpisi potpisa**.
+3. U **odjeljku Odabir potpisa za** uređivanje **odaberite** Novo , a zatim upišite naziv potpisa.
+4. U **odjeljku Uređivanje** potpisa sastavite potpis.

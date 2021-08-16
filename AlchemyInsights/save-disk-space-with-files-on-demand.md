@@ -1,5 +1,5 @@
 ---
-title: Spremanje prostora na disku pomoću datoteka servisa OneDrive na zahtjev za Mac
+title: Spremanje prostora na disku OneDrive datoteka na zahtjev za Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: 3b2e13a57e5b0195c8e2e38dabc439f5b4e8c23e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: e5f3b268867637a6a9d4d753a77dd599dab495aab53bb143f4bb74b35487d7e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074348"
 ---
-# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Spremanje prostora na disku pomoću datoteka servisa OneDrive na zahtjev za Mac
+# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Spremanje prostora na disku OneDrive datoteka na zahtjev za Mac
 
-Datoteke na zahtjev servisa OneDrive olakšavaju vam pristup svim datotekama na servisu OneDrive bez preuzimanja svih datoteka i korištenja prostora za pohranu na uređaju.  
+OneDrive Datoteke na zahtjev olakšavaju pristup svim datotekama u OneDrive bez preuzimanja svih datoteka i korištenja prostora za pohranu na uređaju.  
 
-Za nove račune servisa OneDrive u sustavu Mac OS Mojave ili novije datoteke na zahtjev po zadanom su uključene kada postavite OneDrive. Postojeći korisnici moraju uključiti postavke datoteka na zahtjev na servisu OneDrive.  
+Za nove OneDrive u sustavu Mac OS Mojave ili novije, datoteke na zahtjev po zadanom su uključene kada postavite OneDrive. Postojeći korisnici moraju uključiti postavke datoteka na zahtjev OneDrive.  
 
 [Saznajte više o datotekama na zahtjev za Operacijski sustav Mac](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0).

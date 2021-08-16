@@ -1,5 +1,5 @@
 ---
-title: Stvaranje popisa krajnjih točaka u pregledniku Microsoft Edge
+title: Stvaranje popisa dopuštenih krajnjih točaka za Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003932"
 - "6987"
-ms.openlocfilehash: d29364e683893e21d5d0a47ecdcc619f102e5bb3
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: cabea25a316a22c9eb3b63daf74c6ac213d24f35be5319276cff641b1d9a27b9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032082"
 ---
-# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Stvaranje popisa krajnjih točaka u pregledniku Microsoft Edge
+# <a name="create-an-allow-list-of-endpoints-for-microsoft-edge"></a>Stvaranje popisa dopuštenih krajnjih točaka za Microsoft Edge
 
-Da biste na raspolaganju imali cjelovit niz značajki sustava Microsoft Edge, morate ga povezati s internetom. Osim toga, da bi preglednik komunicirao putem vatrozida i drugih sigurnosnih mehanizama na internetu, morate dodati skup URL-ova domena na [popis krajnjih točaka](https://go.microsoft.com/fwlink/?linkid=2135054)koje želite omogućiti.
+Da biste na raspolaganju imali Microsoft Edge svih značajki programa, morate ga povezati s internetom. Osim toga, da biste pregledniku omogućili komunikaciju putem vatrozida i drugih sigurnosnih mehanizama na internetu, morate dodati skup URL-ova domene na popis dopuštenih [krajnjih točaka.](https://go.microsoft.com/fwlink/?linkid=2135054)

@@ -1,5 +1,5 @@
 ---
-title: Problemi s uređajima za ukrcavanje u Microsoft Defender za krajnje točke
+title: Problemi s programom onboarding machines to Microsoft Defender for Endpoints
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
-ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.openlocfilehash: 5f2ed08e32694a6d7293abbabb1eddd3d251ceddbd9debf6ec3143bb4fed86db
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054682"
 ---
-# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Problemi s uređajima za ukrcavanje u Microsoft Defender za krajnje točke
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Problemi s programom onboarding machines to Microsoft Defender for Endpoints
 
-Možda imate problema s uređajima za ukrcavanje na servisu MDE. Ako možete pristupiti stroju krajnjeg korisnika, slijedite ove korake:
+Možda imate problema s uređajem za unošenje na MDE servis. Ako možete pristupiti stroju krajnjeg korisnika, slijedite ove korake:
 
-1. Preuzmite najnoviju verziju pretpregleda dijagnostičkog alata [MDE Client Analyzer](https://aka.ms/betamdeanalyzer) .
-2. Desnom tipkom miša kliknite **Mdeclientanalyzer. cmd** , a zatim odaberite "Pokreni kao administrator".
-3. Slijedite sve smjernice predložene u **MDEClientAnalyzer.htm**.
-4. Da biste dobili više verbose zapisnika, pregledajte kreirani podmapu pod nazivom **Mdeclientanalyzerresult**.
-5. Ako je potrebno dodatno navođenje, obratite se [Microsoftovoj branitelju za podršku za krajnje točke](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) i navedite MDEClientAnalyzerResult.zip datoteku za analizu.
+1. Preuzmite najnoviju verziju pretpregleda dijagnostičkog alata [za mde klijentski analizator.](https://aka.ms/betamdeanalyzer)
+2. Desnom **tipkom miša kliknite MDEClientAnalyzer.cmd** i odaberite "Pokreni kao administrator".
+3. Slijedite sve smjernice predložene **uMDEClientAnalyzer.htm**.
+4. Dodatne opšne zapisnike potražite u stvorenoj podmapa pod **nazivom MDEClientAnalyzerResult**.
+5. Ako su potrebne dodatne smjernice, obratite se [podršci programa Microsoft Defender za krajnju](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) točku i navedite MDEClientAnalyzerResult.zip datoteku za analizu.
