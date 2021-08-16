@@ -1,5 +1,5 @@
 ---
-title: 411 dozvola za kalendare
+title: 411 Calendaring Permission
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9cf95572-4741-47d4-8770-544648ecb905
 ms.custom: 411
-ms.openlocfilehash: ef522719c152c9629522a3feb2ab986d46b0e58a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca71f3570cd11cf107ff0ee376796470c88536d5d1e1adbebd4d816ea470d5f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035908"
 ---
 # <a name="calendar-permissions"></a>Dozvole za kalendar
 
-Ako imate problema s pristupom kalendaru ili drugim kalendarima, koristite [Microsoftov pomoćnik za podršku i oporavak za microsoft 365](https://diagnostics.office.com/).
+Ako imate problema s pristupom kalendaru ili drugim kalendarima, koristite [Microsoft pomoćnik za podršku i oporavak za Microsoft 365](https://diagnostics.office.com/).
   
-Dodatne informacije o razmjeni kalendara potražite u članku [zajedničko korištenje kalendara programa Outlook s drugim korisnicima](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
+Dodatne informacije o zajedničkom korištenju kalendara potražite u [članku Zajedničko korištenje Outlook kalendaru s drugim korisnicima](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
   
 

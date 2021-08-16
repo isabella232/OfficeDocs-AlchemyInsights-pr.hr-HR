@@ -1,5 +1,5 @@
 ---
-title: Konfiguriranje postavki pravilnika preglednika Microsoft Edge u sustavu Windows
+title: Konfiguriranje Microsoft Edge pravilnika na Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "9004632"
 - "6894"
 - "8358"
-ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a7c092ac606cc599b37a0d9442dd82e0f493465508a6e5d24fa0589d0f3bb19a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978693"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Konfiguriranje postavki pravilnika preglednika Microsoft Edge u sustavu Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Konfiguriranje Microsoft Edge pravilnika na Windows
 
-Da biste konfigurirali postavke pravilnika i upravljana ažuriranja za Microsoft Edge, koristite objekte pravilnika grupe (GPO-ove). Pravilnik o dodjeli resursa možete i putem registra. to bi bilo prikladno za (1) uređaje sa sustavom Windows pridružene domeni servisa Microsoft Active Directory i za (2) instance sustava Windows 10 Pro i Enterprise koje su uvrštene za upravljanje uređajima u aplikaciji Microsoft Intune.
+Da biste konfigurirali postavke pravilnika i upravljana ažuriranja za Microsoft Edge, koristite objekte pravilnika grupe (GPO-ove). Pravilnik o dodjeli resursa možete i putem registra. to bi bilo prikladno za (1) Windows uređaje pridružene domeni servisa Microsoft Active Directory i za (2) Windows 10 Pro i Enterprise instance koje su uvrštene za upravljanje uređajima u Microsoft Intune.
 
-Da biste konfigurirali Microsoft Edge pomoću GPO-a, učinite sljedeće:
+Da biste Microsoft Edge pomoću GPO-a, učinite sljedeće:
 
-1. Otvorite središnju trgovinu pravilnika grupe u domeni servisa Active Directory ili u mapu predložaka Definicija pravilnika na pojedinačnim računalima instalirajte sve administrativne predloške koji dodaju pravila i postavke za Microsoft Edge.
+1. Otvorite središnju pohranu pravilnika grupe u domeni servisa Active Directory ili u mapu Predložak definicije pravilnika na pojedinačnim računalima instalirajte sve administrativne predloške koji dodaju pravila i postavke za Microsoft Edge.
 2. Konfigurirajte određene pravilnike koje želite postaviti.
 
-Dodatne informacije potražite u članku [Konfiguriranje postavki pravilnika preglednika Microsoft Edge u sustavu Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
+Dodatne informacije potražite u članku [Konfiguriranje Microsoft Edge pravilnika na servisu Windows](https://go.microsoft.com/fwlink/?linkid=2135024).

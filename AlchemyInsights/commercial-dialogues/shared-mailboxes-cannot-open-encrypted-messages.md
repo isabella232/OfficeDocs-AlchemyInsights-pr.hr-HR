@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 24c5fdd23482c96c7f7c901881e9bfa2c1b61ea8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d597fa0020beedd481e017ab707a5a4f5192219ac87609a894d8ba7345ce3110
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743499"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005694"
 ---
 # <a name="shared-mailboxes-cant-open-encrypted-messages"></a>Zajednički poštanski sandučići ne mogu otvarati šifrirane poruke
 
-- Zajednički poštanski sandučići ne mogu otvarati šifrirane poruke, bez obzira na to koja klijentska aplikacija koju koristite (primjerice, Outlook 2016 ili Outlook na webu).
-- Šifrirane poruke možete koristiti u zajedničkom poštanskom sandučiću. Postavite adresu za šifriranje kao što želite za poštanski sandučić bilo kojeg korisnika u tvrtki ili ustanovi. Ako ste, primjerice, postavili šifriranje poruka za sve poruke e-pošte poslane iz vaše tvrtke ili ustanove, po zadanom će biti uvršteni zajednički poštanski sandučić.
+- Zajednički poštanski sandučići ne mogu otvarati šifrirane poruke bez obzira na to koju klijentski aplikaciju koristite (npr. Outlook 2016 ili Outlook na webu).
+- Šifrirane poruke možete slati iz zajedničkog poštanskog sandučića. Postavite adresu za šifriranje kao i za poštanski sandučić bilo kojeg drugog korisnika u tvrtki ili ustanovi. Ako ste, primjerice, postavili šifriranje poruka za sve poruke e-pošte poslane iz tvrtke ili ustanove, po zadanom će biti obuhvaćen zajednički poštanski sandučić.

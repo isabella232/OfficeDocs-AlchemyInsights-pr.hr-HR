@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004334"
 - "7733"
-ms.openlocfilehash: 30127beda85dd9824f7e3a7a4744d109e7ea874b
-ms.sourcegitcommit: aeb15e206865f61ff61a1e55c407e34eaa89b6d1
+ms.openlocfilehash: 3ce5b04469eb655c9d682f5830d9f906529aa40f706ee594b670708426d48769
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50063593"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044980"
 ---
 # <a name="configure-and-customize-applications"></a>Konfiguriranje i prilagodba aplikacija
 
 **Konfiguriranje aplikacija**
 
-1. [Brzo pokretanje: Konfiguriranje svojstava aplikacije u klijentu Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) prikazuje kako konfigurirati neke od svojstava za aplikaciju.
-2. Da biste integrirali aplikacije s servisom Azure Active Directory, razvili smo [zbirku tutoriali](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) koji vas prolaze kroz konfiguraciju.
-3. [Kako konfigurirati aplikaciju proxyja aplikacija](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) olakšava vam da razumijete kako konfigurirati aplikaciju proxyja aplikacije u sklopu servisa Azure ad da biste u oblak izložili lokalne aplikacije.
-4. [Preuzmite pingaccess i konfigurirajte aplikaciju](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application): slijedite upute u *odjeljku Konfigurirajte Pingaccess za Azure ad da biste zaštitili aplikacije* objavljene pomoću proxy poslužitelja aplikacije Microsoft Azure ad na web-mjestu ping Identity i preuzeli najnoviju verziju programa pingaccess.
+1. [Brzi početak rada: konfiguriranje svojstava za aplikaciju u klijentu servisa Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) pokazuje kako konfigurirati neka svojstva aplikacije.
+2. Da bismo vam pomogli integrirati aplikacije Azure Active Directory, razvili smo zbirku [vodiča koji](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) će vas kroz konfiguraciju.
+3. [Konfiguriranje aplikacije Proxy aplikacije](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) omogućuje vam da shvatite kako konfigurirati aplikaciju proxy aplikacije na servisu Azure AD da biste lokalne aplikacije izložili oblaku.
+4. [Preuzmite PingAccess i](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application)konfigurirajte aplikaciju: Slijedite upute u web-mjestu Konfiguriranje *značajke PingAccess* za Azure AD da biste zaštitili aplikacije objavljene pomoću proxyja aplikacije Microsoft Azure AD na web-mjestu Identitet pinga i preuzmite najnoviju verziju značajke PingAccess.
 
-**Pogrešno konfigurirane aplikacije (AADSTS650056) pogreške**
+**Pogreške u pogrešno konfiguriranoj aplikaciji (AADSTS650056)**
 
-1. Pobrinite se da pristupate aplikaciji putem adrese za prijavu koju vam je dao vlasnik aplikacije. U suprotnom smislu, prijavite se u aplikaciju putem normalnog postupka. U većini slučajeva to će se naravno automatski riješiti. Ako to ne učinite, ovaj post može olakšati otklanjanje poteškoća i njihovo rješavanje.
-2. **Ako je vaša tvrtka ili ustanova vlasnik aplikacije** (što znači da je registracija aplikacija u vašoj tvrtki ili ustanovi):
-    - U najmanju ruku preporučamo da se `User.Read` doda ili `openid` delegirana dozvola iz **programa Microsoft Graph** .
-    - Provjerite jesu li aplikacija i sve njezine dozvole suglasne. To možete provjeriti tako da pogledate stupac **status** registracije prijave u sklopu **API dozvola**.
-    - U nekim scenarijima aplikacija može biti treća strana, no možda je registrirana u vašoj tvrtki ili ustanovi. Potvrdite je li ova aplikacija navedena u registracijama aplikacija (ne u korporacijskim aplikacijama).
-    - Ako se poruka o pogrešci i dalje prikazuje. Onda ćete možda morati stvoriti URL pristanka opisan u četvrtom **koraku**.
-3. **Ako vaša tvrtka ili ustanova nije vlasnik aplikacije te ga koristi kao aplikaciju drugih proizvođača**, učinite sljedeće:
-    - Ako ste administrator globalne/tvrtke, trebali biste vidjeti zaslon pristanka. Provjerite jeste li potvrdili okvir za **"pristanak u ime tvrtke ili ustanove"**.
-    - Ako ne vidite zaslon pristanka, izbrišite Enterprise aplikaciju, a zatim pokušajte ponovno.
-    - Ako se poruka o pogrešci i dalje prikazuje. Onda ćete možda morati stvoriti URL pristanka opisan u četvrtom **koraku**.
-4. **Ručno stvaranje URL-a pristanka koji** će se koristiti: ako je aplikacija dizajnirana za pristup određenom resursu, možda nećete moći koristiti gumbe za pristanak na portalu Azure, morat ćete ručno GENERIRATI vlastiti URL pristanka i koristiti ovo.
-    - Morat ćete dobiti `{App-Id}` i `{App-Uri-Id}` od vlasnika aplikacije. `{Tenant-Id}` Bit će vaš identifikator korisnika. To će biti `yourdomain.onmicrosoft.com` ili ID imenika.
-    - Ako se aplikacijom omogućuje pristup resursu, onda će `{App-Id}` i ona `{App-Uri-Id}` biti ista.
-5. Dodatne informacije potražite u članku [problemi prilikom prijave na pojedinačne aplikacije koje se temelje na jednom](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application)servisu.
+1. Provjerite pristupate li aplikaciji s adrese za prijavu koju vam je pružio vlasnik aplikacije. U suprotnom se pomoću uobičajenog postupka prijavite u aplikaciju. U većini slučajeva to će se automatski riješiti prirodno. Ako se ne riješi, ova objava može pomoći u otklanjanju poteškoća i rješavanju tog problema.
+2. **Ako je vaša tvrtka ili ustanova vlasnik aplikacije** (što znači da je registracija aplikacije u vašoj tvrtki ili ustanovi):
+    - Barem preporučujemo da se doda `User.Read` dozvola tvrtke Microsoft `openid` **Graph** ovlaštenih korisnika.
+    - Provjerite jesu li aplikacija i sve njegove dozvole privučene. To možete provjeriti tako  da u odjeljku Dozvole API-ja potražite stupac Status **registracije aplikacije**.
+    - U nekim scenarijima aplikacija može biti treća strana, no možda je registrirana u vašoj tvrtki ili ustanovi. Provjerite je li ta aplikacija navedena u registracijama aplikacije (nije Enterprise aplikacija).
+    - Ako vam se i dalje prikazuje ova poruka o pogrešci. Potom ćete možda morati izraditi URL pristanka opisan u **4. koraku**.
+3. **Ako vaša tvrtka ili ustanova nije vlasnik aplikacije i koristi je kao aplikaciju drugih proizvođača:**
+    - Ako ste administrator za globalnu tvrtku/tvrtku, trebali biste vidjeti zaslon za pristanak. Potvrdite okvir za **"Pristanak u ime tvrtke ili ustanove".**
+    - Ako ne vidite zaslon za pristanak, izbrišite aplikaciju Enterprise i pokušajte ponovno.
+    - Ako vam se i dalje prikazuje ova poruka o pogrešci. Potom ćete možda morati izraditi URL pristanka opisan u **4. koraku**.
+4. **Ručno izradite URL** pristanka koji će se koristiti: ako je aplikacija osmišljena za pristup određenom resursu, možda nećete moći koristiti gumbe pristanak s portala Azure, morat ćete ručno generirati VLASTITI URL pristanka i koristiti ga.
+    - Morat ćete nabaviti i `{App-Id}` vlasnika `{App-Uri-Id}` aplikacije. `{Tenant-Id}` bit će vaš identifikator klijenta. To će biti ili `yourdomain.onmicrosoft.com` VAŠ ID direktorija.
+    - Ako se aplikacija sama pristupa resursu, ona `{App-Id}` će `{App-Uri-Id}` biti ista.
+5. Dodatne informacije potražite u članku Problemi prilikom prijave u konfigurirane aplikacije za jedinstvenu prijavu utemeljenu [na SAML-u](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application).
 
 **Prilagodba aplikacija**
 
-- [Dodajte branding na stranicu za prijavu na Azure Active Directory u tvrtki ili ustanovi](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) – koristite logotip tvrtke ili ustanove i prilagođene sheme boja da biste omogućili dosljedan izgled i dojam na stranice za prijavu u Azure Active Directory (Azure AD).
-- [Dodajte prilagođeni naziv domene pomoću portala Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) – svaki novi stanar Azure ad isporučuje se s početnim nazivom domene. Ne možete promijeniti ili izbrisati početni naziv domene, ali možete dodati nazive tvrtke ili ustanove. Dodavanje prilagođenih naziva domena olakšava stvaranje korisničkih imena koja su poznata korisnicima.
+- [Dodajte brendiranje na](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) stranicu za prijavu u Azure Active Directory tvrtke ili ustanove – pomoću logotipa tvrtke ili ustanove i prilagođenih shema boja na stranicama za prijavu na Azure Active Directory (Azure AD).
+- [Dodajte prilagođeni naziv domene pomoću portala Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) – svaki novi klijent servisa Azure AD isporučuje se s početnim nazivom domene. Ne možete promijeniti ni izbrisati početni naziv domene, ali možete dodati nazive tvrtke ili ustanove. Dodavanje prilagođenih naziva domena olakšava stvaranje korisničkih imena koja su poznata vašim korisnicima.

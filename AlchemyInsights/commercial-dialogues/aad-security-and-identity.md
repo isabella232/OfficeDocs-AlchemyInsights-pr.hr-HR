@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481240"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995433"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (sigurnost i identitet)
 
-Odaberite neki od sljedećih vodiča za postavljanje:
+Odaberite jedan od sljedećih vodiča za postavljanje:
 
-- **Azure Active Directory povežite** [korisnike s sinkronizacijom u direktorij](https://go.microsoft.com/fwlink/?linkid=2071310) konfigurirajte sinkronizaciju lozinki ili prolazna provjera autentičnosti da bi se korisnici mogli prijaviti u njihovu e-poštu i lokalnom servisu Active Directory (kontroler domene) pomoću iste lozinke. Možete postaviti i prijavu u Federaciju uz Active Directory Federation Services (AD FS).
+- **Azure Active Directory Povezivanje Sinkronizacija** [](https://go.microsoft.com/fwlink/?linkid=2071310) korisnika s direktorijem Konfiguriranje sinkronizacije hasha lozinke ili provjere autentičnosti putem lozinke da bi se korisnici mogli prijaviti u svoju e-poštu i na lokalni Active Directory (kontroler domene) pomoću iste lozinke. Možete i postaviti prijavu u federaciju pomoću servisa Active Directory Federation Services (AD FS).
 
-- **Postavljanje** vodilice Azure značajke [Azure AD za postavljanje oglasa](https://go.microsoft.com/fwlink/?linkid=2134390) postavite napredne značajke dostupne u servisu Azure Active Directory Premium, kao što je višestruka provjera autentičnosti, registracija uređaja i nadzor sigurnosti.
+- **Postavljanje vodiča** za postavljanje [servisa Azure features Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) Postavljanje naprednih značajki dostupnih Azure Active Directory premium, kao što su višestruka provjera autentičnosti, registracija uređaja i sigurnosno praćenje.

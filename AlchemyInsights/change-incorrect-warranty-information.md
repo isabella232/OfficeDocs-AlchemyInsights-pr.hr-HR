@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9755"
 - "9005679"
-ms.openlocfilehash: 8f51aff29d0b456409a0ff2c015ba3a950b16657
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: a5f239b7ecf9ddee88e3da083325b62d485ec8b06f0de32128fc6a750044af36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018240"
 ---
 # <a name="change-incorrect-warranty-information"></a>Promjena netočnih podataka o jamstvu
 
-Ako u jamstvu postoje netočni podaci, agent za podršku može pomoći u rješavanju problema. Provjerite je li vaš dokaz o kupnji (primjerice originalni račun ili faktura) spreman kada se obratite podršci za korisnike.
+Ako postoje netočni podaci o jamstvu, agent za podršku može vam pomoći riješiti problem. Kada se obratite službi za podršku, pripremite dokaz o kupnji (npr. izvornu potvrdu ili fakturu).
 
-Da biste došli do agenta, kliknite gumb **obratite nam** se na donjoj lijevoj strani zaslona.
+Da biste došli do agenta, kliknite gumb **Obratite** nam se u donjem lijevom kutu zaslona.

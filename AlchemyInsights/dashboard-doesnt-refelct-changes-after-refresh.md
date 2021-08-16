@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1318"
 - "2500002"
-ms.openlocfilehash: 11ce68469a095ae3f42d2231c3732e8c04051fc7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d87ebaabb83db7b95182ea5b062fdef15da4263a68f47b31d262893570c3617
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731519"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005658"
 ---
 # <a name="dashboard-doesnt-reflect-changes-after-refresh"></a>Nadzorna ploča ne odražava promjene nakon osvježavanja
 
-Ako nadzorna ploča ne odražava promjene nakon osvježavanja, pričekajte oko 10-15 minuta da bi se osvježavanje odrazilo na pločice nadzorne ploče. Ako se i dalje ne prikazuje, ponovno prikvačite vizualizaciju na nadzornu ploču.
+Ako nadzorna ploča ne odražava promjene nakon osvježavanja, pričekajte oko 10 do 15 minuta da bi se osvježavanje odražavalo na pločicama nadzorne ploče. Ako se i dalje ne prikazuje, ponovno prikvačite vizualizaciju na nadzornu ploču.
 
-Dodatne informacije potražite u članku [Otklanjanje poteškoća s osvježavanjem](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios).
+Dodatne informacije potražite u članku Otklanjanje [poteškoća sa scenarijima osvježavanja](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios).
