@@ -1,5 +1,5 @@
 ---
-title: Prilikom dodavanja dodataka u programu Outlook više je korisnika došlo do odbijanja programa Access
+title: Prilikom dodavanja dodataka u programu Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "5892"
 - "6700008"
-ms.openlocfilehash: 611a4df473458abc0ab0c65442f2141763f7b868
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e5f881ad72d2a0f76c8659d6b1044bf6a18464fa8d65c079e44eb1a2afd4431
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724355"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065384"
 ---
-# <a name="multiple-users-get-access-denied-error-while-adding-add-ins-in-outlook"></a>Prilikom dodavanja dodataka u programu Outlook više je korisnika došlo do odbijanja programa Access
+# <a name="multiple-users-get-access-denied-error-while-adding-add-ins-in-outlook"></a>Prilikom dodavanja dodataka u programu Outlook
 
-Možete odrediti koji administratori u tvrtki ili ustanovi imaju dozvole za instalaciju i upravljanje dodacima za Outlook. Možete i odrediti koje korisnike u tvrtki ili ustanovi imaju dozvolu za instalaciju i upravljanje dodacima za vlastitu upotrebu.
+Možete odrediti koji administratori u tvrtki ili ustanovi imaju dozvole za instalaciju dodataka i upravljanje njima za Outlook. Možete odrediti i koji korisnici u tvrtki ili ustanovi imaju dozvolu za instalaciju dodataka i upravljanje njima za vlastitu upotrebu.
 
-Pojedinosti potražite u članku [određivanje administratora i korisnika koji mogu instalirati dodatke za Outlook i upravljati njima](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins).
+Detalje potražite u članku [Određivanje administratora i korisnika koji mogu instalirati](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)dodatke i upravljati njima za Outlook .
 
-Da biste potvrdili da ste uspješno dodijelili dozvole za korisnika, zamijenite <Role Name> naziv uloge koju želite provjeriti, a zatim pokrenite sljedeću naredbu u komponenti Exchange Online PowerShell:
+Da biste provjerili jeste li korisniku uspješno dodijelili dozvole, zamijenite nazivom uloge koju želite potvrditi i pokrenite sljedeću <Role Name> naredbu u Exchange Online PowerShell:
 
-Get-Managementroledodjeljivanje-uloga " <Role Name> "-geteffectiveusers
+Get-ManagementRoleAssignment -Role " <Role Name> " -GetEffectiveUsers
 
-U ovom se primjeru prikazuje kako potvrditi kome ste dodijelili dozvole za instalaciju dodataka iz trgovine sustava Office za tvrtku ili ustanovu.
+U ovom se primjeru prikazuje kako provjeriti kome ste dodijelili dozvole za instalaciju dodataka iz trgovine Office za organizaciju.
 
 PowerShell
 
--Uloga "aplikacije tvrtke org Marketplace"-GetEffectiveUsers
+-Role "Org Marketplace Apps" -GetEffectiveUsers
 
-U rezultatima Get-Managelmentroledodjela Pregledajte unose u stupcu efektivni korisnici.
+U rezultatima, Get-ManagementRoleAssignment, pregledajte stavke u stupcu Učinkoviti korisnici.
 
-Detaljne informacije o sintaksi i parametrima potražite [u članku Get-Managelmentrolezadatak](https://docs.microsoft.com/powershell/module/exchange/get-managementroleassignment).
+Detaljne informacije o sintaksi i parametrima potražite u [članku Get-ManagementRoleAssignment](https://docs.microsoft.com/powershell/module/exchange/get-managementroleassignment).
  

@@ -1,5 +1,5 @@
 ---
-title: Izvoz rezultata pretraživanja Iotkrivanja i sadržaja
+title: Izvoz rezultata predočavanja elektroničkih elektroničkih podataka/pretraživanja sadržaja
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: b93377a33eebc7899041b684449e46caedb04415
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: de5d6f2bbf32ca1b7a0bbb9dd416fb19186d2e72ad57fbf25d9b55bd733fdc21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988075"
 ---
-# <a name="export-ediscoverycontent-search-results"></a>Izvoz rezultata pretraživanja Iotkrivanja i sadržaja
+# <a name="export-ediscoverycontent-search-results"></a>Izvoz rezultata predočavanja elektroničkih elektroničkih podataka/pretraživanja sadržaja
 
-Možda ćete morati izvoziti rezultate pretraživanja u PST datoteku (iz e-pošte) ili na izvorne dokumente sustava Office (sa web-mjesta sustava SharePoint i servisa OneDrive za tvrtke). Ako je tako, učinite sljedeće:
+Rezultate pretraživanja možda ćete morati izvesti u PST datoteku (iz e-pošte) ili u nativne Office dokumente (s SharePoint i OneDrive za tvrtke web-mjesta). Ako je tako, učinite sljedeće:
 
-- Provjerite je li vašem računu dodijeljeno odgovarajuće dozvole za izvoz. Dodatne informacije potražite u članku [Dodjela dozvola za otkriće](https://go.microsoft.com/fwlink/?linkid=2102406).
-- Provjerite je li računalo zadovoljilo sve [preduvjete](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin). Nisu podržani Svi preglednici, kao što je Chrome.
-- Da biste izvezli iz pretraživanja sadržaja: a. Otvorite centar za [sigurnosnu &](https://protection.office.com/contentsearch) i kliknite **Pretraživanje**, a zatim odaberite **Pretraživanje sadržaja**. Na stranici **Pretraživanje sadržaja** odaberite spremljeno pretraživanje.
-    b. U oknu s detaljima u odjeljku **Izvoz rezultata na računalo** odaberite **Započni izvoz**. Ako izvozite više od 100K poštanskih sandučića, morat ćete koristiti PowerShell da biste preuzeli rezultate izvoza. Dodatne informacije potražite u članku [Izvoz rezultata iz više od 100K poštanskih sandučića](https://go.microsoft.com/fwlink/?linkid=2143861).
+- Provjerite je li računu dodijeljena odgovarajuća dozvola za izvoz. Dodatne informacije potražite u članku [Dodjela dozvole za predočavanje](https://go.microsoft.com/fwlink/?linkid=2102406)elektroničkih elektroničkih podataka .
+- Provjerite je li računalo ispunjeno svim [preduvjetima](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin). Nisu podržani svi preglednici, kao što je Chrome.
+- Izvoz iz pretraživanja sadržaja: a. Idite u [centar za & usklađenosti pa](https://protection.office.com/contentsearch) kliknite Pretraživanje , **a** zatim odaberite **Pretraživanje sadržaja**. Na **stranici Pretraživanje sadržaja** odaberite spremljeno pretraživanje.
+    b. U oknu Detalji u **odjeljku Izvoz rezultata na računalo odaberite** **Pokreni izvoz**. Ako izvozite više od 100 K poštanskih sandučića, da biste preuzeli rezultate izvoza, upotrijebite PowerShell. Dodatne informacije potražite u članku [Izvoz rezultata iz više od 100 K poštanskih sandučića](https://go.microsoft.com/fwlink/?linkid=2143861).
 
-Dodatne informacije potražite u članku [Izvoz rezultata pretraživanja sadržaja](https://go.microsoft.com/fwlink/?linkid=2102118).
+Dodatne informacije potražite u članku Izvoz [rezultata pretraživanja sadržaja](https://go.microsoft.com/fwlink/?linkid=2102118).

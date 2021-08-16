@@ -1,5 +1,5 @@
 ---
-title: Korištenje izvanmrežnog instalacijskog programa za Office
+title: Korištenje izvanmrežnog Office instalacijskog programa
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 6098ac9ad117264ad2a6d38eb077cec9541954d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfd666ddb0aa5edb4d0f4fc0a03c6442b201d331da7d2193e7ad8615790c36a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037924"
 ---
-# <a name="use-the-office-offline-installer"></a>Korištenje izvanmrežnog instalacijskog programa za Office
+# <a name="use-the-office-offline-installer"></a>Korištenje izvanmrežnog Office instalacijskog programa
 
-Da biste preuzeli datoteke instalacijskog programa, morate biti povezani s internetom, ali kada to učinite, možete instalirati Office offline na PC pri vašoj udobnosti pomoću alata za implementaciju sustava Office (ODT)
+Da biste preuzeli datoteke instalacijskog programa, morate biti povezani s internetom, ali kada to završite, možete instalirati Office izvanmrežno na PC-ju pomoću alata za implementaciju sustava Office (ODT)
 
-ODT je dizajniran za Enterprise okruženjima i runs iz naredbenog retka, pa su koraci složeniji – ali i dalje će raditi za instalaciju na jednom uređaju. Pročitajte članak [Korištenje instalacijskog programa za izvanmrežni rad u sustavu Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+ODT je dizajniran za korporacijska okruženja i pokreće se iz naredbenog retka, pa su koraci složeniji – no i dalje će funkcionirati za instalaciju na jednom uređaju. Pogledajte [korištenje izvanmrežnog Office instalacijskog programa](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
   

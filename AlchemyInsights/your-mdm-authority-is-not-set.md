@@ -1,5 +1,5 @@
 ---
-title: Vaša MDM vlast nije postavljena
+title: Vaša mdm-ova vlast nije postavljena
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046672"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>Vaša MDM vlast nije postavljena
+# <a name="your-mdm-authority-is-not-set"></a>Vaša mdm-ova vlast nije postavljena
 
-Ovlaštenje za upravljanje mobilnim uređajima (MDM) tog stanara nije postavljeno. Prije upisavanja i upravljanja uređajima morate postaviti vlast MDM-a putem Intune MDM-a. Ako ne postavite autoritet MDM-a, nećete moći koristiti Intune-ove značajke MDM-a. Postavka autoriteta MDM određuje način na koji upravljate uređajima.
+Tijelo za upravljanje mobilnim uređajima ovog klijenta nije postavljeno. Prije registracije uređaja i upravljanja uređajima putem intune MDM-a morate postaviti mdm. Bez postavljanja mdm-a nećete moći koristiti intune-ove MDM značajke. Postavka mdm-a određuje način upravljanja uređajima.
 
 Preporučeni koraci:
-1. Pomaknite se do značajke Intune za pregled upisa da biste postavili autoritet MDM-a.
-2. Odaberite odgovarajuću nadležnost na temelju vaših administrativnih potreba. Dodatne informacije potražite [u članku Postavljanje članka iz uprave za upravljanje mobilnim uređajima](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Pomaknite se do oštrice Intune Enrollment Overview da biste postavili izdavanje MDM-a.
+2. Odaberite odgovarajuće tijelo na temelju administrativnih potreba. Dodatne informacije potražite u članku [Postavljanje tijela za upravljanje mobilnim uređajima](https://docs.microsoft.com/intune/mdm-authority-set).
