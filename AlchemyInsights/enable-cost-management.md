@@ -13,46 +13,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: 0bbf1158f7f5fa8a22cfe7242c86760057fc7bab
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003561"
 ---
 # <a name="enable-cost-management"></a>Omogućivanje upravljanja troškovima
 
-**Što znači "troškovi su onemogućeni za vašu tvrtku ili ustanovu"?**
+**Što znači "troškovi onemogućeni za vašu organizaciju"?**
 
-Tvrtke ili ustanove koje koriste Enterprise Agreement (EA) ili Microsoftov ugovor o kupcu (MCA) mogu onemogućiti pristup podacima o troškovima i cijenama.
+Tvrtke ili ustanove koje koriste Enterprise Agreement (Ugovor Enterprise) (EA) ili Microsoftov korisnički ugovor (MCA) mogu onemogućiti pristup informacijama o troškovima i cijenama.
 
-Nakon prijave na portal Azure može koristiti API za naplatu za programsko dohvaćanje faktura (kada je uključena) i pojedinosti o korištenju.
+Nakon prijave na portal Azure mogu koristiti API-je za naplatu za programski dohvaćanje faktura (nakon prijave) i pojedinosti o korištenju.
 
-**Omogućavanje dodatnog korisnika za pristup fakturama**
+**Kako dodatnim korisnicima omogućiti pristup fakturama**
 
-1. Idite na **pretplatu Blade** na portalu Azure.
-2. Odaberite **fakture** , a zatim **pristupite računima**.
-3. Uključite pristup, a zatim spremite promjene da biste korisnicima u ulogama koje imaju opseg pretplate dopustili preuzimanje faktura.
+1. Idite na **oštricu Pretplate na** portalu Azure.
+2. Odaberite **Fakture,** a **zatim Pristup fakturama**.
+3. Uključite pristup, a zatim spremiti promjene, da biste korisnicima u ulogama s opsegom pretplate omogućili preuzimanje faktura.
 
 > [!NOTE]
-> Administrator računa može konfigurirati i da imaju fakture poslane putem e-pošte. Dodatne informacije potražite u članku [dohvaćanje fakture u poruci e-pošte](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+> Administrator računa može konfigurirati i slanje faktura putem e-pošte. Dodatne informacije potražite u članku Primajte [fakturu e-poštom](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **Dodavanje korisnika u ulogu čitača naplate**
 
-1. Idite na **pretplatu Blade** na portalu Azure.
-2. Odaberite **Control Access (IAM)** , a zatim kliknite **Dodaj**.
-3. Na stranici **Odabir uloge** odaberite **čitač naplate** .
-4. Upišite poruku e-pošte korisnika kojeg želite pozvati, a zatim kliknite **u redu** da biste slali pozivnicu.
-5. Slijedite upute navedene u pozivnici e-pošte da biste se prijavili kao čitač naplate. Dodatne informacije potražite u članku [Dodjela pristupa naplati](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in).
+1. Idite na **oštricu Pretplate na** portalu Azure.
+2. Odaberite **Kontrola programa Access (IAM), a** zatim kliknite **Dodaj**.
+3. Na **stranici Odabir** uloge **odaberite Čitač naplate.**
+4. Upišite poruku e-pošte korisnika koju želite pozvati, a zatim kliknite **U redu** da biste poslali pozivnicu.
+5. Slijedite upute navedene u poruci e-pošte pozivnice da biste se prijavite kao čitač naplate. Dodatne informacije potražite u članku [Odobravanje pristupa naplati](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in).
 
 **Preporučeni dokumenti**
 
-- [Omogući prikaz DA i AO putem EA portala](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
+- [Omogućivanje prikaza da i AO putem portala EA](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
 - [Troškovi uključeni u upravljanje troškovima](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
 - [Podržane ponude za Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
 - [Pregled troškova u analizi troškova](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
-- [Pružanje pristupa podacima za naplatu](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Provjera pristupa Microsoftovu ugovoru o klijentu](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [Pružanje pristupa podacima o naplati](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Provjera pristupa Microsoftova ugovora s klijentom](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
 
 

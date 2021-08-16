@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030786"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP možda treba prilagođenu vrstu
 
@@ -26,18 +26,18 @@ ms.locfileid: "47712176"
 
 **DLP može zahtijevati prilagođenu vrstu podataka**
 
-Pomoću pravilnika o sprječavanju gubitka podataka (DLP-a) možete identificirati i zaštititi osjetljive podatke u tvrtki ili ustanovi. U nekim slučajevima možda ćete morati stvoriti vlastite **prilagođene** vrste osjetljivih podataka da biste zaštitili podatke tvrtke ili ustanove.
+Uz pravilnik o sprječavanju gubitka podataka (DLP) možete prepoznati i zaštititi osjetljive podatke u tvrtki ili ustanovi. U nekim scenarijima možda ćete morati stvoriti vlastitu **prilagođenu** osjetljivu vrstu podataka da biste zaštitili podatke tvrtke ili ustanove.
 
-Tvrtka ili ustanova možda će, primjerice, morati identificirati i zaštititi ID-ove zaposlenika ili druge podatke u nekom obliku specifičnom za vašu tvrtku ili ustanovu. Ako je tako, dodatne informacije potražite u sljedećim člancima.
+Vaša će tvrtka ili ustanova, primjerice, morati prepoznati i zaštititi ID-ove zaposlenika ili druge podatke u nekom obliku specifičnom za vašu organizaciju. Ako je tako, dodatne informacije potražite u sljedećim člancima.
   
- **Prilagođavanje ugrađene vrste osjetljivih informacija**
+ **Prilagodba ugrađene osjetljive vrste podataka**
   
-Ako bi ugrađena vrsta osjetljive informacije zadovoljile vaše potrebe samo s nekoliko ugađanje, možete [prilagoditi ugrađenu vrstu osjetljivih podataka](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Možete, primjerice, dodavati ili uklanjati ključne riječi ili dodavati ili uklanjati popratne dokaze, kao što su Datum ili adresa.
+Ako bi ugrađena vrsta osjetljivih podataka zadovoljila vaše potrebe uz samo nekoliko ugađanja, možete prilagoditi [ugrađenu osjetljivu vrstu podataka](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Možete, primjerice, dodavati ili uklanjati ključne riječi ili dodavati ili uklanjati popratne dokaze kao što su datum ili adresa.
   
- **Stvaranje prilagođene vrste osjetljivih podataka**
+ **Stvaranje prilagođene osjetljive vrste podataka**
   
-No ako morate identificirati i zaštititi različitu vrstu osjetljivih podataka, možete [stvoriti prilagođenu vrstu osjetljivog podataka](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) u korisničkom sučelju centra za zaštitu & usklađenosti.
+No ako morate u potpunosti prepoznati i zaštititi drugu vrstu osjetljivih podataka, možete stvoriti prilagođenu [osjetljivu](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) vrstu podataka u UI-ju centra za & usklađenost.
   
-**Stvaranje prilagođene vrste osjetljivih informacija u sigurnosnom & PowerShell centra za usklađenost**
+**Stvaranje prilagođene osjetljive vrste podataka u programu PowerShell centra & sigurnosti**
 
-Na kraju, ako korisničko sučelje ne sadrži sve potrebne mogućnosti, možete [stvoriti prilagođenu vrstu osjetljivog podataka u sigurnosnom & PowerShell centra za usklađenost](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Pokretanjem XML datoteke možete koristiti svaku dostupnu mogućnost.
+Naposljetku, ako UI ne nudi sve potrebne mogućnosti, možete stvoriti prilagođenu osjetljivu vrstu podataka u [odjeljku Sigurnost & usklađenosti PowerShell](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Počevši od XML datoteke, možete koristiti sve dostupne mogućnosti.

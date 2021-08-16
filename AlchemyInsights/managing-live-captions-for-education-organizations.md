@@ -1,5 +1,5 @@
 ---
-title: Upravljanje titlovima za obrazovanje za obrazovne ustanove
+title: Upravljanje titlovima uživo za obrazovne ustanove
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066680"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Upravljanje titlovima za obrazovanje za obrazovne ustanove
+# <a name="managing-live-captions-for-education-organizations"></a>Upravljanje titlovima uživo za obrazovne ustanove
 
-Preporučujemo da administratori obrazovnih ustanova razmotre korištenje paketa pravilnika za sigurnost učenika i odgajatelja. Dodatne informacije potražite u sljedećim člancima:  
+Preporučujemo administratorima obrazovnih ustanova da razmislite o korištenju paketa pravilnika za sigurnost učenika i nastavnika i nastavnika. Dodatne informacije potražite u sljedećim člancima:  
 
-- [Paketi pravilnika u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Paketi pravilnika u Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [Pravila koja bi trebala biti dodijeljena za sigurnost učenika](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Pravilnike koji bi se trebali dodijeliti za sigurnost učenika](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
 
-- [Pravila koja bi trebala biti dodijeljena nastavnicima](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Pravilnike koji bi se trebali dodijeliti nastavnicima](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-Ako želite upravljati samo mogućnošću omogućivanja skrivenih titlova, pročitajte članak [Omogućivanje opisa uživo](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Dodatne informacije potražite u članku [Upravljanje pravilima sastanka u timovima](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Ako želite upravljati samo sposobnošću omogućivanja titlova uživo, pogledajte [omogućivanje titlova uživo](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Dodatne informacije potražite u članku Upravljanje [pravilima sastanka u programu Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).

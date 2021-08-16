@@ -1,5 +1,5 @@
 ---
-title: Zajednički problemi i rješenja projekta
+title: Project uobičajenih problema i rješenja
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 969cf2812a60f4b9a03aad46c96c1eb7a0458816
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 36d504120b5d81b06294afbfb1be4c6e73f0f696c4ea7118c6867e56ccb46b70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039670"
 ---
-# <a name="project-common-issues-and-resolutions"></a>Zajednički problemi i rješenja projekta
+# <a name="project-common-issues-and-resolutions"></a>Project uobičajenih problema i rješenja
 
-Evo nekih često zatraženih tema s projektom:
+Evo nekih često traženih tema s Project:
 
-1. **Početak rada s programom Project Online:**  [počnite](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) koristiti Project Online i saznajte kako planirati, [implementirati](https://docs.microsoft.com/projectonline/project-online) i održavati Project Online u svom okruženju. Provjerite [ograničenja softvera i ograničenja softvera za Project Online da](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) biste pregledali važna ograničenja.
+1. **Početak rada s Project Online:**[počnite koristiti Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) i saznajte kako planirati, implementirati i održavati [Project Online](https://docs.microsoft.com/projectonline/project-online) okruženju.   Provjerite [Project Online ograničenja softvera i ograničenja da biste](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) pregledali važna ograničenja.
 
-2. **Korisnicima dajte pristup servisu Project Online:** Dodajte [osobe, grupe, resurse i zajednički koristite Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) da biste surađivali s drugima. 
+2. **Korisnicima dajte pristup Project Online:** Dodajte [osobe, grupe, resurse i zajednički koristite Project Online biste](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) surađivali s drugim korisnicima. 
 
-3. **Ugađanje performansi web-aplikacije Project Web App (PWA) u web-aplikaciji Project Online:** Pregledajte [učinak na performanse i tradeoffove](https://docs.microsoft.com/projectonline/tune-project-online-performance) nekih od najčešćih postavki web-aplikacije Project Web App.
+3. **Ugađanje Project web-aplikacije (PWA) u Project Online:** Pregledajte [učinak na performanse i zamjene](https://docs.microsoft.com/projectonline/tune-project-online-performance) nekih od najčešćih postavki Project web-aplikacije.
 
-4. **Povezivanje s programom Project Online pomoću klijentskog programa Project za stolna računala:** Pomoću klijentskog [programa Project Online za stolna](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) računala povežite se s programom Project Online u okruženju sustava Microsoft 365. 
+4. **Povezivanje se Project Online s klijentom za Project računala:** Pomoću klijenta [Project Online računala povežite](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) se s Project Online u Microsoft 365 okruženju. 
 
-5. **Instalirajte Project Professional: instalirajte** i koristite [Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) uz pretplatničke verzije programa Project Online i verzije programa Project 2019, 2016 ili 2013 koje nisu pretplatničke.
+5. **Instalirajte Project Professional:** [instalirajte i koristite Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) s pretplatničkim verzijama sustava Project Online i verzijama programa Project 2019, 2016 ili 2013 koje nisu pretplatničke.

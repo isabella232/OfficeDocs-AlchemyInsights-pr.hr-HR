@@ -1,5 +1,5 @@
 ---
-title: Rješavanje pravila za zaštitu od neželjene pošte
+title: Rješavanje problema s pravilnikom o zaštiti od neželjene pošte
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 509b05f511b518e26f61039aa5175a47fea425d0
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743664"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988239"
 ---
-# <a name="fix-anti-spam-policy"></a>Rješavanje pravila za zaštitu od neželjene pošte
+# <a name="fix-anti-spam-policy"></a>Rješavanje problema s pravilnikom o zaštiti od neželjene pošte
 
-Prilagođeno pravilo za zaštitu od neželjene pošte u vašem zakupniku utjecalo je na ovu poruku. Da biste pregledali pravilnik, učinite sljedeće:
+Prilagođena pravila zaštite od neželjene pošte na klijentu utjecala su na ovu poruku. Da biste pregledali pravilnik, učinite sljedeće:
 
-1. Idite na [centar za sigurnost & sustava Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), a zatim otvorite pravilo za **Upravljanje prijetnjama** za  >    >  [zaštitu od neželjene pošte](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na kartici **Prilagođeno** odaberite **zadano pravilo filtra za neželjenu poštu** ili bilo koje drugo prilagođeno pravilo koje ste stvorili, a zatim odaberite **Uređivanje pravilnika**.
-3. Proširite mogućnost **Svojstva neželjene pošte** , a zatim Pregled **oznake u obliku neželjene pošte** .
+1. Idite na [centar Office 365 sigurnosti & usklađenosti](https://go.microsoft.com/fwlink/p/?linkid=2077143), a zatim idite na Zaštita od **neželjene**  >  **pošte pravilnika**  >  [za upravljanje prijetnjama](https://go.microsoft.com/fwlink/?linkid=2101518).
+2. Na kartici **Prilagođeno** odaberite zadani pravilnik filtra **neželjene** pošte ili neki drugi prilagođeni pravilnik koji ste možda stvorili, a zatim odaberite **Uređivanje pravilnika**.
+3. Proširite mogućnost **Svojstva neželjene** e-pošte i **pregledajte postavke Označi kao neželjenu** poštu.
 
-Dodatne informacije o konfiguriranju pravilnika filtra za neželjenu poštu potražite u članku [Konfiguriranje prilagođenih postavki pravilnika filtra za neželjenu poštu](https://go.microsoft.com/fwlink/?linkid=2101054).
+Dodatne informacije o konfiguriranju pravilnika filtra za neželjenu poštu potražite u članku [Konfiguriranje prilagođenih postavki pravilnika filtra neželjene pošte](https://go.microsoft.com/fwlink/?linkid=2101054).

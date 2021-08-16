@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5672"
-ms.openlocfilehash: 522343ef1e49d59fe019aba8de8bb9e88ddcbe46
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2a8b053f493488a1ab6740cc2433d18f61729fe65959cbd1903ad689000113b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811844"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056446"
 ---
 # <a name="global-reader"></a>Globalni čitač
 
-Korisnici u ovoj ulozi mogu čitati postavke i administrativne podatke na svim servisima sustava Microsoft 365, ali ne mogu poduzeti akcije upravljanja. Globalni je čitač protustavka samo za čitanje globalnog administratora.
-Centar za administratore servisa OneDrive ne podržava ulogu globalnog čitača.
+Korisnici u ovoj ulozi mogu čitati postavke i administrativne informacije na svim Microsoft 365 servisima, ali ne mogu poduzeti akcije upravljanja. Globalni je čitač protustavka samo za čitanje globalnog administratora.
+OneDrive centar za administratore ne podržava ulogu globalnog čitača.
 
 Dodatne informacije o globalnom čitaču i njegovim trenutnim ograničenjima potražite u članku [Globalni čitač](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader).

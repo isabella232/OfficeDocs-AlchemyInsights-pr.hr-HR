@@ -1,5 +1,5 @@
 ---
-title: Primjeri pravilnika o privitku programa Microsoft Defender za Office 365
+title: Example Microsoft Defender for Office 365 Sef Attachment policy
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 077762dd37a2974b4e519c1f242fa753623cb49a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7294be81a24fa61a92367bae304798a333cb916c8718e28b1a87314c15ef6c8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743677"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988287"
 ---
-# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Primjeri pravilnika o privitku programa Microsoft Defender za Office 365
+# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Example Microsoft Defender for Office 365 Sef Attachment policy
 
-Ove postavke omogućuju pravilo koje se zove *nema kašnjenja* koje odmah dostavljaju poruke, a zatim ponovno prilaže privitke nakon skeniranja:
+Te postavke omogućuju  pravilnik bez kašnjenja koji odmah šalje poruke, a zatim ponovno šalje privitke nakon što ih skenirate:
 
-- **Naziv**: nema kašnjenja
-- **Opis**: odmah dostavlja poruke i ponovno prilaže privitke nakon skeniranja.
-- **Odgovor**: odaberite mogućnost **dinamičke isporuke** . Dodatne informacije potražite u članku [dinamička isporuka u pravilima sigurnog privitaka](https://go.microsoft.com/fwlink/?linkid=2092328).
-- Odjeljak **preusmjeravanje privitaka** : odaberite mogućnost **Omogućivanje preusmjeravanja**, a zatim unesite adresu e-pošte sustava Microsoft 365 Global administrator, administrator sigurnosti ili sigurnosni analitičar koji će istraživati zlonamjerne privitke.
-- **Primijenjena na** sekciju: odaberite **domenu primatelja**, a zatim odaberite svoju domenu. Odaberite **Dodaj**, a zatim odaberite **u redu**. Kada završite, odaberite **Spremi**.
+- **Naziv**: Bez kašnjenja
+- **Opis:** šalje poruke odmah i ponovno šalje privitke nakon skeniranja.
+- **Odgovor**: odaberite mogućnost **Dinamička** isporuka. Dodatne informacije potražite u odjeljku [Dinamička isporuka u Sef privici](https://go.microsoft.com/fwlink/?linkid=2092328).
+- **Odjeljak Za preusmjeravanje** privitka: odaberite mogućnost Omogući preusmjeravanje **,** a zatim unesite adresu e-Microsoft 365 pošte globalnog administratora, administratora sigurnosti ili sigurnosnog analitičara koji će istraživati zlonamjerne privitke.
+- **Odjeljak Primijenjeno** na: **odaberite Domena primatelja** jest , a zatim odaberite domenu. Odaberite **dodaj**, a zatim U **redu**. Kada završite, odaberite **Spremi**.
 
-Dodatne informacije potražite u članku [sigurni privici u programu Microsoft Defender za Office 365](https://go.microsoft.com/fwlink/?linkid=2092213).
+Dodatne informacije potražite u članku [Sef u programu Microsoft Defender za Office 365](https://go.microsoft.com/fwlink/?linkid=2092213).

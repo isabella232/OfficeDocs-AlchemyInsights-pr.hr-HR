@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7784"
-ms.openlocfilehash: 9e686bd33414512b0a3a2bc24477832a508537a8
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 3128402f72f034144a3d58074c65907d3d4f10745a9bdbee58fec14b09f419ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49900836"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056374"
 ---
 # <a name="grant-permissions"></a>Dodjela dozvola
 
-1. **Dodjeljivanje pristanka administratore** korisnika: Pročitajte članak Dodjela odobrenja za administratore [korisnika u aplikaciji](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) za detaljne upute za dodjelu pristanka administratora u okviru Azure portala pomoću Azure ad PowerShell ili iz samog upita za pristanak.
-1. **Dodjela pristanka u ime određenog korisnika**: umjesto dodjele pristanka za cijelu tvrtku ili ustanovu, administrator može pomoću API-ja [programa Microsoft Graph](https://docs.microsoft.com/graph/use-the-api) odobriti pristanak na delegirane dozvole u ime jednog korisnika. Dodatne informacije potražite u članku [dohvaćanje programa Access u ime korisnika](https://docs.microsoft.com/graph/auth-v2-user).
+1. **Davanje pristanka** za administratore [](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) na razini klijenta: pročitajte odjeljak Davanje pristanka administratora na razini klijenta aplikaciji za detaljne upute za davanje pristanka administratora na razini klijenta s portala Azure pomoću komponente Azure AD PowerShell ili samog upita za pristanak.
+1. **Davanje pristanka u ime** određenog korisnika: umjesto davanja pristanka za cijelu organizaciju, administrator može koristiti [i Microsoftov API Graph za](https://docs.microsoft.com/graph/use-the-api) davanje pristanka na delegirane dozvole u ime jednog korisnika. Dodatne informacije potražite u [članku Pristup u ime korisnika](https://docs.microsoft.com/graph/auth-v2-user).

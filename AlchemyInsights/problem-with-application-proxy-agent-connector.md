@@ -1,5 +1,5 @@
 ---
-title: Imam problema s aplikacijom proksiji agent konektor
+title: Imam problem s poveznikom proxy agenta aplikacije
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7802"
-ms.openlocfilehash: d4b4f1c3a309d2bfec4734fe7edad742dff0204e
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: 26c2823a980b7c5112355b33499489f3d2fad9f4033c4a665a0e423a80ef85c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49884813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039706"
 ---
-# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Imam problema s aplikacijom proksiji agent konektor
+# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Imam problem s poveznikom proxy agenta aplikacije
 
-1. Proxy poslužitelj aplikacije Microsoft Azure Active Directory servis je interna komponenta domene koja koristi izlazne veze radi uspostave povezivanja iz krajnjih točaka u oblaku na unutrašnjoj domeni.
-1. Ako nailazite na probleme prilikom instaliranja konektora aplikacije proxy agent, slijedite [ove korake](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) da biste otklonili poteškoće.
-1. Ako koristite poslužitelj za proxy aplikacije za udaljeni pristup lokalnoj web-aplikaciji, ali imate problema s povezivanjem s aplikacijom, pomoću [ovog članka](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) možete otkloniti poteškoće s poveznicima proxy poslužitelja aplikacije Azure Active Directory (Azure AD).
+1. Microsoft Azure Active Directory Application Proxy Connector interna je komponenta domene koja koristi odlazne veze da bi uspostavila vezu iz dostupne krajnje točke u oblaku s internom domenom.
+1. Ako imate problema s instalacijom poveznika proxy agenta aplikacije, slijedite [ove korake da biste otklonili](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) poteškoće.
+1. Ako koristite servis proxy aplikacije za daljinski pristup lokalnoj web-aplikaciji, ali imate poteškoća prilikom [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) povezivanja s aplikacijom, pomoću ovog članka možete otkloniti poteškoće s proxy poveznikom aplikacije Azure Active Directory (Azure AD).
