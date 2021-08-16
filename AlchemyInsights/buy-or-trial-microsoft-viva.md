@@ -1,5 +1,5 @@
 ---
-title: Kupnja ili probni program Microsoft Viva
+title: Kupnja ili probna Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8335"
-ms.openlocfilehash: 0150279cf03a5e4bb25c7a950cbc107abc65cd94
-ms.sourcegitcommit: 45e32fe7fdba358925df0d26daaead2675e2408f
+ms.openlocfilehash: 3052727ce6462984ab56e1d84096fd18a4fb71a0a9242668768793e2d0416ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50294161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996514"
 ---
-# <a name="buy-or-trial-microsoft-viva"></a>Kupnja ili probni program Microsoft Viva
+# <a name="buy-or-trial-microsoft-viva"></a>Kupnja ili probna Microsoft Viva
 
-Microsoft Viva Topics je dostupna za kupnju [ili probnu verziju](https://aka.ms/BuyVivaTopics).
+Teme na platformi Microsoft Viva je dostupna ovdje za kupnju ili [probnu verziju](https://aka.ms/BuyVivaTopics).
 
-Vaša će tvrtka ili ustanova morati koristiti neku od sljedećih pretplata:
+Vaša tvrtka ili ustanova morat će koristiti jednu od sljedećih pretplata:
 
-Microsoft 365 F1, F3, E3, a3, E5, a5, Office 365 F3, E1, a1, E3, a3, E5, a5, Microsoft 365 Business Basic, poslovni standard, Business Premium ili SharePoint K, tarifa 1 ili tarifu 2 da biste imali pravo na tvrtke Microsoft Viva Topics.
+Microsoft 365 F1, F3, E3, A3, E5, A5, Office 365 F3, E1, A1, E3, A3, E5, A5, Microsoft 365 Business Basic, Business Standard, Business premium ili SharePoint K, Plan 1 ili Plan 2 da bi ispunjavali uvjete za Teme na platformi Microsoft Viva.

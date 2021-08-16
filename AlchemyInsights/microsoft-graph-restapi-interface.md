@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graph REST API sučelje
+title: Sučelje API-ja Graph Microsoft Graph REST
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 3c9bf956624775c394534ab150d39193e5e10144
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d8ef9f22e495feba26ecc1d3e21b996b199cbe16c6d3fdbf8e2e50893fe15942
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088535"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027186"
 ---
-# <a name="microsoft-graph-rest-api-interface"></a>Microsoft Graph REST API sučelje
+# <a name="microsoft-graph-rest-api-interface"></a>Sučelje API-ja Graph Microsoft Graph REST
 
-API-j Graph-setovi na krajnjoj točki v 1,0 predstavljaju opću dostupnost (GA), te su prošli kroz rigorozni proces pregleda i povratnih informacija s klijentima da ispunjavaju praktične, proizvodne potrebe.
+Api-Graph na krajnjoj točki v1.0 općenito su dostupni (GA) status i prošli su kroz strogi postupak pregleda i povratnih informacija s korisnicima da bi zadovoljili praktične, proizvodne potrebe.
 
-- Dodatne informacije o grafikonima API v 1,0 potražite u [članku Microsoft Graph Rest API v 1,0 referenca](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
-- Dodatne informacije o beta verziji grafova API-ja potražite u članku [Referenca beta krajnje točke u programu Microsoft Graph](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
+- Dodatne informacije o apiju Graph v1.0 potražite u članku [Referenca za Microsoft Graph REST API v1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
+- Dodatne informacije o beta-verziji Graph API-ja potražite u članku [Referenca beta-Graph microsofta](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
 
-Dodatne informacije o programu Microsoft Graph potražite u [dokumentaciji programa Microsoft Graph](https://docs.microsoft.com/graph/).
+Dodatne informacije o aplikaciji Microsoft Graph potražite u članku [Dokumentacija Graph Microsofta](https://docs.microsoft.com/graph/).
 
 

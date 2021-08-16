@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6112"
 - "9003231"
-ms.openlocfilehash: 8bec7239aa2ce31e843763ac4a2a2be955de58fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f78bc03fde1984ecfd813449e034a9deaf6e4ca4ed1257c89137590e5e55f3c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996694"
 ---
 # <a name="bulk-delete-user"></a>Skupno brisanje korisnika
 
-Možete ukloniti veći broj korisnika iz grupe pomoću datoteke s vrijednostima razdvojenima zarezom (CSV) za masovno brisanje korisnika. Da biste masovno izbrisali korisnike pomoću web-portala Azure AD, pročitajte članak [masovno brisanje korisnika u servisu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/users-bulk-delete).
+Velik broj korisnika iz grupe možete ukloniti pomoću csv datoteke razdvojene zarezom da biste masovno izbrisali korisnike. Da biste masovne korisnike izbrisali pomoću portala Azure AD, pogledajte [skupno brisanje korisnika Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/users-bulk-delete).

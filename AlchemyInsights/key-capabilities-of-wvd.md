@@ -1,5 +1,5 @@
 ---
-title: Ključne mogućnosti virtualnog računala sa sustavom Windows
+title: Ključne mogućnosti značajke Windows virtualne radne površine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067112"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Ključne mogućnosti virtualnog računala sa sustavom Windows
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Ključne mogućnosti značajke Windows virtualne radne površine
 
-Virtualna radna površina u sustavu Windows jest radna površina – Virtualizacija i servis za virtualizaciju aplikacija koji se izvodi u oblaku. Evo što možete učiniti kada pokrenete virtualnu radnu površinu sustava Windows na servisu Azure:
+Windows Virtualna radna površina servis je za virtualizaciju radne površine i virtualizaciju aplikacija koji se izvodi u oblaku. Evo što možete učiniti kada pokrenete virtualnu Windows na servisu Azure:
 
-- Postavljanje višesjednicu implementacije sustava Windows 10 koja omogućuje cjelovit doživljaj sustava Windows 10 pomoću skalabilnosti
-- Virtualizacija aplikacija Microsoft 365 i optimiziranje izvođenja u virtualnim scenarijima s više korisnika
-- Navedite Virtualna stolna računala sa sustavom Windows 7 s slobodnim proširenim sigurnosnim ažuriranjima (ESU)
-- Donesite postojeće usluge udaljene radne površine (RDS-a) i računala sa sustavom Windows Server i aplikacije na bilo koje računalo
-- Upravljanje računalima i aplikacijama sustava Windows 10, Windows Server i Windows 7 s jedinstvenim iskustvom upravljanja
-- Stvaranje potpunog okruženja za virtualizaciju računala u pretplati Azure, bez potrebe za pokretanje dodatnih pristupnih poslužitelja
-- Objavite onoliko bazena glavnog računala koliko vam je potrebno da biste prilagodili različita radna opterećenja
-- U galeriji Azure, donesite vlastite slike za proizvodne opterećenja i testove
-- Smanjivanje troškova pomoću objedinjenih resursa s više sesija
-- Pružanje pojedinačnih vlasništva putem osobnih (stalnih) stolnih računala
+- Postavljanje implementacije više sesija Windows 10 pruža potpunu Windows 10 s skalabilnošću
+- Virtualizirajte Microsoft 365 Apps i optimizirajte ga za pokretanje u virtualnim scenarijima s više korisnika
+- Pružanje Windows 7 virtualnih računala s besplatnim proširenim sigurnosnim ažuriranjima (ESU)
+- Donesite postojeće servise udaljene radne površine (RDS) i Windows poslužiteljske radne površine i aplikacije na bilo koje računalo
+- Upravljanje Windows 10, Windows serverom i Windows 7 radnih površina i aplikacija s jedinstvenim sučeljem za upravljanje
+- Stvaranje potpunog okruženja za virtualizaciju radne površine u pretplati na Azure bez potrebe za pokretanjem dodatnih pristupničkih poslužitelja
+- Objavite koliko god je bazena hostova potrebno da biste prilagodili raznovrsna radna opterećenja
+- Iz galerije azure ponesite vlastite slike za produkcijske radne opterećenja i testove
+- Smanjivanje troškova pomoću objedinjenih resursa za više sesija
+- Pružanje pojedinačnog vlasništva putem osobnih (trajnih) stolnih računala
 
-Dodatne informacije potražite u članku [osnove sustava Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) i [ključnih mogućnosti](https://go.microsoft.com/fwlink/?linkid=2127033).
+Dodatne informacije potražite u članku [Windows značajke Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) i [Ključne mogućnosti](https://go.microsoft.com/fwlink/?linkid=2127033).
 

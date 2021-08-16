@@ -1,5 +1,5 @@
 ---
-title: Omogućivanje zapisnika nadzora
+title: Omogući zapisnik nadzora
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: d92d44d7c4b926eebb231e7ea1fcb90010482c72
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988395"
 ---
-# <a name="enable-the-audit-log"></a>Omogućivanje zapisnika nadzora
+# <a name="enable-the-audit-log"></a>Omogući zapisnik nadzora
 
-Usklađenost s komunikacijom zahtijeva nadziranje zapisnika radi prikazivanja upozorenja i praćenja akcija sanacije koje poduzimaju pregledavatelji. Zapisi nadzora Sažetak su svih aktivnosti povezanih s definiranim Pravilnikom organizacijskog pravilnika, uključujući svaki put kada se promijene pravila usklađivanja komunikacija. Da biste uključili zapisivanje nadzora, učinite sljedeće:
+Usklađenost komunikacije zahtijeva zapisnike nadzora za prikaz upozorenja i praćenje radnji otklanjanja koje su poduzeli pregledavatelji. Zapisnici nadzora sažetak su svih aktivnosti povezanih s definiranim pravilnikom tvrtke ili ustanove, uključujući svaki put kada se promijeni pravilnik o usklađenosti komunikacije. Uključivanje zapisnika nadzora:
 
-1. U [centru za sigurnost & usklađenosti](https://go.microsoft.com/fwlink/?linkid=2101341)otvorite   >  **pretraživanje zapisnika nadzora**.
+1. U centru [za & usklađenosti idite](https://go.microsoft.com/fwlink/?linkid=2101341)na **Pretraživanje**  >  **pretraživanja zapisnika nadzora pretraživanja**.
 2. Odaberite **Uključi nadzor**.
 
-    Kada uključite nadzor, prikazat će se poruka koja kaže da se priprema zapisnik nadzora i da možete pokrenuti pretraživanje u nekoliko sati nakon dovršetka pripreme. Ovu akciju morate obaviti samo jednom.
+    Kada uključite nadzor, prikazat će se poruka u koju piše da je zapisnik nadzora spreman, a pretraživanje možete pokrenuti u nekoliko sati nakon dovršenja pripreme. Tu akciju morate učiniti samo jedanput.
 
-Dodatne informacije potražite u članku [Uključivanje i isključivanje pretraživanja zapisnika nadzora](https://go.microsoft.com/fwlink/?linkid=2129077) i [pretraživanje zapisnika nadzora](https://go.microsoft.com/fwlink/?linkid=2123729).
+Dodatne informacije potražite u članku Uključivanje i isključivanje [pretraživanja zapisnika nadzora i](https://go.microsoft.com/fwlink/?linkid=2129077) [Pretraživanje zapisnika nadzora](https://go.microsoft.com/fwlink/?linkid=2123729).

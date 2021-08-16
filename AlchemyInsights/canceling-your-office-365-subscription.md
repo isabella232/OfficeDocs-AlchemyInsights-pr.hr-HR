@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: ba8ffbb22a1c0c15044c59e7200661054ea36886
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996586"
 ---
 # <a name="canceling-your-subscription"></a>Otkazivanje pretplate?
 
 Žao nam je što odlazite, ali ako želite otkazati pretplatu, evo vaših mogućnosti:
   
 - Ako imate manje od 25 dodijeljenih licenci, pretplatu možete otkazati putem interneta. Idite na **stranicu** \> **[Naplata](https://go.microsoft.com/fwlink/p/?linkid=842054)** proizvoda i pronađite pretplatu koju želite otkazati. Odaberite tri točke (dodatne akcije), a zatim odustani **od pretplate**.
-- Ako imate više od 25 licenci dodijeljenih korisnicima, nazovite [podršku da biste otkazali pretplatu](https://go.microsoft.com/fwlink/p/?linkid=518322).
+- Ako imate više od 25 licenci dodijeljenih korisnicima, smanjite je na manje od 25 da biste otkazali pretplatu ili nazvali podršku da [biste otkazali pretplatu](/microsoft-365/business-video/get-help-support).
   
 **Povrat novca: svi će vam se procijenjeni krediti vratiti u sljedećem ciklusu naplate.**
 

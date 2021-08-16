@@ -1,5 +1,5 @@
 ---
-title: Intune Exchangeov konektor na lokaciji
+title: Intune Exchange lokalni poveznik
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807274"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013956"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Intune Exchangeov konektor na lokaciji
+# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange lokalni poveznik
 
-Pojedinosti o postavljanju konektora između Intune i Exchange koji je domaćin lokalno potražite u sljedećoj dokumentaciji:
+Detalje o postavljanju poveznika između aplikacije Intune i Exchange koji se hostira lokalno potražite u sljedećoj dokumentaciji:
 
-[Postavljanje Intune lokalnog sustava Exchange Connector u programu Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
+[Postavljanje lokalnog priključka intune Exchange na servisu Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**NAJČEŠĆA pitanja**
+**Najčešća pitanja:**
 
-P: prikazuje se pogreška kao što je "verzija poveznika sustava Exchange nije podržana" prilikom pokušaja postavljanja konektora sustava Exchange. Što bi mogao biti uzrok?
+P: Prilikom pokušaja postavili poveznik za Exchange prikazuje se pogreška kao što je "Verzija Exchange Exchange Connector nije podržana". Koji bi uzrok mogao biti?
 
-A: račun koji koristite licenciran je na odgovarajući način – mora imati aktivnu licencu za Intune
+O: Račun koji koristite licenciran je na odgovarajući način – mora imati aktivnu licencu za Intune
 
-P: je li moguće imati više konektora sustava Exchange?
+P: Je li moguće imati više Exchange poveznika?
 
-O: možete postaviti samo jedan poveznik sustava Exchange po neusklađeni stanar po tvrtki ili ustanovi za Exchange. Poveznik se može instalirati samo na jednom poslužitelju u tvrtki ili ustanovi za razmjenu više poslužitelja.
+O: Po klijentu aplikacije Intune po Exchange možete postaviti samo jedan Exchange tvrtke ili ustanove. Poveznik se može instalirati samo na jedan poslužitelj u tvrtki ili ustanovi za razmjenu više poslužitelja.
 
-I ne možete imati konfigurirane konektore za Exchange on-premisu i Exchange Online konfigurirane u istom zakupcu.
+Osim toga, konektore nije moguće konfigurirati za Exchange lokalno i Exchange Online konfigurirane na istom klijentu.
 
-P: može li konektor koristiti CAS Array kao vezu sa sustavom Exchange?
+P: Može li poveznik koristiti POLJE CAS kao vezu s Exchange?
 
-A: određivanje CAS polja nije podržana konfiguracija u postavljanju poveznika. Trebao bi biti naveden samo jedan poslužitelj i trebao bi biti hardcore u konfiguracijskoj datoteci konektora koja se može pronaći u programu
+O: Određivanje POLJA CAS nije podržana konfiguracija u postavljanju poveznika. Potrebno je navesti samo jedan poslužitelj i u konfiguracijskoj datoteci poveznika koji se može pronaći u
 
-programski data\microsoft\microsoft Intune na odjeljku premisa Exchange Connector \ OnpremiseExchangeConnectorServiceConfiguration.xml
+programski podaci\microsoft\microsoft Intune na lokalnom Exchange poveznik\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Pronađite sljedeći unos ```<ExchangeWebServiceURL />``` i zamijenite URL poslužiteljem sustava Exchange.
+Pronađite sljedeću stavku ```<ExchangeWebServiceURL />``` i zamijenite URL poslužiteljem sustava Exchange.
 
-**Primjer**
+**Primjer:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Dodatne informacije o otklanjanju poteškoća potražite u sljedećoj dokumentaciji: [Otklanjanje poteškoća s ubiranjem lokalnog sustava Exchange Connector](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Dodatne informacije o otklanjanju poteškoća potražite u sljedećoj dokumentaciji: Otklanjanje poteškoća s lokalnim [Exchange intune](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
 
-**Omogućivanje verbose zapisivanja za konektor sustava Exchange**
+**Omogućivanje opširanog zapisivanja za Exchange poveznik**
 
-1. Otvorite konfiguracijsku datoteku praćenja Exchange Connector za uređivanje.  
-Datoteka se nalazi na:%ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
+1. Otvorite konfiguracijsku Exchange poveznik radi uređivanja.  
+Datoteka se nalazi na : %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Primjer**
+**Primjer:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Pronađite TraceSourceLine s sljedećim ključem: ifunkcija aprostorisexchangeconnectorservice  
+2. Pronađite TraceSourceLine pomoću sljedećeg ključa: OnPremisesExchangeConnectorService  
   
-3. Promjena vrijednosti čvora SourceLevel iz informacija ActivityTracing (zadano) na verbose ActivityTracing  
+3. Promjena vrijednosti sourceLevel node iz Information ActivityTracing (zadano) u Verbose ActivityTracing  
 
-**Primjer**
+**Primjer:**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -74,6 +74,6 @@ Datoteka se nalazi na:%ProgramData%\Microsoft\Windows Intune Exchange Connector\
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. Ponovno pokretanje servisa Microsoft Intune Exchange  
-5. Potpuna sinkronizacija na portalu Intune dok ne završi, a zatim ponovno promijenite XML u "Information ActivityTracing" i ponovno pokrenite servis Microsoft Intune Exchange.  
-6. Mjesto zapisnika jest: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`
+4. Ponovno pokrenite Microsoft Intune Exchange servis  
+5. Potpuna sinkronizacija na portalu Intune dok ne završi, a zatim ponovno promijenite XML u "Information ActivityTracing" (Informacije ActivityTracing) pa ponovno pokrenite Microsoft Intune Exchange servis.  
+6. Mjesto zapisnika je: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

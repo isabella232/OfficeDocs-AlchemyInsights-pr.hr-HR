@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819504"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996622"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook se ne može povezati s javnim mapama
 
 Ako pristup javnim mapama ne funkcionira za neke korisnike, pokušajte sljedeće:
 
-Povežite se s ljuskom EXO PowerShell i konfigurirajte parametar DefaultPublicFolderMailbox na korisničkom računu problema tako da odgovara parametru na radnom korisničkom računu.
+Povezivanje exo PowerShell i konfigurirati parametar DefaultPublicFolderMailbox na korisničkom računu problema tako da odgovara parametru na radnom korisničkom računu.
 
 Primjer:
 
@@ -33,18 +33,18 @@ Set-Mailbox Korisnik -DefaultPublicFolderMailbox \<value from previous command>
 
 Pričekajte najmanje jedan sat da bi promjena snazi.
 
-Ako problem i dalje postoji, slijedite ovaj [postupak da biste otklonili](https://aka.ms/pfcte) poteškoće s pristupom javnim mapama pomoću programa Outlook.
+Ako problem i dalje postoji, slijedite [ovaj postupak da biste otklonili](https://aka.ms/pfcte) poteškoće s pristupom javnim mapama pomoću Outlook.
  
-**Da biste upravljali korisnicima koji mogu pristupati javnim mapama pomoću programa Outlook:**
+**Da biste upravljali korisnicima koji mogu pristupati javnim mapama pomoću Outlook:**
 
 1.  Korištenje Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true ili $false  
       
-    $true: omogući korisnicima pristup javnim mapama u programu Outlook  
+    $true: korisnicima omogućite pristup javnim mapama u Outlook  
       
-    $false: onemogućivanje korisničkog pristupa javnim mapama u programu Outlook. To je zadana vrijednost.  
+    $false: onemogućivanje korisničkog pristupa javnim mapama u Outlook. To je zadana vrijednost.  
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Napomena** Taj postupak može upravljati vezama samo s klijentima programa Outlook za računala za Windows. Korisnik može nastaviti pristupati javnim mapama pomoću aplikacije OWA ili Outlook za Mac.
+**Napomena** Ovaj postupak može kontrolirati veze samo s Outlook za Windows klijentima. Korisnik može nastaviti pristupati javnim mapama pomoću aplikacije OWA ili Outlook za Mac.
  
-Dodatne informacije potražite u članku [Najava podrške za kontrolirane veze s javnim mapama u programu Outlook](https://aka.ms/controlpf).
+Dodatne informacije potražite u članku [Najava podrške za kontrolirane veze s javnim mapama u sustavu Outlook](https://aka.ms/controlpf).

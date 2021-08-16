@@ -1,5 +1,5 @@
 ---
-title: Najčešća pitanja i rezolucije programa Microsoft Graph
+title: Microsoft Graph uobičajenih problema i rješenja
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: f6473c35cd0a0b2b5450039fca1b407f0f3f6fda
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 099fbd12a9245ad314b27d6e3eac08c1dbc57854e8d6c3165fac81141d83bde6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027258"
 ---
-# <a name="microsoft-graph-common-issues-and-resolutions"></a>Najčešća pitanja i rezolucije programa Microsoft Graph
+# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graph uobičajenih problema i rješenja
 
-Potpuni popis poznatih problema s programom Microsoft Graph potražite u članku [poznati problemi s programom Microsoft Graph](https://docs.microsoft.com/graph/known-issues). Druge pitanja i resurse potražite na stranici glavne [dokumentacije programa Microsoft Graph](https://docs.microsoft.com/graph/) .
+Potpuni popis poznatih problema s programom Microsoft Graph pogledajte u članku Poznati [problemi s programom Microsoft Graph](https://docs.microsoft.com/graph/known-issues). Ostala pitanja i resursi potražite na glavnoj stranici [Graph Dokumentacija](https://docs.microsoft.com/graph/) tvrtke Microsoft.
 
-- [Microsoft Graph Rest API v 1,0 referenca](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
-- Saznajte što se promijenilo u API-ju programa Microsoft Graph iz [podmetnuto](https://docs.microsoft.com/graph/changelog). 
-- [Postavite pitanje ili pružite povratne informacije o API-Jima i dokumentima grafikona](https://aka.ms/GraphDeveloperSupport) s timom za podršku za razvojne inženjere.
+- [Referenca za Microsoft Graph REST API v1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
+- Saznajte što se promijenilo u API-ju za Microsoft Graph u alatu [Changelog](https://docs.microsoft.com/graph/changelog). 
+- [Postavite pitanje ili pošaljite povratne informacije o API-Graph i dokumentima pomoću](https://aka.ms/GraphDeveloperSupport) tima za podršku za razvojne inženjere.
 
-Jedinstvena podrška i Premier klijenti mogu podići kartu za podršku pomoću ovog portala. Drugi mogu pristupiti besplatnoj podršci za razvojne inženjere za Microsoft Graph na aplikaciji [Microsoft Q&A](https://aka.ms/AskGraph).
+Unified Support i korisnici programa Premier mogu kupiti kartu za podršku putem ovog portala. Drugi korisnici mogu pristupati besplatnoj podršci za razvojne inženjere za Microsoft Graph microsoft [q&A](https://aka.ms/AskGraph).
