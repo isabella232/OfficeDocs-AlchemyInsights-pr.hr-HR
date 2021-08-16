@@ -1,5 +1,5 @@
 ---
-title: Microsoftovi popisi
+title: Microsoft Lists
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: a773279a47a6e5462e9c06837513e75ce3d4f318
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: c1e2e6edaa3df301da0a7f5acb4197a5221bc5058e5c8158001e1f97692bcba4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576207"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098018"
 ---
-# <a name="microsoft-lists"></a>Microsoftovi popisi
+# <a name="microsoft-lists"></a>Microsoft Lists
 
-Microsoft pokreće prvu fazu Microsoftovih popisa, aplikaciju Microsoft 365. Microsoftovi popisi središnje su mjesto za prikaz svih popisa i upravljanje njima.  
+Microsoft pokreće prvu fazu Microsoft Lists, Microsoft 365 aplikaciju. Microsoft Lists je središnje mjesto za vidjeti sve popise i upravljati njima.  
   
-Značajka je sada 100% dostupna bilo kojem korisniku s licencom sustava SharePoint, a ikona popisa dostupna je iz pokretača aplikacija.
+Značajka je sada 100 % dostupna svakom korisniku s SharePoint licencom, a ikona Popisi dostupna je putem pokretača aplikacija.
 
-Kao globalni administrator ili administratore sustava SharePoint u programu Microsoft 365, možete kontrolirati postavke za Microsoftove popise. možeš:
+Kao globalni ili SharePoint administrator u Microsoft 365, možete kontrolirati postavke za Microsoft Lists. možeš:
 
-- Onemogućite Stvaranje osobnih popisa (onemogućujete korisnicima spremanje novih popisa u "Moji popisi").
-- Onemogućivanje ugrađenih predložaka popisa koji nisu relevantni za vašu tvrtku ili ustanovu.
-Prikaz [popisa kontrola](https://docs.microsoft.com/sharepoint/control-lists)
+- Onemogućivanje stvaranja osobnih popisa (korisnicima onemogućuje spremanje novih popisa u "Moji popisi").
+- Onemogućite ugrađene predloške popisa koji nisu relevantni za vašu organizaciju.
+Pogledajte [popise kontrola](https://docs.microsoft.com/sharepoint/control-lists)
 
-Dodatne informacije potražite u [članku Microsoftovi popisi](https://aka.ms/microsoftlists).
+Dodatne informacije potražite u [članku Microsoft Lists](https://aka.ms/microsoftlists).
