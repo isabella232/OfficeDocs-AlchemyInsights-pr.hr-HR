@@ -1,5 +1,5 @@
 ---
-title: Omogućivanje suglasnosti za usklađenost komunikacija
+title: Omogućivanje dozvola za usklađenost komunikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: c841232525dd2eabc068494a1e22975d428705dc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a845e9c51741f69edba328fbf147847d44690a211af0c091fe29733414f771b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058714"
 ---
-# <a name="enable-permissions-for-communication-compliance"></a>Omogućivanje suglasnosti za usklađenost komunikacija
+# <a name="enable-permissions-for-communication-compliance"></a>Omogućivanje dozvola za usklađenost komunikacije
 
 Evo i kako:
 
-1. Prijavite se na [https://protection.office.com/permissions](https://go.microsoft.com/fwlink/?linkid=2129828) Korištenje vjerodajnica za administratorski račun u tvrtki Microsoft 365.
-2. U [centru za sigurnost & usklađenosti](https://go.microsoft.com/fwlink/?linkid=2101341)otvorite **dozvole**. Odaberite vezu za prikaz i upravljanje ulogama u sustavu Office 365, a zatim odaberite **\+ Stvori**.
-3. U polje **naziv** dodijelite novom grupi ulogu prijateljski naziv. Odaberite **dalje**.
-4. Odaberite **Odaberi uloge**, a zatim odaberite **Dodaj**. Potvrdite okvir za **administratore nadzornih pregleda**, **Upravljanje slučajem**, **administrator sukladnosti** i **Pregled**, odaberite **Dodaj**, a zatim odaberite **gotovo**. Odaberite **dalje**.
-5. Odaberite **Odabir članova**, a zatim **Dodaj**. Potvrdite okvir za sve korisnike i grupe za koje želite stvoriti pravila i upravljajte porukama s podudaranjem pravilnika, odaberite **Dodaj**, a zatim odaberite **gotovo**. Odaberite **dalje**.
-6. Odaberite **Stvori grupu uloga** koja će se dovršiti.
+1. Prijavite se u [https://protection.office.com/permissions](https://go.microsoft.com/fwlink/?linkid=2129828) korištenje vjerodajnica za administratorski račun u tvrtki Microsoft 365 tvrtki ili ustanovi.
+2. U centru [za & usklađenost idite](https://go.microsoft.com/fwlink/?linkid=2101341)na **Dozvole**. Odaberite vezu da biste prikazali uloge i upravljali Office 365, a zatim **\+ odaberite Stvori**.
+3. U polju **Naziv** novoj grupi uloga dajte prijateljski naziv. Odaberite **Dalje**.
+4. Odaberite **Odaberite uloge**, a zatim **Dodaj**. Potvrdite okvir za administratora nadzornog **pregleda** **,** Upravljanje predmetima , Administrator **usklađenosti** i Pregled **,** odaberite **Dodaj**, a zatim **Gotovo**. Odaberite **Dalje**.
+5. Odaberite **Odabir članova**, a zatim **Dodaj**. Potvrdite okvir za sve korisnike i grupe za koje želite stvoriti pravilnike i upravljati porukama s podudaranja pravilnika, **odaberite Dodaj**, a zatim **Gotovo**. Odaberite **Dalje**.
+6. Da **biste dovršili, odaberite Stvori** grupu uloga.
 
-Dodatne informacije o grupama i dozvolama za uloge potražite [u članku dozvole potrebne za korištenje značajki u centru za sigurnost & usklađenosti](https://go.microsoft.com/fwlink/?linkid=2114184).
+Dodatne informacije o grupama uloga i dozvolama potražite u članku [Dozvole potrebne za korištenje značajki](https://go.microsoft.com/fwlink/?linkid=2114184)u centru za & usklađenosti .

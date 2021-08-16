@@ -1,5 +1,5 @@
 ---
-title: OneDrive za tog korisnika nije dodijeljen.
+title: OneDrive ovom korisniku nije dodijeljena dodjela resursa
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 07ac096452e603f05fd1b332bc318fdaa911340c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d3ef8d405abc1d0a36b448804f0bdc7ced616a7a5933c142bfd3dd7e4596bd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672804"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984741"
 ---
-# <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive za tog korisnika nije dodijeljen.
+# <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive ovom korisniku nije dodijeljena dodjela resursa
 
-Za novostvorene račune korisnici se moraju prijaviti u centar za administratore sustava Microsoft 365 s vlastitim računom i kliknuti OneDrive da bi ručno pokrenuli pružanje web-mjesta servisa OneDrive.
+Za novostvorene račune korisnici se moraju prijaviti u Centar za administratore okruženja Microsoft 365 vlastitim računom i kliknuti OneDrive da bi ručno pokrenuli pružanje OneDrive web-mjesta.
   
-No ako je korisnik već kliknuo OneDrive i njihovo osobno web-mjesto nije dodijeljen u roku od 24 sata, prijavite karticu za podršku za daljnju pomoć.
+No ako je korisnik već klikio OneDrive a njihovo osobno web-mjesto nije dodijeljeno u roku od 24 sata, prijavite kartu za podršku za dodatnu pomoć.
   
 

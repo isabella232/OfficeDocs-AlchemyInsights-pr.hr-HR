@@ -1,5 +1,5 @@
 ---
-title: Microsoftovi timovi prestat će raditi na pregledniku Internet Explorer 11 od 30. studenog
+title: Microsoft Teams će prestati raditi na pregledniku Internet Explorer 11 od 30. studenog
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004213"
 - "7406"
-ms.openlocfilehash: b9558864ea632be3a69dc8af98dc4d47e19bee30
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
-ms.translationtype: MT
+ms.openlocfilehash: 339a179e1be88d80dc9df377eb06853f9184b4305b9fd029f565ba54fd30e546
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026934"
 ---
-# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoftovi timovi prestat će raditi na pregledniku Internet Explorer 11 od 30. studenog
+# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft Teams će prestati raditi na pregledniku Internet Explorer 11 od 30. studenog
 
-Kao što je priopćeno u MC225570, počevši od studenog 30, 2020, Microsoft timovi web app više neće podržavati Internet Explorer (IE) 11. 
+Kao što je komunicirano u aplikaciji MC225570, počevši od 30. studenog 2020., web-aplikacija Microsoft Teams više neće podržavati Internet Explorer (IE) 11. 
 
-Preporučujemo da ažurirate novi [Microsoft Edge](https://www.microsoft.com/edge) radi sigurnije i inovativnijeg internetskog iskustva. 
+Preporučujemo da na novu web-Microsoft Edge [ažurirate](https://www.microsoft.com/edge) sigurnije i inovativnije internetsko iskustvo. 
 
-Dodatne informacije potražite [u članku aplikacije Microsoft 365 Pozdravit će se u pregledniku Internet Explorer 11 i Windows 10 zalaske sunca (Microsoft Edge Legacy) – Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
+Dodatne informacije potražite u članku Microsoft 365 aplikacije za pozdrave preglednika [Internet Explorer 11 i Windows 10 zalaska sunca starija verzija preglednika Microsoft Edge – Microsoftova tehnička zajednica](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
 

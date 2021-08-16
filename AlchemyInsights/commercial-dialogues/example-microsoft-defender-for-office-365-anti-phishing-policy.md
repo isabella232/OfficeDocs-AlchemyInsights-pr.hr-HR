@@ -1,5 +1,5 @@
 ---
-title: Primjer Microsoft Defender za Office 365 anti-phishing pravilnik
+title: Primjer Pravilnika o Office 365 Microsoft Defender za zaštitu od krađe identiteta
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034998"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Primjer Microsoft Defender za Office 365 anti-phishing pravilnik
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Primjer Pravilnika o Office 365 Microsoft Defender za zaštitu od krađe identiteta
 
-Ove postavke omogućuju politiku zvanu *domena i izvršni direktor*. Ovo pravilo omogućuje oponašanje korisnika i domene, a zatim pravilnik primjenjuje na sve e-poštu primljene od korisnika unutar domene. Najprije dodajte sljedeće podatke da biste stvorili pravilo:
+Te postavke omogućuju pravilnik pod nazivom *Domena i izvršni direktor*. Ovaj pravilnik pruža zaštitu korisnika i domene od oponašanja, a zatim primjenjuje pravilnik na sve poruke e-pošte koje su primili korisnici unutar domene. Najprije dodajte sljedeće informacije da biste stvorili pravilnik:
 
-- **Naziv**: domena i ceo **Opis**: osigurava da se izvršni direktor i vaša domena ne oponašate.
-  **Primijenjena na**: odaberite **domenu primatelja**. U odjeljku **bilo koji od ovih** mogućnosti odaberite **Odaberi**, a zatim odaberite domenu. Odaberite **+ Dodaj**. Potvrdite okvir pokraj naziva domene na popisu (na primjer, *contoso.com*), a zatim odaberite **Dodaj**. Odaberite **gotovo**.
-- Nakon stvaranja pravilnika možete precizno podesiti pravilo pomoću sljedećih mogućnosti:
-  - **Dodavanje korisnika u zaštitu:** U ovom primjeru na minimum dodajte adresu e-pošte glavnog direktora.
-  - **Dodajte domene koje treba štititi**: Dodajte organizacijsku domenu koja obuhvaća ured izvršnog direktora.
-  - **Odaberite akcije**: **Ako je e-pošta poslao imitirani korisnik**, odaberite **Preusmjeri poruku na drugu adresu e-pošte**, a zatim unesite adresu e-pošte sigurnosnog administratora (na primjer, *securityadmin@contoso.com*). **Ako je e-pošta poslala imitirana domena**, odaberite **karantensku poruku**.
-  - **Inteligencija poštanskog sandučića**: po zadanom je odabrana ta mogućnost prilikom stvaranja novog pravilnika o krađi identiteta. Ovu **postavku ostavite radi najboljih** rezultata.
-  - **Dodavanje pouzdanih pošiljatelja i domena:** U ovom primjeru nemojte definirati prekoračenja.
-- Kada pregledate postavke, odaberite **Stvori ovo pravilo** ili **Spremi**, po potrebi.
+- **Naziv:** Domain and CEO **Description:** Ensures that the CEO and your domain are not beingersonated.
+  **Primijenjeno na**: **Odaberite domenu primatelja**. U **odjeljku Bilo koji od** tih mogućnosti **odaberite Odaberite**, a zatim odaberite domenu. Odaberite **+ Dodaj**. Potvrdite okvir pokraj naziva domene na popisu (na *primjer,* contoso.com ), a zatim odaberite **Dodaj**. Odaberite **Gotovo**.
+- Nakon stvaranja pravilnika pravilnik možete precizno podesiti pomoću sljedećih mogućnosti:
+  - **Dodavanje korisnika radi zaštite:** U ovom primjeru dodajte barem adresu e-pošte izvršnog direktora.
+  - **Dodavanje domena radi zaštite:** dodajte domenu tvrtke ili ustanove koja obuhvaća ured glavnog direktora.
+  - **Odaberite akcije**: **ako** e-poštu šalje oponašani korisnik , odaberite Preusmjeri poruku **na** drugu adresu e-pošte , a zatim unesite adresu e-pošte sigurnosnog administratora *(npr. securityadmin@contoso.com).* Ako **poruku e-pošte šalje oponašana domena**, odaberite **Karantena poruke**.
+  - **Inteligencija poštanskog** sandučića : ta je mogućnost po zadanom odabrana kada stvorite novi pravilnik za zaštitu od krađe identiteta. Ostavite tu postavku **na radi** najboljih rezultata.
+  - **Dodavanje pouzdanih pošiljatelja i domena:** U ovom primjeru nemojte definirati nadjačavanja.
+- Kada pregledate postavke, odaberite Stvori **ovaj** pravilnik ili **Spremi**, prema potrebi.
 
-Dodatne informacije potražite u članku [politika suzbijanja krađe identiteta u programu Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).
+Dodatne informacije potražite u članku Pravila za [zaštitu od krađe identiteta u Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).
