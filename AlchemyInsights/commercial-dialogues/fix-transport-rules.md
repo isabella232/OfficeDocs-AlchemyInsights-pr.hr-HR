@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 635009ed4b78d2b05b0eef1f3298765b10f86ede
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d89283dec427ba3d4f55fc1f180efc13da16ae15c3d5a6c0c06a696faa6df7f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034746"
 ---
 # <a name="fix-transport-rules"></a>Rješavanje pravila prijenosa
 
-Prilagođeno pravilo tijeka e-pošte utjecalo je na ovu poruku. Da biste pregledali točno pravilo, učinite sljedeće:
+Prilagođeno pravilo tijeka pošte utjecalo je na ovu poruku. Da biste pregledali točno pravilo, učinite sljedeće:
 
-1. U rezultatima slanja u odjeljku **Dodatne informacije** obratite pozornost na **GUID** ili **naziv pravilnika**.
-2. Pokreni ljusku za upravljanje sustavom Exchange. Dodatne informacije potražite u članku [Otvaranje ljuske za upravljanje sustavom Exchange](https://go.microsoft.com/fwlink/?linkid=2101432).
-3. Pokretanje ove naredbe (pomoću GUID-a iz slanja):  **Nabavite-TransportRule-Identity "GUID" | FL * Opis***
-4. Pregledajte Opis da biste vidjeli konfigurirane uvjete koji su utjecali na poruku.
+1. U rezultatima slanja u **odjeljku Dodatne informacije** obratite pozornost **na GUID** ili **naziv pravilnika.**
+2. Pokrenite Exchange Management Shell. Dodatne informacije potražite u članku [Otvaranje ljuske Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
+3. Pokrenite ovu naredbu (pomoću GUID-a iz slanja):  **Get-TransportRule -identity "GUID" | fl * Description***
+4. Pregledajte opis da biste vidjeli konfigurirane uvjete koji utječu na poruku.
 
-Dodatne informacije potražite u članku [transport-Teleporttrule](https://go.microsoft.com/fwlink/?linkid=2101523).
+Dodatne informacije potražite u članku [Get-TransportRule](https://go.microsoft.com/fwlink/?linkid=2101523).

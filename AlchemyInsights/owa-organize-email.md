@@ -1,5 +1,5 @@
 ---
-title: Organiziranje e-pošte u programu Outlook na webu
+title: Organiziranje e-pošte Outlook na webu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,19 +10,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: c5a97cbeca4cfae1deac9171d7df4a81e33d88dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f776d830fc3e017c8611353f31af8f0164f2f0873d01d0d6bc5bc5f5c92eef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666286"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983085"
 ---
 # <a name="organize-your-email"></a>Organiziranje e-pošte
 
-U programu Outlook na webu možete koristiti naredbe kao što su **čišćenje** i **Premještanje** da biste automatski izbrisali ili premjestili poruke od određenog pošiljatelja. Te se naredbe prikazuju iznad popisa poruka kada odaberete poruku u ulaznoj pošti.
+U Outlook webu možete koristiti naredbe kao  što su Čišćenje i **Premještanje da** biste automatski izbrisali ili premjestili poruke određenog pošiljatelja. Te se naredbe prikazuju iznad popisa poruka kada odaberete poruku u ulaznoj pošti.
 
-- **Očisti** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh0YMtZrTgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABjElEQVQ4jaXTocvqUBzG8e/GAYOvDAxiEYMoKKIiZk2CzWqYC4LV4j8iWA1jgoh/gOiCRpthQXAgNplgmWDTecO9Xrw4X/C9Tz7nw++c5xzpfD7f+UE8z8O2bcbjMd1uF/l/kOFwSLPZJBQKfQ49I61Wi0QiAfAZ9A75CPoOARB+G/b7PYvFgvV6jed5ZLNZisUi0+nUFwGQnlu73W5YlsVkMqFer1Mqlbher6xWK+bzOY1Gg0Kh4DuxeAC73Q7TNLFtm6+vL8LhMEIIhBBUKhUkSWK5XL6FZNd1GY1G9Pt9yuUyvV4PTdPQdR3btn8vkmXS6TSXywXXdf0hRVGoVqvEYjEOhwOyLJNKpV4wSZIIBAK+CPxpLRqNomkalmUxm81esO12y2azQQiBoii+0D+X7TgOhmGQy+Wo1Wp/Kx8MBtzvdzqdDvF4/P1Ej/hNFolESCaTqKr6FgGfd/TADMMAIBgMcjqdyOfzb5GXoz3HcRx0Xed4PNJut8lkMj+DHphpmqiqiix//5t+AT3dz3bYNq1VAAAAAElFTkSuQmCC' />
- omogućuje brzo brisanje poruka u ulaznoj pošti. Možete automatski izbrisati sve dolazne poruke e-pošte od tog pošiljatelja, zadržati samo najnoviju e-poštu i izbrisati ostatak ili izbrisati e-poštu stariju od 10 dana.
-- **Premještanje na** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMCAYAAABvEu28AAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh4VZ0pEMAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABG0lEQVQokZWSoc6CYBSGH74xRnLIyOpmshPszBvwEhhFb4AgkeuwEIxfN0kz4TXgnMZvNAqfBve7OWHwv/E8756dsx3j8Xg8pZTkeU5bXNcljmNc123lfzHKsnxKKQmCgOl0+gWbpuF4PFIUBXEcY5pmp6ibAIZhMJ/POZ1ObDab1o7jOOx2u7eormvSNG0tjkYjoihisVj8MKUUUkqqqnqLbNsmSZKf0/4T0TbUWnM+nymKYrDIHI/HhGH4bReCyWRClmVorfF9v1+klOJwOHC5XFoLt9sNz/OYzWb9G2232x9wv9/JsowgCHolAEIpxX6/pyzLz1BrzfV6ZbVaDToLOv5ICMFyuRwk+Igsy8KyrM4/6ovjOKzXa15yYmGtPwy4eAAAAABJRU5ErkJggg==' /> omogućuje pomicanje poruke određenoj poruci u neku drugu mapu.
+- **Čišćenje** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAQCAYAAAAbBi9cAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh0YMtZrTgAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABjElEQVQ4jaXTocvqUBzG8e/GAYOvDAxiEYMoKKIiZk2CzWqYC4LV4j8iWA1jgoh/gOiCRpthQXAgNplgmWDTecO9Xrw4X/C9Tz7nw++c5xzpfD7f+UE8z8O2bcbjMd1uF/l/kOFwSLPZJBQKfQ49I61Wi0QiAfAZ9A75CPoOARB+G/b7PYvFgvV6jed5ZLNZisUi0+nUFwGQnlu73W5YlsVkMqFer1Mqlbher6xWK+bzOY1Gg0Kh4DuxeAC73Q7TNLFtm6+vL8LhMEIIhBBUKhUkSWK5XL6FZNd1GY1G9Pt9yuUyvV4PTdPQdR3btn8vkmXS6TSXywXXdf0hRVGoVqvEYjEOhwOyLJNKpV4wSZIIBAK+CPxpLRqNomkalmUxm81esO12y2azQQiBoii+0D+X7TgOhmGQy+Wo1Wp/Kx8MBtzvdzqdDvF4/P1Ej/hNFolESCaTqKr6FgGfd/TADMMAIBgMcjqdyOfzb5GXoz3HcRx0Xed4PNJut8lkMj+DHphpmqiqiix//5t+AT3dz3bYNq1VAAAAAElFTkSuQmCC' />
+ omogućuje brzo brisanje poruka u ulaznoj pošti. Možete automatski izbrisati sve dolazne poruke e-pošte tog pošiljatelja, zadržati samo najnoviju poruku e-pošte i izbrisati ostatak ili izbrisati e-poštu stariju od 10 dana.
+- **Premjesti na** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMCAYAAABvEu28AAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFh4VZ0pEMAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABG0lEQVQokZWSoc6CYBSGH74xRnLIyOpmshPszBvwEhhFb4AgkeuwEIxfN0kz4TXgnMZvNAqfBve7OWHwv/E8756dsx3j8Xg8pZTkeU5bXNcljmNc123lfzHKsnxKKQmCgOl0+gWbpuF4PFIUBXEcY5pmp6ibAIZhMJ/POZ1ObDab1o7jOOx2u7eormvSNG0tjkYjoihisVj8MKUUUkqqqnqLbNsmSZKf0/4T0TbUWnM+nymKYrDIHI/HhGH4bReCyWRClmVorfF9v1+klOJwOHC5XFoLt9sNz/OYzWb9G2232x9wv9/JsowgCHolAEIpxX6/pyzLz1BrzfV6ZbVaDToLOv5ICMFyuRwk+Igsy8KyrM4/6ovjOKzXa15yYmGtPwy4eAAAAABJRU5ErkJggg==' /> omogućuje premještanje poruke određene poruke u drugu mapu.
 
-Dodatne informacije potražite u članku [rad s mapama poruka u programu Outlook na webu](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Dodatne informacije potražite u članku [Rad s mapama poruka Outlook na webu](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).

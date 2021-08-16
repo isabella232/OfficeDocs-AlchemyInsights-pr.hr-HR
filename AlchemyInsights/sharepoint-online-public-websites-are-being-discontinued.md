@@ -1,5 +1,5 @@
 ---
-title: Ukinute su javne web-stranice sustava SharePoint Online
+title: SharePoint Internetska javna web-mjesta ukinuta su
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051262"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Ukinute su javne web-stranice sustava SharePoint Online
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Internetska javna web-mjesta ukinuta su
 
-Ako ste stvorili javno web-mjesto sustava SharePoint Online, možete ga nastaviti koristiti do 31. ožujka, 2018. Ako želite nastaviti imati javno web-mjesto, morate stvoriti novu pomoću novog davatelja usluge. Sadržaj na javnom web-mjestu sustava SharePoint Online izbrisat će se pa morate kopirati sve sadržaje koje želite zadržati.
+Ako ste stvorili javno web-SharePoint web-mjesto na servisu SharePoint, možete ga nastaviti koristiti do 31. ožujka 2018. Ako želite nastaviti s javnim web-mjestom, morate stvoriti novo s novim davateljem usluga. Sadržaj na javnom web-mjestu SharePoint online izbrisat će se, stoga morate kopirati sadržaj koji želite zadržati.
   
-Banner sada prikazuje se pri vrhu javnog web-mjesta sustava SharePoint Online kao obavijest da će se web-mjesto ukloniti. Ne možete isključiti ovaj transparent. Informacije o spremanju i kopiranju sadržaja na partnersko web-mjesto potražite u članku [Detalji o postupku prekida značajke](https://go.microsoft.com/fwlink/?linkid=866980).
+Natpis se sada prikazuje pri vrhu javnog web-mjesta SharePoint online kao obavijest da će se web-mjesto ukloniti. Ovaj natpis ne možete isključiti. Informacije o spremanju i kopiranju sadržaja na partnerskom web-mjestu potražite u članku [Pojedinosti o postupku prekida značajke](https://go.microsoft.com/fwlink/?linkid=866980).
   

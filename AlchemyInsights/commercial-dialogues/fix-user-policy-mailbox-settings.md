@@ -1,5 +1,5 @@
 ---
-title: Rješavanje postavki korisničkog pravilnika/poštanskog sandučića
+title: Rješavanje problema s korisničkim pravilnikom/postavkama poštanskog sandučića
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743860"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034710"
 ---
-# <a name="fix-user-policymailbox-settings"></a>Rješavanje postavki korisničkog pravilnika/poštanskog sandučića
+# <a name="fix-user-policymailbox-settings"></a>Rješavanje problema s korisničkim pravilnikom/postavkama poštanskog sandučića
 
-Postavke bezvrijedne pošte na poštanskom sandučiću utječu na ovu poruku. Da biste pregledali postavke, učinite sljedeće:
+Postavke bezvrijedne pošte u poštanskom sandučiću utjecale su na ovu poruku. Da biste pregledali postavke, učinite sljedeće:
 
-1. Pokreni ljusku za upravljanje sustavom Exchange. Dodatne informacije potražite u članku [Otvaranje ljuske za upravljanje sustavom Exchange](https://go.microsoft.com/fwlink/?linkid=2101432).
-2. Pokretanje ove naredbe (pomoću adrese e-pošte korisnika):  **Nabavite-mailboxjunkmailconfiguration – Identity "user@domain.com"**
-3. Provjerite je li adresa e-pošte pošiljatelja dio servisa **trustedesendersanddomains** ili **blockedsendersanddomains**. Ako je adresa e-pošte na jednom od popisa, možda ćete je morati ukloniti. Dodatne informacije potražite u članku [Konfiguracija postavke MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).
+1. Pokrenite Exchange Management Shell. Dodatne informacije potražite u članku [Otvaranje ljuske Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
+2. Pokrenite ovu naredbu (pomoću korisnikova adrese  **e-pošte): get-mailboxjunkmailconfiguration -identity "user@domain.com"**
+3. Provjerite je li adresa e-pošte pošiljatelja dio **trustedSendersAndDomains** ili **BlockedSendersAndDomains**. Ako se adresa e-pošte nalazi na jednom od popisa, možda ćete je morati ukloniti. Dodatne informacije potražite u članku [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).
