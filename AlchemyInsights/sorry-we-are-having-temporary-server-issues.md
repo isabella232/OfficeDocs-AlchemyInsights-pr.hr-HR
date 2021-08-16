@@ -1,5 +1,5 @@
 ---
-title: Rješavanje problema s aplikacijom Microsoft 365 Nažalost, imamo poruku o privremenim problemima s poslužiteljem
+title: Rješavanje Microsoft 365 aplikacija Nažalost, imamo poruku o privremenim problemima s poslužiteljem
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aa0d625856df1027146de5af57845224e3056d8c21d9ac4cefbd4a9c329f487c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021588"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Popravljanje aplikacije Microsoft 365 "Nažalost, imamo privremene probleme s poslužiteljem"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Rješavanje problema Microsoft 365 "Nažalost, imamo privremene probleme s poslužiteljem"
 
 Ako primite ovu poruku, pokušajte sljedeće:
 
-1. Provjerite postavke vatrozida, antivirusnog softvera i proxyja da biste potvrdili da ne blokiraju pristup internetu aplikacijama Microsoft 365. Pogledajte [URL-ove i raspone IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Provjerite postavke vatrozida, antivirusnog softvera i proxyja da biste potvrdili da ne blokiraju pristup internetu Microsoft 365 aplikacijama. Pogledajte [URL-ove i raspone IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 2. Idite na **Pokreni**  >  **pokreni**, a zatim upišite **services.msc**. Provjerite jesu li svi sljedeći servisi pokrenuti:
     - Automatsko postavljanje mrežnih uređaja
     - Servis za mrežni popis
     - Svijesti o mrežnom mjestu
-    - Zapisnik događaja u sustavu Windows
+    - Windows Zapisnik događaja
 
 Ako neki od tih servisa nije pokrenut, pokušajte ga pokrenuti. Ako imate problema s pokretanjem servisa, pokrenite sljedeću naredbu tako da otvorite naredbeni redak s dodatnim dozvolama:
 
