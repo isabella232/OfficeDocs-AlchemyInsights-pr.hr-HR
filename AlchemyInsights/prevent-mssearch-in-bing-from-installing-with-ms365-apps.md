@@ -1,5 +1,5 @@
 ---
-title: Sprečavanje Microsoftova pretraživanja u programu Bing u instalaciji s aplikacijama Microsoft 365
+title: Onemogućivanje Microsoft pretraživanje u Bing instalaciju pomoću Microsoft 365 Apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816105"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040102"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Sprečavanje Microsoftova pretraživanja u programu Bing u instalaciji s aplikacijama Microsoft 365
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Onemogućivanje Microsoft pretraživanje u Bing instalaciju pomoću Microsoft 365 Apps
 
-Da biste onemogućili pozadinski servis za Microsoft Search u programu Bing u instalaciji s aplikacijama Microsoft 365 za Enterprise, upotrijebite neku od sljedećih mogućnosti:
+Da biste spriječili Microsoft pretraživanje Bing instalaciju Microsoft 365 Apps za velike tvrtke, koristite jednu od sljedećih mogućnosti:
 
-- Alat za implementaciju sustava Office ili pravilnik grupe
-- Upravitelj konfiguracije za Microsoft Endpoint (trenutno ogranci) ili Microsoft Intune
+- Alat Office implementacije ili pravilnik grupe
+- Microsoft Endpoint Configuration Manager (trenutni ogranak) ili Microsoft Intune
 
-Dodatne informacije potražite u članku [sprečavanje instalacije servisa za pozadinsku službu za Microsoft Search u programu Bing pomoću aplikacija microsoft 365 za Enterprise](https://go.microsoft.com/fwlink/?linkid=2151946).
+Dodatne informacije potražite u članku Onemogućivanje instalacije pozadinskog servisa [Microsoft pretraživanje servisu Bing](https://go.microsoft.com/fwlink/?linkid=2151946)s programom Microsoft 365 Apps za velike tvrtke .
