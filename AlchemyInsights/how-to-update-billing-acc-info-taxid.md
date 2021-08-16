@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015324"
 ---
 # <a name="how-to-update-billing-account-information"></a>Ažuriranje podataka o računu za naplatu
 
-Prije kupnje usluga koje imaju naknadu, morate dodati ili ažurirati poslovnu adresu tvrtke ili ustanove, adresu e-pošte za kontakt i naziv kontakta.
+Prije kupnje servisa koji imaju naknadu morate dodati ili ažurirati poslovnu adresu tvrtke ili ustanove, adresu e-pošte i ime kontakta.
 
-Pomoću poslovne adrese izračunavamo porez na promet i PDV. Ako želite ažurirati broj poreza/PDV-a, vlasnik računa za naplatu za Microsoftov ugovor o kupcu može to učiniti na sljedeći način:
+Poslovnu adresu koristimo za izračun poreza na promet i PDV-a. Ako želite ažurirati broj POREZA/PDV-a, vlasnik računa za naplatu za microsoftov ugovor o klijentu to može učiniti na sljedeći način:
 
-**Da biste ažurirali podatke o računu za naplatu i AŽURIRALI porezni ID**:
+**Ažuriranje podataka o računu za naplatu i ažuriranje POREZNOG ID-a:**
 
-1. Prijavite se u [Microsoftovu trgovinu za tvrtke](https://businessstore.microsoft.com/).
+1. Prijavite se u [Microsoft Store za poslovne korisnike](https://businessstore.microsoft.com/).
 1. Kliknite **Upravljanje**  >  **računima za naplatu**.
-1. U **pregledu** kliknite **Uređivanje podataka o računu za naplatu**.
-1. Izvršite ažuriranja, a zatim kliknite **Spremi**. 
+1. U **odjeljku Pregled** kliknite **Uređivanje podataka o računu za naplatu**.
+1. Provjerite ažuriranja, a zatim kliknite **Spremi**. 
 
 **Preporučeni dokumenti**
 
-- [Razumijevanje računa za MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [Razumijevanje MCA fakture](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 
-- [Prikaz i preuzimanje poreznih dokumenata za račun za Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
+- [Prikaz i preuzimanje poreznih dokumenata za fakturu za Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
 
 - [Ažuriranje postavki računa za naplatu](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

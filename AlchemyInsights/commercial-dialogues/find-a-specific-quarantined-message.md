@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3f9bd87a30bc7062afbe39dcc7df19b8eac37741
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967937"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Pronalaženje određene poruke u karanteni
 
-1. Otvorite centar za [zaštitu & sigurnosti](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Idite na **Pregled prijetnje upravljanje**  >    >  **karantenom**.
+1. Idite u [centar za & usklađenost](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+2. Idite na **Karantena pregleda**  >  **upravljanja**  >  **prijetnjama**.
 3. Odaberite **Pretraživanje**.
-4. Odaberite bilo koju kombinaciju uvjeta tako da odaberete potvrdne okvire pokraj njih (trenutno ne možete koristiti zamjenske znakove).
+4. Odaberite bilo koju kombinaciju uvjeta tako da potvrdite okvire pokraj njih (u ovom trenutku ne možete koristiti zamjenske znakove).
