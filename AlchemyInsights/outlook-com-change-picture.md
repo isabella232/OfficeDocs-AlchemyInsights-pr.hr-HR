@@ -1,5 +1,5 @@
 ---
-title: Promjena slike u Outlook.com
+title: Promjena slike na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.assetid: 81ce6c8b-6f73-4489-9539-f14680168a8e
 ms.custom:
 - "8000036"
 - "793"
-ms.openlocfilehash: 9b3f884bc30f2d61bab47cacbf0188f05e00c343
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9cec3fd3c2902c8dfd6742c63d02f0a5591838cd253054e18052cf67648ec1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063980"
 ---
 # <a name="change-your-microsoft-account-picture"></a>Promjena slike Microsoftova računa
 
-1. Idite na [informacije o Microsoftovu računu](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Idite [na Informacije o Microsoftovu računu](https://go.microsoft.com/fwlink/p/?linkid=860841).
 2. Odaberite **Promijeni sliku**.
-3. Odaberite **novu sliku**.
-4. Odaberite sliku koju želite koristiti, a zatim odaberite **Otvori**.
-5. Odvucite ili promijenite veličinu okvira slike, a zatim odaberite **Spremi**.
+3. Odaberite **Nova slika**.
+4. Odaberite sliku koju želite koristiti i odaberite **Otvori**.
+5. Povucite ili promijenite veličinu okvira slike pa odaberite **Spremi**.
 
-Dodajte do 24 sata da biste promijenili sliku profila da biste ušli u utjecaj.
+Omogućite do 24 sata da promjene fotografije profila stupe na snagu.

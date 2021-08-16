@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000348"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migracija iz AIP-a u MIP/Sjedinjeno označavanje u centru za usklađenost
 
@@ -25,11 +25,11 @@ Da biste migrirati s AIP naljepnica na sjedinjeno označavanje u centru za sigur
 
 **Aktivacija zaštite s portala Azure**
 
-1. Ako to još niste učinili, otvorite novi prozor preglednika i [prijavite se na portal Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Pomaknite se do **oštrice Azure Information Protection.** Na izborniku središte, primjerice, kliknite **Svi servisi i** počnite **upisivati informacije** u okvir Filtar. Odaberite **Azure Information Protection**. Ako još niste pristupili oštrici Azure Information Protection, [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) pogledajte dodatne korake za dodavanje ove oštrice na portal. Da biste otvorili oštricu Azure Information Protection, morate imati plan [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) ili plan sustava Office 365 koji obuhvaća upravljanje pravima. Ako imate jednu od tih pretplata, ali vidite poruku da nije moguće pronaći valjanu pretplatu, obratite se [Microsoftovoj](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) podršci ili koristite standardne kanale podrške.
+1. Ako to još niste učinili, otvorite novi prozor preglednika i [prijavite se na portal Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Pomaknite se do **oštrice Azure Information Protection.** Na izborniku središte, primjerice, kliknite **Svi servisi i** počnite **upisivati informacije** u okvir Filtar. Odaberite **Azure Information Protection**. Ako još niste pristupili oštrici Azure Information Protection, [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) pogledajte dodatne korake za dodavanje ove oštrice na portal. Da biste otvorili oštricu Azure Information Protection, morate imati plan [Azure Information Protection premium ili](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) plan Office 365 koji obuhvaća upravljanje pravima. Ako imate jednu od tih pretplata, ali vidite poruku da nije moguće pronaći valjanu pretplatu, obratite se [Microsoftovoj](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) podršci ili koristite standardne kanale podrške.
 
 2. Pronađite mogućnosti **izbornika Upravljanje** i odaberite **Aktivacija zaštite**. Kliknite **Aktiviraj**, a zatim potvrdite akciju. Kada aktivacija završi, informativna traka prikazuje uspješno **dovršenu aktivaciju.**
 
-**Migriranje naljepnica za Azure Information Protection u centar za sigurnost sustava Office 365 & za usklađenost**
+**Migriranje naljepnica za Azure Information Protection u centar za Office 365 sigurnost & usklađenost**
 
 1. Provjerite jeste li prijavljeni kao korisnik s dozvolom globalnog administratora.
 

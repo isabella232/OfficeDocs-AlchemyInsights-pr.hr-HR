@@ -1,5 +1,5 @@
 ---
-title: Pomoć za poboljšanje produktivnosti programa Microsoft 365
+title: Poboljšavanje Microsoft 365 produktivnosti
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004612"
 - "8268"
-ms.openlocfilehash: 599b914e15e86e7899988a0178864b24d1782af1
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 4a7aae1a1e95aa6e8d35a57ed7a7de692cf85901fc6879bcaa8dade37456eba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002184"
 ---
-# <a name="help-improve-microsoft-365-productivity"></a>Pomoć za poboljšanje produktivnosti programa Microsoft 365
+# <a name="help-improve-microsoft-365-productivity"></a>Poboljšavanje Microsoft 365 produktivnosti
 
-Rezultat produktivnosti podržava digitalnu transformaciju tvrtke ili ustanove uz uvid u način korištenja proizvoda Microsoft 365 i tehnoloških iskustava iza njih.
+Ocjena produktivnosti podržava digitalnu transformaciju tvrtke ili ustanove s uvidom o tome kako se Microsoft 365 koriste proizvodi i tehnološka iskustva koja se nalaze iza njih.
 
 Dodatne informacije potražite u člancima:
 
 - [način izračuna rezultata](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
 - [tumačenje rezultata tvrtke ili ustanove](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
-- [kontrole zaštite privatnosti za rezultat produktivnosti](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
+- [kontrole zaštite privatnosti za ocjenu produktivnosti](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
 
-Dodatne informacije potražite u odjeljku [Pregled rezultata Microsoftova proizvodnosti](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score).
+Dodatne informacije potražite u članku [Pregled microsoftove ocjene produktivnosti](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score).

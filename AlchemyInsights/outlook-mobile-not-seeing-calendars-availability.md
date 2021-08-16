@@ -1,5 +1,5 @@
 ---
-title: Outlook Mobile ne prikazuje kalendare prilikom odabira dostupnosti
+title: Outlook Mobilni uređaji ne vide kalendare prilikom odabira dostupnosti
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: e0523100caead474b63ef8ddfcd4622ccbd3669c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 150d0f470571a5e78124634f190ea61f2c5debbd13925af133c83b351bb6c6f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721799"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000312"
 ---
-# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Ne vidim kalendari koje očekujem prilikom odabira dostupnosti
+# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Ne vidim kalendare koje očekujem prilikom odabira dostupnosti
 
-Ako vam se ne prikazuju kalendari koje očekujete, otvorite kalendar, dodirnite gumb Izbornik u gornjem desnom kutu zaslona i provjerite jesu li odabrani kalendari koje očekujete da će se vidjeti. U ovom će se izborniku prikazivati samo kalendari koji su omogućeni prilikom odabira vremena za slanja dostupnosti.
+Ako ne vidite kalendare koje očekujete, idite na Kalendar, dodirnite gumb izbornika u gornjem lijevom kutu zaslona i provjerite jesu li odabrani kalendari koje očekujete. Prilikom odabira vremena za slanje dostupnosti prikazat će se samo kalendari omogućeni na ovom izborniku.
