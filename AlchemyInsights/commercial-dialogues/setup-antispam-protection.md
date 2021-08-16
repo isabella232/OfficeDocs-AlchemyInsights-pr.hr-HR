@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058498"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874567"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Postavljanje zaštite od neželjene pošte
 
-Evo kako to učiniti:
+1. Na portalu Microsoft 365 Defender u odjeljku E-pošta & pravila suradnje & Pravila Prijetnje pravilnika o zaštiti od neželjene pošte <https://security.microsoft.com/>  \>  \>  \>  **u odjeljku Pravila.**
 
-1. Idite na [centar Office 365 sigurnosti & usklađenosti](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Otvorite **Pravilnik za upravljanje**  >  **prijetnjama**, a zatim kliknite **[Zaštita od neželjene pošte](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. Na kartici **Prilagođeno** uključite **Prilagođene** postavke.
-1. Proširite **pravilnik Zadani filtar za neželjenu poštu**, kliknite Uređivanje **pravilnika**, a zatim navedite sljedeće postavke:
-    1. U **odjeljku Neželjena pošta i** skupne akcije postavite prag na vrijednost od 5 ili 6.
-1. Kliknite **Spremi**.
+   Da biste se izravno idite na stranicu Pravilnika o **neželjenoj pošti,** koristite <https://security.microsoft.com/antispam> .
 
-Dodatne informacije o mogućnostima pravilnika o zaštiti od neželjene pošte potražite u članku [Konfiguriranje pravilnika o zaštiti od neželjene pošte](https://go.microsoft.com/fwlink/?linkid=2092051).
+2. Na **stranici Pravilnika o neželjenoj pošti** učinite nešto od sljedećeg:
+   - Da biste dodali novi pravilnik, odaberite **+ Stvori** \> **ulazno**. Pokrenut će se čarobnjak koji će vam pomoći da definirate postavke pravilnika.
+   - Da biste uredili postojeći pravilnik, odaberite pravilnik klikom na naziv pravilnika (**Vrsta** je Prilagođeni pravilnik **za** neželjenu poštu ili **Naziv** je pravilnik o ulazne pošte **(zadano).** U brošuri s detaljima koja će se prikazati **u** odjeljku koji sadrži postavke koje želite konfigurirati odaberite Uređivanje.
+
+3. Kada pregledate postavke, odaberite  Pošalji (novo) ili **Spremi** (uredi).
+
+Dodatne informacije potražite u članku Konfiguriranje [pravilnika o neželjenoj pošti u programu EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

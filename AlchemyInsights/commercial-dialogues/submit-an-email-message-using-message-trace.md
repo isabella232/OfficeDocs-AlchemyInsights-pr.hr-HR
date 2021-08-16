@@ -12,17 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978837"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874531"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Slanje poruke e-pošte pomoću praćenja poruka
 
-1. Idite na [centar Office 365 sigurnosti & usklađenosti](https://go.microsoft.com/fwlink/p/?linkid=2077143), a zatim idite na Praćenje poruka   >  [tijeka pošte](https://go.microsoft.com/fwlink/?linkid=2101048).
+1. Idite u centar Exchange administratora (EAC) na <https://admin.exchange.microsoft.com> \> **servisu Praćenje poruka** \> **tijeka pošte**.
+
+   Da biste se izravno idite na **stranicu Praćenje poruke,** koristite <https://admin.exchange.microsoft.com/#/messagetrace> .
+
 2. Odaberite **+ Pokreni praćenje**.
 3. Prohodajte kroz prikazane mogućnosti. Odaberite primatelje i pošiljatelje, a zatim prema potrebi prilagodite datumski raspon. Možete ostaviti zadane postavke za preostale mogućnosti.
 4. Odaberite **Pretraživanje**. Popis poruka e-pošte prikazivat će se na temelju kriterija pretraživanja. Dvokliknite poruku koju želite poslati, a zatim odaberite **Pošalji poruku**.
-5. Dodatne informacije potražite u članku [Praćenje poruka u centru za & usklađenosti](https://go.microsoft.com/fwlink/?linkid=2101557).
+
+Dodatne informacije potražite u članku Praćenje [poruka u modernom EAC-u.](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac)
