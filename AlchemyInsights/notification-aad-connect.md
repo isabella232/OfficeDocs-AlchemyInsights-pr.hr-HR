@@ -1,5 +1,5 @@
 ---
-title: Prijavljivanje AAD Connect
+title: AAD Povezivanje
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003245"
 - "9326"
-ms.openlocfilehash: 832c9dd587cb023b5b1d87e905acb123df34237f
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: b8713700ee4fc8863a269c99b92954e1df45e1e647c491fb9b439ab83c49f2ff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035088"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097298"
 ---
-# <a name="notification-aad-connect"></a>Prijavljivanje AAD Connect
+# <a name="notification-aad-connect"></a>AAD Povezivanje
 
-- Provjerite jeste li ovlašteni za izvršavanje operacije. Globalni administratori imaju pristup prema zadanim postavkama. Uz to, pomoću [kontrole pristupa temeljene na ulogama](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) možete delegirati dozvolu za registraciju suradnika.
-- Provjerite jesu li obavezne krajnje točke omogućene i nije li blokirana zbog vatrozida. Pojedinosti potražite u članku [Preduvjeti](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
-- Registracija može propasti zbog odlazne komunikacije koja je izložena SSL inspekciji putem mrežnog sloja.
-- Provjerite jeste li potvrdili postavke obavijesti za Azure AD Connect zdravlje i pregledajte postavke. Da biste razumjeli kako konfigurirati postavke obavijesti za obavijesti o zdravlju u servisu Azure AD Connect, pogledajte ovaj [vodič](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations).
-- Da biste saznali više o izvješću o sinkronizaciji programa AAD Connect i kako ga preuzeti, pročitajte članak [izvješće o sinkronizaciji razina objekta](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Provjerite jeste li ovlašteni za izvođenje operacije. Globalni administratori po zadanom imaju pristup. Uz to, pomoću kontrole pristupa [utemeljene na ulogama možete delegirati](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) dozvolu za registraciju suradniku.
+- Provjerite jesu li obavezne krajnje točke omogućene, a ne blokirane zbog vatrozida. Detalje potražite u odjeljku [Preduvjeti](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
+- Registracija ne može uspjeti zbog odlazne komunikacije koja je podložan SSL pregledu mrežnog sloja.
+- Provjerite jeste li potvrdili postavke obavijesti za Azure AD Povezivanje Stanje i pregledajte postavku. Upute za konfiguriranje postavki obavijesti za obavijesti za Azure AD Povezivanje obavijesti o stanju pogledajte u ovom [vodiču.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations)
+- Dodatne informacije o izvješću o sinkronizaciji servisa AAD Povezivanje stanje i kako ga preuzeti potražite u članku [Izvješće o sinkronizaciji na razini objekta](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
 
-Da biste otklonili poteškoće s upozorenjima za AAD Connect, slijedite [upute za otklanjanje poteškoća za AAD povežite upozorenja o osvježenosti podataka](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) i najčešća pitanja, pročitajte članak [zajednički AAD Connect pitanja o zdravstvenoj instalaciji](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
+Da biste otklonili poteškoće Povezivanje upozorenja o zdravlju, slijedite vodič za otklanjanje poteškoća za upozorenja o svježini podataka sustava [AAD Povezivanje](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) Zdravlje i najčešća pitanja potražite u članku Najčešća pitanja o [instalaciji servisa AAD Povezivanje Health](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
