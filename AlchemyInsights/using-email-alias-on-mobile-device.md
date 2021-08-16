@@ -1,5 +1,5 @@
 ---
-title: 725 pomoću pseudonima za e-poštu na mobilnom uređaju
+title: 725 Korištenje pseudonima e-pošte na mobilnom uređaju
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 7eea3de92019afb801b1b843ef562b42ea85c7dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8aa55a0f4f054a3e36a2c04b455d5fab3507e8dd12c0d59f9c05e1e21374468
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749073"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998324"
 ---
 # <a name="email-aliases-on-mobile-devices"></a>Pseudonimi e-pošte na mobilnim uređajima
 
-Pseudonim e-pošte je samo druga adresa e-pošte koja je konfigurirana na poštanskom sandučiću, pa će se poruke poslane na userov pseudonim isporučiti u poštanski sandučić i bit će čitljive na mobilnom uređaju. Nije potrebna nijedna dodatna konfiguracija.
+Pseudonim e-pošte još je jedna adresa e-pošte konfigurirana u poštanskom sandučiću, pa će se poruke poslane korisničkom pseudonimu isporučiti u poštanski sandučić i moći će se čitati na mobilnom uređaju. Nije potrebna dodatna konfiguracija.
 
-No korisnik ne može odgovoriti na poruke ni poslati nove poruke pomoću pseudonima kao adrese pošiljatelja. Sve odlazne poruke bit će iz njihove primarne adrese e-pošte.
+No korisnik ne može odgovoriti na poruke ni slati nove poruke pomoću pseudonima kao adrese s adrese s adrese. Sve odlazne poruke bit će s primarne adrese e-pošte.

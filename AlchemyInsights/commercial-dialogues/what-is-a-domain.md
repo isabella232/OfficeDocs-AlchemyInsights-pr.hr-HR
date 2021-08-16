@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 145563a64bbebb6fcafcf249231e70dfa99d92d6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 75ddbaf986b6d475a145afc91a7cbc5676dbe8645c74f9399969c78be5d0342f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743535"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069992"
 ---
 # <a name="whats-a-domain"></a>Što je domena
 
-Domena je dio adrese e-pošte koja se nalazi iza simbola @. U adresi rob@contoso.com, primjerice, domena je **contoso.com**. Većina tvrtki radije koristi vlastiti naziv domene u svojoj adresi e-pošte.
+Domena je dio vaše adrese e-pošte koja se nalazi iza simbola @. Na primjer, u adresnoj rob@contoso.com, domena je **contoso.com**. Većina tvrtki radije koristi vlastiti naziv domene na svojoj adresi e-pošte.
 
-Slijede neki savjeti o domenama:
+Slijedi nekoliko savjeta vezanih uz domene:
 
-- Možete kupiti naziv domene od Microsofta. Na taj ćete način imati prilagođenu adresu e-pošte.
-- Ili možete jednostavno dodati domenu koju već posjedujete u Office 365.
+- Naziv domene možete kupiti od Microsofta. Na taj ćete način imati prilagođenu adresu e-pošte.
+- Možete i dodati domenu koju već posjedujete u Office 365.
 
-Da biste saznali više, [Pogledajte ovaj veliki videozapis](https://www.youtube.com/watch).
+Dodatne informacije potražite u [ovom sjajnom videozapisu.](https://www.youtube.com/watch)

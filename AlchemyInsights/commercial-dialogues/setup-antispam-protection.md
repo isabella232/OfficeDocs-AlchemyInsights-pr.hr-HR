@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058498"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Postavljanje zaštite od neželjene pošte
 
 Evo kako to učiniti:
 
-1. Idite na [centar za sigurnost i usklađenost sustava Office 365 & usklađenosti](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Idite na [centar Office 365 sigurnosti & usklađenosti](https://go.microsoft.com/fwlink/p/?linkid=2077143).
 1. Otvorite **Pravilnik za upravljanje**  >  **prijetnjama**, a zatim kliknite **[Zaštita od neželjene pošte](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
 1. Na kartici **Prilagođeno** uključite **Prilagođene** postavke.
 1. Proširite **pravilnik Zadani filtar za neželjenu poštu**, kliknite Uređivanje **pravilnika**, a zatim navedite sljedeće postavke:

@@ -1,5 +1,5 @@
 ---
-title: Rad u programu Microsoft Intune
+title: Rad u Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 2ea412617caa77d50813941dafce84a972a2cfe2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09401ceb0bcdcfe280f2e7e293caffc8a4189561bf26b713c98f015991134e21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069884"
 ---
-# <a name="working-in-microsoft-intune"></a>Rad u programu Microsoft Intune
+# <a name="working-in-microsoft-intune"></a>Rad u Microsoft Intune
 
-U nastavku su navedene osnove za Intune:
+Evo nekih osnova za Intune:
 
 - [Što je Intune?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
-- [Kako se registrirati za Intune Trial?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
-- [Prvi put postavljanje Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
-- [Što je upis uređaja u Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
-- [Korištenje portala za otklanjanje poteškoća radi pomoći korisnicima u tvrtki](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
+- [Kako se prijaviti za probnu verziju za Intune?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
+- [Postavljanje intunea po prvi put](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
+- [Što je prijava uređaja u Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
+- [Korištenje portala za otklanjanje poteškoća da biste korisnicima u tvrtki pomogli](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
 
-[Saznajte više o aplikaciji Microsoft Intune...](https://docs.microsoft.com/mem/intune/)
+[Pročitajte više o Microsoft Intune...](https://docs.microsoft.com/mem/intune/)
