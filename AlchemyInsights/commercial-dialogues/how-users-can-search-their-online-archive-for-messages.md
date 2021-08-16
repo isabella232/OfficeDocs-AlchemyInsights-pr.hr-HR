@@ -1,5 +1,5 @@
 ---
-title: Kako korisnici mogu pretraživati mrežne arhive za poruke
+title: Kako korisnici mogu pretraživati internetsku arhivu za poruke
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7ca502ea118503e9b5a854fce1bb8c6239d780f6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034494"
 ---
-# <a name="how-users-can-search-their-online-archive-for-messages"></a>Kako korisnici mogu pretraživati mrežne arhive za poruke
+# <a name="how-users-can-search-their-online-archive-for-messages"></a>Kako korisnici mogu pretraživati internetsku arhivu za poruke
 
-Internetska Arhiva značajka je za korisnike sustava Office 365 Enterprise koji imaju neuobičajeno velike poštanske sandučiće. Korisnička internetska Arhiva ponaša se nešto kao drugi račun u programu Outlook s vlastitom strukturom mape. Da biste pronašli e-poštu u internetskoj arhivi:
+Internetska arhiva značajka je za Office 365 poslovne korisnike koji imaju neuobičajeno velike poštanske sandučiće. Korisnikova internetska arhiva djeluje kao drugi račun u Outlook s vlastitom strukturom mapa. Da biste pronašli e-poštu u mrežnoj arhivi:
 
-1. Internetska Arhiva nije uključena u pretraživanja izvedena iz ulazne pošte. Morate prijeći na internetsku arhivu, a zatim izvršiti pretraživanje.
-2. U programu Outlook na webu Arhiva se naziva *arhivom na mjestu*. Otvorite poštanski sandučić In-Place arhive, a zatim izvedite pretraživanje.
-3. U programu Outlook 2016 zove se *internetska Arhiva – <`name` >*. Otvorite poštanski sandučić internetskog arhive, a zatim izvedite pretraživanje.
+1. Internetska arhiva nije obuhvaćena pretraživanjima koja se izvode iz mape Ulazna pošta. Morate otići u internetsku arhivu, a zatim izvršiti pretraživanje.
+2. U Outlook na webu arhiva se zove *In-Place Archive*. Idite na poštanski In-Place Arhiviraj, a zatim izvršite pretraživanje.
+3. U Outlook 2016, zove se Internetska *arhiva – <`name` >*. Idite u poštanski sandučić Internetska arhiva, a zatim izvršite pretraživanje.
 
 > [!TIP]
-> Korisnici ne mogu pristupati poštanskom sandučiću internetskog arhive pomoću programa Outlook na mobilnom uređaju, kao što je pametni telefon.
+> Korisnici ne mogu pristupiti poštanskom sandučiću internetske arhive pomoću Outlook na mobilnom uređaju, kao što je pametni telefon.

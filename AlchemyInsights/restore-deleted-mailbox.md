@@ -15,24 +15,24 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 14d2c9b1fe6764f5cd3a5a968586a19a03b62694
-ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.openlocfilehash: 07ad754a927be92ece07f91c5a64d8084c96d0344925467a195033bdd3f445ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50641510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075068"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Vraćanje izbrisanog poštanskog sandučića
 
-Kada korisnik izgubi licencu za Exchange Online, njihov poštanski sandučić zadržan je 30 dana i može se oporaviti jednostavnim ponovnim dodjeljivanjem licence korisniku.
+Kada korisnik izgubi licencu za Exchange Online, poštanski se sandučić zadržava 30 dana i može se oporaviti tako da korisniku jednostavno ponovno dodijelite licencu.
   
-1. U centru za administratore sustava Microsoft 365 otvorite stranicu **korisnici** \> **aktivnih korisnika** . Odaberite korisnika u pitanju.
+1. U Centar za administratore okruženja Microsoft 365 idite na stranicu **Korisnici** \> **aktivni** korisnici. Odaberite željenog korisnika.
 
-2. Na kartici **licence i aplikacije** dodijelite licencu za Exchange Online i odaberite **Spremi promjene**.
+2. Na kartici **Licence i aplikacije** dodijelite licencu za Exchange Online odaberite **Spremi promjene**.
 
-Ako pokušavate oporaviti zajednički poštanski sandučić ili korisnik koji je izbrisan, može se oporaviti i za 30 dana. Možete ih pronaći u odjeljku **korisnici** \> **izbrisanih korisnika**; zajednički poštanski sandučići ne zahtijevaju licencu. Pročitajte članak [Vraćanje korisnika](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Ako pokušavate oporaviti zajednički poštanski sandučić ili korisnika koji je izbrisan, može se oporaviti i 30 dana. Možete ih pronaći u odjeljku **Korisnici** \> **Izbrisani korisnici**, zajednički poštanski sandučići ne zahtijevaju licencu. Pročitajte vraćanje [korisnika](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
 
-Oporavak e-pošte iz korisničkog poštanskog sandučića može obaviti administratori tako da odete u [novi centar za administratore sustava Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353).
+Oporavak e-pošte iz korisnikova poštanskog sandučića administratori mogu obaviti tako da odete u [novi centar za Exchange administratore](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353).
 
-Konačno, ako pokušavate oporaviti neaktivni poštanski sandučić, [slijedite upute ovdje](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).
+Naposljetku, ako pokušavate oporaviti neaktivan poštanski sandučić, [slijedite upute ovdje](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).
   

@@ -1,5 +1,5 @@
 ---
-title: Ograničavanje pristupa u sustavu SharePoint ili na servisu OneDrive
+title: Ograničavanje pristupa u SharePoint ili OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: d8be1eb5bdcd0b5b08ddad32a45b6282c788c26a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7b68df2ae24b09fe9b01bd67c31a89e37f284a512bc1ecb097ef52fae5ae7d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075032"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Ograničavanje pristupa u sustavu SharePoint ili na servisu OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Ograničavanje pristupa u SharePoint ili OneDrive
 
-U sustavu SharePoint i na servisu OneDrive ograničite pristup stavkama kao što su datoteke, mape i popisi tako da pristupate samo grupama ili pojedincima kojima želite pristupiti. Dozvole u sustavu SharePoint po zadanom se nasljeđuju od viših prema gore u hijerarhiji. Tako da datoteka nasljeđuje dozvole iz mape, koja nasljeđuje dozvole iz biblioteke, koja nasljeđuje dozvole od web-mjesta.
+U SharePoint i OneDrive možete ograničiti pristup stavkama kao što su datoteke, mape i popisi davanjem pristupa samo grupama ili pojedincima kojima želite pristupiti. Dozvole u aplikaciji SharePoint prema zadanim postavkama nasljeđuju se od višeg prema gore u hijerarhiji. Datoteka nasljeđuje dozvole od mape, koja nasljeđuje dozvole iz biblioteke, što nasljeđuje dozvole od web-mjesta.
   
-Možete zajednički koristiti na višoj razini (kao što je zajedničko korištenje cijelog web-mjesta), a zatim prekinuti nasljeđivanje ako ne želite zajednički koristiti sve stavke na web-mjestu. No to ne preporučujemo jer čini održavanje dozvola složenijim i dvosmislenim u budućnosti. Evo što možete učiniti:
+Zajedničko korištenje možete zajednički koristiti na višoj razini (npr. zajedničkim korištenjem cijelog web-mjesta), a zatim prekinuti nasljeđivanje ako ne želite zajednički koristiti sve stavke na web-mjestu. No to ne preporučujemo jer održavanje dozvola u budućnosti čini složenijima i zbunjujućima. Evo što biste mogli učiniti:
   
-- Ako, primjerice, želite zajednički koristiti sve sadržaje mape osim jedne datoteke u njoj, premjestite je na novo mjesto koje se ne zajednički koristi.
+- Ako, primjerice, želite zajednički koristiti sav sadržaj mape, osim jedne datoteke u njemu, premjestite tu datoteku na novo mjesto koje se ne zajednički koristi.
     
-- Ako u mapi imate dvije podmape, a želite zajednički koristiti jednu podmapu s grupama A i B te dopustiti samo grupu pristupa drugoj podmapi, zajednički koristite nadređenu mapu s grupom a i dodajte grupu B u prvu podmapu.
+- Ako u mapi imate dvije podmape i želite zajednički koristiti jednu podmapu s grupama A i B i omogućiti samo grupi A pristup drugoj podmapa, zajedničko korištenje nadređene mape s grupom A i dodavanje grupe B u prvu podmapu.
     
-[Prestanak zajedničkog korištenja datoteke ili mape ](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Zaustavljanje zajedničkog korištenja datoteke ili mape ](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 
