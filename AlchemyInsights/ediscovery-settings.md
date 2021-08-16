@@ -1,5 +1,5 @@
 ---
-title: Postavke web-otkrivanja
+title: Postavke otkrivanja
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101222"
 ---
-# <a name="ediscovery-settings"></a>Postavke web-otkrivanja
+# <a name="ediscovery-settings"></a>Postavke otkrivanja
 
-pretraživanja e-otkriti/sadržaja omogućuju pretraživanje, držanje i izvoz sadržaja iz poštanskih sandučića sustava Exchange Online, SharePoint online i servisa OneDrive za tvrtke, Skype za tvrtke, Microsoftove timove i grupe sustava Microsoft 365.
+Pretraživanja elektroničkih predočavanja/sadržaja omogućuju vam pretraživanje, čuvanje i izvoz sadržaja iz poštanskih sandučića sustava Exchange Online, web-mjesta SharePoint Online i OneDrive za tvrtke, Skype za tvrtke razgovora, Microsoft Teams i Microsoft 365 grupa.
 
-- Ako tražite mogućnosti izbornika razotkrivanja ili pretraživanja sadržaja, pročitajte članak [Problemi s razotkrivanjem](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Saznajte više o dozvolama potrebnim za obavljanje pretraživanja iz programa Idiscovery iz [dozvola potrebnih za pretraživanja putem e-otkrivanja](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Ako pretraživanje ne vraća očekivane rezultate, pročitajte članak [Pretraživanje ne vraća očekivane rezultate](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Ako tražite mogućnosti izbornika Predočavanje elektroničkih predočavanja ili pretraživanja sadržaja, pogledajte problem s [predočavanje elektroničkih elektroničkih podataka](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Informirajte se o dozvolama koje su potrebne za izvođenje pretraživanja elektroničkih predočavanja iz dozvola potrebnih za [pretraživanja predočavanja elektroničkih elektroničkih podataka](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
+- Ako pretraživanje ne vraća očekivane rezultate, pogledajte pretraživanje koje ne [vraća očekivane rezultate.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)
 
-Dodatne informacije o programu idiscovery potražite u članku [idiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Dodatne informacije o otkrivanju elektroničkih podataka potražite u članku [Otkrivanje elektroničkih podataka](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

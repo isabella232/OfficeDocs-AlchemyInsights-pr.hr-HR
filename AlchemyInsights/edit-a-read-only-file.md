@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 023e42a09e92262d9fe7c7f003e6adfb2cdb11e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e795154299b147533da4ae0f89b7de005f83bffbd19cf4fd1b03c0d16d5598c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101186"
 ---
 # <a name="edit-a-read-only-file"></a>Uređivanje datoteke samo za čitanje
 
-Ako u bibliotekama dokumenata kliknete naziv dokumenta, program sustava Office možda će ga neočekivano otvoriti kao datoteku samo za čitanje. Da biste ga otvorili radi uređivanja, kliknite **Otvori** (tri točkice), a zatim kliknite **Uredi.**
+Kada kliknete naziv dokumenta u bibliotekama dokumenata, program Office neočekivano može otvoriti kao datoteku samo za čitanje. Da biste je otvorili radi uređivanja, **kliknite Otvori** (tri točke), a zatim **Uređivanje.**
   
 

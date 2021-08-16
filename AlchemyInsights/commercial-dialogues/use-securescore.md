@@ -1,5 +1,5 @@
 ---
-title: Korištenje SecureScore-a
+title: Korištenje sigurne vlake
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: e6065c9ec681e377f8f8a51232d1b411bc91845e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0367cf3f76a9668e71dec52645a5b3aed44ccec93c0c39bccfa883212009633b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033774"
 ---
-# <a name="use-securescore"></a>Korištenje SecureScore-a
+# <a name="use-securescore"></a>Korištenje sigurne vlake
 
-Sigurni rezultat jest alat za sigurnosnu analitiku koji preporučuje dodatno smanjivanje rizika. Sigurni rezultat prikazuje postavke i aktivnosti sustava Office 365 te ih uspoređuje s osnovom koju je uspostavio Microsoft. Dobit ćete rezultat zasnovan na tome kako ste usklađeni s najboljim sigurnosnim praksama.
+Siguran rezultat alat je za sigurnosnu analitiku koji preporučuje što možete učiniti da biste dodatno smanjili rizik. Sigurna ocjena gleda vaše postavke Office 365 aktivnosti i uspoređuje ih s osnovnom vrijednosti koju je uspostavio Microsoft. Rezultat ćete dobiti na temelju toga kako ste usklađeni s najboljim sigurnosnim praksama.
 
-Želite isprobati sigurni rezultat? Kada ste prijavljeni u Office 365 kao globalni administrator, idite na [SecureScore.com.](https://securescore.office.com/)
+Želite isprobati sigurni rezultat? Kada ste prijavljeni da biste Office 365 globalni administrator, idite na [SecureScore.com.](https://securescore.office.com/)

@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101294"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Ne možete instalirati ili pokrenuti alat za izvoz predočavanja elektroničkih podataka?
 
@@ -44,7 +44,7 @@ Ako ne možete instalirati ili pokrenuti alat za izvoz e-otkrivanja da biste pre
 
 - Vaša tvrtka ili ustanova može se povezati s krajnjom tonom na servisu Azure, **\* a to je .blob.core.windows.net** (zamjenski znak predstavlja jedinstveni identifikator za posao izvoza).
 
-- Uloga Izvoz dodijeljena vam je u centru za sigurnosnu usklađenost sustava Microsoft 365. &amp; Ta se uloga po zadanom dodjeljuje samo grupi uloga upravitelja predočavanja elektroničkih elektroničkih obveza. Pogledajte [dodjela dozvola za predočavanje elektroničkih datoteka](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Uloga Izvoz dodijeljena vam je u centru za Microsoft 365 &amp; sigurnosne usklađenosti. Ta se uloga po zadanom dodjeljuje samo grupi uloga upravitelja predočavanja elektroničkih elektroničkih obveza. Pogledajte [dodjela dozvola za predočavanje elektroničkih datoteka](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Dodatne informacije potražite u članku Izvoz [rezultata pretraživanja sadržaja](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 
