@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034422"
 ---
 # <a name="intune-app-deployment-process"></a>Postupak implementacije aplikacije Intune
 
-Implementacija aplikacija uz Intune slijedi postupak u nastavku:
+Implementacija aplikacija pomoću aplikacije Intune slijedi postupak u nastavku:
 
-- Dodavanje aplikacije – možete dodati aplikaciju za pohranu aplikacija ili prenijeti neku poslovnu aplikaciju.
-- Dodjela aplikacije – Određivanje opsega implementacije aplikacije.
-- Praćenje aplikacija – prikaz statusa instalacije aplikacija, popis otkrivenih aplikacija i upravljanje aplikacijama kupljenim iz prodavaonica aplikacija.
-- [Aplikacija je implementirala Intune SDK. Popis aplikacija koje podržavaju SDK potražite u članku Microsoft Intune Protected Apps](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
+- Dodavanje aplikacije – možete dodati aplikaciju App Store ili prenijeti aplikaciju Line of Business.
+- Dodjela aplikacije – odredite opseg implementacije aplikacije.
+- Aplikacije za praćenje – pogledajte status instalacije aplikacija, popis otkrivenih aplikacija i upravljanje aplikacijama kupljenima u trgovinama aplikacija.
+- [Aplikacija je implementirana INTUNE SDK. Popis aplikacija koje podržavaju SDK pogledajte u članku Microsoft Intune zaštićene aplikacije](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
 
-[Dodatne informacije o implementaciji i upravljanju aplikacijama u programu Intune...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[Saznajte više o implementaciji i upravljanju aplikacijama Intune...](https://docs.microsoft.com/mem/intune/apps/app-management)

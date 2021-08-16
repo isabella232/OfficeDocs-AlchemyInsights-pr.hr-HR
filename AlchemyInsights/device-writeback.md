@@ -1,5 +1,5 @@
 ---
-title: Uređaj writeback
+title: Pisanje na uređaju
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256702"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101942"
 ---
-# <a name="device-writeback"></a>Uređaj writeback
+# <a name="device-writeback"></a>Pisanje na uređaju
 
-Writeback uređaja koristi se u sljedećim scenarijima:
+Pisanje na uređaju koristi se u sljedećim scenarijima:
 
-- Omogućavanje [servisa Windows Hello za tvrtke pomoću hibridnog certificiranja pouzdanih certifikata](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Omogućivanje uvjetnog pristupa na temelju uređaja na ADMINISTRATARE (2012 R2 ili novije) zaštićene aplikacije (Trust strana)
+- Omogućivanje [Windows Hello za tvrtke pomoću hibridne implementacije pouzdanosti certifikata](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Omogućivanje uvjetnog pristupa na temelju uređaja u ADFS (2012 R2 ili novije) zaštićene aplikacije (pouzdane strane)
 
     > [!NOTE]
-    > Za writeback uređaja potrebna je pretplata na Azure AD Premium.
+    > Pretplata na Azure AD premium potrebna je za vraćanje na pisanje uređaja.
 
-Time se omogućuje dodatna sigurnost i garancija da se pristup aplikacijama dodjeljuje samo pouzdanim uređajima. Dodatne informacije o uvjetnom pristupu potražite u članku [Upravljanje rizikom uz uvjetni pristup](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) i [Postavljanje lokalnog uvjetnog pristupa pomoću servisa Azure Active Directory registracija uređaja](https://docs.microsoft.com/azure/active-directory/devices/overview).
+Time se pruža dodatna sigurnost i jamstvo da se pristup aplikacijama dodjeljuje samo pouzdanim uređajima. Dodatne informacije o uvjetnom pristupu potražite u članku [Upravljanje rizikom](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) uz uvjetni pristup i Postavljanje lokalnog [uvjetnog pristupa pomoću Azure Active Directory registracije uređaja](https://docs.microsoft.com/azure/active-directory/devices/overview).
 
-Dodatne informacije o omogućivanju uređaja writeback za uređaje potražite u članku [Omogućivanje programa writeback uređaja](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).
+Dodatne informacije o omogućivanju povratne informacije o uređaju za uređaje potražite u članku [Omogućivanje pisanja uređaja](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).

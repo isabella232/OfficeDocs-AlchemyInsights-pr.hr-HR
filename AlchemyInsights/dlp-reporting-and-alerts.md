@@ -1,5 +1,5 @@
 ---
-title: DLP izvještavanje i upozorenja
+title: Izvješćivanje o DLP-u i upozorenja
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "8261"
-ms.openlocfilehash: 562537f0a8d53cf1526c6a9069b1f98721a90538
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 6ad924147812186610fdef8bf443c76f6663ec35e5e38720783fd4b0369bc579
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101870"
 ---
-# <a name="dlp-reporting-and-alerts"></a>DLP izvještavanje i upozorenja
+# <a name="dlp-reporting-and-alerts"></a>Izvješćivanje o DLP-u i upozorenja
 
-**DLP izvješćivanje**: [Prikaz izvješća o sprečavanju gubitka podataka – Microsoft 365 sukladnost | Microsoftovi dokumenti](https://docs.microsoft.com/microsoft-365/compliance/view-the-dlp-reports?view=o365-worldwide&preserve-view=true)
+**Izvješćivanje o DLP-u**: [prikaz izvješća o sprječavanju gubitka podataka – Microsoft 365 usklađenost | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/view-the-dlp-reports?view=o365-worldwide&preserve-view=true)
 
-**Upozorenja**: [Konfiguriranje i prikaz upozorenja za DLP politike (pretpregled) – Microsoft 365 sukladnost | Microsoftovi dokumenti](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide&preserve-view=true)
+**Upozorenja:** konfiguriranje [i prikaz upozorenja za pravilnike o DLP-u (pretpregled) – Microsoft 365 usklađenost | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide&preserve-view=true)
 
- Ako imate pristup programu 365 DLP, možete pristupiti i nadzornoj ploči za Upravljanje upozorenjima na DLP-u.  Da biste konfigurirali određene vrste upozorenja, pogledajte ove licencne preduvjete u [odjeljku Konfiguriranje i prikaz upozorenja za DLP politike (pretpregled) – Microsoft 365 sukladnost | Microsoftovi dokumenti](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide#licensing-for-alert-configuration-options&preserve-view=true)
+ Ako imate pristup DLP-u 365 , možete pristupiti i nadzornoj ploči za upravljanje DLP upozorenjima.  Konfiguriranje određenih vrsta upozorenja pogledajte u odjeljku Konfiguriranje i prikaz upozorenja za [DLP pravilnike (pretpregled) – Microsoft 365 usklađenost | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide#licensing-for-alert-configuration-options&preserve-view=true)
 
-Da biste pregledali nadzornu ploču za Upravljanje upozorenjima za DLP:
+Da biste pogledali nadzornu ploču za upravljanje DLP upozorenjima:
 
-1. U centru za usklađenost sustava Microsoft 365 otvorite odjeljak **prevencija gubitka podataka**.
-1. Odaberite karticu **upozorenja (pretpregled)** da biste prikazali nadzornu ploču za DLP upozorenja.
+1. U Centar za usklađenost okruženja Microsoft 365 idite na **Sprječavanje gubitka podataka.**
+1. Odaberite **karticu Upozorenja(pretpregled) da biste** pogledali nadzornu ploču s upozorenjima o DLP-u.

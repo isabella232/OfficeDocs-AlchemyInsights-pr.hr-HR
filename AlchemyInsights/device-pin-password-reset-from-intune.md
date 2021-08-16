@@ -1,5 +1,5 @@
 ---
-title: PIN za uređaje/lozinku za vraćanje iz programa Intune
+title: Ponovno postavljanje pina/lozinke za uređaj iz aplikacije Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1278"
 - "6700008"
-ms.openlocfilehash: 66255fc87a55161158aa4121d68d7ccd04b552ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32f832e1df81469cb74798a3c404d4cc978952b207850d51a05e63acb4a4a2f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101972"
 ---
-# <a name="device-pinpassword-reset-from-intune"></a>PIN za uređaje/lozinku za vraćanje iz programa Intune
+# <a name="device-pinpassword-reset-from-intune"></a>Ponovno postavljanje pina/lozinke za uređaj iz aplikacije Intune
 
-Možete ukloniti pristupni kôd ili prisiliti korisnika da stvori novu zaporku u Intune za uređaj sa sustavom iOS ili Android pomoću akcije Ukloni pristupni kôd.
+Pristupnu šifru možete ukloniti ili prisiliti korisnika da stvori novu pristupnu šifru u aplikaciji Intune za uređaj sa sustavom iOS ili Android pomoću akcije Ukloni pristupni kod.
 
-Za tu akciju podržavaju samo određene vrste operativnih sustava i vrste profila rada.
+Tu akciju podržavaju samo određene vrste operacijskog sustava i vrste radnih profila.
 
-Pojedinosti o podržanim platformama i kako pokrenuti akciju ponovnog postavljanja lozinke potražite [u članku ponovno postavljanje ili uklanjanje zaporke uređaja u programu Intune](https://docs.microsoft.com/intune/device-passcode-reset).
+Detalje o podržanim platformama i upute za pokretanje akcije pristupnog koda za ponovno postavljanje potražite u članku Ponovno postavljanje ili [uklanjanje pristupnog koda uređaja u programu Intune](https://docs.microsoft.com/intune/device-passcode-reset).
 
-Postojeći PIN možete ponovno postaviti na novu vrijednost pomoću akcije za ponovno postavljanje PIN-a na uređajima s operacijskim sustavom Windows 10 Mobile. To korisniku omogućuje otključavanje uređaja i postavljanje novog PIN-a po potrebi. Dodatne informacije potražite u članku [Vraćanje izvorne lozinke na uređajima sa sustavom Windows pomoću aplikacije Intune](https://docs.microsoft.com/intune/device-windows-pin-reset).
+Postojeću pribadači možete vratiti na novu vrijednost pomoću akcije Ponovno postavljanje prikvači na uređajima Windows 10 Mobile operacijskog sustava. To korisniku omogućuje otključavanje uređaja i postavljanje nove pribadače prema potrebi. Dodatne informacije potražite u članku [Ponovno postavljanje pristupne šifre na Windows uređajima pomoću aplikacije Intune](https://docs.microsoft.com/intune/device-windows-pin-reset).
