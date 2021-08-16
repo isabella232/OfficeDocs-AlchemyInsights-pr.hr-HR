@@ -1,5 +1,5 @@
 ---
-title: Microsoftovi timovi – pristup gostu
+title: Microsoft Teams – pristup gosta
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012300"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoftovi timovi – pristup gostu
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams – pristup gosta
 
-Ako vam je potrebna pomoć u komunikaciji s korisnicima izvan tvrtke ili ustanove u timovima, morate odlučiti želite li koristiti [pristup gostu ili vanjski pristup (Federaciju)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)ili možete koristiti oba.
+Ako vam je potrebna pomoć pri komunikaciji s korisnicima izvan tvrtke ili ustanove u Teams, morate odlučiti želite li koristiti pristup gosta ili [vanjski pristup (vanjski pristup)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)ili možete koristiti oba.
 
-Obavezno [Pregledajte razlike](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) da biste razumjeli značajke koje su dostupne za svaku od njih.  Na primjer, vanjski pristup (Federacija) dopušta 1:1 komunikacija, kao što su čavrljanje i prisutnost.  Udruženim korisnicima nije moguće sudjelovati u suradnji timova.  Ako želite da se vanjski korisnik pridruži i sudjeluje u razgovorima s timovima ili zajednički koristi datoteke, morat ćete uključiti pristup gostu.
+Svakako pregledajte [razlike da biste](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) razumjeli značajke dostupne za svaku od njih.  Vanjski pristup (vanjski pristup), primjerice, omogućuje komunikaciju u 1:1, kao što su Čavrljanje i prisutnost.  Vanjski korisnici ne mogu sudjelovati u Teams suradnji.  Ako želite da se vanjski korisnik uključi i sudjeluje u razgovorima Teams kanalu ili zajednički koristi datoteke, morate uključiti pristup gosta.
 
-Prva **mogućnost: uključivanje pristupa gostu** U centru za administratore timova idite na web-mjesta [org Wide postavke > pristup gostu](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) i uključite "Dopusti gostu pristup u timovima".  Za zakupca sa svim ostalim zadanim postavkama to bi trebalo biti sve što trebate učiniti.  Da biste prilagodili konfiguraciju pristupa gostu, obavezno slijedite sve korake u [kontrolnom popisu pristup gostu](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Kada završite s potpunim, morat ćete [čekati do 24 sata](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) da postavke stupite na utjecaj.
+**1. mogućnost: uključivanje pristupa gostiju** U centru Teams za administratore idite na Odjeljak [za Postavke > za](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) goste i uključite "Allow Guest Access in Teams".  Za klijenta sa svim drugim zadanim postavkama to bi trebalo biti sve što trebate učiniti.  Da biste prilagodili konfiguraciju programa Guest Access, slijedite sve korake na popisu za provjeru [pristupa gostiju](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Kada završite, morate pričekati do [24](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) sata da bi postavke snazi.
 
-Ako ste sigurni da ste dovršili sve korake na popisu, a prošlo je više od 24 sata, nastavite i pokušajte [dodati gosta u svoj tim](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Ako ste sigurni da ste dovršili sve korake na kontrolnom popisu, a to je bilo više od 24 sata, pokušajte dodati gosta u [tim.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Dodatne informacije, uključujući videozapise s načinom na koji se prikazuje, potražite [u članku pristup gostu u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/guest-access).
+Dodatne informacije, uključujući videozapise s upute, potražite u članku [Pristup gosta u programu Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
-Druga **mogućnost: uključivanje vanjskog pristupa (Federacija)** Ako želite uključiti i vanjski pristup (Federacija), u centru za administratore timova idite na [Postavke sustava > vanjski pristup](https://admin.teams.microsoft.com/company-wide-settings/external-communications) , a zatim uključite "korisnici mogu komunicirati s korisnicima Skypea za tvrtke i timove", a zatim slijedite sve korake u odjeljku [Dopusti korisnicima da čavrljamo i komunicirajte s korisnicima u drugoj tvrtki ili ustanovi](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**2. mogućnost: uključivanje vanjskog pristupa (vanjski pristup)** Ako želite uključiti i vanjski pristup (vanjski pristup), u centru za administratore sustava Teams idite na Vanjski [pristup Postavke > na](https://admin.teams.microsoft.com/company-wide-settings/external-communications) razini tvrtke ili ustanove i uključite "Korisnici mogu komunicirati s korisnicima sustava Skype za tvrtke i Teams", a zatim slijedite sve korake u dodatku Dopusti korisnicima programa Teams čavrljanje i komunikaciju s korisnicima u drugoj tvrtki ili [ustanovi.](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)

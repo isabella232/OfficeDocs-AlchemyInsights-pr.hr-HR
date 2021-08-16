@@ -1,5 +1,5 @@
 ---
-title: Više objekata ima istu adresu e-pošte kao identitet
+title: Više objekata ima istu adresu e-pošte kao i identitet
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,37 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5866d182cb2e97e37bc6df87e05fb6ef55bfed1d36f9daa95b7b8993a509e2dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724607"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011904"
 ---
-# <a name="multiple-objects-have-the-same-email-address-as-identity"></a>Više objekata ima istu adresu e-pošte kao identitet
+# <a name="multiple-objects-have-the-same-email-address-as-identity"></a>Više objekata ima istu adresu e-pošte kao i identitet
 
 **Više objekata**
 
-Jedan od običnih razloga te pogreške ne može pravilno usmjeravati zahtjev za Outlook Web Access u prisustvu više objekata koji imaju istu adresu e-pošte kao identitet. Da biste pronašli ove objekte, pokrenite sljedeće naredbe:
+Jedan od najčešćih razloga te pogreške nije moguće pravilno usmjeravati zahtjev za Outlook Web Access u prisutnosti više objekata koji imaju istu adresu e-pošte kao i identitet. Da biste pronašli te objekte, pokrenite sljedeće naredbe:
 
-· Dohvaćanje primatelja <email address>
+· Get-Recipient <email address>
 
-· Dohvaćanje korisnika <email address>
+· Get-User <email address>
 
-· Nabavite-user <email address> -softdeleteduser
+· Get-User <email address> -SoftDeletedUser
 
-· Dohvaćanje kontakta <email address>
+· Get-Contact <email address>
 
-· Nabavite-Mailbox <email address> -publifolder
+· Get-Mailbox <email address> -PublicFolder
 
-· Nabavite-Mailbox <email address> – includesoftdeletedmailbox
+· Get-Mailbox <email address> -IncludeSoftDeletedMailbox
 
-· Dohvaćanje poštanskog sandučića <email address> -inactivemailboxonly
+· Get-Mailbox <email address> -InactiveMailboxOnly
 
-Da biste riješili problem, uklonite više objekata s istim identitetom e-pošte i provjerite postoji li jedan objekt s određenim identitetom e-pošte te je li njegova vrsta primatelja UserMailbox.
+Da biste riješili problem, uklonite više objekata s istim identitetom e-pošte i provjerite postoji li jedan objekt s određenim identitetom e-pošte i je li njegova vrsta primatelja UserMailbox.
 
-**Ista adresa koristi se za poštanske sandučiće tvrtke i potrošača**
+**Ista se adresa koristi za poslovne i korisničke poštanske sandučiće**
 
-Drugi je uzrok kada se ista adresa koristi za poslovne i potrošačke poštanske sandučiće. U ovom slučaju korisnik mora promijeniti pseudonim primarnog potrošača dok Cafe ne podržava ovaj scenarij. To je trajna pogreška koja ne nestaje bez intervencije.
+Drugi je uzrok kada se ista adresa koristi za poslovne i korisničke poštanske sandučiće. U tom slučaju korisnik mora promijeniti primarni korisnički pseudonim dok Cafe ne podržava taj scenarij. To je trajna pogreška koja ne nestane bez intervencije.
 
-Pojedinosti potražite u članku [Promjena adrese e-pošte ili telefonskog broja za Microsoftov račun](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account).
+Detalje potražite u članku [Promjena adrese e-pošte ili telefonskog broja za Microsoftov račun.](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account)

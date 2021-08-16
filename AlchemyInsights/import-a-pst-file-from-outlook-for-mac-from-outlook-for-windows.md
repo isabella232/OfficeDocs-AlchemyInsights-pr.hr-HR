@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987387"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295899"
 ---
 # <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Uvoz .pst datoteke iz Outlook za Windows u Outlook za Mac 
 
@@ -37,7 +37,7 @@ Da biste poruke i druge stavke s računala utemeljenog na Windows-u prenosili na
    Uvezene stavke prikazuju se u navigacijskom oknu u **odjeljku Na mom računalu**.
 
 
-**U Office 2011 – uvoz .pst datoteke iz programa Outlook za Windows**
+**U programu Office 2011 – uvoz .pst datoteke iz programa Outlook za Windows**
 
 1. Prenesite .pst datoteku na macintosh računalo.
 
@@ -53,14 +53,13 @@ Da biste poruke i druge stavke s računala utemeljenog na Windows-u prenosili na
 
    Uvezene stavke prikazuju se u navigacijskom oknu u **odjeljku Na mom računalu**.
 
-> [!NOTE]
-> Outlook za Mac može uvoziti samo .pst datoteke utemeljene na Unicodeu, koje su standardni oblik za datoteke osobnih mapa za Outlook (za Windows) 2003 i novije verzije. .pst datoteke koje je oblikovala ANSI, poznata i pod nazivom Outlook 97-2002 Datoteke osobnih mapa, standardni je oblik osobne mape za spremanje podataka u aplikaciji Outlook za Windows u verzijama od 97 do 2002. Taj oblik datoteke nije moguće uvesti u Outlook za Mac. Ako imate stariju verziju .pst datoteke formatirane ansi, nema automatiziranog postupka za pretvaranje te datoteke u noviji oblik datoteke. No možete stvoriti novu podatkovnu Outlook (.pst) u programu Microsoft Outlook za Windows 2003 ili novije verzije, a zatim uvesti stavke iz starije datoteke u novu datoteku. Zatim možete uvesti novu .pst datoteku u Outlook za Mac. Dodatne informacije o stvaranju .pst datoteka i uvozu stavki potražite u članku Pomoć **za** svoju verziju Outlook za Windows.
+**Napomena:** Outlook za Mac može uvoziti samo .pst datoteke utemeljene na Unicodeu, koje su standardni oblik za datoteke osobnih mapa za Outlook (za Windows) 2003 i novije verzije. .pst datoteke koje je oblikovala ANSI, poznata i pod nazivom Outlook 97-2002 Datoteke osobnih mapa, standardni je oblik osobne mape za spremanje podataka u aplikaciji Outlook za Windows u verzijama od 97 do 2002. Taj oblik datoteke nije moguće uvesti u Outlook za Mac. Ako imate stariju verziju .pst datoteke formatirane ansi, nema automatiziranog postupka za pretvaranje te datoteke u noviji oblik datoteke. No možete stvoriti novu podatkovnu Outlook (.pst) u aplikaciji Microsoft Outlook za Windows 2003 ili novije verzije, a zatim uvesti stavke iz starije datoteke u novu datoteku. Zatim možete uvesti novu .pst datoteku u Outlook za Mac. Dodatne informacije o stvaranju .pst datoteka i uvozu stavki potražite u članku **Pomoć** za svoju verziju Outlook za Windows.
 
 **Otvaranje podatkovne Outlook (.pst ili .olm)**
 
-Možete uvesti Outlook podatkovnu Windows (.pst) ili podatkovnu datoteku Outlook za Mac (.olm). Te podatkovne datoteke mogu sadržavati velike količine podataka više vrsta stavki. Outlook Podatkovne se datoteke često koriste kao arhiviranje ili prijenos podataka s računala na drugi.
+Možete uvesti Outlook podatkovnu Windows (.pst) ili Outlook podatkovnu datoteku za Mac (.olm). Te podatkovne datoteke mogu sadržavati velike količine podataka više vrsta stavki. Outlook Podatkovne se datoteke često koriste kao arhiviranje ili prijenos podataka s računala na drugi.
 
-1. Na izborniku Outlook datoteka za Mac kliknite **Uvezi**.
+1. Na izborniku Outlook datoteka za Mac kliknite **Uvoz**.
 
 2. Kliknite **Outlook podatkovnu datoteku**, a zatim strelicu desno.
 
@@ -72,8 +71,7 @@ Možete uvesti Outlook podatkovnu Windows (.pst) ili podatkovnu datoteku Outlook
 
 Uvezene stavke prikazuju se u navigacijskom oknu u **odjeljku Na mom računalu**.
 
-> [!NOTE]
-> Outlook za Mac mogu uvoziti samo .pst datoteke utemeljene na Unicodeu koje su standardni oblik datoteka osobnih mapa za Outlook (za Windows) 2003 i novije verzije. .pst datoteke oblikovane ANSI-jem, poznate i kao Outlook 97-2002 Datoteke osobnih mapa, ne mogu se uvesti u Outlook za Mac. Ako imate stariju verziju .pst datoteke formatirane ansi, nema automatiziranog postupka za pretvaranje te datoteke u noviji oblik datoteke. No možete stvoriti novu podatkovnu Outlook (.pst) u programu Microsoft Outlook za Windows 2003 ili noviju verziju, a zatim uvesti stavke iz starije datoteke u novu datoteku. Zatim možete uvesti novu .pst datoteku u Outlook za Mac. Dodatne informacije o stvaranju .pst datoteka i uvozu stavki potražite u članku Pomoć za svoju verziju Outlook za Windows. 
+**Napomena:** Outlook za Mac može uvesti samo .pst datoteke utemeljene na Unicodeu koje su standardni oblik datoteka osobnih mapa za Outlook (za Windows) 2003 i novije verzije. .pst datoteke oblikovane ANSI-jem, poznate i kao Outlook 97-2002 Datoteke osobnih mapa, ne mogu se uvesti u Outlook za Mac. Ako imate stariju verziju .pst datoteke formatirane ansi, nema automatiziranog postupka za pretvaranje te datoteke u noviji oblik datoteke. No možete stvoriti novu podatkovnu Outlook (.pst) u programu Microsoft Outlook za Windows 2003 ili noviju verziju, a zatim uvesti stavke iz starije datoteke u novu datoteku. Zatim možete uvesti novu .pst datoteku u Outlook za Mac. Dodatne informacije o stvaranju .pst datoteka i uvozu stavki potražite u članku Pomoć za verziju programa Outlook za Windows. 
 
 **Otvaranje stavki s pratnjom iz arhive ili starije verzije**
 
@@ -83,12 +81,12 @@ Stavke kao što su poruke e-pošte, kontakti i događaji možete uvesti iz progr
 
 2. Kliknite **Informacije o entourageu iz arhive** ili starije verzije , kliknite strelicu desno, a zatim slijedite upute.
 
-> [!NOTE]
+**Napomena:**
 - Ako ste s entourageom koristili Microsoftov račun za Exchange, sve stavke na računu Exchange preuzimaju se s Exchange poslužitelja nakon dovršetka uvoza. Sva pravila ili rasporedi povezani s Exchange računom morat će se ponovno konfigurirati u Outlook.
 
 - Ako uvozite stavke iz programa Entourage 2004 ili Entourage 2008, informacije o kategorijama za stavke na računu Exchange ne uvoze se u Outlook. No uz Entourage 2008, Web Services Edition informacije o kategorijama preuzet će se s Exchange poslužitelja.
 
-- Outlook ne obuhvaća centar za Project. Ako ste koristili centar Project u entourageu, a zatim uvezite podatke o entourageu u Outlook, Project pridruživanja centra pretvaraju se u kategorije. Ako ste, primjerice, dodali stavke u projekt pod nazivom "Research Paper" u programu Entourage, tim se stavkama dodjeljuje kategorija koja se u programu Outlook.
+- Outlook ne obuhvaća centar za Project. Ako ste koristili centar Project u entourageu, a zatim podatke o entourageu uvezite u Outlook, Project pridruživanja centra pretvaraju se u kategorije. Ako ste, primjerice, dodali stavke u projekt pod nazivom "Research Paper" u programu Entourage, tim se stavkama dodjeljuje kategorija koja se u programu Outlook.
 
 - Prilagođeni prikazi, postavke pretraživanja i podaci o vremenu putovanja po događajima iz programa Entourage ne uvoze se u Outlook. Outlook događaji ne sadrže informacije o vremenu putovanja.
 
@@ -100,8 +98,7 @@ Stavke kao što su poruke e-pošte, kontakti i događaji možete uvesti iz progr
 
 3. U okvir za pretraživanje unesite naziv mape koju želite premjestiti, a zatim kliknite **Premjesti**.
 
-> [!TIP]
-> Da biste kopirali stavku iz arhivske mape u drugu mapu u Outlook, jednostavno povucite stavku u mapu u koju želite staviti kopiju.
+   **Savjet**: da biste kopirali stavku iz arhivske mape u drugu mapu u Outlook, jednostavno povucite stavku u mapu u koju želite s mjesta kopirati.
 
 **Pogledajte i**
 
