@@ -1,5 +1,5 @@
 ---
-title: Ispravljanje pogrešaka servisa Windows Update
+title: Rješavanje Windows pogrešaka u ažuriranju
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6e90c0ba8a8cbe79838e1f49cd7049bf3e24e985d371ee1462d50e47834cdac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812636"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068264"
 ---
-# <a name="fix-windows-update-errors"></a>Ispravljanje pogrešaka servisa Windows Update
+# <a name="fix-windows-update-errors"></a>Rješavanje Windows pogrešaka u ažuriranju
 
-Ako vam se prilikom preuzimanja i instalacije ažuriranja za Windows prikazuje kod pogreške, alat za otklanjanje **poteškoća s ažuriranjem** može vam pomoći pri rješavanju problema.
+Ako prilikom preuzimanja i instalacije ažuriranja Windows, alat za otklanjanje poteškoća s **ažuriranjem** može vam pomoći da riješite problem.
 
-- [Preuzimanje alata za otklanjanje poteškoća s ažuriranjem za Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Pokrenite alat za otklanjanje poteškoća. Kada završite, najbolje je ponovno pokrenuti uređaj. Zatim provjerite ima li novih ažuriranja tako da otvorite [Start > Settings > Update & Security > Windows Update](ms-settings:windowsupdate).
+- [Preuzimanje alata za otklanjanje poteškoća s ažuriranjem Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Pokrenite alat za otklanjanje poteškoća. Kada završite, najbolje je ponovno pokrenuti uređaj. Zatim provjerite ima li novih ažuriranja tako da ode [> Postavke > ažuriranje & sigurnosno > Windows ažuriranje](ms-settings:windowsupdate).
 
-Ako i dalje ne funkcioniraju, dodatne informacije potražite u [web-aplikaciji Windows Update: najčešća](https://support.microsoft.com/help/12373/windows-update-faq) pitanja.
+Ako i dalje ne funkcioniraju, dodatne informacije potražite u [Windows: najčešća pitanja.](https://support.microsoft.com/help/12373/windows-update-faq)

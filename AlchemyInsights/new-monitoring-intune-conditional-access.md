@@ -1,5 +1,5 @@
 ---
-title: Praćenje neusklađeni uvjetni pristup
+title: Monitor Intune Conditional Access
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: e2803a49aaf087ac55b1fd62056e2b0af3fcd919
-ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025494"
 ---
-# <a name="monitor-intune-conditional-access"></a>Praćenje neusklađeni uvjetni pristup
+# <a name="monitor-intune-conditional-access"></a>Monitor Intune Conditional Access
 
-Korisnici usmjereni na uvjetni pristup primit će obavijest e-poštom ako ne zadovoljavaju preduvjete za pristup vaše tvrtke ili ustanove. Da biste riješili, preporučujemo vam jedno ili više sljedećih rješenja:
+Korisnici koji su ciljani uvjetnim pristupom primit će poruku e-pošte s obavijesti ako ne ispunjavaju preduvjete za pristup vašoj tvrtki ili ustanovi. Da biste riješili problem, preporučujemo jedno ili više sljedećih rješenja:
 
-1. Ako se pretpostavlja da je uređaj upisan, savjetujte korisniku da otvori aplikaciju Portal tvrtke i provjerite prikazuje li se na portalu tvrtke. Ako to ne učinite, korisnik mora upisati uređaj.
-1. **Na portalu** Azure potražite  >  **usklađenost uređaja**. 
-1. Da biste pregledali izvješće o usklađenosti uređaja da biste provjerili je li korisnikov uređaj označenog kao kompatibilan, u odjeljku **Monitor** kliknite **usklađenost uređaja**.
-1. **Na portalu** Azure potražite  >  **usklađenost uređaja**. U odjeljku **Upravljanje** kliknite **pravila**. Na popisu pravilnika o usklađenosti provjerite je li profil dodijeljen vašem korisničkom uređaju. Ako nijedan profil nije dodijeljen, zatim Intune neće moći potvrditi status usklađenosti uređaja.
-1. Uredite korisnički zadatak uvjetnog pristupa.
-1. Na portalu Azure prijeđite na **unos** pravilnika o  >  **uvjetnom pristupu**  >  , odaberite pravilo na popisu, a zatim kliknite **Korisnici i grupe**.
-1. Da biste neku određenu politiku usmjerili na nekoga, dodajte ih na **popis uvrštavanje**. Da biste bili sigurni da je osoba izostavljena iz pravilnika, dodajte ih na **popis za izuzimanje**.
+1. Ako se pretpostavlja da je uređaj upisan, savjetujte korisnika da ode u aplikaciju Company Portal i provjeri prikazuje li se u Company Portal. Ako se ne prijavi, korisnik mora registrirati uređaj.
+1. Na portalu Azure idite na **usklađenost uređaja Intune**  >  . 
+1. Da biste pogledali izvješće o usklađenosti uređaja da biste provjerili je li korisnikov uređaj označen kao usklađen, u **odjeljku Nadzor** kliknite **Usklađenost uređaja**.
+1. Na portalu Azure idite na **usklađenost uređaja Intune**  >  . U **odjeljku Upravljanje** kliknite **Pravila**. Na popisu pravilnika o usklađenosti provjerite je li profil dodijeljen vašem korisničkom uređaju. Ako profil nije dodijeljen, Intune neće moći potvrditi status usklađenosti uređaja.
+1. Uređivanje korisnikova zadatka uvjetnog pristupa.
+1. Na portalu Azure otvorite **Intune**  >  **Pravila uvjetnog**  >  **pristupa**, odaberite pravilnik s popisa, a zatim kliknite Korisnici **i grupe**.
+1. Da biste određeni pravilnik ciljali na nekoga, dodajte ga na **popis Uvrsti.** Da biste bili sigurni da je osoba izostavljena iz pravilnika, dodajte je na popis **Izuzimanje**.
 
 **Korisne veze:**
 
 - [Pregled usklađenosti uređaja](https://docs.microsoft.com/intune/device-compliance-get-started)
-- [Otklanjanje poteškoća sa com](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Otklanjanje poteškoća s ca](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 - [Pravilnik o otklanjanju poteškoća](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
-- [Praćenje usklađivanja uređaja](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Praćenje usklađenosti uređaja Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
 > [!NOTE]
-> Ovi su koraci korisni samo u otklanjanju poteškoća s uvjetnim pristupom značajke Azure Active Directory. Moguće je i karantensku napravu koja blokira pristup e-pošti putem pravilnika sustava Exchange. Dodatne informacije o upravljanju uređajima sustava Exchange možete pronaći [**ovdje**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141)).
+> Ovi su koraci korisni samo u otklanjanju poteškoća Azure Active Directory uvjetnom pristupu. Uređaj koji blokira pristup e-pošti moguće je i staviti u karantenu pomoću pravilnika Exchange e-pošte. Dodatne informacije o upravljanju Exchange uređajima potražite [**ovdje**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141)).

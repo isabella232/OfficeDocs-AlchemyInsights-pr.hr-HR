@@ -1,5 +1,5 @@
 ---
-title: Problemi s oblikovanjem fonta u programu Excel 2016
+title: Problemi s oblikovanjem fonta u Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 1831845768969e5fbb181276b2b66830c7d71599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77387602fda7067b469a93289dc071d0c9ba52eff67c5fb04f4426e4034eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068192"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Problemi s oblikovanjem fonta u programu Excel
+# <a name="font-formatting-problems-in-excel"></a>Problemi s oblikovanjem fonta u Excel
 
-U programu Excel 2016 oblikovanje fonta možda se neće pravilno prikazati u ćeliji. To se može dogoditi ako ćelija sadrži više vrsta oblikovanja fonta. Primjerice, ako su neki znakovi debljani, a drugi nisu podebljani, možda vam se neće prikazati simbol podebljano. Ako u istoj ćeliji postoje drugi obojeni likovi, možda se boje ne prikazuju ispravno. Naš inženjerski tim svjestan je tog problema i trenutno radi na ispravcima. U međuvremenu pokušajte koristiti neki drugi font. Ili pokušajte izbjeći korištenje više vrsta oblikovanja unutar iste ćelije dok se taj problem ne popravi.
+U Excel 2016, oblikovanje fonta možda se neće pravilno prikazati u ćeliji. To se može dogoditi ako ćelija sadrži više vrsta oblikovanja fonta. Ako su, primjerice, neki znakovi podebljani, a drugi nisu podebljani, možda vam se neće prikazati podebljani oblik. Ako u istoj ćeliji imate različite obojene znakove, boje se možda neće pravilno prikazivati. Naš inženjerski tim upoznat je s tim problemom i trenutno radi na popravku. U međuvremenu pokušajte koristiti drugi font. Možete i izbjeći korištenje više vrsta oblikovanja unutar iste ćelije dok se problem ne popravi.
   

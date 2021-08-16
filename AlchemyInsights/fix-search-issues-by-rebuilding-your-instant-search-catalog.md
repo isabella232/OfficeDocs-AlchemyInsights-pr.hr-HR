@@ -1,5 +1,5 @@
 ---
-title: 1800005 rješavanje problema s pretraživanjem obnavljanjem kataloga za trenutno pretraživanje
+title: 1800005 rješavanje problema s pretraživanjem obnovom kataloga trenutnog pretraživanja
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,26 +13,26 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: d9f0048b9c79345714f8e9ab3d5a593ea13771de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a51c7c24e63820a5abbfdc9d72f9f18554b9a9f42c5c804e944137df928efa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677595"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068510"
 ---
 # <a name="troubleshoot-search-issues"></a>Otklanjanje poteškoća s pretraživanjem
 
-Ako nailazite na probleme s pretraživanjem u programu Outlook, pogledajte veze u nastavku za pomoć i otklanjanje poteškoća.
+Ako imate problema s pretraživanjem u Outlook, pomoć i otklanjanje poteškoća potražite u vezama u nastavku.
 
-To su najčešći problemi, a dobro je mjesto za početak:
+To su najčešći problemi i dobro su mjesto za početak:
 
-- [Pretraživanje u programu Outlook ne vraća rezultate](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [Pretraživanje programa Outlook vraća nepotpune rezultate](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [Pretraživanje u programu Outlook ne može pronaći starije poruke e-pošte](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [Outlook pretraživanja ne vraća rezultate](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook pretraživanja vraća nepotpune rezultate](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Outlook pretraživanje ne može pronaći starije poruke e-pošte](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
 Moguća rješenja za manje česte probleme možete pronaći ovdje:
 
-- [Samo Outlook 2016: kartica pretraživanje je zasivljena](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Outlook 2016 samo: kartica Pretraživanje zasivljena je](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
 - [Zajednički poštanski sandučić: problemi s rezultatima pretraživanja](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [Pogreška: performanse pretraživanja bit će utjecale zbog problema s konfiguriranim programom Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [Mape pretraživanja prikazuju neočekivane stavke Personmetapodataka bez predmeta](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [Pogreška: performanse pretraživanja utječu zbog problema s Outlook konfiguriranim](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Mape pretraživanja prikazuju neočekivane stavke programa PersonMetadata bez predmeta](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)

@@ -1,5 +1,5 @@
 ---
-title: Uključivanje NDI tehnologije
+title: Uključivanje tehnologije NDI
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004403"
 - "7947"
-ms.openlocfilehash: ea694898baffa50fca71957175eba3664dece44e
-ms.sourcegitcommit: 112f18dce8257b98fab32d44910ee879efb44cb8
+ms.openlocfilehash: ed932592aae1158bc0c0da4817467b69d20208533bc080cb0e424f552af8601a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935075"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023514"
 ---
-# <a name="turn-on-ndi-technology"></a>Uključivanje NDI tehnologije
+# <a name="turn-on-ndi-technology"></a>Uključivanje tehnologije NDI
 
-Za NDI tehnologiju potrebna su dva koraka koja će biti uključena za korisnika:
+Za NDI tehnologiju potrebno je uključili dva koraka za korisnika:
 
-1. Administrator korisnika mora omogućiti svojstvo "AllowNDIStreaming" u odjeljku CsTeamsMeetingPolicy.
+1. Administrator klijenta mora omogućiti svojstvo "AllowNDIStreaming" u programu CsTeamsMeetingPolicy.
 
     `Set-CsTeamsMeetingPolicy -Identity MEETING_POLICY -AllowNDIStreaming $true`
 
-2. Kada se ta promjena popunjava, krajnji korisnik mora uključiti NDI® tehnologiju za određene klijente iz **postavki > dozvola**.
+2. Kada se ta promjena popuni, krajnji korisnik mora uključiti NDI® tehnologiju za određeni klijent iz **Postavke > dozvole**.
 
-Dodatne informacije potražite u članku [Korištenje NDI tehnologije u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings).
+Dodatne informacije potražite u članku [Korištenje tehnologije NDI u sustavu Microsoft Teams](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings).

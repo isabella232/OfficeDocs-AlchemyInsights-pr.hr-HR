@@ -1,5 +1,5 @@
 ---
-title: Nova probna verzija sustava Office 365 E1
+title: Nova Office 365 E1 probna verzija
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: fc2f20488e55f73ed2437220d3fd56ff64848450
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 53be3bad8018b434bdac15ea953d3ccf5a83f59377f19bb2441247ee4892e26c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025422"
 ---
-# <a name="new-office-365-e1-trial"></a>Nova probna verzija sustava Office 365 E1
+# <a name="new-office-365-e1-trial"></a>Nova Office 365 E1 probna verzija
 
-Od 1. srpnja 2020., probna licenca za Office 365 E1 više nije dostupna. Ako morate licencirati korisnike za Microsoft Teams, pročitajte opis servisa [Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) za popis plaćenih pretplata koje obuhvaćaju Teams. Osim toga, kvalificirane tvrtke ili ustanove mogu koristiti [besplatnu verziju aplikacije Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)ili zaposlenici mogu aktivirati iskustvo [istraživanja u aplikaciji Teams.](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory)
+Od 1. srpnja 2020., Office 365 E1 probna licenca više nije dostupna. Ako korisnicima morate licencirati Microsoft Teams, [pročitajte Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) opis servisa za popis plaćenih pretplata koje Teams. Osim toga, kvalificirane tvrtke ili ustanove mogu koristiti [besplatnu verziju programa Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)ili zaposlenici mogu aktivirati [Teams istraživačko](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) iskustvo.
