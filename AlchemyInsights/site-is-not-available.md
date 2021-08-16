@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a8343f03-1b8c-4c29-be84-72b025e51d72
-ms.openlocfilehash: eb5d13b60f7a8e23638a27f6be42422d0ceb0a95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69d039e67a29dd11c1f9a3a8388420836808c447b4670768abd3dae36d80f8a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022092"
 ---
 # <a name="site-is-not-available"></a>Web-mjesto nije dostupno
 
-Ako web-mjesto sustava SharePoint ili OneDrive nije dostupno većem broju korisnika, možda postoji privremeni problem s servisom. Provjerite je li vaš stanar utjecao na [nadzornu ploču zdravstvenog stanja servisa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) . 
+Ako vaše SharePoint ili OneDrive web-mjesto nije dostupno više korisnika, možda postoji privremeni problem sa servisom. Provjerite [nadzornu ploču Stanje servisa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste vidjeli utječe li na vaš klijent. 
   
 

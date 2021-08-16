@@ -14,12 +14,12 @@ ms.custom:
 - "836"
 - "2000020"
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
-ms.openlocfilehash: 2350a49528380683c58a69638040a41d670e1cfb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 00e674795479e6c76a1fcb3448ea0b5f42e62fbc9e75f671c69f7bf74e0207b5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832482"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021984"
 ---
 # <a name="solutions-for-error-30034-4"></a>Rješenja za pogrešku 30034-4
 
@@ -29,10 +29,10 @@ Isprobajte sljedeća rješenja da biste riješili [pogrešku 30034-4:](https://s
 
 - Preuzmite i pokrenite [Pomoćnik za podršku i oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kada se otvori, u **odjeljku Deinstalacija** proizvoda sustava Office odaberite verziju koju želite deinstalirati pa odaberite **Dalje**.
+1. Kada se otvori, u **odjeljku Deinstaliraj Office odaberite** verziju koju želite deinstalirati pa odaberite **Dalje**.
 
 2. Nastavite prolaziti kroz zaslone te ponovno pokrenite računalo kada se to od vas zatraži.
 
-    Nakon ponovnog pokretanja pomoćnik za podršku i oporavak automatski se ponovno otvara da bi dovršio postupak deinstalacije.
+    Nakon ponovnog pokretanja, pomoćnik za podršku i oporavak se automatski ponovno otvara da bi dovršio postupak deinstalacije.
 
-3. Slijedite preostale upite i ponovno [instalirajte Office](https://portal.office.com/OLS/MySoftware.aspx) ili zatvorite pomoćnika.
+3. Slijedite preostale upite i [ponovno Office ili](https://portal.office.com/OLS/MySoftware.aspx) zatvorite pomoćnika.

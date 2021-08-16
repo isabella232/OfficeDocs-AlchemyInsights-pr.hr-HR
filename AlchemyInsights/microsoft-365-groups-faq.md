@@ -1,5 +1,5 @@
 ---
-title: Najčešća pitanja o grupama sustava Microsoft 365
+title: Microsoft 365 Najčešća pitanja o grupama
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5704"
-ms.openlocfilehash: b116957864ea1ff7d09850df56177f765fe12cff
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 55ade817c9cd30181f77f65ebfc6d0c99a9e4c11aace7e123b6bf7e09fe516c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098630"
 ---
-# <a name="microsoft-365-groups-faq"></a>Najčešća pitanja o grupama sustava Microsoft 365
+# <a name="microsoft-365-groups-faq"></a>Microsoft 365 Najčešća pitanja o grupama
 
-Provjerite **[najčešća pitanja o grupi za Microsoft 365](https://aka.ms/M365GroupsFAQ)** da biste provjerili ima li na vrhu administratorskih zadataka povezanih s grupama sustava Microsoft 365.
+Provjerite najčešća **[Microsoft 365 grupe za](https://aka.ms/M365GroupsFAQ)** najčešće administratorske zadatke povezane s Microsoft 365 grupama.
 
 - Problemi s tijekom pošte
 - Upravljanje adresama e-pošte
 - Skripte za izvoz podataka o članu grupe
 - Send-As i drugo delegiranje
-- Grupe koje se ne prikazuju/ne mogu pristupiti iz klijenta programa Outlook
+- Grupe koje se ne prikazuju/ne mogu pristupiti Outlook klijentu
