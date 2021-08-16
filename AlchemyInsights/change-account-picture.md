@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: 3642697d27a7e20c8c131f513a3ef80c9223b4d2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 728a96a1ebfa3e064128a29d30971736ea2f6236ecf1c9152b0a542efdc032e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018745"
 ---
 # <a name="change-account-picture"></a>Promjena slike računa
 
-Ako za prijavu u Windows 10 koristite korisničko ime i lozinku, koristite lokalni račun. **Da biste promijenili sliku lokalnog računa:**
+Ako se za prijavu u Windows 10 koristite korisničko ime i lozinku, koristite lokalni račun. **Da biste promijenili sliku lokalnog računa:**
 
-1. Idite **na Start** Settings  >  **Accounts**  >  **Your**  >  **info**.
+1. Idite **na Start**  >  **Postavke**  >  **Računi** Vaši  >  **podaci**.
 2. U **odjeljku Stvaranje slike** kliknite Pregledaj za **jednu**. Ako uređaj ima kameru, kliknite  Kamera i odaberite autoportporter. 
-    **Napomena:** Windows pamti zadnje tri slike koje ste koristili. Kliknite sliku na stranici Vaši podaci da biste se prebacili na tu.
+    **Napomena**: Windows pamti zadnje tri slike koje ste koristili. Kliknite sliku na stranici Vaši podaci da biste se prebacili na tu.
 
 Ako se za prijavu koristite adresom e-pošte i lozinkom, koristite Microsoftov račun. Da biste promijenili sliku Microsoftova računa:
 

@@ -1,5 +1,5 @@
 ---
-title: Korištenje čarobnjaka za postavljanje servisa OneDrive
+title: Korištenje čarobnjaka OneDrive postavljanje
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
-ms.openlocfilehash: 38b985b1aeba19604e7dfc9a9156a22795fa35ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 418a60cc31471627aa06c35120faca173acfe6be8c850e676ec82fcf9c44673d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749433"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037852"
 ---
-# <a name="set-up-onedrive"></a>Postavljanje servisa OneDrive
+# <a name="set-up-onedrive"></a>Postavljanje OneDrive
 
-Da biste brzo postavili OneDrive za tvrtku ili ustanovu, [Poslužite se čarobnjakom za postavljanje servisa OneDrive](https://portal.office.com/onboarding/odfbquickstartguide).
+Da biste brzo OneDrive za svoju organizaciju, [koristite čarobnjak za OneDrive postavljanje](https://portal.office.com/onboarding/odfbquickstartguide).
   
 

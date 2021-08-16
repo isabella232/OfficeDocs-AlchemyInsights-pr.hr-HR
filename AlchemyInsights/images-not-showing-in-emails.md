@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6180"
 - "9003285"
-ms.openlocfilehash: e1dcb3e7564f4da95bff3d5c5083672030af4abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f0fc65b6510a32f7ca6f1d4dbe1de94b474ea4fa2179019ace8ec9f4e080b42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987495"
 ---
 # <a name="images-not-showing-in-emails"></a>Slike koje se ne prikazuju u porukama e-pošte
 
-Svjesni smo problema u kojem neki klijenti ne mogu vidjeti slike ili slike u porukama e-pošte. Ispričavamo se zbog neugodnosti.
+Svjesni smo problema zbog kojeg neki korisnici ne mogu vidjeti slike ni slike u porukama e-pošte. Ispričavamo se zbog neugodnosti.

@@ -1,5 +1,5 @@
 ---
-title: Omogući način rada za razvojne inženjere u sustavu Windows 10
+title: Omogući način rada za razvojne inženjere u Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002955"
 - "5657"
-ms.openlocfilehash: b4d1a2242a7c4e6c8f61de022103118827710d62
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5678cdc4898b7a5806e42627c97c95546835b3a578f2719af791da062ba0e2ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814292"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003417"
 ---
-# <a name="enable-developer-mode-in-windows-10"></a>Omogući način rada za razvojne inženjere u sustavu Windows 10
+# <a name="enable-developer-mode-in-windows-10"></a>Omogući način rada za razvojne inženjere u Windows 10
 
-Način rada za razvojne inženjere za korisnike koji razvijaju aplikacije i moraju moći učitati aplikacije i pristupati drugim značajkama razvojnih inženjera, kao što je pokretanje aplikacije u načinu rada za ispravljanje pogrešaka u programu Visual Studio.
+Način rada za razvojne inženjere za korisnike koji razvijaju aplikacije i moraju moći učitati aplikacije i pristupati drugim značajkama razvojnih inženjera, kao što je pokretanje aplikacije u načinu rada za ispravljanje pogrešaka u Visual Studio.
 
-Da biste omogućili način rada za razvojne inženjere, **[otvorite Postavke > Ažuriranje & sigurnosne > Za razvojne inženjere](ms-settings:developers?activationSource=GetHelp)**. Ovisno o međuverziji sustava Windows 10 koju imate, vidjet ćete popis za odabir koji obuhvaća mogućnost za uključivanje bočnog učitavanja ili načina rada za razvojne inženjere ili pak samo prekidač za uključivanje načina rada za **razvojne inženjere**.
+Da biste omogućili način rada za razvojne inženjere, **[idite Postavke > Ažuriranje & sigurnosne > Za razvojne inženjere](ms-settings:developers?activationSource=GetHelp)**. Ovisno o međuverziji Windows 10 koju imate, vidjet ćete popis za odabir koji obuhvaća mogućnost za uključivanje načina rada za bočno učitavanje ili razvojnog inženjera ili pak samo prekidač za uključivanje načina rada za **razvojne inženjere**.
 
 Dodatne informacije o načinu rada za razvojne inženjere potražite [u članku Omogućivanje uređaja za razvoj](https://docs.microsoft.com/windows/uwp/get-started/enable-your-device-for-development).

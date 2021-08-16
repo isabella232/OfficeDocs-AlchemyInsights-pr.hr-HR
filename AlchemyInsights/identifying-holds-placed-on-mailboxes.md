@@ -1,5 +1,5 @@
 ---
-title: Identificiranje čekanja postavljenih na poštanske sandučiće
+title: Prepoznavanje zadržavanja postavljenih na poštanske sandučiće
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668086"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987541"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Prepoznavanje čekanja postavljenih na poštanske sandučiće
+# <a name="identify-holds-placed-on-mailboxes"></a>Prepoznavanje zadržavanja postavljenih na poštanske sandučiće
 
-Imate li sadržaj Microsoftove 365 koji se **zadržava** uz **čekanje** koje ne možete identificirati? Trebate li **saznati** gdje se nalazi čekanje na **poštanskom sandučiću** ? Drži (*značajke zadržavanja*) može se primijeniti na neki od sljedećih načina:
+Imate li Microsoft 365 koji se zadržava na **čekanju** **koji** ne možete prepoznati? Morate saznati **gdje se** nalazi mjesto na poštanskom **sandučiću?** Čuvanja (*značajke zadržavanja*) mogu se primijeniti na jedan od sljedećih načina:
   
-- Čekanje na tužbu
+- Čekanje u parnini
 
-- Čekanje na otkrivanje
+- Čuvanje elektroničkih predočavanja
 
-- Čuvanje na mjestu
+- In-Place čekanje
 
-- Pravilnik o zadržavanju Microsoft 365 
+- Microsoft 365 zadržavanja 
 
-  - Određena pravila zadržavanja lokacije
+  - Specifični pravilniki o zadržavanju lokacije
 
-  - Pravila zadržavanja u cijelom tvrtki ili ustanovi
+  - Pravilnik o zadržavanju na razini tvrtke ili ustanove
 
-- Naljepnice za Microsoft 365
+- Microsoft 365 naljepnice
 
-Da biste odredili koja se vrsta držite primjenjuje na korisnikov poštanski sandučić, pročitajte članak [prepoznavanje vrste držite smještenih na poštanskom sandučiću sustava Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Da biste utvrdili koja se vrsta zadržavanja primjenjuje na korisnikov poštanski sandučić, pogledajte kako prepoznati vrstu zadržavanja [postavljenu na poštanski sandučić Exchange Online poštanskom sandučiću](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).

@@ -1,5 +1,5 @@
 ---
-title: '**– Prekidač za Ignorelegalhold**'
+title: '**–IgnoreLegalhold switch**'
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6150"
 - "3100023"
-ms.openlocfilehash: 3adeb60f65d711a08da821a786c68fb51b4f8102
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: babd4ac3751969494ec9e8d3ff007bf9f124bbc2ab862ca5b26ce21cee01c3ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987459"
 ---
-# <a name="ignorelegalhold-switch"></a>**– Prekidač za Ignorelegalhold**
+# <a name="ignorelegalhold-switch"></a>**–IgnoreLegalhold switch**
 
-**– Ignorelegalhold** koji se koristi u sljedećem cmdletu nije dostupan ni funkcionalan za korisničke objekte sustava Exchange Online.
+Naredba **–IgnoreLegalhold koja** se koristi u sljedećem naredbenom e-okviru nije dostupna ni funkcionalna za Exchange Online korisničke objekte.
 
-- Onemogući-poštanski sandučić
+- Disable-mailbox
 - Uklanjanje poštanskog sandučića
-- Onemogući-MailUser
-- Ukloni-MailUser
+- Disable-mailuser
+- Remove-mailuser

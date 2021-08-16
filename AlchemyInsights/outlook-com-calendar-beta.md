@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064556"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nova iskustva kalendara koja dolaze u Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nova sučelja kalendara koja dolaze na Outlook.com
 
-Novi izgled donosi najbolje dizajne i učenje iz iskustva e-pošte u kalendar.
+Novi izgled donosi najbolje dizajne i učenja iz iskustva aplikacije Pošta u Kalendar.
 
-Uživat ćete u modernom dizajnu koji smanjuje vizualnu gužvu i daje vam brži način navigacije kalendarom. Možete i jednostavnije pronaći zanimljive kalendare za omiljene aktivnosti – od TV emisija do sportskih timova i događaja.
+Uživat ćete u modernom dizajnu koji smanjuje vizualnu nagomilanu e-pošte i omogućuje vam brže kretanje po kalendaru. Zanimljive kalendare za omiljene aktivnosti jednostavnije je pronaći– od TV emisija do sportskih timova i događaja.
 
-Proširili smo zbirku ikona događaja i ažurirali izgled i dojam postojećih, a sada automatski zbrajaju relevantne ikone na vaše događaje, tako da možete jednostavno vidjeti što se događa u trenu.
+Proširili smo našu zbirku ikona događaja te ažurirali izgled i izgled postojećih – a sada automatski dodajemo relevantne ikone u vaše događaje da biste jednostavno mogli vidjeti što se događa na prvi pogled.
 
-Povratne informacije o novim značajkama možete dati putem servisa za [UserVoice u kalendaru programa Outlook.com](https://go.microsoft.com/fwlink/?linkid=2103075).
+Povratne informacije o novim značajkama možete dobiti putem [kanala Outlook.com Calendar UserVoice](https://go.microsoft.com/fwlink/?linkid=2103075).
