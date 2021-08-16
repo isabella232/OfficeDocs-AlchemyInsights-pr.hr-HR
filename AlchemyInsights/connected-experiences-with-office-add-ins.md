@@ -1,5 +1,5 @@
 ---
-title: Povezano iskustvo sa dodacima sustava Office
+title: Povezano iskustvo s Office dodacima
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: ca4aa57acfa8f2ddfd5b8ddbaa6d7214cfbb9140
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6b05b39f6298eb6e05c4465584a884395c863a891ec525828f795809eeb787a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032802"
 ---
-# <a name="connected-experience-with-office-add-ins"></a>Povezano iskustvo sa dodacima sustava Office
+# <a name="connected-experience-with-office-add-ins"></a>Povezano iskustvo s Office dodacima
 
-Dodaci sustava Office možda neće biti dostupni ako su korisnik ili administrator isključili povezana iskustva.
+Office dodaci možda neće biti dostupni ako su korisnik ili administrator isključili povezana sučelja.
 
-Prije nego što promijenite postavke pravilnika, pročitajte članak [korištenje postavki pravilnika za upravljanje kontrolama zaštite privatnosti za aplikacije Microsoft 365 za Enterprise](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls).
+Prije promjene postavki pravilnika pogledajte korištenje [postavki pravilnika za upravljanje kontrolama privatnosti za Microsoft 365 Apps za velike tvrtke](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls).
 
-Korisnici mogu uključiti ili isključiti postavku zaštite privatnosti na sljedeći način:
+Korisnici mogu uključiti ili isključiti postavku Zaštita privatnosti slijedeći ove korake:
 
-- **Datoteka > računa > privatnost računa > upravljanje postavkama** 
+- **Upravljanje > računom > računom > upravljanje Postavke** 
 
-    U odjeljku povezana iskustva odaberite jesu li dostupna specifična povezana iskustva, kao što su iskustva za analizu sadržaja. Ako u odjeljku Upravljanje postavkama ne odaberete specifična iskustva, dostupna su sva povezana iskustva.
+    U odjeljku Povezana sučelja odaberite jesu li dostupna određena povezana sučelja, kao što su iskustva za analizu sadržaja. Ako ne odaberete određena sučelja u odjeljku Upravljanje Postavke, dostupna su sva povezana sučelja.

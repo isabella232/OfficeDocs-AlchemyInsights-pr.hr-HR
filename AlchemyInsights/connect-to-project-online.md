@@ -1,5 +1,5 @@
 ---
-title: Povezivanje s programom Project online
+title: Povezivanje za Project Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2661"
 - "9000697"
-ms.openlocfilehash: 019fedf90f44b629a41c8e6268566ddef774122a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b097798ee38ae88c316c455e9c8bba2dedee8238a5c4e4c034ecfc9cdc17f72e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032982"
 ---
-# <a name="connect-to-project-online"></a>Povezivanje s programom Project online
+# <a name="connect-to-project-online"></a>Povezivanje za Project Online
 
-Možete se povezati s programom Project online pomoću:
+Možete se povezati s Project Online pomoću:
 
-- Klijent programa Project online za stolna računala za povezivanje s programom Project online u okruženju sustava Office 365. Dodatne informacije potražite u članku [Povezivanje s programom Project online pomoću klijenta Project online za stolna računala](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client).  
-- Servis Power BI za otključavanje uvida iz web-aplikacije Projecta za upravljanje projektima, portfeljima i resursima. Dodatne informacije potražite u članku [Povezivanje s programom Project Web App uz Power bi](https://docs.microsoft.com/power-bi/connect-data/service-connect-to-project-online).  
+- Project Online Klijent za stolna računala za povezivanje Project Online u Office 365 okruženju. Dodatne informacije potražite u [članku Povezivanje Project Online s klijentom Project Online računala](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client).  
+- Servis Power BI za otključavanje uvida Project web-aplikacije za upravljanje projektima, portfeljima i resursima. Dodatne informacije potražite u članku [Povezivanje web-Project web-aplikacije Power BI](https://docs.microsoft.com/power-bi/connect-data/service-connect-to-project-online).  
