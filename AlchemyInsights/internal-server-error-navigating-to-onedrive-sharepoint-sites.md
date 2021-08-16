@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028428"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Pogreška interne poslužitelja prilikom navigacije na web-mjesta sustava SharePoint ili servisa OneDrive
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Interna pogreška poslužitelja prilikom navigacije do sustava Sharepoint ili OneDrive web-mjesta
 
-Kada pokušate prijeći na SharePoint ili web-mjesta servisa OneDrive, korisnici mogu primiti pogrešku interne poslužitelja za 500. 
+Korisnici mogu primiti pogrešku s 500 internih poslužitelja prilikom navigacije do web-mjesta SharePoint ili OneDrive poslužitelja. 
 
-Pokušajte izbrisati predmemoriranje preglednika prije nego što odete na web-mjesto.
+Prije navigacije do web-mjesta pokušajte očistiti predmemoriju preglednika.
 
 
-1. U pregledniku Microsoft Edge potražite više... > postavke
+1. U pregledniku Microsoft Edge odaberite Više...> Postavke
 
-2. U odjeljku Brisanje podataka o pregledavanju odaberite **Odaberi što treba očistiti**
+2. U odjeljku Brisanje podataka o pregledavanju **odaberite Odaberite što želite očistiti**
 
-3. Potvrdite okvir Kolačići i spremljeni podaci o web-mjestu i odaberite **Očisti**.
+3. Potvrdite okvir Kolačići i spremljeni podaci web-mjesta pa odaberite **Očisti**.
 
-Pažnja: ovi se koraci mogu razlikovati prilikom korištenja drugih preglednika, kao što su Firefox ili Chrome.
+Napomena: ti se koraci mogu razlikovati prilikom korištenja drugih preglednika kao što su Firefox ili Chrome.
 
-Ako time ne riješite problem, možete provjeriti postoji li aktivno održavanje koje se nalazi na vašem zakupcu tako da dođete do [centra za poruke](https://portal.office.com/adminportal/home#/MessageCenter).
+Ako time ne riješite problem, možete provjeriti odvija li se aktivno održavanje na klijentu tako da odete do centra [za poruke](https://portal.office.com/adminportal/home#/MessageCenter).
 
-Konačno, provjerite jeste li na stranici [zdravlje servisa](https://portal.office.com/adminportal/home#/servicehealth) provjerili ima li nekih savjeta/incidenata koji se mogu pojavljivati.
+Naposljetku provjerite nalazite [li se](https://portal.office.com/adminportal/home#/servicehealth) na stranici Stanje servisa da biste provjerili ima li kakvih savjetnika/incidenata koji se mogu pojaviti.
 

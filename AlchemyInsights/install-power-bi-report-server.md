@@ -1,5 +1,5 @@
 ---
-title: Instalacija poslužitelja izvješća dodatka Power BI
+title: Instalacija Power BI Report Server
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 8479be2a538228b71033aca3907d3aba2f5e28fb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 01cc2efc2dacc2fdf0b7b7f036bc18e1c75fd515348b72d5c4dde96949a51a2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832086"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028572"
 ---
-# <a name="install-power-bi-report-server"></a>Instalacija poslužitelja izvješća dodatka Power BI
+# <a name="install-power-bi-report-server"></a>Instalacija Power BI Report Server
 
 1. Pronađite mjesto na PowerBIReportServer.exe pokrenite instalacijski program.
 
-2. Odaberite **Instaliraj poslužitelj izvješća dodatka Power BI**.
+2. Odaberite **Instaliraj Power BI Report Server**.
 
 3. Odaberite izdanje koje želite instalirati, a zatim **Dalje**.
 
@@ -35,6 +35,6 @@ ms.locfileid: "51832086"
 
 7. Nakon uspješnog postavljanja odaberite **Konfiguriraj poslužitelj izvješća da biste** pokrenuli upravitelj konfiguracije servisa Reporting Services.
 
-Nije vam potreban poslužitelj za modul baze podataka sustava SQL Server dostupan u trenutku instalacije. Nakon instalacije morat ćete konfigurirati Reporting Services.
+Nije vam potreban poslužitelj SQL Server baze podataka dostupan u vrijeme instalacije. Nakon instalacije morat ćete konfigurirati Reporting Services.
 
 Dodatne informacije: https://docs.microsoft.com/power-bi/report-server/install-report-server
