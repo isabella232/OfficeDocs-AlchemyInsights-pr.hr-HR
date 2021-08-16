@@ -1,5 +1,5 @@
 ---
-title: Outlook.com ne može primati šifre za provjeru valjanosti
+title: Outlook.com ne može primati kodove za provjeru valjanosti
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064196"
 ---
-# <a name="cant-get-verification-codes"></a>Ne mogu se nabaviti kodovi za provjeru
+# <a name="cant-get-verification-codes"></a>Nije moguće dobiti kodove za provjeru valjanosti
 
-Ako ne možete pristupiti alternativnoj e-pošti ili telefonskom broju, otvorite stranicu s [sigurnosnim osnovama](https://account.microsoft.com/security) za Microsoftov račun, odaberite **nemam ništa od toga** na stranici za prijavu, a zatim slijedite upute da biste zamijenili sigurnosne podatke.
+Ako ne možete pristupiti zamjenskoj poruci e-pošte [](https://account.microsoft.com/security) ili telefonskom broju, idite na stranicu Osnove sigurnosti Microsoftova računa, na stranici za prijavu odaberite Nemam ništa od toga, a zatim slijedite upute da biste zamijenili sigurnosne podatke. 
 
-*Upozorenje:* Za [aplikaciju Microsoft autentifikator](https://go.microsoft.com/fwlink/?linkid=2016117) nije potrebna internetska veza da bi vam osigurao kod za provjeru valjanosti.
+*Napomena:* Aplikacija [Microsoft Authenticator ne](https://go.microsoft.com/fwlink/?linkid=2016117) zahtijeva internetsku vezu da bi vam pružila kod za provjeru valjanosti.
 
-Da biste saznali više, pročitajte [sigurnosne podatke za Microsoftov račun i kodove za provjeru](https://support.microsoft.com/help/12428/).
+Da biste saznali više, pročitajte [sigurnosne informacije o Microsoftovu računu i kodove za provjeru valjanosti](https://support.microsoft.com/help/12428/).

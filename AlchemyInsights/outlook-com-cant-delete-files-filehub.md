@@ -1,5 +1,5 @@
 ---
-title: Nije moguće izbrisati fotografije ni datoteke iz datoteka u Outlook.com
+title: Nije moguće izbrisati fotografije ni datoteke iz datoteka na web-mjestu Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: da04d3d8c9bca3f6e0e44a3a55b158e1d7b00fde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98118c2db5468b1bca9f00014dc8221469fba7b050f4d93ec8d4707812517de9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064304"
 ---
 # <a name="cant-delete-files-or-photos-from-files"></a>Nije moguće izbrisati datoteke ni fotografije iz datoteka
 
-U programu Outlook.com **datoteke** i fotografije prikazane su u privitku porukama u vašem poštanskom sandučiću. Da biste uklonili datoteke i fotografije iz datoteka, morate izbrisati poruke e-pošte kojima su priložene. Kada izbrišete poruke, morat ćete ih izbrisati i iz mape Izbrisane stavke.
+Na Outlook.com **Datoteke prikazuju** datoteke i fotografije priložene porukama u poštanskom sandučiću. Da biste uklonili datoteke i fotografije iz datoteka, morate izbrisati poruke e-pošte u koje su priložene. Nakon brisanja poruka morate ih izbrisati i iz mape Izbrisane stavke.
 
-Da biste saznali više, pročitajte [kako izbrisati datoteke ili fotografije na servisu Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
+Da biste saznali više, [pročitajte upute za brisanje datoteka ili fotografija na Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
