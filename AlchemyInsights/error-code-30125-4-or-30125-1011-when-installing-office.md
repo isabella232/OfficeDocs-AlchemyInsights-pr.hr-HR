@@ -1,5 +1,5 @@
 ---
-title: Kod pogreške 30125-4 ili 30125-1011 prilikom instalacije sustava Office
+title: Kod pogreške 30125-4 ili 30125-1011 prilikom instalacije Office
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: 26e4ba40a5517212fbd82308668e5a57e8d5be51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbb11eb5b4b8c0489cf0b496decdf7493f5b545656a38806a29a0a252903e000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100682"
 ---
-# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Kod pogreške 30125-4 ili 30125-1011 prilikom instalacije sustava Office
+# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Kod pogreške 30125-4 ili 30125-1011 prilikom instalacije Office
 
-Možda će vam se prikazati ova pogreška ako vam antivirusni softver, vatrozid, postavke proxy poslužitelja ili veza onemogućuje instalaciju sustava Office. Evo nekoliko načina na koje možete pokušati riješiti problem:
+Ta se pogreška može vidjeti ako vam antivirusni softver, vatrozid, postavke proxyja ili veza onemoguće instalaciju Office. Evo nekoliko stvari koje možete pokušati riješiti problem:
   
-- Ponovno pokretanje računala i ponovna instalacija sustava Office
+- Ponovno pokrenite računalo i ponovno instalirajte Office
 
-- Instalacija sustava Office pomoću [izvanmrežnog instalacijskog programa za Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- Instalacija Office pomoću [izvanmrežnog Office instalacijskog programa](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
 - Privremeno isključivanje postavki proxyja
 
@@ -33,5 +33,5 @@ Možda će vam se prikazati ova pogreška ako vam antivirusni softver, vatrozid,
 
 - Privremeno isključivanje vatrozida
 
-Dodatne informacije potražite u članku [pogreška kod pogreške 30125-4 ili 30125-1011 prilikom instalacije sustava Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
+Dodatne informacije potražite u članku [Kod pogreške 30125-4 ili 30125-1011](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA) prilikom instalacije Office
   

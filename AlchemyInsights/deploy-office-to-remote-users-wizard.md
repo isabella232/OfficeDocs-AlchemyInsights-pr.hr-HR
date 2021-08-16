@@ -1,5 +1,5 @@
 ---
-title: Uvođenje čarobnjaka za udaljene korisnike u sustavu Office
+title: Implementacija Office čarobnjaka za udaljene korisnike
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677096"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031434"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>Uvođenje čarobnjaka za udaljene korisnike u sustavu Office
+# <a name="deploy-office-to-remote-users-wizard"></a>Implementacija Office čarobnjaka za udaljene korisnike
 
-Sada kada je izvanmrežni rad Norma, korisnici moraju primati postavke sustava Office u vašoj tvrtki kada nisu povezani s vašom internom mrežom ili prilikom korištenja vlastitih uređaja.
+Sada kada je daljinski rad norma, korisnici moraju primati postavke Office tvrtke ili ustanove kada nisu povezani s vašom internom mrežom ili kada koriste vlastite uređaje.
 
-Pomoću čarobnjaka za [implementaciju sustava Office do udaljenih korisnika](https://go.microsoft.com/fwlink/?linkid=2149564) Stvorite prilagođenu instalaciju sustava Office, a zatim korisnicima pošaljite generiranu skriptu za PowerShell koja će neprimjetno instalirati Office pomoću vaše konfiguracije.
+Pomoću [čarobnjaka implementacije Office udaljenim](https://go.microsoft.com/fwlink/?linkid=2149564) korisnicima stvorite prilagođenu instalaciju Office, a zatim pošaljite korisnicima generiranu skriptu komponente PowerShell koja će jednostavno instalirati Office konfiguracijom.

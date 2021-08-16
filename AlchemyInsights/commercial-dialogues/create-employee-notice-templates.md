@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae3efbab6b8d7778911107ba6d724f3555078c55
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c4259668c500987b16a7a4f31e3be37c42b23d45efec35b522c95213680299f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070640"
 ---
 # <a name="create-employee-notice-templates"></a>Stvaranje predložaka obavijesti o zaposlenicima
 
-Ovaj korak nije obavezan. Možete stvoriti prilagođene predloške obavijesti da biste zaposlenicima slali obavijesti e-poštom kao mogućnost otklanjanje pravila za podudaranje pravilnika.
+Ovaj korak nije obavezan. Prilagođene predloške obavijesti možete stvoriti da biste zaposlenicima poslali obavijesti e-poštom kao mogućnost otklanjanja pravila.
 
-Ako želite imati mogućnost odaziva se na upozorenje o politici slanjem opomene na pridruženi zaposlenik, morat ćete stvoriti najmanje jedan predložak obavijesti u tvrtki ili ustanovi.
+Ako želite imati mogućnost odgovaranja na upozorenje pravilnika slanjem obavijesti o podsjetniku povezanom zaposleniku, morate stvoriti barem jedan predložak obavijesti u tvrtki ili ustanovi.
 
-Upute potražite u članku [Stvaranje predložaka obavijesti o zaposleniku](https://go.microsoft.com/fwlink/?linkid=2129080).
+Da biste saznali kako to učiniti, [pogledajte stvaranje predložaka obavijesti zaposlenika](https://go.microsoft.com/fwlink/?linkid=2129080).

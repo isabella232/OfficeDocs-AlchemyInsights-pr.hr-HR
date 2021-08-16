@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: b970c008268d15f39a8d37a5ea44488198a21070
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 00db7b59e5a3d81c46d28cb919564ae99dca00b09c12f85388f5c419647dad01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070712"
 ---
 # <a name="create-a-signature-in-outlook-for-mac"></a>Stvaranje potpisa u programu Outlook za Mac
 
-1.  Na izborniku **programa Outlook** kliknite **Postavke**.
-2.  U odjeljku **e-pošta** kliknite **potpisi**.
+1.  Na **izborniku Outlook** kliknite **Preference .**
+2.  U **odjeljku E-pošta** kliknite **Potpisi**.
 3.  Kliknite **Dodaj** **+** .
-4.  Dvokliknite **neimenovani**, a zatim upišite naziv potpisa.
+4.  Dvokliknite **Neimenono**, a zatim upišite naziv za potpis.
 5.  U desnom oknu upišite tekst koji želite uvrstiti u potpis.
-6.  Zatvaranje stranice **potpisi** .
-7.  Da biste primijenili oblikovanje, primjerice font, stil fonta, veličinu fonta, boju fonta ili isticanje, odaberite tekst, a zatim na izborniku Oblikovanje kliknite željenu mogućnost.
-8.  Zatvaranje stranice **potpisi** .
+6.  Zatvorite stranicu **Potpisi.**
+7.  Da biste primijenili oblikovanje kao što su font, stil fonta, veličina fonta, boja fonta ili isticanje, odaberite tekst, a zatim na izborniku Oblikovanje kliknite željenu mogućnost.
+8.  Zatvorite stranicu **Potpisi.**

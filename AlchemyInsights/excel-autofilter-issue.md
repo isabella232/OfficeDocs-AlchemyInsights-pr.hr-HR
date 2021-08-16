@@ -1,5 +1,5 @@
 ---
-title: Problem automatskog filtra u programu Excel
+title: Excel Problem s automatskim filtrom
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: c7d6bee548a8b7feeb5c9103c594d71754c4fc4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b50a0c2bcc72674c55938608f09de324a18433879b4126fb0e9c3314480dc180
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100538"
 ---
-# <a name="excel-autofilter-issue"></a>Problem automatskog filtra u programu Excel
+# <a name="excel-autofilter-issue"></a>Excel Problem s automatskim filtrom
 
-Kada koristite Excel 2016, ako padajući okvir Automatski filtar ne prikazuje sve dostupne potvrdne okvire ili se potvrdni okviri ne mogu kliknuti, možda se radi o poznatom problemu u ranijim izradi programa Excel. 
+Kada koristite Excel 2016, ako se na padajućem izborniku automatskog filtara ne prikazuju svi dostupni potvrdni okviri ili se potvrdni okviri ne mogu kliknuti, možda je riječ o poznatom problemu u starijim međuverzijama Excel. 
   
-Taj je problem sada riješen u **verziji 1707 (8326,2073)** ili novijim. Da biste odmah dobili ažuriranje, otvorite Excel, a **File** \> **Account** \> zatim odaberite Ažuriranje **Mogućnosti ažuriranja** računa za datoteke \> **Update Now**.
+Taj je problem sada riješen u **verziji 1707 (8326.2073) ili** novijoj. Da biste ažuriranje odmah dobili, otvorite  Excel odaberite Mogućnosti \> **ažuriranja računa** datoteke \> **Ažuriraj** \> **odmah**.
   
 

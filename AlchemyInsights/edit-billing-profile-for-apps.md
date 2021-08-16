@@ -1,5 +1,5 @@
 ---
-title: Uređivanje profila naplate za aplikacije
+title: Uređivanje profila za naplatu za aplikacije
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: b00170a44afe8d3f2a28bb63df46c646a29f787b844b904bec3b3006fefba300
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100826"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Uređivanje profila naplate za aplikacije
+# <a name="edit-billing-profile-for-apps"></a>Uređivanje profila za naplatu za aplikacije
 
-**Uređivanje profila za naplatu**
+**Uređivanje profila naplate**
 
-1. Idite na stranicu računi za **naplatu**  >  **[& uplate](https://go.microsoft.com/fwlink/p/?linkid=848039)** , a zatim kliknite **Profili za naplatu**.
+1. Idite na stranicu **Računi**  >  **[& plaćanja,](https://go.microsoft.com/fwlink/p/?linkid=848039)** a zatim kliknite **Profili za naplatu.**
 
-2. Na popisu profila za naplatu odaberite profil naplate koji želite urediti.
+2. Na popisu profila za naplatu odaberite profil za naplatu koji želite urediti.
 
 **Promjena profila za naplatu u aplikacijama**
 
-1. Idite na stranicu **naplata**  >  **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** , a zatim kliknite karticu **aplikacije** .
+1. Idite na **stranicu**  >  **[Naplata proizvoda,](https://go.microsoft.com/fwlink/p/?linkid=842054)** a zatim kliknite karticu **Aplikacije.**
 
-2. Pronađite i odaberite aplikaciju kojoj želite upravljati.  
+2. Pronađite i odaberite aplikaciju u koju želite upravljati.  
 
-3. Uz **odjeljak Profil naplate** kliknite **Uređivanje** , a zatim odaberite profil za naplatu koji želite povezati s aplikacijom.
+3. Uz **stavku Profil za** naplatu **kliknite Uređivanje,** a zatim odaberite profil za naplatu koji želite povezati s aplikacijom.

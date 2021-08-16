@@ -1,5 +1,5 @@
 ---
-title: Postavljanje i konfiguriranje usklađenosti komunikacija
+title: Postavljanje i konfiguriranje usklađenosti komunikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 8892a49dc1fb4a5bb18d743807f80302360f9c29
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8c82c89dce2025f7d818e0ae65310b40200551c4c6ea34306c4104dc8557efcf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743532"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070748"
 ---
-# <a name="set-up-and-configure-communication-compliance"></a>Postavljanje i konfiguriranje usklađenosti komunikacija
+# <a name="set-up-and-configure-communication-compliance"></a>Postavljanje i konfiguriranje usklađenosti komunikacije
 
-Za buduću referencu korisnici koji nadziru usklađenost s komunikacijom moraju imati licencu za Microsoft 365 E5, ili licencu za Office 365 Enterprise E3.
+Za buduću referencu korisnici koji prate usklađenost komunikacije moraju imati licencu za Microsoft 365 E5 Compliance ili licencu za Office 365 Enterprise E3.
 
-* Ako želite postaviti ili konfigurirati usklađenost komunikacija, pročitajte članak početak [rada s usklađivanjem komunikacije](https://go.microsoft.com/fwlink/?linkid=2111549).
-* Ako nemate postojeći plan za Enterprise E5 i želite isprobati nadzor, [prijavite se za probnu verziju sustava Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279).
+* Ako želite postaviti ili konfigurirati usklađenost komunikacije, pogledajte početak [rada s usklađenim komunikacijama](https://go.microsoft.com/fwlink/?linkid=2111549).
+* Ako nemate postojeću plan Enterprise E5 i želite isprobati Nadzor, registrirajte se za [probnu verziju Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279).
