@@ -1,5 +1,5 @@
 ---
-title: Priprema okruženja za Microsoft 365 i Office 365 Services
+title: Priprema okruženja za Microsoft 365 Office 365 servise
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004182"
 - "7361"
-ms.openlocfilehash: ff96f2cdd52a54afd579e7c0e7db1b2a69825bb7
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: f22eafc68eac3e68ddf831d5a728b004590ee8aaa7da22e508716ceb257250b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677156"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040282"
 ---
-# <a name="prepare-your-environment-for-microsoft-365-and-office-365-services"></a>Priprema okruženja za Microsoft 365 i Office 365 Services
+# <a name="prepare-your-environment-for-microsoft-365-and-office-365-services"></a>Priprema okruženja za Microsoft 365 Office 365 servise
 
-Priprema [vodiča za okoliš](https://go.microsoft.com/fwlink/?linkid=2005213) olakšava pripremu okruženja tvrtke ili ustanove za Microsoftove 365 i servise sustava Office 365. Bez obzira na ciljeve, morat ćete dovršiti zadatke da biste osigurali uspješnu implementaciju.
+Vodič [za pripremu okruženja olakšava](https://go.microsoft.com/fwlink/?linkid=2005213) vam pripremu okruženja tvrtke ili ustanove za Microsoft 365 i Office 365 servise. Bez obzira na ciljeve, morate dovršiti zadatke da biste bili sigurni da ćete uspješno implementaciju.
 
-Da biste izbjegli probleme prilikom pripreme okruženja, imat ćete detaljne upute za povezivanje domene, dodavanje korisnika, dodjeljivanje licenci, postavljanje e-pošte u sustavu Exchange Online i instalacija ili implementacija aplikacija sustava Office.
+Da biste izbjegli probleme prilikom pripreme okruženja, na raspolaganju su vam detaljne upute za povezivanje domene, dodavanje korisnika, dodjeljivanje licenci, postavljanje e-pošte s Exchange Online-om te instalaciju ili implementaciju Office aplikacija.

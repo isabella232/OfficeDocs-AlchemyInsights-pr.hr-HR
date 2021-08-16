@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: b35d3a402bc08a27a818209385c5666b901fa524
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 95b5c3b768caf4b5d80a088a17a33facb39805fc766e4888586ae052d91681e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884844"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057850"
 ---
 # <a name="domain-service-synchronization"></a>Sinkronizacija servisa domene
 
-Objekti i vjerodajnice u upravljanoj domeni servisa Azure Active Directory (Azure AD DS) mogu se stvarati lokalno unutar domene ili sinkronizirati iz korisnika Azure Active Directory (Azure AD). Kada prvi put implementirate Azure AD DS, konfigurirajte jednosmjernu sinkronizaciju, a zatim pokrenete da biste replicirali objekte iz servisa Azure AD. Ovaj jednosmjerna sinkronizacija nastavlja se pokretati u pozadini da bi se u servisu Azure AD domogla ažurirane domene s promjenama iz Azure AD. Nema sinkronizacije iz servisa Azure AD DS natrag na Azure AD.
+Objekti i vjerodajnice u domeni Azure Active Directory Domain Services (Azure AD DS) mogu se stvoriti lokalno unutar domene ili sinkronizirati s klijenta servisa Azure Active Directory (Azure AD). Prilikom prve implementacije servisa Azure AD DS automatska se jednosmjestna sinkronizacija konfigurira i pokreće tako da replicira objekte sa servisa Azure AD. Ta jednosmjesna sinkronizacija i dalje se nastavlja izvoditi u pozadini da bi domena upravljanog servisa Azure AD DS bila autemna uz sve promjene servisa Azure AD. Sinkronizacija se ne odvija iz servisa Azure AD DS natrag na Azure AD.
 
-Dodatne informacije o sinkronizaciji servisa Azure Active Directory domena potražite u članku [Sinkronizacija servisa domene](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 
+Dodatne informacije o sinkronizaciji servisa Azure Active Directory domene potražite u članku [Sinkronizacija servisa domene](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 
