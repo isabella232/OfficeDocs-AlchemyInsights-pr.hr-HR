@@ -1,5 +1,5 @@
 ---
-title: Blokiranje korisnika u snimanju sastanaka
+title: Blokiranje korisnika iz snimanja sastanaka
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "9325"
-ms.openlocfilehash: 3f633ee1fb3329b6fc634acabbc824af1eccfb33
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 7eb3fd34ec6f1a2d431ed276b00dd46b5ec6aa73d69b37ef88b1ba0ca6f5d077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019176"
 ---
-# <a name="block-user-from-recording-meetings"></a>Blokiranje korisnika u snimanju sastanaka
+# <a name="block-user-from-recording-meetings"></a>Blokiranje korisnika iz snimanja sastanaka
 
-Ako morate **spriječiti ili blokirati** određene korisnike na sastancima timova, to možete učiniti putem postavki pravilnika za sastanke u timovima. U centru za administratore Microsoft timova isključite postavku **Dopusti snimanje oblaka** u pravilima sastanka dodijeljenim tom korisniku. Dodatne informacije potražite u članku [Upravljanje pravilima sastanka u timovima](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-cloud-recording).
+Ako morate spriječiti **ili blokirati određene** korisnike da snimaju Teams sastanke, to možete učiniti putem postavki pravilnika Teams sastanaka. U centru Microsoft Teams administratora isključite postavku Dopusti snimanje **u oblaku** u pravilniku sastanka dodijeljenom tom korisniku. Dodatne informacije potražite u članku Upravljanje [pravilima sastanka u programu Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-cloud-recording).
 
-Da biste provjerili je li određeni korisnik dopušten ili nije za snimanje sastanaka timova, upotrijebite dijagnostički alat za podršku. Pokrenite novi upit za podršku i upišite u **dijag: snimanje sastanka** – dijagnostički će provjeriti postavke pravilnika za određenog korisnika i odrediti njihove postavke pravilnika. Zapamtite, za nove postavke pravilnika može potrajati nekoliko sati, pa ako ste upravo unijeli promjenu, pričekajte nekoliko sati prije ponovnog pokretanja dijagnostike.
+Da biste provjerili je li određenom korisniku dopušteno snimanje Teams sastanaka, upotrijebite dijagnostiku podrške. Pokrenite novi upit za podršku i upišite **u diag: Snimanje** sastanka – dijagnostika će provjeriti postavke pravilnika za određenog korisnika i odrediti njihove postavke pravilnika. Sjećate se, može potrajati nekoliko sati da bi se nove postavke pravilnika snazi, pa ako ste upravo unijeli promjenu, pričekajte nekoliko sati prije pokretanja dijagnostike.
 
-Dodatne informacije potražite u odjeljku [Uključivanje ili isključivanje snimanja oblaka](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
+Dodatne informacije potražite u pregledu [Uključivanje ili isključivanje snimanja u oblaku](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).

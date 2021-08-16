@@ -1,5 +1,5 @@
 ---
-title: Problemi s bibliotekama za provjeru autentičnosti
+title: Problemi s bibliotekama provjere autentičnosti
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004333"
 - "7731"
-ms.openlocfilehash: ab4ffbc78a7cadd8acee3c98eaa5f3323da9c7e3
-ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
+ms.openlocfilehash: 39336fa8840a28befcad449d0afa59c1df5c6bef5988cb197916a03aa2aa66c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50063581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027996"
 ---
-# <a name="issues-with-authentication-libraries"></a>Problemi s bibliotekama za provjeru autentičnosti
+# <a name="issues-with-authentication-libraries"></a>Problemi s bibliotekama provjere autentičnosti
 
-1. [Biblioteke za provjeru autentičnosti Microsoftove platforme za dokumente](https://docs.microsoft.com/azure/active-directory/develop/reference-v2-libraries) popisuju Microsoftove podržane i kompatibilne biblioteke klijenta i middleware-a.
-2. Biblioteka programa Microsoft Authentication (MSAL) podržava nekoliko [tokova provjere autentičnosti](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows) za korištenje u različitim scenarijima aplikacija.
-3. Da biste provjerili autentičnost i nabavili tokene, inicijalizirajte novu javnu ili povjerljivu klijentske aplikacije u kodu. Prilikom inicijalizacije klijentske aplikacije u biblioteci Microsoft Authentication (MSAL) možete postaviti nekoliko mogućnosti konfiguracije. Dodatne informacije potražite u članku [mogućnosti konfiguracije aplikacije](https://docs.microsoft.com/azure/active-directory/develop/msal-client-application-configuration).
+1. [Microsoftova platforma za identitete provjere autentičnosti navode](https://docs.microsoft.com/azure/active-directory/develop/reference-v2-libraries) biblioteke klijenata i srednjih programa koje podržava Microsoft.
+2. Microsoftova biblioteka provjere autentičnosti (MSAL) podržava nekoliko [tijekova provjere autentičnosti](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows) za korištenje u različitim scenarijima aplikacije.
+3. Da biste provjerili autentičnost i dobili tokene, u kodu inicijalizirate novu javnu ili povjerljivu klijentske aplikacije. Prilikom inicijalizacije klijentske aplikacije u biblioteci Microsoftove provjere autentičnosti (MSAL) možete postaviti nekoliko mogućnosti konfiguracije. Dodatne informacije potražite u članku [Mogućnosti konfiguracije aplikacije](https://docs.microsoft.com/azure/active-directory/develop/msal-client-application-configuration).
 
-**Kraj podrške za Azure Active Directory za biblioteku autentičnosti (ADAL) i Azure AD Graph API (AAD Graph)**
+**Kraj podrške za Azure Active Directory provjere autentičnosti (ADAL) i AZURE AD Graph API (AAD Graph)**
 
-**Počevši od 30 lipnja 2020**, više nećemo dodavati nove značajke u AD Graph Adal i Azure. I dalje ćemo pružati tehničku podršku i sigurnosna ažuriranja, ali više nećemo pružati ažuriranja značajki.
+**Od 30. lipnja 2020.** više nećemo dodavati nove značajke u ADAL i Azure AD Graph. I dalje ćemo pružati tehničku podršku i sigurnosna ažuriranja, ali više nećemo pružati ažuriranja značajki.
 
-**Počevši od 30 lipnja 2022**, završit ćemo podršku za Adal i Azure ad Graph i više neće pružati tehničku podršku ni Sigurnosno ažuriranje.
+**Od 30. lipnja 2022.** završit ćemo podršku za ADAL i Azure AD Graph i više nećemo pružati tehničku podršku ni sigurnosna ažuriranja.
 
-Aplikacije koje koriste ADAL na postojećim verzijama OS-a nastavit će raditi nakon tog vremena, ali neće *dobiti nikakvu tehničku podršku ni Sigurnosno ažuriranje*.
+Aplikacije koje koriste ADAL u postojećim verzijama operacijskog sustava i dalje će funkcionirati nakon tog vremena, ali neće dobiti *tehničku podršku ni sigurnosna ažuriranja*.
 
-Aplikacije koje koriste Azure AD Graph nakon tog vremena možda više neće primati odgovore iz krajnjih točaka Azure AD Graph.
+Aplikacije koje koriste Azure AD Graph nakon tog vremena možda više neće primati odgovore od krajnje točke servisa Azure AD Graph.
 
 **ADAL migracija**
 
 Preporučujemo ažuriranje na [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview) koja ima najnovije značajke i sigurnosna ažuriranja.
 
-Ako koristite Microsoftove aplikacije, znajte da je Microsoft u postupku migracije svojih aplikacija u MSAL uz krajnji rok za potporu, čime će se osigurati da koristi MSAL-ove trajne sigurnosti i poboljšanja značajki.
+Ako koristite Microsoftove aplikacije, znaj da Je Microsoft u tijeku s migriranjem aplikacija u MSAL do krajnjeg roka podrške, čime se jamči da će imati koristi od trajnih poboljšanja sigurnosti i značajki MSAL-a.
 
-Dodatne informacije potražite u članku:
+Dodatne informacije potražite u sljedećim člancima:
 
 1. [Pročitajte najčešća pitanja vezana za ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
 2. [Saznajte kako migrirati aplikacije na platformu](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
-3. Ako vam je potrebna pomoć u razumijevanju koje aplikacije koriste ADAL, preporučujemo vam da pregledate sve izvorne šifre aplikacija i ako je primjenjivo, obratite se svim pružateljima programa ISVs ili aplikacije. Microsoftova podrška također vam može pružiti popis svih aplikacija koje nisu Microsoftove ADAL u vašem klijentu.
+3. Ako vam je potrebna pomoć u razumijevanju koje aplikacije koriste ADAL, preporučujemo da pregledate izvorni kod svih aplikacija i, ako je primjenjivo, kontaktirate bilo kojeg DAVATELJa internetskih usluga ili davatelja aplikacija. Microsoftova podrška također vam može pružiti popis svih aplikacija koje nisu Microsoftove ADAL u vašem klijentu.
 
 **Migracija grafikona AAD**
 
-Za aplikacije koje koriste Azure AD Graph, slijedite upute da biste [migrirali aplikacije Azure ad Graph u Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).
+Za aplikacije koje koriste Azure AD Graph slijedite naše [smjernice za migriranje](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview)aplikacija Azure AD Graph u Microsoft Graph .
 
-1. [Naš popis za migraciju sadrži točku početka.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist)
-2. Vaš portal za registraciju Azure aplikacija prikazuje koje aplikacije koriste AAD Graph. Preporučujemo da pregledate izvorni kod svih aplikacija i ako je primjenjivo obratite se svim ISV-ovima ili davateljima aplikacija. Microsoftova podrška može vam pružiti i popis svih korištenja AAD grafikona u vašem zakupcu.
-3. Da bi aplikacija pristupio podacima u programu Microsoft Graph, korisnik ili administrator mora mu dodijeliti ispravne dozvole putem postupka pristanka. [Referenca dozvola za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) prikazuje popise dozvola povezanih sa svakim glavnim skupom programa Microsoft Graph Apis. Nudi i upute za korištenje dozvola.
+1. [Naš kontrolni popis za migraciju daje točku za početak rada.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist)
+2. Vaš portal za registraciju Azure aplikacija prikazuje koje aplikacije koriste AAD Graph. Preporučujemo da pregledate izvorni kod svih aplikacija i ako je primjenjivo obratite se svim ISV-ovima ili davateljima aplikacija. Microsoftova podrška može vam pružiti i popis svih Graph AAD-a u klijentu.
+3. Da bi vaša aplikacija pristupala podacima u aplikaciji Microsoft Graph, korisnik ili administrator moraju mu dodijeliti odgovarajuće dozvole putem postupka pristanka. Referenca [dozvola za Microsoft Graph sadrži](https://docs.microsoft.com/graph/permissions-reference) popis dozvola povezanih sa svakim glavnim skupom API-ja Graph Microsofta. Sadrži i smjernice za korištenje dozvola.

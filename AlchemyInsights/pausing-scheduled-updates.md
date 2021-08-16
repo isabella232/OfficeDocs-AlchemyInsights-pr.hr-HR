@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1129"
 - "6700007"
-ms.openlocfilehash: 13abc7c9201b1897a9c766add4d105ef12f0d66f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ea6c56de00a52080c4a8b47eb5eeee37838420a9e979878c10aeb12885a8b99
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721547"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010464"
 ---
 # <a name="pausing-scheduled-updates"></a>Pauziranje zakazanih ažuriranja
 
-Kada se izda naredba Pause, uređaji ne obrađuju naredbu dok se sljedeći put ne prijave u Intune. Zbog toga vaši uređaji mogu imati sljedeće:
+Kada se naredba za pauziranje izda, uređaji ne obrađuju naredbu dok se sljedeći put ne prijave u Intune. Zbog toga uređaji mogu imati sljedeće:
 
-- Instalirana zakazana ažuriranja prije prijave.
-- Isključeno je kada ste izdali naredbu Pause. U ovom slučaju, kada su uređaji bili uključeni, možda su preuzeli i instalirali zakazana ažuriranja prije prijave.
+- Instalirana su zakazana ažuriranja prije prijave.
+- Isključeno je kada ste izdali naredbu za pauziranje. U tom slučaju, kada su uređaji bili napajani, možda su preuzeli i instalirali zakazana ažuriranja prije prijave.
