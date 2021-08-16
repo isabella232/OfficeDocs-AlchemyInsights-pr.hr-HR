@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: d6d652d107d453692751ad802ebe397e52df5627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e80bfd24c319a411493e88c6bac31365c347a2e67f8ecb2dc9ba52fb24fc5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724679"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012408"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Nailazite na probleme s uslugom u oblaku?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Nailazite na probleme sa servisom u oblaku?
 
-Ako nailazite na probleme s servisom u oblaku, možete provjeriti [stanje servisa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) u centru za administratore sustava Microsoft 365 da biste utvrdili je li to poznat problem s rezolucijom koja je u tijeku prije nego što pozovete podršku ili provedete vrijeme otklanjanja poteškoća. Problem može biti vrlo privremeni i već identificiran od strane Microsofta, no možda može nestati u vremenu između identifikacije i knjiženja na nadzornoj ploči zdravstvene usluge. Nastavite provjeriti nadzornu ploču servisa da biste mogli dodatno ažurirati.
+Ako nailazite na probleme sa servisom [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) u oblaku, prije pozivanja podrške ili otklanjanja poteškoća s vremenom možete provjeriti stanje servisa u Centar za administratore okruženja Microsoft 365 da biste utvrdili je li riječ o poznatom problemu s rješenjem koje je u tijeku. Problem može biti vrlo privremen i Microsoft ga već identificira, no možda je došlo do privremenog propusta između utvrđivanja problema i objavljivanja na nadzornoj ploči stanja servisa. Nastavite provjeravati ima li dodatnih ažuriranja na nadzornoj ploči servisa.
 
-**Pravilnik o obavijestima**
+**Pravilnik o obavijesti**
 
-Kada se pojavi incident sa servisom, Microsoft prepoznaje da su pravodobno, ciljane i točne komunikacije kritični za klijente. Microsoft obavještava administratore tako da ažurira [nadzornu ploču za zdravstvene servise specifične za korisnika (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na portalu za administratore Microsoft 365. Ažuriranja incidenata servisa dostavljaju se na satu ritma ili, ako je potrebno promijeniti ritam, bit će navedeno u knjižnoj komunikaciji programa SHD. Dodatne informacije potražite u članku [Provjera zdravstvenog stanja servisa Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Kada dođe do incidenta sa servisom, Microsoft prepoznaje da su pravomočan, ciljani i točni komunikaciji ključni za korisnike. Microsoft obavještava administratore ažuriranjem nadzorne ploče za stanje servisa specifične za klijenta [(SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na Microsoft 365 za administratore portalu. Ažuriranja incidenta servisa dostupna su po satu ili, ako je potrebna druga kadenca, ona će biti navedena u SHD komunikacijskom objavljivanju. Dodatne informacije potražite u članku [Provjera stanja Microsoft 365 servisa](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

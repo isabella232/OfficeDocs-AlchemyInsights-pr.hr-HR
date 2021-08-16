@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573377"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023982"
 ---
 # <a name="remote-work-setup-guide"></a>Vodič za postavljanje udaljenog rada
 
-Sve više i više rada se vrši na daljinu. Vaša organizacija mora biti opremljena za upravljanje povećanom potražnjom rada na daljinskom upravljaču.
+Sve više i više posla obavlja se na daljinu. Vaša orgija mora biti opremljena da bi upravljala povećanom zahtjevom za udaljenim radom.
 
-Upotrijebite [Vodič za postavljanje udaljenog rada](https://go.microsoft.com/fwlink/?linkid=2142062) da biste omogućili bitne sigurnosne značajke i pregledali dodatne sigurnosne preporuke. Prikazat će vam se upute za smanjivanje napora na VPN infrastrukturi i po želji postaviti udaljeni pristup za stolna računala i aplikacije. Zatim ćete pregledati mogućnosti implementacije Microsoftovih timova i aplikacija sustava Office.
+Pomoću [vodiča za daljinsko postavljanje rada omogućite](https://go.microsoft.com/fwlink/?linkid=2142062) bitne sigurnosne značajke i pregledajte dodatne sigurnosne preporuke. Na raspolaganju su vam smjernice za smanjenje naprezanja vpn infrastrukture i postavljanje daljinskog pristupa za stolna računala i aplikacije. Zatim ćete pregledati mogućnosti implementacije aplikacija Microsoft Teams Office aplikacija.

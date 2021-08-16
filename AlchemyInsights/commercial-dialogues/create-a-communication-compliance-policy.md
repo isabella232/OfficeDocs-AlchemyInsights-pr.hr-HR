@@ -1,5 +1,5 @@
 ---
-title: Stvaranje pravilnika o usklađenosti komunikacija
+title: Stvaranje pravilnika o usklađenosti komunikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ff20ee8ac33598e6f21855a2496b730ca60fd320
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b5724b4534ec17a28ebc1747a752e5bac2f14beea58146fffd8f35fad1e07edc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995037"
 ---
-# <a name="create-a-communication-compliance-policy"></a>Stvaranje pravilnika o usklađenosti komunikacija
+# <a name="create-a-communication-compliance-policy"></a>Stvaranje pravilnika o usklađenosti komunikacije
 
-Ovaj je korak obavezan. Pravilnik o usklađenosti komunikacija možete stvoriti u centru za usklađenost sustava Microsoft 365. Evo i kako:
+Taj je korak potreban. Pravilnik o usklađenosti komunikacije možete stvoriti u Centar za usklađenost okruženja Microsoft 365. Evo i kako:
 
-1. U [centru za usklađenost sustava Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130502)odaberite **usklađenost komunikacija**.
-2. Odaberite karticu **pravila** .
-3. Odaberite **Stvaranje pravilnika** da biste stvorili i konfigurirali novo pravilo iz predloška ili stvorili i konfigurirali prilagođeno pravilo.
-4. Kada završite, odaberite **Stvaranje pravilnika** ako koristite predložak ili ga **Pošaljite** ako koristite čarobnjak za prilagođenu politiku.
+1. U odjeljku [Centar za usklađenost okruženja Microsoft 365 odaberite](https://go.microsoft.com/fwlink/?linkid=2130502)Usklađenost **komunikacije**.
+2. Odaberite **karticu Pravila.**
+3. Odaberite **Stvori pravilnik** da biste stvorili i konfigurirali novi pravilnik iz predloška ili da biste stvorili i konfigurirali prilagođeni pravilnik.
+4. Kada završite, **odaberite Stvori pravilnik ako** koristite predložak ili Pošalji ako koristite čarobnjak za prilagođene pravilnike. 
 
-Da biste saznali više, uključujući upute za korištenje čarobnjaka za pravila i o prijekradnosti ugrađenog klasifičnog jezika, pročitajte članak [Stvaranje pravilnika o usklađenosti komunikacija](https://go.microsoft.com/fwlink/?linkid=2129079).
+Dodatne informacije, uključujući upute za korištenje čarobnjaka za pravilnike i o obustavi ugrađenog razreda uvredljivog jezika potražite u članku [Stvaranje pravilnika o usklađenosti komunikacije](https://go.microsoft.com/fwlink/?linkid=2129079).

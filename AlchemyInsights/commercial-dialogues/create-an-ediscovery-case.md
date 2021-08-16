@@ -1,5 +1,5 @@
 ---
-title: Stvaranje slučaja za otkrivanje
+title: Stvaranje slučaja predočavanja elektroničkih elektroničkih predočavanja
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 61e466d9ec203a66a7ce2e89bd1462f5a483c784
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: aa505491f205eafd032fb3eef95f5d7d6f5226c61b73462312573789745258fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988359"
 ---
-# <a name="create-an-ediscovery-case"></a>Stvaranje slučaja za otkrivanje
+# <a name="create-an-ediscovery-case"></a>Stvaranje slučaja predočavanja elektroničkih elektroničkih predočavanja
 
-Evo kako stvoriti slučaj za otkrivanje:
+Evo kako stvoriti slučaj predočavanja elektroničkih predočavanja:
 
-1. Otvorite centar za [Sigurnost &](https://go.microsoft.com/fwlink/p/?linkid=2077143) **i odaberite**  >  **idiscovery**.
-1. Na stranici eDiscovery kliknite **Stvori slučaj**.
-1. Unesite naziv i Opis slučaja, a zatim kliknite **Spremi**.
+1. Idite u centar [za & usklađenost i](https://go.microsoft.com/fwlink/p/?linkid=2077143) **odaberite eDiscovery**  >  **eDiscovery .**
+1. Na stranici Predočavanje elektroničkih mogućnosti **kliknite Stvori slučaj**.
+1. Unesite naziv slučaja i opis, a zatim kliknite **Spremi**.
     > [!TIP]
-    >Da biste upravljali dozvolama za slučaj, kliknite razmak pokraj naziva slučaja (Nemoj kliknuti Otvori).
-1. Da biste upravljali postavkama za čekanje, pretraživanje i izvoz za ovaj slučaj, kliknite **Otvori**.
+    >Da biste upravljali dozvolama za slučaj, kliknite razmak pokraj naziva velika i mala slova (nemojte kliknuti Otvori).
+1. Da biste upravljali postavkama čekanja, pretraživanja i izvoza za ovaj slučaj, kliknite **Otvori**.
 
-Detaljne informacije o načinima na koje slučajevi otkrivanja rada funkcioniraju s sadržajem potražite u članku [slučajevi otkrivanja](https://go.microsoft.com/fwlink/?linkid=2101589).
+Detaljne informacije o radu slučajeva predočavanja elektroničkih elektroničkih podataka sa sadržajem potražite u članku Slučajevi [predočavanja elektroničkih elektroničkih podataka](https://go.microsoft.com/fwlink/?linkid=2101589).
