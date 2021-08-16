@@ -1,5 +1,5 @@
 ---
-title: Microsoftovi timovi za zajednički način rada
+title: Microsoft Teams Način rada zajedno
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 94730df24a4fa025cfaa226a56e25beb8bc9c88fc1b6f8ea77bc6e97ee7c73f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799844"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012228"
 ---
-# <a name="microsoft-teams-together-mode"></a>Microsoftovi timovi za zajednički način rada
+# <a name="microsoft-teams-together-mode"></a>Microsoft Teams Način rada zajedno
 
-Zajednički način objedinjuje desetljeća istraživanja i razvoja proizvoda za sudionike na videopozivu da bi se prikazao kao da su u virtualnom prostoru, kao što su auditorij, soba za sastanke ili caffe bar. 
+Zajednički način rada kombinira desetljece istraživanja i razvoja proizvoda za sudionike u videopozovu da bi se činili zajedno u virtualnom prostoru, kao što su auditorij, soba za sastanke ili kafić. 
 
-Nova značajka prikazuje tradicionalnu rešetku okvira, stvaranje okruženja za koje korisnici kažu da ima dubok utjecaj na dojam videokonferencije i nudi više kohezije grupi. Dodatne informacije o zajedničkim načinima rada potražite u članku [kako najviše iskoristiti način rada u kombinaciji](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
+Nova značajka otklanja tradicionalnu rešetku okvira, stvarajući okruženje za koje korisnici kažu da ima dubok utjecaj na osjećaj videokonferencijske konferencije i pruža više povezanosti prema grupi. Dodatne informacije o načinu rada Zajedno potražite u [članku Kako najbolje](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496)u načinu rada Zajedno .  
 
-Dodatne informacije o tome kada će zajednički način rada biti dostupan za vašu tvrtku ili ustanovu potražite u odjeljku putokaz za Microsoft 365, [Microsoftovi timovi – zajednički način rada](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
+Dodatne informacije o tome kada će način rada Zajedno biti dostupan za vašu organizaciju potražite u članku Microsoft 365 Plan, [Microsoft Teams – način rada zajedno](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)

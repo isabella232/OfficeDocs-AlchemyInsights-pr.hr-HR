@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 29e54e0f8255b4ce84c433f2cc827aaedf35327626f0095788faef802763bc53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826371"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049336"
 ---
 # <a name="teams-admin-center"></a>Centar za administratore aplikacije Teams
 
@@ -32,5 +32,5 @@ Ako se u centru za administratore aplikacije Teams ne prikazuju korisnici, provj
 
 - Jeste li tijekom zadnja 24 sata stvarali korisnike ili dodjeljivali licence? Pričekajte barem 24 sata prije nego što prijavite problem službi za podršku.
 - Provjerite jeste li dodijelili odgovarajuće licence?
-- Ako imate lokalni Active Directory, provjerite je li [vrijednost msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) ili SIP adrese u polju ProxyAddresses u lokalnom servisu Active Directory jedinstvena, a oblik odgovara sipu: korisničko ime korisnika iz centra za [administratore sustava Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Ako namjeravate zadržati implementaciju servisa Skype za tvrtke server i imate kućne korisnike na lokalnoj i mrežnoj mreži: slijedite "Postavljanje hibridne implementacije sa servisom Teams i **Skypeom za tvrtke online"** na upravljačkoj ploči poslužitelja Skypea za tvrtke i premjestite korisnike online.
+- Ako imate lokalni Active Directory, provjerite je li [vrijednost msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) ili SIP adrese u polju ProxyAddresses u lokalnom servisu Active Directory jedinstvena, a oblik odgovara sipu: Korisničko ime [korisnika iz Centar za administratore okruženja Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Ako namjeravate održati implementaciju sustava Skype za tvrtke poslužiteljska verzija i korisnicima biti lokalno i na mreži: slijedite "Postavljanje hibridne implementacije **s Teams i Skype za tvrtke Online"** na upravljačkoj ploči Skype za tvrtke poslužiteljska verzija i premjestite korisnike na mreži.

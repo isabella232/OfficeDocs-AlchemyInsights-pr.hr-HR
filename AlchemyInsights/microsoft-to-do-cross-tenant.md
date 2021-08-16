@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815930"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012156"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft za zajedničko korištenje zajedničkog korištenja korisnika
+# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do zajedničko korištenje više klijenta
 
-Microsoft to podržava zajedničko korištenje popisa između osobnih i radnih računa. To korisnicima omogućuje u vašoj tvrtki ili ustanovi
+Microsoft To Do podržava zajedničko korištenje popisa između osobnih i radnih računa. To korisnicima u vašoj tvrtki ili ustanovi omogućuje
 
-Pridružite se, prikažite, izmijenite i dodajte podatke na popise u vlasništvu osobnih Microsoftovih računa.
+pridružite se, pregledajte, izmijenite i dodajte podatke na popise u vlasništvu osobnih Microsoftovih računa.
 
-Za administratore je dostupno novo administratorsku postavku da biste onemogućili tu značajku tako da poništite mogućnost.
+Administratorima je dostupna nova postavka administratora da bi onemogućili tu značajku tako da je ne provjeravaju.
 
-Administrator može pronaći tu postavku na portalu za administratore u odjeljku **Postavke**  >  **servisa org Settings**  >  **Services**  >  **Microsoft za učiniti** .  
+Administrator tu postavku može pronaći na portalu za administratore u **odjeljku Postavke**  >  **Org Postavke**  >  **Services**  >  **Microsoft To Do**.  
 
 [Zašto se ne mogu pridružiti zajedničkom popisu?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)

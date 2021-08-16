@@ -1,5 +1,5 @@
 ---
-title: Upravljanje spremištem sustava SharePoint ili servisa OneDrive
+title: Upravljanje SharePoint OneDrive pohranom
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9653f61da65f6aeb77ba33cb7eaf7f508ec7da8d38c3b32c2c30ea519d31ada6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077786"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Upravljanje spremištem sustava SharePoint ili servisa OneDrive
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Upravljanje SharePoint OneDrive pohranom
 
  **SharePoint Online**
   
-Za većinu tvrtki ili ustanove pohrana sustava SharePoint upravlja se automatski da ne biste morali postavljati ograničenja po zbirci web-mjesta. Da biste provjerili koliko je prostora za pohranu sustava SharePoint bilo, učinite sljedeće:
+Većini tvrtki ili ustanova SharePoint se automatski upravlja pohranom tako da ne morate postaviti ograničenja po zbirci web-mjesta. Da biste provjerili koliko SharePoint prostora za pohranu imate:
   
-- U novom centru za administratore sustava SharePoint u gornjem desnom kutu stranice web-mjesta potražite dostupnu i ukupnu pohranu.
+- U novom centru SharePoint administratora u gornjem desnom kutu stranice web-mjesta potražite raspoloživu i ukupnu pohranu.
     
-Informacije o tome kako se izračunava ograničenje potražite u članku [ograničenja sustava SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Upute za kupnju dodatnog prostora za pohranu potražite u članku [Promjena prostora za pohranu za pretplatu](https://go.microsoft.com/fwlink/?linkid=866428).
+Informacije o izračunu ograničenja potražite u članku SharePoint [ograničenja na mreži](https://go.microsoft.com/fwlink/p/?LinkID=856113). Da biste kupili dodatni prostor za pohranu, [pogledajte promjena prostora za pohranu pretplate.](https://go.microsoft.com/fwlink/?linkid=866428)
   
  **OneDrive**
   
-Promjena zadanog prostora za pohranu za nove i postojeće korisnike servisa OneDrive:
+Da biste promijenili zadanu pohranu za nove i postojeće OneDrive korisnike:
   
-- Idite na [stranicu za pohranu u centru za administratore servisa OneDrive](https://admin.onedrive.com/?v=StorageSettings), a zatim unesite novi iznos u GB.
+- Idite na [stranicu Pohrana centra OneDrive administratora](https://admin.onedrive.com/?v=StorageSettings)pa unesite novi iznos u GB.
     
-Da biste provjerili koliko prostora za pohranu koristite na servisu OneDrive, pročitajte članak [Upravljanje pohranom na servisu OneDrive za tvrtke](https://go.microsoft.com/fwlink/?linkid=866429). Informacije o spremištu koja se isporučuje uz svaki plan potražite u članku [Opis servisa OneDrive za tvrtke](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Da biste provjerili koliko prostora za pohranu koristite u vlastitom OneDrive, pogledajte [upravljanje OneDrive za tvrtke pohranom](https://go.microsoft.com/fwlink/?linkid=866429). Informacije o pohrani koja se isporučuje uz svaki plan potražite u [članku OneDrive za tvrtke opis servisa](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 
