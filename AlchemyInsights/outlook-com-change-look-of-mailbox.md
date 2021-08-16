@@ -1,5 +1,5 @@
 ---
-title: Outlook.com promjena izgleda poštanskog sandučića
+title: Outlook.com promijeniti izgled poštanskog sandučića
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802553"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096470"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Promjena izgleda poštanskog sandučića Outlook.com
 
-Izgled popisa poruka i okna za čitanje možete promijeniti na servisu Outlook.com.
+Izgled popisa poruka i okna za čitanje možete promijeniti na Outlook.com.
 
-- Da biste promijenili tlocrt prozora poruke, otvorite mogućnosti [okna za čitanje](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Da biste promijenili način sortiranja e-pošte, pri vrhu popisa poruka odaberite **Filtar**  >  **Sortiraj prema** pa odaberite kako želite sortirati e-poštu.
-- Da biste poruke grupirali putem razgovora, otvorite mogućnosti [tvrtke ili ustanove za poruke](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- Da biste uključili ili isključili fokusiranu ulaznu poštu, otvorite mogućnosti [prikaza](https://outlook.live.com/mail/options/mail/layout/focused) .
+- Da biste promijenili raspored prozora poruke, otvorite mogućnosti [okna za](https://outlook.live.com/mail/options/mail/layout/readingPane) čitanje.
+- Da biste promijenili način sortiranja e-pošte, pri vrhu popisa poruka odaberite **Filtriraj**  >  **sortiranje po** pa odaberite način sortiranja e-pošte.
+- Da biste grupirati poruke po razgovoru, otvorite [mogućnosti tvrtke ili ustanove za](https://outlook.live.com/mail/options/mail/layout/conversations) poruke.
+- Da biste uključili ili isključili fokusiranu ulaznu poštu, [otvorite mogućnosti](https://outlook.live.com/mail/options/mail/layout/focused) rasporeda.

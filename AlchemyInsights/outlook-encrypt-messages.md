@@ -1,5 +1,5 @@
 ---
-title: S/MIME u programu Outlook na webu
+title: S/MIME u Outlook na webu
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 052149d1f11387246bc1ff24ba48c45b944ba52c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bef87baafdbaf9346f99f1ff54aaa83bc9173c70f1412ea00afb717c15a8014c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010716"
 ---
-# <a name="encrypt-email-messages-in-outlook"></a>Šifriranje poruka e-pošte u programu Outlook
+# <a name="encrypt-email-messages-in-outlook"></a>Šifriranje poruka e-pošte u Outlook
 
-Šifriranje poruka u sustavu Microsoft 365 izgrađeno je na servisu Microsoft Azure Rights Management (Azure RMS), koji je dio zaštite informacija za Azure. Ako vaša pretplata obuhvaća upravljanje pravima na Azure i Azure, ne **morate poduzeti nikakve akcije da biste ručno omogućili ili aktivirali** servis za upravljanje pravima.
+Microsoft 365 Šifriranje poruka temelji se na upravljanju pravima na Microsoft Azure (Azure RMS), koji je dio platforme Azure Information Protection. Ako vaša pretplata obuhvaća Azure Rights Management ili Azure Information Protection, ne morate ništa poduzeti da biste ručno **omogućili ili aktivirali** servis za upravljanje pravima.
 
-Na temelju povratnih informacija o klijentu više neće biti omogućeno automatsko šifriranje odlaznih poruka e-pošte koja sadrži određene vrste osjetljivih podataka u zakupcu. Umjesto toga dajemo detaljne upute o tome kako to sami možete učiniti. Dodatne informacije o stvaranju pravila prijenosa radi šifriranja osjetljivih informacija potražite u [ovom članku](https://aka.ms/OmeEtr).
+Na temelju povratnih informacija klijenata više nećemo Exchange pravila tijeka pošte automatski šifrirati odlaznu e-poštu koja po zadanom sadrži određene vrste osjetljivih podataka u klijentu. Umjesto toga, nudimo detaljne upute o tome kako to možete učiniti sami. Dodatne informacije o stvaranju pravila prijenosa radi šifriranja osjetljivih podataka potražite u [ovom članku](https://aka.ms/OmeEtr).
 
-- Ako koristite Outlook na webu (bivši **OWA**): prilikom skladanja poruke e-pošte jednostavno kliknite **zaštiti** u aplikaciji OWA. Time će se primijeniti dozvola "Ne prosljeđuj". Kliknite **Promijeni dozvolu** , a zatim **Šifriraj** samo da biste šifrirali poruku.
+- Ako koristite Outlook na webu (prijašnji **OWA):** Prilikom sastavljanja poruke e-pošte jednostavno **kliknite Zaštiti u** aplikaciji OWA. Na to će se primijeniti dozvola "Ne prosljeđuj". Kliknite **Promijeni dozvolu i** odaberite **Šifriraj** da biste šifrirali samo poruku.
 
-- Ako koristite **klijent programa Outlook**: da biste slali šifriranu poruku iz programa Outlook 2013 ili 2016 ili Outlook 2016 za Mac, odaberite **mogućnosti**  >  **dozvole**, a zatim odaberite mogućnost zaštite koja vam je potrebna.
+- Ako **koristite Outlook**: da biste poslali šifriranu poruku iz programa Outlook 2013 ili 2016 ili Outlook 2016 za Mac, odaberite **Mogućnosti** Dozvole , a zatim odaberite  >  željenu mogućnost zaštite.
 
-- Da biste **automatski šifrirali sve poruke e-pošte** poslane određenim primateljima ili vanjskim partnerskim organizacijama, morate stvoriti pravilo prijenosa tijeka pošte u centru za administratore sustava Exchange. Detaljne upute navedene su u [ovom članku podrške](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- Da **biste automatski šifrirali sve** poruke e-pošte poslane određenim primateljima ili vanjskim partnerskim tvrtkama ili ustanovama, morate stvoriti pravilo prijenosa tijeka pošte u centru Exchange administratora. Detaljne upute navedene su u [ovom članku za podršku](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

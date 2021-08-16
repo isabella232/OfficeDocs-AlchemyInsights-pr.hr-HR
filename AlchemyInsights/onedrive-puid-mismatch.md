@@ -1,5 +1,5 @@
 ---
-title: Nepodudarnost PUID-a na servisu OneDrive
+title: OneDrive Neusklađenost PUID-a
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096722"
 ---
-# <a name="onedrive-puid-mismatch"></a>Nepodudarnost PUID-a na servisu OneDrive
+# <a name="onedrive-puid-mismatch"></a>OneDrive Neusklađenost PUID-a
 
-Čini se da nailazite na [nepodudaranje ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) -a na servisu OneDrive za tvrtke. Da biste nam omogućili da vam pomognemo u najranijim koracima, učinite sljedeće:
+Čini se da nailazite na [neusklađenost ID-OneDrive za tvrtke.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) Da biste nam omogućili da vam što prije pomognemo, učinite sljedeće:
 
-1. Kliknite  **obratite se podršci**, a zatim  **novi zahtjev za uslugu**.
-2. Ostavite naslov i opis kao  **nepodudarnost korisničkog ID-a web-mjesta servisa OneDrive**.
-3. Kada pošaljete ulaznicu, ažurirajte je sljedećim podacima:
-    - URL web-mjesta servisa OneDrive na koji utječe.
-    - Glavni naziv korisnika (UPN) korisnika koji je utjecao na njih.
+1. Kliknite  **Obratite se podršci**, a zatim Novi zahtjev za  **uslugu**.
+2. Ostavite naslov i opis kao **OneDrive neusklađenost s korisničkim ID-jem web-mjesta**.
+3. Nakon slanja karte ažurirajte je sljedećim informacijama:
+    - OneDrive web-mjesta na koji se to odnosi.
+    - Korisničko glavno ime (UPN) zahvaćenog korisnika.

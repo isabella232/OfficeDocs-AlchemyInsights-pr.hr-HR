@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52aa5aa86848fa92ac082e8f672f9f501cd97cf2f3db9c40fa745aa8ebccfbb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096650"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Izlazna e-pošta u mapu Bezvrijedna e-pošta
 
-Ako se odlazne poruke označavaju kao bezvrijedne, učinite sljedeće:
+Ako se izlazne poruke označavaju kao bezvrijedne, učinite sljedeće:
 
-- Ako to već niste učinili, razmotrite [Konfiguriranje obavijesti o pravilima izlazne neželjene pošte](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
+- Ako još niste, razmislite o konfiguraciji obavijesti o [odlaznom pravilniku o neželjenoj pošti](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
 
-- Koristite [Praćenje poruka](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) da biste vidjeli ako izlazna poruka sadrži **neželjenu** vrijednost događaja uz dodatni detalj: **korištenje bazena visokog rizika**.
+- Pomoću [praćenja poruke](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) možete vidjeti ima li  izlazna poruka vrijednost događaja Neželjena pošta s dodatnim pojedinostima: **Koristite visokorizičan prostor za isporuku**.
 
-  Za ove poruke provjerite sadržaj poruke da biste vidjeli što se može smatrati neželjenom poštom. Potpisi, primjerice, ponekad mogu prouzročiti probleme za mnoge korisnike.
+  Za te poruke provjerite sadržaj poruke da biste vidjeli što se može smatrati neželjenom poštom. Potpisi, primjerice, ponekad mogu uzrokovati probleme za mnoge korisnike.
 
-  Ako imate više primjera legitimnih izlaznog poruka koje su označene kao bezvrijedne, otvorite karticu za podršku i zatražite od agenta za podršku da poruke pošalju kao lažne rezultate našim analitičarima neželjene pošte. Budite spremni pružiti ogledne poruke koje obuhvaćaju sva zaglavlja poruka.
+  Ako imate više primjera legitimnih odlaznih poruka koje se označavaju kao bezvrijedne, otvorite kartu za podršku i zatražite od agenta za podršku da vaše poruke pošaljete kao lažno pozitivno našim analitičarima za neželjenu poštu. Budite spremni na slanje oglednih poruka koje obuhvaćaju sva zaglavlja poruka.
