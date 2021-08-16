@@ -1,5 +1,5 @@
 ---
-title: Dinamika 365 – pogrešna nadzorna ploča u sustavu Dynamics 365 Unified Interface
+title: Dynamics 365 – pogrešna nadzorna ploča prikazuje se u objedinjenom sučelju sustava Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,35 +10,35 @@ localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1edb2a7e9e0c270c7e98eb43d2f6514d70c39a19ea97d189322ca387b6842a18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101474"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Pogrešan prikaz nadzorne ploče u sustavu Dynamics 365 Unified Interface
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Pogrešna nadzorna ploča prikazuje se u objedinjenom sučelju sustava Dynamics 365
 
-Postoji nekoliko razloga zbog kojih možete vidjeti neku drugu nadzornu ploču od one koju očekujete:
+Nekoliko je razloga zbog kojih se nadzorna ploča razlikuje od nadzorne ploče koju očekujete:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Korisnik je postavio zadanu nadzornu ploču korisnika 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Korisnik je postavio korisničku zadanu nadzornu ploču 
 
-Obično je moguće identificirati zadanu nadzornu ploču korisnika, ako se gumb **Postavi kao zadani** ne prikazuje na naredbenom traku nadzorne ploče. Zadana nadzorna ploča korisnika nadjačat će sve druge zadane nadzorne ploče, čak i ako se zadana nadzorna ploča korisnika ne nalazi u aktualnoj aplikaciji.
+Korisnička zadana nadzorna ploča obično se postavlja ako se gumb **Postavi kao zadano** ne prikazuje na naredbenoj traci nadzorne ploče. Zadana nadzorna ploča korisnika nadjačat će sve ostale zadane nadzorne ploče, čak i ako korisnikova zadana nadzorna ploča nije u trenutnoj aplikaciji.
 
-Da biste poništili zadanu nadzornu ploču, upotrijebite sljedeće zaobilazno rješenje.
+Pomoću sljedećeg zaobilaznog rješenja otklanjajte zadane nadzorne ploče.
 
 1. Stvorite novu osobnu nadzornu ploču.
 
-2. Postavite tu novu nadzornu ploču kao zadanu korisniku.
+2. Postavite novu nadzornu ploču kao korisničku zadanu.
 
 3. Izbrišite tu nadzornu ploču.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Nadzorna ploča postavljena je na web-stranici Sitemap
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Nadzorna ploča postavljena je u karta web-mjesta
 
-Možda ste postavili zadanu nadzornu ploču tvrtke ili ustanove tako da odaberete nadzornu ploču i odaberete "Postavi kao zadano" u odjeljku "Prilagodba sustava". No nadzorna ploča definirana u dizajneru Sitemap imat će prednost nad tom nadzornom tabicom ako korisnik ima pristup.
+Možda ste postavili zadanu nadzornu ploču tvrtke ili ustanove tako da odaberete nadzornu ploču i odaberete "Postavi kao zadano" u odjeljku "Prilagodba sustava". No nadzorna ploča definirana u dizajneru karte web-mjesta ima prednost nad ovom nadzornom pločom ako mu korisnik ima pristup.
 
-Da bi korisnici mogli vidjeti nadzornu ploču koju ste postavili kao zadanu za tvrtku ili ustanovu, možete učiniti sljedeće:
+Da bi korisnici vidjeli nadzornu ploču koju ste postavili kao zadanu za organizaciju, možete učiniti sljedeće:
 
-* Postavljanje nadzorne ploče u mapi Sitemap
+* Postavljanje nadzorne ploče u kartama web-mjesta
 
-* Uklanjanje pristupa definiranoj nadzornoj ploči web-stranice za te korisnike
+* Uklanjanje pristupa definiranoj nadzornoj ploči s mapama web-mjesta za te korisnike

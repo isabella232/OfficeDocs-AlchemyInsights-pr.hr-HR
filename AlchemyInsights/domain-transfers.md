@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: ffc549e81dff85ab3e91ddccd50e54603ee24ff0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3348d2d2de46b65e94dbbb4b81dc909a2e86b5ae7686b4612d7b1364e7d76a5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101546"
 ---
 # <a name="domain-transfers"></a>Prijenosi domena
 
 [Način prijenosa Microsoftove kupljene domene na drugog davatelja usluga nakon 60 dana](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
-- Imajte na umu da microsoftovu kupljenu domenu nije moguće prenijeti između davatelja usluga Microsoft 365.
+- Imajte na umu da microsoftovu kupljenu domenu nije moguće prenijeti između Microsoft 365 zakupa.
 - Premda Microsoft kupljene domene ne podržavaju promjenu NS zapisa, razmislite o ažuriranju [DNS](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) zapisa za web-mjesto umjesto prijenosa registracije domene na web-glavno računalo.
 
-Prilagođene domene moguće je [provjeriti i koristiti uz Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
+Prilagođene domene moguće je [provjeriti i koristiti s Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
 
 - Registraciju ili naplatu prilagođenih domena drugih proizvođača nije moguće prenijeti Microsoftu.
 

@@ -1,5 +1,5 @@
 ---
-title: 8000077 ne može se prijaviti u Hotmail ili Outlook.com?
+title: 8000077 ne možete se prijaviti na Hotmail ili Outlook.com?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1198"
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
-ms.openlocfilehash: 851694cd42cf8ab0bcdf1d343c5fc268128779b6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de094f65a216d6d3548d3a222511e0b750e578071c506319f838550a69e02d29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071756"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Ne možete se prijaviti u Hotmail ili Outlook.com?
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Ne možete se prijaviti na Hotmail ili Outlook.com?
 
-Da bi vaš račun za Outlook.com bio aktivan, morate se prijaviti na račun najmanje jednom svakih 365 dana. Nakon 365 dana neaktivnosti, vaša će se e-pošta izbrisati i neće se moći oporaviti.
+Da bi račun Outlook.com bio aktivan, morate se prijaviti na račun najmanje jedanput svakih 365 dana. Nakon 365 dana neaktivnosti poruka e-pošte izbrisat će se i neće se moći vratiti.
   
-Ako ste se prijavili u roku od 365 dana, ali i dalje ne možete pristupiti računu za Hotmail ili Outlook.com, pročitajte [kako se prijaviti u ili izvan programa Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Ako ste se prijavili u roku od 365 dana, ali i dalje ne možete pristupiti računu servisa Hotmail ili Outlook.com, pročitajte upute za prijavu na [ili izvan Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

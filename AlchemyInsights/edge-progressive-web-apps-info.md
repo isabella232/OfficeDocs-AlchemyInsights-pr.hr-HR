@@ -1,5 +1,5 @@
 ---
-title: Saznajte više o progresivnim web-aplikacijama (PIS-u) u programu Microsoft Edge (krom)
+title: Saznajte više o progresivnim web-aplikacijama (PWAs) na servisu Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677109"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101438"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Saznajte više o progresivnim web-aplikacijama (PIS-u) u programu Microsoft Edge (krom)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Saznajte više o progresivnim web-aplikacijama (PWAs) na servisu Microsoft Edge (Chromium)
 
-Pare su web-mjesta koja su postupno poboljšana da funkcioniraju kao izvorne aplikacije na platformama koje ih podržavaju. Pbilo je kombiniranje najboljih osobina web-a i izvornih aplikacija.
+PWA-i su web-mjesta progresivno poboljšana tako da funkcioniraju kao nativne aplikacije na platformama koje ih podržavaju. PWA-i kombiniraju najbolje kvalitete web-aplikacija i nativnih aplikacija.
 
-U perspektivi web-platforme [Pbila je u sustavu Microsoft Edge (krom)](https://go.microsoft.com/fwlink/?linkid=2135193) bazirana na standardima. Korisnicima omogućuju instaliranje aplikacija izravno iz preglednika, a ne zahtijevaju implementaciju ili registraciju utemeljenu na Microsoftovoj trgovini. Pare za stolna računala podržane su na svim platformama na kojima je dostupan Microsoft Edge (krom).
+Iz perspektive web-platforme, [PWA-i na Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) temelje se na standardima. Korisnicima omogućuju instalaciju aplikacija izravno iz preglednika i ne zahtijevaju implementaciju Microsoft Store ili registraciju utemeljenu na podacima. PWA-i za stolna računala podržani su na bilo kojoj platformi na kojoj Microsoft Edge (Chromium) dostupan.

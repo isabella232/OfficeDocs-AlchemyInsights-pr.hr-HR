@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 7e92c01b45fdad7871db734dcd35e4cf611e9e0f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 65baaa09b2e8ee55de61f1697fd8effaaabe3bccde274d6b5e5ab2382bdca8c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401971"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033954"
 ---
 # <a name="review-sign-in-logs-for-users"></a>Pregled zapisnika prijave za korisnike
 
 Evo kako to učiniti:
 
-1. Idite na **Centri za**  >  **[administratore servisa Azure Active Directory](https://go.microsoft.com/fwlink/p/?linkid=2067268)**.
-1. Odaberite **Prijave na Azure Active Directory**  >  .
-1. Ako još nemate pretplatu na Azure AD P1 ili P2, od vas će se zatražiti da pokrenete besplatnu premium probnu verziju. Ako želite, kliknite Pokreni **besplatnu probnu verziju premium, a** zatim u okviru Azure AD Premium P2 odaberite **Besplatna probna verzija**  >  **Aktiviraj**. Besplatna probna verzija je 30 dana.
+1. Idite **na Administratorski centri**  >  **[Azure Active Directory](https://go.microsoft.com/fwlink/p/?linkid=2067268)**.
+1. Odaberite **Azure Active Directory**  >  **prijave**.
+1. Ako još nemate pretplatu na Azure AD P1 ili P2, od vas će se zatražiti da pokrenete besplatnu premium probnu verziju. Ako želite, kliknite Pokreni **besplatnu probnu premium**, a zatim u okviru Azure AD premium P2 odaberite **Besplatna probna**  >  **verzija Aktiviraj**. Besplatna probna verzija je 30 dana.
