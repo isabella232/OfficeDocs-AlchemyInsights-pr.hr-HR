@@ -1,5 +1,5 @@
 ---
-title: Provjera je li klijent servisa Yammer u izvornom načinu rada
+title: Provjera je Yammer klijent u nativnom načinu rada
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 97deabc8abadac8d2f3e93de0b4a3f7feb0fb4d9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: de5e808de41463381972eacd3ce477bb34f7094fabc1b94e438964c350a78c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070244"
 ---
-# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Provjera je li klijent servisa Yammer u izvornom načinu rada
+# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>Provjera je Yammer klijent u nativnom načinu rada
 
-Ovaj korak nije obavezan. U izvornom načinu rada svi korisnici servisa Yammer nalaze se u servisu Azure Active Directory (Azure AD), sve su grupe Microsoft 365 grupe, a sve su datoteke pohranjene u sustavu SharePoint online. Vaš klijent za Yammer mora biti u izvornom načinu rada radi omogućivanja pravilnika usklađenosti komunikacija radi skeniranja i identificiranja riskantnih razgovora u privatnim porukama i razgovorima zajednice u servisu Yammer.  
+Ovaj korak nije obavezan. U nativnom načinu rada svi Yammer korisnici u sustavu Azure Active Directory (Azure AD), sve su grupe Microsoft 365 grupe, a sve se datoteke pohranjuju u SharePoint Online. Klijent Yammer mora biti u nativnom načinu rada da bi pravilnik o usklađenosti komunikacije omogućio pregled i prepoznavanje rizičnih razgovora u privatnim porukama i razgovorima u zajednici Yammer.  
   
-Dodatne informacije o konfiguriranju servisa Yammer u izvornom načinu rada potražite [u članku Pregled izvornih načina rada servisa Yammer u programu microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129829) i [Konfiguriranje mreže servisa Yammer za izvorni način rada za Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129772).
+Dodatne informacije o konfiguriranju Yammer nativnom načinu rada potražite u članku [Pregled nativnog načina rada Yammer](https://go.microsoft.com/fwlink/?linkid=2129829) u programu Microsoft 365 i Konfiguriranje Yammer mreže za [nativni način rada za Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129772).
