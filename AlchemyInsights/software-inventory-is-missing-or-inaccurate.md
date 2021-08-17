@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: f2f71234c5f9cd41692031b679c987bf6c108cc4c50f8d4f95f72da42fea73c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107117"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Softverski inventar nedostaje ili je netočan
 
-Inventar softvera u servisu Microsoft Defender ATP nudi naziv proizvoda ili dobavljača, njegov najnoviji broj verzije te otkriva nedostatke i slabe točke. Dodatne informacije potražite u članku [Inventar softvera – upravljanje prijetnjama i ranjivostima](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Softverski inventar u servisu Microsoft Defender ATP nudi naziv proizvoda ili dobavljača, njegov najnoviji broj verzije te otkriva nedostatke i slabe točke. Dodatne informacije potražite u članku [Inventar softvera – upravljanje prijetnjama i ranjivostima](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
 Možete prijaviti nejasne ili nepotpune informacije, netočne brojeve verzija ili ispraviti podatke o inventaru softvera slijedeći ove korake.  
 

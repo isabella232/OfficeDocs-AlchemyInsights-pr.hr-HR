@@ -1,5 +1,5 @@
 ---
-title: Savjeti za pravilnik o DLP-u ne rade
+title: DLP Policy Savjeti ne funkcionira
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958694"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079658"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problemi s savjetima pravilnika O DLP-u
 
@@ -30,6 +30,6 @@ Da biste konfigurirali savjete pravilnika o pravilniku za DLP u centru za & uskl
 
 - Provjerite podudara li se sadržaj s onim što je potrebno da bi se pokrenulo pravilo navedeno u [definicijama entiteta vrste osjetljivih informacija](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
-- Savjeti za pravilnik prikazuju se u aplikaciji OWA i u programu Outlook. No prilikom korištenja programa Outlook 2013 ili novije verzije savjeti za pravilnik prikazuju se samo u određenim uvjetima. Popis određenih uvjeta pogledajte u odjeljku [Podržani uvjeti za Outlook 2013 ili](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)noviju za prikaz savjeta o pravilniku .
+- Savjeti za pravilnike prikazuju se u aplikaciji OWA i Outlook. No kada koristite Outlook 2013 ili noviju, savjeti za pravilnik prikazuju se samo pod određenim uvjetima. Popis određenih uvjeta pogledajte u članku [Podržani uvjeti za Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)ili novije verzije za prikaz pravilnika Savjeti .
 
-Informacije o savjetima pravilnika O DLP-u potražite u odjeljku [DLP Policy Tips Reference](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) and [Support Matrix for DLP Policy tips](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).
+Informacije o savjetima pravilnika O DLP-u potražite u [članku DLP Policy Savjeti Reference](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) and Support Matrix za [savjete pravilnika DLP-a](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).

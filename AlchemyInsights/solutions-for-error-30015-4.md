@@ -1,5 +1,5 @@
 ---
-title: Rješenja za pogreške 30015-4
+title: Rješenja za pogrešku 30015-4
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,26 +14,26 @@ ms.custom:
 - "834"
 - "2000020"
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: 74aca1fb73e85bc7796047f7e77022f4f418ffc6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34dbeb3bcfffe7ff79a8ee753f5187abdb5c58891f93bfac5fd8acb794f4f5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691351"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050254"
 ---
-# <a name="solutions-for-error-30015-4"></a>Rješenja za pogreške 30015-4
+# <a name="solutions-for-error-30015-4"></a>Rješenja za pogrešku 30015-4
 
 - Ponovno pokrenite računalo i pokušajte [instalirati Office](https://portal.office.com/OLS/MySoftware.aspx).
 
 - Preuzmite i pokrenite [Pomoćnik za podršku i oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kada se otvori, iz **Deinstalacija proizvoda sustava Office** odaberite verziju koju želite deinstalirati, a zatim odaberite **dalje**.
+1. Kada se otvori, u **odjeljku Deinstaliraj Office odaberite** verziju koju želite deinstalirati pa odaberite **Dalje**.
 
 2. Nastavite prolaziti kroz zaslone te ponovno pokrenite računalo kada se to od vas zatraži.
 
-    Nakon ponovnog pokretanja pomoćnik za podršku i oporavak automatski će se ponovno otvoriti da bi se dovršio postupak deinstalacije.
+    Nakon ponovnog pokretanja, pomoćnik za podršku i oporavak se automatski ponovno otvara da bi dovršio postupak deinstalacije.
 
-3. Slijedite preostale upite i [ponovno instalirajte Office](https://portal.office.com/OLS/MySoftware.aspx) ili Zatvori pomoćnika.
+3. Slijedite preostale upite i [ponovno Office ili](https://portal.office.com/OLS/MySoftware.aspx) zatvorite pomoćnika.
 
-[Otklanjanje pogrešaka prilikom instalacije sustava Office](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
+[Rješavanje Office instalacijskih pogrešaka](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
   

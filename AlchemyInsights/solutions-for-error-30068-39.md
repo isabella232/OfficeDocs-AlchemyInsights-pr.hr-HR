@@ -14,12 +14,12 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 5f9c9ae86f0f80a209444bb161e763a2fbceddeb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a5adca5950e2db34b88c77f1b635c3f273eff4e45eea7312ed2100b8d6f7f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835335"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050218"
 ---
 # <a name="solutions-for-error-30068-39"></a>Rješenja za pogrešku 30068-39
 
@@ -31,10 +31,10 @@ Isprobajte ova rješenja da biste riješili [pogrešku 30068-39:](https://suppor
 
 - Preuzmite i pokrenite [Pomoćnik za podršku i oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kada se otvori, u **odjeljku Deinstalacija** proizvoda sustava Office odaberite verziju koju želite deinstalirati pa odaberite **Dalje**.
+1. Kada se otvori, u **odjeljku Deinstaliraj Office odaberite** verziju koju želite deinstalirati pa odaberite **Dalje**.
 
 2. Nastavite prolaziti kroz zaslone te ponovno pokrenite računalo kada se to od vas zatraži.
 
-    Nakon ponovnog pokretanja pomoćnik za podršku i oporavak automatski se ponovno otvara da bi dovršio postupak deinstalacije.
+    Nakon ponovnog pokretanja, pomoćnik za podršku i oporavak se automatski ponovno otvara da bi dovršio postupak deinstalacije.
 
-3. Slijedite preostale upite i ponovno [instalirajte Office](https://portal.office.com/OLS/MySoftware.aspx) ili zatvorite pomoćnika.
+3. Slijedite preostale upite i [ponovno Office ili](https://portal.office.com/OLS/MySoftware.aspx) zatvorite pomoćnika.
