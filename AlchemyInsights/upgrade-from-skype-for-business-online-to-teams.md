@@ -1,5 +1,5 @@
 ---
-title: Nadogradnja s Skypea za tvrtke online na Teams
+title: Nadogradnja s Skype za tvrtke Online na Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: 6febce6559b697261c1a8dc3d72a39df2fb80652
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8e1c292a415794c65cf6efa1f5f335be627759db64a6aa7b4918f05436502fd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073556"
 ---
-# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Nadogradnja s Skypea za tvrtke online na Teams  
+# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Nadogradnja s Skype za tvrtke Online na Teams  
 
-Slijedite upute u članku u nastavku ako ste implementirati Skype za tvrtke online i želite nadograditi korisnike iz Skypea za tvrtke na Teams. Korisnike možete nadograditi u fazama ili sve istodobno, na temelju putovanja nadogradnje koje je vaša tvrtka ili ustanova odabrala tako da korisnicima dodijelite odgovarajući način suživota i nadogradnje.
+Slijedite upute u članku u nastavku ako ste implementirati Skype za tvrtke Online i želite nadograditi korisnike s Skype za tvrtke na Teams. Korisnike možete nadograditi u fazama ili sve istodobno, na temelju putovanja nadogradnje koje je vaša tvrtka ili ustanova odabrala tako da korisnicima dodijelite odgovarajući način suživota i nadogradnje.
 
-[Nadogradnja s Skypea za tvrtke online na Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
+[Nadogradnja s Skype za tvrtke Online na Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 

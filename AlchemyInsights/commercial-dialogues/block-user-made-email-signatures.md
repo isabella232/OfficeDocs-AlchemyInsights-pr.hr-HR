@@ -1,5 +1,5 @@
 ---
-title: Blokiranje korisničkog potpisa e-pošte
+title: Blokiranje korisnički stvorenih potpisa e-pošte
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103544"
 ---
-# <a name="block-user-made-email-signatures"></a>Blokiranje korisničkog potpisa e-pošte
+# <a name="block-user-made-email-signatures"></a>Blokiranje korisnički stvorenih potpisa e-pošte
 
-Sljedeće rješenje primjenjuje se samo na potpise e-pošte stvorene u programu Outlook na webu. Potpise možete blokirati samo u aplikaciji Outlook ako imate lokalni poslužitelj sustava Exchange.
+Sljedeće rješenje odnosi se samo na potpise e-pošte stvorene Outlook na webu. Potpise u aplikaciji Outlook možete blokirati samo ako imate lokalni Exchange Server.
 
-1. U centru za administratore odaberite **Exchange centri za administratore**  >  .
-2. Kliknite **dozvole** za  >  **Outlook Web App**.
-3. Odaberite pravilo, a zatim kliknite ikonu olovke da biste je uredili.
-4. Kliknite **značajke**  >  **više mogućnosti**.
-5. U odjeljku **korisničko iskustvo** poništite potvrdni okvir **potpis e-pošte** , a zatim kliknite **Spremi**.
+1. U centru za administratore odaberite **Centri za administratore**  >  **Exchange**.
+2. Kliknite **dozvole Outlook Web App**  >  **pravilnike**.
+3. Odaberite pravilnik, a zatim kliknite ikonu olovke da biste ga uredili.
+4. Kliknite **značajke**  >  **Dodatne mogućnosti**.
+5. U **odjeljku Korisničko sučelje** poništite potvrdni okvir Potpis **e-pošte,** a zatim **kliknite Spremi**.
 
-**Važno:** Ako je potpis dodan prije nego što poništite taj potvrdni okvir, korisnik će ga i dalje moći koristiti. Zamolite ih da ga uklanjaju.
+**Važno:** Ako je potpis dodan prije nego što poništite taj okvir, korisnik će ga i dalje moći koristiti. Zamolite ih da ga uklone.
