@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 0f7ce9cb8054c6e0960aab334ad47123320a0cde
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 1aa60a3be051194e3816e909ba25a32e98463a2179e94844869cd97a564548a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052630"
 ---
 # <a name="send-an-email-message-based-on-a-template"></a>Slanje poruke e-pošte na temelju predloška
 
-Da biste koristili predložak poruke e-pošte na stolnom računalu programa Outlook, učinite sljedeće:
+Da biste predložak poruke e-pošte koristili Outlook radnoj površini, učinite sljedeće:
 
-1. Odabir **novih stavki**  >  **više stavki**  >  **Odaberite obrazac**.
-2. U dijaloškom okviru **Odabir obrasca** u odjeljku **Pogledaj u** kliknite **korisnički predlošci u datotečnom sustavu**.
-3. Otvorit će se mapa zadani predlošci. Mjesto mape (u sustavima Windows 7 i novije operativne sustave) jest **c:\users\username\appdata\roaming\microsoft\templates**. Ako je predložak spremljen u neku drugu mapu, kliknite **Pregledaj**, a zatim odaberite predložak.
-4. Odaberite predložak, a zatim kliknite **Otvori**.
-5. U okvire **Prima, kopija** ili skrivena **kopija** izvršite bilo koje dodatke ili revizije, te bilo koje promjene u predmetu i tijelu poruke.
+1. Odaberite **Nove stavke Više**  >  **stavki**  >  **Odaberite Obrazac**.
+2. U **dijaloškom okviru Odabir** obrasca u programu **Pogledaj u** kliknite Korisnički predlošci **u datotečnom sustavu**.
+3. Otvorit će se zadana mapa predložaka. Mjesto mape (u sustavu Windows 7 i novijim operacijskim sustavima) **jest c:\korisnici\korisničkoime\appdata\roaming\microsoft\templates**. Ako je predložak spremljen u drugu mapu, kliknite **Pregledaj,** a zatim odaberite predložak.
+4. Odaberite predložak, a zatim **kliknite Otvori**.
+5. Unesite sve dodatke ili revizije primateljima u  okvire **Prima**, **Kopija** ili Skrivena kopija te promjene predmeta i tijela poruke.
     > [!NOTE]
-    > Promjene napravljene nisu spremljene u predložak. Ako koristite naredbu **Spremi** , time ćete stvoriti skicu poruke, ali nećete ažurirati predložak. Da biste ažurirali predložak, slijedite korake za spremanje novog predloška u odjeljku [Stvaranje predloška poruke e-pošte](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1).
-6. Kliknite **Šalji**.
+    > Izvršene promjene ne spremaju se u predložak. Ako koristite **naredbu Spremi,** time ćete stvoriti skicu poruke, ali nećete ažurirati predložak. Da biste ažurirali predložak, slijedite korake za spremanje novog predloška u [predlošku Stvaranje poruke e-pošte](https://support.microsoft.com/office/create-an-email-message-template-43ec7142-4dd0-4351-8727-bd0977b6b2d1).
+6. Kliknite **Pošalji**.

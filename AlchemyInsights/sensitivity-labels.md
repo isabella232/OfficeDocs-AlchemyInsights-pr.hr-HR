@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004597"
 - "8230"
-ms.openlocfilehash: 22878bdff6b987d0a1dc7f7c4aee74f8b22a58f3
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 6e2e96ba54f8ccc5edca821a73b7f697a255041c64f139f47702f637dd6dbb2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481141"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052414"
 ---
 # <a name="sensitivity-labels"></a>Oznake osjetljivosti
 
-Ako vam se ne prikazuje naljepnica osjetljivosti koju očekujete da će se prikazivati za korisnika, potvrdite redoslijed prioriteta pravilnika o natpisima osjetljivosti. Pogledajte: [prioritet naljepnica](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+Ako ne vidite oznaku Osjetljivost koju očekujete da ćete vidjeti za korisnika, provjerite redoslijed prioriteta pravilnika o osjetljivosti. Pogledajte: [Prioritet naljepnice](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Dodatne informacije o naljepnicama osjetljivosti potražite u članku:
+Dodatne informacije o oznakama osjetljivosti potražite u članku:
 
-- Saznajte više o naljepnicama osjetljivosti: [Informirajte se o naljepnicama osjetljivosti – Microsoft 365 je usklađenost | Microsoftovi dokumenti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- Informacije o **licenciranju** : [Savjeti za licenciranje za Microsoft 365 za sigurnost & opis servisa za poštivanje podataka | Microsoftovi dokumenti](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#information-protection)
-- Korištenje naljepnica s osjetljivosti u aplikacijama sustava Office: [Korištenje naljepnica s osjetljivosti u aplikacijama sustava Office-Microsoft 365, sukladnost | Microsoftovi dokumenti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
-- Omogućivanje naljepnica s osjetljivosti za datoteke sustava Office u sustavu **SharePoint i servisa OneDrive**: [Omogućivanje naljepnica s osjetljivosti za datoteke sustava Office u sustavu SharePoint i onedrive-Microsoft 365 sukladnost | Microsoftovi dokumenti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files)
-- Korištenje naljepnica s osjetljivosti s Microsoftovim **timovima**: [Korištenje naljepnica s osjetljivosti s Microsoftovim timovima, grupama Microsoft 365 i web-mjestima sustava SharePoint – Microsoft 365 sukladnost | Microsoftovi dokumenti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites)
-- **Automatsko primjena** Natpisi osjetljivosti: [Automatsko primjena naljepnice osjetljivosti na sadržaj u programu microsoft 365 – microsoft 365 sukladnost | Microsoftovi dokumenti](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
-- Poznati problemi s naljepnicama osjetljivosti: [poznati problemi s naljepnicama osjetljivosti u sustavu Office-Support (Microsoft.com)](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
+- Saznajte više o oznakama osjetljivosti: [saznajte više o oznakama osjetljivosti – Microsoft 365 usklađenost | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Informacije o** licenciranju: Microsoft 365 licenciranje za sigurnosnu [usklađenost & - Opisi servisa | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#information-protection)
+- Korištenje oznaka osjetljivosti u Office aplikacijama: koristite oznake osjetljivosti [u aplikacijama Office – Microsoft 365 usklađenost | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- Omogući oznake osjetljivosti za Office datoteke u **SharePoint i OneDrive**: Omogući oznake osjetljivosti za Office datoteke u [datotekama SharePoint i OneDrive – Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files)
+- Korištenje oznaka osjetljivosti uz Microsoft **Teams**: Koristite oznake osjetljivosti [s Microsoft Teams, Microsoft 365 grupama i SharePoint web-mjestima – Microsoft 365 usklađenost | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites)
+- **Automatska primjena** Oznake osjetljivosti: [automatski primijenite oznaku osjetljivosti na sadržaj u programu Microsoft 365 – Microsoft 365 usklađenost | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- Poznati problemi s oznakama osjetljivosti: poznati problemi s oznakama osjetljivosti [u Office – Office podrška (microsoft.com)](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
 
-Informacije o naljepnicama za zaštitu informacija na servisu Azure potražite u članku [označavanje, klasifikacija i zaštita Azure (AIP-a) za zaštitu podataka Microsoftovi dokumenti](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
+Informacije o oznakama za Azure Information Protection potražite u članku Označavanje, klasifikacija i zaštita platforme [Azure Information Protection (AIP) | Microsoft Docs](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)

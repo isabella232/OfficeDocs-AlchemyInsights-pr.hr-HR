@@ -1,5 +1,5 @@
 ---
-title: Stvaranje i migracija prstena za ažuriranje
+title: Stvaranje i migriranje prstenova ažuriranja
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1126"
 - "6700007"
-ms.openlocfilehash: 06f905551cbd015c80b6de4f97d0beb535d70fa0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69377155659cb76f376f0e3fbee86a3475c9ec35bb59f5331e26ca15b12e548a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080090"
 ---
-# <a name="create-or-migrate-update-rings"></a>Stvaranje i migracija prstena za ažuriranje
+# <a name="create-or-migrate-update-rings"></a>Stvaranje i migriranje prstenova ažuriranja
 
-Ako ste konfigurirali postavke ažuriranja u sustavu Windows 10 na portalu Intune Classic i želite migrirati postavke da biste se uslijedili na portalu Azure, slijedite ove korake:
+Ako ste konfigurirali Windows 10 ažuriranja na klasičnom portalu Intune i želite migrirati postavke u Intune na portalu Azure, slijedite ove korake:
 
-1.  Idite na portal Azure i odaberite  **sve servise**.
-2.  U polje  **Filtar**  upišite  **Intune**, a zatim odaberite  **Microsoft Intune**.
-3.  Odaberite **softverska ažuriranja**za   >   **Windows 10 ažuriranje prstenova**   >   **Stvaranje**.
+1.  Idite na portal Azure i odaberite  **Svi servisi**.
+2.  U polje **Filtar** upišite **Intune** pa odaberite **Microsoft Intune**.
+3.  Odaberite **Softverska**   >   **ažuriranja Windows 10 Ažuriraj prstenove**   >   **Stvori**.
 4.  Unesite naziv i opis, a zatim odaberite  **Konfiguriraj**.
-5.  Konfigurirajte postavke softverskog ažuriranja za svoju tvrtku ili ustanovu.
-6.  Odaberite **u redu**  >  **Stvaranje ažuriranja prstena**za  >  **Stvaranje**.
+5.  Konfigurirajte postavke ažuriranja softvera za svoju organizaciju.
+6.  Odaberite **U**  >  **redu Stvori stvaranje prstena za**  >  **ažuriranje**.

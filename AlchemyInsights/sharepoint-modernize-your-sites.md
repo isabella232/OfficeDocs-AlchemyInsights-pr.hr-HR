@@ -1,5 +1,5 @@
 ---
-title: Modernizaciju web-mjesta sustava SharePoint
+title: Modernizirajte web-SharePoint web-mjesta
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f0fdc6988ea693f6c0e012af719cdaca2f6fa13c888a5fb39e35387e1a820e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800564"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107828"
 ---
-# <a name="modernize-your-sharepoint-sites"></a>Modernizaciju web-mjesta sustava SharePoint
+# <a name="modernize-your-sharepoint-sites"></a>Modernizirajte web-SharePoint web-mjesta
 
-Detaljne upute za moderniziranje klasičnih web-mjesta sustava SharePoint s modernim iskustvom potražite u članku [moderniziranje klasičnih web-mjesta sustava SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Pregled moderniziranja klasičnih web-mjesta SharePoint modernom doživljaju pogledajte u članku Modernizacija klasičnih [web-mjesta SharePoint web-mjesta.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
 
-* Da biste povećali korištenje modernog korisničkog sučelja za stranice web-mjesta i popisa i biblioteke, pročitajte članak [modernizaciju korisničkog sučelja](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
-* Dodatne informacije o deblokiranju popisa i biblioteka prilikom korištenja suvremenog korisničkog sučelja potražite u članku [maksimiziranje korištenja suvremenih popisa i biblioteka](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-* Dodatne informacije o povezivanju s grupom Microsoft 365 i obavljanju grupne veze potražite [u članku Povezivanje s grupom microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Da biste maksimizirali korištenje modernog korisničkog sučelja za stranice web-mjesta i stranice popisa i biblioteke, pogledajte [moderniziranje korisničkog sučelja](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
+* Dodatne informacije o deblokiisu popisa i biblioteka prilikom korištenja modernog korisničkog sučelja potražite u članku [Maksimiziranje korištenja modernih popisa i biblioteka](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+* Dodatne informacije o povezivanju s grupom Microsoft 365 i obavljanju grupne veze potražite [u članku Povezivanje s Microsoft 365 grupe](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
 
-**Važno**: Ako želite da se stranica već prikazuje u modernom prikazu i nije, potražite stranicu u pitanju, kopirajte URL i navedite URL kao dio detalja vaše karte za podršku.
+**Važno:** ako mislite da bi se stranica već trebala prikazivati u modernom prikazu, a nije, pomaknite se do te stranice, kopirajte URL i unesite URL kao dio pojedinosti o vašoj podršci.

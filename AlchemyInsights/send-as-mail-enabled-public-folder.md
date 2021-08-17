@@ -1,5 +1,5 @@
 ---
-title: Pošalji kao javnu mapu za poštu koja je omogućena u programu EXO
+title: Pošalji kao javnu mapu s omogućenom poštom u programu EXO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 22aa3e8f46c2ff4f62cb520b9498041dffb9d3a3eb607d788cc97b10bf32dbb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48461782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052558"
 ---
-# <a name="sendas-mail-enabled-public-folder"></a>Javna mapa s omogućenim SendAs poštom
+# <a name="sendas-mail-enabled-public-folder"></a>Javna mapa s omogućenim slanjem pošte
 
-U sljedećem se primjeru dodjeljuje dozvola "Pošalji kao" za javnu mapu NewPF1 s omogućenom poštom na korisnika Jasona.
+U sljedećem se primjeru korisniku Jasonu dodjeljuju dozvole "Pošalji kao" za javnu mapu NewPF1 s omogućenom poštom.
 
-Add-RecipientPermission-Identity ' NewPF1 '-trustee "Jason"-AccessRights ' SendAs '
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Jason" -AccessRights 'SendAs'
 
-Detaljne informacije o sintaksi i parametrima potražite u članku [Dodjela dozvola "Pošalji kao" ili "Pošalji u ime" za javne mape koje su omogućene za e-poštu](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
+Detaljne informacije o sintaksi i parametrima potražite u članku Dodjela dozvola "Pošalji kao" ili "Pošalji u ime" za javne mape [s omogućenom poštom](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
 
