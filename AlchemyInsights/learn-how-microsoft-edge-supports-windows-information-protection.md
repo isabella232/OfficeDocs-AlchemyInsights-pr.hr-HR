@@ -1,5 +1,5 @@
 ---
-title: Informirajte se o tome kako Microsoft Edge podržava zaštitu informacija u sustavu Windows (NP)
+title: Saznajte kako Microsoft Edge podržava Windows podataka (WIP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677020"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054270"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Informirajte se o tome kako Microsoft Edge podržava zaštitu informacija u sustavu Windows (NP)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Saznajte kako Microsoft Edge podržava Windows podataka (WIP)
 
-Kada se broj udaljenih radnika poveća, povećava se i broj osobnih i radnih aktivnosti na korporativnim uređajima. To će, zauzvrat, povećati rizik da se korporacijski podaci mogu zajednički koristiti izvan radnog mjesta. Da biste umanjili taj rizik, Microsoft Edge (verzija 81 ili noviji) podržava zaštitu informacija u sustavu Windows (NP): značajka sustava Windows-10 koja pridonosi zaštiti podataka tvrtke iz neovlaštenih i slučajnih objava.
+Kako se broj udaljenih zaposlenika povećava, povećava se i broj osobnih i radnih aktivnosti koje se odvijaju na korporacijskim uređajima. Time se povećava rizik da se poslovni podaci mogu zajednički koristiti izvan radnog mjesta. Da biste ublažili taj rizik, Microsoft Edge (verzija 81 ili novija) podržava Windows Information Protection (WIP): značajku Windows-10 koja pridonosi zaštiti poslovnih podataka od neovlaštenog i slučajnog otkrivanja.

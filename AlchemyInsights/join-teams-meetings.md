@@ -1,5 +1,5 @@
 ---
-title: Uključivanje u sastanke aplikacije Teams
+title: Uključivanje Teams sastancima
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ebd54843fb99e144580dc26ce382039b5a6b0c3d85d1be45b2b49a0e92f5d46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054260"
 ---
-# <a name="join-a-meeting-in-teams"></a>Uključivanje u sastanak u aplikaciji Teams
+# <a name="join-a-meeting-in-teams"></a>Uključivanje u sastanak u Teams
 
-Da biste se pridružili sastanku aplikacije Teams, najprije postavite pravilnike sastanka, a zatim usmjerite korisnike da se pridruže s preferiranih uređaja:
+Da biste se Teams sastanak, najprije postavite pravilnike sastanka, a zatim usmjerite korisnike da se pridruže s preferiranih uređaja:
 
 - Postavite pravilnike sastanka koji kontroliraju tko će se moći uključiti u sastanak kao [sudionici ili gosti](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
 
-- Pomoću [cmdleta komponente](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Microsoft Teams PowerShell upišite promjene pravilnika.    
+- Pomoću Microsoft Teams [cmdleta komponente PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) upišite promjene pravilnika.    
 
 **Napomena:** Može potrajati i do 24 sata da promjene pravilnika stupe na snagu.

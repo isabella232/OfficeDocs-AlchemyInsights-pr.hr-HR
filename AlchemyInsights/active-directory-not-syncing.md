@@ -14,23 +14,23 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: 4bfbe6b2dd9a2112f0cb7af0d6e7a46693bc70680895fd674ddb0332b7071797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937093"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889210"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory se ne sinkronizira
 
-Ako primate pogreške sinkronizacije, kao što je "bez nedavne sinkronizacije" ili primijetite status sinkronizacije direktorija na portalu za administratore sustava Office kaže: "Last synced more than 3 days ago" (Zadnje sinkronizirano prije više od 3 dana) možda AADConnect ima netočne postavke ili nedovoljne dozvole za izvođenje sinkronizacije.  
+Ako primate pogreške sinkronizacije, kao što je "nema nedavne sinkronizacije" ili na portalu za administratore sustava Office primijetite status sinkronizacije direktorija, "Last synced more than 3 days ago" (Zadnje sinkronizirano prije više od 3 dana) može biti da AADConnect ima netočne postavke ili nedovoljne dozvole za izvođenje sinkronizacije.  
 
-Ponovna instalacija AADConnect pomoću ekspresnih postavki može brzo riješiti problem:
+Ponovna instalacija sustava AADConnect pomoću ekspresnih postavki može brzo riješiti problem:
 
 1. [Preuzmite najnoviju verziju servisa AADConnect.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Slijedite upute za ekspresne instalacije](/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Slijedite upute za ekspresne instalacije](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
 
-Servis Azure AD Connect mora biti instaliran na poslužitelju Windows Server 2012 ili novijoj verziji. Ovaj poslužitelj mora biti spojen na domenu i može biti kontroler domene ili poslužitelj člana. Potpuni popis preduvjeta za Azure AD Povezivanje preduvjeta i preduvjeta pregledajte [Preduvjeti](/azure/active-directory/hybrid/how-to-connect-install-prerequisites)za Azure AD Povezivanje .
+Servis Azure AD Connect mora biti instaliran na poslužitelju Windows Server 2012 ili novijoj verziji. Ovaj poslužitelj mora biti spojen na domenu i može biti kontroler domene ili poslužitelj člana. Potpuni popis preduvjeta za Azure AD Povezivanje preduvjete i preduvjete pregledajte [Preduvjeti za Azure AD Povezivanje](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites).
 
-Dodatne informacije o računima servisa AADConnect potražite u članku [Azure AD Povezivanje: Računi i dozvole](/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Dodatne informacije o računima servisa AADConnect potražite u članku [Azure AD Povezivanje: Računi i dozvole](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).

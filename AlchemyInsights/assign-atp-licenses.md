@@ -1,5 +1,5 @@
 ---
-title: Dodjela programa Microsoft Defender za Office 365 licence
+title: Dodjela programa Microsoft Defender Office 365 licenci
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: 517edd98ff30977b50a9634fbc274c77fe36c52eff4dc5c27b24e1d57dc7cc8e
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501736"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888882"
 ---
-# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Dodjela programa Microsoft Defender za Office 365 licence
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Dodjela programa Microsoft Defender Office 365 licenci
 
 Microsoft Defender za Office 365 može se dodijeliti korisnicima u Microsoft 365 za administratore centru.
 
@@ -31,6 +31,6 @@ Microsoft Defender za Office 365 može se dodijeliti korisnicima u Microsoft 365
 3. Kliknite **Dodijeli licence**.
 4. U **oknu Dodjela licenci**  korisnicima počnite upisivati korisničko ime, a zatim je odaberite iz rezultata. Odjednom možete dodati najviše 20 korisnika.
 5. Da **biste dodijelili ili uklonili aplikacije i servise,**  kliknite Uključi ili isključi aplikacije i servise.
-6. Kliknite **Dodijeli**, a  **zatim Zatvori**.
+6. Kliknite **Dodijeli**,  **a zatim Zatvori**.
 
-Da biste kupili više licenci ili ih uklonili, [pogledajte kupnju ili uklanjanje licenci.](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
+Da biste kupili više licenci ili ih uklonili, [pogledajte kupnju ili uklanjanje licenci.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
