@@ -1,5 +1,5 @@
 ---
-title: Rješavanje pravilnika o klijentu (prijelaz na akciju)
+title: Rješavanje problema s pravilnikom klijenta (nadjačavanje akcije)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743661"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896067"
 ---
-# <a name="fix-tenant-policy-action-override"></a>Rješavanje pravilnika o klijentu (prijelaz na akciju)
+# <a name="fix-tenant-policy-action-override"></a>Rješavanje problema s pravilnikom klijenta (nadjačavanje akcije)
 
-Pravilnik o suzbijanju neželjene pošte u vašem zakupcu utjecao je na ovu poruku. Da biste pregledali pravilnik, učinite sljedeće:
+Jedna od vaših pravilnika o neželjenoj pošti utjecala je na ovu poruku. Da biste pregledali pravilnike, učinite sljedeće:
 
-1. Idite na [centar za sigurnost & sustava Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), a zatim otvorite pravilo za **Upravljanje prijetnjama** za  >    >  [zaštitu od neželjene pošte](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Provjerite prikazuje li **izvor pravilnika** sljedeće:  **Dodavanje-XHeader/Modifysubject/preusmjeravanje/Izbriši/bez akcije/Skrivena kopija poruka**
+1. Na portalu Microsoft 365 Defender u odjeljku E-pošta & pravila suradnje & Pravila Prijetnje pravilnika o zaštiti od neželjene pošte <https://security.microsoft.com/>  \>  \>  \>  **u odjeljku Pravila.**
 
-    Ako je tako, na kartici **Prilagođeno** provjerite postavke Pravilnika koja je utjecala na poruku. Moguće je da su **standardne postavke** primijenjene na sve klijente zaštite servisa Exchange Online utjecali na poruku.
+   Da biste se izravno idite na stranicu Pravilnika o **neželjenoj pošti,** koristite <https://security.microsoft.com/antispam> .
 
-Dodatne informacije o konfiguriranju pravilnika filtra za neželjenu poštu potražite u članku [Konfiguriranje pravilnika filtra za neželjenu poštu](https://go.microsoft.com/fwlink/?linkid=2101431).
+2. Na **stranici Pravilnika** o neželjenoj pošti odaberite pravilnik klikom na naziv pravilnika (**Vrsta** je Pravilnik o prilagođenoj neželjenoj pošti **ili** **Naziv** je pravilnik o ulasu neželjene pošte **(zadano).**
+3. U brošuri s detaljima koja će se prikazati **odaberite Uređivanje akcija** u **odjeljku Akcije.**
+4. U **odjeljku Akcije poruke** pregledajte presudu za neželjenu  **poštu,** neželjenu poštu visoke pouzdanosti,  **krađu** identiteta i krađu identiteta visoke pouzdanosti da biste vidjeli jesu li odabrane neke od sljedećih vrijednosti:
+   - **Dodavanje X-zaglavlja**
+   - **Predostrožan redak predmeta s tekstom**
+   - **Preusmjeravanje poruke na adresu e-pošte**
+   - **Brisanje poruke**
+   - **Nema akcije**
+
+   Moguće je da su standardne postavke **primijenjene na** sve korisnike Exchange Online Protection na poruku.
+
+Dodatne informacije potražite u članku Konfiguriranje [pravilnika o neželjenoj pošti u programu EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).
