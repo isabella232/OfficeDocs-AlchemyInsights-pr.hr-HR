@@ -14,17 +14,17 @@ ms.assetid: ''
 ms.custom:
 - "9007084"
 - "11929"
-ms.openlocfilehash: 6f63eed31fda61ea6377c364cfbf63035311864e55637baa5a5838784a03b582
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 34f2db749fe457dfad457e15c3b836d98b9f0de75a9c03bd79a3c1a8f4d4d4de
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57812958"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898348"
 ---
 # <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Pomoć za SharePoint Microsoft Teams interakcije
 
-Svaki tim u Microsoft Teams ima timski web-mjesto u SharePoint, a svaki standardni kanal u timu dobiva mapu unutar zadane biblioteke dokumenata timskog web-mjesta. Svaki privatni kanal dobiva vlastito, zasebno SharePoint web-mjesto. Dodatne informacije:
+Svaki tim u Microsoft Teams ima timski web-mjesto u SharePoint, a svaki standardni kanal u timu dobiva mapu unutar zadane biblioteke dokumenata timskog web-mjesta. Svaki privatni kanal dobiva vlastiti, zasebni SharePoint web-mjesto. Dodatne informacije:
 
-- Dodatne informacije o interakciji privatnog kanala potražite u članku [Privatni kanali u programu Microsoft Teams](/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+- Dodatne informacije o interakciji privatnog kanala potražite u članku [Privatni kanali u Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-- Dodatne informacije o ograničenjima i SharePoint na pohranu potražite u članku [Ograničenja i specifikacije za Microsoft Teams](/microsoftteams/limits-specifications-teams#storage). 
+- Dodatne informacije o ograničenjima i SharePoint na pohranu potražite u članku [Ograničenja i specifikacije za Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#storage). 
