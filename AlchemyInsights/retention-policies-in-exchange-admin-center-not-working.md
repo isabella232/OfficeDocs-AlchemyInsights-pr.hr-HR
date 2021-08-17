@@ -1,5 +1,5 @@
 ---
-title: Pravila zadržavanja u centru za administratore sustava Exchange ne rade
+title: Pravila zadržavanja u Exchange centru za administratore ne rade
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074924"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Pravila zadržavanja u centru za administratore sustava Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Pravila zadržavanja u centru Exchange administratora
 
 Ako želite da pokrenemo automatske provjere postavki navedenih u nastavku, odaberite gumb natrag <– pri vrhu ove stranice, a zatim unesite adresu e-pošte korisnika koji ima problema s pravilima zadržavanja.
 
-Ako imate problema s pravilima zadržavanja u centru za administratore sustava Exchange koji se ne primjenjuju na poštanske sandučiće ili stavke koje se ne premještaju u arhivski poštanski sandučić, provjerite sljedeće:
+Ako imate problema s pravilnikom o zadržavanju u centru Exchange za administratore koji se ne primjenjuju na poštanske sandučiće ili stavke koje se ne premještaju u arhivski poštanski sandučić, provjerite sljedeće:
 
 **Korijenski uzroci:**
 
@@ -38,7 +38,7 @@ Ako imate problema s pravilima zadržavanja u centru za administratore sustava E
  
 **Napomena:** Ako je poštanski sandučić manji od 10 MB, pomoćnik za upravljane mape neće automatski obraditi poštanski sandučić.
  
-Dodatne informacije o pravilima zadržavanja u centru za administratore sustava Exchange potražite u članku:
+Dodatne informacije o pravilima zadržavanja u centru Exchange za administratore potražite u sljedećem članku:
 
 - [Oznake zadržavanja i pravilniki o zadržavanju](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 

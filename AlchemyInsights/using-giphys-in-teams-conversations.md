@@ -1,5 +1,5 @@
 ---
-title: Korištenje programa Giphys u razgovorima timova
+title: Korištenje značajke Giphys u Teams razgovorima
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982437"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104300"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>Korištenje programa Giphys u razgovorima timova
+# <a name="using-giphys-in-teams-conversations"></a>Korištenje značajke Giphys u Teams razgovorima
 
-Pristup giphys u timovima čavrljanje omogućen je po zadanom. Kao administrator možete kontrolirati jesu li Giphys dostupni korisnicima postavljanjem [pravilnika o razmjeni poruka](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) i osiguranju da je **uključeno** **Korištenje giphys u razgovorima** .
+Giphys access in Teams chat is enabled by default. Kao administrator možete kontrolirati jesu li Giphysi [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) dostupni korisnicima postavljanjem pravilnika za razmjenu poruka i osiguravanjem da je korištenje **giphysa u razgovorima** **on**.
 
-Ako GIF-ovi ne funkcioniraju kako se očekuje u razgovorima timova, provjerite sljedeće:
+Ako GIF-ovi ne rade na očekivani Teams razgovora, provjerite sljedeće:
 
-[Pravilnik o razmjeni poruka](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) mora dopustiti Giphys. Da biste potvrdili pomoću cmdleta u komponenti PowerShell:
+Pravilnik [za razmjenu poruka](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) mora omogućiti Giphys. Provjera pomoću cmdleta komponente PowerShell:
 
-- Provjerite možete li [upravljati timovima pomoću komponente PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
-- Pokrenite naredbu PowerShell [Nabavite-CsTeamsMessagingPolicy – Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) i provjerite je li **Allowgiphy** postavljen na **True**.
-- Ako je **Allowgiphy** postavljen na **False** , pokrenite sljedeći skup naredbi za PowerShell [– CsTeamsMessagingPolicy – Identity Global-allowgiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
+- Provjerite možete li upravljati [Teams komponente PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
+- Pokrenite naredbu PowerShell [Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) i provjerite je **li AllowGiphy** postavljen na **TRUE**.
+- Ako **je AllowGiphy** postavljen na **FALSE**, pokrenite sljedeću naredbu Komponente PowerShell [Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
 
-[Neobavezna povezana iskustva](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) moraju se omogućiti da bi se omogućilo pristup URL-u giphy-a.
+[Neobavezna povezana](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) sučelja moraju biti omogućena da bi se omogućio pristup URL-u giphy.
 
 > [!NOTE]
-> Ako je za vašeg gosta konfigurirano više pravila za razmjenu poruka u timu, možete odrediti identitet pravilnika dodijeljenog korisniku koji je napravio pomoću naredbe PowerShell [Get-Csonlineuser-Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Odabir pravilnika TeamsMessagingPolicy.
+> Ako je za klijenta konfigurirano više Teams za razmjenu poruka, možete odrediti identitet pravilnika dodijeljenog korisniku pomoću naredbe PowerShell [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Odaberite TeamsMessagingPolicy.

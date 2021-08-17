@@ -1,5 +1,5 @@
 ---
-title: Upravljanje snimkama sastanka za obrazovanje
+title: Upravljanje snimkama sastanaka za obrazovne ustanove
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: 144480dbed8b74f8b395b6b80c586038a1f12697
-ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
+ms.openlocfilehash: b064c5773a681c1602dc939049d5eb6084fb661906d3a406169c31f313876a6b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48753663"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042262"
 ---
-# <a name="manage-meeting-recordings-for-education"></a>Upravljanje snimkama sastanka za obrazovanje
+# <a name="manage-meeting-recordings-for-education"></a>Upravljanje snimkama sastanaka za obrazovne ustanove
 
-Počevši od **20-tog kolovoza 2020**, kada korisnici s licencama a1 (uključujući a1 plus) počnu snimati sastanke timova, snimka će biti dostupna za 21 dan.
+Od **20. kolovoza 2020.** kada korisnici s licencama A1 (uključujući A1 Plus) započinju snimanje Teams sastanka, snimka je dostupna 21 dan.
 
-Dodatne informacije, uključujući kako spremiti sastanak na drugo mjesto, potražite [u članku prijenos snimke sastanka programa Microsoft timovi na strujanje](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
+Dodatne informacije, uključujući spremanje sastanka na drugo mjesto, potražite u [članku Prijenos snimanje Microsoft Teams sastanka na strujanje](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
 
-Snimanje sastanaka Microsoftova timova sada se može pohraniti na servisu OneDrive u sustavu SharePoint, za dodatne informacije i uključivanje u sljedeći članak u centru za poruke:
+Microsoft Teams Snimanje sastanka sada se može pohraniti u OneDrive SharePoint, dodatne informacije i uključivanje potražite u sljedećoj objavi centra za poruke:
 
-[Ažurirano Microsoftovi timovi: snimke sastanka spremljene na OneDrive i u sustavu SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+[(Ažurirano) Microsoft Teams: snimke sastanaka spremljene u OneDrive i SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-Premještanje mjesta za pohranu na OneDrive i SharePoint uklanja prethodni uvjet da će strujanje biti dostupno u vašoj regiji.
+Premještanjem mjesta za pohranu na OneDrive i SharePoint uklanja se prethodni preduvjet za tok koji je dostupan u vašoj regiji.
 
-Ako tražite kako **blokirati ili omogućiti** studentima da snimaju sastanke u timovima, preporučujemo da koristite pakete pravilnika za sigurnost učenika i učitelja. Dodatne informacije potražite u sljedećim člancima:
+Ako tražite kako blokirati  ili omogućiti učenicima snimanje sastanaka u Teams, preporučujemo da koristite pakete pravilnika za sigurnost učenika i nastavnika. Dodatne informacije potražite u sljedećim člancima:
 
-[Paketi pravilnika u Microsoftovim timovima](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).
+[Paketi pravilnika u Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).
 
-[Pravila koja bi trebala biti dodijeljena za sigurnost učenika](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+[Pravilnike koji bi se trebali dodijeliti za sigurnost učenika](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
 
-[Pravila koja bi trebala biti dodijeljena nastavnicima](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+[Pravilnike koji bi se trebali dodijeliti nastavnicima](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-Ako želite upravljati samo mogućnošću bilježenja sastanaka, pročitajte članak [Uključivanje ili isključivanje snimanja oblaka](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
+Ako želite upravljati samo sposobnošću snimanja sastanaka, pogledajte [uključivanje ili isključivanje snimanja u oblaku](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
 
-**Notes** Ako se niste uključili u pohranu servisa OneDrive u sustavu SharePoint za snimke sastanka timova, te se mogućnosti oslanjaju na raspoloživost strujanja regionalnih i država. Ako ne možete snimiti sastanak, pročitajte članak [u kojim regijama Microsoft Stream hostirati moje podatke u programu?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
+**Napomena** Osim ako ste se odlučili za OneDrive SharePoint pohranu za Teams snimke sastanaka, te se mogućnosti pozivaju na regionalnu dostupnost streama i države. Ako ne možete snimiti sastanak, pogledajte članak U kojim se regijama [Microsoft Stream hosti moji podaci?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
-Dodatne informacije potražite u članku [ažurirana značajka: Microsoft Stream Cloud Recordings za Upravljanje prostorom za pohranu](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
+Dodatne informacije potražite u članku [Ažurirana značajka: Regionalna kontrola pohrane u oblaku](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)servisa Microsoft Stream.

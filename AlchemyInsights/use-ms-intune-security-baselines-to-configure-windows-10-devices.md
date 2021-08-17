@@ -1,5 +1,5 @@
 ---
-title: Konfiguriranje uređaja sa sustavom Windows 10 pomoću Microsoft Intune sigurnosne osnove
+title: Konfiguriranje Microsoft Intune sigurnosnih osnovica za Windows 10 uređaje
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004135"
 - "7211"
-ms.openlocfilehash: 24257f1ac5752df1598d08fcfdb95ee2642adfea
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: a94c6b72df3874ee80413adac86d60306175734b6ff28b2e015e05eec6f3838b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104336"
 ---
-# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Konfiguriranje uređaja sa sustavom Windows 10 pomoću Microsoft Intune sigurnosne osnove
+# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Konfiguriranje Microsoft Intune sigurnosnih osnovica za Windows 10 uređaje
 
-Umetanje sigurnosnih osnovnih stranica olakšava zaštitu korisnika i uređaja. Sigurnosne osnove sustava Windows postavke su prije konfigurirane grupe koje se koriste za primjenu poznate grupe postavki i zadanih vrijednosti koje preporučuje relevantni sigurnosni timovi. Stvaranjem profila sigurnosnog osnovnog sustava u programu Intune stvara se predložak koji se sastoji od više profila za konfiguraciju uređaja.
+Intune sigurnosne osnovne vrijednosti štite korisnike i uređaje. Sigurnosne osnovne vrijednosti Windows unaprijed konfigurirane grupe postavki koje se koriste za primjenu poznate grupe postavki i zadanih vrijednosti koje preporučuju odgovarajući sigurnosni timovi. Stvaranjem sigurnosnog osnovnog profila u aplikaciji Intune stvarate predložak koji se sastoji od više profila konfiguracije uređaja.
 
-Kada implementirate sigurnosne osnovice na grupe korisnika ili uređaja, postavke se primjenjuju na uređaje koji se pokreću u sustavu Windows 10 ili novijim verzijama. Na primjer, MDM sigurnost Baseline automatski (1) omogućuje BitLocker za uklonjive pogone, (2) potrebna je lozinka za otključavanje uređaja i (3) onemogućuje osnovnu provjeru autentičnosti. Kada zadana vrijednost ne funkcionira u vašem okruženju, prilagodite osnovicu da biste primijenili postavke koje su vam potrebne.
+Prilikom implementacije sigurnosnih osnovica grupama korisnika ili uređaja postavke se primjenjuju na uređaje koji se Windows 10 novije verzije. Na primjer, MDM Security Baseline automatski (1) omogućuje BitLocker za uklonjive pogone, (2) zahtijeva lozinku za otključavanje uređaja, a (3) onemogućuje osnovnu provjeru autentičnosti. Kada zadana vrijednost ne funkcionira za vaše okruženje, prilagodite osnovnu vrijednost da biste primijenili potrebne postavke.
 
-Sigurnosni bazelini također pomažu u osnivanju krajnje sigurnog tijeka rada u programu Microsoft 365. Slijede neke prednosti ovog:
+Sigurnosne osnovice pomažu i pri uspostavi sigurnog tijeka rada s kraja na Microsoft 365. U nastavku su neke od prednosti ovog:
 
-- Sigurnosno osnovica obuhvaća najbolje prakse i preporuke za postavke koje utječu na sigurnost. Budući da je Intune Partners s timom za sigurnost sustava Windows koji stvara osnovice za pravila grupe, ove se preporuke temelje na čvrstim smjernicama i opsežnom iskustvu.
-- Ako ste novi u Intune i niste sigurni gdje početi, onda će vam sigurnosne osnove pomoći da brzo stvorite i implementirate siguran profil.
-- Ako trenutno koristite pravilo grupe, zatim Migriranje u potrebe za upravljanjem znatno je jednostavnije uz sigurnosne osnovice, jer su ugrađene u Intune i obuhvaćaju najmodernije mogućnosti za upravljanje.
+- Sigurnosna osnovica obuhvaća najbolje prakse i preporuke za postavke koje utječu na sigurnost. Budući da intune partneri s Windows sigurnosnim timom koji stvaraju osnovne vrijednosti za pravilnike grupe, te se preporuke temelje na čvrstim smjernicama i opsežnom iskustvu.
+- Ako ste novi u programu Intune i niste sigurni gdje početi, sigurnosne osnovne vrijednosti pomoći će vam da brzo stvorite i implementite siguran profil.
+- Ako trenutno koristite pravilnik grupe, migriranje u Intune radi upravljanja mnogo je jednostavnije uz sigurnosne osnovice jer su ugrađene u Intune i obuhvaćaju vrhunske mogućnosti upravljanja.
 
-Dodatne informacije potražite u članku [sigurnosne osnove sustava Windows](https://go.microsoft.com/fwlink/?linkid=2141503) i [Upravljanje mobilnim uređajima](https://go.microsoft.com/fwlink/?linkid=2141701).
+Dodatne informacije potražite u članku [Windows i](https://go.microsoft.com/fwlink/?linkid=2141503) upravljanje [mobilnim uređajima](https://go.microsoft.com/fwlink/?linkid=2141701).

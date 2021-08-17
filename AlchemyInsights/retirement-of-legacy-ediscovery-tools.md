@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 986c78f20e7b8c303c302913d63d817a56ce2896
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2e7f898ac1a9e9469f633192be18e2a3a362023c83c9e510593196b5a4a0daf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51798541"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074641"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Umirovljenje naslijeđenih alata za predočavanje elektroničkih elektroničkih podataka
 
@@ -25,15 +25,15 @@ Zbog nove i poboljšane funkcije predočavanja elektroničkih elektroničkih obv
 
 - [In-Place eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) [and In-Place Holds](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) in the Exchange admin center.
 
-- Cmdleti komponente PowerShell sustava Exchange Online koji podržavaju In-Place predočavanje elektroničkih elektroničkih podataka i In-Place čuvanja. (Ti se cmdleti zajednički identificiraju kao cmdleti za *-MailboxSearch.) To obuhvaća sljedeće cmdlete:
+- Cmdleti Exchange Online komponente PowerShell koji podržavaju In-Place predočavanje elektroničkih In-Place čuvanja. (Ti se cmdleti zajednički identificiraju kao cmdleti za *-MailboxSearch.) To obuhvaća sljedeće cmdlete:
 
     - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
     - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
     - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
     - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- [Cmdlet Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) u ljuski PowerShell sustava Exchange Online.
-- Sljedeće operacije u API-ju za Exchange Web Services:
+- [Cmdlet Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) u Exchange Online PowerShell.
+- Sljedeće operacije u API-ju Exchange web-servisa:
     - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
@@ -47,7 +47,7 @@ Zbog nove i poboljšane funkcije predočavanja elektroničkih elektroničkih obv
 
 **Dodatne informacije potražite u članku**:
 
- - [Migracija naslijeđenih pretraživanja i čuvanja predočavanja elektroničkih elektroničkih obveza u centar za usklađenost sustava Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Migracija naslijeđenih pretraživanja elektroničkih predočavanja elektroničkih elektroničkih podataka i čuvanja na Centar za usklađenost okruženja Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
  - [Umirovljenje naslijeđenih alata za predočavanje elektroničkih elektroničkih podataka](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
  - [Najčešća pitanja o In-Place predočavanja elektroničkih In-Place čuvanja](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
