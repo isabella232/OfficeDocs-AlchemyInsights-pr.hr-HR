@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća vezanih uz jedinstvenu prijavu (SSO) na temelju OIDC-a
+title: Otklanjanje poteškoća s OIDC-om koji se temelje na besprijekornoj jedinstvenoj prijavi (SSO)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9375"
-ms.openlocfilehash: e4ddde6176d9ab021b93e23b3cb363e10b1c1048
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 5880ee37a2fcc98b34231cc9960fb3f87fa184b07bd81ccd37d0ea5a78170af0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743452"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105759"
 ---
-# <a name="troubleshoot-oidc-based-seamless-single-sign-on-sso-issues"></a>Otklanjanje poteškoća vezanih uz jedinstvenu prijavu (SSO) na temelju OIDC-a
+# <a name="troubleshoot-oidc-based-seamless-single-sign-on-sso-issues"></a>Otklanjanje poteškoća s OIDC-om koji se temelje na besprijekornoj jedinstvenoj prijavi (SSO)
 
-- Upute za dodavanje aplikacije temeljene na OIDC-u klijentu za Azure [: postavljanje jedinstvene prijave za aplikaciju OIDC (SSO) u servisu Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-oidc-sso).
-- Dodatne informacije o aplikacijama koje koriste standard OpenID Connect za provedbu jedinstvene prijave potražite u članku [razumijevanje jedinstvene prijave na temelju OIDC-](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-oidc-single-sign-on)a.
-- Informacije u slučaju da odaberete upisivanje koda izravnim slanjem i rukovanjem HTTP zahtjevima ili pomoću biblioteke otvorenog izvornog izvora, a ne pomoću jedne od naših otvorenih izvornih biblioteka, pročitajte članak [OAuth 2,0 i OpenID Connect protokole na Microsoftovoj platformi identiteta](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols).
+- Da biste saznali kako dodati aplikaciju utemeljenu na OIDC-u na klijent azure, pogledajte brzi početak rada: Postavljanje jedinstvene prijave [(SSO) utemeljene na OIDC-u](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-oidc-sso)za aplikaciju u klijentu servisa Azure Active Directory (Azure AD).
+- Dodatne informacije o aplikacijama koje koriste standard OpenID Povezivanje za implementaciju jedinstvene prijave potražite u članku Razumijevanje jedinstvene prijave utemeljene na [OIDC-u](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-oidc-single-sign-on).
+- Informacije u slučaju da odlučite napisati kod izravno slanjem i rukovanjem HTTP zahtjevima ili korištenjem biblioteke otvorenog koda drugih proizvođača, a ne pomoću jedne od naših open-source biblioteka, potražite u članku [OAuth 2.0 i OpenID Povezivanje protokoli](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols)na Microsoftova platforma za identitete .
 
 **Protokoli**
 
-1. [Microsoftova platforma za identifikaciju i implicitni protok potpore](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-implicit-grant-flow) – definiranje karakteristika implicitne potpore jest da se tokeni (ID tokeni ili token programa Access) vraćaju izravno iz krajnje točke/predautorizacije umjesto krajnje točke/tokena. To se često koristi kao dio tijeka koda za autorizaciju, u onome što se zove **"hibridni tijek" – DOHVAĆANJE ID tokena na zahtjev/autorizacija uz autorizaciju**. U ovom se članku opisuje kako programirati izravno prema protokolu u aplikaciji da biste zatražili žetone iz servisa Azure AD.
-2. [Microsoftov identitet Platform i oauth 2,0 status koda za autorizaciju](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) – 2,0 u aplikacijama koje su instalirane na uređaju omogućuju pristup zaštićenim resursima kao što su web-API-jevi za autorizaciju. Pomoću Microsoftove platforme za identitete sustava OAuth 2,0 možete **dodati pristup prijavi i API-ju na mobilne i aplikacije za stolna računala**. U ovom se članku opisuje kako programirati izravno prema protokolu u aplikaciji pomoću bilo kojeg jezika.
-3. [Microsoftov identifikacijski okvir za identifikaciju i protokol OpenID Connect](https://docs.microsoft.com/azure/active-directory/develop/v2-protocols-oidc) -kada koristite implementaciju OpenID-a za Microsoft Identity Platform, možete dodati pristup prijave i API-ja u aplikacije. U ovom se članku pokazuje kako to učiniti nezavisnim jezikom i opisuje kako **slati i primati HTTP poruke bez korištenja bilo koje Microsoftove biblioteke otvorenog izvora**.
-4. [Microsoftova platforma za identifikaciju i tijek vjerodajnica oauth 2,0 Client](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) – možete koristiti dozvolu oauth 2,0 Client vjerodajnice navedene u programu rfc 6749, ponekad se naziva i **dvosmjerna OAuth**, za pristup resursima koje hostira web-mjesto pomoću identiteta aplikacije. Ova vrsta potpore obično se koristi za interakcije poslužitelja s poslužiteljem koje se moraju pokretati u pozadini, bez neposredne interakcije s korisnikom. Te se vrste aplikacija često spominju kao **Daemoni** ili **Računi servisa**. U ovom se članku opisuje kako programirati izravno prema protokolu u aplikaciji.
+1. Microsoftova platforma za identitete i [implicitni](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-implicit-grant-flow) tijek dodjele – definirajući karakterističan implicitni grant jest da se tokeni (ID tokeni ili pristupni tokeni) vraćaju izravno iz krajnje točke /autoriziraj umjesto krajnje točke /tokena. To se često koristi kao dio tijeka koda za autorizaciju, u takozvanom **"hibridnom toku" –** dohvaćanje ID tokena na zahtjevu za autorizaciju uz kod za autorizaciju . U ovom se članku opisuje kako programirati izravno u protokolu u aplikaciji radi zahtjeva za tokenima od servisa Azure AD.
+2. Microsoftova platforma za identitete i [OAuth 2.0 kod](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) za autorizaciju – dodjela koda za autorizaciju za OAuth 2.0 može se koristiti u aplikacijama koje su instalirane na uređaju da bi se pristupio zaštićenim resursima, kao što su WEB API-je. Pomoću Microsoftova platforma za identitete OAuth 2.0 možete dodati prijavu i **pristup API-ju u mobilne i stolne aplikacije.** U ovom se članku opisuje kako programirati izravno u protokolu u aplikaciji na bilo kojem jeziku.
+3. [Microsoftova platforma za identitete i OpenID Povezivanje](https://docs.microsoft.com/azure/active-directory/develop/v2-protocols-oidc) protokol – kada koristite implementaciju programa Microsoftova platforma za identitete OpenID Povezivanje, u aplikacije možete dodati pristup aplikacijama i API-ju. U ovom se članku opisuje kako to učiniti neovisno o jeziku i opisuje kako slati i primati HTTP poruke bez korištenja **microsoftovih biblioteka** otvorenog koda .
+4. Microsoftova platforma za identitete i tijek vjerodajnica klijenta za [OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) – možete koristiti vjerodajnice klijenta OAuth 2.0 navedene u RFC 6749, ponekad zvanom **dvonožni OAuth,** da biste pristupili resursima koje hostira web pomoću identiteta aplikacije. Ta se vrsta dodjele obično koristi za interakcije između poslužitelja i poslužitelja koje se moraju izvoditi u pozadini, bez neposredne interakcije s korisnikom. Te se vrste aplikacija često nazivaju **daemoni** ili računi **servisa**. U ovom se članku opisuje kako programirati izravno u odnosu na protokol u aplikaciji.
