@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976857"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891287"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Prepoznavanje aktivnosti pravila ulazne pošte u zapisnicima nadzora
 
-Pretraživanje zapisnika nadzora možete koristiti u centru za Microsoft 365 sigurnosti & za prikaz događaja pravila ulazne pošte (stvaranje, izmjena i brisanje pravila ulazne pošte).
+Pretraživanje zapisnika nadzora možete koristiti u Centar za usklađenost okruženja Microsoft 365 za prikaz događaja pravila ulazne pošte (stvaranje, izmjena i brisanje pravila ulazne pošte).
 
-1. Prijavite se u [centar za Microsoft 365 usklađenost](https://protection.office.com/).
+1. Učinite nešto od sljedećeg:
+   - U Centar za usklađenost okruženja Microsoft 365 na <https://compliance.microsoft.com> idite na **Nadzor** \> **rješenja**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portalu Microsoft 365 Defender idite <https://security.microsoft.com> na **Nadzor**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://security.microsoft.com/auditlogsearch> .
 
-2. Idite na stranicu **pretraživanje**  >  **zapisnika nadzora pretraživanja.**
+2. Na kartici **Pretraživanje** na **stranici Nadzor** konfigurirajte sljedeće postavke:
+   - **Raspon datuma i vremena:** odaberite raspon datuma/vremena u **okvirima Početak** **i** Kraj.
+   - **Aktivnosti**: odaberite jednu ili više sljedećih vrijednosti:
+     - **Novo-inboxRule Create inbox rule from Outlook Web App**
+     - **Pravilo izmjene pravila za postavljanje ulazne pošte iz Outlook Web App**.
+     - **Ažuriranje pravila ulazne pošte iz Outlook klijenta**
 
-3. Odaberite raspon datuma u poljima **Datum početka** **i Datum** završetka.
+3. Kada završite, kliknite **Pretraživanje**. Aktivnosti se prikazuju na novoj stranici **pretraživanja nadzora.**
 
-4. U **odjeljku Exchange Aktivnosti** poštanskog sandučića provjerite je li polje Aktivnosti postavljeno na **Novo-ulazna poštaRule Stvori/izmijeni/omogući/onemogući pravilo ulazne pošte**. 
+4. Odaberite aktivnost u rezultatima da biste otvorili letak s detaljima. Informacije o postavkama pravila ulazne pošte prikazuju se u **polju** Parametri.
 
-5. Kliknite **Pretraživanje**.
-
-U rezultatima odaberite zapis nadzora. U letci s pojedinostima kliknite **Dodatne informacije**. Informacije o postavkama pravila ulazne pošte prikazuju se u **polju** Parametri.
-
-Dodatne informacije potražite u članku [Utvrđivanje je li korisnik stvorio pravilo ulazne pošte](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Dodatne informacije potražite u članku [Utvrđivanje je li korisnik stvorio pravilo ulazne pošte](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule).

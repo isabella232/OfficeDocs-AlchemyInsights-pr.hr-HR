@@ -1,5 +1,5 @@
 ---
-title: Omogućivanje i onemogućivanje značajke Forms Pro
+title: Omogućivanje i onemogućivanje Pro
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: c4fad42beb2eebd96ee096732a12c206c1d6cbf4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d5a9d06e2fe2f34d26d4fdc5b2e1b3cc40268d9e226cba2f30aae880d941fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057202"
 ---
-# <a name="enable-or-disable-forms-pro"></a>Omogućivanje i onemogućivanje značajke Forms Pro
+# <a name="enable-or-disable-forms-pro"></a>Omogućivanje i onemogućivanje Pro
 
-Microsoft Forms Pro razvio se u Dynamics 365 Customer Voice, pružajući vam dodatne mogućnosti ankete i poslovne prednosti. Dodatne informacije potražite u članku [Resursi pomoći za Dynamics 365 Customer Voice](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
+Microsoft Forms Pro razvio u Dynamics 365 Customer Voice, pružajući vam dodatne mogućnosti ankete i poslovne prednosti. Dodatne informacije potražite u članku [Resursi pomoći za Dynamics 365 Customer Voice](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
 
-Microsoft Forms Pro obuhvaćen je licencom za Dynamics 365 enterprise. Osim toga, administrator može kupiti licencu za Microsoft Forms Pro. Možete i ukloniti licencu za Microsoft Forms Pro od korisnika.  
+Microsoft Forms Pro obuhvaćen je licencom za Dynamics 365 enterprise. Osim toga, administrator može kupiti licencu za Microsoft Forms Pro licencu. Možete i ukloniti licencu za Microsoft Forms Pro iz korisnika.  
 
-Dodatne informacije o licenciranju potražite u članku [Kupnja programa Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) i [Onemogućivanje aplikacije Microsoft Forms Pro za korisnika](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
+Dodatne informacije o licenciranju potražite u članku Kupnja Pro Microsoft [Forms](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) i [Onemogućivanje Pro Microsoft Forms za korisnika](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
   
-Resurse pomoći potražite u članku Otklanjanje [poteškoća u programu Forms Pro](https://docs.microsoft.com/forms-pro/troubleshoot).
+Resurse pomoći potražite u članku Otklanjanje [poteškoća u odjeljku Obrasci Pro](https://docs.microsoft.com/forms-pro/troubleshoot).

@@ -1,5 +1,5 @@
 ---
-title: Testiranje pravilnika o usklađenosti komunikacija
+title: Testiranje pravilnika o usklađenosti komunikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: fba853749d98eb556395c7133555c0b04044c88c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e03f594bde1e12fb606cdb5f51fd98ff028f1a311d901e9f10241b027231c371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081494"
 ---
-# <a name="test-your-communication-compliance-policy"></a>Testiranje pravilnika o usklađenosti komunikacija
+# <a name="test-your-communication-compliance-policy"></a>Testiranje pravilnika o usklađenosti komunikacije
 
-Ovaj korak nije obavezan. Kada stvorite pravilnik o usklađenosti komunikacija, preporučujemo da je testirate da biste bili sigurni da su uvjeti koje ste definirali pravilno primijenili prema pravilima.
+Ovaj korak nije obavezan. Kada stvorite pravilnik o usklađenosti komunikacije, bilo bi dobro da ga testirate da biste bili sigurni da se uvjeti koje ste definirali pravilno primjenjuju pravilnikom.
 
-Možete isprobati i pravila za [prevenciju gubitka podataka (DLP)](https://go.microsoft.com/fwlink/?linkid=2110890) ako pravila usklađivanja s komunikacijom sadrže vrste osjetljivih podataka.
+Možete i testirati [pravilnike o sprječavanju gubitka podataka ako](https://go.microsoft.com/fwlink/?linkid=2110890) vaši pravilniki o usklađenosti s komunikacijom sadrže osjetljive vrste podataka.
 
-Upute potražite u članku [testiranje pravilnika o usklađenosti komunikacija](https://go.microsoft.com/fwlink/?linkid=2111304).
+Upute za to saznajte u članku [Testiranje pravilnika o usklađenosti komunikacije](https://go.microsoft.com/fwlink/?linkid=2111304).
