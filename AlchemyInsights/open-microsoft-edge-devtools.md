@@ -1,5 +1,5 @@
 ---
-title: Otvaranje preglednika Microsoft Edge DevTools
+title: Otvaranje Microsoft Edge DevTools
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,13 +14,13 @@ ms.custom:
 - "7103"
 - "8296"
 - "9004617"
-ms.openlocfilehash: d9ad762c4c5c50990e94212c9bd00d8a5e8e3cf5
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 014f152461fcba169fab80eb7ebaddfe31fcc8dcdc69f945e7ca318bd90a12a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505678"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075428"
 ---
-# <a name="open-microsoft-edge-devtools"></a>Otvaranje preglednika Microsoft Edge DevTools
+# <a name="open-microsoft-edge-devtools"></a>Otvaranje Microsoft Edge DevTools
 
-Budući da korisnici žele brz pristup različitim dijelovima UI-ja DevTools, postoje različiti načini otvaranja [preglednika Microsoft Edge DevTools](https://go.microsoft.com/fwlink/?linkid=2135152).
+Budući da korisnici žele brz pristup različitim dijelovima UI-ja DevTools, postoje različiti načini otvaranja [Microsoft Edge DevTools](https://go.microsoft.com/fwlink/?linkid=2135152).
