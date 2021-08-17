@@ -1,5 +1,5 @@
 ---
-title: Korištenje alata za provjeru spremnosti sustava Office
+title: Korištenje kompleta alata Office spremnosti
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: c38424553f089f80df6d88c3dcca6cb504aa3ffb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa6677c9d811b863462ae720e722735fd544ef568e6e10a95cff35e54948735e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794867"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072908"
 ---
-# <a name="using-the-office-readiness-toolkit"></a>Korištenje alata za provjeru spremnosti sustava Office
+# <a name="using-the-office-readiness-toolkit"></a>Korištenje kompleta alata Office spremnosti
 
-Informacije o korištenju alata za provjeru spremnosti sustava Office potražite u članku [Korištenje alata za spremnost za procjenu kompatibilnosti aplikacija za aplikacije Microsoft 365](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps).
+Informacije o korištenju kompleta alata Office spremnosti potražite u članku Procjena [kompatibilnosti](https://docs.microsoft.com/DeployOffice/readiness-toolkit-application-compatibility-microsoft-365-apps)aplikacija za Microsoft 365 Apps .
 
-Ako imate povratne informacije ili pitanja o priručniku za spremnost, pošaljite nam poruku e-pošte na servisu ReadyForOffice@microsoft.com.
+Ako imate povratne informacije ili pitanja o kompletu alata za spremnost, pošaljite nam poruku e-ReadyForOffice@microsoft.com.

@@ -1,5 +1,5 @@
 ---
-title: Odgoda primitka ažuriranja za aplikacije Microsoft 365 za Enterprise
+title: Odgoda primanja ažuriranja Microsoft 365 Apps za velike tvrtke
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003964"
 - "7020"
-ms.openlocfilehash: 249b28c5917121b7a3665cc2ed1ca5fb8da32bd3
-ms.sourcegitcommit: 91fb078f07e258eb19bf82cbdad4095e62bf77a1
+ms.openlocfilehash: 543abbe20a3aa24476e6a616b29a9be6e952dc116b267b965597006d9413e02c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706564"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102851"
 ---
-# <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>Odgoda primitka ažuriranja za aplikacije Microsoft 365 za Enterprise
+# <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>Odgoda primanja ažuriranja Microsoft 365 Apps za velike tvrtke
 
-Ako imate određene poslovne potrebe za odgađanjem ažuriranja značajki iz kanala Semi-Annual, možete konfigurirati aplikacije da ne primaju ažuriranja značajki, ali i dalje primati najnovije sigurnosne ažuriranja.
+Ako imate određenu tvrtku koja mora odgoditi primanje ažuriranja značajki iz kanala Semi-Annual, aplikacije možete konfigurirati tako da ne primaju ta ažuriranja značajki, ali i dalje primati posljednja sigurnosna ažuriranja.
 
-Dodatne informacije potražite u članku [kašnjenje ažuriranja značajki za Semi-Annual kanala za aplikacije Microsoft 365 za Enterprise](https://go.microsoft.com/fwlink/?linkid=2109533).
+Dodatne informacije potražite u članku [Odgoda primanja ažuriranja značajki Semi-Annual kanala za Microsoft 365 Apps za velike tvrtke](https://go.microsoft.com/fwlink/?linkid=2109533).

@@ -1,5 +1,5 @@
 ---
-title: Prikaz izvješća o aktivnosti i korištenju servisa OneDrive
+title: Prikaz izvješća o OneDrive aktivnosti i korištenju
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: 7f37a4061b9d958c68157281ea65035112bdf618
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: b835fb60c57c51b57b59d6d4bd0d1879f20c2b949d16619a5dcb924d4d66e194
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037312"
 ---
-# <a name="view-reports-on-onedrive-activity-and-usage"></a>Prikaz izvješća o aktivnosti i korištenju servisa OneDrive
+# <a name="view-reports-on-onedrive-activity-and-usage"></a>Prikaz izvješća o OneDrive aktivnosti i korištenju
 
-Otvorite [stranicu izvješća o korištenju u centru za administratore sustava Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). U odjeljku **Odabir izvješća** odaberite aktivnost servisa OneDrive ili izvješće o korištenju.
+Idite na [stranicu Izvješća o korištenju u Centar za administratore okruženja Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). U **odjeljku Odabir izvješća** odaberite OneDrive aktivnosti ili izvješća o korištenju.
 
-Dodatne informacije potražite u članku [o izvješćima sa servisa OneDrive](https://go.microsoft.com/fwlink/?linkid=875239).
+Dodatne informacije potražite u članku [OneDrive izvješća](https://go.microsoft.com/fwlink/?linkid=875239).
