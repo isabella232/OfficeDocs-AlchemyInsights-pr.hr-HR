@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060056"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Pristup bitlocker ključevima za oporavak
 
-Prilikom konfiguriranja postavki značajke Bitlocker Pravilnik o zaštiti krajnjih točaka u sustavu Intune moguće je definirati trebaju li se podaci o oporavku značajke Bitlocker pohraniti na servisu Azure Active Directory.
+Prilikom konfiguriranja postavki značajke Bitlocker Pravilnik o zaštiti krajnjih točaka u sustavu Intune moguće je definirati trebaju li se bitlocker podaci o oporavku pohraniti u Azure Active Directory.
 
 Ako je ta postavka konfigurirana, pohranjeni podaci o oporavku moraju biti vidljivi administratoru aplikacije Intune kao dio podataka zapisa uređaja na oštrici Intune Devices na dva načina:
 
@@ -47,5 +47,5 @@ Ako je uređaj šifriran prije uključivanja u Intune, ključ oporavka možda je
  
 Ako je uređaj šifriran kao rezultat konfiguracije putem pravilnika grupe utemeljenog na domeni, podaci o oporavku mogu se pohraniti u lokalnom servisu Active Directory.
 
-Ako ste konfigurirali pravilnik za zaštitu krajnjih točaka da biste ključ oporavka pohranjili na servisu Azure Active Directory, ali ključ za određeni uređaj nije prenesen, prijenos možete pokrenuti zakretanjem ključa za oporavak za taj uređaj s MEM konzole. Detalje potražite u članku [Rotiranje BitLocker ključeva za oporavak](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
+Ako ste konfigurirali pravilnik zaštite krajnjih točaka da biste ključ oporavka pohranjili u Azure Active Directory, ali ključ za određeni uređaj nije prenesen, prijenos možete pokrenuti zakretanjem ključa za oporavak za taj uređaj s MEM konzole. Detalje potražite u članku [Rotiranje BitLocker ključeva za oporavak](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
 

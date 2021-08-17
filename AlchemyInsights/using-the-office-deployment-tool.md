@@ -1,5 +1,5 @@
 ---
-title: Korištenje alata za implementaciju sustava Office
+title: Korištenje alata Office implementacije
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,31 +12,31 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 39a011d4b121492d222ff620e70d9860231b7bcfe0d7fd2ecfd93de1ef502f5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083762"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Korištenje alata za implementaciju sustava Office (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Korištenje alata Office implementacije (ODT)
 
-Pomoću alata za implementaciju sustava Office (ODT) možete implementirati verzije sustava Office 365 u sustavu Office. Alat za implementaciju sustava Office (setupodt.exe) pokreće se iz naredbenog retka i koristi konfiguracijsku XML datoteku da bi ustanovio koje se postavke primjenjuju pri implementaciji sustava Office.
+Koristite alat za Office implementaciju (ODT) za implementaciju Office 365 verzija Office. Alat Office implementacije (setup.exe) pokrenuti će se iz naredbenog retka i koristi konfiguracijsku XML datoteku da bi se utvrdilo koje se postavke primjenjuju prilikom implementacije Office.
   
-1. Preuzmite najnoviju verziju alata za implementaciju sustava Office iz [Microsoftova centra za preuzimanje](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Preuzmite najnoviju verziju alata za implementaciju Office iz Microsoftova [centra za preuzimanje](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. Koristite [alat za prilagodbu sustava Office (Oct)](https://config.office.com) da biste odabrali svoje postavke implementacije i stvorili KONFIGURACIJSKU XML datoteku. Izvezite konfiguracijsku datoteku i postavite je lokalno na istu mapu u kojoj se nalazi setupodt.exe.
+2. Pomoću [alata Office prilagodbe (OCT)](https://config.office.com) odaberite postavke implementacije i stvorite konfiguracijsku XML datoteku. Izvezite konfiguracijsku datoteku i postavite je lokalno u istu mapu u kojoj setup.exe nalazi.
 
-    **Upozorenje:** Problemi s instalacijom sustava Office obično se javljaju zbog pogrešnih konfiguriranih ili neoblikovanih konfiguracijskih datoteka. Da biste izbjegli takve probleme, preporučujemo da stvorite konfiguracijsku datoteku pomoću alata za prilagodbu sustava Office. Postojeće konfiguracijske datoteke možete uvesti i u alat za prilagodbu sustava Office.
+    **Napomena:** Office se problemi s instalacijom najčešće pojavljuju zbog pogrešno konfiguriranih ili pogrešno oblikovanih konfiguracijskih datoteka. Da biste izbjegli takve probleme, preporučujemo da pomoću alata za Office za prilagodbu stvorite konfiguracijsku datoteku. Postojeće konfiguracijske datoteke možete uvesti i u alat za Office prilagodbe.
 
-3. Iz povišenog naredbenog upita prijeđite na mjesto na kojem setupodt.exe boravi i pokrenite alat za implementaciju sustava Office u načinu rada za preuzimanje i navedite konfiguracijsku datoteku koju ste upravo spremili. U ovom primjeru konfiguracijska datoteka naziva se Configuration.xml:
+3. Iz povišenog naredbenog retka prijeđite na mjesto na kojem se setup.exe nalazi i pokrenite alat za implementaciju Office u načinu rada za preuzimanje i navedite konfiguracijsku datoteku koju ste upravo spremili. U ovom se primjeru konfiguracijska datoteka naziva Configuration.xml:
 
-```setupodt.exe /download Configuration.xml```
+```setup.exe /download Configuration.xml```
 
-4. pokrenite alat za implementaciju sustava Office u modulu Konfiguriraj i navedite konfiguracijsku datoteku.
+4.Pokrenite alat Office implementacije u načinu konfiguriranja i odredite konfiguracijsku datoteku.
 
-```setupodt.exe /configure Configuration.xml```
+```setup.exe /configure Configuration.xml```
 
-**Upozorenje:** Ovaj korak morate pokrenuti na klijentskom računalu na kojem želite instalirati Office, a na tom računalu morate imati lokalne administratorske dozvole.
+**Napomena:** Taj korak morate pokrenuti s klijentskog računala na koje želite instalirati Office morate imati dozvole lokalnog administratora na tom računalu.
 
-Dodatne informacije o korištenju alata za implementaciju sustava Office za aplikacije Microsoft 365 za scenarije implementacije poduzeća potražite [u članku pregled alata za implementaciju sustava Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Dodatne informacije o korištenju alata za prilagodbu sustava Office potražite [u članku pregled alata za prilagodbu sustava Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Dodatne informacije o korištenju alata Office implementacije za scenarije implementacije sustava Microsoft 365 Apps za velike tvrtke potražite u [članku Pregled alata Office implementacije](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Dodatne informacije o tome kako koristiti alat za Office prilagodbe potražite u [članku Pregled alata za Office prilagodbe](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

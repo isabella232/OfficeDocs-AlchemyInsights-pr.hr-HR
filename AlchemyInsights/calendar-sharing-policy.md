@@ -1,5 +1,5 @@
 ---
-title: 618 pravilnik za zajedničko korištenje kalendara
+title: Pravilnik o zajedničkom korištenju kalendara 618
 ms.author: chrisda
 author: chrisda
 manager: scotv
@@ -15,27 +15,27 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f1bfb0273301c05f5fe5f8af5fb9039328390d16305e33897680dce1c1977e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684222"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091588"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Pogreška pravilnika prilikom zajedničkog korištenja kalendara
 
-1. Učinite nešto od sljedećeg, ovisno o vašoj situaciji:
-    - Povežite se sa sustavom Exchange Online pomoću udaljene komponente PowerShell. Dodatne informacije potražite u članku [Povezivanje sa sustavom Exchange Online pomoću udaljene komponente PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
-    - Na lokalnom poslužitelju otvorite ljusku za upravljanje sustavom Exchange.
-2. Odredite pravilnik o podjeli koji je dodijeljen korisniku. Da biste to učinili, pokrenite sljedeću naredbu i obratite pozornost na povratak pravilnika:
+1. Učinite nešto od sljedećeg, prema potrebi za svoju situaciju:
+    - Povezivanje se Exchange Online pomoću komponente Remote PowerShell. Dodatne informacije potražite u [članku Povezivanje Exchange Online udaljene ljuske PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
+    - Na lokalnom poslužitelju otvorite ljusku Exchange Management Shell.
+2. Odredite pravilnik za zajedničko korištenje koji je dodijeljen korisniku. Da biste to učiniti, pokrenite sljedeću naredbu i zabilježite vraćeni pravilnik:
 
     `
     Get-Mailbox User1 | fl *sharing*
     `
 
-3. Ažuriranje pravilnika za zajedničko korištenje korisnika. Da biste to učinili, slijedite ove korake:
-    - Otvorite centar za administratore sustava Exchange.
-    - Kliknite **tvrtka ili ustanova**, a zatim dvokliknite pravilo dodijeljeno korisniku u odjeljku **individualno zajedničko korištenje**. Ovo je pravilo koje je vraćeno u drugom koraku.
-    - Na stranici pravilo zajedničkog korištenja odaberite razinu zajedničkog korištenja kalendara koju želite dopustiti u odjeljku **Navedite informacije koje želite zajednički koristiti**; kliknite **Spremi**.
+3. Ažurirajte pravilnik o zajedničkom korištenju za korisnika. Da biste to učiniti, slijedite ove korake:
+    - Otvorite centar Exchange administratora.
+    - Kliknite **Tvrtka ili** ustanova , a zatim dvokliknite pravilnik dodijeljen korisniku u odjeljku Pojedinačno zajedničko **korištenje**. To je pravilnik koji je vraćen u 2. koraku.
+    - Na stranici Pravilo zajedničkog korištenja odaberite razinu zajedničkog korištenja kalendara koju želite dopustiti u odjeljku **Navedite koje podatke želite zajednički koristiti;** kliknite **Spremi**.
 
-Dodatne informacije potražite u članku: ["pravilo ne dopušta dodjeljivanje dozvola na ovoj razini jednom ili više primatelja (s)" kada korisnik pokuša zajednički koristiti kalendar](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).
+Dodatne informacije potražite u članku: [pogreška "Pravilnik](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue)ne dopušta dodjelu dozvola na ovoj razini jednom ili više primatelja" kada korisnik pokuša zajednički koristiti kalendar .
