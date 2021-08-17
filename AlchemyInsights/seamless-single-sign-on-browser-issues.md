@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća s neprimjetnim pitanjima jedinstvene prijave (SSO)
+title: Otklanjanje poteškoća s besprijekornom jedinstvenom prijavom (SSO- om) u pregledniku
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50692772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074276"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Otklanjanje poteškoća s neprimjetnim pitanjima jedinstvene prijave (SSO)
+# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Otklanjanje poteškoća s besprijekornom jedinstvenom prijavom (SSO- om) u pregledniku
 
-Većina korisnika može riješiti svoj neprimjetan problem sa SSO preglednikom pomoću koraka u nastavku:
+Većina korisnika može riješiti problem s besprijekornim SSO preglednikom pomoću sljedećih koraka:
 
-1. Provjerite je li preglednik ažuriran.
-2. Izbrišite kolačiće iz preglednika da biste uklonili nevaljanu SSO sesiju i ponovno se pokušajte prijaviti.
+1. Provjerite je li preglednik auteran.
+2. Izbrišite kolačiće iz preglednika da biste uklonili sesiju SSO-a koja nije valjana i pokušajte se ponovno prijaviti.
 3. Pokušajte se prijaviti pomoću drugog preglednika.
 
 **Poznati problemi s preglednikom**
 
-- Neprimjetni SSO ne funkcionira u privatnom načinu pregledavanja na servisu Firefox.
-- Neprimjetni SSO ne funkcionira u pregledniku Internet Explorer kada je uključen poboljšani zaštićeni način rada.
-- Neprimjetni SSO ne funkcionira u načinu privatnog pregledavanja u pregledniku Microsoft Edge (nasljeđe).
-- Neprimjetni SSO ne funkcionira na mobilnim preglednicima na sustavima iOS i Android.
+- Besprijekorna SSO ne funkcionira u privatnom načinu pregledavanja u pregledniku Firefox.
+- Besprijekorna SSO ne funkcionira u pregledniku Internet Explorer kada je uključen poboljšani zaštićeni način rada.
+- Besprijekorna SSO ne funkcionira u privatnom načinu pregledavanja na Microsoft Edge (naslijeđe).
+- Besprijekorna SSO ne funkcionira u mobilnim preglednicima u aplikacijama iOS i Android.
 
-Neprimjetni SSO podržava sljedeću verziju sustava Microsoft Edge na temelju Chromija i funkcionira u pregledniku InPrivate i u načinu rada za goste pomoću dizajna.
+Besprijekorna SSO podržava sljedeću verziju Microsoft Edge na temelju Chromium i funkcionira u načinu inPrivate i Guest mode po dizajnu.
 
-**Savjetodavni**
+**Advisory**
 
-Da biste unijeli zahtjeve za značajku ili postavljajte tehnička pitanja o Bešavnu SSO, pročitajte članak [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
+Da biste postavljali zahtjeve za značajku ili postavljali tehnička pitanja o besprijekornom SSO-u, pogledajte [Microsoftovu&pitanja](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)

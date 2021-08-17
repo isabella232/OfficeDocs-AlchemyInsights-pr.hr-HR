@@ -1,5 +1,5 @@
 ---
-title: 9001220 mdatp Napredno lov na zajedničke upite
+title: 9001220 mdatp advanced hunting shared queries
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299700"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042112"
 ---
-# <a name="sharing-advanced-hunting-queries"></a>Zajedničko korištenje naprednih lovnih upita
+# <a name="sharing-advanced-hunting-queries"></a>Zajedničko korištenje naprednih upita za lov
 
-Napredni upiti za lov mogu se zajednički koristiti među korisnicima u istoj tvrtki ili ustanovi. Možete pronaći i upite koji se javno dijele na programu GitHub. Ovi upiti omogućuju vam da brzo slijedite određene scenarije za lov na prijetnje bez potrebe za pisanjem upita od početka.
+Napredni se upiti za lov mogu zajednički koristiti među korisnicima u istoj tvrtki ili ustanovi. Upite koji se zajednički zajednički koriste možete pronaći i na web-mjestu GitHub. Ti vam upiti mogu brzo slijediti određene scenarije lova na prijetnje bez potrebe za pisanjem upita od nule.
   
-Pojedinosti potražite u članku [Korištenje zajedničkih upita u naprednom lovu](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+Detalje potražite u članku [Korištenje zajedničkih upita u naprednom lovu](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).

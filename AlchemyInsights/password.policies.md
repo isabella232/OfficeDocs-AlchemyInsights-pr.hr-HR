@@ -1,5 +1,5 @@
 ---
-title: Pravila lozinke
+title: Pravilnik za lozinke
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "9277"
-ms.openlocfilehash: 826e266d08aa68c0d4213d8058a0244f404fe965
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 12751288d04a2ec5993bf4a546b7d0c862f8f171f5bfd7a337cb79cb95792056
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743440"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040822"
 ---
-# <a name="password-policies"></a>Pravila lozinke
+# <a name="password-policies"></a>Pravilnik za lozinke
 
-**Imam problema s pravilima o lozinkama za korisnika**
+**Imam problema s pravilnikom o lozinkama za korisnika**
 
-- Pravilnik o lozinci za korisnika ovisi o tome je li korisnik samo oblak ili lokalni.
-- U oblaku samo korisnici moraju odabrati lozinku koja zadovoljava preduvjete u ovom članku: [pravila lozinke koja se primjenjuju samo na korisničke račune u oblaku](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#password-policies-that-only-apply-to-cloud-user-accounts)
+- Pravilnik za lozinke za korisnika ovisi o tome je li korisnik samo u oblaku ili lokalno.
+- Samo korisnici u oblaku moraju odabrati lozinku koja zadovoljava preduvjete u ovom članku: pravilnike za lozinke [koji se odnose samo na korisničke](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#password-policies-that-only-apply-to-cloud-user-accounts) račune u oblaku
 - Lokalni korisnici moraju odabrati lozinku koja zadovoljava lokalne preduvjete. Ako lokalni korisnik ne može postaviti lozinku, provjerite lokalne preduvjete.
 
-**Ne znam kako postaviti ili provjeriti pravila isteka lozinke**
+**Ne znam kako postaviti ili provjeriti pravilnike o isteku lozinke**
 
-- Možete postaviti i provjeriti pravilnik o isteku za korisnike oblaka u svom zakupcu pomoću komponente PowerShell. Slijedite upute u ovom članku: [Postavljanje ili provjera pravilnika o lozinci pomoću komponente PowerShell](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#set-or-check-the-password-policies-by-using-powershell)
-- Pravilnik o isteku lozinke za lokalne korisnike postavljen je u lokalnom OGLASU.
+- Pomoću komponente PowerShell možete postaviti i provjeriti pravilnik o isteku za korisnike u oblaku na klijentu. Slijedite upute u ovom članku: [Postavljanje ili provjera pravilnika za lozinke pomoću komponente PowerShell](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#set-or-check-the-password-policies-by-using-powershell)
+- Pravilnik o isteku lozinke za lokalne korisnike postavljen je u lokalnom AD-u.
 
 **Ostale korisne veze:**
-- [Početak rada s resetiranju lozinke](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#set-or-check-the-password-policies-by-using-powershell)
-- [Otklanjanje poteškoća s inicijalima administratora koji je pokrenuo lozinku](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshoot-the-password-reset-portal)
+- [Početak rada s vraćanjem izvorne lozinke](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#set-or-check-the-password-policies-by-using-powershell)
+- [Otklanjanje poteškoća s vraćanjem izvorne lozinke koju je pokrenuo administrator](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshoot-the-password-reset-portal)
