@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: bf7b6763111c92ab9b01d991a8c9598890fb973e04e66a24b1f21863e11e2d91
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313419"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895075"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Postavljanje pravilnika za zaštitu od krađe identiteta u programu Microsoft Defender za Office 365
 
-1. Na portalu Microsoft 365 Defender na e-pošti idite <https://security.microsoft.com/> **na e-&** pravila suradnje & pravila za zaštitu od krađe \>  \>  \> **identiteta** u **odjeljku Pravila.**
+1. Na portalu Microsoft 365 Defender u odjeljku E-pošta & pravila suradnje & Pravila prijetnji u odjeljku Pravila za zaštitu od krađe <https://security.microsoft.com/>  \>  \>  \>  **identiteta.**
 
    Da biste se izravno idite na stranicu **protiv krađe identiteta,** koristite <https://security.microsoft.com/antiphishing> .
 

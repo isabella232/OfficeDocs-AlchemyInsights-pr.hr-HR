@@ -1,5 +1,5 @@
 ---
-title: Razine dozvola sustava SharePoint Online
+title: SharePoint Razine dozvola na mreži
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 3657a3f01b362fbe8877c342ec59f10b9a1b63ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13f71d0eac4a1895061b75968437fe32e4f5f9109ab9c9f0edfe371d7d0c995c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085148"
 ---
-# <a name="sharepoint-online-permission-levels"></a>Razine dozvola sustava SharePoint Online
+# <a name="sharepoint-online-permission-levels"></a>SharePoint Razine dozvola na mreži
 
-SharePoint sadrži neke zadane razine dozvola koje možete koristiti, kao što su doprinos i samo prikaz. Ako ne zadovoljavaju vaše potrebe, možete stvoriti dodatne razine dozvola. Jednostavnije je pratiti dozvole ako ne uređujete ili ne izbrišete zadane razine, a ako dodate osobe u grupe i dodijelite razine dozvola tim grupama umjesto da dodijelite razine dozvola pojedinačnim korisnicima.
+SharePoint s nekim zadanim razinama dozvola koje možete koristiti, kao što su Doprinos i Samo prikaz. Ako ne zadovoljavaju vaše potrebe, možete stvoriti dodatne razine dozvola. Dozvole je najjednostavnije pratiti ako ne uređujete ili ne brišete zadane razine te ako dodajete osobe u grupe i dodjeljujete razine dozvola tim grupama umjesto dodjele razina dozvola pojedinačnim korisnicima.
   
-- [Razine dozvola za razumijevanje](https://go.microsoft.com/fwlink/?linkid=867071)
+- [Objašnjenje razina dozvola](https://go.microsoft.com/fwlink/?linkid=867071)
     
 - [Stvaranje i uređivanje razina dozvola](https://go.microsoft.com/fwlink/?linkid=867072)
     

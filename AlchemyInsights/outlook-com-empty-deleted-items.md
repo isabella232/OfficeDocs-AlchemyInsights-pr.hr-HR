@@ -1,5 +1,5 @@
 ---
-title: Pražnjenje mape Izbrisane stavke u Outlook.com
+title: Pražnjenje mape Izbrisane stavke na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672444"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111788"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Pražnjenje mape Izbrisane stavke
 
-1. Otvorite mapu Izbrisane stavke, a zatim odaberite **prazna mapa**.
-2. Odaberite **stavke koje se mogu oporaviti** pri vrhu stranice, a zatim ponovno odaberite **Isprazni mapu** .
+1. Otvorite mapu Izbrisane stavke i **odaberite Isprazni mapu**.
+2. Pri **vrhu stranice odaberite** Stavke koje se mogu oporaviti, a zatim **ponovno isprazni mapu.**
 
 **Nije moguće isprazniti mapu Izbrisane stavke**
 
-- Ako ste izbrisali puno e-pošte, moguće je da se te stavke presele u mapu Izbrisane stavke ili brišu iz nje. Ostavite prozor preglednika otvoren dok se brisanje odvija.
-- Ako se e-pošta i dalje ne briše pravilno, odaberite manju grupu za brisanje.
-- Ako se izbrisane poruke e-pošte vraćaju, to bi moglo biti zato što ste nedavno izbrisali puno e-pošte. Pokušajte ponovno kasnije.
+- Ako ste izbrisali mnogo poruka e-pošte, možda će trebati neko vrijeme da se te stavke premještaju u mapu Izbrisane stavke ili ih se iz njih izbriše. Ostavite prozor preglednika otvoren dok se brisanje odvija.
+- Ako se poruka e-pošte i dalje pravilno ne izbriše, odaberite manju skupu koju želite izbrisati.
+- Ako se izbrisana e-pošta vrati, to može biti zato što ste nedavno izbrisali mnogo poruka e-pošte. Pokušajte ponovno kasnije.

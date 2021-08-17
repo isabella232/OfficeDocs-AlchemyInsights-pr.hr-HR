@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c93f281d8d9a19eb31df7c265a963e93089a0ef5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081818"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314800"
 ---
 # <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Pregled statusa slanja poruke e-pošte, URL-a ili privitka
 
@@ -25,5 +25,4 @@ Nakon slanja poruke e-pošte, URL-a ili privitka možete provjeriti status i rez
 
 Na stranici će se vidjeti tijek slanja, a možete i detaljno detaljno proućiti prethodne podneske da biste vidjeli pojedinosti o poslanju i rezultatima.
 
-> [!NOTE]
-> Kada pošaljete stavku pomoću eksplorera za podneske, rezultati mogu potrajati nekoliko minuta.
+**Napomena:** kada pošaljete stavku pomoću eksplorera za podneske, rezultati mogu potrajati nekoliko minuta.

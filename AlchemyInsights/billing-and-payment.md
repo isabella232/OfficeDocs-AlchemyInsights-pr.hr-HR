@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893047"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314908"
 ---
 # <a name="billing-and-payment"></a>Naplata i plaćanje
 
@@ -46,8 +46,7 @@ Ako ste dodali novu karticu i i dalje primate obavijest o odbijanju na staroj kr
 
 4. Da biste koristili postojeći način plaćanja, odaberite jedan s padajućeg popisa, a zatim odaberite **Zamijeni**.
 
-    > [!NOTE]
-    > Ako imate pretplate povezane s profilom za naplatu, možete ih platiti samo kreditnom ili debitnom karticom. Ako imate bankovne račune navedene na **stranici** Načini plaćanja, oni nisu dostupni za odabir na padajućem popisu.
+    **Napomena:** ako imate pretplate povezane s profilom za naplatu, možete ih platiti samo kreditnom ili debitnom karticom. Ako imate bankovne račune navedene na **stranici** Načini plaćanja, oni nisu dostupni za odabir na padajućem popisu.
 
 5. Da biste dodali novi način plaćanja, **odaberite Dodaj način plaćanja**.
 

@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8024"
 - "9004430"
-ms.openlocfilehash: d4a8ad11054e16f0b8c7c85995d4fc6b1500ff7e0fb28f9fc495b7cff07dbb2e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea38a6d4a093c3908b8987988746c2f49f052df320ca0a327446435389a90ce9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53995542"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896183"
 ---
 # <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Konfiguriranje postavki proxyja u programu Microsoft Edge
 
-U Microsoft Edge 77 i novijoj verziji mrežni snop po zadanom koristi mrežne postavke sustava. U hibridnim scenarijima u kojima korisnici zatraži alternativu, Microsoft Edge podržava mogućnosti naredbenog retka za konfiguriranje prilagođenih postavki proxyja. 
+U Microsoft Edge verzijama 77 i novijim verzijama mrežni snop po zadanom koristi mrežne postavke sustava. U hibridnim scenarijima u kojima korisnici zatraži alternativu, Microsoft Edge podržava mogućnosti naredbenog retka za konfiguriranje prilagođenih postavki proxyja. 
 
 Detalje potražite u sljedećem članku:
 
-- [Postavke mreže sustava](/deployedge/edge-learnmore-cmdline-options-proxy-settings#system-network-settings)
-- [Mogućnosti naredbenog retka za postavke proxyja](/deployedge/edge-learnmore-cmdline-options-proxy-settings#system-network-settings)
+- [Postavke mreže sustava](https://docs.microsoft.com/deployedge/edge-learnmore-cmdline-options-proxy-settings#system-network-settings)
+- [Mogućnosti naredbenog retka za postavke proxyja](https://docs.microsoft.com/deployedge/edge-learnmore-cmdline-options-proxy-settings#system-network-settings)
 - [Napredne postavke konfiguracije i druge mogućnosti](https://go.microsoft.com/fwlink/?linkid=2134293)
-- [Chrome SameSite cookie behavior](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [Chrome SameSite cookie behavior](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
