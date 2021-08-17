@@ -1,5 +1,5 @@
 ---
-title: Sigurni pošiljatelji za 8000089 Outlook.com
+title: 8000089 Outlook.com Sef pošiljatelji
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 473259594605dfb88885e2176086cd6df1c5ea03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2235a7ae246122b62e77adf34a0d022e3137cb8d4d2edb7d5b5db4d78bc42e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111392"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Sprječavanje prelaska poruka u mapu Bezvrijedna e-pošta
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Zaustavljanje ulaska poruka u mapu Bezvrijedna e-pošta
 
-Postoje trenuci kada ne želite da poruke određene osobe ili domene završe u mapi Bezvrijedna e-pošta u sustavu Outlook.com. Poruke s adresa ili domena na popisu sigurnih pošiljatelja neće se premjestiti u mapu Bezvrijedna e-pošta.
+Ponekad ne želite da poruke određene osobe ili domene završavaju u mapi Bezvrijedna e-pošta na Outlook.com. Poruke s adresa ili domena na popisu sigurnih pošiljatelja neće se premjestiti u mapu Bezvrijedna e-pošta.
 
-1. Otvorite [Postavke sigurnih pošiljatelja](https://go.microsoft.com/fwlink/?linkid=2035804).
-2. U odjeljku **Sigurni pošiljatelji i domene**unesite adresu e-pošte ili domenu koju želite dodati, a zatim odaberite **Dodaj**.
-3. Da biste na sigurne pošiljatelje dodali popis za slanje e-pošte, unesite popis mailing u odjeljku **sigurne popise za slanje e-pošte** pa odaberite **Dodaj**.
+1. Otvorite postavke [Sef pošiljatelja](https://go.microsoft.com/fwlink/?linkid=2035804).
+2. U **Sef pošiljatelja i domena unesite** adresu e-pošte ili domenu koju želite dodati, a zatim odaberite **Dodaj**.
+3. Da biste popis za slanje e-pošte dodali sigurnim pošiljateljima, unesite popis za slanje **e-pošte u Sef popisa za slanje e-pošte** pa **odaberite Dodaj**.
 4. Odaberite **Spremi**.
 
-Pročitajte više u odjeljku [blokiranje i deblokiranje pošiljatelja u Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Dodatne informacije potražite na [web-mjestu Blokiraj ili deblokiraj pošiljatelje na Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
