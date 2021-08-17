@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481161"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893583"
 ---
 # <a name="retrieve-the-audit-logs"></a>Dohvaćanje zapisnika nadzora
 
-Kada prvi put otvorite zapisnik nadzora, bit će prazan. Da biste vidjeli što je tu, morate pretražiti. Slijede upute za opću pretragu za sve aktivnosti:
+Kada prvi put otvorite zapisnik nadzora, on će biti prazan. Da biste vidjeli što se tamo može vidjeti, morate pretražiti. Evo kako općenito pretraživati sve aktivnosti:
 
-1. Idite na [stranicu pretraživanja zapisnika nadzora](https://protection.office.com/#/unifiedauditlog) (ili se pomaknite do sigurnosnog centra za **administratore** sustava  >  **&** za  >  **Pretraživanje & istraživanje**  >  **zapisnika nadzora**).
-1. U okviru **aktivnosti** prihvatite zadanu vrijednost, **Prikažite rezultate za sve aktivnosti**.
-1. Navedite raspon datuma, a zatim u okviru **korisnici** prihvatite zadanu vrijednost da biste vratili rezultate za sve korisnike ili odaberite korisničko ime za korisnika koje želite istražiti.
-1. Kliknite **Pretraživanje**. Aktivnosti se prikazuju u odjeljku **Rezultati**.
-1. Da biste pogledali detalje, kliknite aktivnost, a zatim **Dodatne informacije**. Prikazat će vam se dodatne informacije kao što su klijent, korisnik koji je izvršio akciju, itd.
+1. Učinite jednu od sljedećih akcija:
+   - U Centar za usklađenost okruženja Microsoft 365 na <https://compliance.microsoft.com> idite na **Nadzor** \> **rješenja**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portalu Microsoft 365 Defender idite <https://security.microsoft.com> na **Nadzor**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://security.microsoft.com/auditlogsearch> .
+
+2. Na kartici **Pretraživanje** na **stranici Nadzor** konfigurirajte sljedeće postavke:
+   - **Raspon datuma i vremena:** odaberite raspon datuma/vremena u **okvirima Početak** **i** Kraj.
+   - **Aktivnosti**: **odabrana je provjera prikaži rezultate za** sve aktivnosti.
+   - **Korisnici:** prihvatite praznu zadanu vrijednost da biste vratili rezultate za sve korisnike ili unesite jednog ili više korisnika.
+
+3. Kada završite, kliknite **Pretraživanje**. Aktivnosti se prikazuju na novoj stranici **pretraživanja nadzora.**
+
+4. Odaberite aktivnost u rezultatima da biste otvorili letak s detaljima. Vidjet ćete dodatne informacije kao što su Klijent, Korisnik koji je izveo akciju itd.
+
+Dodatne informacije potražite u članku Pretraživanje [zapisnika nadzora da biste istražili uobičajene probleme s podrškom](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios).
