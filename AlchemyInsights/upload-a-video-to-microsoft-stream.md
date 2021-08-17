@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: dcc58d836978a8d1a9cb30bea811c95011bd14bc915e07e64f65ed8e64a67b7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 75f0ac3e6830bd85bfe23eb30f29e03e1ae47652afc185705e50341151cad4ec
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54073376"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899152"
 ---
 # <a name="upload-a-video-to-microsoft-stream"></a>Prijenos videozapis u Microsoft Stream
 
 Prijenos videozapisa pomoću servisa Microsoft Stream jednostavan je i svatko to može učiniti.
 
-- [Prijenos videozapisa](/stream/portal-upload-video)
+- [Prijenos videozapisa](https://docs.microsoft.com/stream/portal-upload-video)

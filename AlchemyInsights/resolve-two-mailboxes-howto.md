@@ -1,5 +1,5 @@
 ---
-title: 1374 rješavanje dvaju poštanskih sandučića Howto-a
+title: 1374 Rješavanje načina rješavanja dvaju poštanskih sandučića
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720890"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110060"
 ---
-# <a name="a-user-has-two-mailboxes"></a>Korisnik ima dva poštanskih sandučića
+# <a name="a-user-has-two-mailboxes"></a>Korisnik ima dva poštanska sandučića
 
-Hibridna okruženja koje koriste Azure Active Directory Connect (AAD Connect) ili DirSync mogu slučajno prouzročiti da korisnik ima dva poštanskog sandučića: jedan lokalni i jedan u oblaku. Duplikat poštanskog sandučića može biti stvoren na bilo kojem mjestu.
+Hibridna okruženja koja koriste Azure Active Directory Povezivanje (AAD Povezivanje) ili DirSync mogu slučajno uzrokovati da korisnik ima dva poštanska sandučića: jedan lokalni i jedan u oblaku. Duplicirani poštanski sandučić može se stvoriti na bilo kojem mjestu.
 
-Da biste riješili taj problem, pročitajte članak [kako se oporaviti kada poštanski sandučić postoji u sustavu Exchange Online i lokalno](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Ako želite doznati više o tome kako to izbjeći u budućnosti, pročitajte članak [moj korisnik sadrži poštanski sandučić i lokalno i u sustavu Exchange Online. Pomoć!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Da biste riješili taj problem, pogledajte upute za [oporavak poštanskog](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises)sandučića u Exchange Online i lokalno . Ako želite saznati više o tome kako to izbjeći u budućnosti, pogledajte u članku Moj korisnik ima poštanski sandučić i lokalni i [u Exchange Online. Pomoć!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

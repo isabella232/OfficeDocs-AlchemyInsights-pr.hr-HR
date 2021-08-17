@@ -1,5 +1,5 @@
 ---
-title: Praćenje ili poništavanje praćenja web-mjesta sustava SharePoint
+title: Praćenje web-mjesta SharePoint un-follow
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 077a72c56e8adc4617efe2d98e11069684c2f4227e2590144017be30fb19548e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744404"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116972"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Praćenje ili poništavanje praćenja web-mjesta sustava SharePoint
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Praćenje web-mjesta SharePoint un-follow
 
-Ako korisnici imaju problema s sljedećim ili neizvršenim resursima sustava SharePoint, dovršite ove korake:
+Ako korisnici nailazi na probleme koji slijede ili ne slijede SharePoint resursa, učinite sljedeće:
 
-* Zatražite od korisnika da se odjavi i ponovno prijavi u SharePoint i pokušate poduzeti iste korake da biste pratili/poništili praćenje resursa sustava SharePoint.
-* Određivanje je li problem s određenim web-mjestom ili svim web-mjestima. Ako se problem pojavljuje s određenim web-mjestima, provjerite je li značajka "sljedeći sadržaj" aktivna za web-mjesto tako da otvorite **Postavke web-mjesta > upravljanje značajkama web-mjesta > sljedećim sadržajem**. Ako je značajka postavljena na aktivno, pokušajte ponovno deaktivirati i aktivirati značajku za web-mjesto.
-* Zatražite od korisnika da pokuša neki drugi internetski preglednik da biste vidjeli je li problem specifičan za korisnički preglednik.
-* Ako svi korisnici i sva web-mjesta utječu na isti problem, potražite na [nadzornoj ploči zdravstvene zaštite servisa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste provjerili je li vaša tvrtka ili ustanova utjecala na nju.
+* Zatražite od korisnika da se odjavi i ponovno se prijavi u SharePoint da biste isprobali iste korake da biste slijedili/otkačili SharePoint resursa.
+* Odredite je li problem s određenim web-mjestom ili svim web-mjestima. Ako se problem pojavljuje s određenim web-mjestima, provjerite je li značajka "Sljedeći sadržaj" aktivna za web-mjesto tako da e-Postavke > upravljanje značajkama **web-mjesta > nakon sadržaja.** Ako je značajka postavljena na Aktivno, pokušajte ponovno deaktivirati i aktivirati značajku za web-mjesto.
+* Zatražite od korisnika da isproba drugi internetski preglednik da bi vidio je li problem specifičan za korisnikov preglednik.
+* Ako svi korisnici i sva web-mjesta nailazi na isti problem, provjerite nadzornu ploču stanja [servisa](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste vidjeli utječe li na vašu organizaciju.

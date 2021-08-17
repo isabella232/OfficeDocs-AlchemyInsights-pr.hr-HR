@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 14ded561ee2b3c244fadbdab42fd0e833a1c66d5
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 57dbfd116bbae227f2288ce23edeaaa833fadf54ca3b10b95c49512758542e32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059218"
 ---
 # <a name="automatically-move-email-messages-to-the-archive-mailbox"></a>Automatsko premještanje poruka e-pošte u arhivski poštanski sandučić
 
-Slijede upute za postavljanje pravilnika da bi se korisnikova stara e-pošta automatski pomakila u poštanski sandučić arhive:
+Evo kako postaviti pravilnik za automatsko premještanje korisnikova stare e-pošte u arhivski poštanski sandučić:
 
-1. Idite na [**sigurnosnu &**](https://go.microsoft.com/fwlink/p/?linkid=2077143)  >  **arhivu upravljanje podacima**  >   o usklađenosti da biste potvrdili da je za korisnika omogućen arhivski poštanski sandučić. Ako nije, kliknite **Omogući** **da** u okviru upozorenje.
-2. Otvorite [**centar za administratore sustava Exchange > upravljanje usklađivanjem > oznake zadržavanja**](https://go.microsoft.com/fwlink/?linkid=2059104).
-3. Odaberite ikonu +, a zatim odaberite **automatski primijeni na cijeli poštanski sandučić**.
-4. Dodijelite naziv oznake zadržavanja, a zatim odaberite **Premjesti u arhivu**. Za razdoblje zadržavanja unesite željeno vrijeme, kao što je 90 days. Kliknite **Spremi**.
-5. Sada stvorite pravilnik o zadržavanju: odaberite **pravila zadržavanja**, odaberite ikonu da biste dodali novo pravilo.
-6. Dodijelite naziv pravilima zadržavanja, a zatim kliknite, a zatim se pomaknite da biste pronašli i dodali oznaku zadržavanja koju ste upravo stvorili. Kliknite **Spremi**.
-7. Konačno, primijenite pravilnik o zadržavanju na korisnikov poštanski sandučić: još uvijek u centru za administratore sustava Exchange idite na  >  **poštanske sandučiće** primatelja. Odaberite sve korisnike na koje želite primijeniti pravilo, a zatim odaberite **Uređivanje** (ikona olovke).
-8. U dijaloškom okviru kliknite **značajke poštanskog sandučića**. U odjeljku **pravilnik o zadržavanju** primijenite pravilo koje ste upravo stvorili > **Spremanje**.
-9. Upute za primjenu Pravilnika na sve korisnike potražite u članku [Primjena pravilnika o zadržavanju na poštanske sandučiće](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy).
+1. Idite [**na Arhiviranje & usklađenosti**](https://go.microsoft.com/fwlink/p/?linkid=2077143)podataka o usklađenosti da biste provjerili je li za korisnika  >    >   omogućen arhivski poštanski sandučić. Ako nije, u okviru s **upozorenjem** **kliknite** Omogući, a zatim Da.
+2. Idite na [**Exchange centra za administratore > usklađenosti > oznaka zadržavanja**](https://go.microsoft.com/fwlink/?linkid=2059104).
+3. Odaberite ikonu + pa odaberite **automatski primijeni na cijeli poštanski sandučić**.
+4. Dodijelite naziv oznaci zadržavanja pa odaberite **Premjesti u arhiviranje.** Za razdoblje zadržavanja unesite vrijeme koje želite, primjerice 90 dana. Kliknite **Spremi**.
+5. Sada stvorite pravilnik o zadržavanju: **odaberite pravilnike zadržavanja**, odaberite ikonu da biste dodali novi pravilnik.
+6. Dodijelite naziv pravilniku zadržavanja, a zatim kliknite i pomaknite se da biste pronašli i dodali oznaku zadržavanja koju ste upravo stvorili. Kliknite **Spremi**.
+7. Naposljetku primijenite pravilnik o zadržavanju na korisnikov poštanski sandučić: i dalje u centru Exchange za administratore idite **na poštanske sandučiće**  >  **primatelja**. Odaberite sve korisnike na koje želite primijeniti pravilnik, a zatim odaberite **Uređivanje** (ikona olovke).
+8. U dijaloškom okviru kliknite Značajke **poštanskog sandučića**. U **odjeljku Pravilnik o** zadržavanju primijenite pravilnik koji ste upravo stvorili > **Spremi**.
+9. Upute za primjenu pravilnika na sve korisnike potražite u članku [Primjena pravilnika o zadržavanju na poštanske sandučiće](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy).
