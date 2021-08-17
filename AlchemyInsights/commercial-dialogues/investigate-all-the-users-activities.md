@@ -13,26 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949379"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898788"
 ---
 # <a name="investigate-all-the-users-activities"></a>Istraživanje svih aktivnosti korisnika
 
 Evo kako to učiniti:
 
-1. Idite u [centar za & usklađenost](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Odaberite **Pretraživanje**  >  **[pretraživanja zapisnika nadzora](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Učinite jednu od sljedećih akcija:
+   - U Centar za usklađenost okruženja Microsoft 365 na <https://compliance.microsoft.com> idite na **Nadzor** \> **rješenja**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portalu Microsoft 365 Defender idite <https://security.microsoft.com> na **Nadzor**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Ako vidite obavijest da morate uključiti značajku, odmah je uključite. Ako značajka nije uključena, rezultati pretraživanja neće moći povući podatke iz prethodnih datuma.
 
-1. Ako vas zanima određena aktivnost, odaberite je na **popisu** Aktivnosti. Ako ne, po zadanom će se sve aktivnosti vratiti za odabranog korisnika.
-1. Navedite datumski raspon, a zatim u **okviru** Korisnici odaberite korisničko ime za korisnika koji želite istražiti. Možete odabrati više korisnika istovremeno.
-1. Kliknite **Pretraživanje**. Aktivnosti se prikazuju u odjeljku **Rezultati**. Vidjet ćete IP adresu, korisnika i naziv aktivnosti.
-1. Da biste preuzeli rezultate, odaberite **Izvoz rezultata**.
-1. Da biste pregledali pojedinosti, odaberite aktivnost, a zatim **proširite dodatne informacije**.
+2. Na kartici **Pretraživanje** na **stranici Nadzor** konfigurirajte sljedeće postavke:
+   - **Raspon datuma i vremena:** odaberite raspon datuma/vremena u **okvirima Početak** **i** Kraj.
+   - **Aktivnosti**: ako vas zanima određena aktivnost, odaberite je s popisa; u suprotnom zadana vrijednost **Prikaži rezultate za sve aktivnosti vraća** sve aktivnosti.
+   - **Korisnici:** prihvatite praznu zadanu vrijednost da biste vratili rezultate za sve korisnike ili unesite jednog ili više korisnika.
 
-Dodatne informacije potražite u članku Pretraživanje [zapisnika nadzora da biste otklonili uobičajene scenarije.](https://go.microsoft.com/fwlink/?linkid=2103944)
+3. Kada završite, kliknite **Pretraživanje**. Aktivnosti se prikazuju na novoj stranici **pretraživanja nadzora.** Vidjet ćete **IP** adresu, **korisnik i** **naziv** aktivnosti.
+
+4. Da biste preuzeli  rezultate, odaberite \> **Izvezi preuzmi sve rezultate**.
+
+5. Odaberite aktivnost u rezultatima da biste otvorili letak s detaljima.
+
+Dodatne informacije potražite u članku Pretraživanje [zapisnika nadzora da biste istražili uobičajene probleme s podrškom](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios).

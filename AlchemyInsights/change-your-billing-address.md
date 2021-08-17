@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 133b4dab80a69c7c47e1193e6109551ca665552fbf9168dde8be14096336efe5
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498964"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898884"
 ---
 # <a name="change-your-billing-address"></a>Promjena adrese za naplatu
 
@@ -35,12 +35,12 @@ Račun ili faktura sadrže tri adrese.
 3. Na **stranici Detalji o načinu** plaćanja kliknite **Uređivanje**.
 4. Ažurirajte adresu za naplatu, a **zatim kliknite Spremi > gotovo.**
 
-Dodatne informacije o adresama i promjenama obavijesti potražite u [članku Promjena adresa za naplatu za Microsoft 365 za tvrtke](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+Dodatne informacije o adresama i promjenama obavijesti potražite u [članku Promjena adresa za naplatu za Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
 **Promjena podataka o računu za naplatu**
 
-1. U centru za administratore idite **na Računi za > [naplata](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+1. U centru za administratore idite na **Računi za > [naplata](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
 2. Odaberite **Uređivanje podataka o računu za naplatu**.
-3. Ažurirajte podatke o računu za naplatu, **a zatim kliknite Spremi > gotovo.**
+3. Ažurirajte podatke o računu za naplatu, a **zatim kliknite Spremi > gotovo.**
 
 **Napomena**: ne možete promijeniti državu/regiju. Ako je potrebno promijeniti to polje, morate kupiti novi klijent.

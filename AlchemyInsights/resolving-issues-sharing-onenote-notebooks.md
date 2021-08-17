@@ -1,5 +1,5 @@
 ---
-title: Rješavanje problema prilikom zajedničkog korištenja bilježnica programa OneNote
+title: Rješavanje problema sa zajedničkim korištenjem OneNote bilježnica
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6048"
 - "9000755"
-ms.openlocfilehash: aa0cf8136c3fed80a871480d89349f188bf3d742
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8f1b0ef242d1599ff119c213d72eaed87aba58d96e97309abf18269eddd00e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110024"
 ---
-# <a name="resolving-issues-sharing-onenote-notebooks"></a>Rješavanje problema prilikom zajedničkog korištenja bilježnica programa OneNote
+# <a name="resolving-issues-sharing-onenote-notebooks"></a>Rješavanje problema sa zajedničkim korištenjem OneNote bilježnica
 
-Gumb zajedničko korištenje nalazi se u gornjem desnom kutu programa OneNote.
+Gumb Zajedničko korištenje nalazi se u gornjem desnom kutu OneNote.
 
-- Upišite jednu adresu e-pošte da biste zajednički koristili bilježnicu.
-- Kliknite  **zajedničko korištenje**.
+- Upišite jednu adresu e-pošte da biste je zajednički koristili.
+- Kliknite  **Zajedničko korištenje**.
 
-Zatvaranje i ponovno otvaranje bilježnice u programu OneNote da biste ponovno započeli zajedničko korištenje.
+Zatvorite i ponovno otvorite bilježnicu u aplikaciji OneNote biste ponovno započeli zajedničko korištenje.
