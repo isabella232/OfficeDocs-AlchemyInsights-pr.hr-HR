@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b6fbaf3f2ab30888d7a8f9d6f5aeccb65b5cfd0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918887"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312817"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Obavezno zaglavlje alkemije H1, H2 ne funkcionira".
 Najbolje prakse i smjernice za alkemiju:
 
-1. **Nemojte ugnijezditi Alchemy Uvidi u mape**– time ćete prekinuti strukturu URL-a. Radimo na rješavanju tog problema.
+1. **Nemojte ugnijezditi Alchemy Uvidi u mape**– time ćete prekinuti strukturu URL-a. Radimo na rješavanju ovog problema.
 1. Datoteke u mapi **AlchemyInsights** moraju imati mala slova s crticama za razmake ex. **_how-to-enable-litigation-hold_**.
     1. U polje ms.custom uvrsti ID pravila ili ID ćelije s portala Partnera za [Alchemy.](https://alchemyportal.azurewebsites.net) ex. ***ms.custom: 100021***
 1. Ostatak metapodataka pri vrhu datoteke koristite kao predložak.
-1. Na [portalu Alchemy Partner](https://alchemyportal.azurewebsites.net)pomaknite se do odjeljka Naslov uvida u **klijente:** i upotrijebite ga kao početnu točku za naslov H1 za uvid. 
-    > [!NOTE]
-    > Alkemija Uvidi mora imati samo jedan H1 na vrhu ili će se prekinuti u produkciji. H2s ne prikazuje ni podebljano ni **druge** konvencije da biste potpisali zasebne sekcije.
+1. Na [portalu Alchemy Partner](https://alchemyportal.azurewebsites.net)pomaknite se prema dolje do odjeljka Naslov uvida u **klijente:** i upotrijebite ga kao početnu točku za naslov H1 za uvid. 
+
+**Napomena:** Alchemy Uvidi mora imati samo jedan H1 pri vrhu ili će se prekinuti u produkciji. H2s ne renderirati bilo na taj način koristite **podebljano** ili druge konvencije za potpisivanje zasebnih sekcija.
 1. Zatim ispunite tijelo teksta pomoću materijala skice u odjeljku Customer Insights na stranici Pravila alkemije
     1. Popisi s grafičkim oznakama su u redu
     1. Numerirani popisi

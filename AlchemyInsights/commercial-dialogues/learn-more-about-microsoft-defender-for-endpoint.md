@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 2b2a425904c63ea627332c36d67cc2b902571ee3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 891ed9f226cfab2882554e68c24f675c11f54c1aea2802f3851d42630af80df8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743823"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081890"
 ---
 # <a name="learn-more-about-microsoft-defender-for-endpoint"></a>Dodatne informacije o programu Microsoft Defender za krajnju točku
 
-Microsoft Defender za krajnju točku jest platforma namijenjena pomoći korporativnim mrežama za sprečavanje, prepoznavanje, istraživanje i odgovaranje na napredne prijetnje.
+Microsoft Defender za krajnju točku platforma je osmišljena da bi korporacijske mreže spriječile, otkrili, istražili i odgovorili na napredne prijetnje.
 
 - Microsoft Defender za Office 365 i Microsoft Defender za krajnju točku nude različite mogućnosti:
-  - **Defender za Office 365** nadzire poruke e-pošte, zajedno s alatima za svakodnevne suradnje, kao što su SharePoint, jedan pogon i timovi.
-  - **Defender za krajnju točku** štiti uređaje povezane s krajnjim točkama i pridonosi otkrivanju napada koji su prošli kroz pretpovredu obrane.
-- Da biste saznali više o programu Defender za krajnju točku ili započeli besplatnu probnu verziju, pročitajte članak [Microsoft Defender za krajnju točku](https://go.microsoft.com/fwlink/?linkid=2094113).
+  - **Defender za Office 365** nadzire poruke e-pošte te svakodnevne alate za suradnju, kao što su SharePoint, One Drive i Teams.
+  - **Defender za krajnju** točku štiti uređaje povezane s krajnjim točkama i pomaže u prepoznavanju napada zbog koje je prošao obranu prije proboja.
+- Dodatne informacije o programu Defender za krajnju točku ili pokretanju besplatne probne verzije potražite u članku [Microsoft Defender za krajnju točku](https://go.microsoft.com/fwlink/?linkid=2094113).

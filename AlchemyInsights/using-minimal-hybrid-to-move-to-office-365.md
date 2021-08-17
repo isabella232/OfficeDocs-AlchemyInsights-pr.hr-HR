@@ -1,5 +1,5 @@
 ---
-title: Premještanje u Microsoft pomoću minimalnog hibrida
+title: Prelazak na Microsoft pomoću minimalne hibridne implementacije
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "691"
 - "3500010"
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
-ms.openlocfilehash: 78906cf95cbb9e6cccc9f960d44fb5d3dad29eec
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: ec20bb87441462f2d14fa3d59633a9739535e838b06ef45ca33082a9c018d55c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653505"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084014"
 ---
-# <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>Korištenje minimalnog hibrida da biste se pomaknuli na Microsoft 365
+# <a name="using-minimal-hybrid-to-move-to-microsoft-365"></a>Premještanje na Microsoft 365
 
-Da biste saznali više o minimalnim hibridima, poznatom i kao ekspresne migracije, provjerite [koristite minimalni Hybrid da biste brzo migrirali poštanske sandučiće sustava Exchange u Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).
+Da biste saznali više o minimalnoj hibridnoj migraciji, poznatoj i pod nazivom Brza migracija, pogledajte korištenje [minimalne hibridne implementacije radi Exchange poštanskih sandučića u Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate).

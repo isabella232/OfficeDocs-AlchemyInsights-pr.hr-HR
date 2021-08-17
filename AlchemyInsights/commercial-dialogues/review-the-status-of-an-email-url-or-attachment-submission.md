@@ -1,5 +1,5 @@
 ---
-title: Pregled statusa e-pošte, URL-a ili slanja privitaka
+title: Pregled statusa slanja poruke e-pošte, URL-a ili privitka
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 3514600ba19efe508adc552fa26bdd64ec107f00
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743543"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081818"
 ---
-# <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Pregled statusa e-pošte, URL-a ili slanja privitaka
+# <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Pregled statusa slanja poruke e-pošte, URL-a ili privitka
 
-Nakon slanja poruke e-pošte, URL-a ili privitka možete provjeriti status i rezultate na istoj stranici s podnescima.
+Nakon slanja poruke e-pošte, URL-a ili privitka možete provjeriti status i rezultate na istoj stranici za slanje.
 
-Prikazat će vam se tijek slanja na stranici, a možete i pregledati prethodne prijave da biste vidjeli detalje o slanju i rezultatima.
+Na stranici će se vidjeti tijek slanja, a možete i detaljno detaljno proućiti prethodne podneske da biste vidjeli pojedinosti o poslanju i rezultatima.
 
 > [!NOTE]
-> Kada pošaljete stavku pomoću Eksplorera za podneske, moglo bi potrajati nekoliko minuta da se pojave rezultati.
+> Kada pošaljete stavku pomoću eksplorera za podneske, rezultati mogu potrajati nekoliko minuta.

@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918459"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312751"
 ---
 # <a name="frequent-excel-crashes"></a>Često Excel ruši?
 
-Česte rušenje Excel može uzrokovati neispravan dodatak. Dodatak za Excel možete onemogućiti na sljedeći način:
+Česte rušenje Excel može uzrokovati neispravan dodatak. Dodatak možete onemogućiti Excel pomoću sljedećih uputa:
   
 1. Odaberite  \> **Mogućnosti datoteke** \> **, Dodaci**.
 
@@ -28,8 +28,7 @@ ms.locfileid: "53918459"
 
 3. U Add-Ins dostupnom okviru poništite potvrdni okvir pokraj dodatka koji želite onemogućiti, a zatim kliknite U **redu**.
 
-> [!NOTE]
-> Ako Excel tijekom pokretanja, pokrenite ga u Sef tako da pritisnete i držite Ctrl dok pokrećete program.
+**Napomena:** ako Excel tijekom pokretanja, pokrenite ga u Sef tako da pritisnete i držite Ctrl dok pokrećete program.
   
 Ako i dalje imate problema, pročitajte sljedeće članke:
   

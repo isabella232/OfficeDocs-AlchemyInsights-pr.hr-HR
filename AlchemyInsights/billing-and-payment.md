@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502384"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893047"
 ---
 # <a name="billing-and-payment"></a>Naplata i plaćanje
 
@@ -55,10 +55,10 @@ Ako ste dodali novu karticu i i dalje primate obavijest o odbijanju na staroj kr
 
 7. Novi način plaćanja već je odabran na padajućem popisu. Odaberite **Zamijeni**.
 
-Dodatne informacije potražite u članku [Upravljanje načinima plaćanja](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Dodatne informacije potražite u članku [Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Učestalost naplate**
 
 Računi se generiraju mjesečno ili godišnje, ovisno o učestalosti naplate odabranoj prilikom odjave.  
 
-**Napomena:** narudžbe s godišnjom naplatom mogu primiti račun sredinom razdoblja ako su izvršene promjene, npr. dodavanje ili uklanjanje licenci. [Promijenite učestalost naplate](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Napomena:** narudžbe s godišnjom naplatom mogu primiti račun sredinom razdoblja ako su izvršene promjene, npr. dodavanje ili uklanjanje licenci. [Promijenite učestalost naplate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

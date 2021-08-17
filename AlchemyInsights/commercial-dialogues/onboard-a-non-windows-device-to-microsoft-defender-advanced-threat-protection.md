@@ -1,5 +1,5 @@
 ---
-title: Na uređaju s uređajima koji nisu u sustavu Windows u programu Microsoft Defender Napredno zaštita od prijetnje (MDATP)
+title: Na uređaj koji nije Windows microsoft Defender Advanced Threat Protection (MDATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de230abdc56d32780e70e5ae1bf95ac45e9252cc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 228fe6a4514df4508dda7f7fbdfa650a439b38ef51abafa7936afa4ecfd54e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743620"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081854"
 ---
-# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Na uređaju s uređajima koji nisu u sustavu Windows u programu Microsoft Defender Napredno zaštita od prijetnje (MDATP)
+# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Na uređaj koji nije Windows microsoft Defender Advanced Threat Protection (MDATP)
 
-Određivanje je li verzija Linux distribucije ili macOS-a kompatibilna s MDATP-om:
+Odredite je li distribucija linuxa uređaja ili verzija sustava macOS kompatibilna s MDATP-om:
 
-- [Preduvjeti za Linux uređaje](https://go.microsoft.com/fwlink/?linkid=2143462)
-- [Preduvjeti za macOS uređaje](https://go.microsoft.com/fwlink/?linkid=2143461)
-- [Uređaji koji nisu Windows na platformi](https://go.microsoft.com/fwlink/?linkid=2143628)
+- [Preduvjeti za Uređaje sa sustavom Linux](https://go.microsoft.com/fwlink/?linkid=2143462)
+- [Preduvjeti za uređaje sa sustavom macOS](https://go.microsoft.com/fwlink/?linkid=2143461)
+- [Onboard non-Windows devices](https://go.microsoft.com/fwlink/?linkid=2143628)
