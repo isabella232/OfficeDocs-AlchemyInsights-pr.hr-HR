@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: f5ef7d216d5c6b1a116f3a58cdd7fc9c3263f94732c45a403381b987381be37b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964409"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888234"
 ---
 # <a name="getting-started-with-teams-webinars"></a>Početak rada s Teams web-seminarima
 
-Web-seminari su strukturirani sastanci na kojima predavači i sudionici imaju jasne uloge, često se koriste u svrhe obuke ili za scenarije prodaje i marketinga.
+Web-seminari su strukturirani sastanci na kojima predavači i sudionici imaju jasne uloge, često se koriste u svrhe obuke ili za scenarije prodaje i marketinških potencijalnih sudionika.
 
 Nakon postavljanja web-seminara u tvrtki ili ustanovi korisnici mogu zakazati web-seminare i otvoriti registraciju sudionicima. Za razliku od tradicionalnih sastanaka koji obuhvaćaju brojne rasprave i zadatke, web-seminari namijenjeni su interaktivnim prezentacijama i pružanju alata za analizu sudionika.
 
 **Napomena:** funkcija web-seminara i dalje je u postupku izlanjanja na Microsoft 365 zakupce. 
 
-Dodatne informacije o tome kako postaviti i konfigurirati web-seminare Teams potražite u članku Postavljanje [web-seminara u Microsoft Teams](/microsoftteams/set-up-webinars).
+Dodatne informacije o tome kako postaviti i konfigurirati web-seminare Teams potražite u članku Postavljanje [web-seminara u Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-webinars).

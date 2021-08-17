@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499540"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886283"
 ---
 # <a name="too-many-licenses"></a>Previše licenci?
 
@@ -36,4 +36,4 @@ Ako mislite da vam je naplaćeno previše licenci, to je obično zbog kupnje vi�
 4. U **oknu Uklanjanje licenci** u **odjeljku** Nova količina u okviru Ukupne licence unesite ukupan broj licenci koje želite za ovu pretplatu.  Ako, primjerice, imate 100 licenci i želite ih ukloniti 25, unesite 75.
 5. Odaberite **Spremi**.
 
-Dodatne informacije potražite u članku [Kupnja ili uklanjanje licenci](/microsoft-365/commerce/licenses/buy-licenses).
+Dodatne informacije potražite u članku [Kupnja ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058534"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888362"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Postavljanje pravilnika Sef privitka u programu Microsoft Defender za Office 365
 
-1. Idite na [centar za Office 365 sigurnosti & usklađenosti i](https://go.microsoft.com/fwlink/p/?linkid=2077143) odaberite Pravilnik upravljanja   >  **prijetnjama**  >  **Sef Privici**.
-2. Da biste omogućili tu značajku za druga radna opterećenja, odaberite Uključi **Microsoft Defender za Office 365 za SharePoint Online, OneDrive i Microsoft Teams**.
-3. Da biste stvorili novi pravilnik, odaberite **ikonu** Novo ( **+** ) .
-4. Navedite naziv, opis i postavke pravilnika.
-5. Odaberite **Spremi**.
+1. Na portalu Microsoft 365 Defender u odjeljku E-pošta & pravila suradnje & pravila <https://security.microsoft.com/>  \>  \>  \> **prijetnje Sef privici** **u odjeljku Pravila.**
+
+   Da biste izravno na stranicu **Sef privitke,** koristite <https://security.microsoft.com/safeattachmentv2> .
+
+2. Na **stranici Sef privici** učinite nešto od sljedećeg:
+   - Da biste dodali novi pravilnik, odaberite **+ Stvori**. Pokrenut će se čarobnjak koji će vam pomoći da definirate postavke pravilnika.
+   - Da biste uredili postojeći pravilnik, odaberite pravilnik klikom na naziv pravilnika. U brošuri s detaljima koja će se prikazati **u** odjeljku koji sadrži postavke koje želite konfigurirati odaberite Uređivanje.
+   - Da biste uključili ili isključili Sef privitke za SharePoint, OneDrive i Microsoft Teams, kliknite **Globalne** postavke , uključite ili isključite postavku, a zatim **kliknite Spremi**.
+
+3. Kada pregledate postavke, odaberite  Pošalji (novo) ili **Spremi** (uredi).
+
+Dodatne informacije potražite u sljedećim člancima:
+
+- [Postavljanje pravilnika Sef privitke u programu Microsoft Defender za Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Uključite Sef privitke za SharePoint, OneDrive i Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d73e92cb4422113f50d55d7fad529b1bc0dd6cb5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 88b80e69ec898bcf195633f3170d906c67bf8ab072ea2987364d32f750b74462
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689038"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887528"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Ponovna aktivacija pretplate i upravljanje ponavljajućom naplatom
 
@@ -32,7 +32,7 @@ ms.locfileid: "53689038"
 3. U **oknu Ponovna aktivacija** pretplate odaberite način plaćanja s padajućeg popisa ili odaberite **Dodaj način plaćanja**.
 4. Odaberite **Spremi**.
 
-Da biste saznali više o starim koracima pogledajte [Ponovno aktiviraj pretplatu](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Da biste saznali više o starim koracima pogledajte [Ponovno aktiviraj pretplatu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 Da biste upravljali mjesečnim ili godišnjim plaćanjem, možete uključiti ili isključiti **Ponavljajuću naplatu**.
   
@@ -42,4 +42,4 @@ Da biste upravljali mjesečnim ili godišnjim plaćanjem, možete uključiti ili
 4. U **oknu Uređivanje postavki ponavljajuće** naplate **odaberite Uključi**, **Uključi, ali obnovi jedanput** ili **Isključi**.
 5. Odaberite **Spremi**.
 
-Dodatne informacije pronađite u članku [Isključivanje ili uključivanje ponavljajuće naplate](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Dodatne informacije pronađite u članku [Isključivanje ili uključivanje ponavljajuće naplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
