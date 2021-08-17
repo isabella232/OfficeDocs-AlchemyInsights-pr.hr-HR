@@ -1,5 +1,5 @@
 ---
-title: Tko je odjavljen datoteku?
+title: Who je datoteka odjavljena?
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 12407f490f80412d801d01b717e3f7919b3cfb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32f22a3906f7a976ce607c0516be8b63dcfe472dd22f0b9c933e79950ba5e932
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047824"
 ---
-# <a name="who-has-a-file-checked-out"></a>Tko je odjavljen datoteku?
+# <a name="who-has-a-file-checked-out"></a>Who je datoteka odjavljena?
 
-Da biste vidjeli tko ima odjavnu datoteku u sustavu SharePoint, možete učiniti jedan od sljedećih koraka:
+Da biste vidjeli tko je odjavio datoteku SharePoint, učinite nešto od sljedećeg:
   
-1. Prijelaz iznad **odjavljen** je da bi vam se prikazuje opis alata koji vam kaže tko je odjavljena datoteka. 
+1. Zadržite pokazivač **iznad odjave** da biste vidjeli opis alata koji vam govori tko je odjavio datoteku. 
     
-2. Dodajte **odjavljen po** stupcu u zadani prikaz biblioteke. Na taj način svi mogu jednostavno vidjeti tko je odjavljen u dokumentu. 
+2. Dodajte stupac **Odjavljena prema** u zadani prikaz biblioteke. Na taj način svi mogu jednostavno vidjeti tko je odjavio dokument. 
     
-Upute za dodavanje odjavljene po stupcu u sustavu SharePoint potražite [u članku Stvaranje stupca na popisu ili u biblioteci](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Upute za dodavanje stupca Odjavljena prema u SharePoint, pogledajte [stvaranje stupca na popisu ili u biblioteci](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-Pročitajte najčešća pitanja o prijavi ili odjavi, pročitajte članak najčešća [pitanja o odjavi, prijavi](https://go.microsoft.com/fwlink/?linkid=2018786)se.
+Pogledajte najčešća pitanja o provjeri ili odjavi, pogledajte [najčešća pitanja o odjavi, prijava](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 
