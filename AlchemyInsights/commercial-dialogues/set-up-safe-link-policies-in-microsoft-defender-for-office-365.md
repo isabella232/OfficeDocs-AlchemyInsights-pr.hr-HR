@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070352"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882559"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Postavljanje pravilnika Sef veze u programu Microsoft Defender za Office 365
 
-Zadana pravila za Sef veze u programu Microsoft Defender za Office 365 već je stvorena za vas. Da biste promijenili konfiguracije:
+1. Na portalu Microsoft 365 Defender u odjeljku E-pošta & pravila suradnje & pravila <https://security.microsoft.com/>  \>  \>  \> **prijetnji Sef veze** u **odjeljku Pravila.**
 
-1. Idite na [centar Office 365 sigurnosti & usklađenosti](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Odaberite **Pravilnik za upravljanje**  >  **prijetnjama**. Na **stranici Pravilnik** odaberite [Microsoft Defender za Office 365 Sef veze](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. U **odjeljku Pravila koja se odnose na cijelu organizaciju** odaberite **Zadano**, a zatim odaberite **ikonu** Uređivanje.
-4. U **odjeljku Blokiranje sljedećih URL-ova** navedite jedan ILI više URL-ova koje želite spriječiti korisnicima u tvrtki ili ustanovi da posjete. Da biste saznali više, [pogledajte popis "Blokiraj sljedeće URL-ove" za veze Sef veze.](https://go.microsoft.com/fwlink/?linkid=2092123)
-5. U **odjeljku Postavke koji se odnose na sadržaj** osim e-pošte odaberite (ili poništite) mogućnosti koje želite koristiti. (Preporučuje se da odaberete sve mogućnosti.)
-6. Odaberite **Spremi**.
+   Da biste se izravno Sef **veze,** koristite <https://security.microsoft.com/safelinksv2> .
+
+2. Na **stranici Sef veze** učinite nešto od sljedećeg:
+   - Da biste dodali novi pravilnik, odaberite **+ Stvori**. Pokrenut će se čarobnjak koji će vam pomoći da definirate postavke pravilnika.
+   - Da biste uredili postojeći pravilnik, odaberite pravilnik klikom na naziv pravilnika. U brošuri s detaljima koja će se prikazati **u** odjeljku koji sadrži postavke koje želite konfigurirati odaberite Uređivanje.
+   - Da biste URL-ove blokirali od Sef veze ili konfigurirali postavke za veze Sef u podržanim aplikacijama sustava Office 365, kliknite **Globalne** postavke , konfigurirajte postavke koje želite, a zatim **kliknite Spremi**.
+
+3. Kada pregledate postavke, odaberite  Pošalji (novo) ili **Spremi** (uredi).
+
+Dodatne informacije potražite u sljedećim člancima:
+
+- [Postavljanje pravilnika Sef veza u programu Microsoft Defender za Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Konfiguriranje globalnih postavki za Sef veze u programu Microsoft Defender za Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

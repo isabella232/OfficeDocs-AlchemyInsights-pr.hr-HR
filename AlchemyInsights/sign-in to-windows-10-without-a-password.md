@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fbf190d433eabfee5b45348d05d918222a385314a431812aa5f5926aacf11560
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107500"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>Prijava u Windows 10 bez lozinke
 
-Da biste izbjegli upis lozinke prilikom pokretanja sustava Windows, preporučujemo da koristite jednu od sigurnih mogućnosti prijave u Windows Hello, kao što su PIN, prepoznavanje lica ili otisak prsta, ako su dostupne. Ako zaista želite onemogućiti sigurnu prijavu, pročitajte upute za automatsku prijavu u Windows 10 u nastavku.
+Da biste izbjegli unos lozinke prilikom Windows pokretanja, preporučujemo da koristite jednu od sigurnih Windows Hello za prijavu, kao što su PIN, prepoznavanje lica ili otisak prsta, ako su dostupne. Ako zaista želite onemogućiti sigurnu prijavu, pročitajte upute "Automatska prijava u Windows 10" u nastavku.
 
-**Secure Windows Hello alternative to the account password**
+**Zaštita Windows Hello alternativa lozinki za račun**
 
-Otvorite **Postavke > računi > mogućnosti prijave** (ili kliknite [ovdje).](ms-settings:signinoptions?activationSource=GetHelp) Na popisu će biti dostupne mogućnosti prijave. Na primjer:
+Idite **na Postavke > računi > mogućnosti prijave** (ili kliknite [ovdje).](ms-settings:signinoptions?activationSource=GetHelp) Na popisu će biti dostupne mogućnosti prijave. Na primjer:
 
 ![Mogućnosti prijave.](media/sign-in-options.png)
 
-Kliknite ili dodirnite jednu od mogućnosti da biste je konfigurirali. Kada sljedeći put pokrenete ili otključate Windows, moći ćete koristiti novu mogućnost umjesto lozinke. 
+Kliknite ili dodirnite jednu od mogućnosti da biste je konfigurirali. Kada sljedeći put pokrenete ili Windows, moći ćete koristiti novu mogućnost umjesto lozinke. 
 
 **Automatska prijava u Windows 10**
 
@@ -39,10 +39,10 @@ Kliknite ili dodirnite jednu od mogućnosti da biste je konfigurirali. Kada slje
 
 2. Upišite **netplwiz** i pritisnite tipku Enter da biste otvorili prozor Korisnički računi.
 
-3. U **korisničkim računima** kliknite račun na koji se želite automatski prijaviti prilikom pokretanja sustava Windows.
+3. U **korisničkim računima** kliknite račun na koji se želite automatski prijaviti prilikom Windows pokretanja.
 
 4. Poništite potvrdni okvir "Korisnici moraju unijeti korisničko ime i lozinku da bi koristili ovo računalo".
 
     ![Korisnici moraju unijeti korisničko ime i lozinku.](media/users-must-enter-username.png)
 
-5. Kliknite **U redu**. Od vas će se tražiti da unesete i potvrdite lozinku za odabrani račun. Kliknite **U redu da** biste dovršili. Prilikom sljedećeg pokretanja sustava Windows 10 automatski će se prijaviti na odabrani račun.
+5. Kliknite **U redu**. Od vas će se tražiti da unesete i potvrdite lozinku za odabrani račun. Kliknite **U redu da** biste dovršili. Kada se Windows 10 pokrene, automatski će se prijaviti na račun koji ste odabrali.

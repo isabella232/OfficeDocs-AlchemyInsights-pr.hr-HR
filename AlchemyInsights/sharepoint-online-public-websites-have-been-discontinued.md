@@ -1,5 +1,5 @@
 ---
-title: Ukinute su javne web-stranice sustava SharePoint Online
+title: SharePoint Internetska javna web-mjesta ukinuta su
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: fbe21c0aa9fbad3345c62d2dac276f49a37d5c02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b26f8561565288f8bb9400a6bd7c4f8006672e304142e41c5b92088036e88bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770795"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051226"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Javna web-mjesta sustava SharePoint Online ukinuta su
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Internetska javna web-mjesta ukinuta su
 
-Javna web-mjesta sustava SharePoint Online ukinuta su.
+SharePoint Internetska javna web-mjesta ukinuta su.
 
-Ako ste stvorili javno web-mjesto sustava SharePoint Online, mogli ste ga nastaviti koristiti putem 31. ožujka, 2018. Ako želite nastaviti imati javno web-mjesto, morate stvoriti novu pomoću novog davatelja usluge. Sadržaj na javnom web-mjestu sustava SharePoint Online izbrisan je.
+Ako ste stvorili javno web-SharePoint web-mjesto na servisu SharePoint, mogli ste ga nastaviti koristiti do 31. ožujka 2018. Ako želite nastaviti s javnim web-mjestom, morate stvoriti novo s novim davateljem usluga. Sadržaj na javnom web-mjestu SharePoint online izbrisan je.
 
-Informacije o prekidu nastavka javnog web-mjesta potražite [u članku pojedinosti o postupku prekida značajke](https://go.microsoft.com/fwlink/?linkid=866980).
+Informacije o prekidu javnog web-mjesta potražite u članku [Pojedinosti o postupku prekida značajke](https://go.microsoft.com/fwlink/?linkid=866980).
