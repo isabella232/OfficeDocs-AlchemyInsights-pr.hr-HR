@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029724"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895879"
 ---
 # <a name="expired-subscription"></a>Istekla pretplata
 
@@ -35,7 +35,7 @@ ms.locfileid: "54029724"
 3. U **oknu Ponovna aktivacija** pretplate odaberite način plaćanja s padajućeg popisa ili odaberite **Dodaj način plaćanja**.
 4. Odaberite **Spremi**.
 
-Da biste saznali više o starim koracima pogledajte [Ponovno aktiviraj pretplatu](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Da biste saznali više o starim koracima pogledajte [Ponovno aktiviraj pretplatu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Napravite novu kupnju**
   
@@ -44,4 +44,4 @@ Da biste saznali više o starim koracima pogledajte [Ponovno aktiviraj pretplatu
 3. Unesite broj licenci koje su vam potrebne i odaberite želite li plaćati svaki mjesec ili cijelu godinu. Odaberite želite li automatski dodijeliti licence svima koji trenutno ne imaju licencu. Zatim **odaberite Odjavi odmah**.
 4. Slijedite preostale korake da biste dovršili odjavu.
 
-Dodatne informacije potražite u članku [Kupnja druge pretplate](/microsoft-365/commerce/buy-another-subscription).
+Dodatne informacije potražite u članku [Kupnja druge pretplate](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).

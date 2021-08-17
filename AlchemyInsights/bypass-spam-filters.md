@@ -1,5 +1,5 @@
 ---
-title: 2637 zaobilaženje filtriranja neželjene pošte da biste dopustili određene poruke?
+title: 2637 Zaobići filtriranje neželjene pošte da biste dopustili određene poruke?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa9ee7cd7710517dfcc441cd931b9f427474869ad49ed0fa0a91a06e06682ed7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684870"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059552"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Zaobilaženje filtriranja neželjene pošte da biste dopustili određene poruke?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Zaobići filtriranje neželjene pošte da biste dopustili određene poruke?
 
-Preporučujemo [oprez](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) prilikom stvaranja popisa dopuštenih. Ako, primjerice, dopuštate vlastitoj domeni, zlonamjerni će ih pošiljatelji moći zavarati i uputiti kao vašu domenu.  Umjesto toga preporučujemo vam da ovaj [lažni pozitivni vodič za otklanjanje poteškoća](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), koji će vam pomoći da ustanovite zašto je legitimna poruka označena kao spam i što možete učiniti da biste sigurno dopustili isporuku poruke.
+Preporučujemo [oprez](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) prilikom stvaranja popisa dopuštenih. Ako, primjerice, dopustite vlastitu domenu, zlonamjerni će pošiljatelji moći podvala i slati ih kao vašu domenu.  Umjesto toga preporučujemo ovaj lažno pozitivan vodič za otklanjanje poteškoća [koji](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)će vam pomoći da utvrdite zašto je legitimna poruka označena kao neželjena pošta i što možete učiniti da biste sigurno omogućili isporuku poruke.

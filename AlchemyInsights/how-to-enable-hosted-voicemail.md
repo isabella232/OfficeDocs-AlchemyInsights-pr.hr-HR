@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677028"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055546"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>Omogućivanje hostirane govorne pošte
 
-Da biste omogućili govornu poštu, **Hostedvoiemail** mora biti postavljen na $True.
+Da biste omogućili govornu poštu, **HostedVoicemail** mora biti postavljen na $true.
 
-Svojstvo **Hostedvoiemae** na korisniku pomoću udaljene komponente PowerShell (RPS).
+Svojstvo **HostedVoicemail na** korisniku pomoću komponente Remote PowerShell (RPS).
 
-Dodatne informacije o povezivanju s RPS-ovim potražite u [članku Pregled Microsoftove ekipe za PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) da biste saznali više o povezivanju s RPS-ovim.
+Dodatne informacije o povezivanju s RPS-om potražite u članku Microsoft Teams pregled ljuske [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) da biste saznali više o povezivanju s RPS-om.
 
-1. Administrator timova trebao bi biti prijavljen u udaljenu PowerShell za timove.
-1. Na servisu PowerShell upit administrator timova može pokrenuti **set-csuser user@contoso.com-HostedVoiceMail $True** gdje je SIP URI od korisnika koji je u pitanju.
+1. Administrator Teams mora biti prijavljen u udaljenu ljusku PowerShell za Teams.
+1. U dodatku PowerShell administrator Teams može pokrenuti **set-csuser user@contoso.com -HostedVoiceMail $true** gdje je sip uri korisnika o kojem je riječ.
 
 > [!NOTE]
-> Promjena pravilnika može potrajati i do 24 sata da bi se replicirali.
+> Ponavljanje promjena pravilnika može potrajati i do 24 sata.

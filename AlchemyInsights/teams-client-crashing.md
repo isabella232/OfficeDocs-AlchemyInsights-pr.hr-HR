@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
-ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
+ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53187713"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890330"
 ---
 # <a name="teams-client-crashing"></a>Teams klijent se ruši
 
@@ -25,9 +25,9 @@ Ako vam se klijent za Teams ruši, pokušajte sljedeće:
 
 - Ako koristite Teams za stolna računala, [provjerite je li program u potpunosti ažuriran](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Provjerite jesu li [dostupni Microsoft 365 URL-ovi](/microsoftteams/connectivity-issues) i rasponi adresa.
+- Provjerite jesu li [dostupni Microsoft 365 URL-ovi](https://docs.microsoft.com/microsoftteams/connectivity-issues) i rasponi adresa.
 
-- Prijavite se pomoću administratorskog računa klijenta i provjerite nadzornu ploču [stanja](/office365/enterprise/view-service-health) servisa da biste provjerili ne postoji li nedostatak ili degradacija servisa.
+- Prijavite se pomoću administratorskog računa klijenta i provjerite nadzornu ploču [stanja](https://docs.microsoft.com/office365/enterprise/view-service-health) servisa da biste provjerili ne postoji li nedostatak ili degradacija servisa.
 
 - Deinstalacija i ponovna instalacija Teams aplikacije
     - Pronađite mapu %appdata%\Microsoft\Teams\ na računalu i izbrišite sve datoteke u tom direktoriju.
@@ -38,8 +38,8 @@ Ako se Teams i dalje ruši, pokušajte reproducirati problem. Ako možete:
 1. Pomoću snimača koraka snimite korake.
     - Zatvorite sve nepotrebne ili povjerljive aplikacije.
     - Pokrenite snimač koraka i reproducirajte problem dok ste prijavljeni s zahvaćenim korisničkim računom.
-    - [Prikupite zapisnike timova koji snimaju snimljene korake za reprodukciju](/microsoftteams/log-files). **Napomena**: provjerite jeste li snimili adresu za prijavu na koju je korisnik na to utječe.
-    - Prikupite podatke o izvatkom i/ili košu kvara (Windows). Pokrenite Windows powershell na uređaju na kojem se ruši i pokrenite sljedeće naredbe (nakon svake naredbe pritisnite Enter):
+    - [Prikupite zapisnike timova koji snimaju snimljene korake za reprodukciju](https://docs.microsoft.com/microsoftteams/log-files). **Napomena**: provjerite jeste li snimili adresu za prijavu na koju je korisnik na to utječe.
+    - Prikupite podatke izvatka i/ili koša kvara (Windows). Pokrenite Windows powershell na uređaju na kojem se ruši rušenje i pokrenite sljedeće naredbe (nakon svake naredbe pritisnite Enter):
 
     `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
     `notepad .\FaultBuckets.txt`

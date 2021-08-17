@@ -1,5 +1,5 @@
 ---
-title: Prilagodba slike glavnog računala sesije za virtualni radni dio sustava Windows
+title: Prilagodba slike glavnog računala sesije za Windows virtualne radne površine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003902"
 - "6957"
-ms.openlocfilehash: 23bf130aad5bafa6756f0adfc2e58a130c2f6c4e
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 2740fc58b33606e8475b4d8a80b62330d1deeaacd48b7c8035a75eb93e93c2a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49691947"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118628"
 ---
-# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Prilagodba slike glavnog računala sesije za virtualni radni dio sustava Windows
+# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Prilagodba slike glavnog računala sesije za Windows virtualne radne površine
 
-Virtualni stroj (VM) mogu pripremiti na dva načina pomoću glavne virtualne slike tvrdog diska za Windows Virtual Desktop:
+Virtualno računalo (VM) možete pripremiti na dva načina pomoću glavne slike virtualnog tvrdog diska za Windows virtualnu radnu površinu:
 
-1. [Stvorite VM s upravljane slike u servisu Azure](https://go.microsoft.com/fwlink/?linkid=2127906), a zatim prijeđite na [pripremu i instalaciju softvera](https://go.microsoft.com/fwlink/?linkid=2128064).
-1. [Stvorite sliku lokalno](https://go.microsoft.com/fwlink/?linkid=2128065) tako da preuzmete sliku, [dodijelite dodjelu programa Hyper-V VM](https://go.microsoft.com/fwlink/?linkid=2127907), a zatim je prilagodite da odgovara vašim potrebama.
+1. [Stvorite virtualno računalo s upravljane slike na servisu Azure](https://go.microsoft.com/fwlink/?linkid=2127906), a zatim prijeđite na [pripremu i instalaciju softvera](https://go.microsoft.com/fwlink/?linkid=2128064).
+1. [Stvorite sliku lokalno preuzimanjem](https://go.microsoft.com/fwlink/?linkid=2128065) slike, dodjelom resursa značajke [Hyper-V VM, a](https://go.microsoft.com/fwlink/?linkid=2127907)zatim je prilagođavajte svojim potrebama.
 
-Dodatne informacije potražite u članku [priprema i prilagodba matrice VHD slike](https://go.microsoft.com/fwlink/?linkid=2127838).
+Dodatne informacije potražite u članku [Priprema i prilagodba glavne VHD slike.](https://go.microsoft.com/fwlink/?linkid=2127838)

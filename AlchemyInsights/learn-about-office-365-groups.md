@@ -1,5 +1,5 @@
 ---
-title: 610 Saznajte više o grupama sustava Microsoft 365
+title: 610 Saznajte više o Microsoft 365 grupama
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 7ada16406b79317882831c54bdee117153723dd9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d58d72ff81be8b1ea2873996043f2b08b550233ab4a817f4e2476944624a17b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087452"
 ---
-# <a name="learn-about-microsoft-365-groups"></a>Saznajte više o Microsoftovim 365 grupama
+# <a name="learn-about-microsoft-365-groups"></a>Saznajte više o Microsoft 365 grupama
 
-Grupe Microsoft 365 servis je koji funkcionira s alatima za Office 365 koje već koristite, pa možete surađivati sa svojim suigračima prilikom pisanja dokumenata, stvaranja proračunskih tablica, rada na planovima projekta, zakazivanja sastanaka ili slanja e-pošte. Dodatne informacije potražite u članku [upoznavanje s grupama Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Microsoft 365 Grupe su servis koji funkcionira s alatima Office 365 koje već koristite, pa možete surađivati s kolegama u timu prilikom pisanja dokumenata, stvaranja proračunskih tablica, rada na tarife projekata, zakazivanja sastanaka ili slanja e-pošte. Dodatne informacije potražite u članku [Dodatne informacije o Microsoft 365 grupama](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

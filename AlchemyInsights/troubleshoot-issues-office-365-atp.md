@@ -1,5 +1,5 @@
 ---
-title: Otklanjanje poteškoća s programom Microsoft Defender Office 365
+title: Otklanjanje poteškoća s programom Microsoft Defender za Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,22 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 2a770796fe535725e3bfbbd28ac759eca0c61e3d9c9be94465af2d0988bff7c9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7ffab72bc4c00ecc1c6d0e92263800c99858980c11764d307914635370306087
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53939155"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890294"
 ---
-# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Otklanjanje poteškoća s programom Microsoft Defender Office 365
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Otklanjanje poteškoća s programom Microsoft Defender za Office 365
 
-- **Obavijest o kašnjenjima s isporukom poruke e-pošte**? Pokušajte koristiti mogućnost dinamičke isporuke za pravilnike programa Microsoft Defender za Office 365 Sef privitke. Time ćete izbjeći kašnjenja isporuke poruka e-pošte uz zaštitu primatelja od zlonamjernih datoteka.
+- **Obavijest o kašnjenjima s isporukom poruke e-pošte**? Pokušajte koristiti mogućnost dinamičke isporuke za Microsoft Defender za pravilnike Office 365 Sef privitke. Time ćete izbjeći kašnjenja isporuke poruka e-pošte uz zaštitu primatelja od zlonamjernih datoteka.
 - **Želite li prijaviti lažno pozitivne ili neistinitu negativnu vrijednost**? Koristite [Eksplorer za podneske.](https://protection.office.com/reportsubmission)
 - **Jeste li znali da možete omogućiti Microsoft Defender za Microsoft Defender za zaštitu Office 365 Sef veza za e-poštu poslanu između osoba u vašoj tvrtki ili ustanovi**? Slijedite ove korake:
     1. Idite https://protection.office.com na , a zatim se prijavite.
-    2. Idite na **Pravilnik o upravljanju**  >    >  **prijetnjama Sef veze**.
+    2. Idite na **Pravila upravljanja**  >  **prijetnjama**  >  **Sef Veze**.
     3. U **odjeljku Pravila koja se odnose na određene primatelje** uredite (ili dodajte) pravilnik.
     4. Odaberite **Primijeni sigurne veze na poruke poslane unutar tvrtke ili ustanove**.
     5. Spremite pravilnik i omogućite primjenu promjena u do 30 minuta.
 
-- Dodatne informacije o programu Microsoft Defender za Office 365 potražite u članku [Microsoft Defender Office 365](/microsoft-365/security/office-365-security/office-365-atp).
+- Dodatne informacije o programu Microsoft Defender za Office 365 potražite u članku [Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).

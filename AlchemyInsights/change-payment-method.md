@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500008"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895483"
 ---
 # <a name="change-payment-method"></a>Promjena načina plaćanja
 
@@ -36,6 +36,6 @@ Način plaćanja možete promijeniti iz Centar za administratore okruženja Micr
 6. U **oknu Dodavanje načina plaćanja** unesite podatke o računu, a zatim odaberite **Spremi**. Morate koristiti način plaćanja iz iste države kao i klijent.
 7. Novi način plaćanja već je odabran na padajućem popisu. Odaberite **Zamijeni**.
 
-Upute za dodavanje, ažuriranje, zamjena ili brisanje načina plaćanja pogledajte u članku Upravljanje [načinima plaćanja](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Upute za dodavanje, ažuriranje, zamjena ili brisanje načina plaćanja pogledajte u članku Upravljanje [načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Da biste saznali kako promijeniti način plaćanja, pogledajte [kako platiti pretplatu](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+Da biste saznali kako promijeniti način plaćanja, pogledajte [kako platiti pretplatu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
