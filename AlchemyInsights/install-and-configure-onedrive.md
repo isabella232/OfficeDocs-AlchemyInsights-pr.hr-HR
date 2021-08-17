@@ -1,5 +1,5 @@
 ---
-title: Instalacija i konfiguriranje servisa OneDrive
+title: Instalacija i konfiguriranje OneDrive
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609503"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078110"
 ---
-# <a name="install-and-configure-onedrive"></a>Instalacija i konfiguriranje servisa OneDrive
+# <a name="install-and-configure-onedrive"></a>Instalacija i konfiguriranje OneDrive
 
-Klijent za sinkronizaciju servisa OneDrive unaprijed je instaliran sa sustavom Windows 10. Da biste instalirali OneDrive za Windows 7 ili Mac ili da biste dobili mobilnu aplikaciju za telefon ili tablet, otvorite [https://onedrive.com/download](https://onedrive.com/download) .
+Klijent Sinkronizacija sa servisom OneDrive je unaprijed instaliran s Windows 10. Da biste OneDrive za Windows 7 ili Mac ili mobilnu aplikaciju za telefon ili tablet, idite na [https://onedrive.com/download](https://onedrive.com/download) .
   
-Da biste postavili klijent za sinkronizaciju servisa OneDrive u sustavu Windows, pročitajte sljedeće:
+Da biste postavili klijent Sinkronizacija sa servisom OneDrive u Windows, pogledajte sljedeće:
   
-- Na [servisu OneDrive postavite vodič](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) za početak rada sa spremištem datoteka na servisu OneDrive, zajedničkim korištenjem, suradnjom i funkcijama sinkronizacije.
+- [OneDrive vodič za početak](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) rada s mogućnostima pohrane OneDrive datoteka, zajedničkog korištenja, suradnje i sinkronizacije.
 
-- [Postavljanje računala za sinkronizaciju datoteka sa servisa OneDrive za tvrtke](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Postavljanje računala za sinkronizaciju OneDrive za tvrtke datoteka](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [Sinkronizacija datoteka sustava SharePoint s novim klijentom za sinkronizaciju servisa OneDrive](https://go.microsoft.com/fwlink/?linkid=871666)

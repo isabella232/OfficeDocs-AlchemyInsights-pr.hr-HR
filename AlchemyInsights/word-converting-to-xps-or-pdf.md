@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 1fe4b99b480de199e531cec22015a5fe00453d82
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2fb5d7ca8e074e69dbb7c35aab35754c14508a5d91b12a1fc943fadda242040
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047212"
 ---
 # <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Rješavanje problema s pretvaranjem dokumenta programa Word u XPS ili PDF
 
@@ -41,4 +41,4 @@ Evo nekih rješenja za uobičajene probleme.
 
 2. U **prozoru Objavi kao PDF ili XPS odaberite** **Mogućnosti**  >  **oznake strukture dokumenta radi pristupačnosti.** Postavite sve željene mogućnosti i odaberite U **redu**.
 
-Dodatne informacije o mogućnostima pretvaranja datoteka sustava Office u XPS ili PDF potražite u članku [Spremanje ili pretvaranje u PDF ili XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).
+Dodatne informacije o mogućnostima pretvaranja datoteka Office u XPS ili PDF potražite u članku [Spremanje ili pretvaranje u PDF ili XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).

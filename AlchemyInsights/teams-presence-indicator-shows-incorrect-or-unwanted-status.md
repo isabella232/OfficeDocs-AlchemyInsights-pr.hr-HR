@@ -1,5 +1,5 @@
 ---
-title: Pokazatelji prisutnosti timova ukazuju na neispravno ili neželjen status
+title: Teams prisutnosti prikazuje netočan ili neželjen status
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003301"
 - "6205"
-ms.openlocfilehash: ee870e4b47da5bf1fbe4bc9248fc3e36273c2c87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e30545b995b198d3b12a71d0f68259c9cdf977d304d4d6f11ce360f53daf1fae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106464"
 ---
-# <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Pokazatelji prisutnosti timova ukazuju na neispravno ili neželjen status
+# <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Teams prisutnosti prikazuje netočan ili neželjen status
 
-Timovi automatski postavljaju status na temelju:
+Teams automatski postavlja vaš status na temelju:
 
-- Aktivnost na računalu ili u timovima Mobile.
-- Postavke sastanaka i automatskih odgovora u programu Outlook.
+- Aktivnost na računalu ili u Teams mobilnom uređaju.
+- Sastanci i postavke automatskog odgovora u Outlook.
 
-Dodatne informacije potražite u članku [prisutnost korisnika u timovima](https://docs.microsoft.com/microsoftteams/presence-admins).  
+Dodatne informacije potražite u članku [Prisutnost korisnika u sustavu Teams](https://docs.microsoft.com/microsoftteams/presence-admins).  
 
-Možete, međutim, postaviti status timova koji nadjačava ove postavke tako da odaberete postojeći status i odaberete neku drugu. Pojedinosti potražite u članku [Promjena statusa u timovima](https://support.microsoft.com/office/change-your-status-in-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e).
+No možete postaviti status Teams nadjačava te postavke tako da odaberete trenutni status i odaberete neki drugi. Detalje potražite u članku [Promjena statusa u programu Teams](https://support.microsoft.com/office/change-your-status-in-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e).
