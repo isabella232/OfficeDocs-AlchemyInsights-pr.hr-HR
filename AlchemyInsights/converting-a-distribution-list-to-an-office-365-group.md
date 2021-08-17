@@ -1,5 +1,5 @@
 ---
-title: 712 Pretvaranje popisa za raspodjelu u grupu sustava Microsoft 365
+title: 712 Pretvaranje popisa za raspodjelu u Microsoft 365 grupe
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: bf67bb6cde723ceb878488a0bfbe08315a945949
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
+ms.openlocfilehash: 3193dfa1223f91533e17f31f6db4061d09266a6f2e4f1b46fffc40f8fb50fda1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51897305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081134"
 ---
-# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>Pretvaranje grupe za raspodjelu u grupu sustava Microsoft 365
+# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>Pretvaranje grupe za raspodjelu u grupu Microsoft 365 grupi
 
-Grupe za raspodjelu možete pretvoriti u grupe sustava Microsoft 365 ako zadovoljavaju određene kriterije. Da biste pretvorili grupu ili otklonili poteškoće s pretvorbom, pogledajte članak [Nadogradnja popisa za raspodjelu u grupe sustava Microsoft 365 u programu Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).
+Grupe za raspodjelu možete pretvoriti u Microsoft 365 grupe ako zadovoljavaju određene kriterije. Da biste pretvorili grupu ili otklonili poteškoće s pretvorbom, pogledajte [nadogradnja popisa za raspodjelu na Microsoft 365 grupe u Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).
 
-Imamo i skriptu koju možete pokrenuti radi provjere valjanosti uvjeta grupe za raspodjelu za nadogradnju na [Grupu sustava Microsoft 365](https://aka.ms/DLToM365Group).
+Imamo i skriptu koju možete pokrenuti radi provjere valjanosti uvjeta grupe za raspodjelu za nadogradnju [na Microsoft 365 grupi](https://aka.ms/DLToM365Group).

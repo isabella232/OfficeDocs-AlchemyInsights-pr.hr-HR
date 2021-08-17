@@ -1,5 +1,5 @@
 ---
-title: Postavljanje funkcije
+title: Postavljanje DKIM-a
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,43 +10,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: b34bfdafcab6229a4dd2e9d9f23103fa13556482
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc90965516cc4d360b9be56c7737c6d134123ea8ac263b092559dd1416faff4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808699"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108548"
 ---
-# <a name="setup-dkim"></a>Postavljanje funkcije
+# <a name="setup-dkim"></a>Postavljanje DKIM-a
 
-U programu Microsoft [365 nalaze se](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)potpune upute za konfiguriranje servisa d ' dekima za prilagođene domene u Microsoftu.
+Cjelovite upute za konfiguriranje DKIM-a za prilagođene domene u aplikaciji Microsoft 365 su [ovdje](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
-1. Za **svaku** prilagođenu domenu morate stvoriti **dva** DKIM CNAME zapisa na servisu za hostiranje DNS-a u domeni (obično je registrar domena). Primjerice, contoso.com i fourthcoffee.com zahtijevaju četiri DKIM CNAME zapisa: dva za contoso.com i dva za fourthcoffee.com.
+1. Za **svaku** prilagođenu domenu morate stvoriti **dva** DKIM CNAME zapisa na servisu za hostiranje DNS-a domene (obično registrar domene). Primjerice, contoso.com fourthcoffee.com četiri DKIM CNAME zapisa: dva za contoso.com i dva za fourthcoffee.com.
 
-   Zapisi u programu defunkcija CNAME za **svaku** prilagođenu domenu koriste sljedeće oblike:
+   DKIM CNAME zapisi za **svaku prilagođenu** domenu koriste sljedeće oblike:
 
-   - **Naziv glavnog računala**: `selector1._domainkey.<CustomDomain>`
+   - **Naziv glavnog računala:**`selector1._domainkey.<CustomDomain>`
 
-     **Upućuje na adresu ili vrijednost**: `selector1-<DomainGUID>._domainkey.<InitialDomain>`
-
-     **TTL**: 3600
-
-   - **Naziv glavnog računala**: `selector2._domainkey.<CustomDomain>`
-
-     **Upućuje na adresu ili vrijednost**: `selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Upućuje na adresu ili vrijednost:**`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\> je li tekst s desne strane `.mail.protection.outlook.com` u PRILAGOĐENOM MX zapisu za prilagođenu domenu (na primjer, `contoso-com` za domenu contoso.com). \<InitialDomain\> domena koju ste koristili kada ste se prijavili za Microsoft 365 (na primjer, contoso.onmicrosoft.com).
+   - **Naziv glavnog računala:**`selector2._domainkey.<CustomDomain>`
 
-2. Kada stvorite CNAME zapise za prilagođene domene, ispunite sljedeće upute:
+     **Upućuje na adresu ili vrijednost:**`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
-   je. [prijavite se u Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) pomoću računa tvrtke ili obrazovne ustanove.
+     **TTL**: 3600
 
-   b. U gornjem desnom kutu odaberite ikonu Pokretača aplikacija, a zatim **administrator**.
+   \<DomainGUID\> je tekst s lijeve strane u prilagođenom `.mail.protection.outlook.com` MX zapisu za prilagođenu domenu (na primjer, `contoso-com` za domenu contoso.com). \<InitialDomain\>je domena koju ste koristili prilikom registracije za Microsoft 365 (npr. contoso.onmicrosoft.com).
 
-   c. U donjem desnom navigacijskom oknu proširite **administrator** i odaberite **Exchange**.
+2. Kada izradite CNAME zapise za prilagođene domene, slijedite sljedeće upute:
 
-   d. Idite na **zaštitu**  >  **d-kim**.
+   a. [prijavite se u Microsoft 365 pomoću](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) računa za posao ili školu.
 
-   e. Odaberite domenu, a zatim odaberite **Omogući** za **potpisivanje poruka za ovu domenu s DKIM potpisima**. Ponovite ovaj korak za svaku prilagođenu domenu.
+   b. Odaberite ikonu pokretača aplikacija u gornjem lijevom kutu i odaberite **Administrator**.
+
+   c. U donjem lijevom navigacijskom oknu **proširite Odjeljak Administrator** i **odaberite Exchange**.
+
+   d. Idite **na Zaštita**  >  **DKIM**.
+
+   e. Odaberite domenu, a zatim **odaberite Omogući** **za potpisivanje poruka za ovu domenu s DKIM potpisima**. Ponovite ovaj korak za svaku prilagođenu domenu.
