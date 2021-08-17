@@ -15,19 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: fbe6a7e6541e9172301b848a0fa733f66af7c8d128ac8557ca2cd62cad1d06ad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54068876"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320981"
 ---
 # <a name="retail-prepaid-card"></a>Maloprodajna unaprijed plaćena kartica
 
-Ako ste Microsoft 365 Business Standard u maloprodajnoj trgovini, slijedite korake u nastavku da biste produljili datum isteka ili dodali licencu postojećoj pretplati.
+Ako ste Microsoft 365 Business Standard kupili u maloprodajnoj trgovini, slijedite korake u nastavku da biste produljili datum isteka ili dodali licencu postojećoj pretplati.
 
-> [!NOTE]
-> Da biste koristili ključ proizvoda da biste produljili datum isteka ili dodali licencu na postojeću pretplatu na Microsoft 365 Business Standard, potreban vam je novi i neiskorišteni ključ za istu Microsoft 365 pretplatu. Unos izvornog Microsoft 365 ključa proizvoda neće funkcionirati jer se ključ koji je već iskorišten ne može ponovno koristiti.
+**Napomena:** da biste koristili ključ proizvoda da biste produljili datum isteka ili dodali licencu na postojeću pretplatu Microsoft 365 Business Standard, potreban vam je novi i neiskorišteni ključ za istu Microsoft 365 pretplatu. Unos izvornog Microsoft 365 ključa proizvoda neće funkcionirati jer se ključ koji je već iskorišten ne može ponovno koristiti.
 
 1. U centru za administratore idite na stranicu **Naplata**  >  **[proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Pronađite pretplatu na koju želite proširiti ili dodati licencu. Odaberite [proširivanje datuma završetka](https://go.microsoft.com/fwlink/p/?linkid=842054) [ili dodavanje dodatnih licenci](https://go.microsoft.com/fwlink/p/?linkid=842054).

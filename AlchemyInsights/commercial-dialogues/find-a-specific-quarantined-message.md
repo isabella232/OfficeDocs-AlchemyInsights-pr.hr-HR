@@ -12,16 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967937"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898312"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Pronalaženje određene poruke u karanteni
 
-1. Idite u [centar za & usklađenost](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Idite na **Karantena pregleda**  >  **upravljanja**  >  **prijetnjama**.
-3. Odaberite **Pretraživanje**.
-4. Odaberite bilo koju kombinaciju uvjeta tako da potvrdite okvire pokraj njih (u ovom trenutku ne možete koristiti zamjenske znakove).
+1. Na portalu Microsoft 365 Defender na <https://security.microsoft.com> e-pošti idite na **Karantena za pregled &** \>  \> **suradnje**.
+
+   Da biste se izravno stavili na **stranicu Karantena,** koristite <https://security.microsoft.com/quarantine> .
+
+2. Na **stranici Karantena** provjerite je li **odabrana** kartica e-pošte, a zatim kliknite **Filtriraj**.
+3. Odaberite bilo koju kombinaciju svojstava da biste filtrirali i pronašli poruku.
+
+Dodatne informacije potražite u sljedećim temama:
+
+- [Traženje i izdavanje poruka u karanteni kao korisnika](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Upravljanje porukama i datotekama u karanteni kao administratorom](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 2b60d65f6f5144c00b23664075d05af1995d5baac7fb884c59cbe82efca3d198
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0b6155ce38cd2703a4bf406d73ebbc59eb4c9034
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013128"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320747"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Rješenja za probleme prilikom instalacije sustava Office
 
@@ -30,7 +30,8 @@ Isprobajte neko od ovih rješenja da biste riješili problem sa sustavom Office:
 - Očistite sve prijašnje tragove sustava Office te ga ponovno instalirajte putem pomoćnika za podršku i oporavak (SaRA). 
 
     - Preuzmite i pokrenite [Pomoćnik za podršku i oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy). Kada se otvori, u odjeljku **Deinstalacija proizvoda sustava Office** odaberite verziju koju želite deinstalirati (ako ih ima), a zatim kliknite **Dalje**. Nastavite prolaziti kroz zaslone te ponovno pokrenite računalo kada se to od vas zatraži. Nakon ponovnog pokretanja SaRA se automatski ponovno otvara da biste dovršili postupak deinstalacije.
-    - Upotrijebite SaRA-u da biste [ponovno instalirali Office](https://aka.ms/sara-officeinstall). **Napomena:**: za postavljanje programa Visio ili Project pomoću SaRA-e upotrijebite mogućnosti [Instalacija programa Visio](https://aka.ms/SaRA-VisioSetupScenario) ili [Instalacija programa Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Upotrijebite SaRA-u da biste [ponovno instalirali Office](https://aka.ms/sara-officeinstall). 
+    **Napomena:**: za postavljanje programa Visio ili Project pomoću SaRA-e upotrijebite mogućnosti [Instalacija programa Visio](https://aka.ms/SaRA-VisioSetupScenario) ili [Instalacija programa Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [Upotrijebite izvanmrežni instalacijski program za Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) da biste instalirali Office.
 
