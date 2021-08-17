@@ -1,5 +1,5 @@
 ---
-title: Single-Sign za pridružene uređaje servisa Azure Active Directory
+title: Single-Sign za Azure Active Directory spojene uređaje
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9891"
-ms.openlocfilehash: f6426a3fb4addc24c5041196fe837134bf0d296b
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 365225926296677feb7853481651a634792fd8bfa9abd9dc9359ffaae50b60eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51404361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050002"
 ---
-# <a name="single-sign-on-for-azure-active-directory-joined-devices"></a>Jednostruka prijava za uređaje pridružene servisu Azure Active Directory
+# <a name="single-sign-on-for-azure-active-directory-joined-devices"></a>Jedinstvena prijava za spojene Azure Active Directory uređaje
 
-Ako imate lokalno okruženje servisa Active Directory (AD) i želite se pridružiti računalima pridruženima AD domeni servisu Azure AD, to možete postići hibridnim pridruživanjem servisa Azure AD. [Upute: planiranje hibridne implementacije pridruživanja servisa Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) nudi vam povezane korake za implementaciju hibridnog pridruživanja servisa Azure AD u okruženju.
+Ako imate lokalno okruženje servisa Active Directory (AD) i želite se pridružiti računalima pridruženima AD domeni servisu Azure AD, to možete postići hibridnim pridruživanjem servisa Azure AD. [Upute: planiranje hibridne implementacije Azure Active Directory pridruživanja](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) nudi vam povezane korake za implementaciju hibridnog pridruživanja servisa Azure AD u vašem okruženju.
 
-[Konfiguriranje uređaja pridruženih servisu Azure AD za lokalne Single-Sign u sustavu Windows Hello za tvrtke](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) 
+[Konfiguriranje uređaja pridruženih servisu Azure AD za lokalne Single-Sign Na Windows Hello za tvrtke](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) 
 
-**Problemi s tokenom primarnog osvježavanja (PRT)** Primarni token za osvježavanje (PRT) ključan je element provjere autentičnosti servisa Azure AD na uređajima sa sustavom Windows 10, Windows Server 2016 i novijim verzijama, uređajima sa sustavom iOS i Android. To je JSON web-token (JWT) koji je posebno izdan Microsoftovim tokenima za tokene prve strane da bi omogućio jedinstvenu prijavu (SSO) u aplikacijama koje se koriste na tim uređajima. [U aplikaciji Što je token](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)primarnog osvježavanja? na uređajima sa sustavom Windows 10 na uređajima sa sustavom Windows 10 pronaći ćemo pojedinosti o tome kako se izdaje, koristi i štiti PRT.
+**Problemi s tokenom primarnog osvježavanja (PRT)** Primarni token za osvježavanje (PRT) ključan je element provjere autentičnosti servisa Azure AD na uređajima sa sustavom Windows 10, Windows Server 2016 i novijim verzijama, uređajima sa sustavom iOS i Android. To je JSON web-token (JWT) koji je posebno izdan Microsoftovim tokenima za tokene prve strane da bi omogućio jedinstvenu prijavu (SSO) u aplikacijama koje se koriste na tim uređajima. [U programu Što je token primarnog osvježavanja?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)na uređajima ćemo navesti pojedinosti o tome kako se PRT izdaje, koristi i štiti na Windows 10 uređajima.
 
 **WamDefaultSet: DA i AzureADPrt: DA** Ta polja označavaju je li korisnik uspješno provjerio autentičnost servisa Azure AD prilikom prijave na uređaj. Ako su vrijednosti **NO**, može biti potrebno:
 

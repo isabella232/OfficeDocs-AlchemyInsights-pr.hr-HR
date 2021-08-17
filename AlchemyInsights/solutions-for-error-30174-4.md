@@ -1,5 +1,5 @@
 ---
-title: Rješenja za pogreške 30174-4
+title: Rješenja za pogrešku 30174-4
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: fee75a657db7c3e79a8098a9691b2f7d0490acd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca8f4d68eae7ff223e396925678fbcfd5af7537ff50153bf91d35ed04b41b554
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738629"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050146"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a>Kod pogreške 30174-4 prilikom instalacije sustava Office
+# <a name="error-code-30174-4-when-installing-office"></a>Kod pogreške 30174-4 prilikom instalacije Office
 
-Možda će vam se prikazati ova pogreška ako vam antivirusni softver, vatrozid, postavke proxy poslužitelja ili veza onemogućuje instalaciju sustava Office. Evo nekoliko načina na koje možete pokušati riješiti problem.
+Ta se pogreška može vidjeti ako vam antivirusni softver, vatrozid, postavke proxyja ili veza onemoguće instalaciju Office. Evo nekoliko stvari koje možete pokušati riješiti problem.
   
 - Korištenje ožičene veze
 
@@ -31,5 +31,5 @@ Možda će vam se prikazati ova pogreška ako vam antivirusni softver, vatrozid,
 
 - Privremeno isključivanje antivirusnog softvera
 
-[Kod pogreške 30174-4 prilikom instalacije sustava Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[Kod pogreške 30174-4 prilikom instalacije Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   
