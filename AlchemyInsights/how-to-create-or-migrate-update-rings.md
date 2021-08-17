@@ -1,5 +1,5 @@
 ---
-title: Stvaranje i migracija prstena za ažuriranje
+title: Stvaranje i migriranje prstenova ažuriranja
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 0d43e2d5a87e4b941fcc91671b41ea0aabc5bffe
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078794"
 ---
-# <a name="how-to-create-or-migrate-update-rings"></a>Stvaranje i migracija prstena za ažuriranje
+# <a name="how-to-create-or-migrate-update-rings"></a>Stvaranje i migriranje prstenova ažuriranja
 
-Slijedite upute u nastavku ako ste konfigurirali postavke ažuriranja u sustavu Windows 10 na portalu Intune Classic i željeli ste ih migrirati na portal Azure:
+Slijedite korake u nastavku ako ste konfigurirali Windows 10 ažuriranja na klasičnom portalu Intune i htjeli ih migrirati u Intune na portalu Azure:
 
-1. Idite na portal Azure i kliknite **sve servise**.
+1. Idite na portal Azure pa kliknite **Svi servisi**.
 2. U polje **Filtar** upišite **Intune**. U rezultatima kliknite **Microsoft Intune**.
-3. Kliknite **softverska ažuriranja**za  >  **Windows 10 ažuriranje prstenova**  >  **Stvaranje**.
+3. Kliknite **Ažuriranja softvera Windows 10** Ažuriraj  >  **prstenove**  >  **Stvori**.
 4. Unesite naziv, opis, a zatim kliknite **Konfiguriraj**.
-5. Konfigurirajte postavke softverskog ažuriranja tvrtke ili ustanove.
-6. Odaberite **u redu**.
-7. U **ringu stvaranje ažuriranja**odaberite **Stvori**.
+5. Konfigurirajte postavke ažuriranja softvera tvrtke ili ustanove.
+6. Odaberite **U redu**.
+7. U **odjeljku Stvaranje prstena za** ažuriranje **odaberite Stvori**.
