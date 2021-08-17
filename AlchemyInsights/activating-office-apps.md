@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889246"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314232"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivacija Microsoft 365 aplikacija
 
-**Napomena:** ako koristite stariju verziju programa Windows (npr. Windows 7), provjerite je li TLS 1.2 omogućen kao zadani. Dodatne informacije potražite u članku Ažuriranje radi omogućivanja [TLS 1.1 i TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)kao zadanih sigurnih protokola u aplikaciji WinHTTP Windows .
+**Napomena:** ako koristite stariju verziju sustava Windows (npr. Windows 7 SP1, Windows Server 2008 R2), omogućite TLS 1.2 kao zadano pomoću [jednostavnog popravka](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi). Dodatne informacije potražite u članku Ažuriranje radi omogućivanja [TLS 1.1 i TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)kao zadanih sigurnih protokola u aplikaciji WinHTTP Windows .
 
 Da biste aktivirali sustav Office, pročitajte:
 
@@ -29,7 +29,7 @@ Da biste aktivirali sustav Office, pročitajte:
 
 - [Aktivacija sustava Office na Mac računalu](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Napomena:**  Provjerite imate li Office 365 ili Microsoft 365 koja [obuhvaća klijentske aplikacije Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)npr. Microsoft 365 Business Standard, Microsoft 365 Apps za male tvrtke ili Microsoft 365 Apps za velike tvrtke. Osim toga, provjerite je li korisničkom računu koji koristite za prijavu u Office [dodijeljena licenca](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Napomena:**  Provjerite imate li Office 365 ili Microsoft 365 koja [obuhvaća klijentske aplikacije sustava Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)npr. Microsoft 365 Business Standard, Microsoft 365 Apps za male tvrtke ili Microsoft 365 Apps za velike tvrtke. Osim toga, provjerite je li korisnički račun koji koristite za prijavu Office aplikacijama [dodijeljena licenca](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 Da biste riješili poteškoće s aktivacijom sustava Office, pročitajte:
 
@@ -38,7 +38,7 @@ Da biste riješili poteškoće s aktivacijom sustava Office, pročitajte:
 
 - [Što pokušati ako ne možete instalirati ili aktivirati Office za Mac?](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Savjet** Na Windows uređajima možemo dijagnosticirati i automatski riješiti nekoliko uobičajenih Office problema s prijavama. Preuzmite i pokrenite **[Microsoft pomoćnik za podršku i oporavak da](https://aka.ms/SaRA-OfficeSignInScenario)** biste koristili naš automatizirani alat.
+**Savjet**: na Windows uređajima možemo dijagnosticirati i automatski riješiti nekoliko uobičajenih problema Office za prijavu. Preuzmite i pokrenite **[Microsoft pomoćnik za podršku i oporavak da](https://aka.ms/SaRA-OfficeSignInScenario)** biste koristili naš automatizirani alat.
 
 Ako se ne možete prijaviti u aplikacije Microsoft 365, slijedite korake u nastavku:
 

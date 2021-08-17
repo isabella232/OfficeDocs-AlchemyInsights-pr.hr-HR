@@ -14,17 +14,17 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50713497"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110672"
 ---
 # <a name="replica-set"></a>Skup replika
 
-Dodatak se naziva i kao upravljana domena. To je zapravo dva kontrolora domene koji se pokreću i održavaju u pozadini. Dva DCs uključuju jedan glavni DC i jedan Replikacijski DC. Sigurnosne kopije u ZBRAJANJEM (upravljana domena) automatizirani su postupak koji upravlja platformom Azure. U slučaju problema s upravljanom domenom, Podrška za Azure može vam pomoći u vraćanju iz sigurnosne kopije.
+AADDS se naziva i kao upravljana domena. To su zapravo dva kontrolora domena koja se vode i održavaju u stražnjem domenu. Dva DC-a obuhvaćaju jedan glavni DC i jednu replikaciju DC- a. Sigurnosne kopije u AADDS-u (upravljana domena) automatizirani su proces kojim upravlja platforma Azure. U slučaju problema s upravljanom domenom podrška za Azure može vam pomoći u vraćanju iz sigurnosne kopije.
 
-Svaki skup replika stvarate u virtualnoj mreži. Svaka Virtualna mreža mora biti postavljena na svaku drugu virtualnu mrežu koja sadrži skup replika upravljanih domena. Ta konfiguracija stvara topologiju Mesh Network koja podržava replikaciju imenika. Virtualna mreža može podržavati višestruke skupove replika, pod uvjetom da je svaki skup replika u nekoj drugoj virtualnoj subnetu.
+Svaku repliku stvarate u virtualnoj mreži. Svaka virtualna mreža mora biti ravnopravna sa svakom drugom virtualnom mrežom koja hostira skup replika upravljane domene. Ta konfiguracija stvara mrežnu topologiju mreže koja podržava replikaciju direktorija. Virtualna mreža može podržavati više skupova replika, pod uvjetom da se svaki skup replika nalazi na drugoj virtualnoj podmreži.
 
-Dodatne informacije o skupu replika potražite u članku [Koncepti Skupovi replika](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).
+Dodatne informacije o skupu replika potražite u članku [Skupovi replika koncepta](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).

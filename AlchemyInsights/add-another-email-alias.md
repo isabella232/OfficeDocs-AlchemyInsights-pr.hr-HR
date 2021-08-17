@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 3009984f0582453cd9d37ee8240efcf71f93383c0cee7b7a26a629a963ba0091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b50f9c8d64a77865f03357fd3442c8d367b6e96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53936337"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314060"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Stvaranje ili dodavanje pseudonima e-pošte za korisnika
 
@@ -31,7 +31,7 @@ Morate stvoriti pseudonim e-pošte za korisnika ili dodati dodatnu adresu e-poš
     
 4. U okvir **Pseudonim** upišite novu poruku e-pošte, a zatim odaberite **Dodaj**. Ako ste pretplatu kupili od servisa GoDaddy ili nekog drugog partnera, da biste novi pseudonim postavili kao primarni, morate otići na konzolu za upravljanje GoDaddy/partnerom. 
     
-    **VAŽNO**: Ako vam se pojavi poruka o pogrešci " Nije moguće pronaći parametar koji odgovara nazivu **parametra "EmailAddresses"** znači da Microsoftu treba malo dulje da dovrši postavljanje klijenta ili prilagođene domene ako ste ga nedavno dodali. Postupak postavljanja može potrajati do 4 sata. Pričekajte neko vrijeme da postupak postavili ima vremena za završetak, a zatim pokušajte ponovno. Ako se problem nastavi pojavljivati, nazovite podršku i oni će za vas napraviti potpunu sinkronizaciju.
+    **Važno**: Ako vam se pojavi poruka o pogrešci " Parametar nije pronađen koji odgovara nazivu **parametra "EmailAddresses"** znači da Microsoftu treba malo dulje da dovrši postavljanje klijenta ili prilagođene domene ako ste ga nedavno dodali. Postupak postavljanja može potrajati do četiri sata. Pričekajte neko vrijeme da postupak postavili ima vremena za završetak, a zatim pokušajte ponovno. Ako se problem nastavi pojavljivati, nazovite podršku i oni će za vas napraviti potpunu sinkronizaciju.
     
     Novi pseudonim obično traje oko 30 minuta.
     

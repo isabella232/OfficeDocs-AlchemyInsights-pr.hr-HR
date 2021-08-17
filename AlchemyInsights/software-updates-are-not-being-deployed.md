@@ -1,5 +1,5 @@
 ---
-title: Softverska ažuriranja ne implementiraju se
+title: Ažuriranja softvera ne implementira se
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bc1832dcfbd885f01c88c632f6cf2bad61363900e11ce0e00f99a7a2dcd9f3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084518"
 ---
-# <a name="software-updates-are-not-being-deployed"></a>Softverska ažuriranja ne implementiraju se
+# <a name="software-updates-are-not-being-deployed"></a>Ažuriranja softvera ne implementira se
 
-Ako ste konfigurirali softverska ažuriranja putem prstena za ažuriranje sustava Windows 10, ali se ažuriranja ne implementiraju, pokušajte sljedeće:  
+Ako ste softverska ažuriranja konfigurirali putem Windows 10 ažuriranja, no ažuriranja se ne implementirati, pokušajte sljedeće:  
 
-- Razmislite o promjeni servisa Windows uz  **polugodišnju**  vrstu izdanja kanala do striktnijeg, čestog izdanja.
-- Provjerite vremensko razdoblje za  **Ažuriranje kvaliteta**  i  **Ažuriranje značajki**. Vremensko razdoblje može dovesti do kašnjenja u ažuriranju za do 180 dana.
+- Razmislite o promjeni Windows iz vrste izdanja **polugodišnjeg** kanala u stroži, učestaliji tip izdanja.
+- Provjerite razdoblje odgode za **Ažuriranje kvalitete** i **Ažuriranje značajki**. Razdoblje odgode može dovesti do kašnjenja ažuriranja do 180 dana.

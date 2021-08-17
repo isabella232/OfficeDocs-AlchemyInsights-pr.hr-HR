@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5708"
-ms.openlocfilehash: 0e371289cc1cf531909058ce2189cb3a5436d6fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c928d2fef83f2ae93aa764078739def8e1ec9f9d5cf3d9f11e22cd20702d4ddd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786877"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084743"
 ---
 # <a name="site-template-cannot-be-created"></a>Predložak web-mjesta nije moguće stvoriti
 
@@ -27,6 +27,6 @@ Predlošku možda nedostaje značajka i neće se aktivirati. Ako značajka nije 
 
 - Web-mjesto možda koristi previše resursa i stoga predložak web-mjesta premašuje ograničenje od 50 MB.
 
-- Postoje problemi s prikazom podataka s popisa koji koristi stupac s vrijednostima. Dodatne informacije potražite u članku Popis generiran predloškom ne prikazuje podatke s točnih [popisa pretraživanja u sustavu SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+- Postoje problemi s prikazom podataka s popisa koji koristi stupac s vrijednostima. Dodatne informacije potražite u članku Popis generiran predloškom ne prikazuje podatke s točnih [popisa pretraživanja u web-mjestu SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
 Detaljnije informacije o najčešćim problemima i rješenjima potražite u članku [Stvaranje i korištenje predložaka web-mjesta](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
