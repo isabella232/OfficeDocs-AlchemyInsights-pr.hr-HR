@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 7efb8895ac7e2816a2c6055ec3c08d6f7029d39d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2caf8e0878da0049667d9a19f4488eaec4b9327fbf36be7d29dbf4b7a9c89158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748981"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072512"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>E-pošta tijeka rada ne šalje se na popis ili biblioteku sustava SharePoint
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>E-pošta tijeka rada ne šalje se za SharePoint ili biblioteku
 
-1. E-pošta iz tijekova rada ne šalje se svim korisnicima ili samo određenim korisnicima ili vam se prikazuje pogreška **poruke e-pošte nije moguće poslati. Provjerite ima li e-pošta valjani primatelj**.
+1. E-pošta iz tijekova rada ne šalje se svim korisnicima ili samo određenim korisnicima ili se prikazuje pogreška Poruka e-pošte nije moguće poslati. Provjerite ima li **poruka e-pošte valjanog primatelja**.
 
-    Provjerite postoji li korisnik u grupi dozvole za **sve osobe** (popis korisničkih informacija) za tu zbirku web-mjesta.  Ogledni Direktni URL: https:// <tenant> . SharePoint.com/Sites/ <sitename> /_layouts/15/People.aspx? Člana Članigrupe = 0
+    Provjerite postoji li korisnik u grupi dozvola **Sve osobe** (popis korisničkih podataka) za tu zbirku web-mjesta.  Ogledni izravni URL: https:// <tenant> .sharepoint.com/sites/ <sitename> /_layouts/15/people.aspx? MembershipGroupId=0
 
-    - Ako korisnik ne postoji, provjerite je li korisnik potpisan na stranicu. 
-    - Ako se radi o vanjskom korisniku, provjerite je li pozivnica prihvaćena.
-    - Ako korisnik postoji u grupi dozvole, provjerite je li adresa e-pošte točna.
-    - Ako adresa e-pošte korisnika nije postavljena ovdje, stvorite ogledno upozorenje za tog korisnika koji prisiljava sinkronizaciju tog korisničkog računa iz korisničkih profila sustava SharePoint na ovu zbirku web-mjesta.
+    - Ako korisnik ne postoji, provjerite je li korisnik prijavljen na stranicu. 
+    - Ako je vanjski korisnik, provjerite je li pozivnica prihvaćena.
+    - Ako korisnik postoji u grupi dozvola, provjerite je li adresa e-pošte točna.
+    - Ako adresa e-pošte korisnika nije ovdje postavljena, stvorite ogledno upozorenje za tog korisnika koje prisiljava sinkronizaciju tog korisničkog računa iz korisničkih profila SharePoint ovoj zbirci web-mjesta.
  
-2. E-pošta iz tijekova rada šalje se administratorima zbirke web-mjesta, ali ne i drugim korisnicima i prikazuje pogrešku **http zabranjen za <span>https:</span>/_vti_bin/Client.XVC.SP.Utilities.Utility.sendemail**.
+2. E-pošta iz tijekova rada šalje se administratorima zbirke web-mjesta, ali ne i drugim korisnicima i prikazuje se pogreška **HTTP Forbidden to <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Prikaz [odbijanja kada šaljete poruku e-pošte u grupu sustava SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Pogledajte [access denied when you send an email to a SharePoint group](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
-    Provjerite i je li funkcija **ograničen pristup korisničkim dozvolama za zaključavanje** web-mjesta aktivna.
+    Provjerite i nije li značajka **zaključavanja web-mjesta s korisničkim** dozvolama s ograničenim pristupom aktivna.
 
 
 ## <a name="related-topics"></a>Povezane teme
-Želite li isprobati Microsoft Flow u sustavu SharePoint Online?
-- [Stvaranje toka](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Želite li isprobati Microsoft Flow SharePoint online?
+- [Stvaranje Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint i Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
