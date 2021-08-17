@@ -1,5 +1,5 @@
 ---
-title: OneDrive se zaglavi na obradi promjena
+title: OneDrive je zapela na obradi promjena
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,15 +13,15 @@ ms.assetid: ''
 ms.custom:
 - "9003089"
 - "5842"
-ms.openlocfilehash: 984d7975e14d4ecfc91b4602470e4341f63d3122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 603afed979f9b15315fd41e1ab139936ec0bb7a21ad4bcb3a56279a104bc0267
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802625"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076049"
 ---
-# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive se zaglavi na obradi promjena
+# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive je zapela na obradi promjena
 
-Ako OneDrive tijekom dugo vremena pokaže "obradi promjene", to bi moglo biti zato što imate otvorenu datoteku na mreži, mnogo datoteka u redu čekanja ili vrlo veliku sinkronizaciju datoteka. Čitaj  [OneDrive zaglavi se na "obradi promjene"](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) za predložene korake i više informacija.
+Ako OneDrive dugo vremena prikazuje "Obrada promjena", to može biti zato što je otvorena internetska datoteka, mnogo datoteka zapelo u redu čekanja ili vrlo velika sinkronizacija datoteka. Čitanje [OneDrive zapelo u "Obrada promjena"](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) radi predloženih koraka i više informacija.
 
-Ako vam je potrebna dodatna pomoć, možete  [poslati e-poštu podršci za OneDrive](https://go.microsoft.com/fwlink/p/?LinkId=528676).
+Ako vam je potrebna pomoć, možete poslati poruku [e-pošte OneDrive podršku.](https://go.microsoft.com/fwlink/p/?LinkId=528676)

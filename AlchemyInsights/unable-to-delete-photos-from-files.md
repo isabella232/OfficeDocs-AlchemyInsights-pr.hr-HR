@@ -1,5 +1,5 @@
 ---
-title: 8000031 nije moguće izbrisati fotografije iz datoteka
+title: 8000031 Nije moguće izbrisati fotografije iz datoteka
 ms.author: daeite
 author: daeite
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 2735d7117969ceab23476f58cdcc3210ee912950799cc1082e151bff6bf692d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653352"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104948"
 ---
 # <a name="unable-to-delete-photos-from-files"></a>Nije moguće izbrisati fotografije iz datoteka
 
-Da biste izbrisali fotografije iz datoteka u Outlook.com, učinite sljedeće:
+Da biste izbrisali fotografije iz datoteka na Outlook.com:
   
-1. Otvorite mapu **ulazne pošte** ili **poslane stavke** i izbrišite poruku e-pošte na koju su priložene.
+1. Idite u mapu **Ulazna pošta** **ili Poslane** stavke i izbrišite poruku e-pošte kojoj su priložene.
 
 2. Uklonite stavke iz **izbrisanih stavki**.
 
-Dodatne informacije potražite u članku [Brisanje datoteka i fotografija na servisu Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Dodatne informacije potražite u [Outlook.](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx)
   
