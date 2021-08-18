@@ -1,5 +1,5 @@
 ---
-title: Omogućivanje povratnog pisanja lozinke u aplikaciji Azure AD Povezivanje
+title: Omogućivanje povratnog pisanja lozinke na servisu Azure AD Povezivanje
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 607e27c883f83b4b29347e764b8f2273cf0f117e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118196"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325379"
 ---
-# <a name="enable-password-writeback-in-azure-ad-connect"></a>Omogućivanje povratnog pisanja lozinke u aplikaciji Azure AD Povezivanje
+# <a name="enable-password-writeback-in-azure-ad-connect"></a>Omogućivanje povratnog pisanja lozinke na servisu Azure AD Povezivanje
 
 Da biste omogućili samoposlužno vraćanje izvorne lozinke, najprije omogućite mogućnost povratnog pisanja na servisu Azure AD Povezivanje. Na poslužitelju servisa Azure AD Povezivanje učinite sljedeće:
 
-1. Prijavite se na poslužitelj servisa Azure AD Povezivanje pokrenite čarobnjak za konfiguriranje **servisa Azure AD Povezivanje** Azure AD.
+1. Prijavite se na poslužitelj servisa Azure AD Povezivanje pokrenite čarobnjak za **konfiguriranje servisa Azure AD Povezivanje** azure AD.
 2. Na **stranici Dobro** došli kliknite **Konfiguriraj**.
 3. Na **stranici Dodatni zadaci** odaberite **Prilagodba mogućnosti sinkronizacije**, a zatim **kliknite Dalje**.
 4. Na **stranici Povezivanje Azure AD** unesite vjerodajnicu globalnog administratora za klijent azure, a zatim kliknite **Dalje**.
@@ -32,15 +32,14 @@ Da biste omogućili samoposlužno vraćanje izvorne lozinke, najprije omogućite
 7. Na **stranici Spremno za** konfiguriranje kliknite **Konfiguriraj** i pričekajte da postupak završi.
 8. Kada vidite završetak konfiguracije, kliknite **Izlaz**.
 
-Ako je u aplikaciji Azure AD Povezivanje omogućeno vraćanje pisanja lozinkom, konfigurirajte Azure AD SSPR za povrat pisanja.  Da biste omogućili vraćanje pisanja lozinke u SSPR-u, učinite sljedeće:
+Kada je u aplikaciji Azure AD Povezivanje omogućeno vraćanje pisanja lozinkom, konfigurirajte Azure AD SSPR za povrat pisanja.  Da biste omogućili vraćanje pisanja lozinke u SSPR-u, učinite sljedeće:
 
 1. Prijavite se na portal Azure pomoću globalnog administratorskog računa.
-2. Potražite i odaberite **Azure Active Directory**, kliknite Ponovno **postavljanje lozinke**, a zatim **kliknite Lokalne integracije**.
+2. Potražite i odaberite **Azure Active Directory**, kliknite **Ponovno postavljanje lozinke**, a zatim kliknite **Integracija lokalno**.
 3. Postavite mogućnost za pisanje lozinki u **lokalni direktorij? na** **Da**.
 4. Postavite mogućnost Dopusti **korisnicima otključavanje računa bez ponovnog postavljanja lozinke?** na **Da**.
 5. Kada budete spremni, kliknite **Spremi**.
 
-Dodatne informacije potražite u članku [Omogućivanje Azure Active Directory samoposlužnog](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)vraćanja izvorne lozinke u lokalno okruženje .
+Dodatne informacije potražite u članku [Omogućivanje Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)samoposlužnog vraćanja izvorne lozinke u lokalno okruženje .
 
-> [!NOTE]
->  Kada administrator ponovno postavi korisničku lozinku na portalu Azure, ako je taj korisnik združen ili se sinkronizira s lozinkama, lozinka se ponovno zapisi na lokalno. Za tu je funkciju potrebna licenca za Azure premium (P1 ili P2) i trenutno nije podržana na portalu Office administratora.
+**Napomena:** kada administrator ponovno postavi korisničku lozinku na portalu Azure, ako je taj korisnik združen ili sinkroniziran, lozinka će se ponovno napisati na lokalno. Za tu je funkciju potrebna licenca za Azure premium (P1 ili P2) i trenutno nije podržana na portalu Office administratora.

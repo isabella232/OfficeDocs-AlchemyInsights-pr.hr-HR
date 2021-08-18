@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fd2330f9ecfd30505d0508314fea85ede2dfb536
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894387"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323946"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Istraživanje krađe identiteta, neželjene pošte ili pogrešno filtrirane e-pošte
 
-Pomoću eksplorera za slanje pošaljite poruku Microsoftu. Odmah ćete dobiti povratne informacije o filtriranju poruka i razlogu zbog kojeg se pojavio problem. Evo sažetka koraka:
+Pomoću eksplorera za slanje pošaljite poruku Microsoftu. Odmah ćete dobiti povratne informacije o filtriranju poruka i razlogu na koji se pojavio problem. Evo sažetka koraka:
 
-1. Na portalu Microsoft 365 Defender , <https://security.microsoft.com> idite na E-pošta **&** \> **podnesci za suradnju**.
+1. Na portalu Microsoft 365 Defender , <https://security.microsoft.com> idite na **E-pošta &** \> **podnesci za suradnju**.
 
    Da biste se izravno idite na **stranicu Poslani,** koristite <https://security.microsoft.com/reportsubmission> .
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 13865acb75b60a824c1dde9427c11471e980ea9e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891995"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324436"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problemi s uklanjanjem uređaja izvan pogona ili uređaja izvan pogona iz inventara uređaja
 
@@ -26,7 +26,7 @@ Microsoft Defender za krajnju točku trenutno ne dopušta ručno uklanjanje zapi
 
 U sigurnosne svrhe uređaj ostaje na portalu kao povijesni zapis do 180 dana. No podaci o uređaju očišćeni su u skladu s konfiguriranim razdobljem zadržavanja.
 
-**Napomena:** Isključeni uređaj ili uređaj izvan pogona automatski se prebacuje u **neaktivno** stanje nakon sedam dana. Osim toga, uređaji koji nisu aktivni u zadnjih 30 dana ne uvrštiraju se u podatke koji odražavaju rezultat izlaganja upravljanje prijetnjama i ranjivostima ili Microsoftov sigurni rezultat za uređaje.
+**Napomena:** Isključeni uređaj ili uređaj izvan pogona automatski se prebacuje u **neaktivno** stanje nakon sedam dana. Osim toga, uređaji koji nisu aktivni u zadnjih 30 dana ne uvrštiraju se u podatke koji odražavaju rezultat upravljanje prijetnjama i ranjivostima ili Microsoftovu sigurnu ocjenu za uređaje.
  
 Ako i dalje ne želite vidjeti određene uređaje u prikazu inventara uređaja, pokušajte s postavljanjem oznake uređaja filtrirati uređaj izvan pogona iz prikaza Inventar uređaja.
 

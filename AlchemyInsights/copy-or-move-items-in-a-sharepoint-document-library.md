@@ -14,12 +14,12 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: c5595b4ae8accec71bc964bb34e5314f611abd3f81abc2c8503e176389f62045
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c32ec198c6f00cd8cee2eed9ade62f7632eb5114
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54119132"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325677"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiranje i premještanje stavki u biblioteci SharePoint dokumenata
 
@@ -27,20 +27,17 @@ Datoteke, mape i veze na različita mjesta u biblioteci dokumenata možete kopir
   
 1. U pregledniku dođite do datoteka, mapa ili veza koje želite premjestiti, a zatim kliknite **Kopiraj u** ili **Premjesti u**.
 
-    > [!NOTE]
-    > **Kopiranje na** i **Premještanje** u nisu dostupne ako koristite klasično iskustvo aplikacije SharePoint Online.
+    **Napomena:** **kopiranje na** i **Premještanje** u nisu dostupne ako koristite klasično iskustvo aplikacije SharePoint Online.
   
 2. U **odjeljku Odabir odredišta** odaberite mjesto na koje želite  kopirati ili premjestiti stavke ili kliknite Pregledaj web-mjesta da biste vidjeli cijeli popis web-mjesta.
 
-    > [!NOTE]
-    > Ako ne vidite druga web-mjesta navedena prilikom kopiranja stavki, kopiranje na svim web-mjestima nije konfigurirano. Da biste je omogućili, otvorite stranicu s postavkama centra za administratore SharePoint kliknite U **redu**.
+    **Napomena:** ako ne vidite druga web-mjesta navedena prilikom kopiranja stavki, kopiranje na svim web-mjestima nije konfigurirano. Da biste je omogućili, otvorite stranicu s postavkama centra za administratore SharePoint kliknite U **redu**.
   
     Da biste stvorili novu mapu, odaberite mjesto u hijerarhiji mapa, kliknite Nova **mapa**, unesite naziv mape, a zatim kliknite stavku da biste spremili naziv.
 
 3. Kliknite **Kopiraj ovdje ili** Premjesti **ovdje**.
 
-    > [!NOTE]
-    > Istovremeno možete kopirati do 500 MB datoteka i mapa. > Kada kopirate dokumente koji imaju povijest verzija, kopira se samo najnovija verzija. Kada premjestite dokumente, njihova se povijest premješta.
+    **Napomena:** istovremeno možete kopirati do 500 MB datoteka i mapa. > Kada kopirate dokumente koji imaju povijest verzija, kopira se samo najnovija verzija. Kada premjestite dokumente, njihova se povijest premješta.
   
  Kada se datoteka premjesti, ona će se i dalje prikazivati u izvorišnu direktoriju dok se u potpunosti ne premjesti na odredište, a zatim će se izbrisati. Datoteka će ostati u košu za smeće izvorišnih web-mjesta nakon što se premještanje dovrši i podliježe normalnom rasporedu recikliranja, osim ako je korisnik ne oporavi iz koša za smeće.
 

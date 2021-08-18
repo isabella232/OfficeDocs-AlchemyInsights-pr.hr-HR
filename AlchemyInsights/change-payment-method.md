@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895483"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324028"
 ---
 # <a name="change-payment-method"></a>Promjena načina plaćanja
 
@@ -30,8 +30,7 @@ Način plaćanja možete promijeniti iz Centar za administratore okruženja Micr
 2. Odaberite redak načina plaćanja koji želite zamijeniti. U desnom oknu navedeni su svi profili naplate i pojedinačne pretplate koji koriste odabrani način plaćanja.
 3. U desnom oknu odaberite **Zamijeni način plaćanja za sve stavke**.
 4. Da biste koristili postojeći način plaćanja, odaberite jedan s padajućeg popisa, a zatim odaberite **Zamijeni**.
-    > [!NOTE]
-    > Ako imate pretplate povezane s profilom za naplatu, možete ih platiti samo kreditnom ili debitnom karticom. Ako imate bankovne račune navedene na **stranici** Načini plaćanja, oni nisu dostupni za odabir na padajućem popisu.
+    **Napomena:** ako imate pretplate povezane s profilom za naplatu, možete ih platiti samo kreditnom ili debitnom karticom. Ako imate bankovne račune navedene na **stranici** Načini plaćanja, oni nisu dostupni za odabir na padajućem popisu.
 5. Da biste dodali novi način plaćanja, **odaberite Dodaj način plaćanja**.
 6. U **oknu Dodavanje načina plaćanja** unesite podatke o računu, a zatim odaberite **Spremi**. Morate koristiti način plaćanja iz iste države kao i klijent.
 7. Novi način plaćanja već je odabran na padajućem popisu. Odaberite **Zamijeni**.

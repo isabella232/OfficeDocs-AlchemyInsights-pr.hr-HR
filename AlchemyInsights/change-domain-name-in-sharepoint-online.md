@@ -1,5 +1,5 @@
 ---
-title: Promjena naziva domene u sustavu SharePoint Online
+title: Promjena naziva domene u web-mjestu SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: c45ee866ea5972199ed2539d61013a4f55c493eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f33ee5530d15fb32f74e6c41149ae1abedfb60396287113c59c6b4dc3af24017
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119816"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Promjena naziva domene u sustavu SharePoint Online
+# <a name="change-domain-name-in-sharepoint-online"></a>Promjena naziva domene u web-mjestu SharePoint Online
 
-Nažalost, nije moguće promijeniti naziv domene sustava SharePoint Online za vašu tvrtku ili ustanovu. Primjerice, ako se naziv tvrtke ili ustanove mijenja iz "contoso" u "Četvrta kava", ne možete promijeniti contoso.sharepoint.com u fourthcoffee.sharepoint.com.
+Nažalost, nije moguće promijeniti naziv domene SharePoint online za svoju organizaciju. Ako se, primjerice, naziv tvrtke ili ustanove promijeni iz "Contoso" u "Četvrta kava", ne možete promijeniti contoso.sharepoint.com u fourthcoffee.sharepoint.com.
   
-Da biste koristili naziv domene fourthcoffee.sharepoint.com, morate kupiti novu pretplatu i premjestiti sve poruke e-pošte, datoteke i ostale podatke koje želite zadržati na novoj pretplati.
+Da biste koristili naziv domene fourthcoffee.sharepoint.com, trebali biste kupiti novu pretplatu i premjestiti sve poruke e-pošte, datoteke i sve druge podatke koje želite zadržati na novoj pretplati.
   
- **Napomena**: da biste, primjerice, promijenili naziv web- https://contoso.sharepoint.com/sites/sample1 mjesta https://contoso.sharepoint.com/sites/sample2 , slijedite upute u [ovom članku](https://docs.microsoft.com/sharepoint/change-site-address). 
+ **Napomena:** da biste, primjerice, promijenili naziv web-mjesta iz https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 , slijedite upute u ovom [članku](https://docs.microsoft.com/sharepoint/change-site-address). 
   
-Informacije o premještanju stavki u bibliotekama dokumenata potražite u članku [Premještanje i kopiranje stavki iz biblioteke dokumenata sustava SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
+Informacije o premještanju stavki u bibliotekama dokumenata potražite u članku [Premještanje ili kopiranje stavki iz biblioteke SharePoint dokumenata](https://go.microsoft.com/fwlink/?linkid=2025831).
   

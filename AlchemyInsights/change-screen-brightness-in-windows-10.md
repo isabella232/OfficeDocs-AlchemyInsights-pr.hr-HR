@@ -1,5 +1,5 @@
 ---
-title: Promjena svjetline zaslona u sustavu Windows 10
+title: Promjena svjetline zaslona u Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: 6d858183e8a539c024b2228be71283043017819b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f8a310fd0259e2343fdb32c5af558fa205925faca5dc2ab7a637e0de1a5fbd20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119749"
 ---
-# <a name="change-screen-brightness-in-windows-10"></a>Promjena svjetline zaslona u sustavu Windows 10
+# <a name="change-screen-brightness-in-windows-10"></a>Promjena svjetline zaslona u Windows 10
 
-Ako je vaš Windows 10 noviji od verzije 1903, u **akcijskom centru ima klizač** Svjetlina. Da biste otvorili akcijski centar, kliknite gumb **Obavijesti** na desnoj strani programske trake ili pritisnite Windows home **+ A** na tipkovnici.
+Ako je Windows 10 novija od verzije 1903, u akcijskom **centru ima klizač** Svjetlina. Da biste otvorili akcijski  centar, kliknite gumb Obavijesti na desnoj strani programske trake ili **pritisnite Windows home + A** na tipkovnici.
 
 ![Klizač Svjetlina](media/brightness-slider.png)
 
-Ako je vaš Windows 10 starija verzija, klizač svjetline možete pronaći tako da otvorite **[Postavke > System > Display](ms-settings:display?activationSource=GetHelp)**.
+Ako je Windows 10 verzija, klizač svjetline možete pronaći tako da odete na **[Postavke > System > Display](ms-settings:display?activationSource=GetHelp)**.
 
 **Bilješke**:
 
