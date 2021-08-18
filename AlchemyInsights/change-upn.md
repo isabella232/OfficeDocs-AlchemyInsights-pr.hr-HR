@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082394"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332427"
 ---
 # <a name="change-a-users-email-address"></a>Promjena korisnikova adrese e-pošte
 
@@ -31,7 +31,7 @@ Promjena nečije adrese e-pošte jednostavna je! Samo slijedite ove korake:
     
 4. U okvir **Pseudonim** upišite novu poruku e-pošte, a zatim odaberite **Dodaj**.
     
-    **VAŽNO**: Ako vam se pojavi poruka o pogrešci " Nije moguće pronaći parametar koji odgovara nazivu **parametra "EmailAddresses"** znači da Microsoftu treba malo dulje da dovrši postavljanje klijenta ili prilagođene domene ako ste ga nedavno dodali. Postupak postavljanja može potrajati do 4 sata. Pričekajte neko vrijeme da bi postupak postavljanja završio, a zatim pokušajte ponovno. Ako se problem nastavi pojavljivati, nazovite podršku i oni će za vas napraviti potpunu sinkronizaciju.
+    **Važno**: Ako vam se pojavi poruka o pogrešci " Parametar nije pronađen koji odgovara nazivu **parametra "EmailAddresses"** znači da Microsoftu treba malo dulje da dovrši postavljanje klijenta ili prilagođene domene ako ste ga nedavno dodali. Postupak postavljanja može potrajati do četiri sata. Pričekajte neko vrijeme da bi postupak postavljanja završio, a zatim pokušajte ponovno. Ako se problem nastavi pojavljivati, nazovite podršku i oni će za vas napraviti potpunu sinkronizaciju.
     
     Ako vam se prikazuje poruka o pogrešci " **Nažalost, korisnika nije moguće uređivati. Pregledajte korisničke podatke i** pokušajte ponovno " to znači da niste globalni administrator i nemate dozvole za promjenu korisničkog imena.
     

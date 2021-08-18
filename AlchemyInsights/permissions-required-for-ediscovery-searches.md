@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973833"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338952"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Dozvole potrebne za pretraživanja predočavanja elektroničkih elektroničkih podataka
 
-Da biste izvršili pretraživanje sadržaja u centru za usklađenost sustava &, korisnik mora biti barem član grupe uloga upravitelja elektroničkih elektroničkih obveza, što im omogućuje izvođenje pretraživanja i mjesta na poštanskim sandučićima, web-mjestima SharePoint i OneDrive mjestima. Članovi mogu stvarati i upravljati slučajevima predočavanja elektroničkih podataka, dodavati i uklanjati članove u slučaj, stvarati i uređivati pretraživanja sadržaja te pristupati podacima o slučajevima u Advanced eDiscovery.
+Da biste izvoditi xearches sadržaja u centru za & usklađenosti, korisnik mora barem biti član grupe uloga upravitelja elektroničkih elektroničkih obveza.
 
-Da biste In-Place eDiscovery pretraživanja u centru za administratore sustava Exchange (EAC), korisnik mora biti član grupe uloga Za upravljanje otkrivanjem u Exchange Online.
+Da biste pretražili sadržaj u Centar za usklađenost okruženja Microsoft 365, korisnik mora barem biti član grupe uloga upravitelja predočavanja elektroničkih elektroničkih podataka.  
 
-Dodatne informacije o dozvolama za predočavanje elektroničkih elektroničkih podataka potražite u članku: 
+Dodjela dozvola:
 
-- [Dodjela dozvola za predočavanje elektroničkih obveza u centru za & sigurnosti](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [Dodjela dozvola za predočavanje elektroničkih elektroničkih Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Idite [na Centar za usklađenost okruženja Microsoft 365](https://compliance.microsoft.com/)  >  **dozvole**.
+1. U **odjeljku Centar za** usklađenost **odaberite Uloge**, a zatim **Upravitelj predočavanja elektroničkih elektroničkih obveza**.
+1. Na letak dodajte korisnika u željenu ulogu tako da odaberete **Uredi** pokraj upravitelja elektroničkih predočavanja ili uloge administratora za predočavanje elektroničkih elektroničkih podataka.
 
 **Napomena:** nakon dodjele dozvola za predočavanje elektroničkih elektroničkih datoteka možda ćete morati pričekati nekoliko minuta da bi se dozvole proširile.
+
+Dodatne informacije o dozvolama za predočavanje elektroničkih elektroničkih podataka potražite u članku Dodjela dozvola [za predočavanje](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)elektroničkih elektroničkih Centar za usklađenost okruženja Microsoft 365 .

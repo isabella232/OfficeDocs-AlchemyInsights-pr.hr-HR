@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3583"
-ms.openlocfilehash: de1aa1537c9f5728533000949f869182633ae7277d5e2910b6e572a10195571d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f18c97ba9c374e44b2561e87e57bbd2d2a025e48
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54077822"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332773"
 ---
 # <a name="manage-updates-in-windows-10"></a>Upravljanje ažuriranjima u sustavu Windows 10
 
@@ -25,7 +25,8 @@ Sustav Windows 10 pruža vam mogućnost odabira kako i kada želite nabaviti naj
 
 - Kliknite **[Start > Postavke > Ažuriranja i sigurnost > Ažuriranja za Windows](ms-settings:windowsupdate)**.
 
-- Kliknite **Pauziraj ažuriranja na 7 dana** ili **Napredne mogućnosti**. Zatim u sekciji **Pauziraj ažuriranja** kliknite padajući izbornik i odredite datum za nastavak ažuriranja. **Pažnja**: nakon dosezanja granice za pauziranje, morat ćete instalirati najnovija ažuriranja prije no što ponovno budete mogli koristiti pauziranje ažuriranja.
+- Kliknite **Pauziraj ažuriranja na 7 dana** ili **Napredne mogućnosti**. Zatim u sekciji **Pauziraj ažuriranja** kliknite padajući izbornik i odredite datum za nastavak ažuriranja. 
+    **Pažnja**: nakon dosezanja granice za pauziranje, morat ćete instalirati najnovija ažuriranja prije no što ponovno budete mogli koristiti pauziranje ažuriranja.
 
 Da biste dovršili instaliranje ažuriranja, morat ćete ponovno pokrenuti uređaj. Ako se od vas zatraži da ponovno pokrenete uređaj dok nešto radite na njemu, možete zakazati ponovno pokretanje za vrijeme koje vam više odgovara:
 

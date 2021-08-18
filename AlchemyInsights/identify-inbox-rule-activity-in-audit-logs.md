@@ -13,12 +13,12 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1f252836d624b4550e1f3c87cf4fd7309dec6e91
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891287"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331115"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Prepoznavanje aktivnosti pravila ulazne pošte u zapisnicima nadzora
 
@@ -31,8 +31,8 @@ Pretraživanje zapisnika nadzora možete koristiti u Centar za usklađenost okru
 2. Na kartici **Pretraživanje** na **stranici Nadzor** konfigurirajte sljedeće postavke:
    - **Raspon datuma i vremena:** odaberite raspon datuma/vremena u **okvirima Početak** **i** Kraj.
    - **Aktivnosti**: odaberite jednu ili više sljedećih vrijednosti:
-     - **Novo-inboxRule Create inbox rule from Outlook Web App**
-     - **Pravilo izmjene pravila za postavljanje ulazne pošte iz Outlook Web App**.
+     - **Novo-ulazna poštaRule Stvori pravilo ulazne pošte iz Outlook Web App**
+     - **Pravilo za promjenu postavki ulazne pošte iz Outlook Web App**.
      - **Ažuriranje pravila ulazne pošte iz Outlook klijenta**
 
 3. Kada završite, kliknite **Pretraživanje**. Aktivnosti se prikazuju na novoj stranici **pretraživanja nadzora.**

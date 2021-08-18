@@ -1,5 +1,5 @@
 ---
-title: Dodavanje i uklanjanje ovlaštenika u aplikaciji Outlook webu (OWA)
+title: Dodavanje i uklanjanje delegata u aplikaciji Outlook webu (OWA)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7335"
-ms.openlocfilehash: d28b857a95a9959ed3b6b8954878f9c60a367db6d53e67e6729b174c5ce7b364
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4d5aecdd770aba0017dd4d99e680b51c31044b18
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53993417"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333023"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Dodavanje i uklanjanje ovlaštenika u aplikaciji Outlook webu (OWA)
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-on-the-web-owa"></a>Dodavanje i uklanjanje delegata u aplikaciji Outlook webu (OWA)
 
 Da biste kalendaru dodijelili pristup uređivača ili ovlaštenika:
 
@@ -30,16 +30,14 @@ Da biste kalendaru dodijelili pristup uređivača ili ovlaštenika:
 
     - Odaberite **Može uređivati** da biste im dali dozvolu za promjenu kalendara.
     - Odaberite **Ovlaštenika** da biste im dali istu dozvolu kao i urednik, a oni će primati zahtjeve za sastanak i odgovore u vaše ime.
-    > [!NOTE]
-    > Kada ovlaštenika odgovori na pozivnicu za sastanak u vaše ime, nećete vidjeti odgovor na pozivnicu u ulaznoj pošti prilikom korištenja Outlook na webu. Sastanci koji su prihvaćeni ili uvjetno prihvaćeni prikazat će se u vašem kalendaru i prikazivat će se da ih je vaš ovlaštenika prihvatio.
+    **Napomena:** kada ovlaštenika odgovori na pozivnicu za sastanak u vaše ime, nećete vidjeti odgovor na pozivnicu u ulaznoj pošti prilikom korištenja Outlook na webu. Sastanci koji su prihvaćeni ili uvjetno prihvaćeni prikazat će se u vašem kalendaru i prikazivat će se da ih je vaš ovlaštenika prihvatio.
     - Mogućnosti Mogu **pregledavati kada sam** zauzet , Može pregledavati  naslove i **mjesta** te Mogu pregledavati sve detalje drugim korisnicima omogućuju prikaz kalendara, ali ne i promjene u njemu. Pristup osobama izvan tvrtke ili ustanove ograničen je na te mogućnosti.
 
 5. Kada završite s dodavanjem osobe s kojom želite zajednički koristiti kalendar i odaberete koju dozvolu želite dati, odaberite **Zajedničko korištenje**. Ako odlučite da trenutno ne želite zajednički koristiti kalendar, odaberite **Ukloni**.
 
-Osoba s koju ste zajednički podijelili kalendar primit će poruku e-pošte e-pošte koja će mu reći o tome. Kada u pozivnici **odaberu** gumb Prihvati, on će dodati kalendar na popis kalendara.
+Osoba s koju ste zajednički podijelili kalendar primit će poruku e-pošte s porukom o tome. Kada u pozivnici **odaberu** gumb Prihvati, on će dodati kalendar na popis kalendara.
 
-> [!NOTE]
-> Stavke kalendara **označene kao Privatne** zaštićene su. Većina osoba s kojima zajednički koristite kalendar vidjet će samo vrijeme stavki s oznakom **Privatno,** a ne predmet, mjesto ili druge detalje. Iznimka je ako potvrdite okvir Dopusti **delegatu prikaz privatnih** događaja.
+**Napomena:** stavke kalendara **označene kao Privatne** zaštićene su. Većina osoba s kojima zajednički koristite kalendar vidjet će samo vrijeme stavki s oznakom **Privatno,** a ne predmet, mjesto ili druge detalje. Iznimka je ako potvrdite okvir Dopusti **delegatu prikaz privatnih** događaja.
 
 Uklanjanje ovlaštenika u aplikaciji Outlook webu (OWA):
 

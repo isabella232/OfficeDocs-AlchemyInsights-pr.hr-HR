@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 016f4b1caa05cb26d1e6795551b64737d4cb64a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898788"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332335"
 ---
 # <a name="investigate-all-the-users-activities"></a>Istraživanje svih aktivnosti korisnika
 
@@ -28,8 +28,7 @@ Evo kako to učiniti:
    - U Centar za usklađenost okruženja Microsoft 365 na <https://compliance.microsoft.com> idite na **Nadzor** \> **rješenja**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://compliance.microsoft.com/auditlogsearch> .
    - Na portalu Microsoft 365 Defender idite <https://security.microsoft.com> na **Nadzor**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://security.microsoft.com/auditlogsearch> .
 
-    > [!NOTE]
-    > Ako vidite obavijest da morate uključiti značajku, odmah je uključite. Ako značajka nije uključena, rezultati pretraživanja neće moći povući podatke iz prethodnih datuma.
+    **Napomena:** ako vidite obavijest da morate uključiti značajku, odmah je uključite. Ako značajka nije uključena, rezultati pretraživanja neće moći povući podatke iz prethodnih datuma.
 
 2. Na kartici **Pretraživanje** na **stranici Nadzor** konfigurirajte sljedeće postavke:
    - **Raspon datuma i vremena:** odaberite raspon datuma/vremena u **okvirima Početak** **i** Kraj.

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b76b3f2f96a1c086c7eb7de830908965d7207c0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888362"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333375"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Postavljanje pravilnika Sef privitka u programu Microsoft Defender za Office 365
 
-1. Na portalu Microsoft 365 Defender u odjeljku E-pošta & pravila suradnje & pravila <https://security.microsoft.com/>  \>  \>  \> **prijetnje Sef privici** **u odjeljku Pravila.**
+1. Na portalu Microsoft 365 Defender u odjeljku E-pošta <https://security.microsoft.com/> **& pravila** \> **suradnje & pravila** \>  \> **prijetnji Sef privici** u **odjeljku Pravila.**
 
    Da biste izravno na stranicu **Sef privitke,** koristite <https://security.microsoft.com/safeattachmentv2> .
 

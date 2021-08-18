@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963779"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339024"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Dodavanje administratora i upravljanje njima – preporučeni koraci
 
@@ -43,7 +43,7 @@ Administrator servisa ili su administrator mogu samostalno poslužiti ovu akciju
 
 1. Prijavite se na [portal Azure kao administrator](https://ms.portal.azure.com/#home) servisa.
 2. Otvorite [Pretplate](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) i odaberite pretplatu. (Su adminstratori se mogu dodijeliti samo u opsegu pretplate.)
-3. Otvorite klasični administratori kontrole programa **Access (IAM)** Dodavanje su administratora za dodavanje da biste otvorili okno Dodavanje su  >    >    >   **administratora** (ako je onemogućena mogućnost Dodaj su administratora, označava da nema dozvola).
+3. Otvorite klasični administratori kontrole programa **Access (IAM)** Dodavanje su administratora za dodavanje da biste otvorili okno Dodavanje su  >    >    >   **administratora** (ako je mogućnost Dodaj su administratora onemogućena, označava da nema dozvola).
 4. Odaberite korisnika kojeg želite dodati, a zatim kliknite **Dodaj**.
 
 **uči više:**
@@ -57,7 +57,7 @@ Administrator servisa ili su administrator mogu samostalno poslužiti ovu akciju
 
 Možete dodati nove korisnike ili izbrisati postojeće korisnike iz svoje Azure Active Directory (Azure AD) tvrtke ili ustanove:
 
-1. Da biste dodali novog korisnika, prijavite se na [portal Azure](https://ms.portal.azure.com/#home) kao korisnik-administrator za organizaciju.
+1. Da biste dodali novog korisnika, prijavite se na [portal Azure](https://ms.portal.azure.com/#home) kao korisnik-administrator tvrtke ili ustanove.
 2. Odaberite **Azure Active Directory**, **odaberite Korisnici,** a zatim **Kliknite Novi korisnik**.
 3. Na **stranici** Korisnik ispunite potrebne podatke. Kliknite **Stvori**. Korisnik se stvara i dodaje u klijent azure AD.
 
@@ -75,7 +75,7 @@ Možete dodati nove korisnike ili izbrisati postojeće korisnike iz svoje Azure 
 - [Vodič: Dodjela pristupa korisniku pomoću aplikacije RBAC i portala Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Otklanjanje poteškoća s RBAC-om na servisu Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Organiziranje resursa pomoću grupa za upravljanje servisom Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Kako zatražiti kopiju fakture za Azure putem e-pošte](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Kako zatražiti kopiju fakture za Azure putem e-pošte](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Dodavanje, ažuriranje ili uklanjanje kreditne ili debitne kartice sa servisa Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Upravljanje pretplatom (Ponovna aktivacija/otkazivanje/prebacivanje)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

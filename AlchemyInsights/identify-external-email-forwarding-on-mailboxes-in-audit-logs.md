@@ -13,20 +13,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899876"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331151"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Prepoznavanje kada je vanjsko prosljeđivanje e-pošte konfigurirano na poštanskim sandučićima
 
-Kada korisnik Microsoft 365 vanjsko prosljeđivanje e-pošte na poštanskom sandučiću, aktivnost se nadjača kao dio cmdleta **Set-Mailbox.** Aktivnost možete vidjeti pomoću pretraživanja zapisnika nadzora. Evo kako to učiniti.
+Kada korisnik Microsoft 365 vanjsko prosljeđivanje e-pošte na poštanskom sandučiću, aktivnost se nadzirana provodi u sklopu cmdleta **Set-Mailbox.** Aktivnost možete vidjeti pomoću pretraživanja zapisnika nadzora. Evo kako to učiniti.
 
 1. Učinite nešto od sljedećeg:
    - U Centar za usklađenost okruženja Microsoft 365 na <https://compliance.microsoft.com> idite na **Nadzor** \> **rješenja**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://compliance.microsoft.com/auditlogsearch> .
-   - Na portalu Microsoft 365 Defender , <https://security.microsoft.com> idite na **Nadzor**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://sip.security.microsoft.com/auditlogsearch> .
+   - Na portalu Microsoft 365 Defender idite <https://security.microsoft.com> na **Nadzor**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://sip.security.microsoft.com/auditlogsearch> .
 
 2. Na **stranici** Nadzor provjerite je li **odabrana** kartica Pretraživanje, a zatim konfigurirajte sljedeće postavke:
    - Odaberite raspon datuma/vremena u **okvirima Početak** **i** Kraj.

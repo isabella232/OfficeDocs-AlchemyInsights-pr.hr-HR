@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ca2ec22177b3fbe2ba4d82ae7482e3a1dcc00a37
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54008871"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331651"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemi sa sinkronizacijom kalendara s uređajima
 
@@ -31,7 +31,6 @@ Da biste sinkronizirali SharePoint kalendar s Outlook, slijedite ove korake:
 3. Na klasičnom izborniku vrpce kliknite **Kalendar**, a zatim **kliknite Povezivanje da Outlook**.
 4. U skočnom prozoru koji traži da potvrdite sinkronizaciju kliknite **Dopusti**.
 
->[!Note]
-> Kada promijenite sinkronizirani kalendar Outlook, on će se pojaviti u kalendaru SharePoint i obratno.
+**Napomena:** kada promijenite sinkronizirani kalendar Outlook, on će se prikazati u kalendaru SharePoint i obratno.
 
 Dodatne informacije o Microsoft 365 grupama potražite u ovom [članku](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
