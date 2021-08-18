@@ -14,12 +14,12 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe9e52023b809b38c43332a10a1184d114798cfe
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897460"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315866"
 ---
 # <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Blokiranje i deblokiranje vječitog automatskog prosljeđivanja e-pošte
 
@@ -29,4 +29,4 @@ Administratori mogu upravljati vanjskim prosljeđivanjem za organizaciju pomoću
 
 Ako vam se prikazuje sljedeća pogreška: **"550 5.7.520 Access denied, Vaša** tvrtka ili ustanova ne dopušta vanjsko prosljeđivanje", provjerite je li pravilnik konfiguriran tako da omogući vanjske automatski prosljeđivanje poruka.
 
-**Napomena:** preporučena je zadana vrijednost  **Automatski –** kontrola sustava za postavku Pravila automatskog prosljeđivanja u zadanom pravilniku o odlaznom filtriranju neželjene pošte (automatsko vanjsko prosljeđivanje je blokirano, interno automatsko prosljeđivanje i dalje funkcionira). Trebali biste stvoriti prilagođene pravilnike za filtriranje neželjene pošte i koristiti vrijednost Na **– prosljeđivanje** omogućeno je samo za korisnike kojima je potrebno vanjsko automatsko prosljeđivanje e-pošte. Dodatne informacije potražite u članku Konfiguriranje [vanjskog prosljeđivanja e-pošte Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Napomena:** preporučena je zadana vrijednost  **Automatski –** kontrola sustava za postavku Pravila automatskog prosljeđivanja u zadanom pravilniku o odlaznom filtriranju neželjene pošte (automatsko vanjsko prosljeđivanje je blokirano, interno automatsko prosljeđivanje i dalje funkcionira). Trebali biste stvoriti prilagođene pravilnike za filtriranje neželjene pošte i koristiti vrijednost Na **– prosljeđivanje** omogućeno je samo za korisnike kojima je potrebno vanjsko automatsko prosljeđivanje e-pošte. Dodatne informacije potražite u članku Konfiguriranje [vanjskog prosljeđivanja e-pošte u Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

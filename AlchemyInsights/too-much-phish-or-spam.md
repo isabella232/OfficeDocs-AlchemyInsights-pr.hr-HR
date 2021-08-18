@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: f19ab35837085b4a99212ab445d815a899c2c9df
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 4853891a129caf27a4926cbe8bb64991e5f4f61d1f24c76d53c6d61baa598ea9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315432"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900128"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Primate li previše phish ili neželjene pošte u poštanskom sandučiću?
 
 **Napomena** Sigurnosnom centru za Microsoft 365 u programu [https://security.microsoft.com](https://security.microsoft.com) .
 
-Kao administrator Microsoft 365 najbolje je utvrditi zašto je poruka o krađi identiteta ili neželjene pošte isporučena jest slanje uzorka Microsoftu u [eksploreru za podneske.](https://security.microsoft.com/reportsubmission) Odmah ćete dobiti povratne informacije vezane uz filtriranje poruka i zašto postoje problemi.
+Kao administrator Microsoft 365, najbolji način da utvrdite zašto je poruka o krađi identiteta ili neželjene pošte isporučena jest slanje uzorka Microsoftu u [eksploreru za podneske.](https://security.microsoft.com/reportsubmission) Odmah ćete dobiti povratne informacije vezane uz filtriranje poruka i zašto postoje problemi.
 
 Da biste olakšali prijavu, korisnicima možete omogućiti da izravno izvješćuju Microsoft putem [dodatka Report Message](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 

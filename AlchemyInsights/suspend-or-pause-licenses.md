@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 008c46718fed2704bb03972e44f2b7b1933c44da729fa4473841939cc5caed51
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501304"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900100"
 ---
 # <a name="suspend-or-pause-licenses"></a>Obustavljanje i pauziranje licenci
 
@@ -28,10 +28,10 @@ ms.locfileid: "54501304"
 
 Da biste privremeno obustavljali ili pauzirali korištenje licence, možete ukloniti licence iz Centar za administratore okruženja Microsoft 365, a zatim ih kasnije ponovno dodati.
 
-1. Prije uklanjanja licenci iz pretplate morate poništiti [dodjelu licenci od korisnika](/microsoft-365/admin/manage/remove-licenses-from-users).
+1. Prije uklanjanja licenci iz pretplate morate poništiti [dodjelu licenci od korisnika](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
 2. Zatim idite na stranicu **Naplata**  >  [proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 3. Na **kartici** Proizvodi odaberite pretplatu koju želite ažurirati.
 4. Na stranici pojedinosti o pretplati **odaberite Ukloni licence**.
-5. U **oknu Uklanjanje licenci** u **okvir Ukupan** broj licenci unesite ukupan broj licenci koje želite za ovu pretplatu, a zatim odaberite **Spremi**. Ako, primjerice, imate 100 licenci i želite obustaviti ili pauzirati 25, unesite 75 kao ukupne licence za pretplatu.
+5. U **oknu Uklanjanje licenci** u **okvir Ukupne** licence unesite ukupan broj licenci koje želite za tu pretplatu, a zatim odaberite **Spremi**. Ako, primjerice, imate 100 licenci i želite obustaviti ili pauzirati 25, unesite 75 kao ukupne licence za pretplatu.
 
-Dodatne informacije potražite u članku [Kupnja ili uklanjanje licenci](/microsoft-365/commerce/licenses/buy-licenses).
+Dodatne informacije potražite u članku [Kupnja ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

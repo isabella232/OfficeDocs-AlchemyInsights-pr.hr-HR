@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ab370e992c1f58ff388e5d4db57245fe7fcbd682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897788"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316284"
 ---
 # <a name="set-up-exchange-online-protection"></a>Postavljanje Exchange Online Protection
 
 Microsoft Exchange Online Zaštita (EOP) servis je za filtriranje e-pošte u oblaku radi zaštite od neželjene pošte, zlonamjernog softvera i lažnog predstavljanja s značajkama koje štite vašu organizaciju od kršenja pravilnika o razmjeni poruka.
 
-Pomoću [vodiča za Exchange Online Protection postavljanje](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) postavite EOP tako da odaberete jedan od tri scenarija implementacije koji najbolje odgovaraju vašoj tvrtki ili ustanovi:
+Pomoću [vodiča Exchange Online Protection postavljanje](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) EOP-a odaberite jedan od tri scenarija implementacije koji najbolje odgovaraju vašoj tvrtki ili ustanovi:
 
 - Svi lokalni poštanski sandučići.
 - Hibridni (kombinacija lokalnog poštanskog sandučića i poštanskih sandučića u oblaku

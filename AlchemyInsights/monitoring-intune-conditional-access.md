@@ -1,5 +1,5 @@
 ---
-title: Praćenje neusklađeni uvjetni pristup
+title: Praćenje intune uvjetnog pristupa
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: a3e84e32eac09d8788bbec56185f3cfc714cfb4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7855d8dac488fe62d8e0ad8ee2ad46e615ea031fc535eb54dfde9512c8921ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694845"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113372"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Otklanjanje poteškoća s programom Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Otklanjanje poteškoća s Microsoft Intune
 
-Pregledajte navedene resurse da biste sada riješili problem.
+Pregledajte resurse navedene u nastavku da biste odmah riješili problem.
   
-1. Koristite [portal za otklanjanje poteškoća](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste dijagnosticirali i riješili neke česte neuspjehe. Dodatne pojedinosti potražite u [ovom dokumentu ](https://docs.microsoft.com/intune/help-desk-operators).
+1. Pomoću [portala za otklanjanje poteškoća sa servisom Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) dijagnosticirajte i riješite neke uobičajene pogreške. Pregledajte [ovaj dokument ](https://docs.microsoft.com/intune/help-desk-operators)da biste saznali više.
     
-2. Pregledajte [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)da biste pronašli odgovore i rješenja za česte probleme.
+2. Pregledajte [Intune TechNet da biste ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)pronašli odgovore i rješenja najčešćih problema.
     
-3. Da biste vidjeli status servisa, provjerite [zdravlje servisa](https://portal.office.com/AdminPortal/Home#/servicehealth) . 
+3. Pogledajte stanje [servisa](https://portal.office.com/AdminPortal/Home#/servicehealth) da biste vidjeli status servisa. 
     
-4. Pregledajte [dokumentaciju](https://docs.microsoft.com/intune/) za planiranje, upute za otklanjanje poteškoća i još mnogo toga. 
+4. Pregledajte [Intune dokumentaciju za](https://docs.microsoft.com/intune/) planiranje, upute, članke za otklanjanje poteškoća i još mnogo toga. 
     
 
