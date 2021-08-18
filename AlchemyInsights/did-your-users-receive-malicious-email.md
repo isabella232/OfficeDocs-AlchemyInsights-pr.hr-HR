@@ -14,12 +14,12 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 525af0b29ffa291ddf69f6f2d97f505e93342989
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893395"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326652"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Jesu li korisnici primili zlonamjernu e-poštu?
 
@@ -40,7 +40,7 @@ U međuvremenu možete ukloniti zlonamjerne poruke e-pošte iz korisničkih ušt
 
 - Korisnici s programom Microsoft Defender za Office 365 mogu:
   - Traženje [i brisanje sumnjive e-pošte pomoću eksplorera za prijetnje](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-  - [Korištenje Sef veze za blokiranje pristupa zlonamjernom](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) URL-u
+  - [Korištenje Sef veze za blokiranje pristupa](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) zlonamjernom URL-u
   - Praćenje korisnika koji su klikali i pristupali zlonamjernim URL-ovima: Prikaz URL-a za [krađu identiteta i](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)klika na podatke o  &  [presudi Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
   - Ručno [pokretanje automatizirane pretrage](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e5bb1fda1dec0c0f72d1944d54b6f2747a6e909
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883123"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326069"
 ---
 # <a name="outbound-relay-pool"></a>Odlazni relej
 
@@ -36,5 +36,5 @@ Ako se MX zapis za vašu domenu usmjeri na poslužitelj drugih proizvođača ili
 
 **Kako možemo znati utječe li na nas relej?**
 
-Ako proslijeđene ili proslijeđene poruke e-pošte koriste jedan od gore navedenih kriterija, poruke se neće prenijeti putem releja. No ako se poruka pošalje putem releja, IP odlaznog poslužitelja nalazi se u rasponu 40.95.0.0/16, a naziv izlaznog poslužitelja **sadrži rly** u naziv.
+Ako proslijeđene ili proslijeđene poruke e-pošte koriste jedan od gore navedenih kriterija, poruke se neće prenijeti putem releja. No ako se poruka pošalje putem releja, IP odlaznog poslužitelja nalazi se u rasponu 40.95.0.0/16, a naziv izlaznog poslužitelja sadrži **rly** u naziv.
 

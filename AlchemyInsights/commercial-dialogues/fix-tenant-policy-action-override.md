@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896067"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326789"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Rješavanje problema s pravilnikom klijenta (nadjačavanje akcije)
 
 Jedna od vaših pravilnika o neželjenoj pošti utjecala je na ovu poruku. Da biste pregledali pravilnike, učinite sljedeće:
 
-1. Na portalu Microsoft 365 Defender u odjeljku E-pošta & pravila suradnje & Pravila Prijetnje pravilnika o zaštiti od neželjene pošte <https://security.microsoft.com/>  \>  \>  \>  **u odjeljku Pravila.**
+1. Na portalu Microsoft 365 Defender e-pošte idite <https://security.microsoft.com/> **na e-pošta &** pravila suradnje & pravila Prijetnje pravilima protiv neželjene pošte u \>  \>  \>  **odjeljku Pravila.**
 
    Da biste se izravno idite na stranicu Pravilnika o **neželjenoj pošti,** koristite <https://security.microsoft.com/antispam> .
 
-2. Na **stranici Pravilnika** o neželjenoj pošti odaberite pravilnik klikom na naziv pravilnika (**Vrsta** je Pravilnik o prilagođenoj neželjenoj pošti **ili** **Naziv** je pravilnik o ulasu neželjene pošte **(zadano).**
+2. Na **stranici Pravilnika** o neželjenoj pošti odaberite pravilnik klikom na naziv pravilnika (**Vrsta** je Pravilnik o prilagođenoj neželjenoj pošti **ili** **Naziv** je pravilnik o ulasu neželjene **pošte (zadano).**
 3. U brošuri s detaljima koja će se prikazati **odaberite Uređivanje akcija** u **odjeljku Akcije.**
 4. U **odjeljku Akcije poruke** pregledajte presudu za neželjenu  **poštu,** neželjenu poštu visoke pouzdanosti,  **krađu** identiteta i krađu identiteta visoke pouzdanosti da biste vidjeli jesu li odabrane neke od sljedećih vrijednosti:
    - **Dodavanje X-zaglavlja**

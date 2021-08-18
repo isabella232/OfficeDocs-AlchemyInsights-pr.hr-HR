@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2a48a49ec52a585e450edf448bc9203cd9c3f935
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887432"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326253"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Pokazatelji ne funkcioniraju pomoću preglednika Edge
 
@@ -35,7 +35,7 @@ Kada ste stvorili pokazatelj, edge ga ne poštuje (Smartscreen). Dodatne informa
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>Drugi korak: otklanjanje poteškoća s potencijalnim problemom
 
 - Provjerite zadovoljava li klijent preduvjete. Detalje potražite u članku [Stvaranje pokazatelja za IP adrese i URL-ove/domene.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)
-- Provjerite koristite li najnoviju verziju preglednika Edge. Da biste saznali najnoviju verziju, pogledajte [verziju programa Microsoft Edge koju imate](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb).
+- Provjerite koristite li najnoviju verziju preglednika Edge. Da biste saznali najnoviju verziju, pogledajte [informacije o verziji programa Microsoft Edge koju imate](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb).
 - Ponovno pokrenite preglednik Edge.
 - Pomaknite se do web-mjesta za koje imate pokazatelj postavljanja. Ako se web-mjesto ne prikazuje očekivano, prijeđite na treći korak. 
 

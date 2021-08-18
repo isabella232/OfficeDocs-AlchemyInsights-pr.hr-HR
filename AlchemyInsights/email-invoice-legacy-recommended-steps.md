@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003606"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326497"
 ---
 # <a name="e-mail-invoice---legacy"></a>Faktura e-pošte – naslijeđena
 
@@ -29,7 +29,7 @@ Slijedite ove korake da biste pretplatničke fakture dobili e-poštom:
 
 1. Prijavite se na [portal platforme Microsoft Azure](https://portal.azure.com/).
 2. Potražite **Upravljanje troškovima + naplata**.
-3. Odaberite **Fakture** s mogućnosti s lijeve strane.
+3. Odaberite **Fakture** s mogućnosti na lijevoj strani.
 4. Odaberite svoju pretplatu na Azure ili pretplatu na plan podrške i zatim odaberite **Primanje fakture putem e-pošte**.
 5. Kliknite **Faktura putem e-pošte** i prihvatite uvjete.
 6. Faktura se šalje na vašu preferiranu adresu e-pošte za komunikaciju. Odaberite **Ažuriraj profil** da biste ažurirali adresu e-pošte.
@@ -48,9 +48,8 @@ Da biste korisnicima/grupama s pristupom na razini pretplate omogućili preuzima
 
 1. Prijavite se na [portal platforme Microsoft Azure](https://portal.azure.com/) kao administrator računa za pretplatu.
 2. Potražite **Upravljanje troškovima + naplata**.
-3. Odaberite **Fakture** s mogućnosti s lijeve strane.
+3. Odaberite **Fakture** s mogućnosti na lijevoj strani.
 4. Odaberite pretplatu na Azure i zatim kliknite **Omogući preuzimanje fakture drugima**.
 5. Odaberite **Uključeno** i zatim **Spremi** pri vrhu stranice.
 
-> [!NOTE]
-Ako niste administrator računa, obratite se administratoru računa da biste se slijedite gore navedene upute da biste se upustili, dodali primatelje ili omogućili drugim korisnicima preuzimanje fakture.
+**Napomena:** ako niste administrator računa, obratite se administratoru računa da biste se upustili u prethodno navedene upute, dodali primatelje ili dopustili drugim korisnicima preuzimanje fakture.
