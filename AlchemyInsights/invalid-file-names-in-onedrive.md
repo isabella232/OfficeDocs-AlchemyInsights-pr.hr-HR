@@ -1,5 +1,5 @@
 ---
-title: Nevaljani nazivi datoteka na servisu OneDrive
+title: Nazivi datoteka u programu OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: 90c2df4eb6fe97925a6d6eb6e7afd357e2349850
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2564d25d9385e629ead0fd5af7e178f9d73cfd766c672fa31abc493185786c76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696217"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088100"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Nevaljani nazivi datoteka i mapa na servisu OneDrive i u sustavu SharePoint
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Nazivi datoteka i mapa u OneDrive i SharePoint
 
-Ovi znakovi nisu dopušteni u nazivima datoteka i mapa " \* : \< \> ? / \ | 
+Ti znakovi nisu dopušteni u nazivima datoteka i mapa " \* : \< \> ? / \ | 
   
-Neke tvrtke ili ustanove još nemaju podršku za # i% uključeno. Upute za omogućivanje tih znakova u tvrtki ili ustanovi potražite u članku [Omogućivanje podrške za # i%](https://go.microsoft.com/fwlink/?linkid=862611). 
+Neke tvrtke ili ustanove još nisu uključene za #i %. Da biste saznali kako dopustiti te znakove u tvrtki ili ustanovi, pogledajte [omogućivanje podrške za #i %](https://go.microsoft.com/fwlink/?linkid=862611). 
   
 [Dodatne informacije o ograničenjima naziva datoteka i mapa](https://go.microsoft.com/fwlink/?linkid=866430)
   

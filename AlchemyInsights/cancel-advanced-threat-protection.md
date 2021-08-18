@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: 48c8c82257467a484205c4fcbb218b2441244915f943ed8d984c9d41767c676d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: de141118124bf76339888a325c595c63cbaaa06d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894015"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317004"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Otkazivanje napredne zaštite od prijetnji
 
-Administratori mogu otkazati pretplatu Advanced Threat Protection za svoju organizaciju u Centar za administratore okruženja Microsoft 365.
+Administratori mogu otkazati pretplatu na Naprednu zaštitu od prijetnji za svoju organizaciju u Centar za administratore okruženja Microsoft 365.
 
 1. Idite na **stranicu**  >  [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Na kartici **Proizvodi** pronađite plan Napredna zaštita od prijetnji koji želite otkazati. Odaberite tri točke (dodatne akcije), a zatim Odustani **od pretplate**.
+2. Na kartici **Proizvodi** pronađite plan Napredna zaštita od prijetnji koji želite otkazati. Odaberite tri točke (dodatne akcije), a zatim odustani **od pretplate**.
 3. U **oknu Otkazivanje** pretplate odaberite razlog otkazivanja. Ako želite, pošaljite povratne informacije.
 4. Odaberite **Spremi**.
 

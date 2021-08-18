@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100394"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316632"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Izvoz stavki u arhivsku datoteku u Outlook za Mac
 
@@ -24,20 +24,19 @@ Da biste smanjili veličinu ulazne pošte, ručno arhivirajte poruke e-pošte, k
 
 1. Na kartici **Alati** kliknite **Izvezi**.
 
-> [!NOTE]
-> Ne vidite gumb **Izvezi?** Provjerite imate li najnoviju verziju Outlook. Na izborniku Outlook **kliknite** Provjeri **ima li ažuriranja**. Ako se Outlook ažuriranja i i dalje ne vidite  gumb Izvezi, potražite **Izvoz** na izborniku Outlook **Datoteka.**
+    **Napomena**: Ne vidite gumb **Izvezi?** Provjerite imate li najnoviju verziju Outlook. Na izborniku Outlook **kliknite** **Provjeri ima li ažuriranja**. Ako se Outlook sva ažuriranja i i dalje  ne vidite gumb Izvezi, potražite **Izvoz** na izborniku Outlook **Datoteka.**
 
 2. U okviru **Izvoz u arhivsku datoteku (.olm)** potvrdite stavke koje želite izvesti, a zatim kliknite **Nastavi**.
 
 3. U okviru **Spremi kao** u **odjeljku Favoriti** odaberite **mapu** Preuzimanja pa kliknite **Spremi**.
 
-4. Kada izvezete podatke i e-poštom primate obavijest, kliknite **Završi**.
+4. Kada izvezete podatke i nabavite obavijest, kliknite **Završi**.
 
 Informacije o pristupu podacima koje ste spremili u podatkovnu datoteku sustava Outlook za Mac (.olm) potražite u članku Uvoz poruka e-pošte, kontakata i drugih [stavki u Outlook 2016 za Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS).
 
 **Želim izvesti na iCloud ili neku drugu vrstu arhivske datoteke**
 
-U ovom trenutku dostupna je samo mogućnost izvoza .olm arhivska datoteka. Da biste zatražili dodatne mogućnosti izvoza, povratne [informacije Outlook okvir](https://outlook.uservoice.com/) za prijedloge. Tim Outlook aktivno nadzire ovaj forum.
+Jedina mogućnost izvoza koja je sada dostupna jest .olm arhivska datoteka. Da biste zatražili dodatne mogućnosti izvoza, [povratne informacije Outlook okvir](https://outlook.uservoice.com/) za prijedloge. Tim Outlook aktivno nadzire ovaj forum.
 
 **Pogledajte i**
 
