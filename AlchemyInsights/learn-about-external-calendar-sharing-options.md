@@ -1,5 +1,5 @@
 ---
-title: 898 Saznajte više o vanjskim mogućnostima zajedničkog korištenja kalendara
+title: 898 Saznajte više o mogućnostima zajedničkog korištenja vanjskog kalendara
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 1512892d0712c9a00b4a105d95a39ddbff55333b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fe9bdc4a341017529460dacd349f00aec8b5626142ef6b164fc61ae2581d5584
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087668"
 ---
-# <a name="exchange-online-collaboration-options"></a>Mogućnosti suradnje u sustavu Exchange Online
+# <a name="exchange-online-collaboration-options"></a>Exchange Online mogućnosti suradnje
 
-- Da biste dobili **Pregled vanjskog zajedničkog korištenja kalendara**, pročitajte članak [zajedničko korištenje u sustavu Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).
+- Da biste dobili **pregled zajedničkog korištenja vanjskog kalendara**, pogledajte zajedničko korištenje u programu [Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).
 
-- **Zajedničko korištenje kalendara s drugom organizacijom sustava Office 365**potražite [u odjeljku odnosi tvrtke ili ustanove u sustavu Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).
+- Da **biste zajednički koristili kalendare s drugom Office 365 organizacijom**, [pogledajte odnose tvrtke ili ustanove Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).
 
-- Da biste **kontrolirali kako korisnici zajednički koriste kalendare s osobama izvan vaše tvrtke ili ustanove**, pročitajte članak [zajedničko korištenje pravilnika u sustavu Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).
+- Da **biste upravljali načinom na koji korisnici zajednički dijele svoje kalendare s osobama izvan tvrtke ili** ustanove , pogledajte zajedničko korištenje [pravilnika Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).
 
-- Da bi vam se postigla **poboljšanja** u odjeljku Zajedničko korištenje kalendara, pročitajte članak [zajedničko korištenje kalendara u programu Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).
+- Da biste vidjeli **poboljšanja** u zajedničkom korištenju kalendara, pogledajte [zajedničko korištenje kalendara Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).

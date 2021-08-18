@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee0b821f8b02df8066013975e1a9cebf6a0a2dd7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967973"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315678"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Licence za Microsoft 365 Defender
 
-Sljedeće licence omogućuju besplatan pristup značajkama Microsoft 365 Defender u centru za Microsoft 365 sigurnosti:
+Sljedeće licence omogućuju besplatan pristup Microsoft 365 Defender značajkama sustava Microsoft 365 sigurnosti:
 
 - Microsoft 365 E5 ili A5
 - Microsoft 365 E5 Security ili A5 Security
@@ -33,8 +33,7 @@ Sljedeće licence omogućuju besplatan pristup značajkama Microsoft 365 Defende
 - Microsoft Cloud App Security
 - Microsoft Defender za Office 365 (Plan 2)
 
-    > [!NOTE]
-    > Probne licence za Office 365 sada ne omogućuju pristup Microsoft 365 Defender.
+    **Napomena:** u ovom trenutku probne licence za Office 365 ne omogućuju pristup Microsoft 365 Defender.
 
 Dodatne informacije potražite u članku usporedba [Microsoft 365 Enterprise tarife](https://go.microsoft.com/fwlink/?linkid=2143458).
 

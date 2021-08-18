@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899324"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316350"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Upozorenje porukama e-pošte iz pravilnika "Phish Isporučeno zbog klijenta ili nadjačavanja korisnika"
 
-Zadani pravilnik upozorenja pod nazivom **Phish Delivered** zbog nadjačavanja klijenta ili korisnika dostupan je u tvrtkama ili ustanovama s licencama Microsoft Defender za Office 365 P1 i P2. Ako ste primili ovo upozorenje, evo koraka za istraživanje:
+Zadani pravilnik upozorenja pod nazivom **Phish Delivered** zbog nadjačavanja klijenta ili korisnika dostupan je u tvrtkama ili ustanovama s programom Microsoft Defender za Office 365 P1 i P2. Ako ste primili ovo upozorenje, evo koraka za istraživanje:
 
 1. U poruci upozorenja kliknite Prikaz upozorenja **da biste** na stranici **Upozorenja na** Microsoft 365 Defender portalu.
 
@@ -35,4 +35,4 @@ Poruka o krađi identiteta isporučena je zbog ručno konfiguriranog nadjačavan
 
 Ako mislite da je poruka pogrešno označena kao krađa identiteta, pomoću slanja [administratora](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) prijavite poruku Microsoftu.
 
-Korisnici mogu pomoću [dodatka Report Message](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) ili dodatka Report Phishing Outlook poslati uzorke poruka Microsoftu.
+Korisnici mogu pomoću [dodatka Report Message](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) ili dodatka Report Phishing u programu Outlook poslati uzorke poruka Microsoftu.

@@ -12,12 +12,12 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 67983aa1210b8c4694d47d8f5de4c60c97248f9f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 3f7cf748f309441372e7af7dbcaaa241b7cfcd3b365051a2630ca38fa4c1d11c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311283"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899428"
 ---
 # <a name="information-about-gdpr"></a>Informacije o GDPR-u
 
@@ -31,7 +31,7 @@ ms.locfileid: "58311283"
 
   - [Izvješća o nadzoru](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Informacije o **zahtjevima ispitanika** (DSR- u) – ovdje se nalazi otkrivanje, pristup, ispravljanje, ograničavanje, brisanje, [izvoz.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Informacije o **zahtjevima ispitanika** (DSR) – otkrivanje, pristup, ispravljanje, ograničavanje, brisanje, izvoz su [ovdje.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
 
 - Informacije o **obavijesti o kršenju podataka** potražite [ovdje.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 

@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085868"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897788"
 ---
 # <a name="set-up-exchange-online-protection"></a>Postavljanje Exchange Online Protection
 
-Microsoft Exchange Online Zaštita (EOP) servis je za filtriranje e-pošte u oblaku radi zaštite od neželjene pošte i zlonamjernog softvera, uz značajke koje štite vašu organizaciju od kršenja pravilnika o razmjeni poruka.
+Microsoft Exchange Online Zaštita (EOP) servis je za filtriranje e-pošte u oblaku radi zaštite od neželjene pošte, zlonamjernog softvera i lažnog predstavljanja s značajkama koje štite vašu organizaciju od kršenja pravilnika o razmjeni poruka.
 
-Pomoću [vodiča Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) postavljanje postavite EOP tako da odaberete tri scenarija implementacije – lokalne poštanske sandučiće, hibridne poštanske sandučiće (kombinaciju lokalnog i oblaka) ili sve poštanske sandučiće u oblaku koji odgovaraju vašoj tvrtki ili ustanovi. Vodič sadrži informacije i resurse za postavljanje EOP-a i pregled korisnikova licenciranja, dodjeljivanje dozvola u sustavu Centar za administratore okruženja Microsoft 365 te konfiguriranje pravilnika tvrtke ili ustanove za zaštitu od zlonamjernog softvera i neželjene pošte u centru za & usklađenosti.
+Pomoću [vodiča za Exchange Online Protection postavljanje](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) postavite EOP tako da odaberete jedan od tri scenarija implementacije koji najbolje odgovaraju vašoj tvrtki ili ustanovi:
+
+- Svi lokalni poštanski sandučići.
+- Hibridni (kombinacija lokalnog poštanskog sandučića i poštanskih sandučića u oblaku
+- Svi poštanski sandučići u oblaku – koji odgovaraju vašoj tvrtki ili ustanovi.
+
+Vodič sadrži informacije i resurse za postavljanje EOP-a i pregled korisnikova licenciranja, dodjeljivanje dozvola u sustavu Centar za administratore okruženja Microsoft 365 i konfiguriranje sigurnosnih pravilnika tvrtke ili ustanove.

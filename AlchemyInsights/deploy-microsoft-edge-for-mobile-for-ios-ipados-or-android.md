@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005442"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315612"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Implementacija Microsoft Edge za mobilne uređaje za iOS/iPadOS ili Android
 
 Vođeni scenarij u nastavku pomoći će vam Microsoft Edge korisnicima uređaja sa sustavom iOS, iPadOS i Android. Kada dovršite ove korake, Microsoft Intune će omogućiti sljedeće značajke Microsoft Edge za tvrtke:
 
 - Dvostruki identitet
-- Integracija s pravilnikom Microsoft Intune aplikacije
+- Integracija s pravilnikom Microsoft Intune za zaštitu aplikacija
 - Integracija s Azure Active Directory aplikacijskog proxyja
 - Upravljani favoriti i prečaci na početnoj stranici
 
-> [!NOTE]
-> Ako ste korisnicima blokirali registraciju mobilnih uređaja, taj vođeni scenarij neće funkcionirati, a korisnici će ih morati sami Microsoft Edge instalirati.
+**Napomena:** ako ste korisnicima blokirali registraciju mobilnih uređaja, ovaj vođeni scenarij neće funkcionirati i korisnici će morati sami instalirati Microsoft Edge računala.
 
 Da biste implementi Microsoft Edge za Mobilne uređaje za iOS/iPadOS ili Android, pogledajte sljedeće:
 

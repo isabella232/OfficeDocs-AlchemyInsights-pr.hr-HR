@@ -1,5 +1,5 @@
 ---
-title: 726 Blokiranje prosljeđivanja e-pošte
+title: Blokiranje i deblokiranje vanjskog automatskog prosljeđivanja e-pošte
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059624"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897460"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Blokiranje i deblokiranje prosljeđivanja e-pošte
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Blokiranje i deblokiranje vječitog automatskog prosljeđivanja e-pošte
 
 Da biste omogućili ili onemogućili prosljeđivanje e-pošte za određeni poštanski sandučić, pogledajte [konfiguriranje prosljeđivanja e-pošte](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Na razini klijenta kontrola vanjskog prosljeđivanja obavlja se pomoću pravilnika o odlaznoj neželjenoj pošti. Ovdje možete provjeriti pravilnik filtra odlazne neželjene pošte iz centra za sigurnost i usklađenost ili pomoću naredbe [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy). [](https://protection.office.com/antispam)
+Administratori mogu upravljati vanjskim prosljeđivanjem za organizaciju pomoću [pravilnika o odlaznom neželjenom sadržaju](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy). Pravilnikima o odlaznom neželjenom sadržaju na Microsoft 365 Defender portalu upravljate putem <https://security.microsoft.com/antispam> cmdleta [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) u Exchange Online PowerShell.
 
-Ako vam se prikazuje sljedeća pogreška: **"550 5.7.520 Access denied, Vaša** tvrtka ili ustanova ne dopušta vanjsko prosljeđivanje", provjerite je li pravilnik konfiguriran tako da omogući vanjsko automatsko prosljeđivanje.
+Ako vam se prikazuje sljedeća pogreška: **"550 5.7.520 Access denied, Vaša** tvrtka ili ustanova ne dopušta vanjsko prosljeđivanje", provjerite je li pravilnik konfiguriran tako da omogući vanjske automatski prosljeđivanje poruka.
 
-**Napomena:** Preporučuje se da vanjski automatski pristup onemogućite u zadanom pravilniku o filtriranju neželjene pošte i omogućite ga samo korisnicima kojima je potrebno vanjsko prosljeđivanje stvaranjem prilagođenog pravilnika za te korisnike. Dodatne informacije potražite u [web-aplikaciji Konfiguriranje vanjskog prosljeđivanja e-pošte u Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Napomena:** preporučena je zadana vrijednost  **Automatski –** kontrola sustava za postavku Pravila automatskog prosljeđivanja u zadanom pravilniku o odlaznom filtriranju neželjene pošte (automatsko vanjsko prosljeđivanje je blokirano, interno automatsko prosljeđivanje i dalje funkcionira). Trebali biste stvoriti prilagođene pravilnike za filtriranje neželjene pošte i koristiti vrijednost Na **– prosljeđivanje** omogućeno je samo za korisnike kojima je potrebno vanjsko automatsko prosljeđivanje e-pošte. Dodatne informacije potražite u članku Konfiguriranje [vanjskog prosljeđivanja e-pošte Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
