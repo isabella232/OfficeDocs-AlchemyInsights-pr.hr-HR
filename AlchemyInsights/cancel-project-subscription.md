@@ -14,22 +14,22 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 94a07f68003c8e77149499dbb95e1e96313e14b953e1b8bbf7e0efed24ea145d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9a336cb0c13751044cdca7017803d9ba4dabcb1e5f6e49d3ac4fd7d35d027c95
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071396"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900420"
 ---
 # <a name="cancel-project-subscription"></a>Otkazivanje Project pretplate
 
 Administratori mogu otkazati Project za svoju organizaciju u Centar za administratore okruženja Microsoft 365.
 
 1. Idite na **stranicu** \> [Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Na **kartici** Proizvodi pronađite Project koju želite otkazati. Odaberite tri točke (dodatne akcije), a zatim odustani **od pretplate**.
-3. U **oknu Otkazivanje** pretplate odaberite razlog otkazivanja pretplate. Ako želite, pošaljite povratne informacije.
+2. Na kartici **Proizvodi** pronađite Project koju želite otkazati. Odaberite tri točke (dodatne akcije), a zatim Odustani **od pretplate**.
+3. U **oknu Otkazivanje** pretplate odaberite razlog otkazivanja. Ako želite, pošaljite povratne informacije.
 4. Odaberite **Spremi**.
 
 **Povrat novca:** Svi procijenjeni krediti bit će vam vraćeni u sljedećem ciklusu naplate.
 
-Dodatne informacije potražite u članku [Otkazivanje pretplate](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

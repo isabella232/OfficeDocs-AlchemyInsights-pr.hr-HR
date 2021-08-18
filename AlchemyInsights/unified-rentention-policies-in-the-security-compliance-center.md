@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 1f6c1ae0fe2261bcbc3d7eaad874cd250dcc7eb82a8df89656fec9d5e60843ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8d8cc53589c6643ececca29d86c53c1cb002b20f58b5b45789101c517cc1f703
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972303"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900500"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Pravilnik o sjedinjenom zadržavanju u centru za & usklađenosti
 
-Pravilnik o zadržavanju sadržaja tvrtke ili ustanove možete upravljati pomoću postavki zadržavanja i brisanja. Možete stvoriti pravilnike sjedinjenog zadržavanja u centru za Office 365 sigurnosti & usklađenosti ili u centru za Microsoft 365 usklađenost. 
+Pravilnik o zadržavanju sadržaja tvrtke ili ustanove možete upravljati pomoću postavki zadržavanja i brisanja. Možete stvoriti pravilnike sjedinjenog zadržavanja u centru za Office 365 sigurnosti & usklađenosti ili u centru Microsoft 365 usklađenosti. 
 
 1. U centru [za & usklađenosti](https://go.microsoft.com/fwlink/p/?linkid=2077143)odaberite **Zadržavanje upravljanja**  >  **informacijama**  >  **+ Stvori**. <br/>
-    U centru [Microsoft 365 usklađenosti odaberite](https://go.microsoft.com/fwlink/p/?linkid=2077149) **Pravilnik** o  >  **> zadržavanja > + Novi pravilnik o zadržavanju.**
+    U centru [za Microsoft 365 usklađenosti odaberite](https://go.microsoft.com/fwlink/p/?linkid=2077149) **Pravilnik** o  >  **> zadržavanja > + Novi pravilnik o zadržavanju.**
 2. Dodajte **naziv**, **Postavke** i **Odaberite mjesta**.
 3. Pregledajte postavke, a zatim **odaberite Stvori ovaj pravilnik ili** Spremi za **kasnije**.  
       
 Dodatne informacije o pravilima zadržavanja sadržaja kao što su Exchange e-pošta, OneDrive, SharePoint i Teams sadržaja potražite u članku [Pregled pravilnika o zadržavanju](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Ako pravilnike o zadržavanju koristite jedan uz drugi u centru za administratore sustava Exchange i centru za usklađenost sigurnosnih &, pogledajte ovu preporuku za korištenje pravilnika o [zadržavanju umjesto starijih značajki](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
+Ako pravilnike o zadržavanju koristite jedan uz drugi u centru za administratore sustava Exchange i centru za & usklađenosti, pogledajte ovu preporuku za korištenje pravilnika o [zadržavanju umjesto starijih značajki](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
     
-Određene informacije o zadržavanju Teams potražite u članku [Pravilnik o zadržavanju u sustavu Teams](/microsoftteams/retention-policies).
+Konkretne informacije o zadržavanju Teams potražite u članku [Pravilnik o zadržavanju u sustavu Teams](https://docs.microsoft.com/microsoftteams/retention-policies).

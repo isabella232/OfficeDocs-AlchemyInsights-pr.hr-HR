@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 7ffab72bc4c00ecc1c6d0e92263800c99858980c11764d307914635370306087
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 026e9722ac533e69178c40dd26792a362cf8fdda
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890294"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317178"
 ---
 # <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Otklanjanje poteškoća s programom Microsoft Defender za Office 365
 
@@ -24,7 +24,7 @@ ms.locfileid: "57890294"
 - **Želite li prijaviti lažno pozitivne ili neistinitu negativnu vrijednost**? Koristite [Eksplorer za podneske.](https://protection.office.com/reportsubmission)
 - **Jeste li znali da možete omogućiti Microsoft Defender za Microsoft Defender za zaštitu Office 365 Sef veza za e-poštu poslanu između osoba u vašoj tvrtki ili ustanovi**? Slijedite ove korake:
     1. Idite https://protection.office.com na , a zatim se prijavite.
-    2. Idite na **Pravila upravljanja**  >  **prijetnjama**  >  **Sef Veze**.
+    2. Idite na **Pravilnik o upravljanju**  >    >  **prijetnjama Sef veze**.
     3. U **odjeljku Pravila koja se odnose na određene primatelje** uredite (ili dodajte) pravilnik.
     4. Odaberite **Primijeni sigurne veze na poruke poslane unutar tvrtke ili ustanove**.
     5. Spremite pravilnik i omogućite primjenu promjena u do 30 minuta.

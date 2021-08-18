@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113912"
 ---
 # <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoftovi stručnjaci za prijetnje – stručnjaci na zahtjev
 
-Stručnjaci na potražnji drugi su mogućnosti Microsoftova stručnjaka za prijetnju. Ovo je mjesto gdje možete doći do nas kada vam je potrebno savjetovanje na relevantna pitanja vezana uz otkrivanje i protivnike.
+Stručnjaci na zahtjev druga su Microsoftovi stručnjaci za prijetnje mogućnosti. Tu nam se možete obratite kada vam je potrebno savjetovanje o relevantnim pitanjima u vezi s otkrivanjem i protivnicima.
 
-Ako ste već branitelj za krajnje točke, možete se obratiti zastupniku Microsofta da biste se pretplatili na Microsoftove stručnjake za prijetnje – stručnjaci na zahtjev.
+Ako ste već korisnik programa Defender za krajnju točku, možete se obratiti Microsoftovu predstavniku da biste se pretplatili na Microsoftovi stručnjaci za prijetnje – Stručnjaci na zahtjev.
 
-Mogućnost **konzultirajte stručnjaka za prijetnje** dostupna je na sljedećim izbornicima na portalu na kojem se možete baviti stručnjacima u kontekstu istrage:
+Mogućnost **konzultirati stručnjaka za** prijetnje dostupna je na sljedećim izbornicima na portalu na kojem možete surađivati sa stručnjacima u kontekstu istraživanja:
 
-- Izbornik pomoći i podrške
+- Izbornik Pomoć i podrška
 - Izbornik Akcije stranice uređaja
-- Izbornik akcije na stranici s upozorenjima
+- Izbornik Akcije stranice Upozorenja
 - Izbornik Akcije stranice datoteke
 
-Dodatne informacije potražite u članku [Konfiguriranje i upravljanje mogućnostima stručnjaka za Microsoftove prijetnje](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).
+Dodatne informacije potražite u članku [Konfiguriranje i upravljanje Microsoftovi stručnjaci za prijetnje mogućnostima](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).

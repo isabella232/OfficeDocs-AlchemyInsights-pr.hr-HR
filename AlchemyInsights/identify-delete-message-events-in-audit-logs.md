@@ -13,18 +13,18 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868410"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317586"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Zapisnici nadzora za izbrisane poruke e-pošte
 
-Počevši od siječnja 2019., Microsoft po zadanom uključuje zapisivanje nadzora poštanskog sandučića. U suprotnom, da biste pregledali događaje brisanja poruka za određenog korisnika, morate ručno omogućiti akcije brisanja za nadzor. Ako je zapisivanje nadzora poštanskog sandučića već omogućeno za vašu organizaciju ili za određenog korisnika, slijedite korake u nastavku.
+Počevši od siječnja 2019., Microsoft po zadanom uključuje zapisivanje nadzora poštanskog sandučića. U suprotnom, da biste pregledali događaje brisanja poruka za određenog korisnika, morate ručno omogućiti akcije brisanja za nadzor. Ako je zapisivanje nadzora poštanskog sandučića već omogućeno za vašu organizaciju ili određenog korisnika, slijedite korake u nastavku.
 
-1. Prijavite se u [centar za Microsoft 365 usklađenost](https://protection.office.com/)
+1. Prijavite se u centar [za Microsoft 365 usklađenost](https://protection.office.com/)
 
 2. Kliknite **Pretraživanje i istraživanje pa** odaberite Pretraživanje **zapisnika nadzora**.
 

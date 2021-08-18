@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038797"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900644"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Otklanjanje poteškoća s programom Microsoft Defender Office 365
 
-- **Primjećujete li kašnjenja u isporuci poruka?** Koristite mogućnost [dinamičke isporuke](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) u pravilniku Microsoft Defender za Office 365 Sef privici. Time ćete izbjeći kašnjenja poruka uz zaštitu primatelja od zlonamjernih datoteka.
+- **Primjećujete li kašnjenja u isporuci poruka?** Koristite mogućnost [dinamičke isporuke](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) u pravilniku Microsoft Defender za Office 365 Sef privitke. Time ćete izbjeći kašnjenja poruka uz zaštitu primatelja od zlonamjernih datoteka.
 
 - **Želite li Microsoftu prijaviti netočne pozitivne ili netočne negativne rezultate?** Koristite [Eksplorer za podneske.](https://protection.office.com/reportsubmission)
 
@@ -28,7 +28,7 @@ ms.locfileid: "54038797"
 
   1. Idite na [https://protection.office.com](https://protection.office.com) račun globalnog administratora ili administratora sigurnosti i prijavite se s njim.
 
-  2. U lijevom navigacijskom oknu u **odjeljku Upravljanje prijetnjama** **odaberite** \> **Pravilnik Sef Veze**.
+  2. U lijevom navigacijskom oknu u **odjeljku Upravljanje prijetnjama** **odaberite** \> **Sef veze**.
 
   3. U **odjeljku Pravila koja se odnose na cijelu organizaciju** odaberite pravilnik i kliknite **Uređivanje**.
 

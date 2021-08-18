@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 7d12a08e95ac80db15c1b244ac8dc2b4cae96c8351593ba28f4f4a9790dada4f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8d91a9ec91c8e435993c7f9b6b310d153d022601eff5466ab30782f8e8f560ed
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017664"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900360"
 ---
 # <a name="create-a-sensitivity-label"></a>Stvaranje oznake osjetljivosti
 
 Da biste stvorili oznaku osjetljivosti, učinite sljedeće:
 
-1. Idite na **[Office 365 sigurnosti & usklađenosti](https://sip.protection.office.com/) > klasifikaciju > oznake osjetljivosti**.
-2. Kliknite **+ Stvori naljepnicu da biste** pokrenuli čarobnjak za **naljepnice nove osjetljivosti.** Dodatne informacije o postavkama šifriranja i [](/microsoft-365/compliance/encryption-sensitivity-labels) automatskom označavanju potražite u članku [](/microsoft-365/compliance/apply-sensitivity-label-automatically)Ograničavanje pristupa sadržaju pomoću šifriranja u oznakama osjetljivosti i Automatska primjena oznake osjetljivosti na sadržaj.
+1. Idite na **[Office 365 za & usklađenost >](https://sip.protection.office.com/) klasifikaciju > oznake osjetljivosti**.
+2. Kliknite **+ Stvori naljepnicu da biste** pokrenuli čarobnjak za nove **naljepnice osjetljivosti.** Dodatne informacije o postavkama šifriranja i [](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) automatskom označavanju potražite u članku [](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)Ograničavanje pristupa sadržaju pomoću šifriranja u oznakama osjetljivosti i Automatska primjena oznake osjetljivosti na sadržaj.
 3. Ponovite ove korake da biste stvorili više naljepnica. No ako želite stvoriti podzbroj, najprije odaberite nadređenu oznaku, odaberite tri točke (dodatne akcije), a zatim **odaberite Dodaj pod naljepnicu**.
 4. Kada izradite sve naljepnice koje su vam potrebne, pregledajte njihovu narudžbu i po potrebi ih premjestite prema gore ili dolje. Da biste promijenili redoslijed natpisa, odaberite tri točke (dodatne akcije), a zatim Premjesti **prema gore ili** Premjesti prema **dolje**. 

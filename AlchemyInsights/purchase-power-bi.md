@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 762995215f5b4f5957f1f452a71efe5f20c9a9fe84ab1255a59fb7e67dda15fa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502960"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900948"
 ---
 # <a name="purchase-power-bi"></a>Kupnja dodatka Power BI
 
@@ -33,6 +33,6 @@ Power BI može se kupiti u **Centar za administratore okruženja Microsoft 365**
 5. Pregledajte informacije o cijenama i **odaberite Dalje**.
 6. Navedite podatke o plaćanju, a zatim **odaberite Naruči**  >  **narudžbu idite na Polazno za administratore**.
 
-Da biste korisnicima dodijelili licence, pogledajte [dodjela licenci korisnicima](/microsoft-365/admin/manage/assign-licenses-to-users).
+Da biste korisnicima dodijelili licence, pogledajte [dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Da biste kupili više licenci ili ih uklonili, [pogledajte kupnju ili uklanjanje licenci za vašu poslovnu pretplatu](/microsoft-365/commerce/licenses/buy-licenses).
+Da biste kupili više licenci ili ih uklonili, [pogledajte kupnju ili uklanjanje licenci za vašu poslovnu pretplatu](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

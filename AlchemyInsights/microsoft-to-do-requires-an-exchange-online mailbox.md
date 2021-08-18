@@ -1,5 +1,5 @@
 ---
-title: Microsoft radi zahtjeva poštanski sandučić sustava Exchange Online
+title: Microsoft To Do potreban Exchange Online poštanski sandučić
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5751"
 - "9003043"
-ms.openlocfilehash: 3f31263e938df7019753ab44231c3f7fedea8a4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10ea96671133724dea312ef6b51a4a0ceb974050d8bd0dbdd9e89b895e76e671
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113948"
 ---
-# <a name="microsoft-to-do-requires-an-exchange-online-mailbox"></a>Microsoft radi zahtjeva poštanski sandučić sustava Exchange Online
+# <a name="microsoft-to-do-requires-an-exchange-online-mailbox"></a>Microsoft To Do potreban Exchange Online poštanski sandučić
 
-Microsoft trenutno zahtijeva poštanski sandučić sustava Exchange Online za pohranu i sinkronizaciju stavki obaveza. Budući da Microsoft zahtijeva Exchange, ne možete koristiti aplikaciju za upotrebu dok ne budete imali poštanski sandučić sustava Exchange Online. Trenutno podržani planovi obuhvaćaju: Exchange Essentials, kiosk sa sustavom Exchange Online, Exchange Online tarifu 1, Exchange Online (plan 1), Exchange Online (plan 2), Exchange Online (P1) i Exchange Online POP.
+Microsoft To Do trenutno potreban poštanski Exchange Online za pohranu i sinkronizaciju stavki s to-do-om. Budući Microsoft To Do je Exchange, ne možete koristiti aplikaciju To Do dok ne e-Exchange Online poštanski sandučić. Trenutno podržane tarife obuhvaćaju sljedeće: Exchange Essentials, Exchange Online Kiosk, Exchange Online Plan 1, Exchange Online (Plan 1), Exchange Online (Plan 2), Exchange Online (P1) i Exchange Online POP.
 
-Kao rezultat toga, ne podržavaju trenutno korisničke račune sustava Exchange, osim ako u oblaku imate i poštanske sandučiće. Radimo na potpori više vrsta računa u budućnosti, ali u međuvremenu obratite se IT administratoru da biste vam pomogli s pristupom.
+Zbog toga To Do trenutno ne podržava lokalne račune Exchange osim ako nemate poštanske sandučiće u oblaku. Radimo na podršci za više vrsta računa u budućnosti, ali u međuvremenu se obratite IT administratoru da biste vam pomogli u pristupu.

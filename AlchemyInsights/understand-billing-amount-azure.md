@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020076"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317132"
 ---
 # <a name="understand-billing-amount"></a>Pojašnjenje iznosa naplate
 
@@ -70,7 +70,9 @@ Ne. Klijenti dobivaju fiksni broj besplatnih servisa i 200 USD kredita za prvih 
 
 **Kako mogu provjeriti jesu li besplatni servisi aktivni ili kada će isteći?**
 
-Na portalu Ibiza> Pretplata > stranica Pregled > pomaknite se prema dolje do Besplatni servisi 12 mjeseci i kliknite ikonu Informacije. Ovo će prikazati datum isteka besplatnih servisa **Napomena**: Nijedan V1 servis nije dio uključenih besplatnih Azure servisa. Za najnoviji popis besplatnih servisa, pogledajte [Koji su proizvodi besplatni 12 mjeseci](http://www.microsoftazuresponsorships.com/)
+Na portalu Ibiza> Pretplata > stranica Pregled > pomaknite se prema dolje do Besplatni servisi 12 mjeseci i kliknite ikonu Informacije. Time će se prikazati datum isteka besplatnih servisa
+
+**Napomena:** servisi bez V1 dio su besplatnih servisa za Azure. Za najnoviji popis besplatnih servisa, pogledajte [Koji su proizvodi besplatni 12 mjeseci](http://www.microsoftazuresponsorships.com/)
 
 Dodatna najčešća pitanja: [Besplatni račun Najčešća pitanja](https://azure.microsoft.com/free/free-account-faq/)
 
