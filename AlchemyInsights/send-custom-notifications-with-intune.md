@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58acaa29f9d0b066cc7be6f6ee57b1806d0e8812b194e20166b133b7715226a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720638"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086156"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Upute za slanje prilagođenih obavijesti korisnicima upravljanih uređaja sa sustavom iOS i uređajima sa sustavom Android
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Slanje prilagođenih obavijesti korisnicima upravljanih uređaja sa sustavom iOS i Android
 
-Prilagođene obavijesti za Intune obrađuju aplikacija Portal tvrtke na korisnikovom uređaju. Aplikacija zatim stvara obavijesti o pritiskom na tom uređaju.
+Prilagođene obavijesti za Intune obrađuje aplikacija Company Portal na uređaju korisnika. Aplikacija zatim stvara push obavijest na tom uređaju.
 
-Slijede preduvjeti za uređaj da biste podržali primitak prilagođenih obavijesti, a da bi aplikacija stvorila obavijest o pritisku:
+U nastavku su preduvjeti uređaja za podršku primitku prilagođenih obavijesti, a da bi aplikacija potom stvorili push obavijest:
 
-- Uređaj mora imati instaliranu aplikaciju Portal tvrtke.  
+- Uređaj mora imati instaliranu Company Portal aplikaciju.  
 
-- Uređaj mora dopustiti aplikaciji Portal tvrtke da šalje obavijesti o pritiskom. Kada je aplikacija instalirana ili ažurirana, ona će zatražiti od korisnika da dozvoli obavijesti.
+- Uređaj mora omogućiti aplikaciji Company Portal slanje automatskih obavijesti. Kada je aplikacija instalirana ili ažurirana, od korisnika će se zatražiti da dopusti obavijesti.
 
-- Uređaji sa sustavom Android moraju imati instaliran Google Reproduciraj servise.
+- Na uređajima sa sustavom Android moraju biti instalirani servisi Google Play.
 
-- Uređaj mora biti upisan pomoću aplikacije Intune.
+- Uređaj se mora registrirati uz Intune.
 
-Dodatne informacije, uključujući način slanja poruke, potražite u [dokumentaciji značajki](https://docs.microsoft.com/intune/custom-notifications).
+Dodatne informacije, uključujući slanje poruke, potražite u dokumentaciji [o značajkama](https://docs.microsoft.com/intune/custom-notifications).

@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672408"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111896"
 ---
 # <a name="email-subscriptions"></a>Pretplate na e-poštu
 
-Zašto se u popisima pretplate prikazuje poruka e-pošte?
+Zašto mi se na popisima pretplata prikazuje poruka e-pošte?
 
-Outlook.com je otkrio da poruka e-pošte sadrži informacije o pretplati, uključujući "Poništavanje pretplate" u poruci. Outlook.com vas nije automatski pretplatila na bilo koje biltene.
+Outlook.com otkrio je da poruka e-pošte sadrži podatke o pretplati, uključujući "Otkaži pretplatu" u poruci. Outlook.com nije automatski pretplaćen na biltene.
 
-Ako želite prekinuti primanje biltena ili promocija, možete otkazati pretplatu na dva načina Outlook.com:
-1. U ulaznoj pošti odaberite newsletter ili promotivnu e-poštu. Pri vrhu okna za čitanje Odaberite **Poništi pretplatu**.
-2. Otvorite postavke [pretplate na Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) , a zatim odaberite **Poništi pretplatu**.
+Ako želite prestati primati biltene ili promocije, pretplatu na Outlook.com možete otkazati na dva načina:
+1. U ulaznoj pošti odaberite bilten ili promotivnu poruku e-pošte. Pri vrhu okna za čitanje odaberite **Otkaži pretplatu**.
+2. Otvorite postavke [pretplate na Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) i odaberite **Otkaži pretplatu**.
 
-Bilješke: prikazat će vam se samo ta značajka ako ste primili poruku e-pošte tvrtke koja šalje pretplaćene poruke e-pošte.
-Ako je upit o plaćenim pretplatama za Microsoft 365, otvorite odjeljak [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   ili [Saznajte više o programu Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Bilješke: ta će vam se značajka vidjeti samo ako ste primili poruku e-pošte tvrtke koja šalje pretplaćene poruke e-pošte.
+Ako se upit radi o Microsoft 365 pretplati, idite na [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) ili Saznajte više o [Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499023"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896923"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Kako napraviti Microsoft 365 kupnju
 
@@ -30,7 +30,7 @@ Pretplatu na Microsoft 365 možete kupiti u centru za administratore.
 - Da biste kupili dodatne licence, idite na **stranicu** \> **[Naplata proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Odaberite pretplatu koju želite promijeniti, a zatim odaberite **Kupnja licenci**.\
 **POGLEDAJTE videozapis koji** pokazuje kako to učiniti: [kupnja novih licenci](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Dodatne informacije potražite u članku [Kupnja ili uklanjanje licenci](/microsoft-365/commerce/licenses/buy-licenses).
+Dodatne informacije potražite u članku [Kupnja ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Otklanjanje poteškoća**
 
@@ -38,5 +38,5 @@ Ako naiđete na problem s učitavanjem stranice, pokušajte otvoriti web-stranic
 
 **Dodatni resursi**
   
-- [Dodjela licenci korisnicima u Microsoft 365 za tvrtke](/microsoft-365/admin/add-users/add-users)
-- [Otkazivanje Microsoft 365 za tvrtke](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Dodjela licenci korisnicima u Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Otkazivanje Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

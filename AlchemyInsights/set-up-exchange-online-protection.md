@@ -1,5 +1,5 @@
 ---
-title: Postavljanje zaštite sustava Exchange Online
+title: Postavljanje Exchange Online Protection
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085868"
 ---
-# <a name="set-up-exchange-online-protection"></a>Postavljanje zaštite sustava Exchange Online
+# <a name="set-up-exchange-online-protection"></a>Postavljanje Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) je servis za filtriranje e-pošte utemeljen na oblaku radi zaštite od neželjene pošte i zlonamjernog softvera, uz značajke koje čuvaju vašu tvrtku ili ustanovu zbog kršenja pravilnika o pravilima poruke.
+Microsoft Exchange Online Zaštita (EOP) servis je za filtriranje e-pošte u oblaku radi zaštite od neželjene pošte i zlonamjernog softvera, uz značajke koje štite vašu organizaciju od kršenja pravilnika o razmjeni poruka.
 
-Pomoću [vodiča za postavljanje zaštite sustava Exchange Online](https://go.microsoft.com/fwlink/?linkid=2071067) postavite IOP tako da odaberete među tri scenarija implementacije – lokalni poštanski sandučići, hibridni (mix lokalnih i oblaka) ili svi poštanski sandučići u oblaku – koji odgovaraju vašoj tvrtki ili ustanovi. Vodič sadrži informacije i resurse za postavljanje programa IOP i pregled licenciranja korisnika, dodjeljivanje dozvola u centru za administratore sustava Microsoft 365 i Konfiguriranje pravilnika o protuzlonamjernom i neželjenom servisu u tvrtki ili ustanovi u centru za sigurnost & usklađenosti.
+Pomoću [vodiča Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) postavljanje postavite EOP tako da odaberete tri scenarija implementacije – lokalne poštanske sandučiće, hibridne poštanske sandučiće (kombinaciju lokalnog i oblaka) ili sve poštanske sandučiće u oblaku koji odgovaraju vašoj tvrtki ili ustanovi. Vodič sadrži informacije i resurse za postavljanje EOP-a i pregled korisnikova licenciranja, dodjeljivanje dozvola u sustavu Centar za administratore okruženja Microsoft 365 te konfiguriranje pravilnika tvrtke ili ustanove za zaštitu od zlonamjernog softvera i neželjene pošte u centru za & usklađenosti.

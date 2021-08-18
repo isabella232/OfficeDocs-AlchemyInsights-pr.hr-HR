@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c8aa49e299697abbd0e35d7762d8723570fc366
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004254"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315576"
 ---
 # <a name="download-usage-data"></a>Preuzimanje podataka o korištenju
 
@@ -26,18 +26,17 @@ Odabrali ste pretplatu povezanu s ugovorom o tvrtki Azure.
 
 Da biste podatke o korištenju prikazali kao klijenta za Enterprise Azure (EA), učinite sljedeće:
 
-> [!NOTE]
-> Morate biti administrator tvrtke, vlasnik računa ili administrator odjela s omogućenim pravilnikom o troškovima prikaza. 
+**Napomena:** morate biti administrator tvrtke, vlasnik računa ili administrator odjela s omogućenim pravilnikom o troškovima prikaza. 
 
 1. Prijavite se na portal Azure i potražite upravljanje **troškovima + naplata**.
-2. Odaberite profil za naplatu pa **kliknite Korištenje + troškovi**.
+2. Odaberite profil za naplatu pa kliknite **Korištenje + troškovi**.
 3. Na zaslonu koji će se prikazati odaberite mjesec za koji vam je potrebno izvješće, a zatim **kliknite Preuzmi**.
 
 Ako je potrebna kopija fakture, obratite se Microsoftovu partneru za licenciranje (partneru ili savjetniku za softver). Oni će prikupiti Call-Logging (CLT) u Centar za regionalne operacije (ROC) putem Explore.ms.
 
 **Ažuriranje – studeni 2020.**
 
-Za odabrane komercijalne korisnike EA Direct pokrenuli smo značajku (privatni pretpregled) za funkciju **Preuzimanja fakture** na portalu Azure. Da biste preuzeli fakturu kao dio značajke **privatnog pretpregleda,** slijedite korake u nastavku:
+Za odabrane komercijalne korisnike EA Direct pokrenuli smo značajku (privatni pretpregled) za **funkciju Preuzimanja fakture** na portalu Azure. Da biste preuzeli fakturu kao dio značajke **privatnog pretpregleda,** slijedite korake u nastavku:
 
 1. Prijavite se na portal Azure pomoću URL-a: https://portal.azure.com/?EaInvoice=true 
 2. Potražite **Upravljanje troškovima + naplata**. 
