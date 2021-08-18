@@ -13,17 +13,17 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085832"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328364"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Verzija u SharePoint i OneDrive 
 
 
-Kada je na popisu SharePoint ili u biblioteci omogućeno korištenje verzija, stavke na popisu i datotekama u biblioteci možete pohraniti, pratiti i vraćati svaki put kada se promijene. Verzija, kombinirana s drugim postavkama, kao što je naplata, pruža vam mnogo kontrole nad sadržajem koji je objavljen na web-mjestu i može pružiti stvarnu vrijednost ako ikada zatrebate pogledati ili vratiti staru verziju stavke ili datoteke.
+Kada je na popisu SharePoint ili u biblioteci omogućeno korištenje verzija, stavke na popisu i datotekama u biblioteci možete pohraniti, pratiti i vraćati svaki put kada se promijene. Verzija, kombinirana s drugim postavkama, kao što je naplata, daje vam mnogo kontrole nad sadržajem koji je objavljen na web-mjestu i može pružiti stvarnu vrijednost ako ikad zatrebate pogledati ili vratiti staru verziju stavke ili datoteke.
 
 Dodatne informacije o verziji potražite u člancima u nastavku.
 
@@ -39,7 +39,6 @@ Dodatne informacije o verziji potražite u člancima u nastavku.
 
 - [Ograničenja za verzije](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->Ako ste korisnik Microsoft 365, prema zadanim je postavkama uključeno kada stvorite nove biblioteke OneDrive za tvrtke, a on će automatski spremiti zadnjih 500 verzija dokumenta. Time ćete spriječiti gubitak važnih dokumenata ili podataka. Ako na web-mjestu sustava OneDrive za tvrtke ili timskog web-mjesta imate postojeće biblioteke koje nisu omogućene za verzije, u svakom trenutku možete uključiti i verzije za njih.
+**Napomena:** ako ste Microsoft 365 klijent, prema zadanim postavkama, kada stvorite nove biblioteke sustava OneDrive za tvrtke, verzija će automatski spremiti zadnjih 500 verzija dokumenta. Time ćete spriječiti gubitak važnih dokumenata ili podataka. Ako na web-mjestu sustava OneDrive za tvrtke ili timskog web-mjesta imate postojeće biblioteke koje nisu omogućene za verzije, u svakom trenutku možete uključiti i verzije za njih.
 
 

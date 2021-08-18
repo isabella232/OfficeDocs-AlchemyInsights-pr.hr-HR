@@ -16,12 +16,12 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 0c3a16236ece1de61e94d9e22835c0acbdc4ecc1acf915c3c1ad26aa0174dc37
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 681537d17f0df1e2b97a67a2b2fe8bbc60a74865
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901648"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327746"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Kako ukloniti podatke o kreditnoj kartici?
 
@@ -31,8 +31,7 @@ ms.locfileid: "57901648"
 
 3. Da biste uklonili kreditnu karticu ili bankovni račun, **odaberite Izbriši način plaćanja.**
 
-> [!NOTE]
-> Nećete moći ukloniti kreditnu karticu ili bankovni račun ako se trenutno koristi za plaćanje pretplate.
+    **Napomena:** nećete moći ukloniti kreditnu karticu ili bankovni račun ako se trenutno koristi za plaćanje pretplate.
 
 4. U **oknu Brisanje načina plaćanja** odaberite **Izbriši**.
 

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002419"
 - "5116"
-ms.openlocfilehash: c0066a325ebea3173fc2d4b76e6494c2fb05e2bf2af941e7e48ee78461063021
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: eb67351db52f33f1f023b4c9163167416e8d36f1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892307"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330542"
 ---
 # <a name="visio-license-management"></a>Upravljanje licencama za Visio
 
@@ -31,6 +31,6 @@ Visio upravljanje licencama moguće je dovršiti u **Centar za administratore ok
 - Da biste **kupili** Visio, idite na **Naplata > [Kupnja usluga](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Upotrijebite okvir za pretraživanje da biste potražili "Visio" te odaberite tarifu i broj korisnika. Dodatne informacije potražite u članku [Kupnja druge pretplate](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - Za **dodjeljivanje** licenci za Visio idite na **Naplata > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Dodatne informacije potražite u članku [Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Da **biste kupili ili** uklonili Visio licenci, idite na Naplata > Vaši **[proizvodi](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Dodatne informacije potražite u članku [Kupnja ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
-- Da **biste otkazali** pretplatu na Visio, otvorite odjeljak Naplata > Vaši proizvodi , odaberite pretplatu Visio, a zatim u **odjeljku** Postavke pretplate i plaćanja odaberite **Otkaži pretplatu**. **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Da **biste otkazali** Visio pretplatu, **otvorite odjeljak Naplata > Vaši proizvodi [](https://go.microsoft.com/fwlink/p/?linkid=842054)**, odaberite Visio pretplatu, a zatim u odjeljku Postavke pretplate i **plaćanja** odaberite **Otkaži pretplatu**. Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Dodatne informacije potražite u članku [Kupnja ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

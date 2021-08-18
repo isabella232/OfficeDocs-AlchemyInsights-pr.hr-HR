@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8024"
 - "9004430"
-ms.openlocfilehash: ea38a6d4a093c3908b8987988746c2f49f052df320ca0a327446435389a90ce9
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2b28a5cce29dd3956bb3891cae0f11d1c0fb874a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896183"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329114"
 ---
 # <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Konfiguriranje postavki proxyja u programu Microsoft Edge
 
-U Microsoft Edge verzijama 77 i novijim verzijama mrežni snop po zadanom koristi mrežne postavke sustava. U hibridnim scenarijima u kojima korisnici zatraži alternativu, Microsoft Edge podržava mogućnosti naredbenog retka za konfiguriranje prilagođenih postavki proxyja. 
+U Microsoft Edge 77 i novijim verzijama mrežni snop po zadanom koristi mrežne postavke sustava. U hibridnim scenarijima u kojima korisnici zatraži alternativu, Microsoft Edge podržava mogućnosti naredbenog retka za konfiguriranje prilagođenih postavki proxyja. 
 
 Detalje potražite u sljedećem članku:
 

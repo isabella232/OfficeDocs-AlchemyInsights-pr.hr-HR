@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d3b5913997f7d94b94cd1625dd699fa1e626acb3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53962879"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329726"
 ---
 # <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Upravljanje dozvolama ovlaštenika za više vrsta stavki u aplikaciji Outlook za Mac
 
@@ -27,5 +27,4 @@ ms.locfileid: "53962879"
 3. U **odjeljku Ovlaštenici** koji prikazuju popis ovlaštenika koji mogu djelovati u ime odaberite delegata.
 4. Kliknite gumb **Akcija,** zatim **Postavi dozvole,** a zatim unjeti željene promjene.
 
-> [!NOTE]
-> Ako razinu dozvola postavite na **Ništa,** delegat ostaje na popisu, što vam omogućuje da kasnije ponovno postavite dozvole.
+**Napomena**: ako razinu dozvola postavite na **Ništa,** delegat ostaje na popisu, što vam omogućuje da kasnije ponovno postavite dozvole.

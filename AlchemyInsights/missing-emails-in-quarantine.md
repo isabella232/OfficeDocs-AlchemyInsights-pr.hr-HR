@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: bd5a04fd5abad962b4e85e009a9232e1a93219c238c629506df5cfb034453df2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c77da6716c0755d6ed4911f490e000bd74d08f92
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892039"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329654"
 ---
 # <a name="missing-emails-in-quarantine"></a>Nedostaje poruka e-pošte u karanteni
 
 Administratori mogu [pregledavati, objavu i brisati te poruke](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-Na portalu Microsoft 365 Defender , <https://security.microsoft.com> idite na **Pregled** \> **karantene**. Možete i izravno otići na stranicu **Karantena** pomoću <https://security.microsoft.com/quarantine> .  
+Na portalu Microsoft 365 Defender u <https://security.microsoft.com> idite na **Pregled** \> **karantene**. Možete i izravno otići na stranicu **Karantena** pomoću <https://security.microsoft.com/quarantine> .  
 
 Dodatne informacije o vrijednostima pretraživanja/filtriranja koje možete koristiti potražite u članku Upravljanje porukama i datotekama u karanteni [kao administratora u programu EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files).
 

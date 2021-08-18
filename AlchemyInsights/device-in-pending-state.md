@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913995"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330364"
 ---
 # <a name="device-in-pending-state"></a>Uređaj u stanju na čekanju
 
@@ -37,13 +37,12 @@ Evo raščlamba onoga što se događa tijekom postupka registracije:
 
 1. Windows 10 otkriva zapis točke povezivanja servisa (SCP) kada se korisnik prijavi na uređaj.
 
-    1. Uređaj najprije pokušava dohvatiti podatke klijenta iz klijentskog SCP-a u registru [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Dodatne informacije potražite u članku [Dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    1. Uređaj najprije pokušava dohvatiti podatke o klijentu iz klijentskog SCP-a u registru [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Dodatne informacije potražite u članku [Dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
     1. Ako ne uspije, uređaj komunicira s lokalnim servisom Active Directory radi primanja podataka o klijentu od SCP-a. Da biste potvrdili SCP, pogledajte [ovaj dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
 
-    > [!NOTE]
-    > Preporučujemo da omogućite SCP u servisu Active Directory i koristite samo klijentski SCP za početnu provjeru valjanosti.
+    **Napomena:** preporučujemo omogućivanje SCP-a u servisu Active Directory i samo korištenje klijentskog SCP-a za početnu provjeru valjanosti.
 
-2. Windows 10 pokušava komunicirati sa servisom Azure AD u kontekstu sustava da bi se provjerila autentičnost u odnosu na Azure AD.
+2. Windows 10 pokušava komunicirati sa servisom Azure AD u kontekstu sustava radi provjere autentičnosti u odnosu na Azure AD.
 
     Možete provjeriti može li uređaj pristupiti Microsoftovim resursima putem računa sustava pomoću skripte [Test Device Registration Connectivity](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
 
@@ -51,15 +50,13 @@ Evo raščlamba onoga što se događa tijekom postupka registracije:
 
 4. Objekt uređaja s certifikatom sinkronizira se sa servisom Azure AD putem servisa Azure AD Povezivanje. Ciklus sinkronizacije po zadanom je svakih 30 minuta, ali ovisi o konfiguraciji servisa Azure AD Povezivanje. Dodatne informacije potražite u ovom [dokumentu](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
 
-5. U ovoj fazi trebali biste moći vidjeti predmet uređaja u stanju **"Na** čekanju" ispod oštrice uređaja portala Azure.
+5. U ovoj fazi trebali biste moći vidjeti predmet uređaja u stanju **"Na čekanju"** ispod oštrice uređaja portala Azure.
 
 6. Prilikom sljedeće prijave korisnika na Windows 10 registracija će biti dovršena.
 
-    > [!NOTE]
-    > Ako ste na VPN-u, a prijava/e-prijava prekida vezu s domenom, registraciju možete pokrenuti ručno. Da biste to učiniti, učinite sljedeće:
-    >
-    > `dsregcmd /join`Izlajte lokalno administratorski upit ili daljinski putem servisa PSExec na PC.
-    >
-    > Na primjer: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **Napomena:** ako ste na VPN-u, a prijava/e-prijava prekida vezu s domenom, registraciju možete pokrenuti ručno. Da biste to učiniti, učinite sljedeće:
+    
+    Lokalno `dsregcmd /join` izlajte upit za administratore ili daljinski putem servisa PSExec na PC.\
+    Na primjer: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
 Uobičajene probleme s registracijom Azure Active Directory uređaja potražite u članku [Najčešća pitanja o uređajima](https://docs.microsoft.com/azure/active-directory/devices/faq).

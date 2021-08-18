@@ -16,12 +16,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 5fabc89dcca3a35d285e5677287dc890c0b3788d29d2ba9c8e2c106fd5672fc5
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 44eb3b09d899f274f29acc777bec50072815b70c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899108"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328150"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Kada se tereti moja kreditna kartica?
 
@@ -29,4 +29,4 @@ Uz početnu kupnju može potrajati do dva dana da bi se naplaćena naknada odvij
   
 Ponavljajuće se naknade događaju u roku od jednog dana od stvaranja fakture.
   
-Ako naknada nije uspješna, sustav će nastaviti pokušavati podmiriti saldo tijekom sljedećih nekoliko tjedana. Podatke o plaćanju možete u bilo kojem trenutku ažurirati da biste bili sigurni da će sljedeći pokušaj naplate biti uspješan. Dodatne informacije potražite u članku [Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Ako naknada nije uspješna, sustav će nastaviti pokušavati podmiriti saldo tijekom sljedećih nekoliko tjedana. Podatke o plaćanju možete u bilo kojem trenutku ažurirati da biste bili sigurni da je sljedeći pokušaj naplate uspješan. Dodatne informacije potražite u članku [Upravljanje načinima plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
