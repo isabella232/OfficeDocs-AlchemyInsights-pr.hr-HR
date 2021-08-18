@@ -1,5 +1,5 @@
 ---
-title: Saznajte više o preslikavanju između pravilnika za Google Chrome i Microsoft Edge
+title: Saznajte više o mapiranju između pravilnika preglednika Google Chrome i Microsoft Edge pravilnika
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "7097"
-ms.openlocfilehash: adde475b409455b30e6a955c850a70eda8e7b625
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 04277f888ba08f6f2ae77ad76be50281e6e588f62574864446d0d62de6e0401b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116288"
 ---
-# <a name="learn-about-mapping-between-google-chrome-policies-and-microsoft-edge-policies"></a>Saznajte više o preslikavanju između pravilnika za Google Chrome i Microsoft Edge
+# <a name="learn-about-mapping-between-google-chrome-policies-and-microsoft-edge-policies"></a>Saznajte više o mapiranju između pravilnika preglednika Google Chrome i Microsoft Edge pravilnika
 
-Pravila servisa Google Chrome mapirana su u relevantne Microsoftove politike na ivici podržane u verziji 80 preglednika. Dodatne informacije potražite u članku [mapiranje pravilnika u pregledniku Google Chrome](https://go.microsoft.com/fwlink/?linkid=2141933).
+Pravila preglednika Google Chrome mapirana su na relevantne Microsoft Edge pravilnike podržane u verziji 80 preglednika. Dodatne informacije potražite u članku [Google Chrome da biste Microsoft Edge mapiranje pravilnika](https://go.microsoft.com/fwlink/?linkid=2141933).

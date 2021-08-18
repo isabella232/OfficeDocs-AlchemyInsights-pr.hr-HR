@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 5231fca8c0a3cd919dd9fb79e7cbcf5a4f2c67fdd52a0f136b87e9331a3d6c44
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5d328c1d494a978b424a4f9932ec9145637b766c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893515"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319620"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Uobičajeni problemi povezani s usklađenosti s i njihova rješenja
 
@@ -37,8 +37,8 @@ U nastavku su navedene neke od najčešćih tema povezanih s usklađenosti:
  
 - Oznake osjetljivosti: dodatne informacije potražite u članku [Stvaranje i konfiguriranje naljepnica osjetljivosti i njihovih pravilnika.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
 
-- Prikaz pravilnika upozorenja: [pogledajte pravilnike upozorenja na Centar za usklađenost okruženja Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
+- Prikaz pravilnika upozorenja: [pogledajte pravilnike upozorenja u odjeljku Centar za usklađenost okruženja Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
-- Dopuštenja centra za kompliciranje: [pogledajte dozvole u Centar za usklađenost okruženja Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions)
+- Dopuštenja centra za complicance: [pogledajte dozvole u Centar za usklađenost okruženja Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions)
 
 **Napomena**: da biste dobili precizniji odgovor na pitanje povezano s usklađenosti, ukratko preformulirajte svoje pitanje tako da obuhvatite sve pogreške koje vidite ili značajke koje koristite.

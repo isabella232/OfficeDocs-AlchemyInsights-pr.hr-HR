@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116324"
 ---
 # <a name="help-with-apple-dep"></a>Pomoć za Apple DEP
 
-Ako se uređaj DEP ne može prijaviti, a omogućen je i MFA (višestruka provjera autentičnosti), onemogućite MFA. MFA trenutno nije podržan u uvrštavanju DEP-a.
+Ako dep uređaj ne može registrirati i omogućena je MFA (višestruka provjera autentičnosti), onemogućite MFA. MFA trenutno nije podržana za prijavu u DEP.
 
-[Prvi koraci u programu Intune i Appleov program za upis uređaja (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Početak rada s programom Intune i Appleovim programom za prijavu uređaja (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Česte pogreške i rješenja za upis u iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Uobičajene pogreške i rješenja za prijavu u iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Sigurnosno kopiranje i vraćanje scenariji za upisani iOS/iPadOS uređaje](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+[Scenariji sigurnosnog kopiranja i vraćanja za uključene uređaje sa sustavom iOS / iPadOS](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
 
-[Otklanjanje poteškoća s općim upisom](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Otklanjanje poteškoća s općom registracijom](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Dijagnosticiranje i rješavanje običnih kvarova upisa pomoću portala za otklanjanje poteškoća s otklanjanjem pogrešaka](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Dijagnosticiranje i rješavanje uobičajenih pogrešaka prilikom prijave pomoću portala za otklanjanje poteškoća sa servisom Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)

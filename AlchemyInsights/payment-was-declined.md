@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087200"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319884"
 ---
 # <a name="your-payment-was-declined"></a>Vaše je plaćanje odbijeno
 
@@ -35,8 +35,7 @@ Microsoft će pokušati teretiti vašu karticu više puta tijekom 3 do 4 tjedna 
 
 4. Da biste koristili postojeći način plaćanja, odaberite jedan s padajućeg popisa, a zatim odaberite **Zamijeni**.
 
-    > [!NOTE]
-    > Ako imate pretplate povezane s profilom za naplatu, možete ih platiti samo kreditnom ili debitnom karticom. Ako imate bankovne račune navedene na **stranici** Načini plaćanja, oni nisu dostupni za odabir na padajućem popisu.
+    **Napomena:** ako imate pretplate povezane s profilom za naplatu, možete ih platiti samo kreditnom ili debitnom karticom. Ako imate bankovne račune navedene na **stranici** Načini plaćanja, oni nisu dostupni za odabir na padajućem popisu.
 
 5. Da biste dodali novi način plaćanja, **odaberite Dodaj način plaćanja**.
 

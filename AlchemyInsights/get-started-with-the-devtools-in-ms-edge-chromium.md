@@ -1,5 +1,5 @@
 ---
-title: Početak rada s alatima za razvojne inženjere u pregledniku Microsoft Edge (krom)
+title: Početak rada s alatima za razvojne inženjere u aplikaciji Microsoft Edge (Chromium)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116360"
 ---
-# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Početak rada s alatima za razvojne inženjere u pregledniku Microsoft Edge (krom)
+# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Početak rada s alatima za razvojne inženjere u aplikaciji Microsoft Edge (Chromium)
 
-Microsoft Edge usvojio je projekt krom Open-Source, čiji je cilj da web-stranice budu više kompatibilne. Ta će vas promjena osnačiti da koristite Microsoft Edge da biste izgradili i testirali web-mjesta koja funkcioniraju na drugim preglednicima koji se temelje na Chromiju.
+Microsoft Edge je usvojila Chromium open-source projekt, čiji je cilj učiniti web manje fragmentiranom i web-platformama kompatibilnom. Ta će vam promjena omogućiti korištenje Microsoft Edge za izradu i testiranje web-mjesta koja funkcioniraju na drugim Chromium-temeljenim preglednicima.
 
-Microsoft Edge (krom) nudi i [najbolje alate za razvojne inženjere](https://go.microsoft.com/fwlink/?linkid=2134941) koji bi vam trebali biti poznati i kompatibilni s alatima koje već koristite.
+Microsoft Edge (Chromium) nudi i najbolje [](https://go.microsoft.com/fwlink/?linkid=2134941) razvojne alate koji bi vam trebali biti poznati i kompatibilni s alatima koje već koristite.
 
-Dodatne informacije potražite u članku [Novosti u programu Microsoft Edge (krom) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).
+Dodatne informacije potražite u [članku Što je novo u programu Microsoft Edge (Chromium) DevTools](https://go.microsoft.com/fwlink/?linkid=2135020).

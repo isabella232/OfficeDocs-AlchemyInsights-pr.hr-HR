@@ -1,5 +1,5 @@
 ---
-title: Ažuriranje adrese koja se prodaje i adrese primatelja fakture povezane s vašom MCA-om – preporučeni koraci
+title: Ažuriranje adrese primatelja prodaje i primatelja fakture povezane s vašom MCA-om – preporučeni koraci
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001494"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320022"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Ažuriranje adrese koja se prodaje i adrese primatelja fakture povezane s vašom MCA-om – preporučeni koraci
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Ažuriranje adrese primatelja prodaje i primatelja fakture povezane s vašom MCA-om – preporučeni koraci
 
 Adresu prodanu i primatelju fakture povezanu s Microsoftovim ugovorom o kupcu (MCA) možete ažurirati. 
 
-> [!NOTE]
-> Samo administrator korisnika može mijenjati podatke Azure Active Directory korisničkog profila. Ako vam nije dodijeljena uloga administratora korisnika, obratite se administratoru korisnika. Dodatne informacije o promjeni korisničkog profila potražite u članku Dodavanje ili ažuriranje korisničkih [podataka o profilu pomoću Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+**Napomena**: Samo administrator korisnika može mijenjati podatke Azure Active Directory korisničkog profila. Ako vam nije dodijeljena uloga administratora korisnika, obratite se administratoru korisnika. Dodatne informacije o promjeni korisničkog profila potražite u članku Dodavanje i ažuriranje podataka o [profilu](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)korisnika pomoću Azure Active Directory .
 
 **Adresa primatelja prodaje** – adresa primatelja prodaje adresa je i podaci za kontakt tvrtke ili ustanove ili osobe koja je odgovorna za račun za naplatu. Prikazuje se u svim fakturama generiranima za račun za naplatu.
 

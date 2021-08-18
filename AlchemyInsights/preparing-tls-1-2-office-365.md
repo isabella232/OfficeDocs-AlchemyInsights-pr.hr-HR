@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "11220"
 - "9006570"
-ms.openlocfilehash: 1d5876918729ffe531f0d8973a98cb219a3776241344335a10b4cde4d0775a99
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 34976cdfb35943d5dbcc3ab924b1a0c996ac7643
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890994"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319380"
 ---
 # <a name="preparing-for-tls-12-in-office-365"></a>Priprema za TLS 1.2 u Office 365
 
-Da bi našim korisnicima pružio najbolje šifriranje u klasi, Microsoft će u sustavu Office 1.0 i 1.1 u sustavu Office 365 i Office 365 GCC. 
+Da bi našim korisnicima pružila najbolje šifriranje u klasi, Microsoft će u sustavu Office 1.0 i 1.1 u sustavu Office 365 i Office 365 GCC. 
 
 Dodatne informacije potražite u sljedećim člancima:
 
