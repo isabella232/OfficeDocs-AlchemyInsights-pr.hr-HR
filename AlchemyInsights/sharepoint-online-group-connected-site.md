@@ -13,12 +13,12 @@ ms.custom:
 - "5200004"
 - "5766"
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 8166c2a19e5849de6caace4eea0fee5866f5adc3bfc2c483f18fc788c1bf2fa9
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5dd159b8b9e141c2fb448bae5fb624efe1014d7d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897708"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318116"
 ---
 # <a name="common-issues-when-creating-a-group-connected-site-in-sharepoint"></a>Uobičajeni problemi prilikom stvaranja grupnog povezanog web-mjesta u SharePoint
 
@@ -28,7 +28,7 @@ ms.locfileid: "57897708"
    - Dodatne informacije o početku rada s ljuskom Powershell potražite u članku Početak [rada s ljuskom SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Uklonite web-mjesto s izbrisanih [web-mjesta pomoću cmdleta Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell. Powershell mora trajno izbrisati grupna web-mjesta.
 
-1. Ako stvarate grupno povezano web-mjesto i primate upozorenje: još jedna grupa s istim **pseudonimom** već postoji , provjerite postojeće grupe [iz Centar za administratore okruženja Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Da biste riješili problem, izbrišite postojeću grupu ako više nije potrebna ili stvorite web-mjesto s dodijeljenim drugim pseudonimom.
+1. Ako stvarate web-mjesto povezano s grupom i primate upozorenje: još jedna grupa s istim **pseudonimom** već postoji , provjerite postojeće grupe iz [Centar za administratore okruženja Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Da biste riješili problem, izbrišite postojeću grupu ako više nije potrebna ili stvorite web-mjesto s dodijeljenim drugim pseudonimom.
 
 1. Postoje različiti načini stvaranja i korištenja modernih grupa s SharePoint.
 

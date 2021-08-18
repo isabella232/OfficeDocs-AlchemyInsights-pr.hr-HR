@@ -13,16 +13,16 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: e7818d8d77efbf6d23fdefeadb3bdc99cc82a71db5cacd29741749fa74460a7a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6742252a3424487ad0dbe16aa7e3a8ffe53609cf
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897079"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318044"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Upravljanje prostorom za pohranu SharePoint online
 
-Većini tvrtki ili ustanova SharePoint se automatski upravlja pohranom, pa ne morate postaviti ograničenja po zbirci web-mjesta. Dodatne informacije o izračunu prostora za pohranu klijenta na temelju plana potražite u članku Ograničenja [prema planu](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).
+Za većinu tvrtki ili ustanova SharePoint se automatski upravlja pohranom, pa ne morate postaviti ograničenja po zbirci web-mjesta. Dodatne informacije o izračunu prostora za pohranu klijenta na temelju plana potražite u članku Ograničenja [prema planu](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).
 
 Dodatne informacije potražite u sljedećim člancima:
 

@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 8f15c401ffd6142ca5910c23760b169d7b1657c711ec19094ac7a2940e40a629
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317336"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900792"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Obustavljanje ili pauziranje pretplate
 
 Da biste privremeno obustavljali ili pauzirali pretplatu, pretplatu možete otkazati u Centar za administratore okruženja Microsoft 365.
 
 1. U centru za administratore idite na stranicu **Naplata**  >  **[proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-2. Na **kartici** Proizvodi pronađite pretplatu koju želite otkazati. Odaberite tri točke (dodatne akcije), a zatim odustani **od pretplate**.
+2. Na **kartici** Proizvodi pronađite pretplatu koju želite otkazati. Odaberite tri točke (dodatne akcije), a zatim Odustani **od pretplate**.
 3. Status pretplate prikazuje se kao **Onemogućeno** i prikazuje datum otkazivanja pretplate. Pretplata ostaje u onemogućenom stanju 90 dana i ima smanjene funkcije dok se ne izbriše ili [ponovno aktivira.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
 Dodatne informacije potražite u članku [Što se događa kada otkažete pretplatu i](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [spremite podatke.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)

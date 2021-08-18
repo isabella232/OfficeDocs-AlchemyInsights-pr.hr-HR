@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 7746e44a0ee5a4442051900985aab339b09652f08e412b02a02429c93cc7c107
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d6be4331967ed9ae362f5da85856b03cfa40b319
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895171"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317800"
 ---
 # <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Saznajte tko je postavio prosljeđivanje na poštanskom sandučiću i kako
 
@@ -28,8 +28,7 @@ Ako je vanjsko prosljeđivanje postavljeno na poštanski sandučić, aktivnost s
    - U Centar za usklađenost okruženja Microsoft 365 na <https://compliance.microsoft.com> idite na **Nadzor** \> **rješenja**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://compliance.microsoft.com/auditlogsearch> .
    - Na portalu Microsoft 365 Defender idite <https://security.microsoft.com> na **Nadzor**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://security.microsoft.com/auditlogsearch> .
 
-   > [!NOTE]
-   > Ako vidite obavijest da morate uključiti nadzor, odmah je uključite. Ako ta značajka nije uključena, rezultati pretraživanja neće moći povući podatke iz prethodnih datuma.
+   **Napomena:** ako vidite obavijest da morate uključiti nadzor, odmah je uključite. Ako ta značajka nije uključena, rezultati pretraživanja neće moći povući podatke iz prethodnih datuma.
 
 2. Na **stranici** Nadzor provjerite je li **odabrana** kartica Pretraživanje, a zatim konfigurirajte sljedeće postavke:
    - Odaberite raspon datuma/vremena u **okvirima Početak** **i** Kraj.
