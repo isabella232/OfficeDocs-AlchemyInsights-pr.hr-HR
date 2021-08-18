@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b56a623a70f1a51e501291c0babf7d45eecee4eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900100"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321673"
 ---
 # <a name="suspend-or-pause-licenses"></a>Obustavljanje i pauziranje licenci
 
@@ -28,7 +28,7 @@ ms.locfileid: "57900100"
 
 Da biste privremeno obustavljali ili pauzirali korištenje licence, možete ukloniti licence iz Centar za administratore okruženja Microsoft 365, a zatim ih kasnije ponovno dodati.
 
-1. Prije uklanjanja licenci iz pretplate morate poništiti [dodjelu licenci od korisnika](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+1. Prije uklanjanja licenci iz pretplate morate poništiti dodjelu [licenci od korisnika](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
 2. Zatim idite na stranicu **Naplata**  >  [proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 3. Na **kartici** Proizvodi odaberite pretplatu koju želite ažurirati.
 4. Na stranici pojedinosti o pretplati **odaberite Ukloni licence**.

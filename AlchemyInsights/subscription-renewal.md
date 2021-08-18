@@ -16,12 +16,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: aeabecf82e22369ed78f00a7e32a99fa7cf9b5f9a8e3a0f5f84ea68bdbc33642
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0148fdbf6a88d1a057aecef60277d20173d8573e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894903"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321709"
 ---
 # <a name="subscription-recurring-billing"></a>Ponavljajuća naplata pretplate
 
@@ -30,7 +30,7 @@ Ako želite znati kada se plaća mjesečna ili  godišnja pretplata (ako je pona
 1. U centru za administratore idite na stranicu **Naplata** \> [proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **kartici** Proizvodi pronađite pretplatu o koju želite saznati više. Stupac **Status pretplate** prikazuje datum obnove ili isteka.
 3. Da biste unijeli promjenu, odaberite tri točke (dodatne akcije), a zatim uređivanje **ponavljajuće naplate**.
-4. U **oknu Uređivanje ponavljajuće naplate** **odaberite Uključite**, **Uključite, obnovite jednom** ili **Isključeno**.
+4. U **oknu Uređivanje ponavljajuće naplate** odaberite **Uključite**, **Uključite, obnovite jednom** ili **Isključeno**.
 5. Odaberite **Spremi**.
 
 Dodatne informacije pronađite u članku [Isključivanje ili uključivanje ponavljajuće naplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).

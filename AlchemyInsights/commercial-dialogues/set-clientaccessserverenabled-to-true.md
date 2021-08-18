@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fc953813a94c9ed3226f81f776d6085e12a6cafc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994857"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320348"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Postavljanje clientaccessserverEnabled na True
 
@@ -26,11 +26,10 @@ Ako ne možete otvoriti šifriranu poruku e-pošte i umjesto toga vidjeti **priv
 
 1. Povezivanje na Exchange Online PowerShell.
 
-> [!NOTE]
-> Da biste se Exchange Online s ljuskom PowerShell, morate se prijaviti pomoću globalnog administratora ili Exchange administratorskog računa.
+    **Napomena:** da biste se Exchange Online s ljuskom PowerShell, morate se prijaviti pomoću globalnog administratora ili Exchange administratorskog računa.
 
    a. Otvorite Windows PowerShell, a zatim pokrenite sljedeću naredbu:`$UserCredential = Get-Credential`
-b. U **dijaloškom Windows PowerShell zahtjev za** vjerodajnice unesite račun i lozinku za posao ili školu, c. Kliknite **U redu**. 
+   b. U **dijaloškom Windows PowerShell zahtjev za vjerodajnice** unesite račun i lozinku za posao ili školu, c. Kliknite **U redu**. 
 
 2. Pokrenite sljedeću naredbu da biste stvorili novu sesiju:
 
@@ -46,8 +45,7 @@ b. U **dijaloškom Windows PowerShell zahtjev za** vjerodajnice unesite račun i
 
     a. Ako **je postavka ClientAccessServerEnabled** postavljena na **False**, pokrenite sljedeći cmdlet: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
-> [!TIP]
-> Sesiju ljuske powershell uvijek zatvorite sljedećom naredbom: `Remove-PSSession $Session`
+**Savjet**: Uvijek zatvorite sesiju ljuske powershell sljedećom naredbom: `Remove-PSSession $Session`
 
 Dodatne informacije potražite u članku [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
 
