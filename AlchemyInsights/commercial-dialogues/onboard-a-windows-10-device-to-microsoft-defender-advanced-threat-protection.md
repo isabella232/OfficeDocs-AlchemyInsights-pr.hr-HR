@@ -1,5 +1,5 @@
 ---
-title: Na uređaju sa sustavom Windows 10 u programu Microsoft Defender Napredna zaštita od prijetnji (MDATP)
+title: Na uređaju Windows 10 microsoft Defender Advanced Threat Protection (MDATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 51e6e2c1504002af5408d678399fdd1d691ae096
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 133ff4256c007600857d16d60bf494ea314c8d874c02d3afcbc3ff1a29b9c802
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743619"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091060"
 ---
-# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Na uređaju sa sustavom Windows 10 u programu Microsoft Defender Napredna zaštita od prijetnji (MDATP)
+# <a name="onboard-a-windows-10-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Na uređaju Windows 10 microsoft Defender Advanced Threat Protection (MDATP)
 
-MDATP podržava sljedeće alate za implementaciju i metode za Windows 10:
+MDATP podržava sljedeće alate i metode implementacije za Windows 10:
 
 - Pravilnik grupe
 - Microsoft Endpoint Configuration Manager
 - Upravljanje mobilnim uređajima, uključujući Microsoft Intune
 - Lokalne skripte
 
-Dodatne informacije potražite u članku [Alati i postupci za ukrcaj na uređaje sa sustavom Windows 10](https://go.microsoft.com/fwlink/?linkid=2143460).
+Dodatne informacije potražite u članku Alati i načini za [Windows 10 uređajima.](https://go.microsoft.com/fwlink/?linkid=2143460)

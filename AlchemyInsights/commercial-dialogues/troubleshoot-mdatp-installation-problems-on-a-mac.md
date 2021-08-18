@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090986"
 ---
 # <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>Otklanjanje poteškoća s instalacijom MDATP-a na Macu
 
-Ako Ručna instalacija ne uspije, na stranici **sažetka** čarobnjaka za instalaciju prikazat će se sljedeća pogreška:
+Ako ručna instalacija ne uspije, **na stranici sa** sažetkom čarobnjaka za instalaciju prikazuje se sljedeća pogreška:
 
-"Prilikom instalacije došlo je do pogreške. Instalacijski program naišao je na pogrešku koja je uzrokovala neuspjeh instalacije. Zatražite pomoć od proizvođača softvera. "
+"Došlo je do pogreške tijekom instalacije. Instalacijski program naišao je na pogrešku zbog koje instalacija nije uspijevala. Zatražite pomoć od proizvođača softvera."
 
-Na stranici implementacije MDM-a stranica prikazuje i generički neuspjeh instalacije.
+Za implementacije MDM-a na stranici se prikazuje i generička pogreška instalacije.
 
-Iako ne prikazujemo točne pogreške krajnjim korisnicima, držimo datoteku zapisnika s napretkom instalacije u **/Library/logs/Microsoft/mdatp/install.log**. Svaka instalacija sesije dodaje se u ovu datoteku zapisnika. Da biste mogli obaviti samo zadnju sesiju instalacije, koristite `sed` .
+Premda krajnjim korisnicima ne prikazujemo točne pogreške, zadržavamo datoteku zapisnika s tijekom instalacije u **programu /Library/Logs/Microsoft/mdatp/install.log.** Svaka se sesija instalacije prilaže ovoj datoteci zapisnika. Da biste izlazni samo zadnju instalacijsku sesiju, koristite `sed` .
 
-Dodatne informacije potražite u članku [Otklanjanje poteškoća s instalacijom za Microsoft Defender ATP za Mac](https://go.microsoft.com/fwlink/?linkid=2144615).
+Dodatne informacije potražite u članku Otklanjanje [poteškoća s instalacijom za Microsoft Defender ATP za Mac](https://go.microsoft.com/fwlink/?linkid=2144615).

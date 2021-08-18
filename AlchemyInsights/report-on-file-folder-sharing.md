@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 8a4c2b4aedaa0ac88262e6c4f0c91af952441b6904971eabf774c2a8b7b58042
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c7587eba7d69d532ab026db6b9c56f5fa6d7e7f8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54110636"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319298"
 ---
 # <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Izvješće o zajedničkom korištenju datoteka i mapa na SharePoint web-mjestima
 
@@ -26,5 +26,4 @@ Možete stvoriti CSV datoteku s pojedinostima o svakoj jedinstvenoj datoteci, ko
 
 Dodatne informacije potražite u izvješću [o zajedničkom korištenju datoteka i mapa na SharePoint web-mjestu.](https://docs.microsoft.com/sharepoint/sharing-reports)
 
-> [!NOTE]
-> Ta je značajka trenutno implementirana na zakupce prvog izdanja i postupno će se implementirati svim produkcijcima.
+**Napomena:** ta je značajka trenutno implementirana na zakupce prvog izdanja i postupno će se implementirati svim produkcijcima.

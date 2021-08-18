@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3b1cac5379f4f3da93152fa20086068f7df562cd98b2980ce1b4280e0aa6d5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303569"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902252"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Pronalaženje IP adrese u zapisniku nadzora
 
@@ -28,7 +28,8 @@ IP adresa koja odgovara aktivnosti koju je izveo korisnik ili administrator prik
    - U Centar za usklađenost okruženja Microsoft 365 na <https://compliance.microsoft.com> idite na **Nadzor** \> **rješenja**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://compliance.microsoft.com/auditlogsearch> .
    - Na portalu Microsoft 365 Defender idite <https://security.microsoft.com> na **Nadzor**. Možete i izravno pristupiti stranici **Nadzor** pomoću sustava <https://security.microsoft.com/auditlogsearch> .
 
-    **Napomena:** ako vidite obavijest da morate uključiti nadzor, odmah je uključite. Ako ta značajka nije omogućena, rezultati pretraživanja neće moći povući podatke iz prethodnih datuma.
+    > [!NOTE]
+    > Ako vidite obavijest da morate uključiti nadzor, odmah je uključite. Ako ta značajka nije omogućena, rezultati pretraživanja neće moći povući podatke iz prethodnih datuma.
 
 2. Na **stranici** Nadzor provjerite je li **odabrana** kartica Pretraživanje, a zatim konfigurirajte sljedeće postavke:
    - **Raspon datuma i vremena:** odaberite raspon datuma/vremena u **okvirima Početak** **i** Kraj.
