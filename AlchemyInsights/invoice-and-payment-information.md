@@ -16,12 +16,12 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892119"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321955"
 ---
 # <a name="invoice-and-payment-information"></a>Podaci o fakturi i plaćanju
 
@@ -31,7 +31,7 @@ Kada kupite pretplatu Microsoft 365 za tvrtke izravno od Microsofta, možete pla
 
 **Faktura/račun**
 
-Fakture možete pronaći i preuzeti na stranici Računi za  >  [naplatu & plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
+Fakture možete pronaći i preuzeti na stranici Računi za  >  [& plaćanja.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
 
 **Napomena:** ako fakture nisu vidljive, možda ćete morati prilagoditi filtar raspona datuma.  Po zadanom se prikazuju zadnja 3 mjeseca faktura.
 

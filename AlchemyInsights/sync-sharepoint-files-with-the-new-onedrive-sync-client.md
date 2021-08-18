@@ -12,12 +12,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 7966933cd7474dd640ac8397ce560c9fb1c57fb4e99d02f8976d5dcfe7cf5a82
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d83dd6f96b0d8788ebd11d7f89fa07bf204604b6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909206"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322557"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Sinkronizacija datoteka sustava SharePoint s novim klijentom za sinkronizaciju servisa OneDrive
 
@@ -27,8 +27,7 @@ ms.locfileid: "53909206"
     
 3. Za postavku "Klijent za sinkronizaciju za SharePoint" odaberite **Pokreni novi klijent**.
     
-    > [!NOTE]
-    > Ako ta mogućnost nije prikazana, vaša tvrtka ili ustanova već je postavljena za korištenje novog klijenta za sinkronizaciju servisa OneDrive koji se koristi za sinkronizaciju datoteka sustava SharePoint. 
+    **Napomena:** ako se ta mogućnost ne pojavi, vaša je tvrtka ili ustanova već postavljena tako da koristi novi klijent Sinkronizacija sa servisom OneDrive za sinkronizaciju SharePoint datoteka. 
   
 4. Kliknite **U redu**.
     

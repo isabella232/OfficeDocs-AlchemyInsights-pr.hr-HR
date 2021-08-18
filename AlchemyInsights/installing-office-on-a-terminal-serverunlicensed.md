@@ -11,31 +11,30 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7e435df1515878ab4fe935ab8148daee29b8e3820095fc6e49db45de4c6279db
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35ef317ea87fedd01c08fee5b370e3c81e515c27
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055150"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321991"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instalacija Office na terminalski poslužitelj
 
-Za implementaciju Microsoft 365 Apps za velike tvrtke na Windows poslužitelja putem servisa Remote Desktop Services (RDS), nekadašnjeg imena Servisi terminala:
+Za implementaciju Microsoft 365 Apps za velike tvrtke na poslužitelju Windows udaljene radne površine (RDS), nekadašnjeg imena Servisi terminala:
   
 - Morate imati pretplatu Microsoft 365 koja obuhvaća Microsoft 365 Apps za velike tvrtke, kao što su Office 365 Enterprise E3 ili Enterprise E5. Planovi Microsoft 365 Apps za male tvrtke i Microsoft 365 Apps za male tvrtke premium ne obuhvaćaju Microsoft 365 Apps za velike tvrtke.
 
 - Morate omogućiti aktivaciju [zajedničkog računala](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
-Ako želite instalirati Microsoft 365 Apps za velike tvrtke RDS iz Centar za administratore okruženja Microsoft 365, koji koristi zadane ***postavke instalacije,*** slijedite korake u nastavku.
+Ako želite instalirati Microsoft 365 Apps za velike tvrtke RDS iz Centar za administratore okruženja Microsoft 365, koji koristi ***zadane postavke instalacije,*** slijedite korake u nastavku.
 
-> [!TIP]
-> Možete i preuzeti i pokrenuti Microsoft pomoćnik za podršku i oporavak [da biste Microsoft 365 Apps za velike tvrtke](https://aka.ms/SaRA_OfficeSCA_M365Portal) u načinu aktivacije zajedničkog računala.
+    **Tip**: You can also download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) to install Microsoft 365 Apps for enterprise in shared computer activation mode.
   
 1. Provjerite koju Microsoft 365 pretplatu imate. [Saznajte kako](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
 2. Ako je potrebno, prijeđite na drugu Microsoft 365 pretplatu. [Saznajte kako](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-3. Ako Office već instaliran na RDS poslužitelju pomoću bilo koje druge Microsoft 365 pretplate, deinstalirajte ga. Na primjer, e-pošte na upravljačkoj \> ploči Deinstalirajte program. [Deinstalacija pomoću pomoćnik za podršku i oporavak ako](https://aka.ms/SARA-OfficeUninstall-Alchemy) naiđete na probleme.
+3. Ako Office već instaliran na RDS poslužitelju pomoću drugih pretplata Microsoft 365, deinstalirajte ga. Na primjer, e-pošte na upravljačkoj \> ploči Deinstalirajte program. Deinstalirajte [pomoću pomoćnik za podršku i oporavak ako](https://aka.ms/SARA-OfficeUninstall-Alchemy) naiđete na probleme.
 
 4. Na RDS poslužitelju prijavite se na Centar za administratore okruženja Microsoft 365 pomoću administratorskog računa i [instalirajte Microsoft 365 Apps za velike tvrtke](https://portal.office.com/OLS/MySoftware.aspx).
 

@@ -1,5 +1,5 @@
 ---
-title: Odgodi ažuriranja za Windows 10
+title: Odgoda Windows 10 ažuriranja
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1128"
 - "6700007"
-ms.openlocfilehash: 233354386eb319860f25b3929b6be528438cc865
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 18a73fdb5a0b270b4343c408ef97fb18388b629bec63fc59fdfa674b763369be
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118556"
 ---
-# <a name="defer-windows-10-updates"></a>Odgodi ažuriranja za Windows 10
+# <a name="defer-windows-10-updates"></a>Odgoda Windows 10 ažuriranja
 
-Da biste korisnicima odgodili ažuriranje sustava Windows 10, slijedite ove korake:
+Da biste odgodili Windows 10 korisnicima, slijedite ove korake:
 
-1. Prijavite se na portal Azure.
-2. Odaberite **softverska ažuriranja**za   >   **Windows 10 Update Rings**.
-3. Ako nemate telefon za ažuriranje, odaberite mogućnost stvaranja nove.
-4. Unesite naziv i neobavezan opis, a zatim odaberite  **Postavke Konfiguriraj**.
-5. Prilagodite vremenski okvir za ispravljanje različitog ažuriranja. Maksimalno odgođene vrijeme temelji se na vrsti ažuriranja:
-    - **Kvaliteta ažuriranja**  može se odgoditi do 30 dana od njihovog objavljivanja.
-    - **Ažuriranja značajki**  mogu se odgoditi do 180 dana iz njihovog izdanja.
+1. Prijavite se na portal platforme Microsoft Azure.
+2. Odaberite **Ažuriranja softvera**   >   **Windows 10 Ažuriranje prstenova**.
+3. Ako nemate zvono za ažuriranje, odaberite mogućnost da biste stvorili novi.
+4. Unesite naziv i neobavezni opis, a zatim **odaberite Postavke Konfiguriraj**.
+5. Prilagodite vremenski okvir za odgodu različitih ažuriranja. Maksimalno vrijeme odgode temelji se na vrsti ažuriranja:
+    - **Ažuriranja kvalitete**  mogu se odgoditi do 30 dana od njihova izdanja.
+    - **Ažuriranja značajki**  mogu se odgoditi do 180 dana od njihova izdanja.

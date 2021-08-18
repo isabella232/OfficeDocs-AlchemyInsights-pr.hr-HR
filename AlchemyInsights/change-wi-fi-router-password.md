@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a216d0e06a3e6865ca0ed157d976e5623ddbd9b02624e387a2f9755315f913bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119600"
 ---
 # <a name="change-your-wi-fi-router-password"></a>Promjena lozinke Wi-Fi usmjerivača
 
 Da biste promijenili lozinku Wi-Fi usmjerivača, slijedite ove korake:
 
-1. Odaberite **Start** Settings Network & Internet Network and Sharing Center ( Centar za internetsku  >    >    >  **mrežu i zajedničko korištenje**).
+1. Odaberite **Start** Postavke Network & Internet Network and Sharing Center ( Centar za internetsku  >    >    >  **mrežu i zajedničko korištenje**).
 
 2. U **odjeljku Prikaz aktivnih** mreža potražite mrežu s koju ste povezani. Odaberite plavu vezu pokraj mogućnosti **Veze**.<br>
 

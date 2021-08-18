@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054790"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321899"
 ---
 # <a name="issues-with-links-and-urls"></a>Problemi s vezama i URL-ovima
 
@@ -42,15 +42,13 @@ Za dodavanje URL-a za odgovore idite na karticu **Provjera autentičnosti** u st
     - platformi (iOS/Android/UWP)
     - podacima koji se upotrebljavaju za izradu vaše aplikacije, kao što su ID paketa u iOS-u te naziv paketa i raspršivanje potpisa na Androidu. Pomoći će vam registracija portala Azure. Za pojedinosti pogledajte [Konfiguracija platforme i URI-jevi za preusmjeravanje](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> API-ji za web i neki od tihih načina za nabavljanje tokena (IWA i korisničko ime/lozinka) ne zahtijevaju URI za preusmjeravanje.
+**Napomena:** web API-je i neki od tihih načina stjecanja tokena (IWA i korisničko ime/lozinka) ne zahtijevaju preusmjeravanje URI-ja.
 
 **Implementirao sam web-aplikaciju i kad sam je testirao, dobivam poruku o nepodudaranju url-a za odgovore**
 
 Dodajte URI-je za preusmjeravanje za sve lokacije na kojima implementirate web-aplikaciju. Za dodatne informacije pogledajte [Registrirajte web-aplikaciju pomoću portala Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Dodajte URI za preusmjeravanje za lokaciju odmah nakon što ste implementirali aplikaciju na toj lokaciji.
+**Napomena:** dodajte URI preusmjeravanja za mjesto odmah nakon što implementirate aplikaciju na tom mjestu.
 
 **Ne mogu registrirati dovoljno URL-ova za odgovore**
 

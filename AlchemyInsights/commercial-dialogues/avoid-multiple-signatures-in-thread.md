@@ -1,5 +1,5 @@
 ---
-title: Izbjegavanje dodavanja više potpisa u razgovoru e-pošte
+title: Izbjegavanje dodavanja više potpisa u razgovor e-pošte
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: fe460e94307043b8d271111bed83e7b1c35b9b47
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2a9d6acab661470f71adf9f757e6847c367d26979fa210dd8f35e0ffaaa8dc45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119312"
 ---
-# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Izbjegavanje dodavanja više potpisa u razgovoru e-pošte
+# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Izbjegavanje dodavanja više potpisa u razgovor e-pošte
 
-Da biste dobili odricanje ili potpis dodan samo jednom po nit e-pošte, morat ćete promijeniti postavku u centru za administratore sustava Exchange.
+Da biste dobili odricanje od odgovornosti ili potpis dodan samo jedanput po niti e-pošte, morate promijeniti postavku u centru Exchange administratora.
 
-1. Otvorite centar za [administratore sustava Exchange.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
-2. Odaberite **Dodatne mogućnosti** da biste dodali iznimku koja traži jedinstveni tekst u izjavi o odricanju odgovornosti. Time se osigurava da se odricanje od odgovornosti doda samo izvornoj poruci.
+1. Idite u [centar Exchange administratora.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
+2. Odaberite **Dodatne mogućnosti** da biste dodali iznimku koja traži jedinstveni tekst u odricanju odgovornosti. Time se jamči da se odricanje odgovornosti dodaje samo u izvornu poruku.
 

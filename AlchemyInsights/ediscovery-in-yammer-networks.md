@@ -1,5 +1,5 @@
 ---
-title: Predočavanje elektroničkih elektroničkih podataka u mrežama servisa Yammer
+title: EDiscovery in Yammer Networks
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f5e2f29e30db5ee2b042b43dc4737c90198ebd7025b9e1637f922b655a1a3f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118376"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>Predočavanje elektroničkih elektroničkih podataka u mrežama servisa Yammer
+# <a name="ediscovery-in-yammer-networks"></a>EDiscovery in Yammer Networks
 
-Sada možete izvršiti pretraživanje elektroničkih predočavanja sadržaja servisa Yammer.  Za izvođenje pretraživanja ili izvoza elektroničkih elektroničkih podataka na sadržaj servisa Yammer potrebno je sljedeće:
+Sada možete izvršiti pretraživanje elektroničkih elektroničkih Yammer sadržaja.  Za izvođenje pretraživanja ili izvoza elektroničkih elektroničkih Yammer sadržaja potrebno je sljedeće:
 
-1. Najprije morate migrirati mrežu za Yammer Enterprise u nativni način rada da bi se poruke i datoteke servisa Yammer učinile vidljivima. Napomena: ako ste novi korisnik od **9. siječnja 2020., a mreža servisa Yammer** već je u nativnom načinu rada, vaši se podaci sada mogu otkriti uz eDiscovery .
+1. Najprije morate migrirati Yammer Enterprise Network u nativni način rada da bi se Yammer i datoteke otkrili. Napomena: ako ste novi korisnik od **9. siječnja 2020., a vaša Yammer** mreža već je u nativnom načinu rada, podaci se sada mogu otkriti pomoću predočavanja elektroničkih podataka .
 
-2. Kada zatvorite korisnike, eDiscovery za Yammer bit će dostupan kada se objavi alat za poravnanje nativnog načina rada, a migracija Nativnog načina završi za Yammer na klijentu.
+2. Kada zatvorite korisnike, eDiscovery za Yammer bit će dostupan kada se objavi alat za poravnanje nativnog načina rada, a migracija Nativnog načina završi Yammer na klijentu.
 
 Dodatne informacije o sljedećem:
 
