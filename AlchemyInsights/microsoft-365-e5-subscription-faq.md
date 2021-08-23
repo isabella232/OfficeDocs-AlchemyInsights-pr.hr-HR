@@ -3,7 +3,7 @@ title: Najčešća pitanja o pretplati na Microsoft 365 E5
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002658"
 - "5183"
-ms.openlocfilehash: 53f94337d3c6ad032e21bc4e8e9484ee937a0c3153543558e960c8f96c838569
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b3a0969b21b4a904b211b6fae135895e760d4290
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925013"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450870"
 ---
 # <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Najčešća pitanja o pretplati na Microsoft 365 E5 i upravljanju licencama
 
@@ -30,7 +30,7 @@ ms.locfileid: "53925013"
 - Da **biste kupili ili uklonili** licence E5, idite **na Naplata > Vaši [proizvodi](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Dodatne informacije potražite u članku [Kupnja ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 - Da **biste otkazali** pretplatu na E5, **otvorite odjeljak Naplata >Vaši proizvodi [](https://go.microsoft.com/fwlink/p/?linkid=842054)**, odaberite pretplatu, a zatim u **odjeljku** Postavke pretplate i plaćanja odaberite **Otkaži pretplatu**. Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Da **biste aktivirali** pretplatu na E5, pogledajte [aktivaciju pretplate](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Da **biste ponovno aktivirali** pretplatu na E5, pogledajte [ponovno aktiviranje pretplate](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Da **biste ponovno aktivirali** pretplatu na E5, pogledajte [ponovnu aktivaciju pretplate](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Da biste **produljili** probnu verziju E5, pogledajte [proširivanje probne verzije](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
 Dodatne informacije potražite u članku [Kupnja ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

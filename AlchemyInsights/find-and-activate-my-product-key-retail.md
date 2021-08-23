@@ -3,8 +3,7 @@ title: Maloprodajna unaprijed plaćena kartica
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
-ms.reviewer: commerce_purchase
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,18 +14,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 56bd131a3bbbd42bd6cd4ccf53f18d63ea2408b2
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320981"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451914"
 ---
 # <a name="retail-prepaid-card"></a>Maloprodajna unaprijed plaćena kartica
 
-Ako ste Microsoft 365 Business Standard kupili u maloprodajnoj trgovini, slijedite korake u nastavku da biste produljili datum isteka ili dodali licencu postojećoj pretplati.
+Ako ste Microsoft 365 Business Standard u maloprodajnoj trgovini, slijedite korake u nastavku da biste produljili datum isteka ili dodali licencu postojećoj pretplati.
 
-**Napomena:** da biste koristili ključ proizvoda da biste produljili datum isteka ili dodali licencu na postojeću pretplatu Microsoft 365 Business Standard, potreban vam je novi i neiskorišteni ključ za istu Microsoft 365 pretplatu. Unos izvornog Microsoft 365 ključa proizvoda neće funkcionirati jer se ključ koji je već iskorišten ne može ponovno koristiti.
+**Napomena:** da biste koristili ključ proizvoda da biste produljili datum isteka ili dodali licencu na postojeću pretplatu Microsoft 365 Business Standard, potreban vam je novi i neiskorišteni ključ za istu Microsoft 365 pretplatu. Unos izvornog Microsoft 365 proizvoda neće funkcionirati jer se ključ koji je već iskorišten ne može ponovno koristiti.
 
 1. U centru za administratore idite na stranicu **Naplata**  >  **[proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Pronađite pretplatu na koju želite proširiti ili dodati licencu. Odaberite [proširivanje datuma završetka](https://go.microsoft.com/fwlink/p/?linkid=842054) [ili dodavanje dodatnih licenci](https://go.microsoft.com/fwlink/p/?linkid=842054).

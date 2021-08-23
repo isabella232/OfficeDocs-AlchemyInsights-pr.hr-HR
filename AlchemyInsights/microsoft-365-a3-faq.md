@@ -3,7 +3,7 @@ title: Microsoft 365 A3 Najčešća pitanja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "9002871"
 - "5417"
-ms.openlocfilehash: 39aafe0e4719b55e4d255fa9fea92ca2fee610d5197a266dbcc0281379e36091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b6a28607d2cb92740885ca6013b3d8f1bebf40e7
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54027483"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451878"
 ---
 # <a name="microsoft-365-a3-faq"></a>Microsoft 365 A3 Najčešća pitanja
 
 - Da biste usporedili tarife za Microsoft 365 Education A1, A3, A5, pogledajte tarife[Za učenike](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) i [Za nastavnike, nastavno osoblje i zaposlenike](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr2).
-- Da **biste kupili** A3, idite **na Naplata > [Kupnja servisa](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Pomoću okvira za pretraživanje potražite "A3", a zatim odaberite plan i broj korisnika. [Kupnja druge pretplate](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Da **biste kupili** A3, idite **na Naplata > [Kupnja servisa](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Pomoću okvira za pretraživanje potražite "A3" pa odaberite plan i broj korisnika. [Kupnja druge pretplate](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - Da biste **promijenili tarife**, pogledajte [Nadogradnja na drugu tarifu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Da **biste korisnicima** dodijelili licence za A3, idite **na > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Dodatne informacije potražite u članku [Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Da **biste korisnicima** dodijelili licence za A3, idite **na Naplata > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Dodatne informacije potražite u članku [Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Da **biste kupili ili uklonili** A3 licence, idite **na Naplata > Vaši [proizvodi](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Dodatne informacije potražite u članku [Kupnja ili uklanjanje licenci](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 - Da **biste otkazali** pretplatu na A3, **otvorite odjeljak Naplata > Vaši proizvodi [](https://go.microsoft.com/fwlink/p/?linkid=842054)**, odaberite pretplatu, a zatim u **odjeljku** Postavke pretplate i plaćanja odaberite **Otkaži pretplatu**. Dodatne informacije potražite u članku [Otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Da **biste aktivirali** pretplatu na A3, pogledajte [aktivaciju pretplate](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
