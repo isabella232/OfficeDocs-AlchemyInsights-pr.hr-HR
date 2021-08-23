@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-Services
+title: Import service in the Office 365 Security & Compliance Center
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,28 +14,23 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2add8264754cadccc7025d5afa3d2e6fdf15140e
+ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312715"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58418141"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Uvoz servisa
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>Import service in the Office 365 Security & Compliance Center
 
-Da biste pristupili servisu Uvoz i pokrenuli postupak uvoza:
+Office 365 Uvoz servisa omogućuje uvoz više PST datoteka u poštanske sandučiće Exchange Online korisnicima. Pomoću servisa uvoza masovno uvozite PST datoteke u svoju organizaciju pomoću mogućnosti **Prijenos** putem mreže **ili Dostava pogona.**
 
-1. Idite u [centar za usklađenost sustava M365](https://compliance.microsoft.com/)i prijavite se pomoću vjerodajnica za administratorski račun u tvrtki ili ustanovi.
+Da biste pristupili servisu Uvoz i alatima za uvoz više PST datoteka:
 
-1. U lijevom oknu centra za usklađenost sustava M365 u odjeljku **Rješenja odaberite** **Uvoz upravljanja**  >  **informacijama**.
+1. Idite [na Office 365 sigurnost & usklađenost](https://protection.office.com)i prijavite se pomoću Office 365 računa.
+1. Odaberite **Upravljanje podacima**, **odaberite Uvoz**, a zatim slijedite korake u čarobnjaku. 
 
-1. Na **stranici Uvoz** odaberite **Novi zadatak uvoza**. Unesite naziv posla, a zatim odaberite **Dalje**.
+Dodatne informacije i detaljne upute za uvoz više PST datoteka potražite u članku Pregled uvoza PST datoteka [tvrtke ili ustanove.](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365)
 
-1. Odaberite **Prijenos podatke da biste** koristili mogućnost prijenosa mreže za vrstu posla **uvoza**. Detaljne korake potražite u članku Uvoz PST datoteka tvrtke ili ustanove pomoću [mrežnog prijenosa u Microsoft 365](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files).
-
-Da biste **pristupili stranici** Uvoz, provjerite jesu li vam dodijeljene odgovarajuće dozvole. Dodatne informacije potražite u članku Uvoz [PST datoteka pomoću mrežnog prijenosa.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
-
-Ako želite uvesti PST datoteku u poštanski sandučić, pogledajte uvoz [e-pošte, kontakata](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)i kalendara iz .pst Outlook .
-
-Ako imate problema s uvozom, pogledajte problem koji utječe na zadatke [uvoza PST-a.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+Da biste uvezli jednu PST datoteku, pogledajte uvoz [i izvoz Outlook e-pošte, kontakata i kalendara.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)
 
