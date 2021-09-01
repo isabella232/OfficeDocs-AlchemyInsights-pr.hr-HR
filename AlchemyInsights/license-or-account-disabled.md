@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: 6724a82f318ed13890a34039470eb9611a630e03
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: ecf2e5cc9b7a48ff5a73be00a3a04ce45a310dab
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58322996"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845854"
 ---
 # <a name="license-or-account-disabled"></a>Onemogućena je licenca ili račun
 
@@ -29,7 +30,7 @@ Ako je vaša pretplata istekla, ako ju je onemogućio Microsoft ili ako ste je o
 
 1. U centru za administratore idite na stranicu **Naplata**  >  [proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **kartici** Proizvodi pronađite pretplatu koju želite ponovno aktivirati. Odaberite tri točke (dodatne akcije), a zatim **ponovno aktiviraj ovu pretplatu.**
-    **Napomena**: ako vam se ne vidi **Ponovna aktivacija pretplate, obratite** se podršci.
+    **Napomena:** ako vam se ne vidi **Ponovna aktivacija pretplate, obratite** se podršci.
 3. U **oknu Ponovna aktivacija** pretplate odaberite način plaćanja s padajućeg popisa ili odaberite **Dodaj način plaćanja**.
 4. Odaberite **Spremi**.
 

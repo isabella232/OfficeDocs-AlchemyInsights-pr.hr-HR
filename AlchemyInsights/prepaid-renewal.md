@@ -3,7 +3,6 @@ title: Unaprijed plaćeno obnavljanje
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/11/2021
+ms.openlocfilehash: dabc83172eb9e58393620d7d24dae418de1a1b19
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901956"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842362"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Prepaid Microsoft 365 obnova
 
@@ -29,8 +29,7 @@ ms.locfileid: "57901956"
 3. Na stranici pojedinosti o pretplati u **odjeljku Postavke pretplate i plaćanja** odaberite Proširi datum **završetka**.
 4. Na **stranici obnavljanje ili dodavanje korisničkih licenci** odaberite Koristi novi i **neiskorišteni ključ proizvoda**, a zatim **Dalje**.
 5. Unesite ključ proizvoda, a zatim odaberite **Dalje**.
-    > [!NOTE]
-    > Ako imate više ključa proizvoda, možete odabrati Dodaj drugi **ključ proizvoda da biste** ih unijeli.
+    **Napomena:** ako imate više ključa proizvoda, možete odabrati Dodaj **drugi ključ proizvoda da biste ih** unijeli.
 6. Pregledajte pojedinosti o narudžbi, a zatim **odaberite Iskoristi**.
 
 Dodatne informacije potražite u članku Dodavanje licenci u pretplatu ili [proširivanje pretplate plaćene pomoću ključa proizvoda](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).
