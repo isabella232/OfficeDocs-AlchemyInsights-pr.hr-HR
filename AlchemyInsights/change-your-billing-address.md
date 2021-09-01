@@ -3,7 +3,6 @@ title: Promjena adrese za naplatu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -17,12 +16,13 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: f5320762aa8327dc7aa94cf46226b70462c9d9ec
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330400"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843298"
 ---
 # <a name="change-your-billing-address"></a>Promjena adrese za naplatu
 
@@ -35,12 +35,12 @@ Račun ili faktura sadrže tri adrese.
 3. Na **stranici Detalji o načinu** plaćanja kliknite **Uređivanje**.
 4. Ažurirajte adresu za naplatu, a **zatim kliknite Spremi > gotovo.**
 
-Dodatne informacije o adresama i promjenama obavijesti potražite u članku [Promjena adresa za naplatu za Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+Dodatne informacije o adresama i promjenama obavijesti potražite u [članku Promjena adresa za naplatu za Microsoft 365 za tvrtke](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
 **Promjena podataka o računu za naplatu**
 
-1. U centru za administratore idite **na Računi za > [naplata](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+1. U centru za administratore idite na **Računi > [naplata](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
 2. Odaberite **Uređivanje podataka o računu za naplatu**.
-3. Ažurirajte podatke o računu za naplatu, a **zatim kliknite Spremi > gotovo.**
+3. Ažurirajte podatke o računu za naplatu, a **zatim kliknite Spremi > Gotovo.**
 
 **Napomena**: ne možete promijeniti državu/regiju. Ako je potrebno promijeniti to polje, morate kupiti novi klijent.

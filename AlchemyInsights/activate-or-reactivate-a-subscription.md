@@ -3,6 +3,7 @@ title: Aktivacija ili ponovna aktivacija pretplate
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +15,13 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 82e351382d66e5a1aa6d86be509fc9bb08bdc411
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314304"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842866"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivacija ili ponovna aktivacija pretplate
 
@@ -27,7 +29,7 @@ ms.locfileid: "58314304"
 
 - Da biste korisnicima omogućili pristup servisu, dodijelite im licencu. Upute za to saznajte u [članku Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Ako vam je već dodijeljena licenca, možete pronaći aplikacije koje možete preuzeti sa stranice [Moj račun](https://portal.office.com/account/#installs). Na ovoj se stranici nalazi popis aplikacija koje su vam dostupne za preuzimanje na temelju dodijeljenih licenci.
-- Ako ste već preuzeli aplikaciju Office, možda ćete se morati prijaviti u aplikacije pomoću računa za posao ili školu. To možete učiniti u bilo kojoj aplikaciji Office (Word, Excel itd.) tako da kliknete   >  **Račun datoteke Office** (pri dnu). U **odjeljku Informacije o** korisniku **odaberite Promijeni račun**. Dodatne informacije potražite u članku [Instalacija Office aplikacija](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Ako ste već preuzeli aplikaciju Office, možda ćete se morati prijaviti u aplikacije pomoću računa za posao ili školu. To možete učiniti u bilo kojoj aplikaciji Office (Word, Excel itd.) tako da kliknete   >  **Datoteka Office račun** (pri dnu). U **odjeljku Informacije o** korisniku **odaberite Promijeni račun**. Dodatne informacije potražite u članku [Instalacija Office aplikacija](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Ponovna aktivacija pretplate**
 
@@ -46,5 +48,5 @@ Dodatne informacije pronađite u članku [Ponovno aktiviranje pretplate](https:/
 
 **Aktivacija nove pretplate pomoću ključa proizvoda**
 
-1. Da biste aktivirali novu Microsoft 365 pomoću ključa proizvoda, pogledajte [gdje unijeti ključ proizvoda Office proizvoda](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+1. Da biste aktivirali novu Microsoft 365 pomoću ključa proizvoda, pogledajte gdje unijeti [ključ proizvoda Office proizvoda](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 2. Unesite ključ proizvoda za Microsoft 365 i slijedite upute za aktivaciju pretplate. Ako imate problema s aktivacijom, pogledajte popis uobičajenih pogrešaka i rješenja [ključa proizvoda](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

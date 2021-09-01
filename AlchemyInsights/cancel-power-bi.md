@@ -15,19 +15,20 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 29d543859717e52bd625395429a49b785b35d3ff
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318942"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843406"
 ---
 # <a name="cancel-power-bi"></a>Otkazivanje dodatka Power BI
 
 Power BI može se otkazati u Centar za administratore okruženja Microsoft 365.
 
 1. U centru za administratore idite na stranicu **> [Vaši proizvodi.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-2. Na **kartici** Proizvodi pronađite pretplatu koju želite otkazati. Odaberite tri točke (dodatne akcije), a zatim odustani **od pretplate**.
+2. Na **kartici** Proizvodi pronađite pretplatu koju želite otkazati. Odaberite tri točke (dodatne akcije), a zatim Odustani **od pretplate**.
 3. U **oknu Otkazivanje** pretplate odaberite razlog otkazivanja. Ako želite, pošaljite povratne informacije.
 4. Odaberite **Spremi**.
 
