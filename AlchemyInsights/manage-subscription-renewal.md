@@ -15,19 +15,20 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 965e9d0a35ed2d220fd3750cfb59b0cd17f82601
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: dc8d794788caa73b91cc2cdd7b2104a4274122a3
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328854"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836925"
 ---
 # <a name="manage-subscription-renewal"></a>Upravljanje obnovom pretplate
 
 Da biste upravljali mjesečnim ili godišnjim plaćanjem, možete uključiti ili isključiti **Ponavljajuću naplatu**.
 
 1. U centru za administratore idite na stranicu **Naplata**  >  **[proizvoda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
-2. Na kartici **Proizvodi** pronađite pretplatu u koju želite upravljati, odaberite tri točke (dodatne akcije), a zatim odaberite **Uređivanje ponavljajuće naplate**.
+2. Na kartici **Proizvodi** pronađite pretplatu u koju želite upravljati, odaberite tri točke (dodatne akcije), a zatim uređivanje **ponavljajuće naplate**.
 3. U **oknu Uređivanje ponavljajuće naplate** **odaberite Uključite**, **Uključite, obnovite jedanput** ili **Isključeno**.
 4. Odaberite **Spremi**.
 
