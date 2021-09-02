@@ -14,18 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "4981"
 - "9002568"
-ms.openlocfilehash: 76f09fd64c23912bcaa9db86859d276d7d817815
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 07/30/2021
+ms.openlocfilehash: 726306a739d074c1333b02e0e7755dd00624f3d1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58452094"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843586"
 ---
 # <a name="microsoft-365-a1-faq"></a>Najčešća pitanja o okruženju Microsoft 365 A1:
 
 Najčešća pitanja o pretplati A1 i upravljanju licencama:
 
-- Ako vaša ustanova još nije postavila Microsoft 365 Education, a želite dodati **besplatno Microsoft 365**, možete početi s radom tako da navedete svoju e-poštu. Da biste naveli adresu e-pošte, pogledajte članak [Početak rada s okruženjem Office 365 besplatno](https://www.microsoft.com/education/products/office).  
+- Ako vaša ustanova još nije postavili Microsoft 365 Education, ali želite besplatno dodati **Microsoft 365**, počnite s radom tako da navedete svoju adresu e-pošte. Da biste unijeli adresu e-pošte, pogledajte [Besplatno počnite koristiti Office 365](https://www.microsoft.com/education/products/office).  
 - Ako je vaša ustanova već kvalificirana za Microsoft 365 Education, idite na **Naplata > [Usluge kupnje](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Upotrijebite okvir za pretraživanje kako biste pretražili „A1” i odaberite tarifu i broj korisnika. Dodatne informacije potražite u članku [Probajte besplatno probno razdoblje](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#try-a-free-trial-subscription) ili [Kupite drugu pretplatu](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - Da biste **promijenili tarife**, pogledajte [Nadogradnja na drugu tarifu](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - Da biste korisnicima **dodijelili** A1 licence, idite na **Naplata > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Dodatne informacije potražite u članku [Dodjela licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
