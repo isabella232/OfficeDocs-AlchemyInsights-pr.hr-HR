@@ -11,13 +11,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
+- "6700002"
 - "5687"
-ms.openlocfilehash: 57a7973d8d7a8daede01b86f8bf2261a5aa33328fa3fa4ac3b2e0a8967ee964b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+- "5762"
+ms.openlocfilehash: f2a393b5fb820cfdbd04191cdd1fcda00e7c2b96
+ms.sourcegitcommit: 1761960d03b3df7783b744ee539a7e6dbabae90c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54116252"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58884009"
 ---
 # <a name="help-with-intune-enrollment"></a>Pomoć za prijavu u Intune
 
@@ -28,10 +30,10 @@ ms.locfileid: "54116252"
 
 - [Postavljanje registracije uređaja sa sustavom Android pomoću aplikacije Intune](https://docs.microsoft.com/intune/android-enroll)
 
-- [Postavljanje Windows uređaja Za prijavu pomoću uređaja Intune](https://docs.microsoft.com/intune/windows-enroll)
+- [Postavljanje registracije Windows uređaja pomoću uređaja Intune](https://docs.microsoft.com/intune/windows-enroll)
 
 **Otklanjanje poteškoća s registracijom uređaja**
 
-1. Pomoću portala za otklanjanje poteškoća sa servisom Intune dijagnosticirajte i riješite uobičajene pogreške prilikom prijave. Pregledajte [ovaj](https://docs.microsoft.com/intune/help-desk-operators) dokument da biste saznali više.
+1. Pomoću portala za otklanjanje poteškoća sa servisom Intune dijagnosticirajte i riješite uobičajene pogreške prilikom prijave. Dodatne [informacije potražite](https://docs.microsoft.com/intune/help-desk-operators) u ovom dokumentu.
 
 2. Pregledajte ove dokumente da biste pregledali popis uobičajenih pogrešaka koje sprječavaju prijavu i rješenja za svaku od njih: vodič za otklanjanje [poteškoća i dokument](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) za otklanjanje [poteškoća.](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)
