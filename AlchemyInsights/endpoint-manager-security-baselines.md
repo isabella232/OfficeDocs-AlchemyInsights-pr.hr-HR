@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978153"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923546"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – polazišta za sigurnost
 
@@ -37,6 +37,8 @@ Svako od polazišta redovito se ažurira i izdaje u postupnim verzijama. Svaka v
 Da biste saznali smjernice o tome kako najučinkovitije promijeniti koja se verzija polazišta implementira, pročitajte članak [Upravljanje profilima polazišta za sigurnost u sustavu Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Nakon provedbe polazišta za sigurnost možete nadzirati stanje provedbe i pregledavati postavke za svaki uređaj zasebno.
+
+Budući da sigurnosne osnovne vrijednosti sadrže brojne postavke, važno je pregledati promjene konfiguracije i provesti testiranje da biste bili sigurni da su sve postavke prikladne za vaše uređaje i poslovne potrebe.
 
 **Napomena:** kod podataka o izvješćivanju za polazišta mogu proteći do 24 sata prije no što oni budu vidljivi nakon prve provedbe na uređaju i do 6 sati za daljnja ažuriranja. 
 
