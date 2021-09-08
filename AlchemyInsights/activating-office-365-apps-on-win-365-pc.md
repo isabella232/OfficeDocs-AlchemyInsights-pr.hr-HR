@@ -1,5 +1,5 @@
 ---
-title: Aktivacija Office 365 aplikacija na Windows 365 PC-ja
+title: Aktiviranje aplikacija sustava Office 365 na PC-jevima sa sustavom Windows 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
-ms.translationtype: MT
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.translationtype: HT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58792670"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923510"
 ---
-# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Aktivacija Office 365 aplikacija na Windows 365 PC-ja
+# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Aktiviranje aplikacija sustava Office 365 na PC-jevima sa sustavom Windows 365
 
-Windows 365 slika PC-ja obuhvaćaju instalirane kopije Office 365 aplikacija koje se aktiviraju prilikom prvog otvaranja bilo koje Office aplikacije.
+**Napomena**: taj se problem NE odnosi na korisnike s licencama za Windows 365 Enterprise.
 
-Tijekom postupka aktivacije korisnik s licencom Windows 365 Business može naići na sljedeću pogrešku:
+Slike PC-ja sa sustavom Windows 365 obuhvaćaju instalirane kopije aplikacija sustava Office 365 koje se aktiviraju prilikom prvog otvaranja bilo koje aplikacije sustava Office.
+
+Tijekom postupka aktivacije korisnik s licencom za Windows 365 Business može naići na sljedeću pogrešku:
 
 "Problem s računom
 
-Proizvodi koje smo pronašli na vašem računu ne mogu se koristiti za aktivaciju sustava Office u scenarijima pogreške na zajedničkom računalu 0x80004005"
+Proizvodi koje smo pronašli na vašem računu ne mogu se koristiti za aktivaciju sustava Office u scenarijima sa zajedničkim računalom Kod pogreške 0x80004005"
 
-Da biste riješili taj problem, od zahvaćenog korisnika zatražite da dovrši sljedeće korake: 
+Da biste riješili problem, od korisnika koji je pogođen tim problemom zatražite da dovrši sljedeće korake: 
 
-1. Deinstalirajte postojeće Office aplikacije s PC-ja u oblaku.
-1. Idite na Office.com i odaberite mogućnost Instaliraj Office.
+1. Deinstalira postojeće aplikacije sustava Office s PC-ja u oblaku.
+1. Ide na Office.com i odabere mogućnost Instaliraj Office.
 
-    Office aktivacija bi se nakon toga trebala uspješno dovršiti.
+    Aktivacija sustava Office trebala bi se tad uspješno dovršiti.
