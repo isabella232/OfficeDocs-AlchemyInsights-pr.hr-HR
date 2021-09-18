@@ -1,9 +1,9 @@
 ---
-title: Office LTSC Preview
+title: Office LTSC
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 04/23/2020
+ms.date: 09/17/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -23,25 +23,27 @@ ms.custom:
 - "2000021"
 - "2000020"
 - "9002483"
-ms.openlocfilehash: 9102102ffc4a260aed74f11ad343afddd7872f1a3bcfb061f1961aef49e6e841
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 52352c6651b3268445d01a50bcfdd73d1075523f
+ms.sourcegitcommit: 1e174b64d290ffa99d400480efe5d63ed846581c
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076409"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59447087"
 ---
-# <a name="office-ltsc-preview"></a>Office LTSC Preview
+# <a name="office-ltsc"></a>Office LTSC
 
-Microsoft Office Dugoročni kanal za servisiranje (LTSC) za Windows i Office 2021 za Mac trenutno su dostupni u javnom pretpregledu. Dodatne informacije potražite u sljedećim člancima:
+Office Dugoročni kanal za servisiranje (LTSC) 2021 sada je dostupan u servisnom centru za količinsko licenciranje (VLSC).
 
-- [Pregled pretpregleda Office LTSC](https://docs.microsoft.com/deployoffice/office2021/overview-ltsc-preview)
+**Važno**: Office LTSC 2021 odvojen je od Office koji je dostupan putem Microsoft 365 (ili Office 365) tarife. Ako ste, primjerice, Microsoft 365 Apps za velike tvrtke (prethodno Office 365 ProPlus naziv) korisnicima u tvrtki ili ustanovi, nije vam potreban Office LTSC 2021. Sve značajke već su uključene u Office LTSC 2021, zajedno s mnogo drugih značajki koje nisu dostupne u Office LTSC 2021.
 
-- [Instalacija Office LTSC preview](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview)
+Detaljne informacije i napomene o implementaciji potražite u članku:
 
-- [Pregled Office 2021 Standard za Mac (pretpregled)](https://docs.microsoft.com/deployoffice/office2021/overview-mac-preview)
+[Pregled Office LTSC](https://docs.microsoft.com/deployoffice/ltsc2021/overview)  
 
-- [Office Najčešća pitanja o komercijalnom pretpregledu LTSC-a](https://answers.microsoft.com/msoffice/forum/all/office-ltsc-commercial-preview-faq/0fcf5976-f87f-4be1-81af-9f6d6141bc3a)  
+[Office Najčešća pitanja vezana uz LTSC za Windows i Mac](https://support.microsoft.com/office/office-ltsc-for-windows-and-mac-faq-d574cf0b-3ebc-42cf-9035-a3b837e0463c)  
 
-**Napomena:** Ako trenutno koristite Microsoft 365 Apps za velike tvrtke ili Microsoft 365 Apps za male tvrtke, već imate značajke dostupne u programu Office LTSC 2021 ili Office 2021 za Mac i ne morate sudjelovati u pretpregledu.
+[Office Sistemski preduvjeti za LTSC 2021](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1#coreui-heading-kg69bnh)
 
-Ako vam je tijekom pretpregleda potrebna pomoć Office LTSC-om, pogledajte dobivanje [podrške i pružanje povratnih informacija](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview#getting-support-and-providing-feedback).
+[Implementacija Office LTSC 2021](https://docs.microsoft.com/deployoffice/ltsc2021/deploy)
+
+[Ažuriranje Office pretpregleda LTSC 2021 radi Office LTSC 2021](https://docs.microsoft.com/deployoffice/ltsc2021/update-from-preview)
