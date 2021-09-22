@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062864"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475209"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Objavljivanje oznake osjetljivosti
 
-1. Idite na pravilnike Microsoft 365 usklađenosti > **zaštite**  >  **podataka**.
+1. Idite na pravilnike Microsoft 365 usklađenosti > **za zaštitu**  >  **podataka**.
 
-1. Odaberite **+ Objavi naljepnicu** da biste pokrenuli čarobnjak za naljepnice Nove osjetljivosti.
+1. Odaberite **+ Objavi naljepnicu** da biste pokrenuli čarobnjak za nove naljepnice osjetljivosti.
 
 1. Odaberite **Odaberite oznake osjetljivosti koje želite objaviti**. Odaberite naljepnice koje želite učiniti dostupnima u aplikacijama i servisima, a zatim odaberite **Dodaj**.
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062864"
 1. Ako stvorite više pravilnika o naljepnicama koji mogu uzrokovati sukob korisnika ili mjesta, pregledajte redoslijed pravilnika i po potrebi ih premjestite prema gore ili dolje. Da biste promijenili redoslijed pravilnika natpisa, odaberite tri točke (dodatne akcije), a zatim Premjesti **prema gore** ili Premjesti **prema dolje**.
 
 Dovršavanje čarobnjaka automatski objavljuje pravilnik o naljepnicama.
+
+Dodatne informacije potražite u članku [Stvaranje i konfiguriranje naljepnica osjetljivosti i njihovih pravilnika](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
