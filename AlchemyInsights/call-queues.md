@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 119496a2a13b4b07bf954702eed95e29984358f03114ed42d44c26a422292836
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5487891259d2792a908ddf09cfb0afe2bcbd5406
+ms.sourcegitcommit: 06e4a1b63b36767fbef56d5031b7ebea44d15e67
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54103904"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131886"
 ---
 # <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Redovi poziva u Microsoft Teams i Skype za tvrtke 
 
-Da biste počeli koristiti redove čekanja poziva, pogledajte sljedeće veze.
+Redovi čekanja poziva zahtijevaju određene račune licenciranja i resursa. Detalje potražite u članku [Planiranje Teams automata i redova čekanja poziva: Preduvjeti]( https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites . 
 
-- [Stvaranje reda čekanja poziva u oblaku](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Odgovaranje na pozive u automatskom automatu i pozivima u redu čekanja izravno iz Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+Da biste saznali više o stvaranju i postavljanju redova čekanja na Microsoft Teams pozivima, pogledajte [stvaranje reda čekanja na poziv](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue). 
+
+Dodatne informacije potražite u članku Odgovaranje [na pozive u automatskom automatu i pozivima](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)u redu čekanja izravno iz Teams . 
