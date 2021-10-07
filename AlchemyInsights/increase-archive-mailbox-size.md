@@ -8,28 +8,31 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 305
+ms.custom:
+- "305"
+- "7494"
+- "3100006"
 ms.assetid: ''
-ms.openlocfilehash: f9cc968aba32645fd4433616618d096231ce4899e9e93335e802af5c05524a79
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d74a1baa02a74c8efd3be75ed711a2e994b9b552
+ms.sourcegitcommit: 68b50235d10ebb92b594ac3224c55cf0e8452ac9
 ms.translationtype: MT
 ms.contentlocale: hr-HR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926375"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "60226084"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Povećanje veličine arhiviranja poštanskog sandučića
 
+Microsoft 365 ograničava veličinu arhivskih poštanskih sandučića na temelju licence dodijeljene korisničkom računu. Korisnik prima obavijest e-poštom kada arhivski poštanski sandučić dosegne 90 % dopuštene veličine.
 
-Ako želite da pokrenemo automatske provjere postavki navedenih u nastavku, odaberite gumb natrag < – pri vrhu ove stranice, a zatim unesite adresu e-pošte korisnika kojima je potrebna povećana veličina poštanskog sandučića arhive.
-
-Microsoft 365 [ograničava](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) veličinu arhivskih poštanskih sandučića na temelju licence dodijeljene korisničkom računu. Kada arhivski poštanski sandučić dosegne 90 % dopuštene veličine, korisnik će primiti obavijest e-poštom. Kada arhivski poštanski sandučić dosegne ograničenje veličine, korisnik ne može premjestiti više stavki u arhivski poštanski sandučić. Microsoft 365 neće povećati veličinu arhivnog poštanskog sandučića nakon što se dosegne ograničenje veličine. Umjesto toga, korisnici mogu poduzeti sljedeće radnje da bi osloboditi prostor u arhiviranom poštanskom sandučiću:
+Kada arhivski poštanski sandučić dosegne ograničenje veličine, korisnik ne može premjestiti više stavki u arhivski poštanski sandučić. Microsoft 365 neće povećati veličinu arhivnog poštanskog sandučića nakon što se dosegne ograničenje veličine. Umjesto toga, korisnici mogu poduzeti sljedeće radnje da bi osloboditi prostor u arhiviranom poštanskom sandučiću:
 
 - Izvoz stavki u .pst datoteku pomoću Outlook.
-
 - Brisanje stavki iz arhive poštanskog sandučića.
 
-Microsoft 365 **neograničeno arhiviranje za** Office 365 Enterprise E3 i E5. Administrator mora omogućiti tu značajku prije nego što poštanski sandučić u arhivi dosegne maksimalnu veličinu. Kada je omogućeno neograničeno arhiviranje, u arhivski poštanski sandučić može biti potrebno i do 30 dana. Stoga preporučujemo da administratori provjere slobodni prostor u arhiviranom poštanskom sandučiću, što korisniku omogućuje nastavak korištenja arhivskog poštanskog sandučića dok se proširuje. Dodatne informacije potražite u članku [Pregled neograničenog arhiviranja](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) u programu Microsoft 365 omogućivanje [neograničenog arhiviranja u Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
+No Microsoft 365 omogućuje automatsko proširivanje arhiviranja za licence Office 365 Enterprise E3 i E5. To mora biti omogućeno prije nego što arhivski poštanski sandučić dosegne maksimalnu veličinu. Kada je omogućeno automatsko proširivanje arhive, u arhivski poštanski sandučić može biti potrebno i do 30 dana.
 
-Dodatne informacije o pristupu arhiviranom poštanskom sandučiću iz Outlook potražite u članku Outlook za pristup stavkama [u automatski proširenoj arhivi](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Da biste konfigurirali pravilnik o zadržavanju koji automatski premješta stavke u arhivski poštanski sandučić, pogledajte članak Postavljanje pravilnika arhiviranja i brisanja poštanskih [sandučića u Microsoft 365 tvrtki ili ustanovi](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+Dodatne informacije potražite u članku [Pregled automatskog arhiviranja](https://docs.microsoft.com/microsoft-365/compliance/autoexpanding-archiving) i [Omogućivanje automatskog proširivanja](https://docs.microsoft.com/microsoft-365/compliance/enable-autoexpanding-archiving)arhiviranja – pomoć za administratore .
 
-**Napomena:** automatsko proširivanje arhiva nije podržano za primarne poštanske sandučiće u Exchange 2010.
+Informacije o pristupu arhivi pomoću Outlook potražite u članku Outlook za pristup stavkama u [automatski proširenoj arhivi](https://docs.microsoft.com/microsoft-365/compliance/autoexpanding-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive).
+
+Informacije o konfiguriranju pravilnika o zadržavanju koji automatski premješta stavke u arhivski poštanski sandučić potražite u članku Postavljanje pravilnika arhiviranja i brisanja poštanskih sandučića [u tvrtki ili ustanovi Microsoft 365.](https://docs.microsoft.com//microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
